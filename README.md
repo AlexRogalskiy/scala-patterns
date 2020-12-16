@@ -1,2 +1,2 @@
 # scala-patterns
-Scala patterns
+Scala design patterns

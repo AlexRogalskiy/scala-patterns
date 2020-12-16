@@ -1,3 +1,3 @@
-# scala-patterns
+# Scala Patterns
 
 Scala design patterns

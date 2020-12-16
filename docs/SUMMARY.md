@@ -3,7 +3,7 @@
 * [Getting started](README.md)
 * [Contributing](contributing/README.md)
   * [Contributing](contributing/info.md)
-* [Introduction](index.md)
+* [Getting Started](index.md)
 * [User Guide](user-guide/README.md)
   * [Upgrading](user-guide/upgrade.md)
   * [Troubleshooting](user-guide/troubleshooting.md)
@@ -15,4 +15,7 @@
   * [Dependency Management](user-guide/dependency.md)
 * [Links](links/README.md)
   * [Resources](links/info.md)
+* [Units](units/README.md)
+  * [Use Cases](units/use-cases.md)
+  * [Design Patterns](units/design-patterns.md)
 

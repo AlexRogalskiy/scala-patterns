@@ -1,4 +1,4 @@
-# Getting Started
+# Introduction
 
 ## _Installation_
 

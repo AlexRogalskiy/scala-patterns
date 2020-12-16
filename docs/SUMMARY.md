@@ -1,9 +1,9 @@
 # Table of contents
 
-* [Getting started](README.md)
+* [Getting Started](README.md)
 * [Contributing](contributing/README.md)
   * [Contributing](contributing/info.md)
-* [Getting Started](index.md)
+* [Getting Started](getting-started.md)
 * [User Guide](user-guide/README.md)
   * [Upgrading](user-guide/upgrade.md)
   * [Troubleshooting](user-guide/troubleshooting.md)

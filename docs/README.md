@@ -2,7 +2,7 @@
 
 ## _Installation_
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full documentation visit [https://docs.gitbook.com/](https://docs.gitbook.com/).
 
 ## _Description_
 

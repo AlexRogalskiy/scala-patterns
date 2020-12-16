@@ -1,4 +1,4 @@
-# Use Cases
+# Scenarios
 
 ## Getting Super Powers
 

@@ -2,5 +2,5 @@
 
 ## _Useful Links and Materials_
 
-* [**Java Bean Mappers**](https://www.frank-rahn.de/java-bean-mapper/)
+* [**Scala Online Editor**](https://scalafiddle.io/)
 

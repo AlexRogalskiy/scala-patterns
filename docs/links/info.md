@@ -65,5 +65,9 @@
 * [Scalameta](https://scalameta.org/)
 * [sttp](https://sttp.softwaremill.com/en/latest/)
 {% endtab %}
+
+{% tab title="Style" %}
+* [Scala style](http://www.scalastyle.org/maven.html)
+{% endtab %}
 {% endtabs %}
 

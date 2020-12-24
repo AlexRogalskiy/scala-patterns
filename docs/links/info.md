@@ -50,6 +50,7 @@
 * [Circe](https://circe.github.io/circe/)
 * [Play JSON](https://github.com/julienrf/play-json-derived-codecs)
 * [uPickle](https://github.com/lihaoyi/upickle)
+* [Json AST](https://json4s.org/)
 {% endtab %}
 
 {% tab title="Misc" %}

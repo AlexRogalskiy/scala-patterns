@@ -15,6 +15,7 @@
 * [Scala CSS](https://japgolly.github.io/scalacss/book/)
 * [Slinky](https://slinky.dev/)
 * [Udash](https://udash.io/)
+* [Squabs](https://github.com/paypal/squbs)
 {% endtab %}
 
 {% tab title="Functional" %}

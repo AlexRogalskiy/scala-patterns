@@ -70,5 +70,9 @@
 {% tab title="Style" %}
 * [Scala style](http://www.scalastyle.org/maven.html)
 {% endtab %}
+
+{% tab title="Computing" %}
+* [Breeze](https://github.com/scalanlp/breeze)
+{% endtab %}
 {% endtabs %}
 

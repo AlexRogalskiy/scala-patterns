@@ -65,6 +65,7 @@
 * [Scalafmt](https://scalameta.org/scalafmt/)
 * [Scalameta](https://scalameta.org/)
 * [sttp](https://sttp.softwaremill.com/en/latest/)
+* [Graph](http://www.scala-graph.org/)
 {% endtab %}
 
 {% tab title="Style" %}

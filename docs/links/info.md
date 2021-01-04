@@ -3,6 +3,7 @@
 ## _Useful Links and Materials_
 
 * [**Scala Online Editor**](https://scalafiddle.io/)
+* [**Scala Style**](http://docs.scala-lang.org/style/)\*\*\*\*
 
 ## _Popular Libraries and Utilities_
 

@@ -7,6 +7,7 @@
 * \*\*\*\*[**Scala school**](http://twitter.github.io/scala_school/)\*\*\*\*
 * [**Scala official documentation**](https://docs.scala-lang.org/)\*\*\*\*
 * \*\*\*\*[**Learning Scala**](http://matt.might.net/articles/learning-scala-in-small-bites/)\*\*\*\*
+* \*\*\*\*[**Scala doc**](https://docs.scala-lang.org/)\*\*\*\*
 
 ## _Popular Libraries and Utilities_
 

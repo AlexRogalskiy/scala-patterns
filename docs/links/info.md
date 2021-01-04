@@ -4,6 +4,9 @@
 
 * [**Scala Online Editor**](https://scalafiddle.io/)
 * [**Scala Style**](http://docs.scala-lang.org/style/)\*\*\*\*
+* \*\*\*\*[**Scala school**](http://twitter.github.io/scala_school/)\*\*\*\*
+* [**Scala official documentation**](https://docs.scala-lang.org/)\*\*\*\*
+* \*\*\*\*[**Learning Scala**](http://matt.might.net/articles/learning-scala-in-small-bites/)\*\*\*\*
 
 ## _Popular Libraries and Utilities_
 

@@ -27,13 +27,16 @@
 </span>
 
 <!--ts-->
-- [☝ _Summary_](#-summary)
-- [📝 _Documentation_](#-documentation)
-- [🌹 _Authors_](#-authors)
-- [💕 _Contributing_](#-contributing)
-- [🚨 _Visitor stats_](#-visitor-stats)
-- [⚽ _Licensing_](#-licensing)
-- [🌟 _Development Support_](#-development-support)
+      * [<em>Summary</em>](#-summary)
+      * [<em>Documentation</em>](#-documentation)
+      * [<em>Authors</em>](#-authors)
+      * [<em>Contributing</em>](#-contributing)
+      * [<em>Visitor stats</em>](#-visitor-stats)
+      * [<em>Licensing</em>](#-licensing)
+      * [<em>Development Support</em>](#-development-support)
+
+<!-- Added by: runner, at: Mon Jan 25 19:52:16 UTC 2021 -->
+
 <!--te-->
 
 ## ☝ _Summary_

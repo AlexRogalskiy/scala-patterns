@@ -1,4 +1,5 @@
-#
+# Scala Design patterns
+
 <p align="center" style="text-align:center;">
 	<img src="https://github.com/AlexRogalskiy/scala-patterns/blob/main/images/banner.png" width="100%" height="60%" alt="Scala Design patterns"/>
 </p>

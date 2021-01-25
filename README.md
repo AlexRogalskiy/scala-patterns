@@ -1,4 +1,4 @@
-# <p align="center" style="text-align:center;">
+<p align="center" style="text-align:center;">
 	<img src="https://github.com/AlexRogalskiy/scala-patterns/blob/main/images/banner.png" width="100%" height="60%" alt="Scala Design patterns"/>
 </p>
 
@@ -22,12 +22,16 @@
 ![GitHub Repository branches](https://badgen.net/github/branches/AlexRogalskiy/scala-patterns)
 ![GitHub Repository dependents](https://badgen.net/github/dependents-repo/AlexRogalskiy/scala-patterns)
 
-## 🎹 Table of contents
+## 🎹 _Table of contents_
 
 <!--ts-->
-test
-<!-- Added by: runner, at: Mon Jan 25 20:00:14 UTC 2021 -->
-
+- [☝ _Summary_](#-summary)
+- [📝 _Documentation_](#-documentation)
+- [🌹 _Authors_](#-authors)
+- [💕 _Contributing_](#-contributing)
+- [🚨 _Visitor stats_](#-visitor-stats)
+- [⚽ _Licensing_](#-licensing)
+- [🌟 _Development Support_](#-development-support)
 <!--te-->
 
 ## ☝ _Summary_

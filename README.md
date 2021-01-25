@@ -22,21 +22,9 @@
 ![GitHub Repository branches](https://badgen.net/github/branches/AlexRogalskiy/scala-patterns)
 ![GitHub Repository dependents](https://badgen.net/github/dependents-repo/AlexRogalskiy/scala-patterns)
 
-<span style="font-style:italic; font-size:14em;">
-	🎹 Table of contents
-</span>
+## 🎹 Table of contents
 
 <!--ts-->
-      * [<em>Summary</em>](#-summary)
-      * [<em>Documentation</em>](#-documentation)
-      * [<em>Authors</em>](#-authors)
-      * [<em>Contributing</em>](#-contributing)
-      * [<em>Visitor stats</em>](#-visitor-stats)
-      * [<em>Licensing</em>](#-licensing)
-      * [<em>Development Support</em>](#-development-support)
-
-<!-- Added by: runner, at: Mon Jan 25 19:52:16 UTC 2021 -->
-
 <!--te-->
 
 ## ☝ _Summary_

@@ -9,7 +9,7 @@ repo_url: https://gitlab.com/AlexRogalskiy/scala-patterns
 edit_uri: https://gitlab.com/AlexRogalskiy/scala-patterns/master/docs/
 
 #Copyright (shown at the footer)
-copyright: 'Copyright &copy; 2016-2020 Nullables.io'
+copyright: 'Copyright &copy; 2021 Nullables.io'
 
 theme:
   name: material

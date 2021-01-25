@@ -22,7 +22,7 @@
 ![GitHub Repository branches](https://badgen.net/github/branches/AlexRogalskiy/scala-patterns)
 ![GitHub Repository dependents](https://badgen.net/github/dependents-repo/AlexRogalskiy/scala-patterns)
 
-## 🎹 _Table of contents_
+🎹 _Table of contents_
 
 <!--ts-->
    * [Scala Design Patterns](#scala-design-patterns)

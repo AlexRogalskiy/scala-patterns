@@ -1,5 +1,5 @@
 <p align="center" style="text-align:center;">
-	<img src="https://github.com/AlexRogalskiy/scala-patterns/blob/master/images/banner.png" width="100%" height="60%" alt="Scala Design patterns"/>
+	<img src="https://github.com/AlexRogalskiy/scala-patterns/blob/main/images/banner.png" width="100%" height="60%" alt="Scala Design patterns"/>
 </p>
 
 <p align="center">
@@ -22,21 +22,18 @@
 ![GitHub Repository branches](https://badgen.net/github/branches/AlexRogalskiy/scala-patterns)
 ![GitHub Repository dependents](https://badgen.net/github/dependents-repo/AlexRogalskiy/scala-patterns)
 
-🎹 _Table of contents_
+<span style="font-style:italic; font-size:14em;">
+	🎹 Table of contents
+</span>
 
 <!--ts-->
-   * [Scala Design Patterns](#scala-design-patterns)
-      * [<em>Table of contents</em>](#-table-of-contents)
-      * [<em>Summary</em>](#-summary)
-      * [<em>Documentation</em>](#-documentation)
-      * [<em>Authors</em>](#-authors)
-      * [<em>Contributing</em>](#-contributing)
-      * [<em>Visitor stats</em>](#-visitor-stats)
-      * [<em>Licensing</em>](#-licensing)
-      * [<em>Development Support</em>](#-development-support)
-
-<!-- Added by: runner, at: Mon Jan 25 19:04:14 UTC 2021 -->
-
+- [☝ _Summary_](#-summary)
+- [📝 _Documentation_](#-documentation)
+- [🌹 _Authors_](#-authors)
+- [💕 _Contributing_](#-contributing)
+- [🚨 _Visitor stats_](#-visitor-stats)
+- [⚽ _Licensing_](#-licensing)
+- [🌟 _Development Support_](#-development-support)
 <!--te-->
 
 ## ☝ _Summary_

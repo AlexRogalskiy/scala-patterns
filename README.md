@@ -25,8 +25,6 @@
 🎹 _Table of contents_
 
 <!--ts-->
-   * [Scala Design Patterns](#scala-design-patterns)
-      * [<em>Table of contents</em>](#-table-of-contents)
       * [<em>Summary</em>](#-summary)
       * [<em>Documentation</em>](#-documentation)
       * [<em>Authors</em>](#-authors)
@@ -35,7 +33,7 @@
       * [<em>Licensing</em>](#-licensing)
       * [<em>Development Support</em>](#-development-support)
 
-<!-- Added by: runner, at: Mon Jan 25 19:04:14 UTC 2021 -->
+<!-- Added by: runner, at: Mon Jan 25 19:45:17 UTC 2021 -->
 
 <!--te-->
 

@@ -25,6 +25,17 @@
 ## 🎹 Table of contents
 
 <!--ts-->
+      * [Table of contents](#-table-of-contents)
+      * [<em>Summary</em>](#-summary)
+      * [<em>Documentation</em>](#-documentation)
+      * [<em>Authors</em>](#-authors)
+      * [<em>Contributing</em>](#-contributing)
+      * [<em>Visitor stats</em>](#-visitor-stats)
+      * [<em>Licensing</em>](#-licensing)
+      * [<em>Development Support</em>](#-development-support)
+
+<!-- Added by: runner, at: Mon Jan 25 20:00:14 UTC 2021 -->
+
 <!--te-->
 
 ## ☝ _Summary_

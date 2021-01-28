@@ -43,12 +43,11 @@
          * [<em>InfoWorld posts</em>](#infoworld-posts)
          * [<em>RedHat posts</em>](#redhat-posts)
          * [<em>Akka posts</em>](#akka-posts)
-         * [<em>Lihaoyi posts</em>](#lihaoyi-posts)
          * [<em>Li Haoyi posts</em>](#li-haoyi-posts)
          * [<em>Scala Lang posts</em>](#scala-lang-posts)
          * [<em>Scalac posts</em>](#scalac-posts)
 
-<!-- Added by: runner, at: Thu Jan 28 18:11:22 UTC 2021 -->
+<!-- Added by: runner, at: Thu Jan 28 18:21:36 UTC 2021 -->
 
 <!--te-->
 

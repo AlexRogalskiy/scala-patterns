@@ -31,6 +31,7 @@
       * [<em>Table of contents</em>](#-table-of-contents)
       * [<em>Summary</em>](#-summary)
       * [<em>Documentation</em>](#-documentation)
+      * [<em>Versioning</em>](#-versioning)
       * [<em>Authors</em>](#-authors)
       * [<em>Contributing</em>](#-contributing)
       * [<em>Visitor stats</em>](#-visitor-stats)
@@ -47,7 +48,7 @@
          * [<em>Scala Lang posts</em>](#scala-lang-posts)
          * [<em>Scalac posts</em>](#scalac-posts)
 
-<!-- Added by: runner, at: Thu Jan 28 12:40:32 UTC 2021 -->
+<!-- Added by: runner, at: Thu Jan 28 17:06:50 UTC 2021 -->
 
 <!--te-->
 

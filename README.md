@@ -255,7 +255,7 @@ Like _**Scala Patterns**_ ? Consider buying me a coffee :\)
 - [Akka 2.6.10 Released](/blog/news/2020/10/09/akka-2.6.10-released)
 <!-- AKKA-POST-LIST:END -->
 
-### _Lihaoyi posts_
+### _Li Haoyi posts_
 
 <!-- LIHAOYI-POST-LIST:START -->
 - [Message-based Parallelism with Actors](http://www.lihaoyi.com/post/MessagebasedParallelismwithActors.html)
@@ -268,11 +268,6 @@ Like _**Scala Patterns**_ ? Consider buying me a coffee :\)
 - [Simple Web and Api Servers with Scala](http://www.lihaoyi.com/post/SimpleWebandApiServerswithScala.html)
 - [Build your own Programming Language with Scala](http://www.lihaoyi.com/post/BuildyourownProgrammingLanguagewithScala.html)
 - [Easy Parallel Programming with Scala Futures](http://www.lihaoyi.com/post/EasyParallelProgrammingwithScalaFutures.html)
-<!-- LIHAOYI-POST-LIST:END -->
-
-### _Li Haoyi posts_
-
-<!-- LIHAOYI-POST-LIST:START -->
 <!-- LIHAOYI-POST-LIST:END -->
 
 ### _Scala Lang posts_

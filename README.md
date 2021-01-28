@@ -171,3 +171,49 @@ Like _Scala Patterns_ ? Consider buying me a coffee :\)
 [![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square&logo=patreon&color=e64413)](https://www.patreon.com/alexrogalskiy)
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/AlexRogalskiy)
 [![KoFi](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=ko-fi)](https://ko-fi.com/alexrogalskiy)
+
+## 👨‍👨‍👧‍👦 _Acknowledgement_
+
+[![Stargazers repo roster for @AlexRogalskiy/scala-patterns](https://reporoster.com/stars/AlexRogalskiy/scala-patterns)](https://github.com/AlexRogalskiy/scala-patterns/stargazers)
+
+## 🔥 _Feeds and Podcasts_
+
+### _Reddit posts_
+
+<!-- REDDIT-POST-LIST:START -->
+<!-- REDDIT-POST-LIST:END -->
+
+### _InfoWorld posts_
+
+<!-- INFOWORLD-POST-LIST:START -->
+<!-- INFOWORLD-POST-LIST:END -->
+
+### _RedHat posts_
+
+<!-- REDHAT-POST-LIST:START -->
+<!-- REDHAT-POST-LIST:END -->
+
+### _Akka posts_
+
+<!-- AKKA-POST-LIST:START -->
+<!-- AKKA-POST-LIST:END -->
+
+### _Lihaoyi posts_
+
+<!-- LIHAOYI-POST-LIST:START -->
+<!-- LIHAOYI-POST-LIST:END -->
+
+### _Li Haoyi posts_
+
+<!-- LIHAOYI-POST-LIST:START -->
+<!-- LIHAOYI-POST-LIST:END -->
+
+### _Scala Lang posts_
+
+<!-- SCALALANG-POST-LIST:START -->
+<!-- SCALALANG-POST-LIST:END -->
+
+### _Scalac posts_
+
+<!-- SCALAC-POST-LIST:START -->
+<!-- SCALAC-POST-LIST:END -->

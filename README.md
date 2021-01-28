@@ -36,8 +36,18 @@
       * [<em>Visitor stats</em>](#-visitor-stats)
       * [<em>Licensing</em>](#-licensing)
       * [<em>Development Support</em>](#-development-support)
+      * [<em>Acknowledgement</em>](#-acknowledgement)
+      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+         * [<em>Reddit posts</em>](#reddit-posts)
+         * [<em>InfoWorld posts</em>](#infoworld-posts)
+         * [<em>RedHat posts</em>](#redhat-posts)
+         * [<em>Akka posts</em>](#akka-posts)
+         * [<em>Lihaoyi posts</em>](#lihaoyi-posts)
+         * [<em>Li Haoyi posts</em>](#li-haoyi-posts)
+         * [<em>Scala Lang posts</em>](#scala-lang-posts)
+         * [<em>Scalac posts</em>](#scalac-posts)
 
-<!-- Added by: runner, at: Wed Jan 27 11:11:45 UTC 2021 -->
+<!-- Added by: runner, at: Thu Jan 28 12:40:32 UTC 2021 -->
 
 <!--te-->
 

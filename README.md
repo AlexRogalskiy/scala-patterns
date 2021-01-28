@@ -258,6 +258,16 @@ Like _Scala Patterns_ ? Consider buying me a coffee :\)
 ### _Scala Lang posts_
 
 <!-- SCALALANG-POST-LIST:START -->
+- [Scala Native 0.4.0 is here!](https://www.scala-lang.org/blog/2021/01/19/scala-native-0.4-release.html)
+- [Scala 3 - Crossing the finish line](https://www.scala-lang.org/blog/2020/12/15/scala-3-crossing-the-finish-line.html)
+- [Forward Compatibility for the Scala 3 Transition](https://www.scala-lang.org/blog/2020/11/19/scala-3-forward-compat.html)
+- [BSP Support in sbt 1.4](https://www.scala-lang.org/blog/2020/10/27/bsp-in-sbt.html)
+- [Scala 3 - A community powered release](https://www.scala-lang.org/blog/2020/09/15/scala-3-the-community-powered-release.html)
+- [The Scala Center stands with Black Lives Matter](https://www.scala-lang.org/blog/2020/06/22/the-scala-center-stands-with-black-lives-matter.html)
+- [Import Suggestions in Scala 3](https://www.scala-lang.org/blog/2020/05/05/scala-3-import-suggestions.html)
+- [Scala Contributors Summit(s)](https://www.scala-lang.org/blog/2019/09/25/scala-contributors-summit.html)
+- [Keep your projects up-to-date with Scala Steward](https://www.scala-lang.org/blog/2019/07/10/announcing-scala-steward.html)
+- [News from the Scala MOOCs](https://www.scala-lang.org/blog/2019/05/21/news-from-the-scala-moocs.html)
 <!-- SCALALANG-POST-LIST:END -->
 
 ### _Scalac posts_

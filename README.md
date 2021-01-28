@@ -48,18 +48,23 @@
          * [<em>Scala Lang posts</em>](#scala-lang-posts)
          * [<em>Scalac posts</em>](#scalac-posts)
 
-<!-- Added by: runner, at: Thu Jan 28 17:06:50 UTC 2021 -->
+<!-- Added by: runner, at: Thu Jan 28 18:11:22 UTC 2021 -->
 
 <!--te-->
 
 ## ☝ _Summary_
 
-<a href="https://www.repostatus.org/#active">
-    <img src="https://img.shields.io/badge/Project%20Status-Active-brightgreen?style=for-the-badge" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." />
-</a>
-
-[![Created Badge](https://badges.pufler.dev/created/AlexRogalskiy/scala-patterns)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/AlexRogalskiy/scala-patterns)](https://badges.pufler.dev)
+<p align="center">
+	<a href="https://www.repostatus.org/#active">
+		<img src="https://img.shields.io/badge/Project%20Status-Active-brightgreen" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." />
+	</a>
+	<a href="https://badges.pufler.dev">
+		<img src="https://badges.pufler.dev/created/AlexRogalskiy/scala-patterns" alt="Project created status" />
+	</a>
+	<a href="https://badges.pufler.dev">
+		<img src="https://badges.pufler.dev/updated/AlexRogalskiy/scala-patterns" alt="Project updated status" />
+	</a>
+</p>
 
 **Scala Design Patterns** is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
 

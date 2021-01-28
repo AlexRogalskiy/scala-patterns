@@ -238,6 +238,16 @@ Like _Scala Patterns_ ? Consider buying me a coffee :\)
 ### _Lihaoyi posts_
 
 <!-- LIHAOYI-POST-LIST:START -->
+- [Message-based Parallelism with Actors](http://www.lihaoyi.com/post/MessagebasedParallelismwithActors.html)
+- [The Death of Hype: What's Next for Scala](http://www.lihaoyi.com/post/TheDeathofHypeWhatsNextforScala.html)
+- [Standardizing IO Interfaces for Scala Libraries](http://www.lihaoyi.com/post/StandardizingIOInterfacesforScalaLibraries.html)
+- [Beyond Liskov: Type Safe Equality in Scala](http://www.lihaoyi.com/post/BeyondLiskovTypeSafeEqualityinScala.html)
+- [How an Optimizing Compiler Works](http://www.lihaoyi.com/post/HowanOptimizingCompilerWorks.html)
+- [Working with Databases using Scala and Quill](http://www.lihaoyi.com/post/WorkingwithDatabasesusingScalaandQuill.html)
+- [Scraping Websites using Scala and Jsoup](http://www.lihaoyi.com/post/ScrapingWebsitesusingScalaandJsoup.html)
+- [Simple Web and Api Servers with Scala](http://www.lihaoyi.com/post/SimpleWebandApiServerswithScala.html)
+- [Build your own Programming Language with Scala](http://www.lihaoyi.com/post/BuildyourownProgrammingLanguagewithScala.html)
+- [Easy Parallel Programming with Scala Futures](http://www.lihaoyi.com/post/EasyParallelProgrammingwithScalaFutures.html)
 <!-- LIHAOYI-POST-LIST:END -->
 
 ### _Li Haoyi posts_

@@ -191,6 +191,16 @@ Like _Scala Patterns_ ? Consider buying me a coffee :\)
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Babel: Internationalization (i18n) for Scala applications](https://www.reddit.com/r/scala/comments/l6ugdn/babel_internationalization_i18n_for_scala/)
+- [I want to allow duplicate field names in json response as I don't care about those fields](https://www.reddit.com/r/scala/comments/l6su1z/i_want_to_allow_duplicate_field_names_in_json/)
+- [Running Projects with Nvim + metals](https://www.reddit.com/r/scala/comments/l6klvd/running_projects_with_nvim_metals/)
+- [Scala 2 and 3 Syntax questions](https://www.reddit.com/r/scala/comments/l5z5eo/scala_2_and_3_syntax_questions/)
+- [Part-time Scala development opportunities](https://www.reddit.com/r/scala/comments/l5obkn/parttime_scala_development_opportunities/)
+- [Featran v0.8.0-RC1 is out! - A Scala feature transformation library for data science and machine learning](https://www.reddit.com/r/scala/comments/l5nytg/featran_v080rc1_is_out_a_scala_feature/)
+- [Tail Recursive Functions (in Scala)](https://www.reddit.com/r/scala/comments/l5n5p2/tail_recursive_functions_in_scala/)
+- [Is Scala Worth Learning in 2021?](https://www.reddit.com/r/scala/comments/l5jpxc/is_scala_worth_learning_in_2021/)
+- [Programming with Functions #3 - Pattern Matching](https://www.reddit.com/r/scala/comments/l5h99z/programming_with_functions_3_pattern_matching/)
+- [Generate Sequential and Unique IDs in a Spark Dataframe using Scala](https://www.reddit.com/r/scala/comments/l5fikz/generate_sequential_and_unique_ids_in_a_spark/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

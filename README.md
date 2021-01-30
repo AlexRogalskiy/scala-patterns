@@ -13,6 +13,8 @@
   </a>
 </p>
 
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/AlexRogalskiy/scala-patterns)
+![GitHub Release Date](https://img.shields.io/github/release-date/AlexRogalskiy/scala-patterns)
 ![Lines of code](https://tokei.rs/b1/github/AlexRogalskiy/scala-patterns?category=lines)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/AlexRogalskiy/scala-patterns)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AlexRogalskiy/scala-patterns)
@@ -23,6 +25,11 @@
 ![GitHub search hit counter](https://img.shields.io/github/search/AlexRogalskiy/scala-patterns/goto)
 ![GitHub Repository branches](https://badgen.net/github/branches/AlexRogalskiy/scala-patterns)
 ![GitHub Repository dependents](https://badgen.net/github/dependents-repo/AlexRogalskiy/scala-patterns)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fscala-patterns.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fscala-patterns?ref=badge_shield)
+[![Dependabot](https://img.shields.io/badge/dependabot-enabled-1f8ceb.svg?style=flat-square)](https://dependabot.com/)
+[![NewReleases](https://newreleases.io/badge.svg)](https://newreleases.io/github/AlexRogalskiy/scala-patterns)
+[![Hits-of-Code](https://hitsofcode.com/github/AlexRogalskiy/scala-patterns)](https://hitsofcode.com/github/AlexRogalskiy/scala-patterns/view)
+[![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)](https://github.com/AlexRogalskiy/scala-patterns)
 
 ## 🎹 _Table of contents_
 
@@ -47,7 +54,7 @@
          * [<em>Scala Lang posts</em>](#scala-lang-posts)
          * [<em>Scalac posts</em>](#scalac-posts)
 
-<!-- Added by: runner, at: Fri Jan 29 21:42:42 UTC 2021 -->
+<!-- Added by: runner, at: Sat Jan 30 12:49:09 UTC 2021 -->
 
 <!--te-->
 
@@ -210,16 +217,16 @@ Like _**Scala Patterns**_ ? Consider buying me a coffee :\)
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Salary Advice](https://www.reddit.com/r/scala/comments/l85wz1/salary_advice/)
+- [Scala Cats - towards Functional programming.](https://www.reddit.com/r/scala/comments/l80mg8/scala_cats_towards_functional_programming/)
+- [Algorithms and Data Structures in Scala](https://www.reddit.com/r/scala/comments/l8046c/algorithms_and_data_structures_in_scala/)
+- [How to declare list, set and list buffer in scala ?](https://www.reddit.com/r/scala/comments/l7t6nf/how_to_declare_list_set_and_list_buffer_in_scala/)
 - [Play Framework Opinion Survey.](https://www.reddit.com/r/scala/comments/l76zcz/play_framework_opinion_survey/)
 - [Is anybody using Scala for Desktop Development?](https://www.reddit.com/r/scala/comments/l70i5r/is_anybody_using_scala_for_desktop_development/)
 - [Actual use for Scala?](https://www.reddit.com/r/scala/comments/l6zxeo/actual_use_for_scala/)
 - [Babel: Internationalization (i18n) for Scala applications](https://www.reddit.com/r/scala/comments/l6ugdn/babel_internationalization_i18n_for_scala/)
 - [I want to allow duplicate field names in json response as I don't care about those fields](https://www.reddit.com/r/scala/comments/l6su1z/i_want_to_allow_duplicate_field_names_in_json/)
 - [Running Projects with Nvim + metals](https://www.reddit.com/r/scala/comments/l6klvd/running_projects_with_nvim_metals/)
-- [Scala 2 and 3 Syntax questions](https://www.reddit.com/r/scala/comments/l5z5eo/scala_2_and_3_syntax_questions/)
-- [Part-time Scala development opportunities](https://www.reddit.com/r/scala/comments/l5obkn/parttime_scala_development_opportunities/)
-- [Featran v0.8.0-RC1 is out! - A Scala feature transformation library for data science and machine learning](https://www.reddit.com/r/scala/comments/l5nytg/featran_v080rc1_is_out_a_scala_feature/)
-- [Tail Recursive Functions (in Scala)](https://www.reddit.com/r/scala/comments/l5n5p2/tail_recursive_functions_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

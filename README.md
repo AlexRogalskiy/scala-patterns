@@ -217,6 +217,7 @@ Like _**Scala Patterns**_ ? Consider buying me a coffee :\)
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [A great resource to learn Scala from.](https://www.reddit.com/r/scala/comments/l8gctf/a_great_resource_to_learn_scala_from/)
 - [Salary Advice](https://www.reddit.com/r/scala/comments/l85wz1/salary_advice/)
 - [Scala Cats - towards Functional programming.](https://www.reddit.com/r/scala/comments/l80mg8/scala_cats_towards_functional_programming/)
 - [Algorithms and Data Structures in Scala](https://www.reddit.com/r/scala/comments/l8046c/algorithms_and_data_structures_in_scala/)
@@ -226,7 +227,6 @@ Like _**Scala Patterns**_ ? Consider buying me a coffee :\)
 - [Actual use for Scala?](https://www.reddit.com/r/scala/comments/l6zxeo/actual_use_for_scala/)
 - [Babel: Internationalization (i18n) for Scala applications](https://www.reddit.com/r/scala/comments/l6ugdn/babel_internationalization_i18n_for_scala/)
 - [I want to allow duplicate field names in json response as I don't care about those fields](https://www.reddit.com/r/scala/comments/l6su1z/i_want_to_allow_duplicate_field_names_in_json/)
-- [Running Projects with Nvim + metals](https://www.reddit.com/r/scala/comments/l6klvd/running_projects_with_nvim_metals/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

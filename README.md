@@ -28,7 +28,7 @@
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fscala-patterns.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fscala-patterns?ref=badge_shield)
 [![Dependabot](https://img.shields.io/badge/dependabot-enabled-1f8ceb.svg?style=flat-square)](https://dependabot.com/)
 [![NewReleases](https://newreleases.io/badge.svg)](https://newreleases.io/github/AlexRogalskiy/scala-patterns)
-[![Hits-of-Code](https://hitsofcode.com/github/AlexRogalskiy/scala-patterns)](https://hitsofcode.com/github/AlexRogalskiy/scala-patterns/view)
+[![Hits-of-Code](https://hitsofcode.com/github/alexrogalskiy/scala-patterns?branch=master)](https://hitsofcode.com/github/alexrogalskiy/scala-patterns?branch=master/view?branch=master)
 [![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)][repo]
 
 ## 🎹 _Table of contents_
@@ -61,21 +61,21 @@
 ## ☝ _Summary_
 
 <p align="center" style="text-align:center;">
-	<img alt="Scala" src="https://img.shields.io/badge/scala-%23DC322F.svg?logo=scala&logoColor=white"/>
-	<a href="https://www.repostatus.org/#active">
-		<img src="https://img.shields.io/badge/Project%20Status-Active-brightgreen" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." />
-	</a>
-	<a href="https://badges.pufler.dev">
-		<img src="https://badges.pufler.dev/created/AlexRogalskiy/scala-patterns" alt="Project created status" />
-	</a>
-	<a href="https://badges.pufler.dev">
-		<img src="https://badges.pufler.dev/updated/AlexRogalskiy/scala-patterns" alt="Project updated status" />
-	</a>
+    <img alt="Scala" src="https://img.shields.io/badge/scala-%23DC322F.svg?logo=scala&logoColor=white"/>
+    <a href="https://www.repostatus.org/#active">
+        <img src="https://img.shields.io/badge/Project%20Status-Active-brightgreen" alt="Project Status: Active – The project has reached a stable, usable state and is being actively developed." />
+    </a>
+    <a href="https://badges.pufler.dev">
+        <img src="https://badges.pufler.dev/created/AlexRogalskiy/scala-patterns" alt="Project created status" />
+    </a>
+    <a href="https://badges.pufler.dev">
+        <img src="https://badges.pufler.dev/updated/AlexRogalskiy/scala-patterns" alt="Project updated status" />
+    </a>
 </p>
 
 _**Scala Design Patterns**_ is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
 
-```text 
+```text
 mkdocs.yml    # Configuration file.
 docs/
     readme.md  # General information

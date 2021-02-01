@@ -217,6 +217,8 @@ Like _**Scala Patterns**_ ? Consider buying me a coffee :\)
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to build a production ready api with Http4s](https://www.reddit.com/r/scala/comments/l9lnu9/how_to_build_a_production_ready_api_with_http4s/)
+- [sbt 1.4.7 released](https://www.reddit.com/r/scala/comments/l96vtl/sbt_147_released/)
 - [A great resource to learn Scala from.](https://www.reddit.com/r/scala/comments/l8gctf/a_great_resource_to_learn_scala_from/)
 - [Salary Advice](https://www.reddit.com/r/scala/comments/l85wz1/salary_advice/)
 - [Scala Cats - towards Functional programming.](https://www.reddit.com/r/scala/comments/l80mg8/scala_cats_towards_functional_programming/)
@@ -225,8 +227,6 @@ Like _**Scala Patterns**_ ? Consider buying me a coffee :\)
 - [Play Framework Opinion Survey.](https://www.reddit.com/r/scala/comments/l76zcz/play_framework_opinion_survey/)
 - [Is anybody using Scala for Desktop Development?](https://www.reddit.com/r/scala/comments/l70i5r/is_anybody_using_scala_for_desktop_development/)
 - [Actual use for Scala?](https://www.reddit.com/r/scala/comments/l6zxeo/actual_use_for_scala/)
-- [Babel: Internationalization (i18n) for Scala applications](https://www.reddit.com/r/scala/comments/l6ugdn/babel_internationalization_i18n_for_scala/)
-- [I want to allow duplicate field names in json response as I don't care about those fields](https://www.reddit.com/r/scala/comments/l6su1z/i_want_to_allow_duplicate_field_names_in_json/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

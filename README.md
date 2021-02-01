@@ -110,7 +110,7 @@ docs/
 
 The Website documentation is provided by [gitbook](https://www.gitbook.com/) and can be discovered at url:
 
-[_**Scala Patterns**_](https://alexander-rogalsky.gitbook.io/scala-patterns/)
+[_**Scala Patterns**_][docs]
 
 To enable documentation serving at _**localhost**_ ****the following steps should be considered:
 
@@ -312,3 +312,4 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
   [wiki]:           https://github.com/AlexRogalskiy/scala-patterns/wiki
   [stars]:          https://github.com/AlexRogalskiy/scala-patterns/stargazers
   [contributors]:   https://github.com/AlexRogalskiy/scala-patterns/graphs/contributors
+  [docs]:           https://alexander-rogalsky.gitbook.io/scala-patterns/

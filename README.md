@@ -1,7 +1,7 @@
 # Scala Design patterns
 
 <p align="center" style="text-align:center;">
-	<img src="https://github.com/AlexRogalskiy/scala-patterns/blob/main/images/banner.png" width="100%" height="60%" alt="Scala Design patterns"/>
+	<img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/master/images/banner.png" width="100%" height="60%" alt="Scala Design patterns"/>
 </p>
 
 <p align="center" style="text-align:center;">

@@ -253,6 +253,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Akka posts_
 
 <!-- AKKA-POST-LIST:START -->
+- [Akka 2.6.12 Released](/blog/news/2021/01/28/akka-2.6.12-released)
 - [Akka Projections 1.1.0 Released](/blog/news/2021/01/21/akka-projection-1.1.0-released)
 - [Akka Persistence JDBC 5.0.0 Released](/blog/news/2021/01/21/akka-persistence-jdbc-5.0.0-released)
 - [Akka HTTP 10.2.3 Released](/blog/news/2021/01/18/akka-http-10.2.3-released)
@@ -262,7 +263,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [One year with Akka 2.6](/blog/news/2020/11/16/one-year-with-akka-2-6)
 - [Replicated Event Sourcing data modelling](/blog/news/2020/10/22/replicated-event-sourcing-data-modelling)
 - [Akka 2.5.32 Released](/blog/news/2020/10/16/akka-2.5.32-released)
-- [Akka 2.6.10 Released](/blog/news/2020/10/09/akka-2.6.10-released)
 <!-- AKKA-POST-LIST:END -->
 
 ### _Li Haoyi posts_

@@ -38,6 +38,7 @@
       * [<em>Table of contents</em>](#-table-of-contents)
       * [<em>Summary</em>](#-summary)
       * [<em>Documentation</em>](#-documentation)
+      * [<em>Statistics</em>](#-statistics)
       * [<em>Versioning</em>](#-versioning)
       * [<em>Authors</em>](#-authors)
       * [<em>Contributing</em>](#-contributing)
@@ -110,7 +111,7 @@ The Website documentation is provided by [gitbook](https://www.gitbook.com/) and
 
 [_**Scala Patterns**_][docs]
 
-To enable documentation serving at _**localhost**_ ****the following steps should be considered:
+To enable documentation serving at _**localhost**_ the following steps should be considered:
 
 1\) Install/upgrade _**pip**_ command-line utility:
 
@@ -157,6 +158,12 @@ mkdocs --verbose gh-deploy --force --remote-branch gh-pages
 ```
 
 5\) Open up [localhost](http://127.0.0.1:8000/) in browser to get the default documentation homepage.
+
+## ⏰ _Statistics_
+
+<p align="center" style="text-align:center;">
+    <img alt="Documentation PageSpeed result dashboard" src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/master/reports/pagespeedresultmobile.svg"/>
+</p>
 
 ## 📝 _Versioning_
 
@@ -214,16 +221,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [http4s-armeria is out with server and client support](https://www.reddit.com/r/scala/comments/lajjtj/http4sarmeria_is_out_with_server_and_client/)
+- [Is there something like jOOQ in Scala (SQL parser/query DSL/ORM)?](https://www.reddit.com/r/scala/comments/lagg24/is_there_something_like_jooq_in_scala_sql/)
+- [looking for recommendation on hands on scala function development books/resources](https://www.reddit.com/r/scala/comments/laak8c/looking_for_recommendation_on_hands_on_scala/)
+- [What resource is ideal for learning Scala and FP properly at the same time?](https://www.reddit.com/r/scala/comments/la5oyw/what_resource_is_ideal_for_learning_scala_and_fp/)
+- [This week in #Scala (Feb 1, 2021)](https://www.reddit.com/r/scala/comments/l9skep/this_week_in_scala_feb_1_2021/)
 - [How to build a production ready api with Http4s](https://www.reddit.com/r/scala/comments/l9lnu9/how_to_build_a_production_ready_api_with_http4s/)
 - [sbt 1.4.7 released](https://www.reddit.com/r/scala/comments/l96vtl/sbt_147_released/)
 - [A great resource to learn Scala from.](https://www.reddit.com/r/scala/comments/l8gctf/a_great_resource_to_learn_scala_from/)
 - [Salary Advice](https://www.reddit.com/r/scala/comments/l85wz1/salary_advice/)
 - [Scala Cats - towards Functional programming.](https://www.reddit.com/r/scala/comments/l80mg8/scala_cats_towards_functional_programming/)
-- [Algorithms and Data Structures in Scala](https://www.reddit.com/r/scala/comments/l8046c/algorithms_and_data_structures_in_scala/)
-- [How to declare list, set and list buffer in scala ?](https://www.reddit.com/r/scala/comments/l7t6nf/how_to_declare_list_set_and_list_buffer_in_scala/)
-- [Play Framework Opinion Survey.](https://www.reddit.com/r/scala/comments/l76zcz/play_framework_opinion_survey/)
-- [Is anybody using Scala for Desktop Development?](https://www.reddit.com/r/scala/comments/l70i5r/is_anybody_using_scala_for_desktop_development/)
-- [Actual use for Scala?](https://www.reddit.com/r/scala/comments/l6zxeo/actual_use_for_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_
@@ -246,6 +253,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Akka posts_
 
 <!-- AKKA-POST-LIST:START -->
+- [Akka 2.6.12 Released](/blog/news/2021/01/28/akka-2.6.12-released)
 - [Akka Projections 1.1.0 Released](/blog/news/2021/01/21/akka-projection-1.1.0-released)
 - [Akka Persistence JDBC 5.0.0 Released](/blog/news/2021/01/21/akka-persistence-jdbc-5.0.0-released)
 - [Akka HTTP 10.2.3 Released](/blog/news/2021/01/18/akka-http-10.2.3-released)
@@ -255,7 +263,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [One year with Akka 2.6](/blog/news/2020/11/16/one-year-with-akka-2-6)
 - [Replicated Event Sourcing data modelling](/blog/news/2020/10/22/replicated-event-sourcing-data-modelling)
 - [Akka 2.5.32 Released](/blog/news/2020/10/16/akka-2.5.32-released)
-- [Akka 2.6.10 Released](/blog/news/2020/10/09/akka-2.6.10-released)
 <!-- AKKA-POST-LIST:END -->
 
 ### _Li Haoyi posts_

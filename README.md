@@ -221,6 +221,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [A Metals Retrospective (Part 1) - A look into the year-end survey results.](https://www.reddit.com/r/scala/comments/lb4y4g/a_metals_retrospective_part_1_a_look_into_the/)
+- [Value classes in Kotlin. Any language nerds have opinions?](https://www.reddit.com/r/scala/comments/launwv/value_classes_in_kotlin_any_language_nerds_have/)
 - [http4s-armeria is out with server and client support](https://www.reddit.com/r/scala/comments/lajjtj/http4sarmeria_is_out_with_server_and_client/)
 - [Is there something like jOOQ in Scala (SQL parser/query DSL/ORM)?](https://www.reddit.com/r/scala/comments/lagg24/is_there_something_like_jooq_in_scala_sql/)
 - [looking for recommendation on hands on scala function development books/resources](https://www.reddit.com/r/scala/comments/laak8c/looking_for_recommendation_on_hands_on_scala/)
@@ -229,8 +231,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [How to build a production ready api with Http4s](https://www.reddit.com/r/scala/comments/l9lnu9/how_to_build_a_production_ready_api_with_http4s/)
 - [sbt 1.4.7 released](https://www.reddit.com/r/scala/comments/l96vtl/sbt_147_released/)
 - [A great resource to learn Scala from.](https://www.reddit.com/r/scala/comments/l8gctf/a_great_resource_to_learn_scala_from/)
-- [Salary Advice](https://www.reddit.com/r/scala/comments/l85wz1/salary_advice/)
-- [Scala Cats - towards Functional programming.](https://www.reddit.com/r/scala/comments/l80mg8/scala_cats_towards_functional_programming/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

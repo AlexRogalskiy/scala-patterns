@@ -298,6 +298,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Scalac posts_
 
 <!-- SCALAC-POST-LIST:START -->
+- [Introducción a la Programación con Efectos Funcionales usando ZIO](https://scalac.io/introduccion-a-la-programacion-con-efectos-funcionales-usando-zio/)
+- [Introduction to Programming with ZIO Functional Effects](https://scalac.io/introduction-to-programming-with-zio-functional-effects/)
 - [The Top Scalac’s Posts of 2020](https://scalac.io/the-top-scalacs-posts-of-2020/)
 - [Why Developers Should Pay Attention to ZIO in 2021](https://scalac.io/why-developers-should-pay-attention-to-zio-in-2021/)
 - [Build your own Kafka in ZIO – Queues & Fibers](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
@@ -306,8 +308,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [What Is Headless Shopify, and Why You Should Try It?](https://scalac.io/building-headless-shopify/)
 - [There is More To Akka-typed Than Meets the Eye](https://scalac.io/akka-typed/)
 - [How to achieve your goals by creating good habits instead of setting milestones](https://scalac.io/create-habits-not-milestones/)
-- [A bite of functional programming (in Scala)](https://scalac.io/functional-programming-in-scala/)
-- [Announcing an exciting partnership with Ziverge. The time for Scala and ZIO is now.](https://scalac.io/scalac-ziverge-partnership-announcement/)
 <!-- SCALAC-POST-LIST:END -->
 
   [repo]:           https://github.com/AlexRogalskiy/scala-patterns

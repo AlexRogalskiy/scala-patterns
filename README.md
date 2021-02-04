@@ -221,16 +221,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Learning Spark Scala: I'm a medium Python Data Engineer with some experience in Java. I have to learn "enough" Scala to be at ease with Spark's Scala API. I have three weeks. Where should I start ?](https://www.reddit.com/r/scala/comments/lc1biq/learning_spark_scala_im_a_medium_python_data/)
+- [Got free time and want a challenge? (Game development)](https://www.reddit.com/r/scala/comments/lbz3t6/got_free_time_and_want_a_challenge_game/)
+- [A little program to generate a case class from a javabean with conversions (very rough)](https://www.reddit.com/r/scala/comments/lbz1vv/a_little_program_to_generate_a_case_class_from_a/)
+- [select array of dates with a condition](https://www.reddit.com/r/scala/comments/lbrk9l/select_array_of_dates_with_a_condition/)
+- [Match Types in Scala 3](https://www.reddit.com/r/scala/comments/lbpxxw/match_types_in_scala_3/)
+- [What do you think about the new Scala 3 syntax?](https://www.reddit.com/r/scala/comments/lbezma/what_do_you_think_about_the_new_scala_3_syntax/)
 - [A Metals Retrospective (Part 1) - A look into the year-end survey results.](https://www.reddit.com/r/scala/comments/lb4y4g/a_metals_retrospective_part_1_a_look_into_the/)
 - [Value classes in Kotlin. Any language nerds have opinions?](https://www.reddit.com/r/scala/comments/launwv/value_classes_in_kotlin_any_language_nerds_have/)
 - [http4s-armeria is out with server and client support](https://www.reddit.com/r/scala/comments/lajjtj/http4sarmeria_is_out_with_server_and_client/)
 - [Is there something like jOOQ in Scala (SQL parser/query DSL/ORM)?](https://www.reddit.com/r/scala/comments/lagg24/is_there_something_like_jooq_in_scala_sql/)
-- [looking for recommendation on hands on scala function development books/resources](https://www.reddit.com/r/scala/comments/laak8c/looking_for_recommendation_on_hands_on_scala/)
-- [What resource is ideal for learning Scala and FP properly at the same time?](https://www.reddit.com/r/scala/comments/la5oyw/what_resource_is_ideal_for_learning_scala_and_fp/)
-- [This week in #Scala (Feb 1, 2021)](https://www.reddit.com/r/scala/comments/l9skep/this_week_in_scala_feb_1_2021/)
-- [How to build a production ready api with Http4s](https://www.reddit.com/r/scala/comments/l9lnu9/how_to_build_a_production_ready_api_with_http4s/)
-- [sbt 1.4.7 released](https://www.reddit.com/r/scala/comments/l96vtl/sbt_147_released/)
-- [A great resource to learn Scala from.](https://www.reddit.com/r/scala/comments/l8gctf/a_great_resource_to_learn_scala_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

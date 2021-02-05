@@ -221,6 +221,9 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Pure AWS TF algebras](https://www.reddit.com/r/scala/comments/lcujjt/pure_aws_tf_algebras/)
+- [How to improve scala skills](https://www.reddit.com/r/scala/comments/lcq3ep/how_to_improve_scala_skills/)
+- [how to assign null (scala equivalent) to member of a long type ?](https://www.reddit.com/r/scala/comments/lc87s5/how_to_assign_null_scala_equivalent_to_member_of/)
 - [Learning Spark Scala: I'm a medium Python Data Engineer with some experience in Java. I have to learn "enough" Scala to be at ease with Spark's Scala API. I have three weeks. Where should I start ?](https://www.reddit.com/r/scala/comments/lc1biq/learning_spark_scala_im_a_medium_python_data/)
 - [Got free time and want a challenge? (Game development)](https://www.reddit.com/r/scala/comments/lbz3t6/got_free_time_and_want_a_challenge_game/)
 - [A little program to generate a case class from a javabean with conversions (very rough)](https://www.reddit.com/r/scala/comments/lbz1vv/a_little_program_to_generate_a_case_class_from_a/)
@@ -228,9 +231,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [Match Types in Scala 3](https://www.reddit.com/r/scala/comments/lbpxxw/match_types_in_scala_3/)
 - [What do you think about the new Scala 3 syntax?](https://www.reddit.com/r/scala/comments/lbezma/what_do_you_think_about_the_new_scala_3_syntax/)
 - [A Metals Retrospective (Part 1) - A look into the year-end survey results.](https://www.reddit.com/r/scala/comments/lb4y4g/a_metals_retrospective_part_1_a_look_into_the/)
-- [Value classes in Kotlin. Any language nerds have opinions?](https://www.reddit.com/r/scala/comments/launwv/value_classes_in_kotlin_any_language_nerds_have/)
-- [http4s-armeria is out with server and client support](https://www.reddit.com/r/scala/comments/lajjtj/http4sarmeria_is_out_with_server_and_client/)
-- [Is there something like jOOQ in Scala (SQL parser/query DSL/ORM)?](https://www.reddit.com/r/scala/comments/lagg24/is_there_something_like_jooq_in_scala_sql/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -224,16 +224,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does anyone know if you can still install Zeppelin through brew on Mac?](https://www.reddit.com/r/scala/comments/ldlsd6/does_anyone_know_if_you_can_still_install/)
+- [Why does a Monad consist of pure and flatMap?](https://www.reddit.com/r/scala/comments/ldjc7q/why_does_a_monad_consist_of_pure_and_flatmap/)
+- [java.lang.object cannot be cast to java.lang.string. Is this being caused by Type Erasure?](https://www.reddit.com/r/scala/comments/ldepu0/javalangobject_cannot_be_cast_to_javalangstring/)
+- [Error composition with Shapeless coproducts](https://www.reddit.com/r/scala/comments/ld1gmz/error_composition_with_shapeless_coproducts/)
 - [Pure AWS TF algebras](https://www.reddit.com/r/scala/comments/lcujjt/pure_aws_tf_algebras/)
 - [How to improve scala skills](https://www.reddit.com/r/scala/comments/lcq3ep/how_to_improve_scala_skills/)
 - [how to assign null (scala equivalent) to member of a long type ?](https://www.reddit.com/r/scala/comments/lc87s5/how_to_assign_null_scala_equivalent_to_member_of/)
 - [Learning Spark Scala: I'm a medium Python Data Engineer with some experience in Java. I have to learn "enough" Scala to be at ease with Spark's Scala API. I have three weeks. Where should I start ?](https://www.reddit.com/r/scala/comments/lc1biq/learning_spark_scala_im_a_medium_python_data/)
 - [Got free time and want a challenge? (Game development)](https://www.reddit.com/r/scala/comments/lbz3t6/got_free_time_and_want_a_challenge_game/)
 - [A little program to generate a case class from a javabean with conversions (very rough)](https://www.reddit.com/r/scala/comments/lbz1vv/a_little_program_to_generate_a_case_class_from_a/)
-- [select array of dates with a condition](https://www.reddit.com/r/scala/comments/lbrk9l/select_array_of_dates_with_a_condition/)
-- [Match Types in Scala 3](https://www.reddit.com/r/scala/comments/lbpxxw/match_types_in_scala_3/)
-- [What do you think about the new Scala 3 syntax?](https://www.reddit.com/r/scala/comments/lbezma/what_do_you_think_about_the_new_scala_3_syntax/)
-- [A Metals Retrospective (Part 1) - A look into the year-end survey results.](https://www.reddit.com/r/scala/comments/lb4y4g/a_metals_retrospective_part_1_a_look_into_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

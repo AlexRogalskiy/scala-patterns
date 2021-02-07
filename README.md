@@ -219,6 +219,12 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 
 [![Stargazers repo roster for @AlexRogalskiy/scala-patterns](https://reporoster.com/stars/AlexRogalskiy/scala-patterns)][stars]
 
+## 📎 _OpenGraph Card_
+
+<p align="center" style="text-align:center;">
+    <img alt="OpenGraph card" src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/master/images/opengraph-card.png"/>
+</p>
+
 ## 🔥 _Feeds and Podcasts_
 
 ### _Reddit posts_

@@ -231,16 +231,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [git bisecting scala/scala](https://www.reddit.com/r/scala/comments/le1f6x/git_bisecting_scalascala/)
-- [Is it wrong to use Gradle for Scala?](https://www.reddit.com/r/scala/comments/ldznka/is_it_wrong_to_use_gradle_for_scala/)
-- [ZIO Scala](https://www.reddit.com/r/scala/comments/ldw6sg/zio_scala/)
-- [Learning Scala](https://www.reddit.com/r/scala/comments/ldoasu/learning_scala/)
-- [Does anyone know if you can still install Zeppelin through brew on Mac?](https://www.reddit.com/r/scala/comments/ldlsd6/does_anyone_know_if_you_can_still_install/)
-- [Why does a Monad consist of pure and flatMap?](https://www.reddit.com/r/scala/comments/ldjc7q/why_does_a_monad_consist_of_pure_and_flatmap/)
-- [java.lang.object cannot be cast to java.lang.string. Is this being caused by Type Erasure?](https://www.reddit.com/r/scala/comments/ldepu0/javalangobject_cannot_be_cast_to_javalangstring/)
-- [Error composition with Shapeless coproducts](https://www.reddit.com/r/scala/comments/ld1gmz/error_composition_with_shapeless_coproducts/)
-- [Pure AWS TF algebras](https://www.reddit.com/r/scala/comments/lcujjt/pure_aws_tf_algebras/)
-- [How to improve scala skills](https://www.reddit.com/r/scala/comments/lcq3ep/how_to_improve_scala_skills/)
+- [Shapeless & Circe - missing encoder while using generics](https://www.reddit.com/r/scala/comments/ley9ie/shapeless_circe_missing_encoder_while_using/)
+- [Anyone having trouble with using Specs2?](https://www.reddit.com/r/scala/comments/lewaju/anyone_having_trouble_with_using_specs2/)
+- [I’m really struggling with testing using Scalatest.](https://www.reddit.com/r/scala/comments/letlze/im_really_struggling_with_testing_using_scalatest/)
+- [Introducing Grist, an innovative new Scala Build Tool](https://www.reddit.com/r/scala/comments/let6jj/introducing_grist_an_innovative_new_scala_build/)
+- [Sane Scala Dependencies in a Poly-Repo Codebase](https://www.reddit.com/r/scala/comments/les6ij/sane_scala_dependencies_in_a_polyrepo_codebase/)
+- [From First Principles: Why Scala?](https://www.reddit.com/r/scala/comments/lerd3t/from_first_principles_why_scala/)
+- [Whats the best way to get an element of a List at a certain index?](https://www.reddit.com/r/scala/comments/leqav8/whats_the_best_way_to_get_an_element_of_a_list_at/)
+- [Scala exercises and practicing resources](https://www.reddit.com/r/scala/comments/leo0pf/scala_exercises_and_practicing_resources/)
+- [Remove and update multiple fields in Shapeless](https://www.reddit.com/r/scala/comments/lenktb/remove_and_update_multiple_fields_in_shapeless/)
+- [Pure Functional Stream processing in Scala: Cats and Akka – Part 1](https://www.reddit.com/r/scala/comments/lekc2k/pure_functional_stream_processing_in_scala_cats/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

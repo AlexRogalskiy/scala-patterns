@@ -231,16 +231,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [make-it-g8 revisited, create and update .g8 templates without effort](https://www.reddit.com/r/scala/comments/lgh9h7/makeitg8_revisited_create_and_update_g8_templates/)
+- [Programming with Functions #4 - unapply and newtype](https://www.reddit.com/r/scala/comments/lg6ppi/programming_with_functions_4_unapply_and_newtype/)
+- [How do you continue to learn once you've been a developer for a few years, I want to become a strong Mid Level developer by the end of this year](https://www.reddit.com/r/scala/comments/lg6n0q/how_do_you_continue_to_learn_once_youve_been_a/)
+- [How to generate random data for tests](https://www.reddit.com/r/scala/comments/lg0z1g/how_to_generate_random_data_for_tests/)
+- [How much thought, time and energy do you spend on building your GitHub profile?](https://www.reddit.com/r/scala/comments/lfxup1/how_much_thought_time_and_energy_do_you_spend_on/)
+- [Implement map, flatten, flatMap for Node](https://www.reddit.com/r/scala/comments/lfujee/implement_map_flatten_flatmap_for_node/)
 - [Bitcoin-s 0.5.0 released](https://www.reddit.com/r/scala/comments/lfjbvb/bitcoins_050_released/)
 - [Idiomatic Error Handling in Scala](https://www.reddit.com/r/scala/comments/lff1qq/idiomatic_error_handling_in_scala/)
 - [Learning Scala](https://www.reddit.com/r/scala/comments/lfesam/learning_scala/)
 - [functional programming libraries in scala (zio, cats, scalaz, ...)](https://www.reddit.com/r/scala/comments/lfenpt/functional_programming_libraries_in_scala_zio/)
-- [Alternative to RxJava/RxScala](https://www.reddit.com/r/scala/comments/lfde01/alternative_to_rxjavarxscala/)
-- [Does anyone here (intentionally) use Scala without an effects library such as Cats or ZIO? Or without going "full Haskell"?](https://www.reddit.com/r/scala/comments/lfbjcf/does_anyone_here_intentionally_use_scala_without/)
-- [This week in #Scala (Feb 8, 2021)](https://www.reddit.com/r/scala/comments/lfbcce/this_week_in_scala_feb_8_2021/)
-- [Shapeless & Circe - missing encoder while using generics](https://www.reddit.com/r/scala/comments/ley9ie/shapeless_circe_missing_encoder_while_using/)
-- [Anyone having trouble with using Specs2?](https://www.reddit.com/r/scala/comments/lewaju/anyone_having_trouble_with_using_specs2/)
-- [I’m really struggling with testing using Scalatest.](https://www.reddit.com/r/scala/comments/letlze/im_really_struggling_with_testing_using_scalatest/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

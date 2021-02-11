@@ -231,6 +231,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Learning Scala: 'a += if (true) 123 else 345' VS ' a += (if (true) 123 else 345)'](https://www.reddit.com/r/scala/comments/lh86wb/learning_scala_a_if_true_123_else_345_vs_a_if/)
+- [How to Learn Scala](https://www.reddit.com/r/scala/comments/lgriju/how_to_learn_scala/)
 - [make-it-g8 revisited, create and update .g8 templates without effort](https://www.reddit.com/r/scala/comments/lgh9h7/makeitg8_revisited_create_and_update_g8_templates/)
 - [Programming with Functions #4 - unapply and newtype](https://www.reddit.com/r/scala/comments/lg6ppi/programming_with_functions_4_unapply_and_newtype/)
 - [How do you continue to learn once you've been a developer for a few years, I want to become a strong Mid Level developer by the end of this year](https://www.reddit.com/r/scala/comments/lg6n0q/how_do_you_continue_to_learn_once_youve_been_a/)
@@ -239,8 +241,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [Implement map, flatten, flatMap for Node](https://www.reddit.com/r/scala/comments/lfujee/implement_map_flatten_flatmap_for_node/)
 - [Bitcoin-s 0.5.0 released](https://www.reddit.com/r/scala/comments/lfjbvb/bitcoins_050_released/)
 - [Idiomatic Error Handling in Scala](https://www.reddit.com/r/scala/comments/lff1qq/idiomatic_error_handling_in_scala/)
-- [Learning Scala](https://www.reddit.com/r/scala/comments/lfesam/learning_scala/)
-- [functional programming libraries in scala (zio, cats, scalaz, ...)](https://www.reddit.com/r/scala/comments/lfenpt/functional_programming_libraries_in_scala_zio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

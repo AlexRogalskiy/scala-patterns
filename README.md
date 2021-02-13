@@ -231,16 +231,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala job writing software to assist SoC development team](https://www.reddit.com/r/scala/comments/liopjp/scala_job_writing_software_to_assist_soc/)
+- [What's the fastest way to create Javascript Types in Scala.js?](https://www.reddit.com/r/scala/comments/lihk5w/whats_the_fastest_way_to_create_javascript_types/)
+- [Urgently HIRING! 15-20 Developers.](https://www.reddit.com/r/scala/comments/ligemr/urgently_hiring_1520_developers/)
+- [Scala's List has a Secret](https://www.reddit.com/r/scala/comments/li9mds/scalas_list_has_a_secret/)
+- [Which is best resource /book that you suggest to learn scala play with gradle?](https://www.reddit.com/r/scala/comments/li4nn2/which_is_best_resource_book_that_you_suggest_to/)
+- [Partner Up for Learning](https://www.reddit.com/r/scala/comments/li1q8d/partner_up_for_learning/)
 - [what book or articles on the actor model does Scala's implementation follow closely?](https://www.reddit.com/r/scala/comments/lhm89h/what_book_or_articles_on_the_actor_model_does/)
 - [Confused over current role of bloop with sbt/bsp support](https://www.reddit.com/r/scala/comments/lhgkdc/confused_over_current_role_of_bloop_with_sbtbsp/)
 - [Image editing with Applicative](https://www.reddit.com/r/scala/comments/lherzj/image_editing_with_applicative/)
 - [Learning Scala: 'a += if (true) 123 else 345' VS ' a += (if (true) 123 else 345)'](https://www.reddit.com/r/scala/comments/lh86wb/learning_scala_a_if_true_123_else_345_vs_a_if/)
-- [How to Learn Scala](https://www.reddit.com/r/scala/comments/lgriju/how_to_learn_scala/)
-- [make-it-g8 revisited, create and update .g8 templates without effort](https://www.reddit.com/r/scala/comments/lgh9h7/makeitg8_revisited_create_and_update_g8_templates/)
-- [Programming with Functions #4 - unapply and newtype](https://www.reddit.com/r/scala/comments/lg6ppi/programming_with_functions_4_unapply_and_newtype/)
-- [How do you continue to learn once you've been a developer for a few years, I want to become a strong Mid Level developer by the end of this year](https://www.reddit.com/r/scala/comments/lg6n0q/how_do_you_continue_to_learn_once_youve_been_a/)
-- [How to generate random data for tests](https://www.reddit.com/r/scala/comments/lg0z1g/how_to_generate_random_data_for_tests/)
-- [How much thought, time and energy do you spend on building your GitHub profile?](https://www.reddit.com/r/scala/comments/lfxup1/how_much_thought_time_and_energy_do_you_spend_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

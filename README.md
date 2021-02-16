@@ -231,16 +231,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [SBT Question: choosing string based on scala version](https://www.reddit.com/r/scala/comments/lkpxbn/sbt_question_choosing_string_based_on_scala/)
+- [Any tips on how to deal with large files caused by sealed traits?](https://www.reddit.com/r/scala/comments/lkn2ma/any_tips_on_how_to_deal_with_large_files_caused/)
+- [A list of 40+ useful resources for learning Scala](https://www.reddit.com/r/scala/comments/lki8v2/a_list_of_40_useful_resources_for_learning_scala/)
+- [Fast JSON in Scala 3 with Typeclass Derivation](https://www.reddit.com/r/scala/comments/lkghtb/fast_json_in_scala_3_with_typeclass_derivation/)
+- [This week in #Scala (Feb 15, 2021)](https://www.reddit.com/r/scala/comments/lkg1f3/this_week_in_scala_feb_15_2021/)
 - [Compiling/testing Jupyter notebook code with sbt?](https://www.reddit.com/r/scala/comments/lk0q71/compilingtesting_jupyter_notebook_code_with_sbt/)
 - [Scala native support for scala library](https://www.reddit.com/r/scala/comments/ljwauu/scala_native_support_for_scala_library/)
 - [Scala job writing software to assist SoC development team](https://www.reddit.com/r/scala/comments/liopjp/scala_job_writing_software_to_assist_soc/)
 - [What's the fastest way to create Javascript Types in Scala.js?](https://www.reddit.com/r/scala/comments/lihk5w/whats_the_fastest_way_to_create_javascript_types/)
 - [Urgently HIRING! 15-20 Developers.](https://www.reddit.com/r/scala/comments/ligemr/urgently_hiring_1520_developers/)
-- [Scala's List has a Secret](https://www.reddit.com/r/scala/comments/li9mds/scalas_list_has_a_secret/)
-- [Which is best resource /book that you suggest to learn scala play with gradle?](https://www.reddit.com/r/scala/comments/li4nn2/which_is_best_resource_book_that_you_suggest_to/)
-- [Partner Up for Learning](https://www.reddit.com/r/scala/comments/li1q8d/partner_up_for_learning/)
-- [what book or articles on the actor model does Scala's implementation follow closely?](https://www.reddit.com/r/scala/comments/lhm89h/what_book_or_articles_on_the_actor_model_does/)
-- [Confused over current role of bloop with sbt/bsp support](https://www.reddit.com/r/scala/comments/lhgkdc/confused_over_current_role_of_bloop_with_sbtbsp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -231,16 +231,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Jam - miniature DI library](https://www.reddit.com/r/scala/comments/llfbdy/jam_miniature_di_library/)
+- [Can't get sbt 1.4.x to work](https://www.reddit.com/r/scala/comments/lldreh/cant_get_sbt_14x_to_work/)
+- [Scala + Scala.js + ZIO company looking for a Remote Senior Dev - Cannabis Industry - Fully Remote Team](https://www.reddit.com/r/scala/comments/lldbmv/scala_scalajs_zio_company_looking_for_a_remote/)
+- [Scala learning track](https://www.reddit.com/r/scala/comments/ll4vo5/scala_learning_track/)
+- [Freelancer Contract Salary As Backend Scala developer](https://www.reddit.com/r/scala/comments/ll0nwx/freelancer_contract_salary_as_backend_scala/)
+- [Cats scala](https://www.reddit.com/r/scala/comments/lkzuup/cats_scala/)
+- [Example of building web apis (functionally) in Scala](https://www.reddit.com/r/scala/comments/lkyl0h/example_of_building_web_apis_functionally_in_scala/)
+- [syntactic Scalafix rule for unified slash syntax](https://www.reddit.com/r/scala/comments/lkw99p/syntactic_scalafix_rule_for_unified_slash_syntax/)
 - [SBT Question: choosing string based on scala version](https://www.reddit.com/r/scala/comments/lkpxbn/sbt_question_choosing_string_based_on_scala/)
 - [Any tips on how to deal with large files caused by sealed traits?](https://www.reddit.com/r/scala/comments/lkn2ma/any_tips_on_how_to_deal_with_large_files_caused/)
-- [A list of 40+ useful resources for learning Scala](https://www.reddit.com/r/scala/comments/lki8v2/a_list_of_40_useful_resources_for_learning_scala/)
-- [Fast JSON in Scala 3 with Typeclass Derivation](https://www.reddit.com/r/scala/comments/lkghtb/fast_json_in_scala_3_with_typeclass_derivation/)
-- [This week in #Scala (Feb 15, 2021)](https://www.reddit.com/r/scala/comments/lkg1f3/this_week_in_scala_feb_15_2021/)
-- [Compiling/testing Jupyter notebook code with sbt?](https://www.reddit.com/r/scala/comments/lk0q71/compilingtesting_jupyter_notebook_code_with_sbt/)
-- [Scala native support for scala library](https://www.reddit.com/r/scala/comments/ljwauu/scala_native_support_for_scala_library/)
-- [Scala job writing software to assist SoC development team](https://www.reddit.com/r/scala/comments/liopjp/scala_job_writing_software_to_assist_soc/)
-- [What's the fastest way to create Javascript Types in Scala.js?](https://www.reddit.com/r/scala/comments/lihk5w/whats_the_fastest_way_to_create_javascript_types/)
-- [Urgently HIRING! 15-20 Developers.](https://www.reddit.com/r/scala/comments/ligemr/urgently_hiring_1520_developers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

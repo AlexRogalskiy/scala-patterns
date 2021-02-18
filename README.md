@@ -237,16 +237,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Preventing version conflicts with versionScheme (improving the Scala library ecosystem)](https://www.reddit.com/r/scala/comments/lm4za8/preventing_version_conflicts_with_versionscheme/)
+- [is inlining every function and variable bad?](https://www.reddit.com/r/scala/comments/lm1uik/is_inlining_every_function_and_variable_bad/)
+- [Upgrade your Tagless Final with Tofu](https://www.reddit.com/r/scala/comments/llu0jf/upgrade_your_tagless_final_with_tofu/)
+- [Typelevel Projects naming](https://www.reddit.com/r/scala/comments/llrgcr/typelevel_projects_naming/)
 - [Jam - miniature DI library](https://www.reddit.com/r/scala/comments/llfbdy/jam_miniature_di_library/)
 - [Can't get sbt 1.4.x to work](https://www.reddit.com/r/scala/comments/lldreh/cant_get_sbt_14x_to_work/)
 - [Scala + Scala.js + ZIO company looking for a Remote Senior Dev - Cannabis Industry - Fully Remote Team](https://www.reddit.com/r/scala/comments/lldbmv/scala_scalajs_zio_company_looking_for_a_remote/)
 - [Scala learning track](https://www.reddit.com/r/scala/comments/ll4vo5/scala_learning_track/)
 - [Freelancer Contract Salary As Backend Scala developer](https://www.reddit.com/r/scala/comments/ll0nwx/freelancer_contract_salary_as_backend_scala/)
 - [Cats scala](https://www.reddit.com/r/scala/comments/lkzuup/cats_scala/)
-- [Example of building web apis (functionally) in Scala](https://www.reddit.com/r/scala/comments/lkyl0h/example_of_building_web_apis_functionally_in_scala/)
-- [syntactic Scalafix rule for unified slash syntax](https://www.reddit.com/r/scala/comments/lkw99p/syntactic_scalafix_rule_for_unified_slash_syntax/)
-- [SBT Question: choosing string based on scala version](https://www.reddit.com/r/scala/comments/lkpxbn/sbt_question_choosing_string_based_on_scala/)
-- [Any tips on how to deal with large files caused by sealed traits?](https://www.reddit.com/r/scala/comments/lkn2ma/any_tips_on_how_to_deal_with_large_files_caused/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

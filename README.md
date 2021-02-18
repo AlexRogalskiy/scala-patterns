@@ -34,6 +34,7 @@
 [![NewReleases](https://newreleases.io/badge.svg)](https://newreleases.io/github/AlexRogalskiy/scala-patterns)
 [![Hits-of-Code](https://hitsofcode.com/github/alexrogalskiy/scala-patterns?branch=master)](https://hitsofcode.com/github/alexrogalskiy/scala-patterns?branch=master/view?branch=master)
 [![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)][repo]
+[![GitHub Super-Linter](https://github.com/alexrogalskiy/scala-patterns/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
 ## 🎹 _Table of contents_
 

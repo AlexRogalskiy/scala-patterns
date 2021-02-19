@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [This Is Your App on Scala 3 by John A. De Goes](https://www.reddit.com/r/scala/comments/lmmi5m/this_is_your_app_on_scala_3_by_john_a_de_goes/)
+- [Scala debug in emacs](https://www.reddit.com/r/scala/comments/lmfuwa/scala_debug_in_emacs/)
 - [Preventing version conflicts with versionScheme (improving the Scala library ecosystem)](https://www.reddit.com/r/scala/comments/lm4za8/preventing_version_conflicts_with_versionscheme/)
 - [is inlining every function and variable bad?](https://www.reddit.com/r/scala/comments/lm1uik/is_inlining_every_function_and_variable_bad/)
 - [Upgrade your Tagless Final with Tofu](https://www.reddit.com/r/scala/comments/llu0jf/upgrade_your_tagless_final_with_tofu/)
 - [Typelevel Projects naming](https://www.reddit.com/r/scala/comments/llrgcr/typelevel_projects_naming/)
 - [Jam - miniature DI library](https://www.reddit.com/r/scala/comments/llfbdy/jam_miniature_di_library/)
-- [Can't get sbt 1.4.x to work](https://www.reddit.com/r/scala/comments/lldreh/cant_get_sbt_14x_to_work/)
 - [Scala + Scala.js + ZIO company looking for a Remote Senior Dev - Cannabis Industry - Fully Remote Team](https://www.reddit.com/r/scala/comments/lldbmv/scala_scalajs_zio_company_looking_for_a_remote/)
 - [Scala learning track](https://www.reddit.com/r/scala/comments/ll4vo5/scala_learning_track/)
 - [Freelancer Contract Salary As Backend Scala developer](https://www.reddit.com/r/scala/comments/ll0nwx/freelancer_contract_salary_as_backend_scala/)
-- [Cats scala](https://www.reddit.com/r/scala/comments/lkzuup/cats_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

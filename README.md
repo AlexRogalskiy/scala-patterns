@@ -317,6 +317,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 
 <!-- SCALAC-POST-LIST:START -->
 - [Scala 3 / Dotty – Facts and Opinions. What do we expect?](https://scalac.io/scala-3-dotty-facts-opinions/)
+- [Hadoop vs Spark: What’s the difference?](https://scalac.io/hadoop-vs-spark-whats-the-difference/)
 - [Streaming microservices with ZIO and Kafka](https://scalac.io/streaming-microservices-with-zio-and-kafka/)
 - [Introducción a la Programación con Efectos Funcionales usando ZIO](https://scalac.io/introduccion-a-la-programacion-con-efectos-funcionales-usando-zio/)
 - [Introduction to Programming with ZIO Functional Effects](https://scalac.io/introduction-to-programming-with-zio-functional-effects/)
@@ -325,7 +326,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [Build your own Kafka in ZIO – Queues & Fibers](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
 - [Best Practices for Upskilling Your Software Development Team](https://scalac.io/upskilling-software-development-team/)
 - [Polish devs: the best value for money in software development outsourcing. Why?](https://scalac.io/best-value-for-money-software-development-outsourcing/)
-- [What Is Headless Shopify, and Why You Should Try It?](https://scalac.io/building-headless-shopify/)
 <!-- SCALAC-POST-LIST:END -->
 
 ---

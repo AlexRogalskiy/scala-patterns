@@ -239,6 +239,9 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [New video: Compose yourself with Scala 3's opaque types](https://www.reddit.com/r/scala/comments/lnnat4/new_video_compose_yourself_with_scala_3s_opaque/)
+- [Monocle 3.0.0-M1 is released for Scala 2.13 and Scala 3](https://www.reddit.com/r/scala/comments/lnfp2s/monocle_300m1_is_released_for_scala_213_and_scala/)
+- [Scala 3.0.0-RC1 – first release candidate is here](https://www.reddit.com/r/scala/comments/lnao5k/scala_300rc1_first_release_candidate_is_here/)
 - [This Is Your App on Scala 3 by John A. De Goes](https://www.reddit.com/r/scala/comments/lmmi5m/this_is_your_app_on_scala_3_by_john_a_de_goes/)
 - [Scala debug in emacs](https://www.reddit.com/r/scala/comments/lmfuwa/scala_debug_in_emacs/)
 - [Preventing version conflicts with versionScheme (improving the Scala library ecosystem)](https://www.reddit.com/r/scala/comments/lm4za8/preventing_version_conflicts_with_versionscheme/)
@@ -246,9 +249,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [Upgrade your Tagless Final with Tofu](https://www.reddit.com/r/scala/comments/llu0jf/upgrade_your_tagless_final_with_tofu/)
 - [Typelevel Projects naming](https://www.reddit.com/r/scala/comments/llrgcr/typelevel_projects_naming/)
 - [Jam - miniature DI library](https://www.reddit.com/r/scala/comments/llfbdy/jam_miniature_di_library/)
-- [Scala + Scala.js + ZIO company looking for a Remote Senior Dev - Cannabis Industry - Fully Remote Team](https://www.reddit.com/r/scala/comments/lldbmv/scala_scalajs_zio_company_looking_for_a_remote/)
-- [Scala learning track](https://www.reddit.com/r/scala/comments/ll4vo5/scala_learning_track/)
-- [Freelancer Contract Salary As Backend Scala developer](https://www.reddit.com/r/scala/comments/ll0nwx/freelancer_contract_salary_as_backend_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

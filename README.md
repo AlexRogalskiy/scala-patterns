@@ -239,6 +239,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Natural transformations between Higher-kinded data instances?](https://www.reddit.com/r/scala/comments/lodncv/natural_transformations_between_higherkinded_data/)
 - [New video: Compose yourself with Scala 3's opaque types](https://www.reddit.com/r/scala/comments/lnnat4/new_video_compose_yourself_with_scala_3s_opaque/)
 - [Monocle 3.0.0-M1 is released for Scala 2.13 and Scala 3](https://www.reddit.com/r/scala/comments/lnfp2s/monocle_300m1_is_released_for_scala_213_and_scala/)
 - [Scala 3.0.0-RC1 – first release candidate is here](https://www.reddit.com/r/scala/comments/lnao5k/scala_300rc1_first_release_candidate_is_here/)
@@ -248,7 +249,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [is inlining every function and variable bad?](https://www.reddit.com/r/scala/comments/lm1uik/is_inlining_every_function_and_variable_bad/)
 - [Upgrade your Tagless Final with Tofu](https://www.reddit.com/r/scala/comments/llu0jf/upgrade_your_tagless_final_with_tofu/)
 - [Typelevel Projects naming](https://www.reddit.com/r/scala/comments/llrgcr/typelevel_projects_naming/)
-- [Jam - miniature DI library](https://www.reddit.com/r/scala/comments/llfbdy/jam_miniature_di_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

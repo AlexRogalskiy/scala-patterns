@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tutorial for setting up Scala projects with VSCode?](https://www.reddit.com/r/scala/comments/lp8wp4/tutorial_for_setting_up_scala_projects_with_vscode/)
+- [zio-k8s: type-safe, ergonomic access to Kubernetes APIs with ZIO](https://www.reddit.com/r/scala/comments/lp6uzj/ziok8s_typesafe_ergonomic_access_to_kubernetes/)
+- [This week in #Scala (Feb 22, 2021)](https://www.reddit.com/r/scala/comments/lp2azm/this_week_in_scala_feb_22_2021/)
+- [Pure Functional Stream processing in Scala: Cats and Akka – Part 2](https://www.reddit.com/r/scala/comments/lotklb/pure_functional_stream_processing_in_scala_cats/)
+- [Recommended CLI parsing libraries](https://www.reddit.com/r/scala/comments/lome0l/recommended_cli_parsing_libraries/)
 - [Natural transformations between Higher-kinded data instances?](https://www.reddit.com/r/scala/comments/lodncv/natural_transformations_between_higherkinded_data/)
 - [New video: Compose yourself with Scala 3's opaque types](https://www.reddit.com/r/scala/comments/lnnat4/new_video_compose_yourself_with_scala_3s_opaque/)
 - [Monocle 3.0.0-M1 is released for Scala 2.13 and Scala 3](https://www.reddit.com/r/scala/comments/lnfp2s/monocle_300m1_is_released_for_scala_213_and_scala/)
 - [Scala 3.0.0-RC1 – first release candidate is here](https://www.reddit.com/r/scala/comments/lnao5k/scala_300rc1_first_release_candidate_is_here/)
 - [This Is Your App on Scala 3 by John A. De Goes](https://www.reddit.com/r/scala/comments/lmmi5m/this_is_your_app_on_scala_3_by_john_a_de_goes/)
-- [Scala debug in emacs](https://www.reddit.com/r/scala/comments/lmfuwa/scala_debug_in_emacs/)
-- [Preventing version conflicts with versionScheme (improving the Scala library ecosystem)](https://www.reddit.com/r/scala/comments/lm4za8/preventing_version_conflicts_with_versionscheme/)
-- [is inlining every function and variable bad?](https://www.reddit.com/r/scala/comments/lm1uik/is_inlining_every_function_and_variable_bad/)
-- [Upgrade your Tagless Final with Tofu](https://www.reddit.com/r/scala/comments/llu0jf/upgrade_your_tagless_final_with_tofu/)
-- [Typelevel Projects naming](https://www.reddit.com/r/scala/comments/llrgcr/typelevel_projects_naming/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

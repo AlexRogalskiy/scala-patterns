@@ -254,6 +254,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _InfoWorld posts_
 
 <!-- INFOWORLD-POST-LIST:START -->
+- [Scala 3 moves to release candidate stage](https://www.infoworld.com/article/3608574/scala-3-moves-to-release-candidate-stage.html#tk.rss_scala)
 - [Scala.js 1.0.0 improves JavaScript interoperability](https://www.infoworld.com/article/3530316/scalajs-100-improves-javascript-interoperability.html#tk.rss_scala)
 - [Scala 2.13 overhauls collections, improves the standard library](https://www.infoworld.com/article/3402537/scala-213-overhauls-collections-improves-the-standard-library.html#tk.rss_scala)
 - [Scala 2.13 overhauls collections, improves the standard library](https://www.infoworld.com/article/3402017/scala-213-overhauls-collections-improves-the-standard-library.html#tk.rss_scala)

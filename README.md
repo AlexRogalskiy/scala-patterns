@@ -317,6 +317,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Scalac posts_
 
 <!-- SCALAC-POST-LIST:START -->
+- [What is Apache Kafka, and what are Kafka use cases?](https://scalac.io/what-is-apache-kafka-and-what-are-kafka-use-cases/)
 - [Scala 3 / Dotty – Facts and Opinions. What do we expect?](https://scalac.io/scala-3-dotty-facts-opinions/)
 - [Hadoop vs Spark: What’s the difference?](https://scalac.io/hadoop-vs-spark-whats-the-difference/)
 - [Streaming microservices with ZIO and Kafka](https://scalac.io/streaming-microservices-with-zio-and-kafka/)
@@ -326,7 +327,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [Why Developers Should Pay Attention to ZIO in 2021](https://scalac.io/why-developers-should-pay-attention-to-zio-in-2021/)
 - [Build your own Kafka in ZIO – Queues & Fibers](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
 - [Best Practices for Upskilling Your Software Development Team](https://scalac.io/upskilling-software-development-team/)
-- [Polish devs: the best value for money in software development outsourcing. Why?](https://scalac.io/best-value-for-money-software-development-outsourcing/)
 <!-- SCALAC-POST-LIST:END -->
 
 ---

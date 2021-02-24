@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can we talk about tradeoffs between all the cool distributed/asynchronous programming solutions that are popping up in the Scala ecosystem?](https://www.reddit.com/r/scala/comments/lqow2a/can_we_talk_about_tradeoffs_between_all_the_cool/)
+- [JOB: remote within UK, or Bristol | Scala Developer, can cross train | c£55-65k | permanent](https://www.reddit.com/r/scala/comments/lqfg0a/job_remote_within_uk_or_bristol_scala_developer/)
+- [Should I learn Scala for my web backend?](https://www.reddit.com/r/scala/comments/lqfbob/should_i_learn_scala_for_my_web_backend/)
+- [Any good Future utilities libraries?](https://www.reddit.com/r/scala/comments/lq8kst/any_good_future_utilities_libraries/)
 - [Scala 2.13.5 is here](https://www.reddit.com/r/scala/comments/lq4coe/scala_2135_is_here/)
 - [Formatting pieces of text files into dataframes?](https://www.reddit.com/r/scala/comments/lq3o8x/formatting_pieces_of_text_files_into_dataframes/)
 - [Why Are Fibers Fast?](https://www.reddit.com/r/scala/comments/lpr9so/why_are_fibers_fast/)
 - [Implementing a CountDownLatch (async and dirty)](https://www.reddit.com/r/scala/comments/lppi3e/implementing_a_countdownlatch_async_and_dirty/)
 - [sbt 1.5.0-M2 released](https://www.reddit.com/r/scala/comments/lpi839/sbt_150m2_released/)
 - [Improve my recursive function for unpacking a Seq of nested tuples.](https://www.reddit.com/r/scala/comments/lpdla7/improve_my_recursive_function_for_unpacking_a_seq/)
-- [Tutorial for setting up Scala projects with VSCode?](https://www.reddit.com/r/scala/comments/lp8wp4/tutorial_for_setting_up_scala_projects_with_vscode/)
-- [zio-k8s: type-safe, ergonomic access to Kubernetes APIs with ZIO](https://www.reddit.com/r/scala/comments/lp6uzj/ziok8s_typesafe_ergonomic_access_to_kubernetes/)
-- [This week in #Scala (Feb 22, 2021)](https://www.reddit.com/r/scala/comments/lp2azm/this_week_in_scala_feb_22_2021/)
-- [Pure Functional Stream processing in Scala: Cats and Akka – Part 2](https://www.reddit.com/r/scala/comments/lotklb/pure_functional_stream_processing_in_scala_cats/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

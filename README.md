@@ -287,6 +287,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Li Haoyi posts_
 
 <!-- LIHAOYI-POST-LIST:START -->
+- [Introducing the com-lihaoyi Github Organization](http://www.lihaoyi.com/post/IntroducingthecomlihaoyiGithubOrganization.html)
 - [From First Principles: Why Scala?](http://www.lihaoyi.com/post/FromFirstPrinciplesWhyScala.html)
 - [Message-based Parallelism with Actors](http://www.lihaoyi.com/post/MessagebasedParallelismwithActors.html)
 - [The Death of Hype: What's Next for Scala](http://www.lihaoyi.com/post/TheDeathofHypeWhatsNextforScala.html)
@@ -296,7 +297,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [Working with Databases using Scala and Quill](http://www.lihaoyi.com/post/WorkingwithDatabasesusingScalaandQuill.html)
 - [Scraping Websites using Scala and Jsoup](http://www.lihaoyi.com/post/ScrapingWebsitesusingScalaandJsoup.html)
 - [Simple Web and Api Servers with Scala](http://www.lihaoyi.com/post/SimpleWebandApiServerswithScala.html)
-- [Build your own Programming Language with Scala](http://www.lihaoyi.com/post/BuildyourownProgrammingLanguagewithScala.html)
 <!-- LIHAOYI-POST-LIST:END -->
 
 ### _Scala Lang posts_

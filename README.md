@@ -317,7 +317,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Scalac posts_
 
 <!-- SCALAC-POST-LIST:START -->
-- [What is Apache Kafka, and what are Kafka use cases?](https://scalac.io/what-is-apache-kafka-and-what-are-kafka-use-cases/)
+- [Technical debt: the nuts and bolts](https://scalac.io/technical-debt-the-nuts-and-bolts/)
 - [Scala 3 / Dotty – Facts and Opinions. What do we expect?](https://scalac.io/scala-3-dotty-facts-opinions/)
 - [Hadoop vs Spark: What’s the difference?](https://scalac.io/hadoop-vs-spark-whats-the-difference/)
 - [Streaming microservices with ZIO and Kafka](https://scalac.io/streaming-microservices-with-zio-and-kafka/)

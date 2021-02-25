@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Value Classes in Scala](https://www.reddit.com/r/scala/comments/lrq0ke/value_classes_in_scala/)
+- [Query DSL in Scala 3](https://www.reddit.com/r/scala/comments/lrobf3/query_dsl_in_scala_3/)
+- [How to synchronize?](https://www.reddit.com/r/scala/comments/lripcs/how_to_synchronize/)
+- [Metals v0.10.0 is out with new features, bug fixes, and better Scala 3 support!](https://www.reddit.com/r/scala/comments/lrgdtj/metals_v0100_is_out_with_new_features_bug_fixes/)
+- [[New Book] Why Every Developer Should Learn Data Oriented Programming](https://www.reddit.com/r/scala/comments/lrf70p/new_book_why_every_developer_should_learn_data/)
+- [I made a macOS app that helps programmers do autocomplete code snippets of a lot of programming languages better out of box without context switching.](https://www.reddit.com/r/scala/comments/lr8jq3/i_made_a_macos_app_that_helps_programmers_do/)
+- [sttp now suppots Armeria backend](https://www.reddit.com/r/scala/comments/lr60h3/sttp_now_suppots_armeria_backend/)
+- [Is it possible to use cats' monad transformers (OptionT, EitherT) with an effect type (F) that has >1 type parameter?](https://www.reddit.com/r/scala/comments/lr09iz/is_it_possible_to_use_cats_monad_transformers/)
 - [Can we talk about tradeoffs between all the cool distributed/asynchronous programming solutions that are popping up in the Scala ecosystem?](https://www.reddit.com/r/scala/comments/lqow2a/can_we_talk_about_tradeoffs_between_all_the_cool/)
 - [JOB: remote within UK, or Bristol | Scala Developer, can cross train | c£55-65k | permanent](https://www.reddit.com/r/scala/comments/lqfg0a/job_remote_within_uk_or_bristol_scala_developer/)
-- [Should I learn Scala for my web backend?](https://www.reddit.com/r/scala/comments/lqfbob/should_i_learn_scala_for_my_web_backend/)
-- [Any good Future utilities libraries?](https://www.reddit.com/r/scala/comments/lq8kst/any_good_future_utilities_libraries/)
-- [Scala 2.13.5 is here](https://www.reddit.com/r/scala/comments/lq4coe/scala_2135_is_here/)
-- [Formatting pieces of text files into dataframes?](https://www.reddit.com/r/scala/comments/lq3o8x/formatting_pieces_of_text_files_into_dataframes/)
-- [Why Are Fibers Fast?](https://www.reddit.com/r/scala/comments/lpr9so/why_are_fibers_fast/)
-- [Implementing a CountDownLatch (async and dirty)](https://www.reddit.com/r/scala/comments/lppi3e/implementing_a_countdownlatch_async_and_dirty/)
-- [sbt 1.5.0-M2 released](https://www.reddit.com/r/scala/comments/lpi839/sbt_150m2_released/)
-- [Improve my recursive function for unpacking a Seq of nested tuples.](https://www.reddit.com/r/scala/comments/lpdla7/improve_my_recursive_function_for_unpacking_a_seq/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

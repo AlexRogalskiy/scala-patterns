@@ -239,6 +239,9 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Setting up a dev environment with Coursier](https://www.reddit.com/r/scala/comments/ls8cvp/setting_up_a_dev_environment_with_coursier/)
+- [[Scala3/Dotty] How to handle manifest for anonymous types in Scala 3](https://www.reddit.com/r/scala/comments/ls4xeh/scala3dotty_how_to_handle_manifest_for_anonymous/)
+- [g8 template for Scala library with cross-compilation, munit and mdoc](https://www.reddit.com/r/scala/comments/ls1jq5/g8_template_for_scala_library_with/)
 - [Value Classes in Scala](https://www.reddit.com/r/scala/comments/lrq0ke/value_classes_in_scala/)
 - [Query DSL in Scala 3](https://www.reddit.com/r/scala/comments/lrobf3/query_dsl_in_scala_3/)
 - [How to synchronize?](https://www.reddit.com/r/scala/comments/lripcs/how_to_synchronize/)
@@ -246,9 +249,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [[New Book] Why Every Developer Should Learn Data Oriented Programming](https://www.reddit.com/r/scala/comments/lrf70p/new_book_why_every_developer_should_learn_data/)
 - [I made a macOS app that helps programmers do autocomplete code snippets of a lot of programming languages better out of box without context switching.](https://www.reddit.com/r/scala/comments/lr8jq3/i_made_a_macos_app_that_helps_programmers_do/)
 - [sttp now suppots Armeria backend](https://www.reddit.com/r/scala/comments/lr60h3/sttp_now_suppots_armeria_backend/)
-- [Is it possible to use cats' monad transformers (OptionT, EitherT) with an effect type (F) that has >1 type parameter?](https://www.reddit.com/r/scala/comments/lr09iz/is_it_possible_to_use_cats_monad_transformers/)
-- [Can we talk about tradeoffs between all the cool distributed/asynchronous programming solutions that are popping up in the Scala ecosystem?](https://www.reddit.com/r/scala/comments/lqow2a/can_we_talk_about_tradeoffs_between_all_the_cool/)
-- [JOB: remote within UK, or Bristol | Scala Developer, can cross train | c£55-65k | permanent](https://www.reddit.com/r/scala/comments/lqfg0a/job_remote_within_uk_or_bristol_scala_developer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

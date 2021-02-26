@@ -272,7 +272,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Akka posts_
 
 <!-- AKKA-POST-LIST:START -->
-- [Akka HTTP 10.2.4 Released](/blog/news/2021/02/24/akka-http-10.2.4-10.1.14-released)
+- [Akka HTTP 10.2.4 / 10.1.14 Released](/blog/news/2021/02/24/akka-http-10.2.4-10.1.14-released)
 - [Akka 2.6.13 Released](/blog/news/2021/02/23/akka-2.6.13-released)
 - [Akka gRPC 1.1.0 Released](/blog/news/2021/02/08/akka-grpc-1.1.0-released)
 - [Akka 2.6.12 Released](/blog/news/2021/01/28/akka-2.6.12-released)

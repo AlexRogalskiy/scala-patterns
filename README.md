@@ -318,6 +318,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 
 <!-- SCALAC-POST-LIST:START -->
 - [Technical debt: the nuts and bolts](https://scalac.io/technical-debt-the-nuts-and-bolts/)
+- [What is Apache Kafka, and what are Kafka use cases?](https://scalac.io/what-is-apache-kafka-and-what-are-kafka-use-cases/)
 - [Scala 3 / Dotty – Facts and Opinions. What do we expect?](https://scalac.io/scala-3-dotty-facts-opinions/)
 - [Hadoop vs Spark: What’s the difference?](https://scalac.io/hadoop-vs-spark-whats-the-difference/)
 - [Streaming microservices with ZIO and Kafka](https://scalac.io/streaming-microservices-with-zio-and-kafka/)
@@ -326,7 +327,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [The Top Scalac’s Posts of 2020](https://scalac.io/the-top-scalacs-posts-of-2020/)
 - [Why Developers Should Pay Attention to ZIO in 2021](https://scalac.io/why-developers-should-pay-attention-to-zio-in-2021/)
 - [Build your own Kafka in ZIO – Queues & Fibers](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
-- [Best Practices for Upskilling Your Software Development Team](https://scalac.io/upskilling-software-development-team/)
 <!-- SCALAC-POST-LIST:END -->
 
 ---

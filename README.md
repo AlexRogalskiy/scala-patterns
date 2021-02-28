@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [I'm new to Scala I usually use Haskell, so I was wondering if someone could help me with this code](https://www.reddit.com/r/scala/comments/lu1otv/im_new_to_scala_i_usually_use_haskell_so_i_was/)
+- [I'm new to Scala I usually use Haskell, so I was wondering if someone could help me with this code](https://www.reddit.com/r/scala/comments/lu0cri/im_new_to_scala_i_usually_use_haskell_so_i_was/)
+- [Using Intellij "Evaluate Expression" debug functionality with scala.js](https://www.reddit.com/r/scala/comments/ltzrsu/using_intellij_evaluate_expression_debug/)
+- [Working at EMURGO - Meet the Team Taking Cardano Mainstream](https://www.reddit.com/r/scala/comments/ltoagj/working_at_emurgo_meet_the_team_taking_cardano/)
 - [How to publish scala project in private maven repository ?](https://www.reddit.com/r/scala/comments/lsxiiz/how_to_publish_scala_project_in_private_maven/)
 - [Laminar v0.12.0, Laminext, Material UI & more!](https://www.reddit.com/r/scala/comments/lsu213/laminar_v0120_laminext_material_ui_more/)
 - [As an experienced programmer but beginner in Scala what are the most important concepts to learn and in what order?](https://www.reddit.com/r/scala/comments/lstkdj/as_an_experienced_programmer_but_beginner_in/)
 - [ING Scala Meetup on Scala 3 (live coding session)](https://www.reddit.com/r/scala/comments/lssj4m/ing_scala_meetup_on_scala_3_live_coding_session/)
 - [Transactional Sandbox Testing with Doobie](https://www.reddit.com/r/scala/comments/lsolc7/transactional_sandbox_testing_with_doobie/)
 - [Setting up a dev environment with Coursier](https://www.reddit.com/r/scala/comments/ls8cvp/setting_up_a_dev_environment_with_coursier/)
-- [[Scala3/Dotty] How to handle manifest for anonymous types in Scala 3](https://www.reddit.com/r/scala/comments/ls4xeh/scala3dotty_how_to_handle_manifest_for_anonymous/)
-- [g8 template for Scala library with cross-compilation, munit and mdoc](https://www.reddit.com/r/scala/comments/ls1jq5/g8_template_for_scala_library_with/)
-- [Value Classes in Scala](https://www.reddit.com/r/scala/comments/lrq0ke/value_classes_in_scala/)
-- [Query DSL in Scala 3](https://www.reddit.com/r/scala/comments/lrobf3/query_dsl_in_scala_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

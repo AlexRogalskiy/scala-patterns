@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [I'm new to Scala I usually use Haskell, so I was wondering if someone could help me with this code](https://www.reddit.com/r/scala/comments/lu1otv/im_new_to_scala_i_usually_use_haskell_so_i_was/)
-- [I'm new to Scala I usually use Haskell, so I was wondering if someone could help me with this code](https://www.reddit.com/r/scala/comments/lu0cri/im_new_to_scala_i_usually_use_haskell_so_i_was/)
-- [Using Intellij "Evaluate Expression" debug functionality with scala.js](https://www.reddit.com/r/scala/comments/ltzrsu/using_intellij_evaluate_expression_debug/)
-- [Working at EMURGO - Meet the Team Taking Cardano Mainstream](https://www.reddit.com/r/scala/comments/ltoagj/working_at_emurgo_meet_the_team_taking_cardano/)
-- [How to publish scala project in private maven repository ?](https://www.reddit.com/r/scala/comments/lsxiiz/how_to_publish_scala_project_in_private_maven/)
-- [Laminar v0.12.0, Laminext, Material UI & more!](https://www.reddit.com/r/scala/comments/lsu213/laminar_v0120_laminext_material_ui_more/)
-- [As an experienced programmer but beginner in Scala what are the most important concepts to learn and in what order?](https://www.reddit.com/r/scala/comments/lstkdj/as_an_experienced_programmer_but_beginner_in/)
-- [ING Scala Meetup on Scala 3 (live coding session)](https://www.reddit.com/r/scala/comments/lssj4m/ing_scala_meetup_on_scala_3_live_coding_session/)
-- [Transactional Sandbox Testing with Doobie](https://www.reddit.com/r/scala/comments/lsolc7/transactional_sandbox_testing_with_doobie/)
-- [Setting up a dev environment with Coursier](https://www.reddit.com/r/scala/comments/ls8cvp/setting_up_a_dev_environment_with_coursier/)
+- [Can some one explain this code to me? please!](https://www.reddit.com/r/scala/comments/luwjx5/can_some_one_explain_this_code_to_me_please/)
+- [[Debate] Is type level programming useful?](https://www.reddit.com/r/scala/comments/luvcc7/debate_is_type_level_programming_useful/)
+- [Scala help!](https://www.reddit.com/r/scala/comments/luv5w2/scala_help/)
+- [polymorphic Tree in scala](https://www.reddit.com/r/scala/comments/luupkj/polymorphic_tree_in_scala/)
+- [This week in #Scala (Mar 1, 2021)](https://www.reddit.com/r/scala/comments/lus7bi/this_week_in_scala_mar_1_2021/)
+- [SCRAPI: A Reddit API wrapper written in Scala](https://www.reddit.com/r/scala/comments/lupnms/scrapi_a_reddit_api_wrapper_written_in_scala/)
+- [Simplified functional programming in Scala](https://www.reddit.com/r/scala/comments/lumki5/simplified_functional_programming_in_scala/)
+- [[scala3] how to solve : type test cannot be check at runtime?](https://www.reddit.com/r/scala/comments/lultj3/scala3_how_to_solve_type_test_cannot_be_check_at/)
+- [I don't get contravariance](https://www.reddit.com/r/scala/comments/lui90o/i_dont_get_contravariance/)
+- [Semantic Logging with JSON-LD · Terse Systems](https://www.reddit.com/r/scala/comments/lui828/semantic_logging_with_jsonld_terse_systems/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

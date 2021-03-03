@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Anyone interested in getting paid to write tutorials or short courses?](https://www.reddit.com/r/scala/comments/lwesqn/anyone_interested_in_getting_paid_to_write/)
+- [ZIO in Production?](https://www.reddit.com/r/scala/comments/lwc0fu/zio_in_production/)
+- [Programming with Functions #5: Immutability](https://www.reddit.com/r/scala/comments/lw61qe/programming_with_functions_5_immutability/)
+- [Teaching exercises with custom error messages](https://www.reddit.com/r/scala/comments/lw5qsv/teaching_exercises_with_custom_error_messages/)
+- [Is akka slowly dying?](https://www.reddit.com/r/scala/comments/lw0tpv/is_akka_slowly_dying/)
+- [Why aren't tabs used for indentation in Scala?](https://www.reddit.com/r/scala/comments/lw0ibm/why_arent_tabs_used_for_indentation_in_scala/)
+- [Tuples bring generic programming to Scala 3](https://www.reddit.com/r/scala/comments/lvttl2/tuples_bring_generic_programming_to_scala_3/)
 - [Is there a library which allows to manage websocket connections?](https://www.reddit.com/r/scala/comments/lvi96o/is_there_a_library_which_allows_to_manage/)
 - [Is Functional Programming The Silver Bullet? You May Not Like The Answer.](https://www.reddit.com/r/scala/comments/lvb24j/is_functional_programming_the_silver_bullet_you/)
 - [[Scala3] Get the type of container with wildcard type (i.e. List[?])](https://www.reddit.com/r/scala/comments/lv9ubb/scala3_get_the_type_of_container_with_wildcard/)
-- [Can some one explain this code to me? please!](https://www.reddit.com/r/scala/comments/luwjx5/can_some_one_explain_this_code_to_me_please/)
-- [[Debate] Is type level programming useful?](https://www.reddit.com/r/scala/comments/luvcc7/debate_is_type_level_programming_useful/)
-- [This week in #Scala (Mar 1, 2021)](https://www.reddit.com/r/scala/comments/lus7bi/this_week_in_scala_mar_1_2021/)
-- [SCRAPI: A Reddit API wrapper written in Scala](https://www.reddit.com/r/scala/comments/lupnms/scrapi_a_reddit_api_wrapper_written_in_scala/)
-- [Simplified functional programming in Scala](https://www.reddit.com/r/scala/comments/lumki5/simplified_functional_programming_in_scala/)
-- [I don't get contravariance](https://www.reddit.com/r/scala/comments/lui90o/i_dont_get_contravariance/)
-- [Semantic Logging with JSON-LD · Terse Systems](https://www.reddit.com/r/scala/comments/lui828/semantic_logging_with_jsonld_terse_systems/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

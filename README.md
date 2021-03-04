@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Future of Scala in next years vs Kotlin](https://www.reddit.com/r/scala/comments/lwywit/future_of_scala_in_next_years_vs_kotlin/)
+- [Simplifying Asynchronous Code With Scala Async](https://www.reddit.com/r/scala/comments/lwybmc/simplifying_asynchronous_code_with_scala_async/)
+- [Looking for Scala Engineers who want to work professionally with Zio](https://www.reddit.com/r/scala/comments/lwup5w/looking_for_scala_engineers_who_want_to_work/)
+- [recommend a book on microservices](https://www.reddit.com/r/scala/comments/lwskzo/recommend_a_book_on_microservices/)
+- [From a beginner - specific use cases of Scala?](https://www.reddit.com/r/scala/comments/lwqzbc/from_a_beginner_specific_use_cases_of_scala/)
+- [Structuring Code with ZIO & ZLayers](https://www.reddit.com/r/scala/comments/lwnroe/structuring_code_with_zio_zlayers/)
+- [EPFL Courses in Scala 3?](https://www.reddit.com/r/scala/comments/lwihzz/epfl_courses_in_scala_3/)
 - [Anyone interested in getting paid to write tutorials or short courses?](https://www.reddit.com/r/scala/comments/lwesqn/anyone_interested_in_getting_paid_to_write/)
 - [ZIO in Production?](https://www.reddit.com/r/scala/comments/lwc0fu/zio_in_production/)
 - [Programming with Functions #5: Immutability](https://www.reddit.com/r/scala/comments/lw61qe/programming_with_functions_5_immutability/)
-- [Teaching exercises with custom error messages](https://www.reddit.com/r/scala/comments/lw5qsv/teaching_exercises_with_custom_error_messages/)
-- [Is akka slowly dying?](https://www.reddit.com/r/scala/comments/lw0tpv/is_akka_slowly_dying/)
-- [Why aren't tabs used for indentation in Scala?](https://www.reddit.com/r/scala/comments/lw0ibm/why_arent_tabs_used_for_indentation_in_scala/)
-- [Tuples bring generic programming to Scala 3](https://www.reddit.com/r/scala/comments/lvttl2/tuples_bring_generic_programming_to_scala_3/)
-- [Is there a library which allows to manage websocket connections?](https://www.reddit.com/r/scala/comments/lvi96o/is_there_a_library_which_allows_to_manage/)
-- [Is Functional Programming The Silver Bullet? You May Not Like The Answer.](https://www.reddit.com/r/scala/comments/lvb24j/is_functional_programming_the_silver_bullet_you/)
-- [[Scala3] Get the type of container with wildcard type (i.e. List[?])](https://www.reddit.com/r/scala/comments/lv9ubb/scala3_get_the_type_of_container_with_wildcard/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

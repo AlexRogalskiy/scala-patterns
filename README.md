@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [SBT CodeArtifact - An SBT plugin to publish artifacts to AWS CodeArtifact.](https://www.reddit.com/r/scala/comments/lyp936/sbt_codeartifact_an_sbt_plugin_to_publish/)
+- [Functional Programming Opportunity](https://www.reddit.com/r/scala/comments/lyjtn2/functional_programming_opportunity/)
+- [Is it possible to use Dotty/Scala 3.0 with Gradle?](https://www.reddit.com/r/scala/comments/lyhxhl/is_it_possible_to_use_dottyscala_30_with_gradle/)
+- [Setting up a dev environment with Coursier | Let's talk about Scala 3](https://www.reddit.com/r/scala/comments/ly74gm/setting_up_a_dev_environment_with_coursier_lets/)
+- [Transformers; Monads in Disguise](https://www.reddit.com/r/scala/comments/ly1ae2/transformers_monads_in_disguise/)
 - [sbt-missinglink 0.3.2 has been released: Multi-Release JARs and concurrency](https://www.reddit.com/r/scala/comments/lxmi4w/sbtmissinglink_032_has_been_released_multirelease/)
 - [The Scala 3 Tech Report is here!](https://www.reddit.com/r/scala/comments/lxiq75/the_scala_3_tech_report_is_here/)
 - [JSON deep comparison](https://www.reddit.com/r/scala/comments/lxezx3/json_deep_comparison/)
 - [Is Java ever better than Scala](https://www.reddit.com/r/scala/comments/lxb788/is_java_ever_better_than_scala/)
 - [Abstraction layers over the various JSON libraries?](https://www.reddit.com/r/scala/comments/lxagi7/abstraction_layers_over_the_various_json_libraries/)
-- [Future of Scala in next years vs Kotlin](https://www.reddit.com/r/scala/comments/lwywit/future_of_scala_in_next_years_vs_kotlin/)
-- [Simplifying Asynchronous Code With Scala Async](https://www.reddit.com/r/scala/comments/lwybmc/simplifying_asynchronous_code_with_scala_async/)
-- [Looking for Scala Engineers who want to work professionally with Zio](https://www.reddit.com/r/scala/comments/lwup5w/looking_for_scala_engineers_who_want_to_work/)
-- [recommend a book on microservices](https://www.reddit.com/r/scala/comments/lwskzo/recommend_a_book_on_microservices/)
-- [From a beginner - specific use cases of Scala?](https://www.reddit.com/r/scala/comments/lwqzbc/from_a_beginner_specific_use_cases_of_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

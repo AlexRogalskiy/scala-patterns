@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Composing with Writer Monad](https://www.reddit.com/r/scala/comments/lzcm6b/composing_with_writer_monad/)
+- [What's happening when I execute a scala.js project from a Scala repl?](https://www.reddit.com/r/scala/comments/lzcdnf/whats_happening_when_i_execute_a_scalajs_project/)
+- [Confusion around commutativity in Scala 3's intersection types](https://www.reddit.com/r/scala/comments/lyyv6a/confusion_around_commutativity_in_scala_3s/)
+- [Will I like Scala? (Go and Rust)](https://www.reddit.com/r/scala/comments/lyv7do/will_i_like_scala_go_and_rust/)
 - [SBT CodeArtifact - An SBT plugin to publish artifacts to AWS CodeArtifact.](https://www.reddit.com/r/scala/comments/lyp936/sbt_codeartifact_an_sbt_plugin_to_publish/)
 - [Functional Programming Opportunity](https://www.reddit.com/r/scala/comments/lyjtn2/functional_programming_opportunity/)
 - [Is it possible to use Dotty/Scala 3.0 with Gradle?](https://www.reddit.com/r/scala/comments/lyhxhl/is_it_possible_to_use_dottyscala_30_with_gradle/)
 - [Setting up a dev environment with Coursier | Let's talk about Scala 3](https://www.reddit.com/r/scala/comments/ly74gm/setting_up_a_dev_environment_with_coursier_lets/)
 - [Transformers; Monads in Disguise](https://www.reddit.com/r/scala/comments/ly1ae2/transformers_monads_in_disguise/)
 - [sbt-missinglink 0.3.2 has been released: Multi-Release JARs and concurrency](https://www.reddit.com/r/scala/comments/lxmi4w/sbtmissinglink_032_has_been_released_multirelease/)
-- [The Scala 3 Tech Report is here!](https://www.reddit.com/r/scala/comments/lxiq75/the_scala_3_tech_report_is_here/)
-- [JSON deep comparison](https://www.reddit.com/r/scala/comments/lxezx3/json_deep_comparison/)
-- [Is Java ever better than Scala](https://www.reddit.com/r/scala/comments/lxb788/is_java_ever_better_than_scala/)
-- [Abstraction layers over the various JSON libraries?](https://www.reddit.com/r/scala/comments/lxagi7/abstraction_layers_over_the_various_json_libraries/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

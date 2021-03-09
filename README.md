@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3 in IntelliJ setup](https://www.reddit.com/r/scala/comments/m0vjf9/scala_3_in_intellij_setup/)
+- [Should I be using the native packager/Docker plugin to generate Docker images or create my own?](https://www.reddit.com/r/scala/comments/m0p33a/should_i_be_using_the_native_packagerdocker/)
+- [The future of Scaladoc](https://www.reddit.com/r/scala/comments/m0i0hf/the_future_of_scaladoc/)
+- [Scala + Emacs folks: if you are planning to switch to Scala 3, what's your plan for your Emacs?](https://www.reddit.com/r/scala/comments/m0h0jb/scala_emacs_folks_if_you_are_planning_to_switch/)
+- [How To Use Spark Dynamic Resource Allocation (DRA) in Kyuubi](https://www.reddit.com/r/scala/comments/m0g89t/how_to_use_spark_dynamic_resource_allocation_dra/)
+- [Connecting Scala/Slick App with Postgres and Docker-Compose?](https://www.reddit.com/r/scala/comments/m08ui2/connecting_scalaslick_app_with_postgres_and/)
 - [sbt 1.4.8 released](https://www.reddit.com/r/scala/comments/m045pm/sbt_148_released/)
 - [This week in #Scala (Mar 8, 2021)](https://www.reddit.com/r/scala/comments/m03ixo/this_week_in_scala_mar_8_2021/)
 - [futil: minimal utilities for Scala futures](https://www.reddit.com/r/scala/comments/lzkctd/futil_minimal_utilities_for_scala_futures/)
 - [Composing with Writer Monad](https://www.reddit.com/r/scala/comments/lzcm6b/composing_with_writer_monad/)
-- [What's happening when I execute a scala.js project from a Scala repl?](https://www.reddit.com/r/scala/comments/lzcdnf/whats_happening_when_i_execute_a_scalajs_project/)
-- [Confusion around commutativity in Scala 3's intersection types](https://www.reddit.com/r/scala/comments/lyyv6a/confusion_around_commutativity_in_scala_3s/)
-- [Will I like Scala? (Go and Rust)](https://www.reddit.com/r/scala/comments/lyv7do/will_i_like_scala_go_and_rust/)
-- [SBT CodeArtifact - An SBT plugin to publish artifacts to AWS CodeArtifact.](https://www.reddit.com/r/scala/comments/lyp936/sbt_codeartifact_an_sbt_plugin_to_publish/)
-- [Functional Programming Opportunity](https://www.reddit.com/r/scala/comments/lyjtn2/functional_programming_opportunity/)
-- [Is it possible to use Dotty/Scala 3.0 with Gradle?](https://www.reddit.com/r/scala/comments/lyhxhl/is_it_possible_to_use_dottyscala_30_with_gradle/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

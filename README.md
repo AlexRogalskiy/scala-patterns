@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [can you look at my work?](https://www.reddit.com/r/scala/comments/m1lt2x/can_you_look_at_my_work/)
+- [How long after the final release of Scala 3 will it take until your company has production code written in Scala 3 running?](https://www.reddit.com/r/scala/comments/m1ge60/how_long_after_the_final_release_of_scala_3_will/)
+- [Is it possible to have static init once data in a function?](https://www.reddit.com/r/scala/comments/m1g9y9/is_it_possible_to_have_static_init_once_data_in_a/)
+- [Why does Akka HTTP/Slick app consume increased memory/leak memory without traffic?](https://www.reddit.com/r/scala/comments/m1dmej/why_does_akka_httpslick_app_consume_increased/)
+- [[Scala3 Inline] Is there a way to enforce literal constant as function arguement ?](https://www.reddit.com/r/scala/comments/m14ghw/scala3_inline_is_there_a_way_to_enforce_literal/)
+- [Many happy early returns (eascaping early from a loop in a functional way)](https://www.reddit.com/r/scala/comments/m146im/many_happy_early_returns_eascaping_early_from_a/)
+- [Play! Nice: Better Play Framework Pipelines with Cats Effect](https://www.reddit.com/r/scala/comments/m10wv4/play_nice_better_play_framework_pipelines_with/)
+- [can you look at my code?](https://www.reddit.com/r/scala/comments/m0w5jc/can_you_look_at_my_code/)
 - [Scala 3 in IntelliJ setup](https://www.reddit.com/r/scala/comments/m0vjf9/scala_3_in_intellij_setup/)
 - [Should I be using the native packager/Docker plugin to generate Docker images or create my own?](https://www.reddit.com/r/scala/comments/m0p33a/should_i_be_using_the_native_packagerdocker/)
-- [The future of Scaladoc](https://www.reddit.com/r/scala/comments/m0i0hf/the_future_of_scaladoc/)
-- [Scala + Emacs folks: if you are planning to switch to Scala 3, what's your plan for your Emacs?](https://www.reddit.com/r/scala/comments/m0h0jb/scala_emacs_folks_if_you_are_planning_to_switch/)
-- [How To Use Spark Dynamic Resource Allocation (DRA) in Kyuubi](https://www.reddit.com/r/scala/comments/m0g89t/how_to_use_spark_dynamic_resource_allocation_dra/)
-- [Connecting Scala/Slick App with Postgres and Docker-Compose?](https://www.reddit.com/r/scala/comments/m08ui2/connecting_scalaslick_app_with_postgres_and/)
-- [sbt 1.4.8 released](https://www.reddit.com/r/scala/comments/m045pm/sbt_148_released/)
-- [This week in #Scala (Mar 8, 2021)](https://www.reddit.com/r/scala/comments/m03ixo/this_week_in_scala_mar_8_2021/)
-- [futil: minimal utilities for Scala futures](https://www.reddit.com/r/scala/comments/lzkctd/futil_minimal_utilities_for_scala_futures/)
-- [Composing with Writer Monad](https://www.reddit.com/r/scala/comments/lzcm6b/composing_with_writer_monad/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

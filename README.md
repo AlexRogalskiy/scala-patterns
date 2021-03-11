@@ -317,6 +317,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Scalac posts_
 
 <!-- SCALAC-POST-LIST:START -->
+- [The Secret To Building A Successful E-learning Platform](https://scalac.io/blog/the-secret-to-building-a-successful-e-learning-platform/)
 - [Technical debt: the nuts and bolts](https://scalac.io/blog/technical-debt-the-nuts-and-bolts/)
 - [What is Apache Kafka, and what are Kafka use cases?](https://scalac.io/blog/what-is-apache-kafka-and-what-are-kafka-use-cases/)
 - [Scala 3 / Dotty – Facts and Opinions. What do we expect?](https://scalac.io/blog/scala-3-dotty-facts-opinions/)
@@ -326,7 +327,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [Introduction to Programming with ZIO Functional Effects](https://scalac.io/blog/introduction-to-programming-with-zio-functional-effects/)
 - [The Top Scalac’s Posts of 2020](https://scalac.io/blog/the-top-scalacs-posts-of-2020/)
 - [Why Developers Should Pay Attention to ZIO in 2021](https://scalac.io/blog/why-developers-should-pay-attention-to-zio-in-2021/)
-- [Build your own Kafka in ZIO – Queues & Fibers](https://scalac.io/blog/build-your-own-kafka-in-zio-queues-fibers/)
 <!-- SCALAC-POST-LIST:END -->
 
 ---

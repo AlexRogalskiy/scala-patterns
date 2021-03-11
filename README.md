@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [I am wondering if there is a better way to write this code](https://www.reddit.com/r/scala/comments/m29cpi/i_am_wondering_if_there_is_a_better_way_to_write/)
+- [Unveiling Much Simplified Functional Programming in Scala](https://www.reddit.com/r/scala/comments/m296cz/unveiling_much_simplified_functional_programming/)
+- [Help me please!](https://www.reddit.com/r/scala/comments/m27oir/help_me_please/)
+- [Are there any junior Scala developer jobs? Or companies only hire middles/seniors?](https://www.reddit.com/r/scala/comments/m22kcc/are_there_any_junior_scala_developer_jobs_or/)
+- [How to prepare for Scala/Spark code interview?](https://www.reddit.com/r/scala/comments/m1xi5k/how_to_prepare_for_scalaspark_code_interview/)
+- [Is there any editor or IDE that supports Ammonite with inline dependencies?](https://www.reddit.com/r/scala/comments/m1tke4/is_there_any_editor_or_ide_that_supports_ammonite/)
+- [sbt 1.4.9 released](https://www.reddit.com/r/scala/comments/m1q18o/sbt_149_released/)
 - [can you look at my work?](https://www.reddit.com/r/scala/comments/m1lt2x/can_you_look_at_my_work/)
 - [How long after the final release of Scala 3 will it take until your company has production code written in Scala 3 running?](https://www.reddit.com/r/scala/comments/m1ge60/how_long_after_the_final_release_of_scala_3_will/)
 - [Is it possible to have static init once data in a function?](https://www.reddit.com/r/scala/comments/m1g9y9/is_it_possible_to_have_static_init_once_data_in_a/)
-- [Why does Akka HTTP/Slick app consume increased memory/leak memory without traffic?](https://www.reddit.com/r/scala/comments/m1dmej/why_does_akka_httpslick_app_consume_increased/)
-- [[Scala3 Inline] Is there a way to enforce literal constant as function arguement ?](https://www.reddit.com/r/scala/comments/m14ghw/scala3_inline_is_there_a_way_to_enforce_literal/)
-- [Many happy early returns (eascaping early from a loop in a functional way)](https://www.reddit.com/r/scala/comments/m146im/many_happy_early_returns_eascaping_early_from_a/)
-- [Play! Nice: Better Play Framework Pipelines with Cats Effect](https://www.reddit.com/r/scala/comments/m10wv4/play_nice_better_play_framework_pipelines_with/)
-- [can you look at my code?](https://www.reddit.com/r/scala/comments/m0w5jc/can_you_look_at_my_code/)
-- [Scala 3 in IntelliJ setup](https://www.reddit.com/r/scala/comments/m0vjf9/scala_3_in_intellij_setup/)
-- [Should I be using the native packager/Docker plugin to generate Docker images or create my own?](https://www.reddit.com/r/scala/comments/m0p33a/should_i_be_using_the_native_packagerdocker/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

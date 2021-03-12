@@ -239,6 +239,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to handle sbt deduplication errors on module-info.class files](https://www.reddit.com/r/scala/comments/m335hi/how_to_handle_sbt_deduplication_errors_on/)
+- [Why is xml the only first class markup?](https://www.reddit.com/r/scala/comments/m2iah0/why_is_xml_the_only_first_class_markup/)
 - [I am wondering if there is a better way to write this code](https://www.reddit.com/r/scala/comments/m29cpi/i_am_wondering_if_there_is_a_better_way_to_write/)
 - [Unveiling Much Simplified Functional Programming in Scala](https://www.reddit.com/r/scala/comments/m296cz/unveiling_much_simplified_functional_programming/)
 - [Help me please!](https://www.reddit.com/r/scala/comments/m27oir/help_me_please/)
@@ -247,8 +249,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [Is there any editor or IDE that supports Ammonite with inline dependencies?](https://www.reddit.com/r/scala/comments/m1tke4/is_there_any_editor_or_ide_that_supports_ammonite/)
 - [sbt 1.4.9 released](https://www.reddit.com/r/scala/comments/m1q18o/sbt_149_released/)
 - [can you look at my work?](https://www.reddit.com/r/scala/comments/m1lt2x/can_you_look_at_my_work/)
-- [How long after the final release of Scala 3 will it take until your company has production code written in Scala 3 running?](https://www.reddit.com/r/scala/comments/m1ge60/how_long_after_the_final_release_of_scala_3_will/)
-- [Is it possible to have static init once data in a function?](https://www.reddit.com/r/scala/comments/m1g9y9/is_it_possible_to_have_static_init_once_data_in_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

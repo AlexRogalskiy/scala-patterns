@@ -239,6 +239,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Are Scala developers (juniors) in high demand?](https://www.reddit.com/r/scala/comments/m3g07c/are_scala_developers_juniors_in_high_demand/)
 - [How to handle sbt deduplication errors on module-info.class files](https://www.reddit.com/r/scala/comments/m335hi/how_to_handle_sbt_deduplication_errors_on/)
 - [Why is xml the only first class markup?](https://www.reddit.com/r/scala/comments/m2iah0/why_is_xml_the_only_first_class_markup/)
 - [I am wondering if there is a better way to write this code](https://www.reddit.com/r/scala/comments/m29cpi/i_am_wondering_if_there_is_a_better_way_to_write/)
@@ -248,7 +249,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [How to prepare for Scala/Spark code interview?](https://www.reddit.com/r/scala/comments/m1xi5k/how_to_prepare_for_scalaspark_code_interview/)
 - [Is there any editor or IDE that supports Ammonite with inline dependencies?](https://www.reddit.com/r/scala/comments/m1tke4/is_there_any_editor_or_ide_that_supports_ammonite/)
 - [sbt 1.4.9 released](https://www.reddit.com/r/scala/comments/m1q18o/sbt_149_released/)
-- [can you look at my work?](https://www.reddit.com/r/scala/comments/m1lt2x/can_you_look_at_my_work/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

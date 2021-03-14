@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Are Scala developers (juniors) in high demand?](https://www.reddit.com/r/scala/comments/m3g07c/are_scala_developers_juniors_in_high_demand/)
+- [need help!](https://www.reddit.com/r/scala/comments/m4khni/need_help/)
+- [Any talks/videos about the best of both worlds (OOP & Func) in Scala?](https://www.reddit.com/r/scala/comments/m4h1d8/any_talksvideos_about_the_best_of_both_worlds_oop/)
+- [I'm trying to learn Strictness and laziness! please help!](https://www.reddit.com/r/scala/comments/m4gy7f/im_trying_to_learn_strictness_and_laziness_please/)
+- [What does the "Safe Exceptions" PR means?](https://www.reddit.com/r/scala/comments/m4bz8d/what_does_the_safe_exceptions_pr_means/)
+- [Take a look at my code please.](https://www.reddit.com/r/scala/comments/m4b4bd/take_a_look_at_my_code_please/)
+- [Keep going Scala ? or, Leave it ?](https://www.reddit.com/r/scala/comments/m422uc/keep_going_scala_or_leave_it/)
+- [Generate case classes from some json in 25 seconds :)](https://www.reddit.com/r/scala/comments/m41gek/generate_case_classes_from_some_json_in_25_seconds/)
 - [How to handle sbt deduplication errors on module-info.class files](https://www.reddit.com/r/scala/comments/m335hi/how_to_handle_sbt_deduplication_errors_on/)
 - [Why is xml the only first class markup?](https://www.reddit.com/r/scala/comments/m2iah0/why_is_xml_the_only_first_class_markup/)
 - [I am wondering if there is a better way to write this code](https://www.reddit.com/r/scala/comments/m29cpi/i_am_wondering_if_there_is_a_better_way_to_write/)
-- [Unveiling Much Simplified Functional Programming in Scala](https://www.reddit.com/r/scala/comments/m296cz/unveiling_much_simplified_functional_programming/)
-- [Help me please!](https://www.reddit.com/r/scala/comments/m27oir/help_me_please/)
-- [Are there any junior Scala developer jobs? Or companies only hire middles/seniors?](https://www.reddit.com/r/scala/comments/m22kcc/are_there_any_junior_scala_developer_jobs_or/)
-- [How to prepare for Scala/Spark code interview?](https://www.reddit.com/r/scala/comments/m1xi5k/how_to_prepare_for_scalaspark_code_interview/)
-- [Is there any editor or IDE that supports Ammonite with inline dependencies?](https://www.reddit.com/r/scala/comments/m1tke4/is_there_any_editor_or_ide_that_supports_ammonite/)
-- [sbt 1.4.9 released](https://www.reddit.com/r/scala/comments/m1q18o/sbt_149_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

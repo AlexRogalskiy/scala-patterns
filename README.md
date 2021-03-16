@@ -239,6 +239,9 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best Scala/FP talks](https://www.reddit.com/r/scala/comments/m5sxk1/best_scalafp_talks/)
+- [Scala 3 Release Party -- 23 April 2021](https://www.reddit.com/r/scala/comments/m5njbh/scala_3_release_party_23_april_2021/)
+- [sbt 1.5.0-RC1 released](https://www.reddit.com/r/scala/comments/m5fsgx/sbt_150rc1_released/)
 - [This week in #Scala (Mar 15, 2021)](https://www.reddit.com/r/scala/comments/m56ugw/this_week_in_scala_mar_15_2021/)
 - [Martin Odersky explains the motivations behind "Safe Exceptions" PR in Scala 3](https://www.reddit.com/r/scala/comments/m50trg/martin_odersky_explains_the_motivations_behind/)
 - [Any talks/videos about the best of both worlds (OOP & Func) in Scala?](https://www.reddit.com/r/scala/comments/m4h1d8/any_talksvideos_about_the_best_of_both_worlds_oop/)
@@ -246,9 +249,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [Keep going Scala ? or, Leave it ?](https://www.reddit.com/r/scala/comments/m422uc/keep_going_scala_or_leave_it/)
 - [Generate case classes from some json in 25 seconds :)](https://www.reddit.com/r/scala/comments/m41gek/generate_case_classes_from_some_json_in_25_seconds/)
 - [How to handle sbt deduplication errors on module-info.class files](https://www.reddit.com/r/scala/comments/m335hi/how_to_handle_sbt_deduplication_errors_on/)
-- [Why is xml the only first class markup?](https://www.reddit.com/r/scala/comments/m2iah0/why_is_xml_the_only_first_class_markup/)
-- [I am wondering if there is a better way to write this code](https://www.reddit.com/r/scala/comments/m29cpi/i_am_wondering_if_there_is_a_better_way_to_write/)
-- [Unveiling Much Simplified Functional Programming in Scala](https://www.reddit.com/r/scala/comments/m296cz/unveiling_much_simplified_functional_programming/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

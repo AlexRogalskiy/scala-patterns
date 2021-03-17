@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question: When mapping over a List to make api calls, are the api calls made in the order of the list?](https://www.reddit.com/r/scala/comments/m6kaq0/question_when_mapping_over_a_list_to_make_api/)
+- [Java 16 is here!](https://www.reddit.com/r/scala/comments/m6fx6v/java_16_is_here/)
+- [JOB: N-Side | Scala developer | Bruxelles Metropolitan Area, Belgium | Full-time | Permanent](https://www.reddit.com/r/scala/comments/m6fotn/job_nside_scala_developer_bruxelles_metropolitan/)
+- [Help with finding resources.](https://www.reddit.com/r/scala/comments/m6cncg/help_with_finding_resources/)
+- [Is there knowledge map similar to this for Scala?](https://www.reddit.com/r/scala/comments/m67tbk/is_there_knowledge_map_similar_to_this_for_scala/)
+- [THE most important programming concept explained in 35 seconds.](https://www.reddit.com/r/scala/comments/m64rx1/the_most_important_programming_concept_explained/)
 - [Best Scala/FP talks](https://www.reddit.com/r/scala/comments/m5sxk1/best_scalafp_talks/)
 - [Scala 3 Release Party -- 23 April 2021](https://www.reddit.com/r/scala/comments/m5njbh/scala_3_release_party_23_april_2021/)
 - [sbt 1.5.0-RC1 released](https://www.reddit.com/r/scala/comments/m5fsgx/sbt_150rc1_released/)
 - [This week in #Scala (Mar 15, 2021)](https://www.reddit.com/r/scala/comments/m56ugw/this_week_in_scala_mar_15_2021/)
-- [Martin Odersky explains the motivations behind "Safe Exceptions" PR in Scala 3](https://www.reddit.com/r/scala/comments/m50trg/martin_odersky_explains_the_motivations_behind/)
-- [Any talks/videos about the best of both worlds (OOP & Func) in Scala?](https://www.reddit.com/r/scala/comments/m4h1d8/any_talksvideos_about_the_best_of_both_worlds_oop/)
-- [What does the "Safe Exceptions" PR means?](https://www.reddit.com/r/scala/comments/m4bz8d/what_does_the_safe_exceptions_pr_means/)
-- [Keep going Scala ? or, Leave it ?](https://www.reddit.com/r/scala/comments/m422uc/keep_going_scala_or_leave_it/)
-- [Generate case classes from some json in 25 seconds :)](https://www.reddit.com/r/scala/comments/m41gek/generate_case_classes_from_some_json_in_25_seconds/)
-- [How to handle sbt deduplication errors on module-info.class files](https://www.reddit.com/r/scala/comments/m335hi/how_to_handle_sbt_deduplication_errors_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

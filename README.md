@@ -317,6 +317,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Scalac posts_
 
 <!-- SCALAC-POST-LIST:START -->
+- [13 Elements That Contribute To Technical Debt](https://scalac.io/blog/13-elements-that-contribute-to-technical-debt/)
 - [Financial Intelligence At Airbnb With Scala – A Case Study](https://scalac.io/blog/financial-intelligence-at-airbnb-with-scala-a-case-study/)
 - [The Secret To Building A Successful E-learning Platform](https://scalac.io/blog/the-secret-to-building-a-successful-e-learning-platform/)
 - [Technical debt: the nuts and bolts](https://scalac.io/blog/technical-debt-the-nuts-and-bolts/)
@@ -326,7 +327,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [Streaming microservices with ZIO and Kafka](https://scalac.io/blog/streaming-microservices-with-zio-and-kafka/)
 - [Introducción a la Programación con Efectos Funcionales usando ZIO](https://scalac.io/blog/introduccion-a-la-programacion-con-efectos-funcionales-usando-zio/)
 - [Introduction to Programming with ZIO Functional Effects](https://scalac.io/blog/introduction-to-programming-with-zio-functional-effects/)
-- [The Top Scalac’s Posts of 2020](https://scalac.io/blog/the-top-scalacs-posts-of-2020/)
 <!-- SCALAC-POST-LIST:END -->
 
 ---

@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How will Project Valhalla affect Scala?](https://www.reddit.com/r/scala/comments/m7cyho/how_will_project_valhalla_affect_scala/)
+- [What colour theme would you recommend for Scala on VSCode ?](https://www.reddit.com/r/scala/comments/m75er3/what_colour_theme_would_you_recommend_for_scala/)
+- [prelude - functional distributed state machines](https://www.reddit.com/r/scala/comments/m6zox9/prelude_functional_distributed_state_machines/)
+- [ZIO HTTP basic app example](https://www.reddit.com/r/scala/comments/m6zlyy/zio_http_basic_app_example/)
+- [Scala on Android](https://www.reddit.com/r/scala/comments/m6zavi/scala_on_android/)
+- [What is a Monad​? In 60 seconds!](https://www.reddit.com/r/scala/comments/m6wef7/what_is_a_monad_in_60_seconds/)
+- [For loops weren't supposed to be given names!](https://www.reddit.com/r/scala/comments/m6vvru/for_loops_werent_supposed_to_be_given_names/)
+- [Scala macros documentation for advanced stuff](https://www.reddit.com/r/scala/comments/m6sowz/scala_macros_documentation_for_advanced_stuff/)
 - [Question: When mapping over a List to make api calls, are the api calls made in the order of the list?](https://www.reddit.com/r/scala/comments/m6kaq0/question_when_mapping_over_a_list_to_make_api/)
 - [Java 16 is here!](https://www.reddit.com/r/scala/comments/m6fx6v/java_16_is_here/)
-- [JOB: N-Side | Scala developer | Bruxelles Metropolitan Area, Belgium | Full-time | Permanent](https://www.reddit.com/r/scala/comments/m6fotn/job_nside_scala_developer_bruxelles_metropolitan/)
-- [Help with finding resources.](https://www.reddit.com/r/scala/comments/m6cncg/help_with_finding_resources/)
-- [Is there knowledge map similar to this for Scala?](https://www.reddit.com/r/scala/comments/m67tbk/is_there_knowledge_map_similar_to_this_for_scala/)
-- [THE most important programming concept explained in 35 seconds.](https://www.reddit.com/r/scala/comments/m64rx1/the_most_important_programming_concept_explained/)
-- [Best Scala/FP talks](https://www.reddit.com/r/scala/comments/m5sxk1/best_scalafp_talks/)
-- [Scala 3 Release Party -- 23 April 2021](https://www.reddit.com/r/scala/comments/m5njbh/scala_3_release_party_23_april_2021/)
-- [sbt 1.5.0-RC1 released](https://www.reddit.com/r/scala/comments/m5fsgx/sbt_150rc1_released/)
-- [This week in #Scala (Mar 15, 2021)](https://www.reddit.com/r/scala/comments/m56ugw/this_week_in_scala_mar_15_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

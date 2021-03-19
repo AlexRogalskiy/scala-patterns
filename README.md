@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Streaming DynamoDB scan results into FS2 stream (Functional way)](https://www.reddit.com/r/scala/comments/m808k1/streaming_dynamodb_scan_results_into_fs2_stream/)
+- [Automatic UI generation with Scala 3's type class derivation](https://www.reddit.com/r/scala/comments/m7zh6z/automatic_ui_generation_with_scala_3s_type_class/)
+- [Pick any Card: Write Better Data Structures with Scala](https://www.reddit.com/r/scala/comments/m7tmjb/pick_any_card_write_better_data_structures_with/)
+- [Looking for a remote Scala job with social / environmental impact? Here are 400~ opportunities to find meaningful work, anywhere.](https://www.reddit.com/r/scala/comments/m7rcsm/looking_for_a_remote_scala_job_with_social/)
+- [JDK 16's Top 5 for Scala](https://www.reddit.com/r/scala/comments/m7puga/jdk_16s_top_5_for_scala/)
+- [Distage 1.0](https://www.reddit.com/r/scala/comments/m7ptg2/distage_10/)
 - [How will Project Valhalla affect Scala?](https://www.reddit.com/r/scala/comments/m7cyho/how_will_project_valhalla_affect_scala/)
 - [What colour theme would you recommend for Scala on VSCode ?](https://www.reddit.com/r/scala/comments/m75er3/what_colour_theme_would_you_recommend_for_scala/)
 - [prelude - functional distributed state machines](https://www.reddit.com/r/scala/comments/m6zox9/prelude_functional_distributed_state_machines/)
 - [ZIO HTTP basic app example](https://www.reddit.com/r/scala/comments/m6zlyy/zio_http_basic_app_example/)
-- [Scala on Android](https://www.reddit.com/r/scala/comments/m6zavi/scala_on_android/)
-- [What is a Monad​? In 60 seconds!](https://www.reddit.com/r/scala/comments/m6wef7/what_is_a_monad_in_60_seconds/)
-- [For loops weren't supposed to be given names!](https://www.reddit.com/r/scala/comments/m6vvru/for_loops_werent_supposed_to_be_given_names/)
-- [Scala macros documentation for advanced stuff](https://www.reddit.com/r/scala/comments/m6sowz/scala_macros_documentation_for_advanced_stuff/)
-- [Question: When mapping over a List to make api calls, are the api calls made in the order of the list?](https://www.reddit.com/r/scala/comments/m6kaq0/question_when_mapping_over_a_list_to_make_api/)
-- [Java 16 is here!](https://www.reddit.com/r/scala/comments/m6fx6v/java_16_is_here/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

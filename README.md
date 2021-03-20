@@ -239,6 +239,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How weird is to have a function return Either[A, B] where Left is not an error?](https://www.reddit.com/r/scala/comments/m8o0l9/how_weird_is_to_have_a_function_return_eithera_b/)
 - [Streaming DynamoDB scan results into FS2 stream (Functional way)](https://www.reddit.com/r/scala/comments/m808k1/streaming_dynamodb_scan_results_into_fs2_stream/)
 - [Automatic UI generation with Scala 3's type class derivation](https://www.reddit.com/r/scala/comments/m7zh6z/automatic_ui_generation_with_scala_3s_type_class/)
 - [Pick any Card: Write Better Data Structures with Scala](https://www.reddit.com/r/scala/comments/m7tmjb/pick_any_card_write_better_data_structures_with/)
@@ -248,7 +249,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [How will Project Valhalla affect Scala?](https://www.reddit.com/r/scala/comments/m7cyho/how_will_project_valhalla_affect_scala/)
 - [What colour theme would you recommend for Scala on VSCode ?](https://www.reddit.com/r/scala/comments/m75er3/what_colour_theme_would_you_recommend_for_scala/)
 - [prelude - functional distributed state machines](https://www.reddit.com/r/scala/comments/m6zox9/prelude_functional_distributed_state_machines/)
-- [ZIO HTTP basic app example](https://www.reddit.com/r/scala/comments/m6zlyy/zio_http_basic_app_example/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

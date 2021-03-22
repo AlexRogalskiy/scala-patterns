@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala (Mar 22, 2021)](https://www.reddit.com/r/scala/comments/maa2f8/this_week_in_scala_mar_22_2021/)
+- [Which settings / configurations should I make to deploy the Hello World Play web app via boxfuse TO AWS?](https://www.reddit.com/r/scala/comments/ma1862/which_settings_configurations_should_i_make_to/)
+- [SBT Helm plugin update](https://www.reddit.com/r/scala/comments/ma0f68/sbt_helm_plugin_update/)
+- [Dotty client for a text recognition service](https://www.reddit.com/r/scala/comments/m9ty1a/dotty_client_for_a_text_recognition_service/)
 - [Manikin: Concurrent Worlds](https://www.reddit.com/r/scala/comments/m9intp/manikin_concurrent_worlds/)
 - [Just getting started with scala. Should i start with Scala 2 or just skip to scala 3 right away ?](https://www.reddit.com/r/scala/comments/m95bih/just_getting_started_with_scala_should_i_start/)
 - [FP: The Good, the Bad, and the Ugly](https://www.reddit.com/r/scala/comments/m958tx/fp_the_good_the_bad_and_the_ugly/)
 - [Semigroups and Monoids in Scala](https://www.reddit.com/r/scala/comments/m93lwz/semigroups_and_monoids_in_scala/)
 - [Using WriterT with applicative](https://www.reddit.com/r/scala/comments/m91m59/using_writert_with_applicative/)
 - [Good study resources to transition to Scala 3](https://www.reddit.com/r/scala/comments/m8yl5j/good_study_resources_to_transition_to_scala_3/)
-- [How do effect systems work?](https://www.reddit.com/r/scala/comments/m8xfrm/how_do_effect_systems_work/)
-- [How weird is to have a function return Either[A, B] where Left is not an error?](https://www.reddit.com/r/scala/comments/m8o0l9/how_weird_is_to_have_a_function_return_eithera_b/)
-- [Streaming DynamoDB scan results into FS2 stream (Functional way)](https://www.reddit.com/r/scala/comments/m808k1/streaming_dynamodb_scan_results_into_fs2_stream/)
-- [Automatic UI generation with Scala 3's type class derivation](https://www.reddit.com/r/scala/comments/m7zh6z/automatic_ui_generation_with_scala_3s_type_class/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

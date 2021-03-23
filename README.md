@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Implementing Functional Effects by Way of Self-Lobotomy (A Talk)](https://www.reddit.com/r/scala/comments/maz1x3/implementing_functional_effects_by_way_of/)
+- [ZIO in a collaboration project where not everyone uses ZIO?](https://www.reddit.com/r/scala/comments/maxygt/zio_in_a_collaboration_project_where_not_everyone/)
+- [Scala is a Maintenance Nightmare - MungingData](https://www.reddit.com/r/scala/comments/maw2wf/scala_is_a_maintenance_nightmare_mungingdata/)
+- [John Snow Labs Spark-NLP 3.0.0: Supporting Spark 3.x, Scala 2.12, more Databricks runtimes, more EMR versions, performance improvements & lots more](https://www.reddit.com/r/scala/comments/mauz0k/john_snow_labs_sparknlp_300_supporting_spark_3x/)
+- [sbt 1.5.0-RC2 released](https://www.reddit.com/r/scala/comments/makehi/sbt_150rc2_released/)
+- [karma++;](https://www.reddit.com/r/scala/comments/mah6ek/karma/)
+- [how to display verbose training steps in spark machine learning?](https://www.reddit.com/r/scala/comments/magdao/how_to_display_verbose_training_steps_in_spark/)
+- [Git Command visualizer(scala-powered)](https://www.reddit.com/r/scala/comments/mag7h7/git_command_visualizerscalapowered/)
 - [This week in #Scala (Mar 22, 2021)](https://www.reddit.com/r/scala/comments/maa2f8/this_week_in_scala_mar_22_2021/)
 - [Which settings / configurations should I make to deploy the Hello World Play web app via boxfuse TO AWS?](https://www.reddit.com/r/scala/comments/ma1862/which_settings_configurations_should_i_make_to/)
-- [SBT Helm plugin update](https://www.reddit.com/r/scala/comments/ma0f68/sbt_helm_plugin_update/)
-- [Dotty client for a text recognition service](https://www.reddit.com/r/scala/comments/m9ty1a/dotty_client_for_a_text_recognition_service/)
-- [Manikin: Concurrent Worlds](https://www.reddit.com/r/scala/comments/m9intp/manikin_concurrent_worlds/)
-- [Just getting started with scala. Should i start with Scala 2 or just skip to scala 3 right away ?](https://www.reddit.com/r/scala/comments/m95bih/just_getting_started_with_scala_should_i_start/)
-- [FP: The Good, the Bad, and the Ugly](https://www.reddit.com/r/scala/comments/m958tx/fp_the_good_the_bad_and_the_ugly/)
-- [Semigroups and Monoids in Scala](https://www.reddit.com/r/scala/comments/m93lwz/semigroups_and_monoids_in_scala/)
-- [Using WriterT with applicative](https://www.reddit.com/r/scala/comments/m91m59/using_writert_with_applicative/)
-- [Good study resources to transition to Scala 3](https://www.reddit.com/r/scala/comments/m8yl5j/good_study_resources_to_transition_to_scala_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

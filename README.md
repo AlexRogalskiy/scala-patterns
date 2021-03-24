@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why Scala 3 will be awesome](https://www.reddit.com/r/scala/comments/mbqi0y/why_scala_3_will_be_awesome/)
+- [Why Scala (still) hasn't missed the Android opportunity](https://www.reddit.com/r/scala/comments/mbo5fi/why_scala_still_hasnt_missed_the_android/)
+- [Need Help with Scala? Join the Devs' Guild!](https://www.reddit.com/r/scala/comments/mbnroj/need_help_with_scala_join_the_devs_guild/)
+- [Programming with Functions #6: Thread Safety (and a bit of Scala on Android :) )](https://www.reddit.com/r/scala/comments/mbivn9/programming_with_functions_6_thread_safety_and_a/)
+- [Scala3 Proof of concept: Natural for-less Effects](https://www.reddit.com/r/scala/comments/mbg5fh/scala3_proof_of_concept_natural_forless_effects/)
 - [Implementing Functional Effects by Way of Self-Lobotomy (A Talk)](https://www.reddit.com/r/scala/comments/maz1x3/implementing_functional_effects_by_way_of/)
 - [ZIO in a collaboration project where not everyone uses ZIO?](https://www.reddit.com/r/scala/comments/maxygt/zio_in_a_collaboration_project_where_not_everyone/)
 - [Scala is a Maintenance Nightmare - MungingData](https://www.reddit.com/r/scala/comments/maw2wf/scala_is_a_maintenance_nightmare_mungingdata/)
 - [John Snow Labs Spark-NLP 3.0.0: Supporting Spark 3.x, Scala 2.12, more Databricks runtimes, more EMR versions, performance improvements & lots more](https://www.reddit.com/r/scala/comments/mauz0k/john_snow_labs_sparknlp_300_supporting_spark_3x/)
 - [sbt 1.5.0-RC2 released](https://www.reddit.com/r/scala/comments/makehi/sbt_150rc2_released/)
-- [karma++;](https://www.reddit.com/r/scala/comments/mah6ek/karma/)
-- [how to display verbose training steps in spark machine learning?](https://www.reddit.com/r/scala/comments/magdao/how_to_display_verbose_training_steps_in_spark/)
-- [Git Command visualizer(scala-powered)](https://www.reddit.com/r/scala/comments/mag7h7/git_command_visualizerscalapowered/)
-- [This week in #Scala (Mar 22, 2021)](https://www.reddit.com/r/scala/comments/maa2f8/this_week_in_scala_mar_22_2021/)
-- [Which settings / configurations should I make to deploy the Hello World Play web app via boxfuse TO AWS?](https://www.reddit.com/r/scala/comments/ma1862/which_settings_configurations_should_i_make_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

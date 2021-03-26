@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala as general purpose](https://www.reddit.com/r/scala/comments/md6l13/scala_as_general_purpose/)
+- [Catching up with Scala after two years of absence](https://www.reddit.com/r/scala/comments/md6dle/catching_up_with_scala_after_two_years_of_absence/)
+- [Functions in Functional Programming | FP-Tower](https://www.reddit.com/r/scala/comments/mcta3j/functions_in_functional_programming_fptower/)
+- [Using Cats Effect Resource in Non-Functional Contexts](https://www.reddit.com/r/scala/comments/mcspiz/using_cats_effect_resource_in_nonfunctional/)
 - [Is learning scala worth it?](https://www.reddit.com/r/scala/comments/mclcai/is_learning_scala_worth_it/)
 - [A ssh library that is functional and practical](https://www.reddit.com/r/scala/comments/mckam0/a_ssh_library_that_is_functional_and_practical/)
 - [Scala 3 with Bazel](https://www.reddit.com/r/scala/comments/mcfume/scala_3_with_bazel/)
 - [Choosing the right Scala collection (Scala 2.13)](https://www.reddit.com/r/scala/comments/mc9soo/choosing_the_right_scala_collection_scala_213/)
 - [dhall-generic now support Scala 3 (no shapeless required)](https://www.reddit.com/r/scala/comments/mc1h39/dhallgeneric_now_support_scala_3_no_shapeless/)
 - [Why Scala 3 will be awesome](https://www.reddit.com/r/scala/comments/mbqi0y/why_scala_3_will_be_awesome/)
-- [Why Scala (still) hasn't missed the Android opportunity](https://www.reddit.com/r/scala/comments/mbo5fi/why_scala_still_hasnt_missed_the_android/)
-- [Need Help with Scala? Join the Devs' Guild!](https://www.reddit.com/r/scala/comments/mbnroj/need_help_with_scala_join_the_devs_guild/)
-- [Programming with Functions #6: Thread Safety (and a bit of Scala on Android :) )](https://www.reddit.com/r/scala/comments/mbivn9/programming_with_functions_6_thread_safety_and_a/)
-- [Scala3 Proof of concept: Natural for-less Effects](https://www.reddit.com/r/scala/comments/mbg5fh/scala3_proof_of_concept_natural_forless_effects/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

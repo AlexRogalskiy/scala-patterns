@@ -239,6 +239,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Merge two sorted arrays with O(1) space](https://www.reddit.com/r/scala/comments/mdnr9o/merge_two_sorted_arrays_with_o1_space/)
+- [Is anyone planning to do the Google CodeJam with Scala? If so, do you have any tips?](https://www.reddit.com/r/scala/comments/mdjx45/is_anyone_planning_to_do_the_google_codejam_with/)
 - [Scala as general purpose](https://www.reddit.com/r/scala/comments/md6l13/scala_as_general_purpose/)
 - [Catching up with Scala after two years of absence](https://www.reddit.com/r/scala/comments/md6dle/catching_up_with_scala_after_two_years_of_absence/)
 - [Functions in Functional Programming | FP-Tower](https://www.reddit.com/r/scala/comments/mcta3j/functions_in_functional_programming_fptower/)
@@ -247,8 +249,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [A ssh library that is functional and practical](https://www.reddit.com/r/scala/comments/mckam0/a_ssh_library_that_is_functional_and_practical/)
 - [Scala 3 with Bazel](https://www.reddit.com/r/scala/comments/mcfume/scala_3_with_bazel/)
 - [Choosing the right Scala collection (Scala 2.13)](https://www.reddit.com/r/scala/comments/mc9soo/choosing_the_right_scala_collection_scala_213/)
-- [dhall-generic now support Scala 3 (no shapeless required)](https://www.reddit.com/r/scala/comments/mc1h39/dhallgeneric_now_support_scala_3_no_shapeless/)
-- [Why Scala 3 will be awesome](https://www.reddit.com/r/scala/comments/mbqi0y/why_scala_3_will_be_awesome/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Where is use Scala?](https://www.reddit.com/r/scala/comments/menz2z/where_is_use_scala/)
+- [I made Scala desktop application (that works alongside a browser plugin) for my final year college project. Hoping to get some feedback and people to beta test it.](https://www.reddit.com/r/scala/comments/menls7/i_made_scala_desktop_application_that_works/)
+- [Need help with Akka actors in scala](https://www.reddit.com/r/scala/comments/mek9fm/need_help_with_akka_actors_in_scala/)
+- [Anyone hired with only MOOCs certifications?](https://www.reddit.com/r/scala/comments/mecdb7/anyone_hired_with_only_moocs_certifications/)
+- [Is it worth starting to learn Scala 2 now, with the imminent release of Scala 3?](https://www.reddit.com/r/scala/comments/me9qky/is_it_worth_starting_to_learn_scala_2_now_with/)
+- [Data Structure in Scala for a Recursive data type](https://www.reddit.com/r/scala/comments/me9hgi/data_structure_in_scala_for_a_recursive_data_type/)
+- [I'm learning to using Scala with Classic Akka Actors](https://www.reddit.com/r/scala/comments/me6q9t/im_learning_to_using_scala_with_classic_akka/)
+- [How to filter only integers to avoid an NumberFormatException](https://www.reddit.com/r/scala/comments/me68e6/how_to_filter_only_integers_to_avoid_an/)
 - [Merge two sorted arrays with O(1) space](https://www.reddit.com/r/scala/comments/mdnr9o/merge_two_sorted_arrays_with_o1_space/)
 - [Is anyone planning to do the Google CodeJam with Scala? If so, do you have any tips?](https://www.reddit.com/r/scala/comments/mdjx45/is_anyone_planning_to_do_the_google_codejam_with/)
-- [Scala as general purpose](https://www.reddit.com/r/scala/comments/md6l13/scala_as_general_purpose/)
-- [Catching up with Scala after two years of absence](https://www.reddit.com/r/scala/comments/md6dle/catching_up_with_scala_after_two_years_of_absence/)
-- [Functions in Functional Programming | FP-Tower](https://www.reddit.com/r/scala/comments/mcta3j/functions_in_functional_programming_fptower/)
-- [Using Cats Effect Resource in Non-Functional Contexts](https://www.reddit.com/r/scala/comments/mcspiz/using_cats_effect_resource_in_nonfunctional/)
-- [Is learning scala worth it?](https://www.reddit.com/r/scala/comments/mclcai/is_learning_scala_worth_it/)
-- [A ssh library that is functional and practical](https://www.reddit.com/r/scala/comments/mckam0/a_ssh_library_that_is_functional_and_practical/)
-- [Scala 3 with Bazel](https://www.reddit.com/r/scala/comments/mcfume/scala_3_with_bazel/)
-- [Choosing the right Scala collection (Scala 2.13)](https://www.reddit.com/r/scala/comments/mc9soo/choosing_the_right_scala_collection_scala_213/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

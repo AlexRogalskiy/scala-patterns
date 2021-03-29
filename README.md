@@ -239,6 +239,9 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala (Mar 29, 2021)](https://www.reddit.com/r/scala/comments/mfe0dc/this_week_in_scala_mar_29_2021/)
+- [Modern scala deployments?](https://www.reddit.com/r/scala/comments/mexr5z/modern_scala_deployments/)
+- [What is Java equivalent of Scala.js?](https://www.reddit.com/r/scala/comments/mewn6m/what_is_java_equivalent_of_scalajs/)
 - [Where is use Scala?](https://www.reddit.com/r/scala/comments/menz2z/where_is_use_scala/)
 - [I made Scala desktop application (that works alongside a browser plugin) for my final year college project. Hoping to get some feedback and people to beta test it.](https://www.reddit.com/r/scala/comments/menls7/i_made_scala_desktop_application_that_works/)
 - [Need help with Akka actors in scala](https://www.reddit.com/r/scala/comments/mek9fm/need_help_with_akka_actors_in_scala/)
@@ -246,9 +249,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [Is it worth starting to learn Scala 2 now, with the imminent release of Scala 3?](https://www.reddit.com/r/scala/comments/me9qky/is_it_worth_starting_to_learn_scala_2_now_with/)
 - [Data Structure in Scala for a Recursive data type](https://www.reddit.com/r/scala/comments/me9hgi/data_structure_in_scala_for_a_recursive_data_type/)
 - [I'm learning to using Scala with Classic Akka Actors](https://www.reddit.com/r/scala/comments/me6q9t/im_learning_to_using_scala_with_classic_akka/)
-- [How to filter only integers to avoid an NumberFormatException](https://www.reddit.com/r/scala/comments/me68e6/how_to_filter_only_integers_to_avoid_an/)
-- [Merge two sorted arrays with O(1) space](https://www.reddit.com/r/scala/comments/mdnr9o/merge_two_sorted_arrays_with_o1_space/)
-- [Is anyone planning to do the Google CodeJam with Scala? If so, do you have any tips?](https://www.reddit.com/r/scala/comments/mdjx45/is_anyone_planning_to_do_the_google_codejam_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Deriving the Frontend (A Scala.js Tutorial)](https://www.reddit.com/r/scala/comments/mfvb6f/deriving_the_frontend_a_scalajs_tutorial/)
+- [Cats Effect 3 released!](https://www.reddit.com/r/scala/comments/mfm0mi/cats_effect_3_released/)
+- [A Metals Retrospective - Talk at SF Scala](https://www.reddit.com/r/scala/comments/mfk0nh/a_metals_retrospective_talk_at_sf_scala/)
+- [Performance of 12 JSON parsers for Scala](https://www.reddit.com/r/scala/comments/mfjuij/performance_of_12_json_parsers_for_scala/)
+- [Lagom production projects and positions](https://www.reddit.com/r/scala/comments/mfivlm/lagom_production_projects_and_positions/)
 - [This week in #Scala (Mar 29, 2021)](https://www.reddit.com/r/scala/comments/mfe0dc/this_week_in_scala_mar_29_2021/)
 - [Modern scala deployments?](https://www.reddit.com/r/scala/comments/mexr5z/modern_scala_deployments/)
 - [What is Java equivalent of Scala.js?](https://www.reddit.com/r/scala/comments/mewn6m/what_is_java_equivalent_of_scalajs/)
 - [Where is use Scala?](https://www.reddit.com/r/scala/comments/menz2z/where_is_use_scala/)
 - [I made Scala desktop application (that works alongside a browser plugin) for my final year college project. Hoping to get some feedback and people to beta test it.](https://www.reddit.com/r/scala/comments/menls7/i_made_scala_desktop_application_that_works/)
-- [Need help with Akka actors in scala](https://www.reddit.com/r/scala/comments/mek9fm/need_help_with_akka_actors_in_scala/)
-- [Anyone hired with only MOOCs certifications?](https://www.reddit.com/r/scala/comments/mecdb7/anyone_hired_with_only_moocs_certifications/)
-- [Is it worth starting to learn Scala 2 now, with the imminent release of Scala 3?](https://www.reddit.com/r/scala/comments/me9qky/is_it_worth_starting_to_learn_scala_2_now_with/)
-- [Data Structure in Scala for a Recursive data type](https://www.reddit.com/r/scala/comments/me9hgi/data_structure_in_scala_for_a_recursive_data_type/)
-- [I'm learning to using Scala with Classic Akka Actors](https://www.reddit.com/r/scala/comments/me6q9t/im_learning_to_using_scala_with_classic_akka/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3.0.0-RC2 Has Landed](https://www.reddit.com/r/scala/comments/mgtza3/scala_300rc2_has_landed/)
+- [Our experience @Bestmile building a transportation cloud with microservices in #Scala with #Akka and #DDD](https://www.reddit.com/r/scala/comments/mgo6ij/our_experience_bestmile_building_a_transportation/)
+- [using deeplearning4j with scala](https://www.reddit.com/r/scala/comments/mgl011/using_deeplearning4j_with_scala/)
+- [Should you learn Scala2​ or Scala3​ in 2021? (short)](https://www.reddit.com/r/scala/comments/mghu49/should_you_learn_scala2_or_scala3_in_2021_short/)
+- [Life Is A Comonad [talk, 2018]: implementing Conway's game of life using comonads](https://www.reddit.com/r/scala/comments/mgeu7a/life_is_a_comonad_talk_2018_implementing_conways/)
+- [Fearless Refactoring with Functional Programming | FP-Tower](https://www.reddit.com/r/scala/comments/mgb6xl/fearless_refactoring_with_functional_programming/)
+- [An Android room on the official Scala discord](https://www.reddit.com/r/scala/comments/mgadzo/an_android_room_on_the_official_scala_discord/)
 - [Deriving the Frontend (A Scala.js Tutorial)](https://www.reddit.com/r/scala/comments/mfvb6f/deriving_the_frontend_a_scalajs_tutorial/)
 - [Cats Effect 3 released!](https://www.reddit.com/r/scala/comments/mfm0mi/cats_effect_3_released/)
 - [A Metals Retrospective - Talk at SF Scala](https://www.reddit.com/r/scala/comments/mfk0nh/a_metals_retrospective_talk_at_sf_scala/)
-- [Performance of 12 JSON parsers for Scala](https://www.reddit.com/r/scala/comments/mfjuij/performance_of_12_json_parsers_for_scala/)
-- [Lagom production projects and positions](https://www.reddit.com/r/scala/comments/mfivlm/lagom_production_projects_and_positions/)
-- [This week in #Scala (Mar 29, 2021)](https://www.reddit.com/r/scala/comments/mfe0dc/this_week_in_scala_mar_29_2021/)
-- [Modern scala deployments?](https://www.reddit.com/r/scala/comments/mexr5z/modern_scala_deployments/)
-- [What is Java equivalent of Scala.js?](https://www.reddit.com/r/scala/comments/mewn6m/what_is_java_equivalent_of_scalajs/)
-- [Where is use Scala?](https://www.reddit.com/r/scala/comments/menz2z/where_is_use_scala/)
-- [I made Scala desktop application (that works alongside a browser plugin) for my final year college project. Hoping to get some feedback and people to beta test it.](https://www.reddit.com/r/scala/comments/menls7/i_made_scala_desktop_application_that_works/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -317,6 +317,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Scalac posts_
 
 <!-- SCALAC-POST-LIST:START -->
+- [Top 15 Scala Libraries for Data Science in 2021](https://scalac.io/blog/top-15-scala-libraries-for-data-science-in-2021/)
 - [How To Tackle Technical Debt Quadrants?](https://scalac.io/blog/how-to-tackle-technical-debt-quadrants/)
 - [13 Elements That Contribute To Technical Debt](https://scalac.io/blog/13-elements-that-contribute-to-technical-debt/)
 - [Financial Intelligence At Airbnb With Scala – A Case Study](https://scalac.io/blog/financial-intelligence-at-airbnb-with-scala-a-case-study/)
@@ -326,7 +327,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [Scala 3 / Dotty – Facts and Opinions. What do we expect?](https://scalac.io/blog/scala-3-dotty-facts-opinions/)
 - [Hadoop vs Spark: What’s the difference?](https://scalac.io/blog/hadoop-vs-spark-whats-the-difference/)
 - [Streaming microservices with ZIO and Kafka](https://scalac.io/blog/streaming-microservices-with-zio-and-kafka/)
-- [Introducción a la Programación con Efectos Funcionales usando ZIO](https://scalac.io/blog/introduccion-a-la-programacion-con-efectos-funcionales-usando-zio/)
 <!-- SCALAC-POST-LIST:END -->
 
 ---

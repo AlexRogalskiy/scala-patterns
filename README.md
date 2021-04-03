@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
-- [Scala 3.0.0-RC2 Has Landed](https://www.reddit.com/r/scala/comments/mgtza3/scala_300rc2_has_landed/)
-- [Our experience @Bestmile building a transportation cloud with microservices in #Scala with #Akka and #DDD](https://www.reddit.com/r/scala/comments/mgo6ij/our_experience_bestmile_building_a_transportation/)
-- [using deeplearning4j with scala](https://www.reddit.com/r/scala/comments/mgl011/using_deeplearning4j_with_scala/)
-- [Should you learn Scala2​ or Scala3​ in 2021? (short)](https://www.reddit.com/r/scala/comments/mghu49/should_you_learn_scala2_or_scala3_in_2021_short/)
-- [Life Is A Comonad [talk, 2018]: implementing Conway's game of life using comonads](https://www.reddit.com/r/scala/comments/mgeu7a/life_is_a_comonad_talk_2018_implementing_conways/)
-- [Fearless Refactoring with Functional Programming | FP-Tower](https://www.reddit.com/r/scala/comments/mgb6xl/fearless_refactoring_with_functional_programming/)
-- [An Android room on the official Scala discord](https://www.reddit.com/r/scala/comments/mgadzo/an_android_room_on_the_official_scala_discord/)
-- [Deriving the Frontend (A Scala.js Tutorial)](https://www.reddit.com/r/scala/comments/mfvb6f/deriving_the_frontend_a_scalajs_tutorial/)
-- [Cats Effect 3 released!](https://www.reddit.com/r/scala/comments/mfm0mi/cats_effect_3_released/)
-- [A Metals Retrospective - Talk at SF Scala](https://www.reddit.com/r/scala/comments/mfk0nh/a_metals_retrospective_talk_at_sf_scala/)
+- [Streaming some Scala web dev on Twitch today - 4 PM Pacific](https://www.reddit.com/r/scala/comments/mivibb/streaming_some_scala_web_dev_on_twitch_today_4_pm/)
+- [Anyone experienced with Scala answer this question I posted on StackOverflow?](https://www.reddit.com/r/scala/comments/mijh8n/anyone_experienced_with_scala_answer_this/)
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/mhyes5/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [We just released 1.0 of LibreCaptcha, an open-source, self-hosted CAPTCHA service!](https://www.reddit.com/r/scala/comments/mhxmgr/we_just_released_10_of_librecaptcha_an_opensource/)
+- [Snippet validation in Scaladoc for Scala 3](https://www.reddit.com/r/scala/comments/mhwyl7/snippet_validation_in_scaladoc_for_scala_3/)
+- [The status and future of Lagom](https://www.reddit.com/r/scala/comments/mhq8i5/the_status_and_future_of_lagom/)
+- [What is your usual process for fixing divergent implicit errors?](https://www.reddit.com/r/scala/comments/mhafsj/what_is_your_usual_process_for_fixing_divergent/)
+- [Akka Typed: Message Adapters](https://www.reddit.com/r/scala/comments/mha09f/akka_typed_message_adapters/)
+- [Compiler Plugin Development in Scala 3](https://www.reddit.com/r/scala/comments/mh7vqd/compiler_plugin_development_in_scala_3/)
+- [How would I convert from a generic type T to a double?](https://www.reddit.com/r/scala/comments/mh5puj/how_would_i_convert_from_a_generic_type_t_to_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

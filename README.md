@@ -239,6 +239,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do I apply my method to all the elements specified by my list of index numbers, without ommiting the rest of the list?](https://www.reddit.com/r/scala/comments/mj5nwe/how_do_i_apply_my_method_to_all_the_elements/)
 - [Streaming some Scala web dev on Twitch today - 4 PM Pacific](https://www.reddit.com/r/scala/comments/mivibb/streaming_some_scala_web_dev_on_twitch_today_4_pm/)
 - [Anyone experienced with Scala answer this question I posted on StackOverflow?](https://www.reddit.com/r/scala/comments/mijh8n/anyone_experienced_with_scala_answer_this/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/mhyes5/who_is_hiring_monthly_rscala_job_postings_thread/)
@@ -248,7 +249,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [What is your usual process for fixing divergent implicit errors?](https://www.reddit.com/r/scala/comments/mhafsj/what_is_your_usual_process_for_fixing_divergent/)
 - [Akka Typed: Message Adapters](https://www.reddit.com/r/scala/comments/mha09f/akka_typed_message_adapters/)
 - [Compiler Plugin Development in Scala 3](https://www.reddit.com/r/scala/comments/mh7vqd/compiler_plugin_development_in_scala_3/)
-- [How would I convert from a generic type T to a double?](https://www.reddit.com/r/scala/comments/mh5puj/how_would_i_convert_from_a_generic_type_t_to_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

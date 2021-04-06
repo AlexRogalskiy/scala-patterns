@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Routing DSL on Netty.](https://www.reddit.com/r/scala/comments/mkxz6o/routing_dsl_on_netty/)
+- [Running experiments across multiple machines in scala.](https://www.reddit.com/r/scala/comments/mkop73/running_experiments_across_multiple_machines_in/)
+- [Welcome to JAR Hell, Part 1 (Compilation, Classpaths, and Libraries)](https://www.reddit.com/r/scala/comments/mkooui/welcome_to_jar_hell_part_1_compilation_classpaths/)
+- [Machine learning on JVM](https://www.reddit.com/r/scala/comments/mkl3p8/machine_learning_on_jvm/)
 - [This week in #Scala (Apr 5, 2021)](https://www.reddit.com/r/scala/comments/mk7htr/this_week_in_scala_apr_5_2021/)
 - [New to Scala and love it. If you use Scala at work, what industry do you work in?](https://www.reddit.com/r/scala/comments/mk5gw0/new_to_scala_and_love_it_if_you_use_scala_at_work/)
 - [sbt 1.5.0 released](https://www.reddit.com/r/scala/comments/mk2p3i/sbt_150_released/)
 - [[FS2] - Mutability of Queue in Stream](https://www.reddit.com/r/scala/comments/mjzeah/fs2_mutability_of_queue_in_stream/)
 - [How do I apply my method to all the elements specified by my list of index numbers, without ommiting the rest of the list?](https://www.reddit.com/r/scala/comments/mj5nwe/how_do_i_apply_my_method_to_all_the_elements/)
 - [Streaming some Scala web dev on Twitch today - 4 PM Pacific](https://www.reddit.com/r/scala/comments/mivibb/streaming_some_scala_web_dev_on_twitch_today_4_pm/)
-- [Anyone experienced with Scala answer this question I posted on StackOverflow?](https://www.reddit.com/r/scala/comments/mijh8n/anyone_experienced_with_scala_answer_this/)
-- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/mhyes5/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [We just released 1.0 of LibreCaptcha, an open-source, self-hosted CAPTCHA service!](https://www.reddit.com/r/scala/comments/mhxmgr/we_just_released_10_of_librecaptcha_an_opensource/)
-- [Snippet validation in Scaladoc for Scala 3](https://www.reddit.com/r/scala/comments/mhwyl7/snippet_validation_in_scaladoc_for_scala_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

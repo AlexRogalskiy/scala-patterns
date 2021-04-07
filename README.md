@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [weaver 0.6/0.7, a test framework for IO programs, now with cats-effect 3 and Scala 3 support](https://www.reddit.com/r/scala/comments/mlm2pb/weaver_0607_a_test_framework_for_io_programs_now/)
+- [MapK, a Map class for higher-kind key and value types](https://www.reddit.com/r/scala/comments/mljs9j/mapk_a_map_class_for_higherkind_key_and_value/)
+- [Managing Complexity with Functional Programming | FP-Tower](https://www.reddit.com/r/scala/comments/mlj257/managing_complexity_with_functional_programming/)
+- [Kinesis-Mock, a mock Kinesis service for local testing](https://www.reddit.com/r/scala/comments/mld8ss/kinesismock_a_mock_kinesis_service_for_local/)
 - [Routing DSL on Netty.](https://www.reddit.com/r/scala/comments/mkxz6o/routing_dsl_on_netty/)
 - [Running experiments across multiple machines in scala.](https://www.reddit.com/r/scala/comments/mkop73/running_experiments_across_multiple_machines_in/)
 - [Welcome to JAR Hell, Part 1 (Compilation, Classpaths, and Libraries)](https://www.reddit.com/r/scala/comments/mkooui/welcome_to_jar_hell_part_1_compilation_classpaths/)
 - [Machine learning on JVM](https://www.reddit.com/r/scala/comments/mkl3p8/machine_learning_on_jvm/)
 - [This week in #Scala (Apr 5, 2021)](https://www.reddit.com/r/scala/comments/mk7htr/this_week_in_scala_apr_5_2021/)
 - [New to Scala and love it. If you use Scala at work, what industry do you work in?](https://www.reddit.com/r/scala/comments/mk5gw0/new_to_scala_and_love_it_if_you_use_scala_at_work/)
-- [sbt 1.5.0 released](https://www.reddit.com/r/scala/comments/mk2p3i/sbt_150_released/)
-- [[FS2] - Mutability of Queue in Stream](https://www.reddit.com/r/scala/comments/mjzeah/fs2_mutability_of_queue_in_stream/)
-- [How do I apply my method to all the elements specified by my list of index numbers, without ommiting the rest of the list?](https://www.reddit.com/r/scala/comments/mj5nwe/how_do_i_apply_my_method_to_all_the_elements/)
-- [Streaming some Scala web dev on Twitch today - 4 PM Pacific](https://www.reddit.com/r/scala/comments/mivibb/streaming_some_scala_web_dev_on_twitch_today_4_pm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

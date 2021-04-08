@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Google Summer of Code 2011 - Student application deadline 13th of April](https://www.reddit.com/r/scala/comments/mmbizh/google_summer_of_code_2011_student_application/)
+- [How to build an Android app in Scala 2.13](https://www.reddit.com/r/scala/comments/mm4n4h/how_to_build_an_android_app_in_scala_213/)
+- [.class file compiled with *javac* run with *scala*](https://www.reddit.com/r/scala/comments/mm3o4o/class_file_compiled_with_javac_run_with_scala/)
+- [IntelliJ Scala Plugin 2021.1 Is Out!](https://www.reddit.com/r/scala/comments/mm2ate/intellij_scala_plugin_20211_is_out/)
+- [Please can someone explain to me what the code below means with examples?](https://www.reddit.com/r/scala/comments/mm26a9/please_can_someone_explain_to_me_what_the_code/)
+- [Metals v0.10.1 is out with a ton of bug fixes and smoother main and test discovery!](https://www.reddit.com/r/scala/comments/mlwbq6/metals_v0101_is_out_with_a_ton_of_bug_fixes_and/)
 - [weaver 0.6/0.7, a test framework for IO programs, now with cats-effect 3 and Scala 3 support](https://www.reddit.com/r/scala/comments/mlm2pb/weaver_0607_a_test_framework_for_io_programs_now/)
 - [MapK, a Map class for higher-kind key and value types](https://www.reddit.com/r/scala/comments/mljs9j/mapk_a_map_class_for_higherkind_key_and_value/)
 - [Managing Complexity with Functional Programming | FP-Tower](https://www.reddit.com/r/scala/comments/mlj257/managing_complexity_with_functional_programming/)
 - [Kinesis-Mock, a mock Kinesis service for local testing](https://www.reddit.com/r/scala/comments/mld8ss/kinesismock_a_mock_kinesis_service_for_local/)
-- [Routing DSL on Netty.](https://www.reddit.com/r/scala/comments/mkxz6o/routing_dsl_on_netty/)
-- [Running experiments across multiple machines in scala.](https://www.reddit.com/r/scala/comments/mkop73/running_experiments_across_multiple_machines_in/)
-- [Welcome to JAR Hell, Part 1 (Compilation, Classpaths, and Libraries)](https://www.reddit.com/r/scala/comments/mkooui/welcome_to_jar_hell_part_1_compilation_classpaths/)
-- [Machine learning on JVM](https://www.reddit.com/r/scala/comments/mkl3p8/machine_learning_on_jvm/)
-- [This week in #Scala (Apr 5, 2021)](https://www.reddit.com/r/scala/comments/mk7htr/this_week_in_scala_apr_5_2021/)
-- [New to Scala and love it. If you use Scala at work, what industry do you work in?](https://www.reddit.com/r/scala/comments/mk5gw0/new_to_scala_and_love_it_if_you_use_scala_at_work/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

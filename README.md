@@ -317,6 +317,7 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Scalac posts_
 
 <!-- SCALAC-POST-LIST:START -->
+- [How Outsourcing Can Solve Technical Debt](https://scalac.io/blog/how-outsourcing-can-solve-technical-debt/)
 - [Top 15 Scala Libraries for Data Science in 2021](https://scalac.io/blog/top-15-scala-libraries-for-data-science-in-2021/)
 - [How To Tackle Technical Debt Quadrants?](https://scalac.io/blog/how-to-tackle-technical-debt-quadrants/)
 - [13 Elements That Contribute To Technical Debt](https://scalac.io/blog/13-elements-that-contribute-to-technical-debt/)
@@ -326,7 +327,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [What is Apache Kafka, and what are Kafka use cases?](https://scalac.io/blog/what-is-apache-kafka-and-what-are-kafka-use-cases/)
 - [Scala 3 / Dotty – Facts and Opinions. What do we expect?](https://scalac.io/blog/scala-3-dotty-facts-opinions/)
 - [Hadoop vs Spark: What’s the difference?](https://scalac.io/blog/hadoop-vs-spark-whats-the-difference/)
-- [Streaming microservices with ZIO and Kafka](https://scalac.io/blog/streaming-microservices-with-zio-and-kafka/)
 <!-- SCALAC-POST-LIST:END -->
 
 ---

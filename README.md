@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Special Scala in Vim stream this Saturday](https://www.reddit.com/r/scala/comments/mmz7bx/special_scala_in_vim_stream_this_saturday/)
+- [Play 2.8.8 released](https://www.reddit.com/r/scala/comments/mmwn0s/play_288_released/)
+- [Scalia course](https://www.reddit.com/r/scala/comments/mmsvza/scalia_course/)
+- [Is there any tool where I put scala code and it explains it. PS I am a beginner to scala.](https://www.reddit.com/r/scala/comments/mmrzne/is_there_any_tool_where_i_put_scala_code_and_it/)
+- [Monads are Monoids in the Category of Endofunctors - a Scala 3 Journey, No Psychobabble](https://www.reddit.com/r/scala/comments/mmnbjr/monads_are_monoids_in_the_category_of/)
 - [Google Summer of Code 2011 - Student application deadline 13th of April](https://www.reddit.com/r/scala/comments/mmbizh/google_summer_of_code_2011_student_application/)
 - [How to build an Android app in Scala 2.13](https://www.reddit.com/r/scala/comments/mm4n4h/how_to_build_an_android_app_in_scala_213/)
 - [.class file compiled with *javac* run with *scala*](https://www.reddit.com/r/scala/comments/mm3o4o/class_file_compiled_with_javac_run_with_scala/)
 - [IntelliJ Scala Plugin 2021.1 Is Out!](https://www.reddit.com/r/scala/comments/mm2ate/intellij_scala_plugin_20211_is_out/)
 - [Please can someone explain to me what the code below means with examples?](https://www.reddit.com/r/scala/comments/mm26a9/please_can_someone_explain_to_me_what_the_code/)
-- [Metals v0.10.1 is out with a ton of bug fixes and smoother main and test discovery!](https://www.reddit.com/r/scala/comments/mlwbq6/metals_v0101_is_out_with_a_ton_of_bug_fixes_and/)
-- [weaver 0.6/0.7, a test framework for IO programs, now with cats-effect 3 and Scala 3 support](https://www.reddit.com/r/scala/comments/mlm2pb/weaver_0607_a_test_framework_for_io_programs_now/)
-- [MapK, a Map class for higher-kind key and value types](https://www.reddit.com/r/scala/comments/mljs9j/mapk_a_map_class_for_higherkind_key_and_value/)
-- [Managing Complexity with Functional Programming | FP-Tower](https://www.reddit.com/r/scala/comments/mlj257/managing_complexity_with_functional_programming/)
-- [Kinesis-Mock, a mock Kinesis service for local testing](https://www.reddit.com/r/scala/comments/mld8ss/kinesismock_a_mock_kinesis_service_for_local/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

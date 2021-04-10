@@ -239,6 +239,9 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala3 books in the pipeline?](https://www.reddit.com/r/scala/comments/mnfxdt/scala3_books_in_the_pipeline/)
+- [Parallel Linear Search Implementation in Scala](https://www.reddit.com/r/scala/comments/mnfl8y/parallel_linear_search_implementation_in_scala/)
+- [Image editing with Monads](https://www.reddit.com/r/scala/comments/mnbnqo/image_editing_with_monads/)
 - [Special Scala in Vim stream this Saturday](https://www.reddit.com/r/scala/comments/mmz7bx/special_scala_in_vim_stream_this_saturday/)
 - [Play 2.8.8 released](https://www.reddit.com/r/scala/comments/mmwn0s/play_288_released/)
 - [Scalia course](https://www.reddit.com/r/scala/comments/mmsvza/scalia_course/)
@@ -246,9 +249,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [Monads are Monoids in the Category of Endofunctors - a Scala 3 Journey, No Psychobabble](https://www.reddit.com/r/scala/comments/mmnbjr/monads_are_monoids_in_the_category_of/)
 - [Google Summer of Code 2011 - Student application deadline 13th of April](https://www.reddit.com/r/scala/comments/mmbizh/google_summer_of_code_2011_student_application/)
 - [How to build an Android app in Scala 2.13](https://www.reddit.com/r/scala/comments/mm4n4h/how_to_build_an_android_app_in_scala_213/)
-- [.class file compiled with *javac* run with *scala*](https://www.reddit.com/r/scala/comments/mm3o4o/class_file_compiled_with_javac_run_with_scala/)
-- [IntelliJ Scala Plugin 2021.1 Is Out!](https://www.reddit.com/r/scala/comments/mm2ate/intellij_scala_plugin_20211_is_out/)
-- [Please can someone explain to me what the code below means with examples?](https://www.reddit.com/r/scala/comments/mm26a9/please_can_someone_explain_to_me_what_the_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

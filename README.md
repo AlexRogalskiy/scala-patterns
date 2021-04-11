@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Scala ecosystem and circular dependencies?](https://www.reddit.com/r/scala/comments/moey3w/the_scala_ecosystem_and_circular_dependencies/)
+- [Can't figure](https://www.reddit.com/r/scala/comments/moerni/cant_figure/)
+- [Scala recursive insert sort](https://www.reddit.com/r/scala/comments/mo3lts/scala_recursive_insert_sort/)
+- [Resource Reuse and Memoization in distage-testkit](https://www.reddit.com/r/scala/comments/mo2wxh/resource_reuse_and_memoization_in_distagetestkit/)
 - [Scala3 books in the pipeline?](https://www.reddit.com/r/scala/comments/mnfxdt/scala3_books_in_the_pipeline/)
 - [Parallel Linear Search Implementation in Scala](https://www.reddit.com/r/scala/comments/mnfl8y/parallel_linear_search_implementation_in_scala/)
 - [Image editing with Monads](https://www.reddit.com/r/scala/comments/mnbnqo/image_editing_with_monads/)
 - [Special Scala in Vim stream this Saturday](https://www.reddit.com/r/scala/comments/mmz7bx/special_scala_in_vim_stream_this_saturday/)
 - [Play 2.8.8 released](https://www.reddit.com/r/scala/comments/mmwn0s/play_288_released/)
 - [Scalia course](https://www.reddit.com/r/scala/comments/mmsvza/scalia_course/)
-- [Is there any tool where I put scala code and it explains it. PS I am a beginner to scala.](https://www.reddit.com/r/scala/comments/mmrzne/is_there_any_tool_where_i_put_scala_code_and_it/)
-- [Monads are Monoids in the Category of Endofunctors - a Scala 3 Journey, No Psychobabble](https://www.reddit.com/r/scala/comments/mmnbjr/monads_are_monoids_in_the_category_of/)
-- [Google Summer of Code 2011 - Student application deadline 13th of April](https://www.reddit.com/r/scala/comments/mmbizh/google_summer_of_code_2011_student_application/)
-- [How to build an Android app in Scala 2.13](https://www.reddit.com/r/scala/comments/mm4n4h/how_to_build_an_android_app_in_scala_213/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

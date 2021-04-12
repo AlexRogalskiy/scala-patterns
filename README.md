@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala (Apr 12, 2021)](https://www.reddit.com/r/scala/comments/mp32dt/this_week_in_scala_apr_12_2021/)
+- [Help with Concat List of Lists](https://www.reddit.com/r/scala/comments/mp1oty/help_with_concat_list_of_lists/)
+- [Scala on leetcode](https://www.reddit.com/r/scala/comments/moqtor/scala_on_leetcode/)
+- [Dijon got Scala.js support](https://www.reddit.com/r/scala/comments/mop4zv/dijon_got_scalajs_support/)
+- [RTree2D got Scala Native support](https://www.reddit.com/r/scala/comments/mop4mv/rtree2d_got_scala_native_support/)
+- [Macwire alternatives for scala 3](https://www.reddit.com/r/scala/comments/mool6l/macwire_alternatives_for_scala_3/)
+- [A DSL for scalacOptions](https://www.reddit.com/r/scala/comments/mon3jy/a_dsl_for_scalacoptions/)
 - [The Scala ecosystem and circular dependencies?](https://www.reddit.com/r/scala/comments/moey3w/the_scala_ecosystem_and_circular_dependencies/)
 - [Can't figure](https://www.reddit.com/r/scala/comments/moerni/cant_figure/)
 - [Scala recursive insert sort](https://www.reddit.com/r/scala/comments/mo3lts/scala_recursive_insert_sort/)
-- [Resource Reuse and Memoization in distage-testkit](https://www.reddit.com/r/scala/comments/mo2wxh/resource_reuse_and_memoization_in_distagetestkit/)
-- [Scala3 books in the pipeline?](https://www.reddit.com/r/scala/comments/mnfxdt/scala3_books_in_the_pipeline/)
-- [Parallel Linear Search Implementation in Scala](https://www.reddit.com/r/scala/comments/mnfl8y/parallel_linear_search_implementation_in_scala/)
-- [Image editing with Monads](https://www.reddit.com/r/scala/comments/mnbnqo/image_editing_with_monads/)
-- [Special Scala in Vim stream this Saturday](https://www.reddit.com/r/scala/comments/mmz7bx/special_scala_in_vim_stream_this_saturday/)
-- [Play 2.8.8 released](https://www.reddit.com/r/scala/comments/mmwn0s/play_288_released/)
-- [Scalia course](https://www.reddit.com/r/scala/comments/mmsvza/scalia_course/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

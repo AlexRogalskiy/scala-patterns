@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need Help with Scala? Join the Devs' Guild!](https://www.reddit.com/r/scala/comments/mpjb13/need_help_with_scala_join_the_devs_guild/)
+- [Be Kind Rewind 0.1.0 released (a VCR testing library)](https://www.reddit.com/r/scala/comments/mph4rt/be_kind_rewind_010_released_a_vcr_testing_library/)
+- [sbt build failing? Bintray brownout today (April 12), another one coming April 26](https://www.reddit.com/r/scala/comments/mph43t/sbt_build_failing_bintray_brownout_today_april_12/)
+- [Using refined to improve type safety and error reporting in Scala](https://www.reddit.com/r/scala/comments/mpd8yj/using_refined_to_improve_type_safety_and_error/)
+- [Indigo 0.7.0 released featuring an all new programmable rendering pipeline](https://www.reddit.com/r/scala/comments/mp9i0a/indigo_070_released_featuring_an_all_new/)
+- [herding cats - day 18](https://www.reddit.com/r/scala/comments/mp7mmo/herding_cats_day_18/)
 - [This week in #Scala (Apr 12, 2021)](https://www.reddit.com/r/scala/comments/mp32dt/this_week_in_scala_apr_12_2021/)
 - [Help with Concat List of Lists](https://www.reddit.com/r/scala/comments/mp1oty/help_with_concat_list_of_lists/)
 - [Scala on leetcode](https://www.reddit.com/r/scala/comments/moqtor/scala_on_leetcode/)
 - [Dijon got Scala.js support](https://www.reddit.com/r/scala/comments/mop4zv/dijon_got_scalajs_support/)
-- [RTree2D got Scala Native support](https://www.reddit.com/r/scala/comments/mop4mv/rtree2d_got_scala_native_support/)
-- [Macwire alternatives for scala 3](https://www.reddit.com/r/scala/comments/mool6l/macwire_alternatives_for_scala_3/)
-- [A DSL for scalacOptions](https://www.reddit.com/r/scala/comments/mon3jy/a_dsl_for_scalacoptions/)
-- [The Scala ecosystem and circular dependencies?](https://www.reddit.com/r/scala/comments/moey3w/the_scala_ecosystem_and_circular_dependencies/)
-- [Can't figure](https://www.reddit.com/r/scala/comments/moerni/cant_figure/)
-- [Scala recursive insert sort](https://www.reddit.com/r/scala/comments/mo3lts/scala_recursive_insert_sort/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

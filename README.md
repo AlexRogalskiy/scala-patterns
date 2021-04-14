@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Beginner] I'm struggling to get past this type error](https://www.reddit.com/r/scala/comments/mqfuwp/beginner_im_struggling_to_get_past_this_type_error/)
+- [Scala 3.0.0-RC3 is planned for week of April 19th; hopefully Scala 3 in May](https://www.reddit.com/r/scala/comments/mqdmgv/scala_300rc3_is_planned_for_week_of_april_19th/)
+- [Enso 2.0 is out! Visual programming in Java, JavaScript, R, and Python. Written in Rust and GraalVM. Running in WebGL.](https://www.reddit.com/r/scala/comments/mqbst2/enso_20_is_out_visual_programming_in_java/)
+- [Unit testing with Scala: Libraries landscape](https://www.reddit.com/r/scala/comments/mq0vxq/unit_testing_with_scala_libraries_landscape/)
+- [SwissBorg becomes a ScalaCenter affiliate](https://www.reddit.com/r/scala/comments/mq02nc/swissborg_becomes_a_scalacenter_affiliate/)
+- [Scala native performance (comparison against Graal)](https://www.reddit.com/r/scala/comments/mpzg0r/scala_native_performance_comparison_against_graal/)
 - [Need Help with Scala? Join the Devs' Guild!](https://www.reddit.com/r/scala/comments/mpjb13/need_help_with_scala_join_the_devs_guild/)
 - [Be Kind Rewind 0.1.0 released (a VCR testing library)](https://www.reddit.com/r/scala/comments/mph4rt/be_kind_rewind_010_released_a_vcr_testing_library/)
 - [sbt build failing? Bintray brownout today (April 12), another one coming April 26](https://www.reddit.com/r/scala/comments/mph43t/sbt_build_failing_bintray_brownout_today_april_12/)
 - [Using refined to improve type safety and error reporting in Scala](https://www.reddit.com/r/scala/comments/mpd8yj/using_refined_to_improve_type_safety_and_error/)
-- [Indigo 0.7.0 released featuring an all new programmable rendering pipeline](https://www.reddit.com/r/scala/comments/mp9i0a/indigo_070_released_featuring_an_all_new/)
-- [herding cats - day 18](https://www.reddit.com/r/scala/comments/mp7mmo/herding_cats_day_18/)
-- [This week in #Scala (Apr 12, 2021)](https://www.reddit.com/r/scala/comments/mp32dt/this_week_in_scala_apr_12_2021/)
-- [Help with Concat List of Lists](https://www.reddit.com/r/scala/comments/mp1oty/help_with_concat_list_of_lists/)
-- [Scala on leetcode](https://www.reddit.com/r/scala/comments/moqtor/scala_on_leetcode/)
-- [Dijon got Scala.js support](https://www.reddit.com/r/scala/comments/mop4zv/dijon_got_scalajs_support/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

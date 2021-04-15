@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Welcome to JAR Hell, Part 2: Deployment Strategies](https://www.reddit.com/r/scala/comments/mr35ae/welcome_to_jar_hell_part_2_deployment_strategies/)
+- [Elegant way to sequence tries](https://www.reddit.com/r/scala/comments/mqv8m1/elegant_way_to_sequence_tries/)
+- [OAuth 2.0 3-legged flow - handling with WS client](https://www.reddit.com/r/scala/comments/mqun7n/oauth_20_3legged_flow_handling_with_ws_client/)
+- [Metals vs SBT? (Newbie question)](https://www.reddit.com/r/scala/comments/mqtrf9/metals_vs_sbt_newbie_question/)
+- [Welcome to Scala 3 Migration Discussions!](https://www.reddit.com/r/scala/comments/mqswlh/welcome_to_scala_3_migration_discussions/)
+- [Is there any good tutorial to setup GIT workflow for a simple Scala project?](https://www.reddit.com/r/scala/comments/mqr0ri/is_there_any_good_tutorial_to_setup_git_workflow/)
+- [Introduction to Metals with Scala 3](https://www.reddit.com/r/scala/comments/mqojgb/introduction_to_metals_with_scala_3/)
+- [How to make tuple's members readable within transformation sequence ?](https://www.reddit.com/r/scala/comments/mqn3xa/how_to_make_tuples_members_readable_within/)
+- [How to change repository url from https://oss.sonatype.org to https://s01.oss.sonatype.org?](https://www.reddit.com/r/scala/comments/mqk9t3/how_to_change_repository_url_from/)
 - [[Beginner] I'm struggling to get past this type error](https://www.reddit.com/r/scala/comments/mqfuwp/beginner_im_struggling_to_get_past_this_type_error/)
-- [Scala 3.0.0-RC3 is planned for week of April 19th; hopefully Scala 3 in May](https://www.reddit.com/r/scala/comments/mqdmgv/scala_300rc3_is_planned_for_week_of_april_19th/)
-- [Enso 2.0 is out! Visual programming in Java, JavaScript, R, and Python. Written in Rust and GraalVM. Running in WebGL.](https://www.reddit.com/r/scala/comments/mqbst2/enso_20_is_out_visual_programming_in_java/)
-- [Unit testing with Scala: Libraries landscape](https://www.reddit.com/r/scala/comments/mq0vxq/unit_testing_with_scala_libraries_landscape/)
-- [SwissBorg becomes a ScalaCenter affiliate](https://www.reddit.com/r/scala/comments/mq02nc/swissborg_becomes_a_scalacenter_affiliate/)
-- [Scala native performance (comparison against Graal)](https://www.reddit.com/r/scala/comments/mpzg0r/scala_native_performance_comparison_against_graal/)
-- [Need Help with Scala? Join the Devs' Guild!](https://www.reddit.com/r/scala/comments/mpjb13/need_help_with_scala_join_the_devs_guild/)
-- [Be Kind Rewind 0.1.0 released (a VCR testing library)](https://www.reddit.com/r/scala/comments/mph4rt/be_kind_rewind_010_released_a_vcr_testing_library/)
-- [sbt build failing? Bintray brownout today (April 12), another one coming April 26](https://www.reddit.com/r/scala/comments/mph43t/sbt_build_failing_bintray_brownout_today_april_12/)
-- [Using refined to improve type safety and error reporting in Scala](https://www.reddit.com/r/scala/comments/mpd8yj/using_refined_to_improve_type_safety_and_error/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -239,6 +239,9 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala devs who make big $$, what kind of work do you do?](https://www.reddit.com/r/scala/comments/mscxr3/scala_devs_who_make_big_what_kind_of_work_do_you/)
+- [What is the state of frameworks and libraries support to build microservices in scala?](https://www.reddit.com/r/scala/comments/mrxyas/what_is_the_state_of_frameworks_and_libraries/)
+- [Trying to implement git actions for sonatypeRelease](https://www.reddit.com/r/scala/comments/mrxvlp/trying_to_implement_git_actions_for/)
 - [Would scala be better of if scala native was the default?](https://www.reddit.com/r/scala/comments/mrj120/would_scala_be_better_of_if_scala_native_was_the/)
 - [[Question] Designing good fallible APIs and error types (or: Exceptions vs Try- when and where?)](https://www.reddit.com/r/scala/comments/mre2sg/question_designing_good_fallible_apis_and_error/)
 - [Enso 2.0 public Alpha](https://www.reddit.com/r/scala/comments/mrbf75/enso_20_public_alpha/)
@@ -246,9 +249,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [Welcome to JAR Hell, Part 2: Deployment Strategies](https://www.reddit.com/r/scala/comments/mr35ae/welcome_to_jar_hell_part_2_deployment_strategies/)
 - [Elegant way to sequence tries](https://www.reddit.com/r/scala/comments/mqv8m1/elegant_way_to_sequence_tries/)
 - [OAuth 2.0 3-legged flow - handling with WS client](https://www.reddit.com/r/scala/comments/mqun7n/oauth_20_3legged_flow_handling_with_ws_client/)
-- [Metals vs SBT? (Newbie question)](https://www.reddit.com/r/scala/comments/mqtrf9/metals_vs_sbt_newbie_question/)
-- [Welcome to Scala 3 Migration Discussions!](https://www.reddit.com/r/scala/comments/mqswlh/welcome_to_scala_3_migration_discussions/)
-- [Is there any good tutorial to setup GIT workflow for a simple Scala project?](https://www.reddit.com/r/scala/comments/mqr0ri/is_there_any_good_tutorial_to_setup_git_workflow/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

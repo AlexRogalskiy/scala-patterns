@@ -239,6 +239,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [What are some good license checkers for a sbt project?](https://www.reddit.com/r/scala/comments/msw08q/what_are_some_good_license_checkers_for_a_sbt/)
+- [Jam 0.0.4 got Scala 3 support](https://www.reddit.com/r/scala/comments/msst4w/jam_004_got_scala_3_support/)
 - [Scala devs who make big $$, what kind of work do you do?](https://www.reddit.com/r/scala/comments/mscxr3/scala_devs_who_make_big_what_kind_of_work_do_you/)
 - [What is the state of frameworks and libraries support to build microservices in scala?](https://www.reddit.com/r/scala/comments/mrxyas/what_is_the_state_of_frameworks_and_libraries/)
 - [Trying to implement git actions for sonatypeRelease](https://www.reddit.com/r/scala/comments/mrxvlp/trying_to_implement_git_actions_for/)
@@ -247,8 +249,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [Enso 2.0 public Alpha](https://www.reddit.com/r/scala/comments/mrbf75/enso_20_public_alpha/)
 - [Best way to create a mutex?](https://www.reddit.com/r/scala/comments/mr9ph1/best_way_to_create_a_mutex/)
 - [Welcome to JAR Hell, Part 2: Deployment Strategies](https://www.reddit.com/r/scala/comments/mr35ae/welcome_to_jar_hell_part_2_deployment_strategies/)
-- [Elegant way to sequence tries](https://www.reddit.com/r/scala/comments/mqv8m1/elegant_way_to_sequence_tries/)
-- [OAuth 2.0 3-legged flow - handling with WS client](https://www.reddit.com/r/scala/comments/mqun7n/oauth_20_3legged_flow_handling_with_ws_client/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

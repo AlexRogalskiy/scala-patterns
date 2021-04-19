@@ -28,6 +28,7 @@
 ![GitHub search hit counter](https://img.shields.io/github/search/AlexRogalskiy/scala-patterns/goto)
 ![GitHub Repository branches](https://badgen.net/github/branches/AlexRogalskiy/scala-patterns)
 ![GitHub Repository dependents](https://badgen.net/github/dependents-repo/AlexRogalskiy/scala-patterns)
+
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fscala-patterns.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAlexRogalskiy%2Fscala-patterns?ref=badge_shield)
 [![Renovatebot](https://badgen.net/badge/renovate/enabled/green?cache=300)](https://renovatebot.com/)
 [![Dependabot](https://img.shields.io/badge/dependabot-enabled-1f8ceb.svg?style=flat-square)](https://dependabot.com/)
@@ -35,6 +36,7 @@
 [![Hits-of-Code](https://hitsofcode.com/github/alexrogalskiy/scala-patterns?branch=master)](https://hitsofcode.com/github/alexrogalskiy/scala-patterns?branch=master/view?branch=master)
 [![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)][repo]
 [![GitHub Super-Linter](https://github.com/alexrogalskiy/scala-patterns/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
+[![Documentation Status](https://readthedocs.org/projects/scala-patterns/badge/?version=latest)](https://scala-patterns.readthedocs.io/en/latest/?badge=latest)
 
 ## 🎹 _Table of contents_
 

@@ -239,16 +239,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala (Apr 19, 2021)](https://www.reddit.com/r/scala/comments/mtq535/this_week_in_scala_apr_19_2021/)
+- [Tooling talks - A series of talks about tooling](https://www.reddit.com/r/scala/comments/mthjrj/tooling_talks_a_series_of_talks_about_tooling/)
+- [Java getter & setter interop plugin?](https://www.reddit.com/r/scala/comments/mtez8c/java_getter_setter_interop_plugin/)
+- [Who is hiring? Monthly /r/Scala Job Postings Thread (April 2021 Edition) for Juniors/Remote/Italy](https://www.reddit.com/r/scala/comments/mt9lw5/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [Scala devs, do you like about Scala for distributed systems over other languages?](https://www.reddit.com/r/scala/comments/mt4jvk/scala_devs_do_you_like_about_scala_for/)
 - [What are some good license checkers for a sbt project?](https://www.reddit.com/r/scala/comments/msw08q/what_are_some_good_license_checkers_for_a_sbt/)
 - [Jam 0.0.4 got Scala 3 support](https://www.reddit.com/r/scala/comments/msst4w/jam_004_got_scala_3_support/)
 - [Scala devs who make big $$, what kind of work do you do?](https://www.reddit.com/r/scala/comments/mscxr3/scala_devs_who_make_big_what_kind_of_work_do_you/)
 - [What is the state of frameworks and libraries support to build microservices in scala?](https://www.reddit.com/r/scala/comments/mrxyas/what_is_the_state_of_frameworks_and_libraries/)
 - [Trying to implement git actions for sonatypeRelease](https://www.reddit.com/r/scala/comments/mrxvlp/trying_to_implement_git_actions_for/)
-- [Would scala be better of if scala native was the default?](https://www.reddit.com/r/scala/comments/mrj120/would_scala_be_better_of_if_scala_native_was_the/)
-- [[Question] Designing good fallible APIs and error types (or: Exceptions vs Try- when and where?)](https://www.reddit.com/r/scala/comments/mre2sg/question_designing_good_fallible_apis_and_error/)
-- [Enso 2.0 public Alpha](https://www.reddit.com/r/scala/comments/mrbf75/enso_20_public_alpha/)
-- [Best way to create a mutex?](https://www.reddit.com/r/scala/comments/mr9ph1/best_way_to_create_a_mutex/)
-- [Welcome to JAR Hell, Part 2: Deployment Strategies](https://www.reddit.com/r/scala/comments/mr35ae/welcome_to_jar_hell_part_2_deployment_strategies/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

@@ -241,6 +241,9 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Multi-Tier Compilation in GraalVM](https://www.reddit.com/r/scala/comments/muuem1/multitier_compilation_in_graalvm/)
+- [What learning path did you follow into Scala?](https://www.reddit.com/r/scala/comments/mull0h/what_learning_path_did_you_follow_into_scala/)
+- [Solving Einstein's Puzzle, using higher order functions](https://www.reddit.com/r/scala/comments/muhdni/solving_einsteins_puzzle_using_higher_order/)
 - [Scala executable application on windows like .bat](https://www.reddit.com/r/scala/comments/mucm25/scala_executable_application_on_windows_like_bat/)
 - [Airframe ULID: Lexicographically Sortable Identifiers for Scala and Scala.js](https://www.reddit.com/r/scala/comments/mu7b6d/airframe_ulid_lexicographically_sortable/)
 - [Dealing with Optional Values (including Scala 3 explicit nulls) | FP-Tower](https://www.reddit.com/r/scala/comments/mtxo2o/dealing_with_optional_values_including_scala_3/)
@@ -248,9 +251,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [herding cats: day 19 (FunctionK, Resource)](https://www.reddit.com/r/scala/comments/mtr039/herding_cats_day_19_functionk_resource/)
 - [This week in #Scala (Apr 19, 2021)](https://www.reddit.com/r/scala/comments/mtq535/this_week_in_scala_apr_19_2021/)
 - [Tooling talks - A series of talks about tooling](https://www.reddit.com/r/scala/comments/mthjrj/tooling_talks_a_series_of_talks_about_tooling/)
-- [Java getter & setter interop plugin?](https://www.reddit.com/r/scala/comments/mtez8c/java_getter_setter_interop_plugin/)
-- [Who is hiring? Monthly /r/Scala Job Postings Thread (April 2021 Edition) for Juniors/Remote/Italy](https://www.reddit.com/r/scala/comments/mt9lw5/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [Scala devs, do you like about Scala for distributed systems over other languages?](https://www.reddit.com/r/scala/comments/mt4jvk/scala_devs_do_you_like_about_scala_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

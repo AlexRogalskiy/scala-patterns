@@ -319,6 +319,8 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Scalac posts_
 
 <!-- SCALAC-POST-LIST:START -->
+- [How do we build a PRO tech team?](https://scalac.io/blog/how-we-recruit-it-professionals/)
+- [Building Ecommerce Shop | Migrating From  Woocommerce To Shopify](https://scalac.io/blog/building-ecommerce-shop-migrating-from-woocommerce-to-shopify/)
 - [How Outsourcing Can Solve Technical Debt](https://scalac.io/blog/how-outsourcing-can-solve-technical-debt/)
 - [Top 15 Scala Libraries for Data Science in 2021](https://scalac.io/blog/top-15-scala-libraries-for-data-science-in-2021/)
 - [How To Tackle Technical Debt Quadrants?](https://scalac.io/blog/how-to-tackle-technical-debt-quadrants/)
@@ -327,8 +329,6 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [The Secret To Building A Successful E-learning Platform](https://scalac.io/blog/the-secret-to-building-a-successful-e-learning-platform/)
 - [Technical debt: the nuts and bolts](https://scalac.io/blog/technical-debt-the-nuts-and-bolts/)
 - [What is Apache Kafka, and what are Kafka use cases?](https://scalac.io/blog/what-is-apache-kafka-and-what-are-kafka-use-cases/)
-- [Scala 3 / Dotty – Facts and Opinions. What do we expect?](https://scalac.io/blog/scala-3-dotty-facts-opinions/)
-- [Hadoop vs Spark: What’s the difference?](https://scalac.io/blog/hadoop-vs-spark-whats-the-difference/)
 <!-- SCALAC-POST-LIST:END -->
 
 ---

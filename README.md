@@ -1,7 +1,7 @@
-# Scala Design patterns
+# Scala Design Patterns
 
 <p align="center" style="text-align:center;">
-	<img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/master/images/banner.png" width="100%" height="60%" alt="Scala Design patterns"/>
+    <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/master/images/banner.png" width="100%" height="60%" alt="Scala Design patterns"/>
 </p>
 
 <p align="center" style="text-align:center;">
@@ -37,34 +37,38 @@
 [![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)][repo]
 [![GitHub Super-Linter](https://github.com/alexrogalskiy/scala-patterns/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 [![Documentation Status](https://readthedocs.org/projects/scala-patterns/badge/?version=latest)](https://scala-patterns.readthedocs.io/en/latest/?badge=latest)
+[![NetflixOSS Lifecycle](https://img.shields.io/osslifecycle/AlexRogalskiy/scala-patterns.svg)]()
+[![CI](https://github.com/AlexRogalskiy/scala-patterns/workflows/CI/badge.svg)](https://github.com/AlexRogalskiy/scala-patterns/actions/workflows/build.yml)
 
-## 🎹 _Table of contents_
+## 🎹 *Table of contents*
 
 <!--ts-->
-   * [Scala Design patterns](#scala-design-patterns)
-      * [<em>Table of contents</em>](#-table-of-contents)
-      * [<em>Summary</em>](#-summary)
-      * [<em>Documentation</em>](#-documentation)
-      * [<em>Statistics</em>](#-statistics)
-      * [<em>Versioning</em>](#-versioning)
-      * [<em>Authors</em>](#-authors)
-      * [<em>Contributing</em>](#-contributing)
-      * [<em>Visitor stats</em>](#-visitor-stats)
-      * [<em>Licensing</em>](#-licensing)
-      * [<em>Development Support</em>](#-development-support)
-      * [<em>Acknowledgement</em>](#-acknowledgement)
-      * [<em>OpenGraph Card</em>](#-opengraph-card)
-      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-         * [<em>Reddit posts</em>](#reddit-posts)
-         * [<em>InfoWorld posts</em>](#infoworld-posts)
-         * [<em>RedHat posts</em>](#redhat-posts)
-         * [<em>Akka posts</em>](#akka-posts)
-         * [<em>Li Haoyi posts</em>](#li-haoyi-posts)
-         * [<em>Scala Lang posts</em>](#scala-lang-posts)
-         * [<em>Scalac posts</em>](#scalac-posts)
+
+- [Scala Design patterns](#scala-design-patterns)
+  - [<em>Table of contents</em>](#-table-of-contents)
+  - [<em>Summary</em>](#-summary)
+  - [<em>Documentation</em>](#-documentation)
+  - [<em>Statistics</em>](#-statistics)
+  - [<em>Versioning</em>](#-versioning)
+  - [<em>Authors</em>](#-authors)
+  - [<em>Contributing</em>](#-contributing)
+  - [<em>Visitor stats</em>](#-visitor-stats)
+  - [<em>Licensing</em>](#-licensing)
+  - [<em>Development Support</em>](#-development-support)
+  - [<em>Acknowledgement</em>](#-acknowledgement)
+  - [<em>OpenGraph Card</em>](#-opengraph-card)
+  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+    - [<em>Reddit posts</em>](#reddit-posts)
+    - [<em>InfoWorld posts</em>](#infoworld-posts)
+    - [<em>RedHat posts</em>](#redhat-posts)
+    - [<em>Akka posts</em>](#akka-posts)
+    - [<em>Li Haoyi posts</em>](#li-haoyi-posts)
+    - [<em>Scala Lang posts</em>](#scala-lang-posts)
+    - [<em>Scalac posts</em>](#scalac-posts)
+
 <!--te-->
 
-## ☝ _Summary_
+## ☝ *Summary*
 
 <p align="center" style="text-align:center;">
     <img alt="Scala" src="https://img.shields.io/badge/scala-%23DC322F.svg?logo=scala&logoColor=white"/>
@@ -79,7 +83,7 @@
     </a>
 </p>
 
-_**Scala Design Patterns**_ is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
+***Scala Design Patterns*** is intended to provide various use case scenarios and architectural concepts on prototyping adaptive applications.
 
 ```text
 mkdocs.yml    # Configuration file.
@@ -113,27 +117,27 @@ docs/
         info.md # Links page
 ```
 
-## 📝 _Documentation_
+## 📝 *Documentation*
 
 The Website documentation is provided by [gitbook](https://www.gitbook.com/) and can be discovered at url:
 
-[_**Scala Patterns**_][docs]
+[***Scala Patterns***][docs]
 
-To enable documentation serving at _**localhost**_ the following steps should be considered:
+To enable documentation serving at ***localhost*** the following steps should be considered:
 
-1\) Install/upgrade _**pip**_ command-line utility:
+1\) Install/upgrade ***pip*** command-line utility:
 
 ```text
 pip install --upgrade pip
 ```
 
-or if you need to install _**pip**_ for the first time:
+or if you need to install ***pip*** for the first time:
 
 ```text
 python get-pip.py
 ```
 
-2\) Install the _**mkdocs**_ package using pip:
+2\) Install the ***mkdocs*** package using pip:
 
 ```text
 pip install mkdocs
@@ -153,7 +157,7 @@ pip install mkdocs-material
 pip install markdown-include
 ```
 
-4\) Start the server at _**localhost**_ by running the following command:
+4\) Start the server at ***localhost*** by running the following command:
 
 ```text
 mkdocs serve --verbose --dirtyreload
@@ -167,27 +171,27 @@ mkdocs --verbose gh-deploy --force --remote-branch gh-pages
 
 5\) Open up [localhost](http://127.0.0.1:8000/) in browser to get the default documentation homepage.
 
-## ⏰ _Statistics_
+## ⏰ *Statistics*
 
 <p align="center" style="text-align:center;">
     <img alt="Documentation PageSpeed result dashboard" src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/master/reports/pagespeedresultmobile.svg"/>
 </p>
 
-## 📝 _Versioning_
+## 📝 *Versioning*
 
 The project uses [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository][tags].
 
-## 🌹 _Authors_
+## 🌹 *Authors*
 
-_**Scala Patterns**_ is maintained by the following GitHub team-members:
+***Scala Patterns*** is maintained by the following GitHub team-members:
 
-* [![Author](https://img.shields.io/badge/author-AlexRogalskiy-FB8F0A)](https://github.com/AlexRogalskiy)
+- [![Author](https://img.shields.io/badge/author-AlexRogalskiy-FB8F0A)](https://github.com/AlexRogalskiy)
 
 with community support please contact with us if you have some question or proposition.
 
-## 💕 _Contributing_
+## 💕 *Contributing*
 
-[![Contributors Display](https://badges.pufler.dev/contributors/AlexRogalskiy/scala-patterns?size=50&padding=5&bots=true)](https://badges.pufler.dev)
+[![Contributors Display](https://badges.pufler.dev/contributors/AlexRogalskiy/scala-patterns?size=50\&padding=5\&bots=true)](https://badges.pufler.dev)
 
 Please read
 [CONTRIBUTING.md](https://github.com/AlexRogalskiy/scala-patterns/blob/master/.github/CONTRIBUTING.md)
@@ -202,48 +206,49 @@ specification. Contributions of any kind are welcome!
 
 See also the list of [contributors][contributors] who participated in this project.
 
-## 🚨 _Visitor stats_
+## 🚨 *Visitor stats*
 
-[![GitHub page hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy%2Fscala-patterns&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![GitHub page hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlexRogalskiy%2Fscala-patterns\&count_bg=%2379C83D\&title_bg=%23555555\&icon=\&icon_color=%23E7E7E7\&title=hits\&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ![GitHub stars](https://img.shields.io/github/stars/AlexRogalskiy/scala-patterns?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/AlexRogalskiy/scala-patterns?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/AlexRogalskiy/scala-patterns?style=social)
 
-## ⚽ _Licensing_
+## ⚽ *Licensing*
 
-_**Scala Patterns**_ is distributed under LGPL version 3 or later, [[License](https://github.com/AlexRogalskiy/scala-patterns/blob/master/LICENSE.txt)].
+***Scala Patterns*** is distributed under LGPL version 3 or later, \[[License](https://github.com/AlexRogalskiy/scala-patterns/blob/master/LICENSE.txt)].
 LGPLv3 is additional permissions on top of GPLv3.
 
 ![image](https://user-images.githubusercontent.com/19885116/48661948-6cf97e80-ea7a-11e8-97e7-b45332a13e49.png)
 
-## 🌟 _Development Support_
+## 🌟 *Development Support*
 
 Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/master/images/icon.png" width="20" height="20" alt="Scala Design patterns"/>
- and _**Scala Patterns**_ ? Consider buying me a coffee :\)
+and ***Scala Patterns*** ? Consider buying me a coffee :)
 
-[![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square&logo=patreon&color=e64413)](https://www.patreon.com/alexrogalskiy)
+[![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square\&logo=patreon\&color=e64413)](https://www.patreon.com/alexrogalskiy)
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/AlexRogalskiy)
 [![KoFi](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=ko-fi)](https://ko-fi.com/alexrogalskiy)
 
-## 👨‍👨‍👧‍👦 _Acknowledgement_
+## 👨‍👨‍👧‍👦 *Acknowledgement*
 
 [![Stargazers repo roster for @AlexRogalskiy/scala-patterns](https://reporoster.com/stars/AlexRogalskiy/scala-patterns)][stars]
 
-## 📎 _OpenGraph Card_
+## 📎 *OpenGraph Card*
 
 <p align="center" style="text-align:center;">
     <img alt="OpenGraph card" src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/master/images/opengraph-card.png"/>
 </p>
 
-## 🔥 _Feeds and Podcasts_
+## 🔥 *Feeds and Podcasts*
 
-### _Reddit posts_
+### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+
 - [Compiler setting to detect all unused code within a project](https://www.reddit.com/r/scala/comments/mvlglr/compiler_setting_to_detect_all_unused_code_within/)
 - [Trying to understand a part of the following foldLeft operation](https://www.reddit.com/r/scala/comments/mvjr6d/trying_to_understand_a_part_of_the_following/)
-- [Best Features of Scala 3 for Scala.js](https://www.reddit.com/r/scala/comments/mvekz9/best_features_of_scala_3_for_scalajs/)
+- [Best Features of Scala 3 for Scala.js](https://www.reddit.com/r/scala/comments/mvekz9/best_features_of_scala\_3\_for_scalajs/)
 - [Combine Akka typed and cats effects](https://www.reddit.com/r/scala/comments/mv6snp/combine_akka_typed_and_cats_effects/)
 - [Help request for spark scala setup](https://www.reddit.com/r/scala/comments/mv6kq0/help_request_for_spark_scala_setup/)
 - [Multi-Tier Compilation in GraalVM](https://www.reddit.com/r/scala/comments/muuem1/multitier_compilation_in_graalvm/)
@@ -251,29 +256,35 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [Solving Einstein's Puzzle, using higher order functions](https://www.reddit.com/r/scala/comments/muhdni/solving_einsteins_puzzle_using_higher_order/)
 - [Scala executable application on windows like .bat](https://www.reddit.com/r/scala/comments/mucm25/scala_executable_application_on_windows_like_bat/)
 - [Airframe ULID: Lexicographically Sortable Identifiers for Scala and Scala.js](https://www.reddit.com/r/scala/comments/mu7b6d/airframe_ulid_lexicographically_sortable/)
+
 <!-- REDDIT-POST-LIST:END -->
 
-### _InfoWorld posts_
+### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+
 - [Scala 3 moves to release candidate stage](https://www.infoworld.com/article/3608574/scala-3-moves-to-release-candidate-stage.html#tk.rss_scala)
 - [Scala.js 1.0.0 improves JavaScript interoperability](https://www.infoworld.com/article/3530316/scalajs-100-improves-javascript-interoperability.html#tk.rss_scala)
 - [Scala 2.13 overhauls collections, improves the standard library](https://www.infoworld.com/article/3402537/scala-213-overhauls-collections-improves-the-standard-library.html#tk.rss_scala)
 - [Scala 2.13 overhauls collections, improves the standard library](https://www.infoworld.com/article/3402017/scala-213-overhauls-collections-improves-the-standard-library.html#tk.rss_scala)
 - [Oracle steers GraalVM to the enterprise](https://www.infoworld.com/article/3393973/oracle-steers-graalvm-to-the-enterprise.html#tk.rss_scala)
+
 <!-- INFOWORLD-POST-LIST:END -->
 
-### _RedHat posts_
+### *RedHat posts*
 
 <!-- REDHAT-POST-LIST:START -->
+
 - [12 Top blog articles of 2015 – don’t miss these](https://developers.redhat.com/blog/2015/12/29/12-top-blog-articles-of-2015/)
 - [Type safe SalesForce Queries (SOQL) in Scala](https://developers.redhat.com/blog/2015/06/11/type-safe-salesforce-queries-soql-in-scala/)
 - [Scala vs. Node.js as a RESTful backend server](https://developers.redhat.com/blog/2015/04/22/scala-vs-node-js-as-a-restful-backend-server/)
+
 <!-- REDHAT-POST-LIST:END -->
 
-### _Akka posts_
+### *Akka posts*
 
 <!-- AKKA-POST-LIST:START -->
+
 - [Akka 2.6.14 Released](/blog/news/2021/04/08/akka-2.6.14-released)
 - [Akka HTTP 10.2.4 / 10.1.14 Released](/blog/news/2021/02/24/akka-http-10.2.4-10.1.14-released)
 - [Akka 2.6.13 Released](/blog/news/2021/02/23/akka-2.6.13-released)
@@ -284,11 +295,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [Akka HTTP 10.2.3 Released](/blog/news/2021/01/18/akka-http-10.2.3-released)
 - [Akka 2.6.11 Released](/blog/news/2021/01/15/akka-2.6.11-released)
 - [Akka HTTP 10.2.2 Released](/blog/news/2020/12/09/akka-http-10.2.2-released)
+
 <!-- AKKA-POST-LIST:END -->
 
-### _Li Haoyi posts_
+### *Li Haoyi posts*
 
 <!-- LIHAOYI-POST-LIST:START -->
+
 - [Introducing the com-lihaoyi Github Organization](http://www.lihaoyi.com/post/IntroducingthecomlihaoyiGithubOrganization.html)
 - [From First Principles: Why Scala?](http://www.lihaoyi.com/post/FromFirstPrinciplesWhyScala.html)
 - [Message-based Parallelism with Actors](http://www.lihaoyi.com/post/MessagebasedParallelismwithActors.html)
@@ -299,11 +312,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [Working with Databases using Scala and Quill](http://www.lihaoyi.com/post/WorkingwithDatabasesusingScalaandQuill.html)
 - [Scraping Websites using Scala and Jsoup](http://www.lihaoyi.com/post/ScrapingWebsitesusingScalaandJsoup.html)
 - [Simple Web and Api Servers with Scala](http://www.lihaoyi.com/post/SimpleWebandApiServerswithScala.html)
+
 <!-- LIHAOYI-POST-LIST:END -->
 
-### _Scala Lang posts_
+### *Scala Lang posts*
 
 <!-- SCALALANG-POST-LIST:START -->
+
 - [Scala 3 in sbt 1.5](https://www.scala-lang.org/blog/2021/04/08/scala-3-in-sbt.html)
 - [Preventing Version Conflicts with versionScheme](https://www.scala-lang.org/blog/2021/02/16/preventing-version-conflicts-with-versionscheme.html)
 - [Scala Native 0.4.0 is here!](https://www.scala-lang.org/blog/2021/01/19/scala-native-0.4-release.html)
@@ -314,11 +329,13 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [The Scala Center stands with Black Lives Matter](https://www.scala-lang.org/blog/2020/06/22/the-scala-center-stands-with-black-lives-matter.html)
 - [Import Suggestions in Scala 3](https://www.scala-lang.org/blog/2020/05/05/scala-3-import-suggestions.html)
 - [Scala Contributors Summit(s)](https://www.scala-lang.org/blog/2019/09/25/scala-contributors-summit.html)
+
 <!-- SCALALANG-POST-LIST:END -->
 
-### _Scalac posts_
+### *Scalac posts*
 
 <!-- SCALAC-POST-LIST:START -->
+
 - [How do we build a PRO tech team?](https://scalac.io/blog/how-we-recruit-it-professionals/)
 - [Building Ecommerce Shop | Migrating From  Woocommerce To Shopify](https://scalac.io/blog/building-ecommerce-shop-migrating-from-woocommerce-to-shopify/)
 - [How Outsourcing Can Solve Technical Debt](https://scalac.io/blog/how-outsourcing-can-solve-technical-debt/)
@@ -329,20 +346,27 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 - [The Secret To Building A Successful E-learning Platform](https://scalac.io/blog/the-secret-to-building-a-successful-e-learning-platform/)
 - [Technical debt: the nuts and bolts](https://scalac.io/blog/technical-debt-the-nuts-and-bolts/)
 - [What is Apache Kafka, and what are Kafka use cases?](https://scalac.io/blog/what-is-apache-kafka-and-what-are-kafka-use-cases/)
+
 <!-- SCALAC-POST-LIST:END -->
 
----
+***
 
-[![forthebadge](https://img.shields.io/badge/made%20with-%20markdown-C1282D.svg?logo=markdown&style=for-the-badge)](https://www.markdownguide.org/)
-[![forthebadge](https://img.shields.io/badge/powered%20by-%20gitbook-7116FB.svg?logo=gitbook&style=for-the-badge)](https://www.gitbook.com/)
-[![forthebadge](https://img.shields.io/badge/build%20with-%20%E2%9D%A4-B6FF9B.svg?logo=heart&style=for-the-badge)](https://forthebadge.com/)
+[![forthebadge](https://img.shields.io/badge/made%20with-%20markdown-C1282D.svg?logo=markdown\&style=for-the-badge)](https://www.markdownguide.org/)
+[![forthebadge](https://img.shields.io/badge/powered%20by-%20gitbook-7116FB.svg?logo=gitbook\&style=for-the-badge)](https://www.gitbook.com/)
+[![forthebadge](https://img.shields.io/badge/build%20with-%20%E2%9D%A4-B6FF9B.svg?logo=heart\&style=for-the-badge)](https://forthebadge.com/)
 
+[repo]: https://github.com/AlexRogalskiy/scala-patterns
 
-  [repo]:           https://github.com/AlexRogalskiy/scala-patterns
-  [tags]:           https://github.com/AlexRogalskiy/scala-patterns/tags
-  [issues]:         https://github.com/AlexRogalskiy/scala-patterns/issues
-  [pulls]:          https://github.com/AlexRogalskiy/scala-patterns/pulls
-  [wiki]:           https://github.com/AlexRogalskiy/scala-patterns/wiki
-  [stars]:          https://github.com/AlexRogalskiy/scala-patterns/stargazers
-  [contributors]:   https://github.com/AlexRogalskiy/scala-patterns/graphs/contributors
-  [docs]:           https://alexander-rogalsky.gitbook.io/scala-patterns/
+[tags]: https://github.com/AlexRogalskiy/scala-patterns/tags
+
+[issues]: https://github.com/AlexRogalskiy/scala-patterns/issues
+
+[pulls]: https://github.com/AlexRogalskiy/scala-patterns/pulls
+
+[wiki]: https://github.com/AlexRogalskiy/scala-patterns/wiki
+
+[stars]: https://github.com/AlexRogalskiy/scala-patterns/stargazers
+
+[contributors]: https://github.com/AlexRogalskiy/scala-patterns/graphs/contributors
+
+[docs]: https://alexander-rogalsky.gitbook.io/scala-patterns/

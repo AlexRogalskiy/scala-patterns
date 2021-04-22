@@ -241,16 +241,16 @@ Like <img src="https://raw.githubusercontent.com/AlexRogalskiy/scala-patterns/ma
 ### _Reddit posts_
 
 <!-- REDDIT-POST-LIST:START -->
+- [Compiler setting to detect all unused code within a project](https://www.reddit.com/r/scala/comments/mvlglr/compiler_setting_to_detect_all_unused_code_within/)
+- [Trying to understand a part of the following foldLeft operation](https://www.reddit.com/r/scala/comments/mvjr6d/trying_to_understand_a_part_of_the_following/)
+- [Best Features of Scala 3 for Scala.js](https://www.reddit.com/r/scala/comments/mvekz9/best_features_of_scala_3_for_scalajs/)
+- [Combine Akka typed and cats effects](https://www.reddit.com/r/scala/comments/mv6snp/combine_akka_typed_and_cats_effects/)
+- [Help request for spark scala setup](https://www.reddit.com/r/scala/comments/mv6kq0/help_request_for_spark_scala_setup/)
 - [Multi-Tier Compilation in GraalVM](https://www.reddit.com/r/scala/comments/muuem1/multitier_compilation_in_graalvm/)
 - [What learning path did you follow into Scala?](https://www.reddit.com/r/scala/comments/mull0h/what_learning_path_did_you_follow_into_scala/)
 - [Solving Einstein's Puzzle, using higher order functions](https://www.reddit.com/r/scala/comments/muhdni/solving_einsteins_puzzle_using_higher_order/)
 - [Scala executable application on windows like .bat](https://www.reddit.com/r/scala/comments/mucm25/scala_executable_application_on_windows_like_bat/)
 - [Airframe ULID: Lexicographically Sortable Identifiers for Scala and Scala.js](https://www.reddit.com/r/scala/comments/mu7b6d/airframe_ulid_lexicographically_sortable/)
-- [Dealing with Optional Values (including Scala 3 explicit nulls) | FP-Tower](https://www.reddit.com/r/scala/comments/mtxo2o/dealing_with_optional_values_including_scala_3/)
-- [Scala 3: Extension Methods](https://www.reddit.com/r/scala/comments/mttdil/scala_3_extension_methods/)
-- [herding cats: day 19 (FunctionK, Resource)](https://www.reddit.com/r/scala/comments/mtr039/herding_cats_day_19_functionk_resource/)
-- [This week in #Scala (Apr 19, 2021)](https://www.reddit.com/r/scala/comments/mtq535/this_week_in_scala_apr_19_2021/)
-- [Tooling talks - A series of talks about tooling](https://www.reddit.com/r/scala/comments/mthjrj/tooling_talks_a_series_of_talks_about_tooling/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### _InfoWorld posts_

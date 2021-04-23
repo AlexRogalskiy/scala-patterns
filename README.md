@@ -243,18 +243,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
+- [What do I need to learn to get a first job as a Scala Developer?](https://www.reddit.com/r/scala/comments/mwk09h/what_do_i_need_to_learn_to_get_a_first_job_as_a/)
+- [Scala 3.0.0-RC3 – bug fixes for 3.0.0 stable](https://www.reddit.com/r/scala/comments/mwca80/scala_300rc3_bug_fixes_for_300_stable/)
+- [Figlet4s v0.3.0 released](https://www.reddit.com/r/scala/comments/mw5ti4/figlet4s_v030_released/)
+- [Best Features of Scala 3 for Scala.js](https://www.reddit.com/r/scala/comments/mw0xu2/best_features_of_scala_3_for_scalajs/)
 - [Compiler setting to detect all unused code within a project](https://www.reddit.com/r/scala/comments/mvlglr/compiler_setting_to_detect_all_unused_code_within/)
 - [Trying to understand a part of the following foldLeft operation](https://www.reddit.com/r/scala/comments/mvjr6d/trying_to_understand_a_part_of_the_following/)
-- [Best Features of Scala 3 for Scala.js](https://www.reddit.com/r/scala/comments/mvekz9/best_features_of_scala\_3\_for_scalajs/)
+- [Best Features of Scala 3 for Scala.js](https://www.reddit.com/r/scala/comments/mvekz9/best_features_of_scala_3_for_scalajs/)
 - [Combine Akka typed and cats effects](https://www.reddit.com/r/scala/comments/mv6snp/combine_akka_typed_and_cats_effects/)
 - [Help request for spark scala setup](https://www.reddit.com/r/scala/comments/mv6kq0/help_request_for_spark_scala_setup/)
 - [Multi-Tier Compilation in GraalVM](https://www.reddit.com/r/scala/comments/muuem1/multitier_compilation_in_graalvm/)
-- [What learning path did you follow into Scala?](https://www.reddit.com/r/scala/comments/mull0h/what_learning_path_did_you_follow_into_scala/)
-- [Solving Einstein's Puzzle, using higher order functions](https://www.reddit.com/r/scala/comments/muhdni/solving_einsteins_puzzle_using_higher_order/)
-- [Scala executable application on windows like .bat](https://www.reddit.com/r/scala/comments/mucm25/scala_executable_application_on_windows_like_bat/)
-- [Airframe ULID: Lexicographically Sortable Identifiers for Scala and Scala.js](https://www.reddit.com/r/scala/comments/mu7b6d/airframe_ulid_lexicographically_sortable/)
-
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

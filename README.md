@@ -268,11 +268,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *RedHat posts*
 
 <!-- REDHAT-POST-LIST:START -->
-
 - [12 Top blog articles of 2015 – don’t miss these](https://developers.redhat.com/blog/2015/12/29/12-top-blog-articles-of-2015/)
 - [Type safe SalesForce Queries (SOQL) in Scala](https://developers.redhat.com/blog/2015/06/11/type-safe-salesforce-queries-soql-in-scala/)
 - [Scala vs. Node.js as a RESTful backend server](https://developers.redhat.com/blog/2015/04/22/scala-vs-node-js-as-a-restful-backend-server/)
-
 <!-- REDHAT-POST-LIST:END -->
 
 ### *Akka posts*

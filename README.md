@@ -321,7 +321,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Scalac posts*
 
 <!-- SCALAC-POST-LIST:START -->
-
 - [How do we build a PRO tech team?](https://scalac.io/blog/how-we-recruit-it-professionals/)
 - [Building Ecommerce Shop | Migrating From  Woocommerce To Shopify](https://scalac.io/blog/building-ecommerce-shop-migrating-from-woocommerce-to-shopify/)
 - [How Outsourcing Can Solve Technical Debt](https://scalac.io/blog/how-outsourcing-can-solve-technical-debt/)
@@ -332,7 +331,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [The Secret To Building A Successful E-learning Platform](https://scalac.io/blog/the-secret-to-building-a-successful-e-learning-platform/)
 - [Technical debt: the nuts and bolts](https://scalac.io/blog/technical-debt-the-nuts-and-bolts/)
 - [What is Apache Kafka, and what are Kafka use cases?](https://scalac.io/blog/what-is-apache-kafka-and-what-are-kafka-use-cases/)
-
 <!-- SCALAC-POST-LIST:END -->
 
 ***

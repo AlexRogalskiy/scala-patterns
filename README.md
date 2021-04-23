@@ -276,7 +276,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Akka posts*
 
 <!-- AKKA-POST-LIST:START -->
-
 - [Akka 2.6.14 Released](/blog/news/2021/04/08/akka-2.6.14-released)
 - [Akka HTTP 10.2.4 / 10.1.14 Released](/blog/news/2021/02/24/akka-http-10.2.4-10.1.14-released)
 - [Akka 2.6.13 Released](/blog/news/2021/02/23/akka-2.6.13-released)
@@ -287,7 +286,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Akka HTTP 10.2.3 Released](/blog/news/2021/01/18/akka-http-10.2.3-released)
 - [Akka 2.6.11 Released](/blog/news/2021/01/15/akka-2.6.11-released)
 - [Akka HTTP 10.2.2 Released](/blog/news/2020/12/09/akka-http-10.2.2-released)
-
 <!-- AKKA-POST-LIST:END -->
 
 ### *Li Haoyi posts*

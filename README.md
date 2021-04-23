@@ -43,27 +43,29 @@
 ## 🎹 *Table of contents*
 
 <!--ts-->
-   * [Scala Design Patterns](#scala-design-patterns)
-      * [<em>Table of contents</em>](#-table-of-contents)
-      * [<em>Summary</em>](#-summary)
-      * [<em>Documentation</em>](#-documentation)
-      * [<em>Statistics</em>](#-statistics)
-      * [<em>Versioning</em>](#-versioning)
-      * [<em>Authors</em>](#-authors)
-      * [<em>Contributing</em>](#-contributing)
-      * [<em>Visitor stats</em>](#-visitor-stats)
-      * [<em>Licensing</em>](#-licensing)
-      * [<em>Development Support</em>](#-development-support)
-      * [<em>Acknowledgement</em>](#-acknowledgement)
-      * [<em>OpenGraph Card</em>](#-opengraph-card)
-      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-         * [<em>Reddit posts</em>](#reddit-posts)
-         * [<em>InfoWorld posts</em>](#infoworld-posts)
-         * [<em>RedHat posts</em>](#redhat-posts)
-         * [<em>Akka posts</em>](#akka-posts)
-         * [<em>Li Haoyi posts</em>](#li-haoyi-posts)
-         * [<em>Scala Lang posts</em>](#scala-lang-posts)
-         * [<em>Scalac posts</em>](#scalac-posts)
+
+- [Scala Design Patterns](#scala-design-patterns)
+  - [<em>Table of contents</em>](#-table-of-contents)
+  - [<em>Summary</em>](#-summary)
+  - [<em>Documentation</em>](#-documentation)
+  - [<em>Statistics</em>](#-statistics)
+  - [<em>Versioning</em>](#-versioning)
+  - [<em>Authors</em>](#-authors)
+  - [<em>Contributing</em>](#-contributing)
+  - [<em>Visitor stats</em>](#-visitor-stats)
+  - [<em>Licensing</em>](#-licensing)
+  - [<em>Development Support</em>](#-development-support)
+  - [<em>Acknowledgement</em>](#-acknowledgement)
+  - [<em>OpenGraph Card</em>](#-opengraph-card)
+  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+    - [<em>Reddit posts</em>](#reddit-posts)
+    - [<em>InfoWorld posts</em>](#infoworld-posts)
+    - [<em>RedHat posts</em>](#redhat-posts)
+    - [<em>Akka posts</em>](#akka-posts)
+    - [<em>Li Haoyi posts</em>](#li-haoyi-posts)
+    - [<em>Scala Lang posts</em>](#scala-lang-posts)
+    - [<em>Scalac posts</em>](#scalac-posts)
+
 <!--te-->
 
 ## ☝ *Summary*
@@ -121,50 +123,57 @@ The Website documentation is provided by [gitbook](https://www.gitbook.com/) and
 
 [***Scala Patterns***][docs]
 
-To enable documentation serving at ***localhost*** the following steps should be considered:
+To enable documentation serving at ***localhost*** you can run the following script
+
+```shell script
+./scripts/build-docs.sh
+```
+
+otherwise, the next steps should be considered:
 
 1\) Install/upgrade ***pip*** command-line utility:
 
-```text
+```shell script
 pip install --upgrade pip
 ```
 
 or if you need to install ***pip*** for the first time:
 
-```text
+```shell script
+wget --no-check-certificate https://bootstrap.pypa.io/get-pip.py
 python get-pip.py
 ```
 
 2\) Install the ***mkdocs*** package using pip:
 
-```text
+```shell script
 pip install mkdocs
 ```
 
 or more conveniently for Windows subsystem:
 
-```text
+```shell script
 python -m pip install mkdocs
 python -m mkdocs
 ```
 
 3\) Install the material theme for the website:
 
-```text
-pip install mkdocs-material
-pip install markdown-include
+```shell script
+python -m pip install mkdocs-material
+python -m pip install markdown-include
 ```
 
 4\) Start the server at ***localhost*** by running the following command:
 
-```text
-mkdocs serve --verbose --dirtyreload
+```shell script
+python -m mkdocs serve --verbose --dirtyreload
 ```
 
 5\) Deploy to GitHub pages:
 
-```text
-mkdocs --verbose gh-deploy --force --remote-branch gh-pages
+```shell script
+python -m mkdocs --verbose gh-deploy --force --remote-branch gh-pages
 ```
 
 5\) Open up [localhost](http://127.0.0.1:8000/) in browser to get the default documentation homepage.
@@ -243,39 +252,46 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+
 - [What do I need to learn to get a first job as a Scala Developer?](https://www.reddit.com/r/scala/comments/mwk09h/what_do_i_need_to_learn_to_get_a_first_job_as_a/)
-- [Scala 3.0.0-RC3 – bug fixes for 3.0.0 stable](https://www.reddit.com/r/scala/comments/mwca80/scala_300rc3_bug_fixes_for_300_stable/)
-- [Figlet4s v0.3.0 released](https://www.reddit.com/r/scala/comments/mw5ti4/figlet4s_v030_released/)
-- [Best Features of Scala 3 for Scala.js](https://www.reddit.com/r/scala/comments/mw0xu2/best_features_of_scala_3_for_scalajs/)
+- [Scala 3.0.0-RC3 – bug fixes for 3.0.0 stable](https://www.reddit.com/r/scala/comments/mwca80/scala\_300rc3\_bug_fixes_for\_300\_stable/)
+- [Figlet4s v0.3.0 released](https://www.reddit.com/r/scala/comments/mw5ti4/figlet4s_v030\_released/)
+- [Best Features of Scala 3 for Scala.js](https://www.reddit.com/r/scala/comments/mw0xu2/best_features_of_scala\_3\_for_scalajs/)
 - [Compiler setting to detect all unused code within a project](https://www.reddit.com/r/scala/comments/mvlglr/compiler_setting_to_detect_all_unused_code_within/)
 - [Trying to understand a part of the following foldLeft operation](https://www.reddit.com/r/scala/comments/mvjr6d/trying_to_understand_a_part_of_the_following/)
-- [Best Features of Scala 3 for Scala.js](https://www.reddit.com/r/scala/comments/mvekz9/best_features_of_scala_3_for_scalajs/)
+- [Best Features of Scala 3 for Scala.js](https://www.reddit.com/r/scala/comments/mvekz9/best_features_of_scala\_3\_for_scalajs/)
 - [Combine Akka typed and cats effects](https://www.reddit.com/r/scala/comments/mv6snp/combine_akka_typed_and_cats_effects/)
 - [Help request for spark scala setup](https://www.reddit.com/r/scala/comments/mv6kq0/help_request_for_spark_scala_setup/)
 - [Multi-Tier Compilation in GraalVM](https://www.reddit.com/r/scala/comments/muuem1/multitier_compilation_in_graalvm/)
+
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+
 - [Scala 3 moves to release candidate stage](https://www.infoworld.com/article/3608574/scala-3-moves-to-release-candidate-stage.html#tk.rss_scala)
 - [Scala.js 1.0.0 improves JavaScript interoperability](https://www.infoworld.com/article/3530316/scalajs-100-improves-javascript-interoperability.html#tk.rss_scala)
 - [Scala 2.13 overhauls collections, improves the standard library](https://www.infoworld.com/article/3402537/scala-213-overhauls-collections-improves-the-standard-library.html#tk.rss_scala)
 - [Scala 2.13 overhauls collections, improves the standard library](https://www.infoworld.com/article/3402017/scala-213-overhauls-collections-improves-the-standard-library.html#tk.rss_scala)
 - [Oracle steers GraalVM to the enterprise](https://www.infoworld.com/article/3393973/oracle-steers-graalvm-to-the-enterprise.html#tk.rss_scala)
+
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *RedHat posts*
 
 <!-- REDHAT-POST-LIST:START -->
+
 - [12 Top blog articles of 2015 – don’t miss these](https://developers.redhat.com/blog/2015/12/29/12-top-blog-articles-of-2015/)
 - [Type safe SalesForce Queries (SOQL) in Scala](https://developers.redhat.com/blog/2015/06/11/type-safe-salesforce-queries-soql-in-scala/)
 - [Scala vs. Node.js as a RESTful backend server](https://developers.redhat.com/blog/2015/04/22/scala-vs-node-js-as-a-restful-backend-server/)
+
 <!-- REDHAT-POST-LIST:END -->
 
 ### *Akka posts*
 
 <!-- AKKA-POST-LIST:START -->
+
 - [Akka 2.6.14 Released](/blog/news/2021/04/08/akka-2.6.14-released)
 - [Akka HTTP 10.2.4 / 10.1.14 Released](/blog/news/2021/02/24/akka-http-10.2.4-10.1.14-released)
 - [Akka 2.6.13 Released](/blog/news/2021/02/23/akka-2.6.13-released)
@@ -286,11 +302,13 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Akka HTTP 10.2.3 Released](/blog/news/2021/01/18/akka-http-10.2.3-released)
 - [Akka 2.6.11 Released](/blog/news/2021/01/15/akka-2.6.11-released)
 - [Akka HTTP 10.2.2 Released](/blog/news/2020/12/09/akka-http-10.2.2-released)
+
 <!-- AKKA-POST-LIST:END -->
 
 ### *Li Haoyi posts*
 
 <!-- LIHAOYI-POST-LIST:START -->
+
 - [Introducing the com-lihaoyi Github Organization](http://www.lihaoyi.com/post/IntroducingthecomlihaoyiGithubOrganization.html)
 - [From First Principles: Why Scala?](http://www.lihaoyi.com/post/FromFirstPrinciplesWhyScala.html)
 - [Message-based Parallelism with Actors](http://www.lihaoyi.com/post/MessagebasedParallelismwithActors.html)
@@ -301,11 +319,13 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Working with Databases using Scala and Quill](http://www.lihaoyi.com/post/WorkingwithDatabasesusingScalaandQuill.html)
 - [Scraping Websites using Scala and Jsoup](http://www.lihaoyi.com/post/ScrapingWebsitesusingScalaandJsoup.html)
 - [Simple Web and Api Servers with Scala](http://www.lihaoyi.com/post/SimpleWebandApiServerswithScala.html)
+
 <!-- LIHAOYI-POST-LIST:END -->
 
 ### *Scala Lang posts*
 
 <!-- SCALALANG-POST-LIST:START -->
+
 - [Scala 3 in sbt 1.5](https://www.scala-lang.org/blog/2021/04/08/scala-3-in-sbt.html)
 - [Preventing Version Conflicts with versionScheme](https://www.scala-lang.org/blog/2021/02/16/preventing-version-conflicts-with-versionscheme.html)
 - [Scala Native 0.4.0 is here!](https://www.scala-lang.org/blog/2021/01/19/scala-native-0.4-release.html)
@@ -316,11 +336,13 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [The Scala Center stands with Black Lives Matter](https://www.scala-lang.org/blog/2020/06/22/the-scala-center-stands-with-black-lives-matter.html)
 - [Import Suggestions in Scala 3](https://www.scala-lang.org/blog/2020/05/05/scala-3-import-suggestions.html)
 - [Scala Contributors Summit(s)](https://www.scala-lang.org/blog/2019/09/25/scala-contributors-summit.html)
+
 <!-- SCALALANG-POST-LIST:END -->
 
 ### *Scalac posts*
 
 <!-- SCALAC-POST-LIST:START -->
+
 - [How do we build a PRO tech team?](https://scalac.io/blog/how-we-recruit-it-professionals/)
 - [Building Ecommerce Shop | Migrating From  Woocommerce To Shopify](https://scalac.io/blog/building-ecommerce-shop-migrating-from-woocommerce-to-shopify/)
 - [How Outsourcing Can Solve Technical Debt](https://scalac.io/blog/how-outsourcing-can-solve-technical-debt/)
@@ -331,6 +353,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [The Secret To Building A Successful E-learning Platform](https://scalac.io/blog/the-secret-to-building-a-successful-e-learning-platform/)
 - [Technical debt: the nuts and bolts](https://scalac.io/blog/technical-debt-the-nuts-and-bolts/)
 - [What is Apache Kafka, and what are Kafka use cases?](https://scalac.io/blog/what-is-apache-kafka-and-what-are-kafka-use-cases/)
+
 <!-- SCALAC-POST-LIST:END -->
 
 ***

@@ -313,7 +313,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Scala Lang posts*
 
 <!-- SCALALANG-POST-LIST:START -->
-
 - [Scala 3 in sbt 1.5](https://www.scala-lang.org/blog/2021/04/08/scala-3-in-sbt.html)
 - [Preventing Version Conflicts with versionScheme](https://www.scala-lang.org/blog/2021/02/16/preventing-version-conflicts-with-versionscheme.html)
 - [Scala Native 0.4.0 is here!](https://www.scala-lang.org/blog/2021/01/19/scala-native-0.4-release.html)
@@ -324,7 +323,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [The Scala Center stands with Black Lives Matter](https://www.scala-lang.org/blog/2020/06/22/the-scala-center-stands-with-black-lives-matter.html)
 - [Import Suggestions in Scala 3](https://www.scala-lang.org/blog/2020/05/05/scala-3-import-suggestions.html)
 - [Scala Contributors Summit(s)](https://www.scala-lang.org/blog/2019/09/25/scala-contributors-summit.html)
-
 <!-- SCALALANG-POST-LIST:END -->
 
 ### *Scalac posts*

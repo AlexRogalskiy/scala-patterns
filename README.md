@@ -250,18 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
+- [Fibonacci too slow](https://www.reddit.com/r/scala/comments/mwz43q/fibonacci_too_slow/)
+- [I Can Has? And So Can You! — Deconstructing ZIO's Type-Level Map](https://www.reddit.com/r/scala/comments/mwyxaw/i_can_has_and_so_can_you_deconstructing_zios/)
+- [A simple, educational calculator parser in Scala with just the standard library*](https://www.reddit.com/r/scala/comments/mwutuk/a_simple_educational_calculator_parser_in_scala/)
+- [The Scala 3 Release Party is today at 4 PM UTC!](https://www.reddit.com/r/scala/comments/mwpnh1/the_scala_3_release_party_is_today_at_4_pm_utc/)
 - [What do I need to learn to get a first job as a Scala Developer?](https://www.reddit.com/r/scala/comments/mwk09h/what_do_i_need_to_learn_to_get_a_first_job_as_a/)
-- [Scala 3.0.0-RC3 – bug fixes for 3.0.0 stable](https://www.reddit.com/r/scala/comments/mwca80/scala\_300rc3\_bug_fixes_for\_300\_stable/)
-- [Figlet4s v0.3.0 released](https://www.reddit.com/r/scala/comments/mw5ti4/figlet4s_v030\_released/)
-- [Best Features of Scala 3 for Scala.js](https://www.reddit.com/r/scala/comments/mw0xu2/best_features_of_scala\_3\_for_scalajs/)
+- [Scala 3.0.0-RC3 – bug fixes for 3.0.0 stable](https://www.reddit.com/r/scala/comments/mwca80/scala_300rc3_bug_fixes_for_300_stable/)
+- [Figlet4s v0.3.0 released](https://www.reddit.com/r/scala/comments/mw5ti4/figlet4s_v030_released/)
 - [Compiler setting to detect all unused code within a project](https://www.reddit.com/r/scala/comments/mvlglr/compiler_setting_to_detect_all_unused_code_within/)
 - [Trying to understand a part of the following foldLeft operation](https://www.reddit.com/r/scala/comments/mvjr6d/trying_to_understand_a_part_of_the_following/)
-- [Best Features of Scala 3 for Scala.js](https://www.reddit.com/r/scala/comments/mvekz9/best_features_of_scala\_3\_for_scalajs/)
-- [Combine Akka typed and cats effects](https://www.reddit.com/r/scala/comments/mv6snp/combine_akka_typed_and_cats_effects/)
-- [Help request for spark scala setup](https://www.reddit.com/r/scala/comments/mv6kq0/help_request_for_spark_scala_setup/)
-- [Multi-Tier Compilation in GraalVM](https://www.reddit.com/r/scala/comments/muuem1/multitier_compilation_in_graalvm/)
-
+- [Best Features of Scala 3 for Scala.js](https://www.reddit.com/r/scala/comments/mvekz9/best_features_of_scala_3_for_scalajs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

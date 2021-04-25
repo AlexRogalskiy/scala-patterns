@@ -250,6 +250,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Introduction to Fibers in Cats Effect 3](https://www.reddit.com/r/scala/comments/mxdl0h/introduction_to_fibers_in_cats_effect_3/)
 - [Fibonacci too slow](https://www.reddit.com/r/scala/comments/mwz43q/fibonacci_too_slow/)
 - [I Can Has? And So Can You! — Deconstructing ZIO's Type-Level Map](https://www.reddit.com/r/scala/comments/mwyxaw/i_can_has_and_so_can_you_deconstructing_zios/)
 - [A simple, educational calculator parser in Scala with just the standard library*](https://www.reddit.com/r/scala/comments/mwutuk/a_simple_educational_calculator_parser_in_scala/)
@@ -259,7 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Figlet4s v0.3.0 released](https://www.reddit.com/r/scala/comments/mw5ti4/figlet4s_v030_released/)
 - [Compiler setting to detect all unused code within a project](https://www.reddit.com/r/scala/comments/mvlglr/compiler_setting_to_detect_all_unused_code_within/)
 - [Trying to understand a part of the following foldLeft operation](https://www.reddit.com/r/scala/comments/mvjr6d/trying_to_understand_a_part_of_the_following/)
-- [Best Features of Scala 3 for Scala.js](https://www.reddit.com/r/scala/comments/mvekz9/best_features_of_scala_3_for_scalajs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

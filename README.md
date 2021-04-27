@@ -250,6 +250,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala (Apr 26, 2021)](https://www.reddit.com/r/scala/comments/mywj6q/this_week_in_scala_apr_26_2021/)
+- [Contributing to scalafmt: scala 3 features](https://www.reddit.com/r/scala/comments/myv0uv/contributing_to_scalafmt_scala_3_features/)
+- [Bintray to JFrog Artifactory migration status and sbt 1.5.1](https://www.reddit.com/r/scala/comments/myqqsd/bintray_to_jfrog_artifactory_migration_status_and/)
 - [Algebraic Data Type "differently variant" On Different Nesting levels?](https://www.reddit.com/r/scala/comments/myf8j9/algebraic_data_type_differently_variant_on/)
 - [How to add run-time dependency to the JRE?](https://www.reddit.com/r/scala/comments/mya9h0/how_to_add_runtime_dependency_to_the_jre/)
 - [Scala​ Crash Course by a Scala veteran (with some JavaScript flavor)](https://www.reddit.com/r/scala/comments/my3qay/scala_crash_course_by_a_scala_veteran_with_some/)
@@ -257,9 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Introduction to Fibers in Cats Effect 3](https://www.reddit.com/r/scala/comments/mxdl0h/introduction_to_fibers_in_cats_effect_3/)
 - [Fibonacci too slow](https://www.reddit.com/r/scala/comments/mwz43q/fibonacci_too_slow/)
 - [I Can Has? And So Can You! — Deconstructing ZIO's Type-Level Map](https://www.reddit.com/r/scala/comments/mwyxaw/i_can_has_and_so_can_you_deconstructing_zios/)
-- [A simple, educational calculator parser in Scala with just the standard library*](https://www.reddit.com/r/scala/comments/mwutuk/a_simple_educational_calculator_parser_in_scala/)
-- [The Scala 3 Release Party is today at 4 PM UTC!](https://www.reddit.com/r/scala/comments/mwpnh1/the_scala_3_release_party_is_today_at_4_pm_utc/)
-- [What do I need to learn to get a first job as a Scala Developer?](https://www.reddit.com/r/scala/comments/mwk09h/what_do_i_need_to_learn_to_get_a_first_job_as_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

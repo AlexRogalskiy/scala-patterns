@@ -283,7 +283,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Akka posts*
 
 <!-- AKKA-POST-LIST:START -->
-
 - [Akka Projections 1.2.0 Released](/blog/news/2021/04/23/akka-projection-1.2.0-released)
 - [Akka 2.6.14 Released](/blog/news/2021/04/08/akka-2.6.14-released)
 - [Akka HTTP 10.2.4 / 10.1.14 Released](/blog/news/2021/02/24/akka-http-10.2.4-10.1.14-released)
@@ -294,7 +293,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Akka Persistence JDBC 5.0.0 Released](/blog/news/2021/01/21/akka-persistence-jdbc-5.0.0-released)
 - [Akka HTTP 10.2.3 Released](/blog/news/2021/01/18/akka-http-10.2.3-released)
 - [Akka 2.6.11 Released](/blog/news/2021/01/15/akka-2.6.11-released)
-
 <!-- AKKA-POST-LIST:END -->
 
 ### *Li Haoyi posts*

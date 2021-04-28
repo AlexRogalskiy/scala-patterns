@@ -250,18 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
-- [This week in #Scala (Apr 26, 2021)](https://www.reddit.com/r/scala/comments/mywj6q/this_week_in_scala_apr\_26\_2021/)
-- [Contributing to scalafmt: scala 3 features](https://www.reddit.com/r/scala/comments/myv0uv/contributing_to_scalafmt_scala\_3\_features/)
+- [Understanding “Partial Unification” in Scala](https://www.reddit.com/r/scala/comments/n020xq/understanding_partial_unification_in_scala/)
+- [How to do this in Scala way ?](https://www.reddit.com/r/scala/comments/mzxavh/how_to_do_this_in_scala_way/)
+- [My experience with sexual harassment in the Scala community](https://www.reddit.com/r/scala/comments/mzuy7z/my_experience_with_sexual_harassment_in_the_scala/)
+- [Scala - what is best development setup?](https://www.reddit.com/r/scala/comments/mzohwq/scala_what_is_best_development_setup/)
+- [This week in #Scala (Apr 26, 2021)](https://www.reddit.com/r/scala/comments/mywj6q/this_week_in_scala_apr_26_2021/)
+- [Contributing to scalafmt: scala 3 features](https://www.reddit.com/r/scala/comments/myv0uv/contributing_to_scalafmt_scala_3_features/)
 - [Bintray to JFrog Artifactory migration status and sbt 1.5.1](https://www.reddit.com/r/scala/comments/myqqsd/bintray_to_jfrog_artifactory_migration_status_and/)
 - [Algebraic Data Type "differently variant" On Different Nesting levels?](https://www.reddit.com/r/scala/comments/myf8j9/algebraic_data_type_differently_variant_on/)
 - [How to add run-time dependency to the JRE?](https://www.reddit.com/r/scala/comments/mya9h0/how_to_add_runtime_dependency_to_the_jre/)
 - [Scala​ Crash Course by a Scala veteran (with some JavaScript flavor)](https://www.reddit.com/r/scala/comments/my3qay/scala_crash_course_by_a_scala_veteran_with_some/)
-- [Implicit conversion not recognized](https://www.reddit.com/r/scala/comments/my0z9k/implicit_conversion_not_recognized/)
-- [Introduction to Fibers in Cats Effect 3](https://www.reddit.com/r/scala/comments/mxdl0h/introduction_to_fibers_in_cats_effect\_3/)
-- [Fibonacci too slow](https://www.reddit.com/r/scala/comments/mwz43q/fibonacci_too_slow/)
-- [I Can Has? And So Can You! — Deconstructing ZIO's Type-Level Map](https://www.reddit.com/r/scala/comments/mwyxaw/i_can_has_and_so_can_you_deconstructing_zios/)
-
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

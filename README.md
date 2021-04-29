@@ -250,6 +250,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Option[] as type of field in case class](https://www.reddit.com/r/scala/comments/n0a95o/option_as_type_of_field_in_case_class/)
 - [Understanding “Partial Unification” in Scala](https://www.reddit.com/r/scala/comments/n020xq/understanding_partial_unification_in_scala/)
 - [How to do this in Scala way ?](https://www.reddit.com/r/scala/comments/mzxavh/how_to_do_this_in_scala_way/)
 - [My experience with sexual harassment in the Scala community](https://www.reddit.com/r/scala/comments/mzuy7z/my_experience_with_sexual_harassment_in_the_scala/)
@@ -259,7 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Bintray to JFrog Artifactory migration status and sbt 1.5.1](https://www.reddit.com/r/scala/comments/myqqsd/bintray_to_jfrog_artifactory_migration_status_and/)
 - [Algebraic Data Type "differently variant" On Different Nesting levels?](https://www.reddit.com/r/scala/comments/myf8j9/algebraic_data_type_differently_variant_on/)
 - [How to add run-time dependency to the JRE?](https://www.reddit.com/r/scala/comments/mya9h0/how_to_add_runtime_dependency_to_the_jre/)
-- [Scala​ Crash Course by a Scala veteran (with some JavaScript flavor)](https://www.reddit.com/r/scala/comments/my3qay/scala_crash_course_by_a_scala_veteran_with_some/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

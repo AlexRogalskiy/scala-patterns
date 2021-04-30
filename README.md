@@ -250,16 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help with a recursive descent parser](https://www.reddit.com/r/scala/comments/n1dcnh/help_with_a_recursive_descent_parser/)
+- [Is there a way to change where the additional code is placed in the generated constructor of the case class](https://www.reddit.com/r/scala/comments/n1cpa5/is_there_a_way_to_change_where_the_additional/)
+- [Type safe, message driven, distributed - a whirlwind tour of Akka by Johan Andrén at Func Prog Sweden](https://www.reddit.com/r/scala/comments/n1cmkm/type_safe_message_driven_distributed_a_whirlwind/)
+- [Follow the Recommended Versioning Scheme](https://www.reddit.com/r/scala/comments/n15cha/follow_the_recommended_versioning_scheme/)
+- [TASTY way of (re)writing macros in Scala 3](https://www.reddit.com/r/scala/comments/n144y6/tasty_way_of_rewriting_macros_in_scala_3/)
+- [Property based testing](https://www.reddit.com/r/scala/comments/n10nxw/property_based_testing/)
 - [Option[] as type of field in case class](https://www.reddit.com/r/scala/comments/n0a95o/option_as_type_of_field_in_case_class/)
 - [Understanding “Partial Unification” in Scala](https://www.reddit.com/r/scala/comments/n020xq/understanding_partial_unification_in_scala/)
 - [How to do this in Scala way ?](https://www.reddit.com/r/scala/comments/mzxavh/how_to_do_this_in_scala_way/)
 - [My experience with sexual harassment in the Scala community](https://www.reddit.com/r/scala/comments/mzuy7z/my_experience_with_sexual_harassment_in_the_scala/)
-- [Scala - what is best development setup?](https://www.reddit.com/r/scala/comments/mzohwq/scala_what_is_best_development_setup/)
-- [This week in #Scala (Apr 26, 2021)](https://www.reddit.com/r/scala/comments/mywj6q/this_week_in_scala_apr_26_2021/)
-- [Contributing to scalafmt: scala 3 features](https://www.reddit.com/r/scala/comments/myv0uv/contributing_to_scalafmt_scala_3_features/)
-- [Bintray to JFrog Artifactory migration status and sbt 1.5.1](https://www.reddit.com/r/scala/comments/myqqsd/bintray_to_jfrog_artifactory_migration_status_and/)
-- [Algebraic Data Type "differently variant" On Different Nesting levels?](https://www.reddit.com/r/scala/comments/myf8j9/algebraic_data_type_differently_variant_on/)
-- [How to add run-time dependency to the JRE?](https://www.reddit.com/r/scala/comments/mya9h0/how_to_add_runtime_dependency_to_the_jre/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

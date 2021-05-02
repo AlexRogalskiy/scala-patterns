@@ -250,16 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3 bug?](https://www.reddit.com/r/scala/comments/n2op6f/scala_3_bug/)
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/n2l7md/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [Ideas for a Scala 3 MapStruct library?](https://www.reddit.com/r/scala/comments/n2kyop/ideas_for_a_scala_3_mapstruct_library/)
+- [Self or This Scala 3 type](https://www.reddit.com/r/scala/comments/n2jonn/self_or_this_scala_3_type/)
 - [Question: Pattern/Abstraction for Partial Success. And grouping errored items by error.](https://www.reddit.com/r/scala/comments/n20ujt/question_patternabstraction_for_partial_success/)
 - [SBT management on Apple M1](https://www.reddit.com/r/scala/comments/n1uqz2/sbt_management_on_apple_m1/)
 - [Help with a recursive descent parser](https://www.reddit.com/r/scala/comments/n1dcnh/help_with_a_recursive_descent_parser/)
 - [Is there a way to change where the additional code is placed in the generated constructor of the case class](https://www.reddit.com/r/scala/comments/n1cpa5/is_there_a_way_to_change_where_the_additional/)
 - [Type safe, message driven, distributed - a whirlwind tour of Akka by Johan Andrén at Func Prog Sweden](https://www.reddit.com/r/scala/comments/n1cmkm/type_safe_message_driven_distributed_a_whirlwind/)
 - [Follow the Recommended Versioning Scheme](https://www.reddit.com/r/scala/comments/n15cha/follow_the_recommended_versioning_scheme/)
-- [TASTY way of (re)writing macros in Scala 3](https://www.reddit.com/r/scala/comments/n144y6/tasty_way_of_rewriting_macros_in_scala_3/)
-- [Property based testing](https://www.reddit.com/r/scala/comments/n10nxw/property_based_testing/)
-- [Option[] as type of field in case class](https://www.reddit.com/r/scala/comments/n0a95o/option_as_type_of_field_in_case_class/)
-- [Understanding “Partial Unification” in Scala](https://www.reddit.com/r/scala/comments/n020xq/understanding_partial_unification_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

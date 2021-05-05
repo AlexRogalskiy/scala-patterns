@@ -250,16 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [SBT Version Scheme Enforcer Plugin: Automatically configure MiMa for Early Semver/PVP/Semver](https://www.reddit.com/r/scala/comments/n4rnln/sbt_version_scheme_enforcer_plugin_automatically/)
+- [Ratio Templates?](https://www.reddit.com/r/scala/comments/n4qyjr/ratio_templates/)
+- [bitcoin-s Release with Scalajs support for the crypto/core modules](https://www.reddit.com/r/scala/comments/n4ocy8/bitcoins_release_with_scalajs_support_for_the/)
+- [Is there a way to do real data-oriented programming/no-objects on the JVM?](https://www.reddit.com/r/scala/comments/n4fx2r/is_there_a_way_to_do_real_dataoriented/)
+- [Test for backwards-compatibility in a circe codec](https://www.reddit.com/r/scala/comments/n4eojm/test_for_backwardscompatibility_in_a_circe_codec/)
 - [Announcing Tooling Talks, a monthly series of live streams.](https://www.reddit.com/r/scala/comments/n4187m/announcing_tooling_talks_a_monthly_series_of_live/)
 - [How is the job market for Scala programmers? Will there be any demand for Scala developers in 2021/2022 (epecially in Data Science)? Is the starting salary of Scala devs more than other languages?](https://www.reddit.com/r/scala/comments/n3wkfg/how_is_the_job_market_for_scala_programmers_will/)
 - [This week in #Scala (May 3, 2021)](https://www.reddit.com/r/scala/comments/n3jb2i/this_week_in_scala_may_3_2021/)
 - [Scala for a Haskell programmer](https://www.reddit.com/r/scala/comments/n3bu1m/scala_for_a_haskell_programmer/)
 - [Dynamic Logging with Conditions · Terse Systems](https://www.reddit.com/r/scala/comments/n3bbdb/dynamic_logging_with_conditions_terse_systems/)
-- [Verifying signed requests in Play Framework examples for Stripe/Slack/Github](https://www.reddit.com/r/scala/comments/n30dzs/verifying_signed_requests_in_play_framework/)
-- [How to organize imports​ with Metals​ and/or Scalafix](https://www.reddit.com/r/scala/comments/n30d5h/how_to_organize_imports_with_metals_andor_scalafix/)
-- [Scala 3 bug?](https://www.reddit.com/r/scala/comments/n2op6f/scala_3_bug/)
-- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/n2l7md/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [Ideas for a Scala 3 MapStruct library?](https://www.reddit.com/r/scala/comments/n2kyop/ideas_for_a_scala_3_mapstruct_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

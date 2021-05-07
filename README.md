@@ -250,16 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A Maven plugin which fixes Scala dependencies to be compatible with Java 9+](https://www.reddit.com/r/scala/comments/n63ube/a_maven_plugin_which_fixes_scala_dependencies_to/)
+- [How to best learn Scala?](https://www.reddit.com/r/scala/comments/n60q8g/how_to_best_learn_scala/)
+- [Why martin odersky has such strong will to add `optional brace` to scala 3 ?](https://www.reddit.com/r/scala/comments/n60j08/why_martin_odersky_has_such_strong_will_to_add/)
+- [When to Implement vs Create a Typeclass Implementation?](https://www.reddit.com/r/scala/comments/n5zha6/when_to_implement_vs_create_a_typeclass/)
 - [I need help understanding](https://www.reddit.com/r/scala/comments/n5ttam/i_need_help_understanding/)
-- [Hiring Scala Developers for a FinTech company in sunny Portugal!](https://www.reddit.com/r/scala/comments/n5f0fe/hiring_scala_developers_for_a_fintech_company_in/)
 - [How long does it take to become an expert in Scale?](https://www.reddit.com/r/scala/comments/n5b9gn/how_long_does_it_take_to_become_an_expert_in_scale/)
 - [SBT Version Scheme Enforcer Plugin: Automatically configure MiMa for Early Semver/PVP/Semver](https://www.reddit.com/r/scala/comments/n4rnln/sbt_version_scheme_enforcer_plugin_automatically/)
 - [Ratio Templates?](https://www.reddit.com/r/scala/comments/n4qyjr/ratio_templates/)
 - [bitcoin-s Release with Scalajs support for the crypto/core modules](https://www.reddit.com/r/scala/comments/n4ocy8/bitcoins_release_with_scalajs_support_for_the/)
 - [Is there a way to do real data-oriented programming/no-objects on the JVM?](https://www.reddit.com/r/scala/comments/n4fx2r/is_there_a_way_to_do_real_dataoriented/)
-- [Test for backwards-compatibility in a circe codec](https://www.reddit.com/r/scala/comments/n4eojm/test_for_backwardscompatibility_in_a_circe_codec/)
-- [Announcing Tooling Talks, a monthly series of live streams.](https://www.reddit.com/r/scala/comments/n4187m/announcing_tooling_talks_a_monthly_series_of_live/)
-- [How is the job market for Scala programmers? Will there be any demand for Scala developers in 2021/2022 (epecially in Data Science)? Is the starting salary of Scala devs more than other languages?](https://www.reddit.com/r/scala/comments/n3wkfg/how_is_the_job_market_for_scala_programmers_will/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

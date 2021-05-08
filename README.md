@@ -250,6 +250,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [When is it preferable to use ad hoc polymorphism over subtype polymorphism?](https://www.reddit.com/r/scala/comments/n7c3be/when_is_it_preferable_to_use_ad_hoc_polymorphism/)
+- [Working with polymorphic data models in a REST API](https://www.reddit.com/r/scala/comments/n6z3c7/working_with_polymorphic_data_models_in_a_rest_api/)
 - [A Maven plugin which fixes Scala dependencies to be compatible with Java 9+](https://www.reddit.com/r/scala/comments/n63ube/a_maven_plugin_which_fixes_scala_dependencies_to/)
 - [How to best learn Scala?](https://www.reddit.com/r/scala/comments/n60q8g/how_to_best_learn_scala/)
 - [Why martin odersky has such strong will to add `optional brace` to scala 3 ?](https://www.reddit.com/r/scala/comments/n60j08/why_martin_odersky_has_such_strong_will_to_add/)
@@ -258,8 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How long does it take to become an expert in Scale?](https://www.reddit.com/r/scala/comments/n5b9gn/how_long_does_it_take_to_become_an_expert_in_scale/)
 - [SBT Version Scheme Enforcer Plugin: Automatically configure MiMa for Early Semver/PVP/Semver](https://www.reddit.com/r/scala/comments/n4rnln/sbt_version_scheme_enforcer_plugin_automatically/)
 - [Ratio Templates?](https://www.reddit.com/r/scala/comments/n4qyjr/ratio_templates/)
-- [bitcoin-s Release with Scalajs support for the crypto/core modules](https://www.reddit.com/r/scala/comments/n4ocy8/bitcoins_release_with_scalajs_support_for_the/)
-- [Is there a way to do real data-oriented programming/no-objects on the JVM?](https://www.reddit.com/r/scala/comments/n4fx2r/is_there_a_way_to_do_real_dataoriented/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

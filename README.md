@@ -269,7 +269,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala.js 1.0.0 improves JavaScript interoperability](https://www.infoworld.com/article/3530316/scalajs-100-improves-javascript-interoperability.html#tk.rss_scala)
 - [Scala 2.13 overhauls collections, improves the standard library](https://www.infoworld.com/article/3402537/scala-213-overhauls-collections-improves-the-standard-library.html#tk.rss_scala)
 - [Scala 2.13 overhauls collections, improves the standard library](https://www.infoworld.com/article/3402017/scala-213-overhauls-collections-improves-the-standard-library.html#tk.rss_scala)
-- [Oracle steers GraalVM to the enterprise](https://www.infoworld.com/article/3393973/oracle-steers-graalvm-to-the-enterprise.html#tk.rss_scala)
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *RedHat posts*

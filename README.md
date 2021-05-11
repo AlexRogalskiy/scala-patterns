@@ -250,16 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Will there be a Scala 3 RC4?](https://www.reddit.com/r/scala/comments/n968ri/will_there_be_a_scala_3_rc4/)
+- [Do Operations On Immutable Collections Copy Data or Just Pointers?](https://www.reddit.com/r/scala/comments/n953n1/do_operations_on_immutable_collections_copy_data/)
+- [Two pattern matching pitfalls | FP-Tower](https://www.reddit.com/r/scala/comments/n8zl6w/two_pattern_matching_pitfalls_fptower/)
+- [Scala noob question. Parameter of type Option. Why does scala compiler allows passing null as an argument?](https://www.reddit.com/r/scala/comments/n8z3lm/scala_noob_question_parameter_of_type_option_why/)
+- [An Intro to Functional Collections in Scala](https://www.reddit.com/r/scala/comments/n8x5aw/an_intro_to_functional_collections_in_scala/)
 - [sbt 1.5.2 released](https://www.reddit.com/r/scala/comments/n8sugg/sbt_152_released/)
 - [This week in #Scala (May 10, 2021)](https://www.reddit.com/r/scala/comments/n8qjab/this_week_in_scala_may_10_2021/)
 - [ZIO: Mock Kafka Producer from zio.kafka](https://www.reddit.com/r/scala/comments/n8e388/zio_mock_kafka_producer_from_ziokafka/)
 - [Confusion About State In The Red Book](https://www.reddit.com/r/scala/comments/n8cffq/confusion_about_state_in_the_red_book/)
 - [What I learned from using Scala​ Metals​ for 2 years!](https://www.reddit.com/r/scala/comments/n896s4/what_i_learned_from_using_scala_metals_for_2_years/)
-- [Turn openApi specs into running http server stub](https://www.reddit.com/r/scala/comments/n7vpur/turn_openapi_specs_into_running_http_server_stub/)
-- [Rust for the Seasoned Scala Developer](https://www.reddit.com/r/scala/comments/n7t6xk/rust_for_the_seasoned_scala_developer/)
-- [gRPC languages+libraries benchmark results, including Scala with akka-grpc](https://www.reddit.com/r/scala/comments/n7op4v/grpc_languageslibraries_benchmark_results/)
-- [When is it preferable to use ad hoc polymorphism over subtype polymorphism?](https://www.reddit.com/r/scala/comments/n7c3be/when_is_it_preferable_to_use_ad_hoc_polymorphism/)
-- [Working with polymorphic data models in a REST API](https://www.reddit.com/r/scala/comments/n6z3c7/working_with_polymorphic_data_models_in_a_rest_api/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

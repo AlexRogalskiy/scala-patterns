@@ -327,6 +327,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Scalac posts*
 
 <!-- SCALAC-POST-LIST:START -->
+- [Blockchain – The Next Generation Of The Internet](https://scalac.io/blog/how-blockchain-will-change-the-world/)
+- [Real estate tokenization:  a practical guide](https://scalac.io/blog/real-estate-tokenization/)
 - [Understand The Basics Of Tokenization](https://scalac.io/blog/beginners-guide-to-tokenization/)
 - [How do we build a PRO tech team?](https://scalac.io/blog/how-we-recruit-it-professionals/)
 - [Building Ecommerce Shop | Migrating From  Woocommerce To Shopify](https://scalac.io/blog/building-ecommerce-shop-migrating-from-woocommerce-to-shopify/)
@@ -335,8 +337,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How To Tackle Technical Debt Quadrants?](https://scalac.io/blog/how-to-tackle-technical-debt-quadrants/)
 - [13 Elements That Contribute To Technical Debt](https://scalac.io/blog/13-elements-that-contribute-to-technical-debt/)
 - [Financial Intelligence At Airbnb With Scala – A Case Study](https://scalac.io/blog/financial-intelligence-at-airbnb-with-scala-a-case-study/)
-- [The Secret To Building A Successful E-learning Platform](https://scalac.io/blog/the-secret-to-building-a-successful-e-learning-platform/)
-- [Technical debt: the nuts and bolts](https://scalac.io/blog/technical-debt-the-nuts-and-bolts/)
 <!-- SCALAC-POST-LIST:END -->
 
 ***

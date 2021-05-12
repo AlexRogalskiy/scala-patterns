@@ -250,16 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for an appropriate design pattern](https://www.reddit.com/r/scala/comments/nad5px/looking_for_an_appropriate_design_pattern/)
+- [Pattern match on FiniteDuration?](https://www.reddit.com/r/scala/comments/nabazi/pattern_match_on_finiteduration/)
+- [ZIO.effect's in flatMap/for-comprehensions randomly not completing](https://www.reddit.com/r/scala/comments/n9tw2k/zioeffects_in_flatmapforcomprehensions_randomly/)
+- [Typeclasses (and Monoids)](https://www.reddit.com/r/scala/comments/n9s0fe/typeclasses_and_monoids/)
+- [Image editing with Comonads](https://www.reddit.com/r/scala/comments/n9qze3/image_editing_with_comonads/)
 - [Will there be a Scala 3 RC4?](https://www.reddit.com/r/scala/comments/n968ri/will_there_be_a_scala_3_rc4/)
 - [Do Operations On Immutable Collections Copy Data or Just Pointers?](https://www.reddit.com/r/scala/comments/n953n1/do_operations_on_immutable_collections_copy_data/)
 - [Two pattern matching pitfalls | FP-Tower](https://www.reddit.com/r/scala/comments/n8zl6w/two_pattern_matching_pitfalls_fptower/)
 - [Scala noob question. Parameter of type Option. Why does scala compiler allows passing null as an argument?](https://www.reddit.com/r/scala/comments/n8z3lm/scala_noob_question_parameter_of_type_option_why/)
 - [An Intro to Functional Collections in Scala](https://www.reddit.com/r/scala/comments/n8x5aw/an_intro_to_functional_collections_in_scala/)
-- [sbt 1.5.2 released](https://www.reddit.com/r/scala/comments/n8sugg/sbt_152_released/)
-- [This week in #Scala (May 10, 2021)](https://www.reddit.com/r/scala/comments/n8qjab/this_week_in_scala_may_10_2021/)
-- [ZIO: Mock Kafka Producer from zio.kafka](https://www.reddit.com/r/scala/comments/n8e388/zio_mock_kafka_producer_from_ziokafka/)
-- [Confusion About State In The Red Book](https://www.reddit.com/r/scala/comments/n8cffq/confusion_about_state_in_the_red_book/)
-- [What I learned from using Scala​ Metals​ for 2 years!](https://www.reddit.com/r/scala/comments/n896s4/what_i_learned_from_using_scala_metals_for_2_years/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

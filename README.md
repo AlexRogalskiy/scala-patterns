@@ -250,7 +250,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Looking for an appropriate design pattern](https://www.reddit.com/r/scala/comments/nad5px/looking_for_an_appropriate_design_pattern/)
+- [Release 3.0.0: Disallow experimental CB projects on release builds · lampepfl/dotty](https://www.reddit.com/r/scala/comments/nat7zg/release_300_disallow_experimental_cb_projects_on/)
 - [Pattern match on FiniteDuration?](https://www.reddit.com/r/scala/comments/nabazi/pattern_match_on_finiteduration/)
 - [ZIO.effect's in flatMap/for-comprehensions randomly not completing](https://www.reddit.com/r/scala/comments/n9tw2k/zioeffects_in_flatmapforcomprehensions_randomly/)
 - [Typeclasses (and Monoids)](https://www.reddit.com/r/scala/comments/n9s0fe/typeclasses_and_monoids/)

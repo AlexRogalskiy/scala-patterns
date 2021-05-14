@@ -250,6 +250,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to use ScalaJS with Scala3 ?](https://www.reddit.com/r/scala/comments/nbny3u/how_to_use_scalajs_with_scala3/)
+- [How to transition to Scala 3?](https://www.reddit.com/r/scala/comments/nbfxmi/how_to_transition_to_scala_3/)
 - [Release 3.0.0: Disallow experimental CB projects on release builds · lampepfl/dotty](https://www.reddit.com/r/scala/comments/nat7zg/release_300_disallow_experimental_cb_projects_on/)
 - [Pattern match on FiniteDuration?](https://www.reddit.com/r/scala/comments/nabazi/pattern_match_on_finiteduration/)
 - [ZIO.effect's in flatMap/for-comprehensions randomly not completing](https://www.reddit.com/r/scala/comments/n9tw2k/zioeffects_in_flatmapforcomprehensions_randomly/)
@@ -258,8 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Will there be a Scala 3 RC4?](https://www.reddit.com/r/scala/comments/n968ri/will_there_be_a_scala_3_rc4/)
 - [Do Operations On Immutable Collections Copy Data or Just Pointers?](https://www.reddit.com/r/scala/comments/n953n1/do_operations_on_immutable_collections_copy_data/)
 - [Two pattern matching pitfalls | FP-Tower](https://www.reddit.com/r/scala/comments/n8zl6w/two_pattern_matching_pitfalls_fptower/)
-- [Scala noob question. Parameter of type Option. Why does scala compiler allows passing null as an argument?](https://www.reddit.com/r/scala/comments/n8z3lm/scala_noob_question_parameter_of_type_option_why/)
-- [An Intro to Functional Collections in Scala](https://www.reddit.com/r/scala/comments/n8x5aw/an_intro_to_functional_collections_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

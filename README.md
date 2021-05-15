@@ -250,6 +250,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3 released](https://www.reddit.com/r/scala/comments/nc7e7s/scala_3_released/)
 - [How to use ScalaJS with Scala3 ?](https://www.reddit.com/r/scala/comments/nbny3u/how_to_use_scalajs_with_scala3/)
 - [How to transition to Scala 3?](https://www.reddit.com/r/scala/comments/nbfxmi/how_to_transition_to_scala_3/)
 - [Release 3.0.0: Disallow experimental CB projects on release builds · lampepfl/dotty](https://www.reddit.com/r/scala/comments/nat7zg/release_300_disallow_experimental_cb_projects_on/)
@@ -259,7 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Image editing with Comonads](https://www.reddit.com/r/scala/comments/n9qze3/image_editing_with_comonads/)
 - [Will there be a Scala 3 RC4?](https://www.reddit.com/r/scala/comments/n968ri/will_there_be_a_scala_3_rc4/)
 - [Do Operations On Immutable Collections Copy Data or Just Pointers?](https://www.reddit.com/r/scala/comments/n953n1/do_operations_on_immutable_collections_copy_data/)
-- [Two pattern matching pitfalls | FP-Tower](https://www.reddit.com/r/scala/comments/n8zl6w/two_pattern_matching_pitfalls_fptower/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -250,6 +250,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Blog: Camundala — a new Way to develop Camunda BPMNs.](https://www.reddit.com/r/scala/comments/nd1i2d/blog_camundala_a_new_way_to_develop_camunda_bpmns/)
+- [A "Scala on Android" meetup, May 18, 19:00-21:00.](https://www.reddit.com/r/scala/comments/nd1cgx/a_scala_on_android_meetup_may_18_19002100/)
 - [Scala 3 released](https://www.reddit.com/r/scala/comments/nc7e7s/scala_3_released/)
 - [How to use ScalaJS with Scala3 ?](https://www.reddit.com/r/scala/comments/nbny3u/how_to_use_scalajs_with_scala3/)
 - [How to transition to Scala 3?](https://www.reddit.com/r/scala/comments/nbfxmi/how_to_transition_to_scala_3/)
@@ -258,8 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ZIO.effect's in flatMap/for-comprehensions randomly not completing](https://www.reddit.com/r/scala/comments/n9tw2k/zioeffects_in_flatmapforcomprehensions_randomly/)
 - [Typeclasses (and Monoids)](https://www.reddit.com/r/scala/comments/n9s0fe/typeclasses_and_monoids/)
 - [Image editing with Comonads](https://www.reddit.com/r/scala/comments/n9qze3/image_editing_with_comonads/)
-- [Will there be a Scala 3 RC4?](https://www.reddit.com/r/scala/comments/n968ri/will_there_be_a_scala_3_rc4/)
-- [Do Operations On Immutable Collections Copy Data or Just Pointers?](https://www.reddit.com/r/scala/comments/n953n1/do_operations_on_immutable_collections_copy_data/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

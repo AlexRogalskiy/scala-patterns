@@ -250,6 +250,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala (May 17, 2021)](https://www.reddit.com/r/scala/comments/ne073z/this_week_in_scala_may_17_2021/)
+- [Emacs mode for Scala 3](https://www.reddit.com/r/scala/comments/ndzlei/emacs_mode_for_scala_3/)
 - [Blog: Camundala — a new Way to develop Camunda BPMNs.](https://www.reddit.com/r/scala/comments/nd1i2d/blog_camundala_a_new_way_to_develop_camunda_bpmns/)
 - [A "Scala on Android" meetup, May 18, 19:00-21:00.](https://www.reddit.com/r/scala/comments/nd1cgx/a_scala_on_android_meetup_may_18_19002100/)
 - [Scala 3 released](https://www.reddit.com/r/scala/comments/nc7e7s/scala_3_released/)
@@ -258,8 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Release 3.0.0: Disallow experimental CB projects on release builds · lampepfl/dotty](https://www.reddit.com/r/scala/comments/nat7zg/release_300_disallow_experimental_cb_projects_on/)
 - [Pattern match on FiniteDuration?](https://www.reddit.com/r/scala/comments/nabazi/pattern_match_on_finiteduration/)
 - [ZIO.effect's in flatMap/for-comprehensions randomly not completing](https://www.reddit.com/r/scala/comments/n9tw2k/zioeffects_in_flatmapforcomprehensions_randomly/)
-- [Typeclasses (and Monoids)](https://www.reddit.com/r/scala/comments/n9s0fe/typeclasses_and_monoids/)
-- [Image editing with Comonads](https://www.reddit.com/r/scala/comments/n9qze3/image_editing_with_comonads/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

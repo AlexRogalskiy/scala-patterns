@@ -250,6 +250,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3 N00b question - HTML table derivation](https://www.reddit.com/r/scala/comments/ne9vsu/scala_3_n00b_question_html_table_derivation/)
+- [More Practical FP now possible with Scala3?](https://www.reddit.com/r/scala/comments/ne4zmf/more_practical_fp_now_possible_with_scala3/)
 - [This week in #Scala (May 17, 2021)](https://www.reddit.com/r/scala/comments/ne073z/this_week_in_scala_may_17_2021/)
 - [Emacs mode for Scala 3](https://www.reddit.com/r/scala/comments/ndzlei/emacs_mode_for_scala_3/)
 - [Blog: Camundala — a new Way to develop Camunda BPMNs.](https://www.reddit.com/r/scala/comments/nd1i2d/blog_camundala_a_new_way_to_develop_camunda_bpmns/)
@@ -258,8 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to use ScalaJS with Scala3 ?](https://www.reddit.com/r/scala/comments/nbny3u/how_to_use_scalajs_with_scala3/)
 - [How to transition to Scala 3?](https://www.reddit.com/r/scala/comments/nbfxmi/how_to_transition_to_scala_3/)
 - [Release 3.0.0: Disallow experimental CB projects on release builds · lampepfl/dotty](https://www.reddit.com/r/scala/comments/nat7zg/release_300_disallow_experimental_cb_projects_on/)
-- [Pattern match on FiniteDuration?](https://www.reddit.com/r/scala/comments/nabazi/pattern_match_on_finiteduration/)
-- [ZIO.effect's in flatMap/for-comprehensions randomly not completing](https://www.reddit.com/r/scala/comments/n9tw2k/zioeffects_in_flatmapforcomprehensions_randomly/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

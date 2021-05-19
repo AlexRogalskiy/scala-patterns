@@ -250,16 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A Matrix/Element space full of Scala channels](https://www.reddit.com/r/scala/comments/nfrn3e/a_matrixelement_space_full_of_scala_channels/)
+- [Scala 3 API Docs are... painful to use](https://www.reddit.com/r/scala/comments/nfpn1s/scala_3_api_docs_are_painful_to_use/)
+- [GADTs in Scala 3](https://www.reddit.com/r/scala/comments/nfjuhg/gadts_in_scala_3/)
+- [Go vs Scala(via Akka) for distributed system and concurrency programming.](https://www.reddit.com/r/scala/comments/nfieke/go_vs_scalavia_akka_for_distributed_system_and/)
+- [How to make virtual time pass in a test in Cats Effect 3?](https://www.reddit.com/r/scala/comments/nfhbv8/how_to_make_virtual_time_pass_in_a_test_in_cats/)
+- [Migrating from Kind Projector to Underscore Type Lambdas in Scala 3 and Scala 2.13.6/2.12.14](https://www.reddit.com/r/scala/comments/nfgqki/migrating_from_kind_projector_to_underscore_type/)
+- [11 Premium and Best Amazing Features of Scala language](https://www.reddit.com/r/scala/comments/nf2bon/11_premium_and_best_amazing_features_of_scala/)
 - [Scala 3 N00b question - HTML table derivation](https://www.reddit.com/r/scala/comments/ne9vsu/scala_3_n00b_question_html_table_derivation/)
-- [More Practical FP now possible with Scala3?](https://www.reddit.com/r/scala/comments/ne4zmf/more_practical_fp_now_possible_with_scala3/)
 - [This week in #Scala (May 17, 2021)](https://www.reddit.com/r/scala/comments/ne073z/this_week_in_scala_may_17_2021/)
 - [Emacs mode for Scala 3](https://www.reddit.com/r/scala/comments/ndzlei/emacs_mode_for_scala_3/)
-- [Blog: Camundala — a new Way to develop Camunda BPMNs.](https://www.reddit.com/r/scala/comments/nd1i2d/blog_camundala_a_new_way_to_develop_camunda_bpmns/)
-- [A "Scala on Android" meetup, May 18, 19:00-21:00.](https://www.reddit.com/r/scala/comments/nd1cgx/a_scala_on_android_meetup_may_18_19002100/)
-- [Scala 3 released](https://www.reddit.com/r/scala/comments/nc7e7s/scala_3_released/)
-- [How to use ScalaJS with Scala3 ?](https://www.reddit.com/r/scala/comments/nbny3u/how_to_use_scalajs_with_scala3/)
-- [How to transition to Scala 3?](https://www.reddit.com/r/scala/comments/nbfxmi/how_to_transition_to_scala_3/)
-- [Release 3.0.0: Disallow experimental CB projects on release builds · lampepfl/dotty](https://www.reddit.com/r/scala/comments/nat7zg/release_300_disallow_experimental_cb_projects_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

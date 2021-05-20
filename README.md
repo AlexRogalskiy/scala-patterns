@@ -250,6 +250,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Pretty Simple Beginner Q](https://www.reddit.com/r/scala/comments/ngli92/pretty_simple_beginner_q/)
+- [Readable Scala Style](https://www.reddit.com/r/scala/comments/ngkjb4/readable_scala_style/)
+- [Why scala engineers despise python](https://www.reddit.com/r/scala/comments/nfzys1/why_scala_engineers_despise_python/)
 - [A Matrix/Element space full of Scala channels](https://www.reddit.com/r/scala/comments/nfrn3e/a_matrixelement_space_full_of_scala_channels/)
 - [Scala 3 API Docs are... painful to use](https://www.reddit.com/r/scala/comments/nfpn1s/scala_3_api_docs_are_painful_to_use/)
 - [GADTs in Scala 3](https://www.reddit.com/r/scala/comments/nfjuhg/gadts_in_scala_3/)
@@ -257,9 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to make virtual time pass in a test in Cats Effect 3?](https://www.reddit.com/r/scala/comments/nfhbv8/how_to_make_virtual_time_pass_in_a_test_in_cats/)
 - [Migrating from Kind Projector to Underscore Type Lambdas in Scala 3 and Scala 2.13.6/2.12.14](https://www.reddit.com/r/scala/comments/nfgqki/migrating_from_kind_projector_to_underscore_type/)
 - [11 Premium and Best Amazing Features of Scala language](https://www.reddit.com/r/scala/comments/nf2bon/11_premium_and_best_amazing_features_of_scala/)
-- [Scala 3 N00b question - HTML table derivation](https://www.reddit.com/r/scala/comments/ne9vsu/scala_3_n00b_question_html_table_derivation/)
-- [This week in #Scala (May 17, 2021)](https://www.reddit.com/r/scala/comments/ne073z/this_week_in_scala_may_17_2021/)
-- [Emacs mode for Scala 3](https://www.reddit.com/r/scala/comments/ndzlei/emacs_mode_for_scala_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

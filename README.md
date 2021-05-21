@@ -250,7 +250,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Pretty Simple Beginner Q](https://www.reddit.com/r/scala/comments/ngli92/pretty_simple_beginner_q/)
+- [Scala 3 Pattern Matching Opaque Types](https://www.reddit.com/r/scala/comments/nhd9id/scala_3_pattern_matching_opaque_types/)
+- [Has anyone built a dashboard showing the status of Scala 3 support by popular libraries?](https://www.reddit.com/r/scala/comments/ngs7b6/has_anyone_built_a_dashboard_showing_the_status/)
 - [Readable Scala Style](https://www.reddit.com/r/scala/comments/ngkjb4/readable_scala_style/)
 - [Why scala engineers despise python](https://www.reddit.com/r/scala/comments/nfzys1/why_scala_engineers_despise_python/)
 - [A Matrix/Element space full of Scala channels](https://www.reddit.com/r/scala/comments/nfrn3e/a_matrixelement_space_full_of_scala_channels/)
@@ -259,7 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Go vs Scala(via Akka) for distributed system and concurrency programming.](https://www.reddit.com/r/scala/comments/nfieke/go_vs_scalavia_akka_for_distributed_system_and/)
 - [How to make virtual time pass in a test in Cats Effect 3?](https://www.reddit.com/r/scala/comments/nfhbv8/how_to_make_virtual_time_pass_in_a_test_in_cats/)
 - [Migrating from Kind Projector to Underscore Type Lambdas in Scala 3 and Scala 2.13.6/2.12.14](https://www.reddit.com/r/scala/comments/nfgqki/migrating_from_kind_projector_to_underscore_type/)
-- [11 Premium and Best Amazing Features of Scala language](https://www.reddit.com/r/scala/comments/nf2bon/11_premium_and_best_amazing_features_of_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

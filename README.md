@@ -250,16 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala with ScalaTest - Testing Styles for Beginners](https://www.reddit.com/r/scala/comments/nhuy16/scala_with_scalatest_testing_styles_for_beginners/)
+- [How to learn scala generic content？](https://www.reddit.com/r/scala/comments/nhol06/how_to_learn_scala_generic_content/)
+- [What is the best way to find a junior Scala developer job? Are there any junior Scala jobs at all?](https://www.reddit.com/r/scala/comments/nhnlnh/what_is_the_best_way_to_find_a_junior_scala/)
+- [Learning FS2](https://www.reddit.com/r/scala/comments/nhkygf/learning_fs2/)
+- [Which scala 3 web framework has best docs?](https://www.reddit.com/r/scala/comments/nhj1qy/which_scala_3_web_framework_has_best_docs/)
 - [Scala 3 Pattern Matching Opaque Types](https://www.reddit.com/r/scala/comments/nhd9id/scala_3_pattern_matching_opaque_types/)
 - [Has anyone built a dashboard showing the status of Scala 3 support by popular libraries?](https://www.reddit.com/r/scala/comments/ngs7b6/has_anyone_built_a_dashboard_showing_the_status/)
 - [Readable Scala Style](https://www.reddit.com/r/scala/comments/ngkjb4/readable_scala_style/)
 - [Why scala engineers despise python](https://www.reddit.com/r/scala/comments/nfzys1/why_scala_engineers_despise_python/)
 - [A Matrix/Element space full of Scala channels](https://www.reddit.com/r/scala/comments/nfrn3e/a_matrixelement_space_full_of_scala_channels/)
-- [Scala 3 API Docs are... painful to use](https://www.reddit.com/r/scala/comments/nfpn1s/scala_3_api_docs_are_painful_to_use/)
-- [GADTs in Scala 3](https://www.reddit.com/r/scala/comments/nfjuhg/gadts_in_scala_3/)
-- [Go vs Scala(via Akka) for distributed system and concurrency programming.](https://www.reddit.com/r/scala/comments/nfieke/go_vs_scalavia_akka_for_distributed_system_and/)
-- [How to make virtual time pass in a test in Cats Effect 3?](https://www.reddit.com/r/scala/comments/nfhbv8/how_to_make_virtual_time_pass_in_a_test_in_cats/)
-- [Migrating from Kind Projector to Underscore Type Lambdas in Scala 3 and Scala 2.13.6/2.12.14](https://www.reddit.com/r/scala/comments/nfgqki/migrating_from_kind_projector_to_underscore_type/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

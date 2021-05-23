@@ -250,6 +250,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala compilation error: not found: type _$1](https://www.reddit.com/r/scala/comments/nimch3/scala_compilation_error_not_found_type_1/)
 - [Scala with ScalaTest - Testing Styles for Beginners](https://www.reddit.com/r/scala/comments/nhuy16/scala_with_scalatest_testing_styles_for_beginners/)
 - [How to learn scala generic content？](https://www.reddit.com/r/scala/comments/nhol06/how_to_learn_scala_generic_content/)
 - [What is the best way to find a junior Scala developer job? Are there any junior Scala jobs at all?](https://www.reddit.com/r/scala/comments/nhnlnh/what_is_the_best_way_to_find_a_junior_scala/)
@@ -259,7 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Has anyone built a dashboard showing the status of Scala 3 support by popular libraries?](https://www.reddit.com/r/scala/comments/ngs7b6/has_anyone_built_a_dashboard_showing_the_status/)
 - [Readable Scala Style](https://www.reddit.com/r/scala/comments/ngkjb4/readable_scala_style/)
 - [Why scala engineers despise python](https://www.reddit.com/r/scala/comments/nfzys1/why_scala_engineers_despise_python/)
-- [A Matrix/Element space full of Scala channels](https://www.reddit.com/r/scala/comments/nfrn3e/a_matrixelement_space_full_of_scala_channels/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

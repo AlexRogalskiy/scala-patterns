@@ -250,16 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Security Vulnerability Scanning for Scala](https://www.reddit.com/r/scala/comments/njnaj0/security_vulnerability_scanning_for_scala/)
+- [Want to improve the level of Scala, is there any source code or framework recommendation?](https://www.reddit.com/r/scala/comments/njm3ps/want_to_improve_the_level_of_scala_is_there_any/)
+- [POM consistency for sbt plugins](https://www.reddit.com/r/scala/comments/njfjey/pom_consistency_for_sbt_plugins/)
+- [Writing Async App in Scala. Part 1: Coding](https://www.reddit.com/r/scala/comments/njeqgx/writing_async_app_in_scala_part_1_coding/)
+- [[Tutorial][Beginners]My First Attempt at writing a tutorial on Scala for Beginners!](https://www.reddit.com/r/scala/comments/nj4ja0/tutorialbeginnersmy_first_attempt_at_writing_a/)
+- [Hiding Doobie's ConnectionIO implementation detail](https://www.reddit.com/r/scala/comments/nj3gfg/hiding_doobies_connectionio_implementation_detail/)
+- [Three Paradigms (inspired by Uncle Bob)](https://www.reddit.com/r/scala/comments/nj2x2e/three_paradigms_inspired_by_uncle_bob/)
+- [Understanding Scala Programming/Composing Pattern.](https://www.reddit.com/r/scala/comments/nj2s4h/understanding_scala_programmingcomposing_pattern/)
 - [Scala compilation error: not found: type _$1](https://www.reddit.com/r/scala/comments/nimch3/scala_compilation_error_not_found_type_1/)
 - [Scala with ScalaTest - Testing Styles for Beginners](https://www.reddit.com/r/scala/comments/nhuy16/scala_with_scalatest_testing_styles_for_beginners/)
-- [How to learn scala generic content？](https://www.reddit.com/r/scala/comments/nhol06/how_to_learn_scala_generic_content/)
-- [What is the best way to find a junior Scala developer job? Are there any junior Scala jobs at all?](https://www.reddit.com/r/scala/comments/nhnlnh/what_is_the_best_way_to_find_a_junior_scala/)
-- [Learning FS2](https://www.reddit.com/r/scala/comments/nhkygf/learning_fs2/)
-- [Which scala 3 web framework has best docs?](https://www.reddit.com/r/scala/comments/nhj1qy/which_scala_3_web_framework_has_best_docs/)
-- [Scala 3 Pattern Matching Opaque Types](https://www.reddit.com/r/scala/comments/nhd9id/scala_3_pattern_matching_opaque_types/)
-- [Has anyone built a dashboard showing the status of Scala 3 support by popular libraries?](https://www.reddit.com/r/scala/comments/ngs7b6/has_anyone_built_a_dashboard_showing_the_status/)
-- [Readable Scala Style](https://www.reddit.com/r/scala/comments/ngkjb4/readable_scala_style/)
-- [Why scala engineers despise python](https://www.reddit.com/r/scala/comments/nfzys1/why_scala_engineers_despise_python/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

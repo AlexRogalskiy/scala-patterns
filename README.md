@@ -250,6 +250,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala (May 24, 2021)](https://www.reddit.com/r/scala/comments/njwmud/this_week_in_scala_may_24_2021/)
+- [How to track, debug and avoid unexpected behaviour in ZIO fibers](https://www.reddit.com/r/scala/comments/njq6h9/how_to_track_debug_and_avoid_unexpected_behaviour/)
 - [Security Vulnerability Scanning for Scala](https://www.reddit.com/r/scala/comments/njnaj0/security_vulnerability_scanning_for_scala/)
 - [Want to improve the level of Scala, is there any source code or framework recommendation?](https://www.reddit.com/r/scala/comments/njm3ps/want_to_improve_the_level_of_scala_is_there_any/)
 - [POM consistency for sbt plugins](https://www.reddit.com/r/scala/comments/njfjey/pom_consistency_for_sbt_plugins/)
@@ -258,8 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Hiding Doobie's ConnectionIO implementation detail](https://www.reddit.com/r/scala/comments/nj3gfg/hiding_doobies_connectionio_implementation_detail/)
 - [Three Paradigms (inspired by Uncle Bob)](https://www.reddit.com/r/scala/comments/nj2x2e/three_paradigms_inspired_by_uncle_bob/)
 - [Understanding Scala Programming/Composing Pattern.](https://www.reddit.com/r/scala/comments/nj2s4h/understanding_scala_programmingcomposing_pattern/)
-- [Scala compilation error: not found: type _$1](https://www.reddit.com/r/scala/comments/nimch3/scala_compilation_error_not_found_type_1/)
-- [Scala with ScalaTest - Testing Styles for Beginners](https://www.reddit.com/r/scala/comments/nhuy16/scala_with_scalatest_testing_styles_for_beginners/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

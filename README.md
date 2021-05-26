@@ -250,16 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Method type overloading in idiomatic Scala](https://www.reddit.com/r/scala/comments/nl3npa/method_type_overloading_in_idiomatic_scala/)
+- [Is there a library like Monix for Java?](https://www.reddit.com/r/scala/comments/nkwlbl/is_there_a_library_like_monix_for_java/)
+- [Programming with Functions #7: Expressions over statements](https://www.reddit.com/r/scala/comments/nks4x6/programming_with_functions_7_expressions_over/)
+- [Logging instrumentation example](https://www.reddit.com/r/scala/comments/nkrgzn/logging_instrumentation_example/)
 - [This week in #Scala (May 24, 2021)](https://www.reddit.com/r/scala/comments/njwmud/this_week_in_scala_may_24_2021/)
 - [How to track, debug and avoid unexpected behaviour in ZIO fibers](https://www.reddit.com/r/scala/comments/njq6h9/how_to_track_debug_and_avoid_unexpected_behaviour/)
 - [Security Vulnerability Scanning for Scala](https://www.reddit.com/r/scala/comments/njnaj0/security_vulnerability_scanning_for_scala/)
 - [Want to improve the level of Scala, is there any source code or framework recommendation?](https://www.reddit.com/r/scala/comments/njm3ps/want_to_improve_the_level_of_scala_is_there_any/)
 - [POM consistency for sbt plugins](https://www.reddit.com/r/scala/comments/njfjey/pom_consistency_for_sbt_plugins/)
 - [Writing Async App in Scala. Part 1: Coding](https://www.reddit.com/r/scala/comments/njeqgx/writing_async_app_in_scala_part_1_coding/)
-- [[Tutorial][Beginners]My First Attempt at writing a tutorial on Scala for Beginners!](https://www.reddit.com/r/scala/comments/nj4ja0/tutorialbeginnersmy_first_attempt_at_writing_a/)
-- [Hiding Doobie's ConnectionIO implementation detail](https://www.reddit.com/r/scala/comments/nj3gfg/hiding_doobies_connectionio_implementation_detail/)
-- [Three Paradigms (inspired by Uncle Bob)](https://www.reddit.com/r/scala/comments/nj2x2e/three_paradigms_inspired_by_uncle_bob/)
-- [Understanding Scala Programming/Composing Pattern.](https://www.reddit.com/r/scala/comments/nj2s4h/understanding_scala_programmingcomposing_pattern/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

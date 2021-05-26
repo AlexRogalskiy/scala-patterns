@@ -27,7 +27,7 @@ LABEL "com.github.build-date"="$BUILD_DATE"
 LABEL "com.github.vcs-ref"="$VCS_REF"
 
 LABEL "com.github.name"="scala-patterns"
-LABEL "com.github.description"="scala Design Patterns"
+LABEL "com.github.description"="Scala Design Patterns"
 
 ## Setting environment variables
 ENV APP_DIR $APP_DIR

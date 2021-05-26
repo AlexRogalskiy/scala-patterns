@@ -43,27 +43,29 @@
 ## 🎹 *Table of contents*
 
 <!--ts-->
-   * [Scala Design Patterns](#scala-design-patterns)
-      * [<em>Table of contents</em>](#-table-of-contents)
-      * [<em>Summary</em>](#-summary)
-      * [<em>Documentation</em>](#-documentation)
-      * [<em>Statistics</em>](#-statistics)
-      * [<em>Versioning</em>](#-versioning)
-      * [<em>Authors</em>](#-authors)
-      * [<em>Contributing</em>](#-contributing)
-      * [<em>Visitor stats</em>](#-visitor-stats)
-      * [<em>Licensing</em>](#-licensing)
-      * [<em>Development Support</em>](#-development-support)
-      * [<em>Acknowledgement</em>](#-acknowledgement)
-      * [<em>OpenGraph Card</em>](#-opengraph-card)
-      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-         * [<em>Reddit posts</em>](#reddit-posts)
-         * [<em>InfoWorld posts</em>](#infoworld-posts)
-         * [<em>RedHat posts</em>](#redhat-posts)
-         * [<em>Akka posts</em>](#akka-posts)
-         * [<em>Li Haoyi posts</em>](#li-haoyi-posts)
-         * [<em>Scala Lang posts</em>](#scala-lang-posts)
-         * [<em>Scalac posts</em>](#scalac-posts)
+
+- [Scala Design Patterns](#scala-design-patterns)
+  - [<em>Table of contents</em>](#-table-of-contents)
+  - [<em>Summary</em>](#-summary)
+  - [<em>Documentation</em>](#-documentation)
+  - [<em>Statistics</em>](#-statistics)
+  - [<em>Versioning</em>](#-versioning)
+  - [<em>Authors</em>](#-authors)
+  - [<em>Contributing</em>](#-contributing)
+  - [<em>Visitor stats</em>](#-visitor-stats)
+  - [<em>Licensing</em>](#-licensing)
+  - [<em>Development Support</em>](#-development-support)
+  - [<em>Acknowledgement</em>](#-acknowledgement)
+  - [<em>OpenGraph Card</em>](#-opengraph-card)
+  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+    - [<em>Reddit posts</em>](#reddit-posts)
+    - [<em>InfoWorld posts</em>](#infoworld-posts)
+    - [<em>RedHat posts</em>](#redhat-posts)
+    - [<em>Akka posts</em>](#akka-posts)
+    - [<em>Li Haoyi posts</em>](#li-haoyi-posts)
+    - [<em>Scala Lang posts</em>](#scala-lang-posts)
+    - [<em>Scalac posts</em>](#scalac-posts)
+
 <!--te-->
 
 ## ☝ *Summary*
@@ -198,10 +200,8 @@ with community support please contact with us if you have some question or propo
 
 [![Contributors Display](https://badges.pufler.dev/contributors/AlexRogalskiy/scala-patterns?size=50\&padding=5\&bots=true)](https://badges.pufler.dev)
 
-Please read
-[CONTRIBUTING.md](https://github.com/AlexRogalskiy/scala-patterns/blob/master/.github/CONTRIBUTING.md)
-for details on our code of conduct, and the process for submitting pull requests to us
-([emoji key](https://allcontributors.org/docs/en/emoji-key)).
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests
+to us ([emoji key](https://allcontributors.org/docs/en/emoji-key)).
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors)
 specification. Contributions of any kind are welcome!
@@ -250,38 +250,45 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+
 - [Method type overloading in idiomatic Scala](https://www.reddit.com/r/scala/comments/nl3npa/method_type_overloading_in_idiomatic_scala/)
 - [Is there a library like Monix for Java?](https://www.reddit.com/r/scala/comments/nkwlbl/is_there_a_library_like_monix_for_java/)
-- [Programming with Functions #7: Expressions over statements](https://www.reddit.com/r/scala/comments/nks4x6/programming_with_functions_7_expressions_over/)
+- [Programming with Functions #7: Expressions over statements](https://www.reddit.com/r/scala/comments/nks4x6/programming_with_functions\_7\_expressions_over/)
 - [Logging instrumentation example](https://www.reddit.com/r/scala/comments/nkrgzn/logging_instrumentation_example/)
-- [This week in #Scala (May 24, 2021)](https://www.reddit.com/r/scala/comments/njwmud/this_week_in_scala_may_24_2021/)
+- [This week in #Scala (May 24, 2021)](https://www.reddit.com/r/scala/comments/njwmud/this_week_in_scala_may\_24\_2021/)
 - [How to track, debug and avoid unexpected behaviour in ZIO fibers](https://www.reddit.com/r/scala/comments/njq6h9/how_to_track_debug_and_avoid_unexpected_behaviour/)
 - [Security Vulnerability Scanning for Scala](https://www.reddit.com/r/scala/comments/njnaj0/security_vulnerability_scanning_for_scala/)
 - [Want to improve the level of Scala, is there any source code or framework recommendation?](https://www.reddit.com/r/scala/comments/njm3ps/want_to_improve_the_level_of_scala_is_there_any/)
 - [POM consistency for sbt plugins](https://www.reddit.com/r/scala/comments/njfjey/pom_consistency_for_sbt_plugins/)
-- [Writing Async App in Scala. Part 1: Coding](https://www.reddit.com/r/scala/comments/njeqgx/writing_async_app_in_scala_part_1_coding/)
+- [Writing Async App in Scala. Part 1: Coding](https://www.reddit.com/r/scala/comments/njeqgx/writing_async_app_in_scala_part\_1\_coding/)
+
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+
 - [Scala 3 ushers in ‘complete overhaul’ of the language](https://www.infoworld.com/article/3608574/scala-3-moves-to-release-candidate-stage.html#tk.rss_scala)
 - [Scala.js 1.0.0 improves JavaScript interoperability](https://www.infoworld.com/article/3530316/scalajs-100-improves-javascript-interoperability.html#tk.rss_scala)
 - [Scala 2.13 overhauls collections, improves the standard library](https://www.infoworld.com/article/3402537/scala-213-overhauls-collections-improves-the-standard-library.html#tk.rss_scala)
 - [Scala 2.13 overhauls collections, improves the standard library](https://www.infoworld.com/article/3402017/scala-213-overhauls-collections-improves-the-standard-library.html#tk.rss_scala)
+
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *RedHat posts*
 
 <!-- REDHAT-POST-LIST:START -->
+
 - [12 Top blog articles of 2015 – don’t miss these](https://developers.redhat.com/blog/2015/12/29/12-top-blog-articles-of-2015/)
 - [Type safe SalesForce Queries (SOQL) in Scala](https://developers.redhat.com/blog/2015/06/11/type-safe-salesforce-queries-soql-in-scala/)
 - [Scala vs. Node.js as a RESTful backend server](https://developers.redhat.com/blog/2015/04/22/scala-vs-node-js-as-a-restful-backend-server/)
+
 <!-- REDHAT-POST-LIST:END -->
 
 ### *Akka posts*
 
 <!-- AKKA-POST-LIST:START -->
+
 - [Akka Management 1.1.0 Released](/blog/news/2021/05/07/akka-management-1.1.0-released)
 - [Akka Projections 1.2.0 Released](/blog/news/2021/04/23/akka-projection-1.2.0-released)
 - [Akka 2.6.14 Released](/blog/news/2021/04/08/akka-2.6.14-released)
@@ -292,11 +299,13 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Akka Projections 1.1.0 Released](/blog/news/2021/01/21/akka-projection-1.1.0-released)
 - [Akka Persistence JDBC 5.0.0 Released](/blog/news/2021/01/21/akka-persistence-jdbc-5.0.0-released)
 - [Akka HTTP 10.2.3 Released](/blog/news/2021/01/18/akka-http-10.2.3-released)
+
 <!-- AKKA-POST-LIST:END -->
 
 ### *Li Haoyi posts*
 
 <!-- LIHAOYI-POST-LIST:START -->
+
 - [Introducing the com-lihaoyi Github Organization](http://www.lihaoyi.com/post/IntroducingthecomlihaoyiGithubOrganization.html)
 - [From First Principles: Why Scala?](http://www.lihaoyi.com/post/FromFirstPrinciplesWhyScala.html)
 - [Message-based Parallelism with Actors](http://www.lihaoyi.com/post/MessagebasedParallelismwithActors.html)
@@ -307,11 +316,13 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Working with Databases using Scala and Quill](http://www.lihaoyi.com/post/WorkingwithDatabasesusingScalaandQuill.html)
 - [Scraping Websites using Scala and Jsoup](http://www.lihaoyi.com/post/ScrapingWebsitesusingScalaandJsoup.html)
 - [Simple Web and Api Servers with Scala](http://www.lihaoyi.com/post/SimpleWebandApiServerswithScala.html)
+
 <!-- LIHAOYI-POST-LIST:END -->
 
 ### *Scala Lang posts*
 
 <!-- SCALALANG-POST-LIST:START -->
+
 - [The Scala Center Action Towards a More Safe and Respectful Community  Environment](https://www.scala-lang.org/blog/2021/05/11/scala-center-action-towards-safe-respectful-env.html)
 - [Scala 3 in sbt 1.5](https://www.scala-lang.org/blog/2021/04/08/scala-3-in-sbt.html)
 - [Preventing Version Conflicts with versionScheme](https://www.scala-lang.org/blog/2021/02/16/preventing-version-conflicts-with-versionscheme.html)
@@ -322,11 +333,13 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala 3 - A community powered release](https://www.scala-lang.org/blog/2020/09/15/scala-3-the-community-powered-release.html)
 - [The Scala Center stands with Black Lives Matter](https://www.scala-lang.org/blog/2020/06/22/the-scala-center-stands-with-black-lives-matter.html)
 - [Import Suggestions in Scala 3](https://www.scala-lang.org/blog/2020/05/05/scala-3-import-suggestions.html)
+
 <!-- SCALALANG-POST-LIST:END -->
 
 ### *Scalac posts*
 
 <!-- SCALAC-POST-LIST:START -->
+
 - [Blockchain – The Next Generation Of The Internet](https://scalac.io/blog/how-blockchain-will-change-the-world/)
 - [Real estate tokenization:  a practical guide](https://scalac.io/blog/real-estate-tokenization/)
 - [Understand The Basics Of Tokenization](https://scalac.io/blog/beginners-guide-to-tokenization/)
@@ -337,6 +350,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How To Tackle Technical Debt Quadrants?](https://scalac.io/blog/how-to-tackle-technical-debt-quadrants/)
 - [13 Elements That Contribute To Technical Debt](https://scalac.io/blog/13-elements-that-contribute-to-technical-debt/)
 - [Financial Intelligence At Airbnb With Scala – A Case Study](https://scalac.io/blog/financial-intelligence-at-airbnb-with-scala-a-case-study/)
+
 <!-- SCALAC-POST-LIST:END -->
 
 ***

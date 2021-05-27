@@ -248,18 +248,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
+- [Is there a competent Effects library (like ZIO or Monix) for Java? (IO monad)](https://www.reddit.com/r/scala/comments/nlktde/is_there_a_competent_effects_library_like_zio_or/)
+- [I thought it would be worth a mention-- Laminar (a reactive scala-js native frontend framework) is now published for scala 3](https://www.reddit.com/r/scala/comments/nlenkj/i_thought_it_would_be_worth_a_mention_laminar_a/)
+- [The Most Popular Programming Languages - 1965/2021 - New Update](https://www.reddit.com/r/scala/comments/nlbqa1/the_most_popular_programming_languages_19652021/)
+- [Where to start learning Scala for Java dev](https://www.reddit.com/r/scala/comments/nl7hko/where_to_start_learning_scala_for_java_dev/)
+- [Pattern matching & Type inference](https://www.reddit.com/r/scala/comments/nl7h59/pattern_matching_type_inference/)
 - [Method type overloading in idiomatic Scala](https://www.reddit.com/r/scala/comments/nl3npa/method_type_overloading_in_idiomatic_scala/)
 - [Is there a library like Monix for Java?](https://www.reddit.com/r/scala/comments/nkwlbl/is_there_a_library_like_monix_for_java/)
-- [Programming with Functions #7: Expressions over statements](https://www.reddit.com/r/scala/comments/nks4x6/programming_with_functions\_7\_expressions_over/)
+- [Programming with Functions #7: Expressions over statements](https://www.reddit.com/r/scala/comments/nks4x6/programming_with_functions_7_expressions_over/)
 - [Logging instrumentation example](https://www.reddit.com/r/scala/comments/nkrgzn/logging_instrumentation_example/)
-- [This week in #Scala (May 24, 2021)](https://www.reddit.com/r/scala/comments/njwmud/this_week_in_scala_may\_24\_2021/)
-- [How to track, debug and avoid unexpected behaviour in ZIO fibers](https://www.reddit.com/r/scala/comments/njq6h9/how_to_track_debug_and_avoid_unexpected_behaviour/)
-- [Security Vulnerability Scanning for Scala](https://www.reddit.com/r/scala/comments/njnaj0/security_vulnerability_scanning_for_scala/)
-- [Want to improve the level of Scala, is there any source code or framework recommendation?](https://www.reddit.com/r/scala/comments/njm3ps/want_to_improve_the_level_of_scala_is_there_any/)
-- [POM consistency for sbt plugins](https://www.reddit.com/r/scala/comments/njfjey/pom_consistency_for_sbt_plugins/)
-- [Writing Async App in Scala. Part 1: Coding](https://www.reddit.com/r/scala/comments/njeqgx/writing_async_app_in_scala_part\_1\_coding/)
-
+- [This week in #Scala (May 24, 2021)](https://www.reddit.com/r/scala/comments/njwmud/this_week_in_scala_may_24_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

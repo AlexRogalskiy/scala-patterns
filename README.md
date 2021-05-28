@@ -248,16 +248,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Death of Blocker: blocking in Cats Effect 3 - Scala tutorial](https://www.reddit.com/r/scala/comments/nmm67v/death_of_blocker_blocking_in_cats_effect_3_scala/)
+- [Scalacheck Create List Distinct Values AND Exact Size](https://www.reddit.com/r/scala/comments/nmkfjb/scalacheck_create_list_distinct_values_and_exact/)
+- [Final tagless encodings have little to do with typeclasses](https://www.reddit.com/r/scala/comments/nmjil0/final_tagless_encodings_have_little_to_do_with/)
+- [Upload to S3 -> AWS lambda with some Scala Spark code -> Process -> Write back to S3](https://www.reddit.com/r/scala/comments/nmfosm/upload_to_s3_aws_lambda_with_some_scala_spark/)
+- [Scala 3 macros tips & tricks by Adam Warski](https://www.reddit.com/r/scala/comments/nm1t77/scala_3_macros_tips_tricks_by_adam_warski/)
 - [Is there a competent Effects library (like ZIO or Monix) for Java? (IO monad)](https://www.reddit.com/r/scala/comments/nlktde/is_there_a_competent_effects_library_like_zio_or/)
 - [I thought it would be worth a mention-- Laminar (a reactive scala-js native frontend framework) is now published for scala 3](https://www.reddit.com/r/scala/comments/nlenkj/i_thought_it_would_be_worth_a_mention_laminar_a/)
 - [The Most Popular Programming Languages - 1965/2021 - New Update](https://www.reddit.com/r/scala/comments/nlbqa1/the_most_popular_programming_languages_19652021/)
 - [Where to start learning Scala for Java dev](https://www.reddit.com/r/scala/comments/nl7hko/where_to_start_learning_scala_for_java_dev/)
 - [Pattern matching & Type inference](https://www.reddit.com/r/scala/comments/nl7h59/pattern_matching_type_inference/)
-- [Method type overloading in idiomatic Scala](https://www.reddit.com/r/scala/comments/nl3npa/method_type_overloading_in_idiomatic_scala/)
-- [Is there a library like Monix for Java?](https://www.reddit.com/r/scala/comments/nkwlbl/is_there_a_library_like_monix_for_java/)
-- [Programming with Functions #7: Expressions over statements](https://www.reddit.com/r/scala/comments/nks4x6/programming_with_functions_7_expressions_over/)
-- [Logging instrumentation example](https://www.reddit.com/r/scala/comments/nkrgzn/logging_instrumentation_example/)
-- [This week in #Scala (May 24, 2021)](https://www.reddit.com/r/scala/comments/njwmud/this_week_in_scala_may_24_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

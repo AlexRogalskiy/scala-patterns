@@ -248,6 +248,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala, Python quick reference](https://www.reddit.com/r/scala/comments/no08zr/scala_python_quick_reference/)
+- [What are cats, zio for beginner ?](https://www.reddit.com/r/scala/comments/nnwul9/what_are_cats_zio_for_beginner/)
+- [Help in understanding SBT for Spark](https://www.reddit.com/r/scala/comments/nnqw75/help_in_understanding_sbt_for_spark/)
 - [Convert jar to source code](https://www.reddit.com/r/scala/comments/nna8z4/convert_jar_to_source_code/)
 - [Scala 3 configurable derivation?](https://www.reddit.com/r/scala/comments/nn58wk/scala_3_configurable_derivation/)
 - [Spawning VIM from Scala](https://www.reddit.com/r/scala/comments/nmw9dm/spawning_vim_from_scala/)
@@ -255,9 +258,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Death of Blocker: blocking in Cats Effect 3 - Scala tutorial](https://www.reddit.com/r/scala/comments/nmm67v/death_of_blocker_blocking_in_cats_effect_3_scala/)
 - [Scalacheck Create List Distinct Values AND Exact Size](https://www.reddit.com/r/scala/comments/nmkfjb/scalacheck_create_list_distinct_values_and_exact/)
 - [Final tagless encodings have little to do with typeclasses](https://www.reddit.com/r/scala/comments/nmjil0/final_tagless_encodings_have_little_to_do_with/)
-- [Upload to S3 -> AWS lambda with some Scala Spark code -> Process -> Write back to S3](https://www.reddit.com/r/scala/comments/nmfosm/upload_to_s3_aws_lambda_with_some_scala_spark/)
-- [Scala 3 macros tips & tricks by Adam Warski](https://www.reddit.com/r/scala/comments/nm1t77/scala_3_macros_tips_tricks_by_adam_warski/)
-- [Is there a competent Effects library (like ZIO or Monix) for Java? (IO monad)](https://www.reddit.com/r/scala/comments/nlktde/is_there_a_competent_effects_library_like_zio_or/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

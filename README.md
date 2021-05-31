@@ -248,6 +248,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3: Using context functions for request context with http4s and log4cats](https://www.reddit.com/r/scala/comments/nohz95/scala_3_using_context_functions_for_request/)
+- [Top Level Exports in Scala3](https://www.reddit.com/r/scala/comments/no3trg/top_level_exports_in_scala3/)
 - [Scala, Python quick reference](https://www.reddit.com/r/scala/comments/no08zr/scala_python_quick_reference/)
 - [What are cats, zio for beginner ?](https://www.reddit.com/r/scala/comments/nnwul9/what_are_cats_zio_for_beginner/)
 - [Help in understanding SBT for Spark](https://www.reddit.com/r/scala/comments/nnqw75/help_in_understanding_sbt_for_spark/)
@@ -256,8 +258,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Spawning VIM from Scala](https://www.reddit.com/r/scala/comments/nmw9dm/spawning_vim_from_scala/)
 - [Hi Guys, I'm learning Akka with scala and I'm facing issue here while writing custom directives. I don't know what I'm doing wrong. I referred to tutorial and it's same as in there. In me it's showing error. I'm new to scala so don't know what to make of it](https://www.reddit.com/r/scala/comments/nmp3zo/hi_guys_im_learning_akka_with_scala_and_im_facing/)
 - [Death of Blocker: blocking in Cats Effect 3 - Scala tutorial](https://www.reddit.com/r/scala/comments/nmm67v/death_of_blocker_blocking_in_cats_effect_3_scala/)
-- [Scalacheck Create List Distinct Values AND Exact Size](https://www.reddit.com/r/scala/comments/nmkfjb/scalacheck_create_list_distinct_values_and_exact/)
-- [Final tagless encodings have little to do with typeclasses](https://www.reddit.com/r/scala/comments/nmjil0/final_tagless_encodings_have_little_to_do_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -248,6 +248,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 1.5.3 released](https://www.reddit.com/r/scala/comments/npl4v1/sbt_153_released/)
+- [This week in #Scala (May 31, 2021)](https://www.reddit.com/r/scala/comments/np33rp/this_week_in_scala_may_31_2021/)
+- [Type Classes in Scala 3](https://www.reddit.com/r/scala/comments/noyovp/type_classes_in_scala_3/)
 - [Scala 3: Using context functions for request context with http4s and log4cats](https://www.reddit.com/r/scala/comments/nohz95/scala_3_using_context_functions_for_request/)
 - [Top Level Exports in Scala3](https://www.reddit.com/r/scala/comments/no3trg/top_level_exports_in_scala3/)
 - [Scala, Python quick reference](https://www.reddit.com/r/scala/comments/no08zr/scala_python_quick_reference/)
@@ -255,9 +258,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Help in understanding SBT for Spark](https://www.reddit.com/r/scala/comments/nnqw75/help_in_understanding_sbt_for_spark/)
 - [Convert jar to source code](https://www.reddit.com/r/scala/comments/nna8z4/convert_jar_to_source_code/)
 - [Scala 3 configurable derivation?](https://www.reddit.com/r/scala/comments/nn58wk/scala_3_configurable_derivation/)
-- [Spawning VIM from Scala](https://www.reddit.com/r/scala/comments/nmw9dm/spawning_vim_from_scala/)
-- [Hi Guys, I'm learning Akka with scala and I'm facing issue here while writing custom directives. I don't know what I'm doing wrong. I referred to tutorial and it's same as in there. In me it's showing error. I'm new to scala so don't know what to make of it](https://www.reddit.com/r/scala/comments/nmp3zo/hi_guys_im_learning_akka_with_scala_and_im_facing/)
-- [Death of Blocker: blocking in Cats Effect 3 - Scala tutorial](https://www.reddit.com/r/scala/comments/nmm67v/death_of_blocker_blocking_in_cats_effect_3_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

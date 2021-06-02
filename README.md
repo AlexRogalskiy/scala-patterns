@@ -248,16 +248,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does Scala consume a lot more memory?](https://www.reddit.com/r/scala/comments/nq3tyt/does_scala_consume_a_lot_more_memory/)
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/npxcoy/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [Fully automated luxury pipeline for updating dependencies in Scala projects with Missinglink](https://www.reddit.com/r/scala/comments/nprxmq/fully_automated_luxury_pipeline_for_updating/)
+- [Monocle 3 release candidate - a super useful and simple library for optics with poetic api](https://www.reddit.com/r/scala/comments/nprn8v/monocle_3_release_candidate_a_super_useful_and/)
+- [Tree Sitter support](https://www.reddit.com/r/scala/comments/npr1wi/tree_sitter_support/)
 - [sbt 1.5.3 released](https://www.reddit.com/r/scala/comments/npl4v1/sbt_153_released/)
 - [This week in #Scala (May 31, 2021)](https://www.reddit.com/r/scala/comments/np33rp/this_week_in_scala_may_31_2021/)
 - [Type Classes in Scala 3](https://www.reddit.com/r/scala/comments/noyovp/type_classes_in_scala_3/)
 - [Scala 3: Using context functions for request context with http4s and log4cats](https://www.reddit.com/r/scala/comments/nohz95/scala_3_using_context_functions_for_request/)
 - [Top Level Exports in Scala3](https://www.reddit.com/r/scala/comments/no3trg/top_level_exports_in_scala3/)
-- [Scala, Python quick reference](https://www.reddit.com/r/scala/comments/no08zr/scala_python_quick_reference/)
-- [What are cats, zio for beginner ?](https://www.reddit.com/r/scala/comments/nnwul9/what_are_cats_zio_for_beginner/)
-- [Help in understanding SBT for Spark](https://www.reddit.com/r/scala/comments/nnqw75/help_in_understanding_sbt_for_spark/)
-- [Convert jar to source code](https://www.reddit.com/r/scala/comments/nna8z4/convert_jar_to_source_code/)
-- [Scala 3 configurable derivation?](https://www.reddit.com/r/scala/comments/nn58wk/scala_3_configurable_derivation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

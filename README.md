@@ -248,6 +248,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ErgoHack - $5000 top prize programming competition to encourage adoption of Ergoscript, a new language similar to scala](https://www.reddit.com/r/scala/comments/nruoxf/ergohack_5000_top_prize_programming_competition/)
+- [The road to Scala 3 using scala3-migrate | Let's talk about Scala 3](https://www.reddit.com/r/scala/comments/nri5tn/the_road_to_scala_3_using_scala3migrate_lets_talk/)
+- [Cats: Essential Type Class Hierarchy Explained](https://www.reddit.com/r/scala/comments/nrbfeh/cats_essential_type_class_hierarchy_explained/)
 - [Tooling Talks Episode 1 - Ólafur Páll Geirsson](https://www.reddit.com/r/scala/comments/nqufsy/tooling_talks_episode_1_ólafur_páll_geirsson/)
 - [Deal: Stack Overflow Sold To Prosus For $1.8B](https://www.reddit.com/r/scala/comments/nqqvvh/deal_stack_overflow_sold_to_prosus_for_18b/)
 - [Online resource to learn about IO](https://www.reddit.com/r/scala/comments/nqi4ho/online_resource_to_learn_about_io/)
@@ -255,9 +258,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Does Scala consume a lot more memory?](https://www.reddit.com/r/scala/comments/nq3tyt/does_scala_consume_a_lot_more_memory/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/npxcoy/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Fully automated luxury pipeline for updating dependencies in Scala projects with Missinglink](https://www.reddit.com/r/scala/comments/nprxmq/fully_automated_luxury_pipeline_for_updating/)
-- [Monocle 3 release candidate - a super useful and simple library for optics with poetic api](https://www.reddit.com/r/scala/comments/nprn8v/monocle_3_release_candidate_a_super_useful_and/)
-- [Tree Sitter support](https://www.reddit.com/r/scala/comments/npr1wi/tree_sitter_support/)
-- [sbt 1.5.3 released](https://www.reddit.com/r/scala/comments/npl4v1/sbt_153_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

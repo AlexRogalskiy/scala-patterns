@@ -248,16 +248,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[help] Trouble with derivation and generics](https://www.reddit.com/r/scala/comments/nsjnl9/help_trouble_with_derivation_and_generics/)
+- [Managerial: Twitter Util's Managed, without the Twitter Util](https://www.reddit.com/r/scala/comments/nse5mk/managerial_twitter_utils_managed_without_the/)
+- [Migrating a functional app to Cats Effect 3 - Scala tutorial](https://www.reddit.com/r/scala/comments/ns7m29/migrating_a_functional_app_to_cats_effect_3_scala/)
+- [Scala collections methods explained using food 😋](https://www.reddit.com/r/scala/comments/ns657a/scala_collections_methods_explained_using_food/)
+- [kinesis-mock 0.0.8 - Introduces INITIALIZE_STREAMS, allowing users to create streams at startup](https://www.reddit.com/r/scala/comments/ns5vvo/kinesismock_008_introduces_initialize_streams/)
 - [ErgoHack - $5000 top prize programming competition to encourage adoption of Ergoscript, a new language similar to scala](https://www.reddit.com/r/scala/comments/nruoxf/ergohack_5000_top_prize_programming_competition/)
 - [The road to Scala 3 using scala3-migrate | Let's talk about Scala 3](https://www.reddit.com/r/scala/comments/nri5tn/the_road_to_scala_3_using_scala3migrate_lets_talk/)
 - [Cats: Essential Type Class Hierarchy Explained](https://www.reddit.com/r/scala/comments/nrbfeh/cats_essential_type_class_hierarchy_explained/)
 - [Tooling Talks Episode 1 - Ólafur Páll Geirsson](https://www.reddit.com/r/scala/comments/nqufsy/tooling_talks_episode_1_ólafur_páll_geirsson/)
-- [Deal: Stack Overflow Sold To Prosus For $1.8B](https://www.reddit.com/r/scala/comments/nqqvvh/deal_stack_overflow_sold_to_prosus_for_18b/)
 - [Online resource to learn about IO](https://www.reddit.com/r/scala/comments/nqi4ho/online_resource_to_learn_about_io/)
-- [Using two different methods from generic typed parameter?](https://www.reddit.com/r/scala/comments/nqhsd6/using_two_different_methods_from_generic_typed/)
-- [Does Scala consume a lot more memory?](https://www.reddit.com/r/scala/comments/nq3tyt/does_scala_consume_a_lot_more_memory/)
-- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/npxcoy/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [Fully automated luxury pipeline for updating dependencies in Scala projects with Missinglink](https://www.reddit.com/r/scala/comments/nprxmq/fully_automated_luxury_pipeline_for_updating/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

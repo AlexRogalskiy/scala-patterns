@@ -248,16 +248,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala3: Does it provide a simplified way of doing n-term generic parameters?](https://www.reddit.com/r/scala/comments/nu1dto/scala3_does_it_provide_a_simplified_way_of_doing/)
+- [What are resources to learn/get up to speed with Scala3 for experienced Scala2 dev?](https://www.reddit.com/r/scala/comments/nttt2e/what_are_resources_to_learnget_up_to_speed_with/)
+- [How many of you would prefer popularizing .sc over .scala for a filename extension?](https://www.reddit.com/r/scala/comments/ntsb3t/how_many_of_you_would_prefer_popularizing_sc_over/)
+- [Authentication library without Play?](https://www.reddit.com/r/scala/comments/ntgjue/authentication_library_without_play/)
+- [Favor composition over inheritance in Scala3 with exports!](https://www.reddit.com/r/scala/comments/ntf10n/favor_composition_over_inheritance_in_scala3_with/)
 - [What to learn next?](https://www.reddit.com/r/scala/comments/nt7pp6/what_to_learn_next/)
 - [Is anybody interested in a long-term project to build a research implementation of the Ethereum proof of stake beacon chain in Scala 3?](https://www.reddit.com/r/scala/comments/nt2nd5/is_anybody_interested_in_a_longterm_project_to/)
 - [Suggestion to learn SBT](https://www.reddit.com/r/scala/comments/nsv8mv/suggestion_to_learn_sbt/)
 - [[help] Trouble with derivation and generics](https://www.reddit.com/r/scala/comments/nsjnl9/help_trouble_with_derivation_and_generics/)
 - [Managerial: Twitter Util's Managed, without the Twitter Util](https://www.reddit.com/r/scala/comments/nse5mk/managerial_twitter_utils_managed_without_the/)
-- [Migrating a functional app to Cats Effect 3 - Scala tutorial](https://www.reddit.com/r/scala/comments/ns7m29/migrating_a_functional_app_to_cats_effect_3_scala/)
-- [Scala collections methods explained using food 😋](https://www.reddit.com/r/scala/comments/ns657a/scala_collections_methods_explained_using_food/)
-- [kinesis-mock 0.0.8 - Introduces INITIALIZE_STREAMS, allowing users to create streams at startup](https://www.reddit.com/r/scala/comments/ns5vvo/kinesismock_008_introduces_initialize_streams/)
-- [ErgoHack - $5000 top prize programming competition to encourage adoption of Ergoscript, a new language similar to scala](https://www.reddit.com/r/scala/comments/nruoxf/ergohack_5000_top_prize_programming_competition/)
-- [The road to Scala 3 using scala3-migrate | Let's talk about Scala 3](https://www.reddit.com/r/scala/comments/nri5tn/the_road_to_scala_3_using_scala3migrate_lets_talk/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

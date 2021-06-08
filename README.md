@@ -248,16 +248,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Debugging and Observing Your Scala Code](https://www.reddit.com/r/scala/comments/nugl1j/debugging_and_observing_your_scala_code/)
+- [John Snow Labs Spark-NLP 3.1.0: Over 2600+ new models and pipelines in 200+ languages, new DistilBERT, RoBERTa, and XLM-RoBERTa transformers, support for external Transformers, and lots more!](https://www.reddit.com/r/scala/comments/nufxbp/john_snow_labs_sparknlp_310_over_2600_new_models/)
+- [This week in #Scala (Jun 7, 2021)](https://www.reddit.com/r/scala/comments/nuc1ya/this_week_in_scala_jun_7_2021/)
+- [http4s: blaze vs ember?](https://www.reddit.com/r/scala/comments/nu5iuy/http4s_blaze_vs_ember/)
+- [sbt-assembly 1.0.0 released](https://www.reddit.com/r/scala/comments/nu4yxp/sbtassembly_100_released/)
+- [Lightbend certified architect: experience and value?](https://www.reddit.com/r/scala/comments/nu4qut/lightbend_certified_architect_experience_and_value/)
 - [Scala3: Does it provide a simplified way of doing n-term generic parameters?](https://www.reddit.com/r/scala/comments/nu1dto/scala3_does_it_provide_a_simplified_way_of_doing/)
 - [What are resources to learn/get up to speed with Scala3 for experienced Scala2 dev?](https://www.reddit.com/r/scala/comments/nttt2e/what_are_resources_to_learnget_up_to_speed_with/)
 - [How many of you would prefer popularizing .sc over .scala for a filename extension?](https://www.reddit.com/r/scala/comments/ntsb3t/how_many_of_you_would_prefer_popularizing_sc_over/)
 - [Authentication library without Play?](https://www.reddit.com/r/scala/comments/ntgjue/authentication_library_without_play/)
-- [Favor composition over inheritance in Scala3 with exports!](https://www.reddit.com/r/scala/comments/ntf10n/favor_composition_over_inheritance_in_scala3_with/)
-- [What to learn next?](https://www.reddit.com/r/scala/comments/nt7pp6/what_to_learn_next/)
-- [Is anybody interested in a long-term project to build a research implementation of the Ethereum proof of stake beacon chain in Scala 3?](https://www.reddit.com/r/scala/comments/nt2nd5/is_anybody_interested_in_a_longterm_project_to/)
-- [Suggestion to learn SBT](https://www.reddit.com/r/scala/comments/nsv8mv/suggestion_to_learn_sbt/)
-- [[help] Trouble with derivation and generics](https://www.reddit.com/r/scala/comments/nsjnl9/help_trouble_with_derivation_and_generics/)
-- [Managerial: Twitter Util's Managed, without the Twitter Util](https://www.reddit.com/r/scala/comments/nse5mk/managerial_twitter_utils_managed_without_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

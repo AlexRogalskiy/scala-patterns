@@ -248,16 +248,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala buy sell problem](https://www.reddit.com/r/scala/comments/nw3jyc/scala_buy_sell_problem/)
+- [SBT error when running package application: java.lang.RuntimeException: No main class detected.](https://www.reddit.com/r/scala/comments/nvzsui/sbt_error_when_running_package_application/)
+- [Sbt-assembly error](https://www.reddit.com/r/scala/comments/nvvtot/sbtassembly_error/)
+- [Finding Recruiters?](https://www.reddit.com/r/scala/comments/nvt0lb/finding_recruiters/)
+- [Sharing library: delegate-macro](https://www.reddit.com/r/scala/comments/nvo1xi/sharing_library_delegatemacro/)
 - [Typescript to scala, developer career switch](https://www.reddit.com/r/scala/comments/nvhu51/typescript_to_scala_developer_career_switch/)
 - [Existential Crisis: Implementing MapK in Scala 3](https://www.reddit.com/r/scala/comments/nvfxaj/existential_crisis_implementing_mapk_in_scala_3/)
 - [Thank you fellas !!](https://www.reddit.com/r/scala/comments/nv3epi/thank_you_fellas/)
 - [Is there an alternative to crawler4j scala?](https://www.reddit.com/r/scala/comments/nv1dec/is_there_an_alternative_to_crawler4j_scala/)
 - [Debugging and Observing Your Scala Code](https://www.reddit.com/r/scala/comments/nugl1j/debugging_and_observing_your_scala_code/)
-- [John Snow Labs Spark-NLP 3.1.0: Over 2600+ new models and pipelines in 200+ languages, new DistilBERT, RoBERTa, and XLM-RoBERTa transformers, support for external Transformers, and lots more!](https://www.reddit.com/r/scala/comments/nufxbp/john_snow_labs_sparknlp_310_over_2600_new_models/)
-- [This week in #Scala (Jun 7, 2021)](https://www.reddit.com/r/scala/comments/nuc1ya/this_week_in_scala_jun_7_2021/)
-- [http4s: blaze vs ember?](https://www.reddit.com/r/scala/comments/nu5iuy/http4s_blaze_vs_ember/)
-- [sbt-assembly 1.0.0 released](https://www.reddit.com/r/scala/comments/nu4yxp/sbtassembly_100_released/)
-- [Lightbend certified architect: experience and value?](https://www.reddit.com/r/scala/comments/nu4qut/lightbend_certified_architect_experience_and_value/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

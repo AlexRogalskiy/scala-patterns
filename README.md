@@ -248,16 +248,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ZIO Streams - an explanation of behaviour](https://www.reddit.com/r/scala/comments/nwxznt/zio_streams_an_explanation_of_behaviour/)
+- [STTP API - advice welcomed](https://www.reddit.com/r/scala/comments/nwwrvj/sttp_api_advice_welcomed/)
+- [ZIO vs. Cats Effect for api](https://www.reddit.com/r/scala/comments/nwta4v/zio_vs_cats_effect_for_api/)
+- [Writing HTTP APIs with http4s](https://www.reddit.com/r/scala/comments/nwm4e9/writing_http_apis_with_http4s/)
 - [Scala buy sell problem](https://www.reddit.com/r/scala/comments/nw3jyc/scala_buy_sell_problem/)
 - [SBT error when running package application: java.lang.RuntimeException: No main class detected.](https://www.reddit.com/r/scala/comments/nvzsui/sbt_error_when_running_package_application/)
 - [Sbt-assembly error](https://www.reddit.com/r/scala/comments/nvvtot/sbtassembly_error/)
 - [Finding Recruiters?](https://www.reddit.com/r/scala/comments/nvt0lb/finding_recruiters/)
 - [Sharing library: delegate-macro](https://www.reddit.com/r/scala/comments/nvo1xi/sharing_library_delegatemacro/)
 - [Typescript to scala, developer career switch](https://www.reddit.com/r/scala/comments/nvhu51/typescript_to_scala_developer_career_switch/)
-- [Existential Crisis: Implementing MapK in Scala 3](https://www.reddit.com/r/scala/comments/nvfxaj/existential_crisis_implementing_mapk_in_scala_3/)
-- [Thank you fellas !!](https://www.reddit.com/r/scala/comments/nv3epi/thank_you_fellas/)
-- [Is there an alternative to crawler4j scala?](https://www.reddit.com/r/scala/comments/nv1dec/is_there_an_alternative_to_crawler4j_scala/)
-- [Debugging and Observing Your Scala Code](https://www.reddit.com/r/scala/comments/nugl1j/debugging_and_observing_your_scala_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

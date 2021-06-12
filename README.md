@@ -248,16 +248,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Nouveaux Telegram dédié aux nouvelles pépites cryptos plus rémunération à hauteur de 1$ par personne que vous ramenez dans le groupe ! Pour plus d'infos: 100% gratuit, rien à perdre tout à gagner. https://t.me/Parrainage4you_bot?start=p7152](https://www.reddit.com/r/scala/comments/nxrtzl/nouveaux_telegram_dédié_aux_nouvelles_pépites/)
+- [[SBT,Scala3] Configure SBT so that some file are always recompiled](https://www.reddit.com/r/scala/comments/nxjija/sbtscala3_configure_sbt_so_that_some_file_are/)
+- [Scala,Sbt and Play application issue in routing for multi module project](https://www.reddit.com/r/scala/comments/nxikad/scalasbt_and_play_application_issue_in_routing/)
+- [Video on block structure syntax, including Scala 3](https://www.reddit.com/r/scala/comments/nxersc/video_on_block_structure_syntax_including_scala_3/)
+- [Full-fledged scala 3 application example - need feedback](https://www.reddit.com/r/scala/comments/nxbpob/fullfledged_scala_3_application_example_need/)
 - [ZIO Streams - an explanation of behaviour](https://www.reddit.com/r/scala/comments/nwxznt/zio_streams_an_explanation_of_behaviour/)
 - [STTP API - advice welcomed](https://www.reddit.com/r/scala/comments/nwwrvj/sttp_api_advice_welcomed/)
 - [ZIO vs. Cats Effect for api](https://www.reddit.com/r/scala/comments/nwta4v/zio_vs_cats_effect_for_api/)
 - [Writing HTTP APIs with http4s](https://www.reddit.com/r/scala/comments/nwm4e9/writing_http_apis_with_http4s/)
 - [Scala buy sell problem](https://www.reddit.com/r/scala/comments/nw3jyc/scala_buy_sell_problem/)
-- [SBT error when running package application: java.lang.RuntimeException: No main class detected.](https://www.reddit.com/r/scala/comments/nvzsui/sbt_error_when_running_package_application/)
-- [Sbt-assembly error](https://www.reddit.com/r/scala/comments/nvvtot/sbtassembly_error/)
-- [Finding Recruiters?](https://www.reddit.com/r/scala/comments/nvt0lb/finding_recruiters/)
-- [Sharing library: delegate-macro](https://www.reddit.com/r/scala/comments/nvo1xi/sharing_library_delegatemacro/)
-- [Typescript to scala, developer career switch](https://www.reddit.com/r/scala/comments/nvhu51/typescript_to_scala_developer_career_switch/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

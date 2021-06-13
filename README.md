@@ -248,7 +248,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Nouveaux Telegram dédié aux nouvelles pépites cryptos plus rémunération à hauteur de 1$ par personne que vous ramenez dans le groupe ! Pour plus d'infos: 100% gratuit, rien à perdre tout à gagner. https://t.me/Parrainage4you_bot?start=p7152](https://www.reddit.com/r/scala/comments/nxrtzl/nouveaux_telegram_dédié_aux_nouvelles_pépites/)
+- [Why does a type class for an instance of a trait need `with` in the type signature? (Scala 2.12.13)](https://www.reddit.com/r/scala/comments/nylbss/why_does_a_type_class_for_an_instance_of_a_trait/)
+- [Which is more efficient - IO/ZIO or Kotlin coroutines?](https://www.reddit.com/r/scala/comments/ny09e0/which_is_more_efficient_iozio_or_kotlin_coroutines/)
 - [[SBT,Scala3] Configure SBT so that some file are always recompiled](https://www.reddit.com/r/scala/comments/nxjija/sbtscala3_configure_sbt_so_that_some_file_are/)
 - [Scala,Sbt and Play application issue in routing for multi module project](https://www.reddit.com/r/scala/comments/nxikad/scalasbt_and_play_application_issue_in_routing/)
 - [Video on block structure syntax, including Scala 3](https://www.reddit.com/r/scala/comments/nxersc/video_on_block_structure_syntax_including_scala_3/)
@@ -257,7 +258,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [STTP API - advice welcomed](https://www.reddit.com/r/scala/comments/nwwrvj/sttp_api_advice_welcomed/)
 - [ZIO vs. Cats Effect for api](https://www.reddit.com/r/scala/comments/nwta4v/zio_vs_cats_effect_for_api/)
 - [Writing HTTP APIs with http4s](https://www.reddit.com/r/scala/comments/nwm4e9/writing_http_apis_with_http4s/)
-- [Scala buy sell problem](https://www.reddit.com/r/scala/comments/nw3jyc/scala_buy_sell_problem/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -248,6 +248,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Side effectful DDD factory in Scala](https://www.reddit.com/r/scala/comments/nyuwf4/side_effectful_ddd_factory_in_scala/)
+- [Part 1 - What is ZIO and should you learn it? - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/nyqgko/part_1_what_is_zio_and_should_you_learn_it/)
 - [Why does a type class for an instance of a trait need `with` in the type signature? (Scala 2.12.13)](https://www.reddit.com/r/scala/comments/nylbss/why_does_a_type_class_for_an_instance_of_a_trait/)
 - [Which is more efficient - IO/ZIO or Kotlin coroutines?](https://www.reddit.com/r/scala/comments/ny09e0/which_is_more_efficient_iozio_or_kotlin_coroutines/)
 - [[SBT,Scala3] Configure SBT so that some file are always recompiled](https://www.reddit.com/r/scala/comments/nxjija/sbtscala3_configure_sbt_so_that_some_file_are/)
@@ -256,8 +258,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Full-fledged scala 3 application example - need feedback](https://www.reddit.com/r/scala/comments/nxbpob/fullfledged_scala_3_application_example_need/)
 - [ZIO Streams - an explanation of behaviour](https://www.reddit.com/r/scala/comments/nwxznt/zio_streams_an_explanation_of_behaviour/)
 - [STTP API - advice welcomed](https://www.reddit.com/r/scala/comments/nwwrvj/sttp_api_advice_welcomed/)
-- [ZIO vs. Cats Effect for api](https://www.reddit.com/r/scala/comments/nwta4v/zio_vs_cats_effect_for_api/)
-- [Writing HTTP APIs with http4s](https://www.reddit.com/r/scala/comments/nwm4e9/writing_http_apis_with_http4s/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

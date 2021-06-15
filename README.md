@@ -248,16 +248,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to validate and profile data pipelines with Scala?](https://www.reddit.com/r/scala/comments/nzya6l/how_to_validate_and_profile_data_pipelines_with/)
+- [Scala 3.0](https://www.reddit.com/r/scala/comments/nzumfi/scala_30/)
+- [This week in #Scala (Jun 14, 2021)](https://www.reddit.com/r/scala/comments/nzlse7/this_week_in_scala_jun_14_2021/)
+- [Is there a framework like Blazor Server?](https://www.reddit.com/r/scala/comments/nzh9pt/is_there_a_framework_like_blazor_server/)
+- [sbt 1.5.4 released](https://www.reddit.com/r/scala/comments/nzekh8/sbt_154_released/)
 - [Side effectful DDD factory in Scala](https://www.reddit.com/r/scala/comments/nyuwf4/side_effectful_ddd_factory_in_scala/)
 - [Part 1 - What is ZIO and should you learn it? - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/nyqgko/part_1_what_is_zio_and_should_you_learn_it/)
 - [Why does a type class for an instance of a trait need `with` in the type signature? (Scala 2.12.13)](https://www.reddit.com/r/scala/comments/nylbss/why_does_a_type_class_for_an_instance_of_a_trait/)
 - [Which is more efficient - IO/ZIO or Kotlin coroutines?](https://www.reddit.com/r/scala/comments/ny09e0/which_is_more_efficient_iozio_or_kotlin_coroutines/)
 - [[SBT,Scala3] Configure SBT so that some file are always recompiled](https://www.reddit.com/r/scala/comments/nxjija/sbtscala3_configure_sbt_so_that_some_file_are/)
-- [Scala,Sbt and Play application issue in routing for multi module project](https://www.reddit.com/r/scala/comments/nxikad/scalasbt_and_play_application_issue_in_routing/)
-- [Video on block structure syntax, including Scala 3](https://www.reddit.com/r/scala/comments/nxersc/video_on_block_structure_syntax_including_scala_3/)
-- [Full-fledged scala 3 application example - need feedback](https://www.reddit.com/r/scala/comments/nxbpob/fullfledged_scala_3_application_example_need/)
-- [ZIO Streams - an explanation of behaviour](https://www.reddit.com/r/scala/comments/nwxznt/zio_streams_an_explanation_of_behaviour/)
-- [STTP API - advice welcomed](https://www.reddit.com/r/scala/comments/nwwrvj/sttp_api_advice_welcomed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

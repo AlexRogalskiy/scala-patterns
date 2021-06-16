@@ -248,6 +248,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala LibHunt - discover popular projects based on their mentions on Reddit](https://www.reddit.com/r/scala/comments/o0u6df/scala_libhunt_discover_popular_projects_based_on/)
 - [How to validate and profile data pipelines with Scala?](https://www.reddit.com/r/scala/comments/nzya6l/how_to_validate_and_profile_data_pipelines_with/)
 - [Scala 3.0](https://www.reddit.com/r/scala/comments/nzumfi/scala_30/)
 - [This week in #Scala (Jun 14, 2021)](https://www.reddit.com/r/scala/comments/nzlse7/this_week_in_scala_jun_14_2021/)
@@ -257,7 +258,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Part 1 - What is ZIO and should you learn it? - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/nyqgko/part_1_what_is_zio_and_should_you_learn_it/)
 - [Why does a type class for an instance of a trait need `with` in the type signature? (Scala 2.12.13)](https://www.reddit.com/r/scala/comments/nylbss/why_does_a_type_class_for_an_instance_of_a_trait/)
 - [Which is more efficient - IO/ZIO or Kotlin coroutines?](https://www.reddit.com/r/scala/comments/ny09e0/which_is_more_efficient_iozio_or_kotlin_coroutines/)
-- [[SBT,Scala3] Configure SBT so that some file are always recompiled](https://www.reddit.com/r/scala/comments/nxjija/sbtscala3_configure_sbt_so_that_some_file_are/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

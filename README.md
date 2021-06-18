@@ -248,16 +248,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Functional code and logging](https://www.reddit.com/r/scala/comments/o22xvb/functional_code_and_logging/)
+- [The Most Popular JavaScript Frameworks - 2011/2021](https://www.reddit.com/r/scala/comments/o1zml6/the_most_popular_javascript_frameworks_20112021/)
+- [The road to Scala 3 using scala3-migrate - Video](https://www.reddit.com/r/scala/comments/o1yox3/the_road_to_scala_3_using_scala3migrate_video/)
+- [Help understanding a weird error with Spark and JDBC](https://www.reddit.com/r/scala/comments/o1ynx6/help_understanding_a_weird_error_with_spark_and/)
 - [Charles Hoskinson (founder of Cardano) endorsing Scala 3](https://www.reddit.com/r/scala/comments/o1eplm/charles_hoskinson_founder_of_cardano_endorsing/)
 - [Stryker4s: from 40 minutes to 40 seconds | Stryker Mutator](https://www.reddit.com/r/scala/comments/o179je/stryker4s_from_40_minutes_to_40_seconds_stryker/)
 - [Scala LibHunt - discover popular projects based on their mentions on Reddit](https://www.reddit.com/r/scala/comments/o0u6df/scala_libhunt_discover_popular_projects_based_on/)
 - [How to validate and profile data pipelines with Scala?](https://www.reddit.com/r/scala/comments/nzya6l/how_to_validate_and_profile_data_pipelines_with/)
 - [Scala 3.0](https://www.reddit.com/r/scala/comments/nzumfi/scala_30/)
 - [This week in #Scala (Jun 14, 2021)](https://www.reddit.com/r/scala/comments/nzlse7/this_week_in_scala_jun_14_2021/)
-- [Is there a framework like Blazor Server?](https://www.reddit.com/r/scala/comments/nzh9pt/is_there_a_framework_like_blazor_server/)
-- [sbt 1.5.4 released](https://www.reddit.com/r/scala/comments/nzekh8/sbt_154_released/)
-- [Side effectful DDD factory in Scala](https://www.reddit.com/r/scala/comments/nyuwf4/side_effectful_ddd_factory_in_scala/)
-- [Part 1 - What is ZIO and should you learn it? - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/nyqgko/part_1_what_is_zio_and_should_you_learn_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

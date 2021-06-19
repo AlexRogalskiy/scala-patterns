@@ -248,16 +248,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Parsing Combinators Problem](https://www.reddit.com/r/scala/comments/o32i2u/scala_parsing_combinators_problem/)
+- [Scala, 2.12/2.13, which driver/library recommend for connecting to Cassandra](https://www.reddit.com/r/scala/comments/o2xv6s/scala_212213_which_driverlibrary_recommend_for/)
+- [Scala Type Classes from Scratch](https://www.reddit.com/r/scala/comments/o2r34e/scala_type_classes_from_scratch/)
+- [Programming in Scala, 5th Edition](https://www.reddit.com/r/scala/comments/o2o9ya/programming_in_scala_5th_edition/)
+- [Unclear type mismatching/](https://www.reddit.com/r/scala/comments/o2le70/unclear_type_mismatching/)
+- [Containers in Functional Programming](https://www.reddit.com/r/scala/comments/o2frbz/containers_in_functional_programming/)
+- [An trivial play app with ZLayer and ZIO](https://www.reddit.com/r/scala/comments/o2fonf/an_trivial_play_app_with_zlayer_and_zio/)
 - [Functional code and logging](https://www.reddit.com/r/scala/comments/o22xvb/functional_code_and_logging/)
-- [The Most Popular JavaScript Frameworks - 2011/2021](https://www.reddit.com/r/scala/comments/o1zml6/the_most_popular_javascript_frameworks_20112021/)
 - [The road to Scala 3 using scala3-migrate - Video](https://www.reddit.com/r/scala/comments/o1yox3/the_road_to_scala_3_using_scala3migrate_video/)
 - [Help understanding a weird error with Spark and JDBC](https://www.reddit.com/r/scala/comments/o1ynx6/help_understanding_a_weird_error_with_spark_and/)
-- [Charles Hoskinson (founder of Cardano) endorsing Scala 3](https://www.reddit.com/r/scala/comments/o1eplm/charles_hoskinson_founder_of_cardano_endorsing/)
-- [Stryker4s: from 40 minutes to 40 seconds | Stryker Mutator](https://www.reddit.com/r/scala/comments/o179je/stryker4s_from_40_minutes_to_40_seconds_stryker/)
-- [Scala LibHunt - discover popular projects based on their mentions on Reddit](https://www.reddit.com/r/scala/comments/o0u6df/scala_libhunt_discover_popular_projects_based_on/)
-- [How to validate and profile data pipelines with Scala?](https://www.reddit.com/r/scala/comments/nzya6l/how_to_validate_and_profile_data_pipelines_with/)
-- [Scala 3.0](https://www.reddit.com/r/scala/comments/nzumfi/scala_30/)
-- [This week in #Scala (Jun 14, 2021)](https://www.reddit.com/r/scala/comments/nzlse7/this_week_in_scala_jun_14_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

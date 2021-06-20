@@ -248,6 +248,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Implementing generic types](https://www.reddit.com/r/scala/comments/o3ni0m/implementing_generic_types/)
 - [Scala Parsing Combinators Problem](https://www.reddit.com/r/scala/comments/o32i2u/scala_parsing_combinators_problem/)
 - [Scala, 2.12/2.13, which driver/library recommend for connecting to Cassandra](https://www.reddit.com/r/scala/comments/o2xv6s/scala_212213_which_driverlibrary_recommend_for/)
 - [Scala Type Classes from Scratch](https://www.reddit.com/r/scala/comments/o2r34e/scala_type_classes_from_scratch/)
@@ -257,7 +258,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [An trivial play app with ZLayer and ZIO](https://www.reddit.com/r/scala/comments/o2fonf/an_trivial_play_app_with_zlayer_and_zio/)
 - [Functional code and logging](https://www.reddit.com/r/scala/comments/o22xvb/functional_code_and_logging/)
 - [The road to Scala 3 using scala3-migrate - Video](https://www.reddit.com/r/scala/comments/o1yox3/the_road_to_scala_3_using_scala3migrate_video/)
-- [Help understanding a weird error with Spark and JDBC](https://www.reddit.com/r/scala/comments/o1ynx6/help_understanding_a_weird_error_with_spark_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

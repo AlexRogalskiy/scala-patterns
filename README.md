@@ -248,16 +248,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Destroy your foldLeft with traverse and State - Scala tutorial](https://www.reddit.com/r/scala/comments/o4irz5/destroy_your_foldleft_with_traverse_and_state/)
+- [Best practices for using Scala on AWS Lambda](https://www.reddit.com/r/scala/comments/o4bt4w/best_practices_for_using_scala_on_aws_lambda/)
+- [Scala 3 Android app](https://www.reddit.com/r/scala/comments/o459gz/scala_3_android_app/)
+- [How to write a fire shader (Scala.js / WebGL 2.0)](https://www.reddit.com/r/scala/comments/o4249h/how_to_write_a_fire_shader_scalajs_webgl_20/)
+- [Part 2 - ZIO[_, _, Success] - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/o408r2/part_2_zio_success_getting_started_with_zio_in/)
 - [Implementing generic types](https://www.reddit.com/r/scala/comments/o3ni0m/implementing_generic_types/)
 - [Scala Parsing Combinators Problem](https://www.reddit.com/r/scala/comments/o32i2u/scala_parsing_combinators_problem/)
 - [Scala, 2.12/2.13, which driver/library recommend for connecting to Cassandra](https://www.reddit.com/r/scala/comments/o2xv6s/scala_212213_which_driverlibrary_recommend_for/)
 - [Scala Type Classes from Scratch](https://www.reddit.com/r/scala/comments/o2r34e/scala_type_classes_from_scratch/)
 - [Programming in Scala, 5th Edition](https://www.reddit.com/r/scala/comments/o2o9ya/programming_in_scala_5th_edition/)
-- [Unclear type mismatching/](https://www.reddit.com/r/scala/comments/o2le70/unclear_type_mismatching/)
-- [Containers in Functional Programming](https://www.reddit.com/r/scala/comments/o2frbz/containers_in_functional_programming/)
-- [An trivial play app with ZLayer and ZIO](https://www.reddit.com/r/scala/comments/o2fonf/an_trivial_play_app_with_zlayer_and_zio/)
-- [Functional code and logging](https://www.reddit.com/r/scala/comments/o22xvb/functional_code_and_logging/)
-- [The road to Scala 3 using scala3-migrate - Video](https://www.reddit.com/r/scala/comments/o1yox3/the_road_to_scala_3_using_scala3migrate_video/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

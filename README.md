@@ -248,6 +248,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala (Jun 21, 2021)](https://www.reddit.com/r/scala/comments/o4ujok/this_week_in_scala_jun_21_2021/)
 - [Destroy your foldLeft with traverse and State - Scala tutorial](https://www.reddit.com/r/scala/comments/o4irz5/destroy_your_foldleft_with_traverse_and_state/)
 - [Best practices for using Scala on AWS Lambda](https://www.reddit.com/r/scala/comments/o4bt4w/best_practices_for_using_scala_on_aws_lambda/)
 - [Scala 3 Android app](https://www.reddit.com/r/scala/comments/o459gz/scala_3_android_app/)
@@ -257,7 +258,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Parsing Combinators Problem](https://www.reddit.com/r/scala/comments/o32i2u/scala_parsing_combinators_problem/)
 - [Scala, 2.12/2.13, which driver/library recommend for connecting to Cassandra](https://www.reddit.com/r/scala/comments/o2xv6s/scala_212213_which_driverlibrary_recommend_for/)
 - [Scala Type Classes from Scratch](https://www.reddit.com/r/scala/comments/o2r34e/scala_type_classes_from_scratch/)
-- [Programming in Scala, 5th Edition](https://www.reddit.com/r/scala/comments/o2o9ya/programming_in_scala_5th_edition/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

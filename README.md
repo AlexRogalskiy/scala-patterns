@@ -248,6 +248,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best strategy to find remote scala job](https://www.reddit.com/r/scala/comments/o61ock/best_strategy_to_find_remote_scala_job/)
+- [Scala 3 goodies for Scala 2 developers](https://www.reddit.com/r/scala/comments/o5j1nt/scala_3_goodies_for_scala_2_developers/)
+- [Learning Scala with #Intellij Scala Plugin 2021(#Scala #REPL #ScratchPad )](https://www.reddit.com/r/scala/comments/o5fjt2/learning_scala_with_intellij_scala_plugin/)
 - [This week in #Scala (Jun 21, 2021)](https://www.reddit.com/r/scala/comments/o4ujok/this_week_in_scala_jun_21_2021/)
 - [Destroy your foldLeft with traverse and State - Scala tutorial](https://www.reddit.com/r/scala/comments/o4irz5/destroy_your_foldleft_with_traverse_and_state/)
 - [Best practices for using Scala on AWS Lambda](https://www.reddit.com/r/scala/comments/o4bt4w/best_practices_for_using_scala_on_aws_lambda/)
@@ -255,9 +258,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to write a fire shader (Scala.js / WebGL 2.0)](https://www.reddit.com/r/scala/comments/o4249h/how_to_write_a_fire_shader_scalajs_webgl_20/)
 - [Part 2 - ZIO[_, _, Success] - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/o408r2/part_2_zio_success_getting_started_with_zio_in/)
 - [Implementing generic types](https://www.reddit.com/r/scala/comments/o3ni0m/implementing_generic_types/)
-- [Scala Parsing Combinators Problem](https://www.reddit.com/r/scala/comments/o32i2u/scala_parsing_combinators_problem/)
-- [Scala, 2.12/2.13, which driver/library recommend for connecting to Cassandra](https://www.reddit.com/r/scala/comments/o2xv6s/scala_212213_which_driverlibrary_recommend_for/)
-- [Scala Type Classes from Scratch](https://www.reddit.com/r/scala/comments/o2r34e/scala_type_classes_from_scratch/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

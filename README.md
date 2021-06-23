@@ -43,27 +43,29 @@
 ## 🎹 *Table of contents*
 
 <!--ts-->
-   * [Scala Design Patterns](#scala-design-patterns)
-      * [<em>Table of contents</em>](#-table-of-contents)
-      * [<em>Summary</em>](#-summary)
-      * [<em>Documentation</em>](#-documentation)
-      * [<em>Statistics</em>](#-statistics)
-      * [<em>Versioning</em>](#-versioning)
-      * [<em>Authors</em>](#-authors)
-      * [<em>Contributing</em>](#-contributing)
-      * [<em>Visitor stats</em>](#-visitor-stats)
-      * [<em>Licensing</em>](#-licensing)
-      * [<em>Development Support</em>](#-development-support)
-      * [<em>Acknowledgement</em>](#-acknowledgement)
-      * [<em>OpenGraph Card</em>](#-opengraph-card)
-      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-         * [<em>Reddit posts</em>](#reddit-posts)
-         * [<em>InfoWorld posts</em>](#infoworld-posts)
-         * [<em>RedHat posts</em>](#redhat-posts)
-         * [<em>Akka posts</em>](#akka-posts)
-         * [<em>Li Haoyi posts</em>](#li-haoyi-posts)
-         * [<em>Scala Lang posts</em>](#scala-lang-posts)
-         * [<em>Scalac posts</em>](#scalac-posts)
+
+- [Scala Design Patterns](#scala-design-patterns)
+  - [<em>Table of contents</em>](#-table-of-contents)
+  - [<em>Summary</em>](#-summary)
+  - [<em>Documentation</em>](#-documentation)
+  - [<em>Statistics</em>](#-statistics)
+  - [<em>Versioning</em>](#-versioning)
+  - [<em>Authors</em>](#-authors)
+  - [<em>Contributing</em>](#-contributing)
+  - [<em>Visitor stats</em>](#-visitor-stats)
+  - [<em>Licensing</em>](#-licensing)
+  - [<em>Development Support</em>](#-development-support)
+  - [<em>Acknowledgement</em>](#-acknowledgement)
+  - [<em>OpenGraph Card</em>](#-opengraph-card)
+  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+    - [<em>Reddit posts</em>](#reddit-posts)
+    - [<em>InfoWorld posts</em>](#infoworld-posts)
+    - [<em>RedHat posts</em>](#redhat-posts)
+    - [<em>Akka posts</em>](#akka-posts)
+    - [<em>Li Haoyi posts</em>](#li-haoyi-posts)
+    - [<em>Scala Lang posts</em>](#scala-lang-posts)
+    - [<em>Scalac posts</em>](#scalac-posts)
+
 <!--te-->
 
 ## ☝ *Summary*
@@ -248,23 +250,27 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+
 - [Best strategy to find remote scala job](https://www.reddit.com/r/scala/comments/o61ock/best_strategy_to_find_remote_scala_job/)
-- [Scala 3 goodies for Scala 2 developers](https://www.reddit.com/r/scala/comments/o5j1nt/scala_3_goodies_for_scala_2_developers/)
+- [Scala 3 goodies for Scala 2 developers](https://www.reddit.com/r/scala/comments/o5j1nt/scala\_3\_goodies_for_scala\_2\_developers/)
 - [Learning Scala with #Intellij Scala Plugin 2021(#Scala #REPL #ScratchPad )](https://www.reddit.com/r/scala/comments/o5fjt2/learning_scala_with_intellij_scala_plugin/)
-- [This week in #Scala (Jun 21, 2021)](https://www.reddit.com/r/scala/comments/o4ujok/this_week_in_scala_jun_21_2021/)
+- [This week in #Scala (Jun 21, 2021)](https://www.reddit.com/r/scala/comments/o4ujok/this_week_in_scala_jun\_21\_2021/)
 - [Destroy your foldLeft with traverse and State - Scala tutorial](https://www.reddit.com/r/scala/comments/o4irz5/destroy_your_foldleft_with_traverse_and_state/)
 - [Best practices for using Scala on AWS Lambda](https://www.reddit.com/r/scala/comments/o4bt4w/best_practices_for_using_scala_on_aws_lambda/)
-- [Scala 3 Android app](https://www.reddit.com/r/scala/comments/o459gz/scala_3_android_app/)
-- [How to write a fire shader (Scala.js / WebGL 2.0)](https://www.reddit.com/r/scala/comments/o4249h/how_to_write_a_fire_shader_scalajs_webgl_20/)
-- [Part 2 - ZIO[_, _, Success] - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/o408r2/part_2_zio_success_getting_started_with_zio_in/)
+- [Scala 3 Android app](https://www.reddit.com/r/scala/comments/o459gz/scala\_3\_android_app/)
+- [How to write a fire shader (Scala.js / WebGL 2.0)](https://www.reddit.com/r/scala/comments/o4249h/how_to_write_a_fire_shader_scalajs_webgl\_20/)
+- [Part 2 - ZIO\[\_, \_, Success\] - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/o408r2/part\_2\_zio_success_getting_started_with_zio_in/)
 - [Implementing generic types](https://www.reddit.com/r/scala/comments/o3ni0m/implementing_generic_types/)
+
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+
 - [Scala 3 ushers in ‘complete overhaul’ of the language](https://www.infoworld.com/article/3608574/scala-3-moves-to-release-candidate-stage.html#tk.rss_scala)
 - [Scala.js 1.0.0 improves JavaScript interoperability](https://www.infoworld.com/article/3530316/scalajs-100-improves-javascript-interoperability.html#tk.rss_scala)
+
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *RedHat posts*

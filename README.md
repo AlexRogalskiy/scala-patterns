@@ -250,18 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
+- [EDA libraries for Scala and Spark?](https://www.reddit.com/r/scala/comments/o6k4sz/eda_libraries_for_scala_and_spark/)
+- [Writing a simple interpreter from scratch](https://www.reddit.com/r/scala/comments/o6eyn8/writing_a_simple_interpreter_from_scratch/)
+- [Improving akka http code](https://www.reddit.com/r/scala/comments/o66pru/improving_akka_http_code/)
+- [DataBricks is providing top notch learning material for Data Engineers and Data Scientists Worth 2000USD(1.45 Lakh Rs) for Free. Verified June 22, 2021.](https://www.reddit.com/r/scala/comments/o64gao/databricks_is_providing_top_notch_learning/)
+- [A Little Book on http4s](https://www.reddit.com/r/scala/comments/o634yu/a_little_book_on_http4s/)
 - [Best strategy to find remote scala job](https://www.reddit.com/r/scala/comments/o61ock/best_strategy_to_find_remote_scala_job/)
-- [Scala 3 goodies for Scala 2 developers](https://www.reddit.com/r/scala/comments/o5j1nt/scala\_3\_goodies_for_scala\_2\_developers/)
+- [Scala 3 goodies for Scala 2 developers](https://www.reddit.com/r/scala/comments/o5j1nt/scala_3_goodies_for_scala_2_developers/)
 - [Learning Scala with #Intellij Scala Plugin 2021(#Scala #REPL #ScratchPad )](https://www.reddit.com/r/scala/comments/o5fjt2/learning_scala_with_intellij_scala_plugin/)
-- [This week in #Scala (Jun 21, 2021)](https://www.reddit.com/r/scala/comments/o4ujok/this_week_in_scala_jun\_21\_2021/)
+- [This week in #Scala (Jun 21, 2021)](https://www.reddit.com/r/scala/comments/o4ujok/this_week_in_scala_jun_21_2021/)
 - [Destroy your foldLeft with traverse and State - Scala tutorial](https://www.reddit.com/r/scala/comments/o4irz5/destroy_your_foldleft_with_traverse_and_state/)
-- [Best practices for using Scala on AWS Lambda](https://www.reddit.com/r/scala/comments/o4bt4w/best_practices_for_using_scala_on_aws_lambda/)
-- [Scala 3 Android app](https://www.reddit.com/r/scala/comments/o459gz/scala\_3\_android_app/)
-- [How to write a fire shader (Scala.js / WebGL 2.0)](https://www.reddit.com/r/scala/comments/o4249h/how_to_write_a_fire_shader_scalajs_webgl\_20/)
-- [Part 2 - ZIO\[\_, \_, Success\] - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/o408r2/part\_2\_zio_success_getting_started_with_zio_in/)
-- [Implementing generic types](https://www.reddit.com/r/scala/comments/o3ni0m/implementing_generic_types/)
-
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

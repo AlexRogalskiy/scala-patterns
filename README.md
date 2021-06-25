@@ -250,6 +250,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Top Level Functions](https://www.reddit.com/r/scala/comments/o751yf/top_level_functions/)
 - [EDA libraries for Scala and Spark?](https://www.reddit.com/r/scala/comments/o6k4sz/eda_libraries_for_scala_and_spark/)
 - [Writing a simple interpreter from scratch](https://www.reddit.com/r/scala/comments/o6eyn8/writing_a_simple_interpreter_from_scratch/)
 - [Improving akka http code](https://www.reddit.com/r/scala/comments/o66pru/improving_akka_http_code/)
@@ -259,7 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala 3 goodies for Scala 2 developers](https://www.reddit.com/r/scala/comments/o5j1nt/scala_3_goodies_for_scala_2_developers/)
 - [Learning Scala with #Intellij Scala Plugin 2021(#Scala #REPL #ScratchPad )](https://www.reddit.com/r/scala/comments/o5fjt2/learning_scala_with_intellij_scala_plugin/)
 - [This week in #Scala (Jun 21, 2021)](https://www.reddit.com/r/scala/comments/o4ujok/this_week_in_scala_jun_21_2021/)
-- [Destroy your foldLeft with traverse and State - Scala tutorial](https://www.reddit.com/r/scala/comments/o4irz5/destroy_your_foldleft_with_traverse_and_state/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

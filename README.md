@@ -250,16 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help with first project (parallelism -> concurrency w/ akka)](https://www.reddit.com/r/scala/comments/o7x6dx/help_with_first_project_parallelism_concurrency_w/)
+- [NotGiven[Q] in Scala3](https://www.reddit.com/r/scala/comments/o7slxq/notgivenq_in_scala3/)
+- [Iron: A library for type constraints in Scala](https://www.reddit.com/r/scala/comments/o7p8vy/iron_a_library_for_type_constraints_in_scala/)
+- [Scala with ZIO: Introduction to Fibers](https://www.reddit.com/r/scala/comments/o7gwh2/scala_with_zio_introduction_to_fibers/)
 - [Top Level Functions](https://www.reddit.com/r/scala/comments/o751yf/top_level_functions/)
 - [EDA libraries for Scala and Spark?](https://www.reddit.com/r/scala/comments/o6k4sz/eda_libraries_for_scala_and_spark/)
 - [Writing a simple interpreter from scratch](https://www.reddit.com/r/scala/comments/o6eyn8/writing_a_simple_interpreter_from_scratch/)
 - [Improving akka http code](https://www.reddit.com/r/scala/comments/o66pru/improving_akka_http_code/)
 - [DataBricks is providing top notch learning material for Data Engineers and Data Scientists Worth 2000USD(1.45 Lakh Rs) for Free. Verified June 22, 2021.](https://www.reddit.com/r/scala/comments/o64gao/databricks_is_providing_top_notch_learning/)
 - [A Little Book on http4s](https://www.reddit.com/r/scala/comments/o634yu/a_little_book_on_http4s/)
-- [Best strategy to find remote scala job](https://www.reddit.com/r/scala/comments/o61ock/best_strategy_to_find_remote_scala_job/)
-- [Scala 3 goodies for Scala 2 developers](https://www.reddit.com/r/scala/comments/o5j1nt/scala_3_goodies_for_scala_2_developers/)
-- [Learning Scala with #Intellij Scala Plugin 2021(#Scala #REPL #ScratchPad )](https://www.reddit.com/r/scala/comments/o5fjt2/learning_scala_with_intellij_scala_plugin/)
-- [This week in #Scala (Jun 21, 2021)](https://www.reddit.com/r/scala/comments/o4ujok/this_week_in_scala_jun_21_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -250,6 +250,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3 "New Control Syntax" does not play nicely with user-defined control structures](https://www.reddit.com/r/scala/comments/o9itfq/scala_3_new_control_syntax_does_not_play_nicely/)
+- [Use Scala on build servers that only support Maven with Sbt-Delegate-Maven-Plugin](https://www.reddit.com/r/scala/comments/o9eam9/use_scala_on_build_servers_that_only_support/)
 - [Tagless Final - Part 2 - Introduction to the Expression Problem](https://www.reddit.com/r/scala/comments/o97o2e/tagless_final_part_2_introduction_to_the/)
 - [The best of IntelliJ in 10min](https://www.reddit.com/r/scala/comments/o94n06/the_best_of_intellij_in_10min/)
 - [Part 3 - ZIO[_, Error, _] & Variance - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/o8r0t4/part_3_zio_error_variance_getting_started_with/)
@@ -258,8 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [(re)constructing sequences with Alternative - Scala tutorial](https://www.reddit.com/r/scala/comments/o8b3mx/reconstructing_sequences_with_alternative_scala/)
 - [Should i quit Scala while i am ahead](https://www.reddit.com/r/scala/comments/o89zp0/should_i_quit_scala_while_i_am_ahead/)
 - [ScalaNative + Python: any leads?](https://www.reddit.com/r/scala/comments/o87ebw/scalanative_python_any_leads/)
-- [Companion Object for Class Vs Trait Vs case class](https://www.reddit.com/r/scala/comments/o85wra/companion_object_for_class_vs_trait_vs_case_class/)
-- [Help with first project (parallelism -> concurrency w/ akka)](https://www.reddit.com/r/scala/comments/o7x6dx/help_with_first_project_parallelism_concurrency_w/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

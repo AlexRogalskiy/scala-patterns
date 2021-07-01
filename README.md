@@ -250,16 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Background processing in functional Scala #2](https://www.reddit.com/r/scala/comments/oawun2/background_processing_in_functional_scala_2/)
+- [Scala 3 Typed Akka Support / SBT Project Template](https://www.reddit.com/r/scala/comments/oatg2e/scala_3_typed_akka_support_sbt_project_template/)
+- [Tooling Talks Episode 2 - Meriam Lachkar](https://www.reddit.com/r/scala/comments/oartc9/tooling_talks_episode_2_meriam_lachkar/)
+- [Does it make sense to use Scala.js/Laminar in the context of a startup?](https://www.reddit.com/r/scala/comments/oapjy9/does_it_make_sense_to_use_scalajslaminar_in_the/)
 - [Convert a nested Tuple to a type Map](https://www.reddit.com/r/scala/comments/oacnqm/convert_a_nested_tuple_to_a_type_map/)
 - [An interesting use of the monad for managing actor complexity](https://www.reddit.com/r/scala/comments/oaauut/an_interesting_use_of_the_monad_for_managing/)
 - [This week in #Scala (Jun 28, 2021)](https://www.reddit.com/r/scala/comments/oa7vpj/this_week_in_scala_jun_28_2021/)
 - [Learn to build a Roguelike game in Scala](https://www.reddit.com/r/scala/comments/oa40oh/learn_to_build_a_roguelike_game_in_scala/)
 - [Gentle introduction to Akka with Scala (Meetup Video)](https://www.reddit.com/r/scala/comments/oa3gjx/gentle_introduction_to_akka_with_scala_meetup/)
 - [Scala 3 "New Control Syntax" does not play nicely with user-defined control structures](https://www.reddit.com/r/scala/comments/o9itfq/scala_3_new_control_syntax_does_not_play_nicely/)
-- [Use Scala on build servers that only support Maven with Sbt-Delegate-Maven-Plugin](https://www.reddit.com/r/scala/comments/o9eam9/use_scala_on_build_servers_that_only_support/)
-- [Tagless Final - Part 2 - Introduction to the Expression Problem](https://www.reddit.com/r/scala/comments/o97o2e/tagless_final_part_2_introduction_to_the/)
-- [The best of IntelliJ in 10min](https://www.reddit.com/r/scala/comments/o94n06/the_best_of_intellij_in_10min/)
-- [Part 3 - ZIO[_, Error, _] & Variance - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/o8r0t4/part_3_zio_error_variance_getting_started_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

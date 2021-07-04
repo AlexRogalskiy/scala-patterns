@@ -43,27 +43,29 @@
 ## 🎹 *Table of contents*
 
 <!--ts-->
-   * [Scala Design Patterns](#scala-design-patterns)
-      * [<em>Table of contents</em>](#-table-of-contents)
-      * [<em>Summary</em>](#-summary)
-      * [<em>Documentation</em>](#-documentation)
-      * [<em>Statistics</em>](#-statistics)
-      * [<em>Versioning</em>](#-versioning)
-      * [<em>Authors</em>](#-authors)
-      * [<em>Contributing</em>](#-contributing)
-      * [<em>Visitor stats</em>](#-visitor-stats)
-      * [<em>Licensing</em>](#-licensing)
-      * [<em>Development Support</em>](#-development-support)
-      * [<em>Acknowledgement</em>](#-acknowledgement)
-      * [<em>OpenGraph Card</em>](#-opengraph-card)
-      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-         * [<em>Reddit posts</em>](#reddit-posts)
-         * [<em>InfoWorld posts</em>](#infoworld-posts)
-         * [<em>RedHat posts</em>](#redhat-posts)
-         * [<em>Akka posts</em>](#akka-posts)
-         * [<em>Li Haoyi posts</em>](#li-haoyi-posts)
-         * [<em>Scala Lang posts</em>](#scala-lang-posts)
-         * [<em>Scalac posts</em>](#scalac-posts)
+
+- [Scala Design Patterns](#scala-design-patterns)
+  - [<em>Table of contents</em>](#-table-of-contents)
+  - [<em>Summary</em>](#-summary)
+  - [<em>Documentation</em>](#-documentation)
+  - [<em>Statistics</em>](#-statistics)
+  - [<em>Versioning</em>](#-versioning)
+  - [<em>Authors</em>](#-authors)
+  - [<em>Contributing</em>](#-contributing)
+  - [<em>Visitor stats</em>](#-visitor-stats)
+  - [<em>Licensing</em>](#-licensing)
+  - [<em>Development Support</em>](#-development-support)
+  - [<em>Acknowledgement</em>](#-acknowledgement)
+  - [<em>OpenGraph Card</em>](#-opengraph-card)
+  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+    - [<em>Reddit posts</em>](#reddit-posts)
+    - [<em>InfoWorld posts</em>](#infoworld-posts)
+    - [<em>RedHat posts</em>](#redhat-posts)
+    - [<em>Akka posts</em>](#akka-posts)
+    - [<em>Li Haoyi posts</em>](#li-haoyi-posts)
+    - [<em>Scala Lang posts</em>](#scala-lang-posts)
+    - [<em>Scalac posts</em>](#scalac-posts)
+
 <!--te-->
 
 ## ☝ *Summary*
@@ -248,7 +250,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Data Engineer Roadmap 2021-All Tools and Frameworks Explained -Beginners and Experienced](https://www.reddit.com/r/scala/comments/oc65cu/data_engineer_roadmap_2021all_tools_and/)
+
+- [Data Engineer Roadmap 2021-All Tools and Frameworks Explained -Beginners and Experienced](https://www.reddit.com/r/scala/comments/oc65cu/data_engineer_roadmap\_2021all_tools_and/)
 - [Python VS Scala](https://www.reddit.com/r/scala/comments/oc3xyj/python_vs_scala/)
 - [Variables not shown when debug Scala in VS Code](https://www.reddit.com/r/scala/comments/oc1pv0/variables_not_shown_when_debug_scala_in_vs_code/)
 - [Question on implementing open tracing with Scala Futures](https://www.reddit.com/r/scala/comments/obxgjt/question_on_implementing_open_tracing_with_scala/)
@@ -256,15 +259,18 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/obou7u/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Comparing http4s and http4k from a Engineering Manger's perspective.](https://www.reddit.com/r/scala/comments/obo1p5/comparing_http4s_and_http4k_from_a_engineering/)
 - [The Power of Referential Transparency](https://www.reddit.com/r/scala/comments/obcqb0/the_power_of_referential_transparency/)
-- [Background processing in functional Scala #2](https://www.reddit.com/r/scala/comments/oawun2/background_processing_in_functional_scala_2/)
-- [Scala 3 Typed Akka Support / SBT Project Template](https://www.reddit.com/r/scala/comments/oatg2e/scala_3_typed_akka_support_sbt_project_template/)
+- [Background processing in functional Scala #2](https://www.reddit.com/r/scala/comments/oawun2/background_processing_in_functional_scala\_2/)
+- [Scala 3 Typed Akka Support / SBT Project Template](https://www.reddit.com/r/scala/comments/oatg2e/scala\_3\_typed_akka_support_sbt_project_template/)
+
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+
 - [Scala 3 ushers in ‘complete overhaul’ of the language](https://www.infoworld.com/article/3608574/scala-3-moves-to-release-candidate-stage.html#tk.rss_scala)
 - [Scala.js 1.0.0 improves JavaScript interoperability](https://www.infoworld.com/article/3530316/scalajs-100-improves-javascript-interoperability.html#tk.rss_scala)
+
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *RedHat posts*

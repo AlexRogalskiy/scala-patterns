@@ -248,6 +248,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Experienced dev new to Scala looking for a quick answer to get me on the right track - Advice on *standard* Scala framework stack to quickly set up a web-app backend?](https://www.reddit.com/r/scala/comments/od2omz/experienced_dev_new_to_scala_looking_for_a_quick/)
 - [Data Engineer Roadmap 2021-All Tools and Frameworks Explained -Beginners and Experienced](https://www.reddit.com/r/scala/comments/oc65cu/data_engineer_roadmap_2021all_tools_and/)
 - [Python VS Scala](https://www.reddit.com/r/scala/comments/oc3xyj/python_vs_scala/)
 - [Variables not shown when debug Scala in VS Code](https://www.reddit.com/r/scala/comments/oc1pv0/variables_not_shown_when_debug_scala_in_vs_code/)
@@ -257,7 +258,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Comparing http4s and http4k from a Engineering Manger's perspective.](https://www.reddit.com/r/scala/comments/obo1p5/comparing_http4s_and_http4k_from_a_engineering/)
 - [The Power of Referential Transparency](https://www.reddit.com/r/scala/comments/obcqb0/the_power_of_referential_transparency/)
 - [Background processing in functional Scala #2](https://www.reddit.com/r/scala/comments/oawun2/background_processing_in_functional_scala_2/)
-- [Scala 3 Typed Akka Support / SBT Project Template](https://www.reddit.com/r/scala/comments/oatg2e/scala_3_typed_akka_support_sbt_project_template/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

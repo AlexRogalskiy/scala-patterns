@@ -250,18 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
+- [Check out my extremely dumb Scala 3 metaprogramming library (it's literally just ScalaTags but everything is done at compile time) that I've been developing off and on since 3.0.0-M1](https://www.reddit.com/r/scala/comments/oekv9o/check_out_my_extremely_dumb_scala_3/)
+- [Roast my library: typed-list](https://www.reddit.com/r/scala/comments/oehr83/roast_my_library_typedlist/)
+- [Raspberry pi 4b](https://www.reddit.com/r/scala/comments/oeeymp/raspberry_pi_4b/)
+- [Let’s about how long you should expect it to take from the moment you start learning to code until the moment you land your first dev job!](https://www.reddit.com/r/scala/comments/oebrgv/lets_about_how_long_you_should_expect_it_to_take/)
+- [Help running a Scala project(very little knowledge), related to You need a budget desktop program.](https://www.reddit.com/r/scala/comments/oe9m9c/help_running_a_scala_projectvery_little_knowledge/)
+- [Supervisor | Background processing in functional Scala #3](https://www.reddit.com/r/scala/comments/oe94sg/supervisor_background_processing_in_functional/)
+- [This week in #Scala (Jul 5, 2021)](https://www.reddit.com/r/scala/comments/oe8gz8/this_week_in_scala_jul_5_2021/)
 - [Sharing our reusable skeleton to build web apps in Scala/Scala.js](https://www.reddit.com/r/scala/comments/odrm5q/sharing_our_reusable_skeleton_to_build_web_apps/)
 - [NEW VSCode extension "Blockman" to highlight nested code blocks](https://www.reddit.com/r/scala/comments/odri39/new_vscode_extension_blockman_to_highlight_nested/)
 - [Help me to solve the `leetcode` problem with `Scala`!](https://www.reddit.com/r/scala/comments/odh9bb/help_me_to_solve_the_leetcode_problem_with_scala/)
-- [The Most Popular Programming Languages - 1965/2021 - New Update](https://www.reddit.com/r/scala/comments/odgpb9/the_most_popular_programming_languages\_19652021/)
-- [Part 4 - ZIO\[Env, \_, \_\] - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/odfbhn/part\_4\_zioenv_getting_started_with_zio_in_scala3/)
-- [Experienced dev new to Scala looking for a quick answer to get me on the right track - Advice on *standard* Scala framework stack to quickly set up a web-app backend?](https://www.reddit.com/r/scala/comments/od2omz/experienced_dev_new_to_scala_looking_for_a_quick/)
-- [Data Engineer Roadmap 2021-All Tools and Frameworks Explained -Beginners and Experienced](https://www.reddit.com/r/scala/comments/oc65cu/data_engineer_roadmap\_2021all_tools_and/)
-- [Python VS Scala](https://www.reddit.com/r/scala/comments/oc3xyj/python_vs_scala/)
-- [Variables not shown when debug Scala in VS Code](https://www.reddit.com/r/scala/comments/oc1pv0/variables_not_shown_when_debug_scala_in_vs_code/)
-- [Question on implementing open tracing with Scala Futures](https://www.reddit.com/r/scala/comments/obxgjt/question_on_implementing_open_tracing_with_scala/)
-
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

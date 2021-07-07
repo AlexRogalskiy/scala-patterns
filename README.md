@@ -250,16 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can you submit Scala files to Kattis?](https://www.reddit.com/r/scala/comments/of5v5e/can_you_submit_scala_files_to_kattis/)
+- [Indigo, Tyrian, & Roguelike Starter-kits, Oh My!](https://www.reddit.com/r/scala/comments/of5dqj/indigo_tyrian_roguelike_starterkits_oh_my/)
+- [Wire Signals 1.0.0 released 🥳](https://www.reddit.com/r/scala/comments/of1e84/wire_signals_100_released/)
+- [Covid 19 data set extraction](https://www.reddit.com/r/scala/comments/oeulju/covid_19_data_set_extraction/)
+- [Why Typelevel hates ZIO?](https://www.reddit.com/r/scala/comments/oes7b2/why_typelevel_hates_zio/)
+- [help me to solve this `leetcode` problem using scala.](https://www.reddit.com/r/scala/comments/oertx9/help_me_to_solve_this_leetcode_problem_using_scala/)
+- [Akka-stream: Define a Flow that will close a resource once the surrounding stream is complete](https://www.reddit.com/r/scala/comments/oemw5z/akkastream_define_a_flow_that_will_close_a/)
+- [Longest Increasing Subsequence](https://www.reddit.com/r/scala/comments/oemsts/longest_increasing_subsequence/)
 - [Check out my extremely dumb Scala 3 metaprogramming library (it's literally just ScalaTags but everything is done at compile time) that I've been developing off and on since 3.0.0-M1](https://www.reddit.com/r/scala/comments/oekv9o/check_out_my_extremely_dumb_scala_3/)
 - [Roast my library: typed-list](https://www.reddit.com/r/scala/comments/oehr83/roast_my_library_typedlist/)
-- [Raspberry pi 4b](https://www.reddit.com/r/scala/comments/oeeymp/raspberry_pi_4b/)
-- [Let’s about how long you should expect it to take from the moment you start learning to code until the moment you land your first dev job!](https://www.reddit.com/r/scala/comments/oebrgv/lets_about_how_long_you_should_expect_it_to_take/)
-- [Help running a Scala project(very little knowledge), related to You need a budget desktop program.](https://www.reddit.com/r/scala/comments/oe9m9c/help_running_a_scala_projectvery_little_knowledge/)
-- [Supervisor | Background processing in functional Scala #3](https://www.reddit.com/r/scala/comments/oe94sg/supervisor_background_processing_in_functional/)
-- [This week in #Scala (Jul 5, 2021)](https://www.reddit.com/r/scala/comments/oe8gz8/this_week_in_scala_jul_5_2021/)
-- [Sharing our reusable skeleton to build web apps in Scala/Scala.js](https://www.reddit.com/r/scala/comments/odrm5q/sharing_our_reusable_skeleton_to_build_web_apps/)
-- [NEW VSCode extension "Blockman" to highlight nested code blocks](https://www.reddit.com/r/scala/comments/odri39/new_vscode_extension_blockman_to_highlight_nested/)
-- [Help me to solve the `leetcode` problem with `Scala`!](https://www.reddit.com/r/scala/comments/odh9bb/help_me_to_solve_the_leetcode_problem_with_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

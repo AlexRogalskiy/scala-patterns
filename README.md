@@ -250,16 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [OAuth2 Scala application with sttp-oauth2, part 1](https://www.reddit.com/r/scala/comments/ofpg5m/oauth2_scala_application_with_sttpoauth2_part_1/)
+- [What did Dinesh in Silicon Valley mean when he said, "I Write Sleek, Performant, Low Overhead, Higher-Order functions that will run on anything".](https://www.reddit.com/r/scala/comments/ofownk/what_did_dinesh_in_silicon_valley_mean_when_he/)
+- [Scala 3 and Web Tech Stack](https://www.reddit.com/r/scala/comments/ofn683/scala_3_and_web_tech_stack/)
+- [Let's talk about some reasons why you should NOT become a software developer!](https://www.reddit.com/r/scala/comments/ofik7z/lets_talk_about_some_reasons_why_you_should_not/)
+- [IO monda and Effects](https://www.reddit.com/r/scala/comments/off9zb/io_monda_and_effects/)
 - [Can you submit Scala files to Kattis?](https://www.reddit.com/r/scala/comments/of5v5e/can_you_submit_scala_files_to_kattis/)
 - [Indigo, Tyrian, & Roguelike Starter-kits, Oh My!](https://www.reddit.com/r/scala/comments/of5dqj/indigo_tyrian_roguelike_starterkits_oh_my/)
 - [Wire Signals 1.0.0 released 🥳](https://www.reddit.com/r/scala/comments/of1e84/wire_signals_100_released/)
 - [Covid 19 data set extraction](https://www.reddit.com/r/scala/comments/oeulju/covid_19_data_set_extraction/)
 - [Why Typelevel hates ZIO?](https://www.reddit.com/r/scala/comments/oes7b2/why_typelevel_hates_zio/)
-- [help me to solve this `leetcode` problem using scala.](https://www.reddit.com/r/scala/comments/oertx9/help_me_to_solve_this_leetcode_problem_using_scala/)
-- [Akka-stream: Define a Flow that will close a resource once the surrounding stream is complete](https://www.reddit.com/r/scala/comments/oemw5z/akkastream_define_a_flow_that_will_close_a/)
-- [Longest Increasing Subsequence](https://www.reddit.com/r/scala/comments/oemsts/longest_increasing_subsequence/)
-- [Check out my extremely dumb Scala 3 metaprogramming library (it's literally just ScalaTags but everything is done at compile time) that I've been developing off and on since 3.0.0-M1](https://www.reddit.com/r/scala/comments/oekv9o/check_out_my_extremely_dumb_scala_3/)
-- [Roast my library: typed-list](https://www.reddit.com/r/scala/comments/oehr83/roast_my_library_typedlist/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

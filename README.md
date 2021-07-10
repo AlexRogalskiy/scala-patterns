@@ -255,11 +255,11 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Getting Started with the latest version of Apache Spark using Python and Scala in your local PC using Intellij , Windows, Mac , Linux Databricks and Apache Zeppelin.](https://www.reddit.com/r/scala/comments/og36wj/getting_started_with_the_latest_version_of_apache/)
 - [Transitioning from Java to Scala](https://www.reddit.com/r/scala/comments/og1txj/transitioning_from_java_to_scala/)
 - [OAuth2 Scala application with sttp-oauth2, part 1](https://www.reddit.com/r/scala/comments/ofpg5m/oauth2_scala_application_with_sttpoauth2_part_1/)
-- [What did Dinesh in Silicon Valley mean when he said, "I Write Sleek, Performant, Low Overhead, Higher-Order functions that will run on anything".](https://www.reddit.com/r/scala/comments/ofownk/what_did_dinesh_in_silicon_valley_mean_when_he/)
 - [Scala 3 and Web Tech Stack](https://www.reddit.com/r/scala/comments/ofn683/scala_3_and_web_tech_stack/)
 - [IO monda and Effects](https://www.reddit.com/r/scala/comments/off9zb/io_monda_and_effects/)
 - [Can you submit Scala files to Kattis?](https://www.reddit.com/r/scala/comments/of5v5e/can_you_submit_scala_files_to_kattis/)
 - [Indigo, Tyrian, & Roguelike Starter-kits, Oh My!](https://www.reddit.com/r/scala/comments/of5dqj/indigo_tyrian_roguelike_starterkits_oh_my/)
+- [Wire Signals 1.0.0 released 🥳](https://www.reddit.com/r/scala/comments/of1e84/wire_signals_100_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

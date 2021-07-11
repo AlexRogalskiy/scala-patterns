@@ -250,6 +250,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A technique for proving type relationships in Scala at compile time](https://www.reddit.com/r/scala/comments/ohkfap/a_technique_for_proving_type_relationships_in/)
+- [Any roadmap infographic for Scala like this?](https://www.reddit.com/r/scala/comments/ohfee0/any_roadmap_infographic_for_scala_like_this/)
 - [Using scalamock with uTest](https://www.reddit.com/r/scala/comments/ogac3o/using_scalamock_with_utest/)
 - [Transitioning from Java to Scala, Gives and Takes ?](https://www.reddit.com/r/scala/comments/og4u3e/transitioning_from_java_to_scala_gives_and_takes/)
 - [Getting Started with the latest version of Apache Spark using Python and Scala in your local PC using Intellij , Windows, Mac , Linux Databricks and Apache Zeppelin.](https://www.reddit.com/r/scala/comments/og36wj/getting_started_with_the_latest_version_of_apache/)
@@ -258,8 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala 3 and Web Tech Stack](https://www.reddit.com/r/scala/comments/ofn683/scala_3_and_web_tech_stack/)
 - [IO monda and Effects](https://www.reddit.com/r/scala/comments/off9zb/io_monda_and_effects/)
 - [Can you submit Scala files to Kattis?](https://www.reddit.com/r/scala/comments/of5v5e/can_you_submit_scala_files_to_kattis/)
-- [Indigo, Tyrian, & Roguelike Starter-kits, Oh My!](https://www.reddit.com/r/scala/comments/of5dqj/indigo_tyrian_roguelike_starterkits_oh_my/)
-- [Wire Signals 1.0.0 released 🥳](https://www.reddit.com/r/scala/comments/of1e84/wire_signals_100_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

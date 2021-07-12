@@ -250,6 +250,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ScalablyTyped publishes Scala 3 support](https://www.reddit.com/r/scala/comments/oifwm0/scalablytyped_publishes_scala_3_support/)
+- [[http4s] [cats effect] Acquiring and releasing BlazeClientBuilder manually](https://www.reddit.com/r/scala/comments/oi3o4m/http4s_cats_effect_acquiring_and_releasing/)
+- [Part 5 - ZIO.access - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/oi0u7k/part_5_zioaccess_getting_started_with_zio_in/)
 - [A technique for proving type relationships in Scala at compile time](https://www.reddit.com/r/scala/comments/ohkfap/a_technique_for_proving_type_relationships_in/)
 - [Any roadmap infographic for Scala like this?](https://www.reddit.com/r/scala/comments/ohfee0/any_roadmap_infographic_for_scala_like_this/)
 - [Using scalamock with uTest](https://www.reddit.com/r/scala/comments/ogac3o/using_scalamock_with_utest/)
@@ -257,9 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Getting Started with the latest version of Apache Spark using Python and Scala in your local PC using Intellij , Windows, Mac , Linux Databricks and Apache Zeppelin.](https://www.reddit.com/r/scala/comments/og36wj/getting_started_with_the_latest_version_of_apache/)
 - [Transitioning from Java to Scala](https://www.reddit.com/r/scala/comments/og1txj/transitioning_from_java_to_scala/)
 - [OAuth2 Scala application with sttp-oauth2, part 1](https://www.reddit.com/r/scala/comments/ofpg5m/oauth2_scala_application_with_sttpoauth2_part_1/)
-- [Scala 3 and Web Tech Stack](https://www.reddit.com/r/scala/comments/ofn683/scala_3_and_web_tech_stack/)
-- [IO monda and Effects](https://www.reddit.com/r/scala/comments/off9zb/io_monda_and_effects/)
-- [Can you submit Scala files to Kattis?](https://www.reddit.com/r/scala/comments/of5v5e/can_you_submit_scala_files_to_kattis/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

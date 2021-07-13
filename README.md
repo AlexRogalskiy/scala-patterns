@@ -250,16 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Configuring metals for Emacs on Ubuntu](https://www.reddit.com/r/scala/comments/oix6qe/configuring_metals_for_emacs_on_ubuntu/)
+- [This week in #Scala (Jul 12, 2021)](https://www.reddit.com/r/scala/comments/oiqtkq/this_week_in_scala_jul_12_2021/)
+- [Any thought on Scala 3 full-stack?](https://www.reddit.com/r/scala/comments/oio3yq/any_thought_on_scala_3_fullstack/)
+- [Partial Functions vs Total Functions](https://www.reddit.com/r/scala/comments/oinud0/partial_functions_vs_total_functions/)
+- [sbt 1.5.5 released](https://www.reddit.com/r/scala/comments/oimr9r/sbt_155_released/)
 - [ScalablyTyped publishes Scala 3 support](https://www.reddit.com/r/scala/comments/oifwm0/scalablytyped_publishes_scala_3_support/)
 - [[http4s] [cats effect] Acquiring and releasing BlazeClientBuilder manually](https://www.reddit.com/r/scala/comments/oi3o4m/http4s_cats_effect_acquiring_and_releasing/)
 - [Part 5 - ZIO.access - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/oi0u7k/part_5_zioaccess_getting_started_with_zio_in/)
 - [A technique for proving type relationships in Scala at compile time](https://www.reddit.com/r/scala/comments/ohkfap/a_technique_for_proving_type_relationships_in/)
 - [Any roadmap infographic for Scala like this?](https://www.reddit.com/r/scala/comments/ohfee0/any_roadmap_infographic_for_scala_like_this/)
-- [Using scalamock with uTest](https://www.reddit.com/r/scala/comments/ogac3o/using_scalamock_with_utest/)
-- [Transitioning from Java to Scala, Gives and Takes ?](https://www.reddit.com/r/scala/comments/og4u3e/transitioning_from_java_to_scala_gives_and_takes/)
-- [Getting Started with the latest version of Apache Spark using Python and Scala in your local PC using Intellij , Windows, Mac , Linux Databricks and Apache Zeppelin.](https://www.reddit.com/r/scala/comments/og36wj/getting_started_with_the_latest_version_of_apache/)
-- [Transitioning from Java to Scala](https://www.reddit.com/r/scala/comments/og1txj/transitioning_from_java_to_scala/)
-- [OAuth2 Scala application with sttp-oauth2, part 1](https://www.reddit.com/r/scala/comments/ofpg5m/oauth2_scala_application_with_sttpoauth2_part_1/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

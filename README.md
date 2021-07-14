@@ -250,6 +250,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [coursera course updated to Scala 3 yet?](https://www.reddit.com/r/scala/comments/ojlxv1/coursera_course_updated_to_scala_3_yet/)
+- [Programming with Functions #8: Monads](https://www.reddit.com/r/scala/comments/ojihja/programming_with_functions_8_monads/)
+- [Getting back into Scala and professional life](https://www.reddit.com/r/scala/comments/ojgowf/getting_back_into_scala_and_professional_life/)
 - [Configuring metals for Emacs on Ubuntu](https://www.reddit.com/r/scala/comments/oix6qe/configuring_metals_for_emacs_on_ubuntu/)
 - [This week in #Scala (Jul 12, 2021)](https://www.reddit.com/r/scala/comments/oiqtkq/this_week_in_scala_jul_12_2021/)
 - [Any thought on Scala 3 full-stack?](https://www.reddit.com/r/scala/comments/oio3yq/any_thought_on_scala_3_fullstack/)
@@ -257,9 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt 1.5.5 released](https://www.reddit.com/r/scala/comments/oimr9r/sbt_155_released/)
 - [ScalablyTyped publishes Scala 3 support](https://www.reddit.com/r/scala/comments/oifwm0/scalablytyped_publishes_scala_3_support/)
 - [[http4s] [cats effect] Acquiring and releasing BlazeClientBuilder manually](https://www.reddit.com/r/scala/comments/oi3o4m/http4s_cats_effect_acquiring_and_releasing/)
-- [Part 5 - ZIO.access - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/oi0u7k/part_5_zioaccess_getting_started_with_zio_in/)
-- [A technique for proving type relationships in Scala at compile time](https://www.reddit.com/r/scala/comments/ohkfap/a_technique_for_proving_type_relationships_in/)
-- [Any roadmap infographic for Scala like this?](https://www.reddit.com/r/scala/comments/ohfee0/any_roadmap_infographic_for_scala_like_this/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

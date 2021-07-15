@@ -250,6 +250,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [OAuth2 Scala application with sttp-oauth2 - part 2](https://www.reddit.com/r/scala/comments/okbznc/oauth2_scala_application_with_sttpoauth2_part_2/)
+- [Why Scala is way slower than python in leetcode?](https://www.reddit.com/r/scala/comments/ok557f/why_scala_is_way_slower_than_python_in_leetcode/)
+- [Metals v0.10.5 - Tungsten is out! New semantic selection range feature and improved Scala 3 support!](https://www.reddit.com/r/scala/comments/ok2un4/metals_v0105_tungsten_is_out_new_semantic/)
 - [coursera course updated to Scala 3 yet?](https://www.reddit.com/r/scala/comments/ojlxv1/coursera_course_updated_to_scala_3_yet/)
 - [Programming with Functions #8: Monads](https://www.reddit.com/r/scala/comments/ojihja/programming_with_functions_8_monads/)
 - [Getting back into Scala and professional life](https://www.reddit.com/r/scala/comments/ojgowf/getting_back_into_scala_and_professional_life/)
@@ -257,9 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala (Jul 12, 2021)](https://www.reddit.com/r/scala/comments/oiqtkq/this_week_in_scala_jul_12_2021/)
 - [Any thought on Scala 3 full-stack?](https://www.reddit.com/r/scala/comments/oio3yq/any_thought_on_scala_3_fullstack/)
 - [Partial Functions vs Total Functions](https://www.reddit.com/r/scala/comments/oinud0/partial_functions_vs_total_functions/)
-- [sbt 1.5.5 released](https://www.reddit.com/r/scala/comments/oimr9r/sbt_155_released/)
-- [ScalablyTyped publishes Scala 3 support](https://www.reddit.com/r/scala/comments/oifwm0/scalablytyped_publishes_scala_3_support/)
-- [[http4s] [cats effect] Acquiring and releasing BlazeClientBuilder manually](https://www.reddit.com/r/scala/comments/oi3o4m/http4s_cats_effect_acquiring_and_releasing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

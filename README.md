@@ -250,6 +250,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Part 6 - zio.Has - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/omh6qw/part_6_ziohas_getting_started_with_zio_in_scala3/)
+- [Help getting a function to work with Spark SQL](https://www.reddit.com/r/scala/comments/omcly8/help_getting_a_function_to_work_with_spark_sql/)
 - [An Intro to the Scala Presentation Compiler](https://www.reddit.com/r/scala/comments/okxazl/an_intro_to_the_scala_presentation_compiler/)
 - [Why Scala is way slower than python ... and than Java too in leetcode?](https://www.reddit.com/r/scala/comments/okpcpv/why_scala_is_way_slower_than_python_and_than_java/)
 - [OAuth2 Scala application with sttp-oauth2 - part 2](https://www.reddit.com/r/scala/comments/okbznc/oauth2_scala_application_with_sttpoauth2_part_2/)
@@ -258,8 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [coursera course updated to Scala 3 yet?](https://www.reddit.com/r/scala/comments/ojlxv1/coursera_course_updated_to_scala_3_yet/)
 - [Programming with Functions #8: Monads](https://www.reddit.com/r/scala/comments/ojihja/programming_with_functions_8_monads/)
 - [Getting back into Scala and professional life](https://www.reddit.com/r/scala/comments/ojgowf/getting_back_into_scala_and_professional_life/)
-- [Configuring metals for Emacs on Ubuntu](https://www.reddit.com/r/scala/comments/oix6qe/configuring_metals_for_emacs_on_ubuntu/)
-- [This week in #Scala (Jul 12, 2021)](https://www.reddit.com/r/scala/comments/oiqtkq/this_week_in_scala_jul_12_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

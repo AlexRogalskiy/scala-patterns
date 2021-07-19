@@ -250,6 +250,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sudori part 1](https://www.reddit.com/r/scala/comments/on07dw/sudori_part_1/)
+- [This week in #Scala (Jul 19, 2021)](https://www.reddit.com/r/scala/comments/omwk0s/this_week_in_scala_jul_19_2021/)
+- [A question about case classes](https://www.reddit.com/r/scala/comments/omk0bq/a_question_about_case_classes/)
 - [Part 6 - zio.Has - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/omh6qw/part_6_ziohas_getting_started_with_zio_in_scala3/)
 - [Help getting a function to work with Spark SQL](https://www.reddit.com/r/scala/comments/omcly8/help_getting_a_function_to_work_with_spark_sql/)
 - [An Intro to the Scala Presentation Compiler](https://www.reddit.com/r/scala/comments/okxazl/an_intro_to_the_scala_presentation_compiler/)
@@ -257,9 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [OAuth2 Scala application with sttp-oauth2 - part 2](https://www.reddit.com/r/scala/comments/okbznc/oauth2_scala_application_with_sttpoauth2_part_2/)
 - [Why Scala is way slower than python in leetcode?](https://www.reddit.com/r/scala/comments/ok557f/why_scala_is_way_slower_than_python_in_leetcode/)
 - [Metals v0.10.5 - Tungsten is out! New semantic selection range feature and improved Scala 3 support!](https://www.reddit.com/r/scala/comments/ok2un4/metals_v0105_tungsten_is_out_new_semantic/)
-- [coursera course updated to Scala 3 yet?](https://www.reddit.com/r/scala/comments/ojlxv1/coursera_course_updated_to_scala_3_yet/)
-- [Programming with Functions #8: Monads](https://www.reddit.com/r/scala/comments/ojihja/programming_with_functions_8_monads/)
-- [Getting back into Scala and professional life](https://www.reddit.com/r/scala/comments/ojgowf/getting_back_into_scala_and_professional_life/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -250,16 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Whats up with scala3.com domain?](https://www.reddit.com/r/scala/comments/onn0vk/whats_up_with_scala3com_domain/)
+- [Scala SQL Local API??](https://www.reddit.com/r/scala/comments/onmb8l/scala_sql_local_api/)
+- [Scalqa - Scala3 Quick API](https://www.reddit.com/r/scala/comments/onhzr5/scalqa_scala3_quick_api/)
+- [I just rebuilt Tour of Scala from scratch - let me know what you think](https://www.reddit.com/r/scala/comments/onf2ft/i_just_rebuilt_tour_of_scala_from_scratch_let_me/)
+- [Let’s talk about 3 things I wish I knew before I became a Software Engineer](https://www.reddit.com/r/scala/comments/onepal/lets_talk_about_3_things_i_wish_i_knew_before_i/)
+- [Default Order in DataFrame](https://www.reddit.com/r/scala/comments/ona8zw/default_order_in_dataframe/)
 - [sudori part 1](https://www.reddit.com/r/scala/comments/on07dw/sudori_part_1/)
 - [This week in #Scala (Jul 19, 2021)](https://www.reddit.com/r/scala/comments/omwk0s/this_week_in_scala_jul_19_2021/)
 - [A question about case classes](https://www.reddit.com/r/scala/comments/omk0bq/a_question_about_case_classes/)
 - [Part 6 - zio.Has - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/omh6qw/part_6_ziohas_getting_started_with_zio_in_scala3/)
-- [Help getting a function to work with Spark SQL](https://www.reddit.com/r/scala/comments/omcly8/help_getting_a_function_to_work_with_spark_sql/)
-- [An Intro to the Scala Presentation Compiler](https://www.reddit.com/r/scala/comments/okxazl/an_intro_to_the_scala_presentation_compiler/)
-- [Why Scala is way slower than python ... and than Java too in leetcode?](https://www.reddit.com/r/scala/comments/okpcpv/why_scala_is_way_slower_than_python_and_than_java/)
-- [OAuth2 Scala application with sttp-oauth2 - part 2](https://www.reddit.com/r/scala/comments/okbznc/oauth2_scala_application_with_sttpoauth2_part_2/)
-- [Why Scala is way slower than python in leetcode?](https://www.reddit.com/r/scala/comments/ok557f/why_scala_is_way_slower_than_python_in_leetcode/)
-- [Metals v0.10.5 - Tungsten is out! New semantic selection range feature and improved Scala 3 support!](https://www.reddit.com/r/scala/comments/ok2un4/metals_v0105_tungsten_is_out_new_semantic/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

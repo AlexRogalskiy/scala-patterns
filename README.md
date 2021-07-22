@@ -250,6 +250,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Any signs of runtime reflection in Scala3?](https://www.reddit.com/r/scala/comments/oouaz9/any_signs_of_runtime_reflection_in_scala3/)
 - [Whats up with scala3.com domain?](https://www.reddit.com/r/scala/comments/onn0vk/whats_up_with_scala3com_domain/)
 - [Scala SQL Local API??](https://www.reddit.com/r/scala/comments/onmb8l/scala_sql_local_api/)
 - [Scalqa - Scala3 Quick API](https://www.reddit.com/r/scala/comments/onhzr5/scalqa_scala3_quick_api/)
@@ -259,7 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sudori part 1](https://www.reddit.com/r/scala/comments/on07dw/sudori_part_1/)
 - [This week in #Scala (Jul 19, 2021)](https://www.reddit.com/r/scala/comments/omwk0s/this_week_in_scala_jul_19_2021/)
 - [A question about case classes](https://www.reddit.com/r/scala/comments/omk0bq/a_question_about_case_classes/)
-- [Part 6 - zio.Has - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/omh6qw/part_6_ziohas_getting_started_with_zio_in_scala3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

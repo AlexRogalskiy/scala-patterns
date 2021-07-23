@@ -250,6 +250,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scalqa: Perfect Int Loop](https://www.reddit.com/r/scala/comments/opl2lh/scalqa_perfect_int_loop/)
+- [A question about sbt](https://www.reddit.com/r/scala/comments/opjpn9/a_question_about_sbt/)
+- [Monad transformers with Cats MTL](https://www.reddit.com/r/scala/comments/oph4mm/monad_transformers_with_cats_mtl/)
 - [Any signs of runtime reflection in Scala3?](https://www.reddit.com/r/scala/comments/oouaz9/any_signs_of_runtime_reflection_in_scala3/)
 - [Whats up with scala3.com domain?](https://www.reddit.com/r/scala/comments/onn0vk/whats_up_with_scala3com_domain/)
 - [Scala SQL Local API??](https://www.reddit.com/r/scala/comments/onmb8l/scala_sql_local_api/)
@@ -257,9 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [I just rebuilt Tour of Scala from scratch - let me know what you think](https://www.reddit.com/r/scala/comments/onf2ft/i_just_rebuilt_tour_of_scala_from_scratch_let_me/)
 - [Let’s talk about 3 things I wish I knew before I became a Software Engineer](https://www.reddit.com/r/scala/comments/onepal/lets_talk_about_3_things_i_wish_i_knew_before_i/)
 - [Default Order in DataFrame](https://www.reddit.com/r/scala/comments/ona8zw/default_order_in_dataframe/)
-- [sudori part 1](https://www.reddit.com/r/scala/comments/on07dw/sudori_part_1/)
-- [This week in #Scala (Jul 19, 2021)](https://www.reddit.com/r/scala/comments/omwk0s/this_week_in_scala_jul_19_2021/)
-- [A question about case classes](https://www.reddit.com/r/scala/comments/omk0bq/a_question_about_case_classes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

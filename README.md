@@ -250,6 +250,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why care about pattern matching?](https://www.reddit.com/r/scala/comments/oq5pf2/why_care_about_pattern_matching/)
+- [dotty-cps-async 0.9.0](https://www.reddit.com/r/scala/comments/oq3wuu/dottycpsasync_090/)
+- [A Scala library that allows copying a case class using a dynamic property name](https://www.reddit.com/r/scala/comments/opwysu/a_scala_library_that_allows_copying_a_case_class/)
 - [Scalqa: Perfect Int Loop](https://www.reddit.com/r/scala/comments/opl2lh/scalqa_perfect_int_loop/)
 - [A question about sbt](https://www.reddit.com/r/scala/comments/opjpn9/a_question_about_sbt/)
 - [Monad transformers with Cats MTL](https://www.reddit.com/r/scala/comments/oph4mm/monad_transformers_with_cats_mtl/)
@@ -257,9 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Whats up with scala3.com domain?](https://www.reddit.com/r/scala/comments/onn0vk/whats_up_with_scala3com_domain/)
 - [Scala SQL Local API??](https://www.reddit.com/r/scala/comments/onmb8l/scala_sql_local_api/)
 - [Scalqa - Scala3 Quick API](https://www.reddit.com/r/scala/comments/onhzr5/scalqa_scala3_quick_api/)
-- [I just rebuilt Tour of Scala from scratch - let me know what you think](https://www.reddit.com/r/scala/comments/onf2ft/i_just_rebuilt_tour_of_scala_from_scratch_let_me/)
-- [Let’s talk about 3 things I wish I knew before I became a Software Engineer](https://www.reddit.com/r/scala/comments/onepal/lets_talk_about_3_things_i_wish_i_knew_before_i/)
-- [Default Order in DataFrame](https://www.reddit.com/r/scala/comments/ona8zw/default_order_in_dataframe/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

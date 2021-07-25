@@ -250,6 +250,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Circe] Renaming fields for value classes during decoding](https://www.reddit.com/r/scala/comments/oqvuro/circe_renaming_fields_for_value_classes_during/)
+- [Thats my first time with Scala and wanted to create something interesting as first program, so created simple single colored window in LWJGL (which will turn into traingle), next in my tour is password generator, and then wayland implementetion as generated scala code from XML protocols.](https://www.reddit.com/r/scala/comments/oqn11f/thats_my_first_time_with_scala_and_wanted_to/)
 - [Why care about pattern matching?](https://www.reddit.com/r/scala/comments/oq5pf2/why_care_about_pattern_matching/)
 - [dotty-cps-async 0.9.0](https://www.reddit.com/r/scala/comments/oq3wuu/dottycpsasync_090/)
 - [A Scala library that allows copying a case class using a dynamic property name](https://www.reddit.com/r/scala/comments/opwysu/a_scala_library_that_allows_copying_a_case_class/)
@@ -258,8 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Monad transformers with Cats MTL](https://www.reddit.com/r/scala/comments/oph4mm/monad_transformers_with_cats_mtl/)
 - [Any signs of runtime reflection in Scala3?](https://www.reddit.com/r/scala/comments/oouaz9/any_signs_of_runtime_reflection_in_scala3/)
 - [Whats up with scala3.com domain?](https://www.reddit.com/r/scala/comments/onn0vk/whats_up_with_scala3com_domain/)
-- [Scala SQL Local API??](https://www.reddit.com/r/scala/comments/onmb8l/scala_sql_local_api/)
-- [Scalqa - Scala3 Quick API](https://www.reddit.com/r/scala/comments/onhzr5/scalqa_scala3_quick_api/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

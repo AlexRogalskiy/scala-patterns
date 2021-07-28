@@ -250,16 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Confused by Generic types](https://www.reddit.com/r/scala/comments/osqgpl/confused_by_generic_types/)
+- [ScalaJS 3 status?](https://www.reddit.com/r/scala/comments/osnn10/scalajs_3_status/)
+- [Help with => syntax](https://www.reddit.com/r/scala/comments/osl06u/help_with_syntax/)
+- [JavaFX to Static JS for Web](https://www.reddit.com/r/scala/comments/osickp/javafx_to_static_js_for_web/)
+- [Concepts · Cats Effect](https://www.reddit.com/r/scala/comments/osgw7c/concepts_cats_effect/)
 - [Visualisation of Scala 2 compiler outputs per compilation phase.](https://www.reddit.com/r/scala/comments/os7kz0/visualisation_of_scala_2_compiler_outputs_per/)
 - [[ANN] Functional Design and Architecture: Second Edition (Manning Publications)](https://www.reddit.com/r/scala/comments/os1l8o/ann_functional_design_and_architecture_second/)
 - [A library like Express.js?](https://www.reddit.com/r/scala/comments/orvien/a_library_like_expressjs/)
 - [Map Filter Reduce & Lambda in Python & Scala| Comparison of Lambda Syntaxes Step by Step| Beginners.](https://www.reddit.com/r/scala/comments/orr8b4/map_filter_reduce_lambda_in_python_scala/)
 - [This week in #Scala (Jul 26, 2021)](https://www.reddit.com/r/scala/comments/oromh6/this_week_in_scala_jul_26_2021/)
-- [I need some advice on string interpolation and convert the string to case class](https://www.reddit.com/r/scala/comments/oranyn/i_need_some_advice_on_string_interpolation_and/)
-- [[Download]Akka Essentials With Scala | Rock The JVM Udemy Download Free | Free Course Tech](https://www.reddit.com/r/scala/comments/or7o1k/downloadakka_essentials_with_scala_rock_the_jvm/)
-- [Part 7 - ZLayer - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/or7176/part_7_zlayer_getting_started_with_zio_in_scala3/)
-- [[Circe] Renaming fields for value classes during decoding](https://www.reddit.com/r/scala/comments/oqvuro/circe_renaming_fields_for_value_classes_during/)
-- [Thats my first time with Scala and wanted to create something interesting as first program, so created simple single colored window in LWJGL (which will turn into traingle), next in my tour is password generator, and then wayland implementetion as generated scala code from XML protocols.](https://www.reddit.com/r/scala/comments/oqn11f/thats_my_first_time_with_scala_and_wanted_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

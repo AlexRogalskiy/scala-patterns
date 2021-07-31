@@ -250,6 +250,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Understanding Comparative Benchmarks (Cats Effect 3 and ZIO 2)](https://www.reddit.com/r/scala/comments/oulgi4/understanding_comparative_benchmarks_cats_effect/)
+- [Tooling Talks Episode 3 - Justin Kaeser](https://www.reddit.com/r/scala/comments/oufc7c/tooling_talks_episode_3_justin_kaeser/)
 - [[FS2][Cats Effect 3] Async Boundaries](https://www.reddit.com/r/scala/comments/othn21/fs2cats_effect_3_async_boundaries/)
 - [IntelliJ Scala Plugin 2021.2 Is Out!](https://www.reddit.com/r/scala/comments/otgi3p/intellij_scala_plugin_20212_is_out/)
 - [Algebird ExpHist Question](https://www.reddit.com/r/scala/comments/otc7dn/algebird_exphist_question/)
@@ -258,8 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt-jni 1.5.0 has been released: Notably support for Rust/Cargo and Scala 3. Using JNI from Scala has never been easier!](https://www.reddit.com/r/scala/comments/ot6j5k/sbtjni_150_has_been_released_notably_support_for/)
 - [Confused by Generic types](https://www.reddit.com/r/scala/comments/osqgpl/confused_by_generic_types/)
 - [ScalaJS 3 status?](https://www.reddit.com/r/scala/comments/osnn10/scalajs_3_status/)
-- [Help with => syntax](https://www.reddit.com/r/scala/comments/osl06u/help_with_syntax/)
-- [JavaFX to Static JS for Web](https://www.reddit.com/r/scala/comments/osickp/javafx_to_static_js_for_web/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

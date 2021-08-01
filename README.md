@@ -250,6 +250,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do I process gigabytes size file?](https://www.reddit.com/r/scala/comments/ovcap7/how_do_i_process_gigabytes_size_file/)
+- [Anyone else found that IntelliJ is basically unusable with gRPC?](https://www.reddit.com/r/scala/comments/ov8d8j/anyone_else_found_that_intellij_is_basically/)
+- [Why Should You Care About Referential Transparency?](https://www.reddit.com/r/scala/comments/ov7b68/why_should_you_care_about_referential_transparency/)
 - [Understanding Comparative Benchmarks (Cats Effect 3 and ZIO 2)](https://www.reddit.com/r/scala/comments/oulgi4/understanding_comparative_benchmarks_cats_effect/)
 - [Tooling Talks Episode 3 - Justin Kaeser](https://www.reddit.com/r/scala/comments/oufc7c/tooling_talks_episode_3_justin_kaeser/)
 - [[FS2][Cats Effect 3] Async Boundaries](https://www.reddit.com/r/scala/comments/othn21/fs2cats_effect_3_async_boundaries/)
@@ -257,9 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Algebird ExpHist Question](https://www.reddit.com/r/scala/comments/otc7dn/algebird_exphist_question/)
 - [Need the advice to choose: FS2 vs ZIO-streams](https://www.reddit.com/r/scala/comments/ot8jvv/need_the_advice_to_choose_fs2_vs_ziostreams/)
 - ["Monad Transformers down to earth" [ScalaDays Copenhagen 2017]](https://www.reddit.com/r/scala/comments/ot6qm6/monad_transformers_down_to_earth_scaladays/)
-- [sbt-jni 1.5.0 has been released: Notably support for Rust/Cargo and Scala 3. Using JNI from Scala has never been easier!](https://www.reddit.com/r/scala/comments/ot6j5k/sbtjni_150_has_been_released_notably_support_for/)
-- [Confused by Generic types](https://www.reddit.com/r/scala/comments/osqgpl/confused_by_generic_types/)
-- [ScalaJS 3 status?](https://www.reddit.com/r/scala/comments/osnn10/scalajs_3_status/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

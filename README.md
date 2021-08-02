@@ -250,16 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sudori part 2](https://www.reddit.com/r/scala/comments/ow18g7/sudori_part_2/)
+- [This week in #Scala (Aug 2nd, 2021)](https://www.reddit.com/r/scala/comments/ow0o19/this_week_in_scala_aug_2nd_2021/)
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/ovuqb7/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [Cross-compile Scala 3 library in Scala 2](https://www.reddit.com/r/scala/comments/ovpfok/crosscompile_scala_3_library_in_scala_2/)
+- [GitHub Copilot for Scala - Does it work?](https://www.reddit.com/r/scala/comments/ovoc8n/github_copilot_for_scala_does_it_work/)
 - [How do I process gigabytes size file?](https://www.reddit.com/r/scala/comments/ovcap7/how_do_i_process_gigabytes_size_file/)
 - [Anyone else found that IntelliJ is basically unusable with gRPC?](https://www.reddit.com/r/scala/comments/ov8d8j/anyone_else_found_that_intellij_is_basically/)
 - [Why Should You Care About Referential Transparency?](https://www.reddit.com/r/scala/comments/ov7b68/why_should_you_care_about_referential_transparency/)
 - [Understanding Comparative Benchmarks (Cats Effect 3 and ZIO 2)](https://www.reddit.com/r/scala/comments/oulgi4/understanding_comparative_benchmarks_cats_effect/)
 - [Tooling Talks Episode 3 - Justin Kaeser](https://www.reddit.com/r/scala/comments/oufc7c/tooling_talks_episode_3_justin_kaeser/)
-- [[FS2][Cats Effect 3] Async Boundaries](https://www.reddit.com/r/scala/comments/othn21/fs2cats_effect_3_async_boundaries/)
-- [IntelliJ Scala Plugin 2021.2 Is Out!](https://www.reddit.com/r/scala/comments/otgi3p/intellij_scala_plugin_20212_is_out/)
-- [Algebird ExpHist Question](https://www.reddit.com/r/scala/comments/otc7dn/algebird_exphist_question/)
-- [Need the advice to choose: FS2 vs ZIO-streams](https://www.reddit.com/r/scala/comments/ot8jvv/need_the_advice_to_choose_fs2_vs_ziostreams/)
-- ["Monad Transformers down to earth" [ScalaDays Copenhagen 2017]](https://www.reddit.com/r/scala/comments/ot6qm6/monad_transformers_down_to_earth_scaladays/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -250,16 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Elegant way to synchronize streams in Akka Streams?](https://www.reddit.com/r/scala/comments/owthhm/elegant_way_to_synchronize_streams_in_akka_streams/)
+- [Scala newbie hoping to understand sttp with tapir testing.](https://www.reddit.com/r/scala/comments/owt477/scala_newbie_hoping_to_understand_sttp_with_tapir/)
+- [How to convert this from SQL to Scala?](https://www.reddit.com/r/scala/comments/owpbmm/how_to_convert_this_from_sql_to_scala/)
+- [Unsafe Lazy Resource (snippet + homework)](https://www.reddit.com/r/scala/comments/owdfi8/unsafe_lazy_resource_snippet_homework/)
 - [sudori part 2](https://www.reddit.com/r/scala/comments/ow18g7/sudori_part_2/)
 - [This week in #Scala (Aug 2nd, 2021)](https://www.reddit.com/r/scala/comments/ow0o19/this_week_in_scala_aug_2nd_2021/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/ovuqb7/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Cross-compile Scala 3 library in Scala 2](https://www.reddit.com/r/scala/comments/ovpfok/crosscompile_scala_3_library_in_scala_2/)
 - [GitHub Copilot for Scala - Does it work?](https://www.reddit.com/r/scala/comments/ovoc8n/github_copilot_for_scala_does_it_work/)
 - [How do I process gigabytes size file?](https://www.reddit.com/r/scala/comments/ovcap7/how_do_i_process_gigabytes_size_file/)
-- [Anyone else found that IntelliJ is basically unusable with gRPC?](https://www.reddit.com/r/scala/comments/ov8d8j/anyone_else_found_that_intellij_is_basically/)
-- [Why Should You Care About Referential Transparency?](https://www.reddit.com/r/scala/comments/ov7b68/why_should_you_care_about_referential_transparency/)
-- [Understanding Comparative Benchmarks (Cats Effect 3 and ZIO 2)](https://www.reddit.com/r/scala/comments/oulgi4/understanding_comparative_benchmarks_cats_effect/)
-- [Tooling Talks Episode 3 - Justin Kaeser](https://www.reddit.com/r/scala/comments/oufc7c/tooling_talks_episode_3_justin_kaeser/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

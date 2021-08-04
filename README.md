@@ -239,6 +239,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 
 [![Stargazers repo roster for @AlexRogalskiy/scala-patterns](https://reporoster.com/stars/AlexRogalskiy/scala-patterns)][stars]
 
+[![Stargazers over time](https://starchart.cc/AlexRogalskiy/scala-patterns.svg)][stars_chart]
+
 ## 📎 *OpenGraph Card*
 
 <p align="center" style="text-align:center;">
@@ -368,6 +370,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 [wiki]: https://github.com/AlexRogalskiy/scala-patterns/wiki
 
 [stars]: https://github.com/AlexRogalskiy/scala-patterns/stargazers
+
+[stars_chart]: https://starchart.cc/AlexRogalskiy/scala-patterns
 
 [contributors]: https://github.com/AlexRogalskiy/scala-patterns/graphs/contributors
 

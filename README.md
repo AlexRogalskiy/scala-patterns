@@ -253,16 +253,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 
 <!-- REDDIT-POST-LIST:START -->
 
-- [Sharing our reusable skeleton to build web apps in Scala/Scala.js](https://www.reddit.com/r/scala/comments/odrm5q/sharing_our_reusable_skeleton_to_build_web_apps/)
-- [NEW VSCode extension "Blockman" to highlight nested code blocks](https://www.reddit.com/r/scala/comments/odri39/new_vscode_extension_blockman_to_highlight_nested/)
-- [Help me to solve the `leetcode` problem with `Scala`!](https://www.reddit.com/r/scala/comments/odh9bb/help_me_to_solve_the_leetcode_problem_with_scala/)
-- [The Most Popular Programming Languages - 1965/2021 - New Update](https://www.reddit.com/r/scala/comments/odgpb9/the_most_popular_programming_languages\_19652021/)
-- [Part 4 - ZIO\[Env, \_, \_\] - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/odfbhn/part\_4\_zioenv_getting_started_with_zio_in_scala3/)
-- [Experienced dev new to Scala looking for a quick answer to get me on the right track - Advice on *standard* Scala framework stack to quickly set up a web-app backend?](https://www.reddit.com/r/scala/comments/od2omz/experienced_dev_new_to_scala_looking_for_a_quick/)
-- [Data Engineer Roadmap 2021-All Tools and Frameworks Explained -Beginners and Experienced](https://www.reddit.com/r/scala/comments/oc65cu/data_engineer_roadmap\_2021all_tools_and/)
-- [Python VS Scala](https://www.reddit.com/r/scala/comments/oc3xyj/python_vs_scala/)
-- [Variables not shown when debug Scala in VS Code](https://www.reddit.com/r/scala/comments/oc1pv0/variables_not_shown_when_debug_scala_in_vs_code/)
-- [Question on implementing open tracing with Scala Futures](https://www.reddit.com/r/scala/comments/obxgjt/question_on_implementing_open_tracing_with_scala/)
+- [Looking for live pair programming partner for Scala / ZIO](https://www.reddit.com/r/scala/comments/oxfhkl/looking_for_live_pair_programming_partner_for/)
+- [Protobuf as a certification question](https://www.reddit.com/r/scala/comments/ox78f8/protobuf_as_a_certification_question/)
+- [Scala Developers](https://www.reddit.com/r/scala/comments/ox66ng/scala_developers/)
+- [Scala Engineer Position Open (Fully Remote)](https://www.reddit.com/r/scala/comments/ox55w1/scala_engineer_position_open_fully_remote/)
+- [Elegant way to synchronize streams in Akka Streams?](https://www.reddit.com/r/scala/comments/owthhm/elegant_way_to_synchronize_streams_in_akka_streams/)
+- [Scala newbie hoping to understand sttp with tapir testing.](https://www.reddit.com/r/scala/comments/owt477/scala_newbie_hoping_to_understand_sttp_with_tapir/)
+- [How to convert this from SQL to Scala?](https://www.reddit.com/r/scala/comments/owpbmm/how_to_convert_this_from_sql_to_scala/)
+- [Unsafe Lazy Resource (snippet + homework)](https://www.reddit.com/r/scala/comments/owdfi8/unsafe_lazy_resource_snippet_homework/)
+- [sudori part 2](https://www.reddit.com/r/scala/comments/ow18g7/sudori_part\_2/)
+- [This week in #Scala (Aug 2nd, 2021)](https://www.reddit.com/r/scala/comments/ow0o19/this_week_in_scala_aug\_2nd\_2021/)
 
 <!-- REDDIT-POST-LIST:END -->
 

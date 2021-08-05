@@ -250,18 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-
+- [A Practical Guide to Writing a Software Technical Design Document](https://www.reddit.com/r/scala/comments/oy69h5/a_practical_guide_to_writing_a_software_technical/)
+- [Cats Effect 3 course from Rock the JVM](https://www.reddit.com/r/scala/comments/oy24cp/cats_effect_3_course_from_rock_the_jvm/)
+- [Nested XML into multiple dataframes.](https://www.reddit.com/r/scala/comments/oxy5gq/nested_xml_into_multiple_dataframes/)
+- [Scala.js 1.7.0 is released, and it has *zero* known bugs](https://www.reddit.com/r/scala/comments/oxohre/scalajs_170_is_released_and_it_has_zero_known_bugs/)
+- [SBT Type Check without compiling?](https://www.reddit.com/r/scala/comments/oxlf8t/sbt_type_check_without_compiling/)
 - [Looking for live pair programming partner for Scala / ZIO](https://www.reddit.com/r/scala/comments/oxfhkl/looking_for_live_pair_programming_partner_for/)
 - [Protobuf as a certification question](https://www.reddit.com/r/scala/comments/ox78f8/protobuf_as_a_certification_question/)
-- [Scala Developers](https://www.reddit.com/r/scala/comments/ox66ng/scala_developers/)
-- [Scala Engineer Position Open (Fully Remote)](https://www.reddit.com/r/scala/comments/ox55w1/scala_engineer_position_open_fully_remote/)
 - [Elegant way to synchronize streams in Akka Streams?](https://www.reddit.com/r/scala/comments/owthhm/elegant_way_to_synchronize_streams_in_akka_streams/)
 - [Scala newbie hoping to understand sttp with tapir testing.](https://www.reddit.com/r/scala/comments/owt477/scala_newbie_hoping_to_understand_sttp_with_tapir/)
 - [How to convert this from SQL to Scala?](https://www.reddit.com/r/scala/comments/owpbmm/how_to_convert_this_from_sql_to_scala/)
-- [Unsafe Lazy Resource (snippet + homework)](https://www.reddit.com/r/scala/comments/owdfi8/unsafe_lazy_resource_snippet_homework/)
-- [sudori part 2](https://www.reddit.com/r/scala/comments/ow18g7/sudori_part\_2/)
-- [This week in #Scala (Aug 2nd, 2021)](https://www.reddit.com/r/scala/comments/ow0o19/this_week_in_scala_aug\_2nd\_2021/)
-
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

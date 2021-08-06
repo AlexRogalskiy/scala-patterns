@@ -250,7 +250,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [A Practical Guide to Writing a Software Technical Design Document](https://www.reddit.com/r/scala/comments/oy69h5/a_practical_guide_to_writing_a_software_technical/)
+- [Junior Big Data DevOps - how much Scala should I learn?](https://www.reddit.com/r/scala/comments/oyt7b3/junior_big_data_devops_how_much_scala_should_i/)
+- [Kinesis Mock 0.1.8 - Cats Effect 3](https://www.reddit.com/r/scala/comments/oyan48/kinesis_mock_018_cats_effect_3/)
+- [Should you import Scala 3 projects in Intellij IDEA as "SBT" or "BSP" Projects when using SBT?](https://www.reddit.com/r/scala/comments/oy9p4v/should_you_import_scala_3_projects_in_intellij/)
 - [Cats Effect 3 course from Rock the JVM](https://www.reddit.com/r/scala/comments/oy24cp/cats_effect_3_course_from_rock_the_jvm/)
 - [Nested XML into multiple dataframes.](https://www.reddit.com/r/scala/comments/oxy5gq/nested_xml_into_multiple_dataframes/)
 - [Scala.js 1.7.0 is released, and it has *zero* known bugs](https://www.reddit.com/r/scala/comments/oxohre/scalajs_170_is_released_and_it_has_zero_known_bugs/)
@@ -258,8 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Looking for live pair programming partner for Scala / ZIO](https://www.reddit.com/r/scala/comments/oxfhkl/looking_for_live_pair_programming_partner_for/)
 - [Protobuf as a certification question](https://www.reddit.com/r/scala/comments/ox78f8/protobuf_as_a_certification_question/)
 - [Elegant way to synchronize streams in Akka Streams?](https://www.reddit.com/r/scala/comments/owthhm/elegant_way_to_synchronize_streams_in_akka_streams/)
-- [Scala newbie hoping to understand sttp with tapir testing.](https://www.reddit.com/r/scala/comments/owt477/scala_newbie_hoping_to_understand_sttp_with_tapir/)
-- [How to convert this from SQL to Scala?](https://www.reddit.com/r/scala/comments/owpbmm/how_to_convert_this_from_sql_to_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

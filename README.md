@@ -250,6 +250,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Part 8 - ZLayer DSL - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/p03dut/part_8_zlayer_dsl_getting_started_with_zio_in/)
+- [Tooling Talks Podcast](https://www.reddit.com/r/scala/comments/ozrn1m/tooling_talks_podcast/)
+- [Scala projects to read through](https://www.reddit.com/r/scala/comments/oznkrj/scala_projects_to_read_through/)
 - [sbt-contraband vs izumi IdeaLingua](https://www.reddit.com/r/scala/comments/ozj699/sbtcontraband_vs_izumi_idealingua/)
 - [RedMonk places Scala at #14, between Shell and Go](https://www.reddit.com/r/scala/comments/oze62h/redmonk_places_scala_at_14_between_shell_and_go/)
 - [Any HTTPS web proxy library in Scala?](https://www.reddit.com/r/scala/comments/oz63rk/any_https_web_proxy_library_in_scala/)
@@ -257,9 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Junior Big Data DevOps - how much Scala should I learn?](https://www.reddit.com/r/scala/comments/oyt7b3/junior_big_data_devops_how_much_scala_should_i/)
 - [Kinesis Mock 0.1.8 - Cats Effect 3](https://www.reddit.com/r/scala/comments/oyan48/kinesis_mock_018_cats_effect_3/)
 - [Should you import Scala 3 projects in Intellij IDEA as "SBT" or "BSP" Projects when using SBT?](https://www.reddit.com/r/scala/comments/oy9p4v/should_you_import_scala_3_projects_in_intellij/)
-- [Cats Effect 3 course from Rock the JVM](https://www.reddit.com/r/scala/comments/oy24cp/cats_effect_3_course_from_rock_the_jvm/)
-- [Nested XML into multiple dataframes.](https://www.reddit.com/r/scala/comments/oxy5gq/nested_xml_into_multiple_dataframes/)
-- [Scala.js 1.7.0 is released, and it has *zero* known bugs](https://www.reddit.com/r/scala/comments/oxohre/scalajs_170_is_released_and_it_has_zero_known_bugs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

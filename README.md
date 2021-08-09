@@ -250,6 +250,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala (Aug 9nd, 2021)](https://www.reddit.com/r/scala/comments/p0ojfy/this_week_in_scala_aug_9nd_2021/)
+- [Starting a new job in which I will be solely responsible for a legacy Scala project... and nothing is resolving? Bintray related.](https://www.reddit.com/r/scala/comments/p0l8vb/starting_a_new_job_in_which_i_will_be_solely/)
 - [Part 8 - ZLayer DSL - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/p03dut/part_8_zlayer_dsl_getting_started_with_zio_in/)
 - [Tooling Talks Podcast](https://www.reddit.com/r/scala/comments/ozrn1m/tooling_talks_podcast/)
 - [Scala projects to read through](https://www.reddit.com/r/scala/comments/oznkrj/scala_projects_to_read_through/)
@@ -258,8 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Any HTTPS web proxy library in Scala?](https://www.reddit.com/r/scala/comments/oz63rk/any_https_web_proxy_library_in_scala/)
 - [Functional Workplaces: Truecaller - The World's Best Caller ID & Spam Blocking App](https://www.reddit.com/r/scala/comments/oz43wu/functional_workplaces_truecaller_the_worlds_best/)
 - [Junior Big Data DevOps - how much Scala should I learn?](https://www.reddit.com/r/scala/comments/oyt7b3/junior_big_data_devops_how_much_scala_should_i/)
-- [Kinesis Mock 0.1.8 - Cats Effect 3](https://www.reddit.com/r/scala/comments/oyan48/kinesis_mock_018_cats_effect_3/)
-- [Should you import Scala 3 projects in Intellij IDEA as "SBT" or "BSP" Projects when using SBT?](https://www.reddit.com/r/scala/comments/oy9p4v/should_you_import_scala_3_projects_in_intellij/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

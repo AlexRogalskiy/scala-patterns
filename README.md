@@ -250,6 +250,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala equivalent of the adjective "pythonic"?](https://www.reddit.com/r/scala/comments/p1fk6u/scala_equivalent_of_the_adjective_pythonic/)
+- [Question about becoming a Scala developer](https://www.reddit.com/r/scala/comments/p1f472/question_about_becoming_a_scala_developer/)
+- [FS2 Kafka Offset management](https://www.reddit.com/r/scala/comments/p17820/fs2_kafka_offset_management/)
 - [This week in #Scala (Aug 9nd, 2021)](https://www.reddit.com/r/scala/comments/p0ojfy/this_week_in_scala_aug_9nd_2021/)
 - [Starting a new job in which I will be solely responsible for a legacy Scala project... and nothing is resolving? Bintray related.](https://www.reddit.com/r/scala/comments/p0l8vb/starting_a_new_job_in_which_i_will_be_solely/)
 - [Part 8 - ZLayer DSL - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/p03dut/part_8_zlayer_dsl_getting_started_with_zio_in/)
@@ -257,9 +260,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala projects to read through](https://www.reddit.com/r/scala/comments/oznkrj/scala_projects_to_read_through/)
 - [sbt-contraband vs izumi IdeaLingua](https://www.reddit.com/r/scala/comments/ozj699/sbtcontraband_vs_izumi_idealingua/)
 - [RedMonk places Scala at #14, between Shell and Go](https://www.reddit.com/r/scala/comments/oze62h/redmonk_places_scala_at_14_between_shell_and_go/)
-- [Any HTTPS web proxy library in Scala?](https://www.reddit.com/r/scala/comments/oz63rk/any_https_web_proxy_library_in_scala/)
-- [Functional Workplaces: Truecaller - The World's Best Caller ID & Spam Blocking App](https://www.reddit.com/r/scala/comments/oz43wu/functional_workplaces_truecaller_the_worlds_best/)
-- [Junior Big Data DevOps - how much Scala should I learn?](https://www.reddit.com/r/scala/comments/oyt7b3/junior_big_data_devops_how_much_scala_should_i/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

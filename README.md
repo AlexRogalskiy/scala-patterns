@@ -250,16 +250,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scalqa: Perfect Time Library](https://www.reddit.com/r/scala/comments/p1xps0/scalqa_perfect_time_library/)
+- [Release John Snow Labs Spark-NLP 3.2.0: New Longformer embeddings, BERT and DistilBERT for Token Classification, GraphExctraction, Spark NLP Configurations, new state-of-the-art multilingual NER models, and lots more! · JohnSnowLabs/spark-nlp](https://www.reddit.com/r/scala/comments/p1uv5a/release_john_snow_labs_sparknlp_320_new/)
+- [Need some help understanding service-to-service communication with Scala and Akka](https://www.reddit.com/r/scala/comments/p1qo95/need_some_help_understanding_servicetoservice/)
+- [Friction-less scala - Tell us what is causing friction in your day-to-day life with Scala](https://www.reddit.com/r/scala/comments/p1m9hu/frictionless_scala_tell_us_what_is_causing/)
+- [Scala-js-dom to become more active, 2.x coming soon!](https://www.reddit.com/r/scala/comments/p1fu6f/scalajsdom_to_become_more_active_2x_coming_soon/)
 - [Scala equivalent of the adjective "pythonic"?](https://www.reddit.com/r/scala/comments/p1fk6u/scala_equivalent_of_the_adjective_pythonic/)
 - [Question about becoming a Scala developer](https://www.reddit.com/r/scala/comments/p1f472/question_about_becoming_a_scala_developer/)
 - [FS2 Kafka Offset management](https://www.reddit.com/r/scala/comments/p17820/fs2_kafka_offset_management/)
 - [This week in #Scala (Aug 9nd, 2021)](https://www.reddit.com/r/scala/comments/p0ojfy/this_week_in_scala_aug_9nd_2021/)
 - [Starting a new job in which I will be solely responsible for a legacy Scala project... and nothing is resolving? Bintray related.](https://www.reddit.com/r/scala/comments/p0l8vb/starting_a_new_job_in_which_i_will_be_solely/)
-- [Part 8 - ZLayer DSL - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/p03dut/part_8_zlayer_dsl_getting_started_with_zio_in/)
-- [Tooling Talks Podcast](https://www.reddit.com/r/scala/comments/ozrn1m/tooling_talks_podcast/)
-- [Scala projects to read through](https://www.reddit.com/r/scala/comments/oznkrj/scala_projects_to_read_through/)
-- [sbt-contraband vs izumi IdeaLingua](https://www.reddit.com/r/scala/comments/ozj699/sbtcontraband_vs_izumi_idealingua/)
-- [RedMonk places Scala at #14, between Shell and Go](https://www.reddit.com/r/scala/comments/oze62h/redmonk_places_scala_at_14_between_shell_and_go/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

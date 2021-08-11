@@ -43,27 +43,29 @@
 ## 🎹 *Table of contents*
 
 <!--ts-->
-   * [Scala Design Patterns](#scala-design-patterns)
-      * [<em>Table of contents</em>](#-table-of-contents)
-      * [<em>Summary</em>](#-summary)
-      * [<em>Documentation</em>](#-documentation)
-      * [<em>Statistics</em>](#-statistics)
-      * [<em>Versioning</em>](#-versioning)
-      * [<em>Authors</em>](#-authors)
-      * [<em>Contributing</em>](#-contributing)
-      * [<em>Visitor stats</em>](#-visitor-stats)
-      * [<em>Licensing</em>](#-licensing)
-      * [<em>Development Support</em>](#-development-support)
-      * [<em>Acknowledgement</em>](#-acknowledgement)
-      * [<em>OpenGraph Card</em>](#-opengraph-card)
-      * [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
-         * [<em>Reddit posts</em>](#reddit-posts)
-         * [<em>InfoWorld posts</em>](#infoworld-posts)
-         * [<em>RedHat posts</em>](#redhat-posts)
-         * [<em>Akka posts</em>](#akka-posts)
-         * [<em>Li Haoyi posts</em>](#li-haoyi-posts)
-         * [<em>Scala Lang posts</em>](#scala-lang-posts)
-         * [<em>Scalac posts</em>](#scalac-posts)
+
+- [Scala Design Patterns](#scala-design-patterns)
+  - [<em>Table of contents</em>](#-table-of-contents)
+  - [<em>Summary</em>](#-summary)
+  - [<em>Documentation</em>](#-documentation)
+  - [<em>Statistics</em>](#-statistics)
+  - [<em>Versioning</em>](#-versioning)
+  - [<em>Authors</em>](#-authors)
+  - [<em>Contributing</em>](#-contributing)
+  - [<em>Visitor stats</em>](#-visitor-stats)
+  - [<em>Licensing</em>](#-licensing)
+  - [<em>Development Support</em>](#-development-support)
+  - [<em>Acknowledgement</em>](#-acknowledgement)
+  - [<em>OpenGraph Card</em>](#-opengraph-card)
+  - [<em>Feeds and Podcasts</em>](#-feeds-and-podcasts)
+    - [<em>Reddit posts</em>](#reddit-posts)
+    - [<em>InfoWorld posts</em>](#infoworld-posts)
+    - [<em>RedHat posts</em>](#redhat-posts)
+    - [<em>Akka posts</em>](#akka-posts)
+    - [<em>Li Haoyi posts</em>](#li-haoyi-posts)
+    - [<em>Scala Lang posts</em>](#scala-lang-posts)
+    - [<em>Scalac posts</em>](#scalac-posts)
+
 <!--te-->
 
 ## ☝ *Summary*
@@ -160,6 +162,9 @@ python -m mkdocs
 ```shell script
 python -m pip install mkdocs-material
 python -m pip install markdown-include
+...
+(see requirements.txt)
+...
 ```
 
 4\) Start the server at ***localhost*** by running the following command:
@@ -175,6 +180,20 @@ python -m mkdocs --verbose gh-deploy --force --remote-branch gh-pages
 ```
 
 5\) Open up [localhost](http://127.0.0.1:8000/) in browser to get the default documentation homepage.
+
+## 🧶 *Kubernetes*
+
+Running k8s cluster with tilt command by acquiring k8s deployment configuration:
+
+```shell
+tilt up
+```
+
+Shutting down k8s cluster with provisioned resources removal:
+
+```shell
+tilt down --delete-namespaces
+```
 
 ## ⏰ *Statistics*
 
@@ -250,23 +269,27 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+
 - [Scalqa: Perfect Time Library](https://www.reddit.com/r/scala/comments/p1xps0/scalqa_perfect_time_library/)
-- [Release John Snow Labs Spark-NLP 3.2.0: New Longformer embeddings, BERT and DistilBERT for Token Classification, GraphExctraction, Spark NLP Configurations, new state-of-the-art multilingual NER models, and lots more! · JohnSnowLabs/spark-nlp](https://www.reddit.com/r/scala/comments/p1uv5a/release_john_snow_labs_sparknlp_320_new/)
+- [Release John Snow Labs Spark-NLP 3.2.0: New Longformer embeddings, BERT and DistilBERT for Token Classification, GraphExctraction, Spark NLP Configurations, new state-of-the-art multilingual NER models, and lots more! · JohnSnowLabs/spark-nlp](https://www.reddit.com/r/scala/comments/p1uv5a/release_john_snow_labs_sparknlp\_320\_new/)
 - [Need some help understanding service-to-service communication with Scala and Akka](https://www.reddit.com/r/scala/comments/p1qo95/need_some_help_understanding_servicetoservice/)
 - [Friction-less scala - Tell us what is causing friction in your day-to-day life with Scala](https://www.reddit.com/r/scala/comments/p1m9hu/frictionless_scala_tell_us_what_is_causing/)
-- [Scala-js-dom to become more active, 2.x coming soon!](https://www.reddit.com/r/scala/comments/p1fu6f/scalajsdom_to_become_more_active_2x_coming_soon/)
+- [Scala-js-dom to become more active, 2.x coming soon!](https://www.reddit.com/r/scala/comments/p1fu6f/scalajsdom_to_become_more_active\_2x_coming_soon/)
 - [Scala equivalent of the adjective "pythonic"?](https://www.reddit.com/r/scala/comments/p1fk6u/scala_equivalent_of_the_adjective_pythonic/)
 - [Question about becoming a Scala developer](https://www.reddit.com/r/scala/comments/p1f472/question_about_becoming_a_scala_developer/)
-- [FS2 Kafka Offset management](https://www.reddit.com/r/scala/comments/p17820/fs2_kafka_offset_management/)
-- [This week in #Scala (Aug 9nd, 2021)](https://www.reddit.com/r/scala/comments/p0ojfy/this_week_in_scala_aug_9nd_2021/)
+- [FS2 Kafka Offset management](https://www.reddit.com/r/scala/comments/p17820/fs2\_kafka_offset_management/)
+- [This week in #Scala (Aug 9nd, 2021)](https://www.reddit.com/r/scala/comments/p0ojfy/this_week_in_scala_aug\_9nd\_2021/)
 - [Starting a new job in which I will be solely responsible for a legacy Scala project... and nothing is resolving? Bintray related.](https://www.reddit.com/r/scala/comments/p0l8vb/starting_a_new_job_in_which_i_will_be_solely/)
+
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
+
 - [Scala 3 ushers in ‘complete overhaul’ of the language](https://www.infoworld.com/article/3608574/scala-3-moves-to-release-candidate-stage.html#tk.rss_scala)
 - [Scala.js 1.0.0 improves JavaScript interoperability](https://www.infoworld.com/article/3530316/scalajs-100-improves-javascript-interoperability.html#tk.rss_scala)
+
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *RedHat posts*

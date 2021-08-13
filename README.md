@@ -284,10 +284,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *InfoWorld posts*
 
 <!-- INFOWORLD-POST-LIST:START -->
-
 - [Scala 3 ushers in ‘complete overhaul’ of the language](https://www.infoworld.com/article/3608574/scala-3-moves-to-release-candidate-stage.html#tk.rss_scala)
 - [Scala.js 1.0.0 improves JavaScript interoperability](https://www.infoworld.com/article/3530316/scalajs-100-improves-javascript-interoperability.html#tk.rss_scala)
-
 <!-- INFOWORLD-POST-LIST:END -->
 
 ### *RedHat posts*

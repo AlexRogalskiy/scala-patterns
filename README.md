@@ -269,6 +269,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Another Akka Streams Getting Started guide](https://www.reddit.com/r/scala/comments/p3o3xk/another_akka_streams_getting_started_guide/)
+- [This Friday Zymposium is up!](https://www.reddit.com/r/scala/comments/p3n9aj/this_friday_zymposium_is_up/)
+- [java or kotlin or scala?](https://www.reddit.com/r/scala/comments/p3jzj4/java_or_kotlin_or_scala/)
 - [What is the outlook of scala for future development?](https://www.reddit.com/r/scala/comments/p3dl5p/what_is_the_outlook_of_scala_for_future/)
 - [Scalqa: Boost data processing speed with heavy ops](https://www.reddit.com/r/scala/comments/p31018/scalqa_boost_data_processing_speed_with_heavy_ops/)
 - [Zymposium — Smart Assertions](https://www.reddit.com/r/scala/comments/p2kgu2/zymposium_smart_assertions/)
@@ -276,9 +279,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Release John Snow Labs Spark-NLP 3.2.0: New Longformer embeddings, BERT and DistilBERT for Token Classification, GraphExctraction, Spark NLP Configurations, new state-of-the-art multilingual NER models, and lots more! · JohnSnowLabs/spark-nlp](https://www.reddit.com/r/scala/comments/p1uv5a/release_john_snow_labs_sparknlp_320_new/)
 - [Need some help understanding service-to-service communication with Scala and Akka](https://www.reddit.com/r/scala/comments/p1qo95/need_some_help_understanding_servicetoservice/)
 - [Friction-less scala - Tell us what is causing friction in your day-to-day life with Scala](https://www.reddit.com/r/scala/comments/p1m9hu/frictionless_scala_tell_us_what_is_causing/)
-- [Scala-js-dom to become more active, 2.x coming soon!](https://www.reddit.com/r/scala/comments/p1fu6f/scalajsdom_to_become_more_active_2x_coming_soon/)
-- [Scala equivalent of the adjective "pythonic"?](https://www.reddit.com/r/scala/comments/p1fk6u/scala_equivalent_of_the_adjective_pythonic/)
-- [Question about becoming a Scala developer](https://www.reddit.com/r/scala/comments/p1f472/question_about_becoming_a_scala_developer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

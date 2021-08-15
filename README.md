@@ -269,6 +269,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Part 9 - Effect Tracking - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/p4j2pn/part_9_effect_tracking_getting_started_with_zio/)
 - [Another Akka Streams Getting Started guide](https://www.reddit.com/r/scala/comments/p3o3xk/another_akka_streams_getting_started_guide/)
 - [This Friday Zymposium is up!](https://www.reddit.com/r/scala/comments/p3n9aj/this_friday_zymposium_is_up/)
 - [java or kotlin or scala?](https://www.reddit.com/r/scala/comments/p3jzj4/java_or_kotlin_or_scala/)
@@ -278,7 +279,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scalqa: Perfect Time Library](https://www.reddit.com/r/scala/comments/p1xps0/scalqa_perfect_time_library/)
 - [Release John Snow Labs Spark-NLP 3.2.0: New Longformer embeddings, BERT and DistilBERT for Token Classification, GraphExctraction, Spark NLP Configurations, new state-of-the-art multilingual NER models, and lots more! · JohnSnowLabs/spark-nlp](https://www.reddit.com/r/scala/comments/p1uv5a/release_john_snow_labs_sparknlp_320_new/)
 - [Need some help understanding service-to-service communication with Scala and Akka](https://www.reddit.com/r/scala/comments/p1qo95/need_some_help_understanding_servicetoservice/)
-- [Friction-less scala - Tell us what is causing friction in your day-to-day life with Scala](https://www.reddit.com/r/scala/comments/p1m9hu/frictionless_scala_tell_us_what_is_causing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

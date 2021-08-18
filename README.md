@@ -269,16 +269,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Post-Mortem: "RoguelikeDev Does The Complete Roguelike Tutorial" in Scala (via Indigo)](https://www.reddit.com/r/scala/comments/p6cpgp/postmortem_roguelikedev_does_the_complete/)
+- [Zymposium: Building A Full Stack Application With ZIO](https://www.reddit.com/r/scala/comments/p67nsv/zymposium_building_a_full_stack_application_with/)
+- [Migrating from IntelliJ IDEA to VSCode and Metals – Staying Productive at Writing Scala](https://www.reddit.com/r/scala/comments/p64kwk/migrating_from_intellij_idea_to_vscode_and_metals/)
+- [Journey to the Centre of the JVM — Daniel Spiewak](https://www.reddit.com/r/scala/comments/p5z0yc/journey_to_the_centre_of_the_jvm_daniel_spiewak/)
 - [sbt test error](https://www.reddit.com/r/scala/comments/p5s6e2/sbt_test_error/)
 - [ZIO Hackathon 2021 🙌 (free community event)](https://www.reddit.com/r/scala/comments/p5cmyx/zio_hackathon_2021_free_community_event/)
 - [Generic Type Class Derivation in Scala 3](https://www.reddit.com/r/scala/comments/p54etm/generic_type_class_derivation_in_scala_3/)
 - [This week in #Scala (Aug 16th, 2021)](https://www.reddit.com/r/scala/comments/p507xl/this_week_in_scala_aug_16th_2021/)
 - [I know the basics, what’s next?](https://www.reddit.com/r/scala/comments/p4wxg2/i_know_the_basics_whats_next/)
 - [Native Image Compilation for A Purely Functional Example Application](https://www.reddit.com/r/scala/comments/p4rfwo/native_image_compilation_for_a_purely_functional/)
-- [Looking for first professional stint as Scala Developer.](https://www.reddit.com/r/scala/comments/p4mojf/looking_for_first_professional_stint_as_scala/)
-- [Part 9 - Effect Tracking - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/p4j2pn/part_9_effect_tracking_getting_started_with_zio/)
-- [Another Akka Streams Getting Started guide](https://www.reddit.com/r/scala/comments/p3o3xk/another_akka_streams_getting_started_guide/)
-- [This Friday Zymposium is up!](https://www.reddit.com/r/scala/comments/p3n9aj/this_friday_zymposium_is_up/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -269,6 +269,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [In which version did Scala add @static to the language?](https://www.reddit.com/r/scala/comments/p71tq9/in_which_version_did_scala_add_static_to_the/)
+- [Zymposium - ZIO Flow](https://www.reddit.com/r/scala/comments/p6ng54/zymposium_zio_flow/)
+- [Help] Databricks: Unable to copy multiple files from file:/tmp to dbfs:/tmp](https://www.reddit.com/r/scala/comments/p6lhcx/help_databricks_unable_to_copy_multiple_files/)
 - [Post-Mortem: "RoguelikeDev Does The Complete Roguelike Tutorial" in Scala (via Indigo)](https://www.reddit.com/r/scala/comments/p6cpgp/postmortem_roguelikedev_does_the_complete/)
 - [Zymposium: Building A Full Stack Application With ZIO](https://www.reddit.com/r/scala/comments/p67nsv/zymposium_building_a_full_stack_application_with/)
 - [Migrating from IntelliJ IDEA to VSCode and Metals – Staying Productive at Writing Scala](https://www.reddit.com/r/scala/comments/p64kwk/migrating_from_intellij_idea_to_vscode_and_metals/)
@@ -276,9 +279,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt test error](https://www.reddit.com/r/scala/comments/p5s6e2/sbt_test_error/)
 - [ZIO Hackathon 2021 🙌 (free community event)](https://www.reddit.com/r/scala/comments/p5cmyx/zio_hackathon_2021_free_community_event/)
 - [Generic Type Class Derivation in Scala 3](https://www.reddit.com/r/scala/comments/p54etm/generic_type_class_derivation_in_scala_3/)
-- [This week in #Scala (Aug 16th, 2021)](https://www.reddit.com/r/scala/comments/p507xl/this_week_in_scala_aug_16th_2021/)
-- [I know the basics, what’s next?](https://www.reddit.com/r/scala/comments/p4wxg2/i_know_the_basics_whats_next/)
-- [Native Image Compilation for A Purely Functional Example Application](https://www.reddit.com/r/scala/comments/p4rfwo/native_image_compilation_for_a_purely_functional/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

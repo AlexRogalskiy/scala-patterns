@@ -269,6 +269,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Urgently need help with coursework, willing to pay for a solution.](https://www.reddit.com/r/scala/comments/p7sbwh/urgently_need_help_with_coursework_willing_to_pay/)
+- [What should I avoid coming from Java to Scala?](https://www.reddit.com/r/scala/comments/p7rhgt/what_should_i_avoid_coming_from_java_to_scala/)
+- [Need help with running JUnit with Scala in Eclipse](https://www.reddit.com/r/scala/comments/p7gy7a/need_help_with_running_junit_with_scala_in_eclipse/)
 - [In which version did Scala add @static to the language?](https://www.reddit.com/r/scala/comments/p71tq9/in_which_version_did_scala_add_static_to_the/)
 - [Zymposium - ZIO Flow](https://www.reddit.com/r/scala/comments/p6ng54/zymposium_zio_flow/)
 - [Help] Databricks: Unable to copy multiple files from file:/tmp to dbfs:/tmp](https://www.reddit.com/r/scala/comments/p6lhcx/help_databricks_unable_to_copy_multiple_files/)
@@ -276,9 +279,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Zymposium: Building A Full Stack Application With ZIO](https://www.reddit.com/r/scala/comments/p67nsv/zymposium_building_a_full_stack_application_with/)
 - [Migrating from IntelliJ IDEA to VSCode and Metals – Staying Productive at Writing Scala](https://www.reddit.com/r/scala/comments/p64kwk/migrating_from_intellij_idea_to_vscode_and_metals/)
 - [Journey to the Centre of the JVM — Daniel Spiewak](https://www.reddit.com/r/scala/comments/p5z0yc/journey_to_the_centre_of_the_jvm_daniel_spiewak/)
-- [sbt test error](https://www.reddit.com/r/scala/comments/p5s6e2/sbt_test_error/)
-- [ZIO Hackathon 2021 🙌 (free community event)](https://www.reddit.com/r/scala/comments/p5cmyx/zio_hackathon_2021_free_community_event/)
-- [Generic Type Class Derivation in Scala 3](https://www.reddit.com/r/scala/comments/p54etm/generic_type_class_derivation_in_scala_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

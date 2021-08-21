@@ -269,6 +269,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3 Typeclasses: How to derive on the return type?](https://www.reddit.com/r/scala/comments/p85sf0/scala_3_typeclasses_how_to_derive_on_the_return/)
+- [Configuring Scalafmt to only one module in Intellij](https://www.reddit.com/r/scala/comments/p81ksd/configuring_scalafmt_to_only_one_module_in/)
+- [Need help with CSV Logic, Trying to Pull the search column then generate a count based on the column but map is returning any instead of Map[String, Int]](https://www.reddit.com/r/scala/comments/p7u7fu/need_help_with_csv_logic_trying_to_pull_the/)
 - [Urgently need help with coursework, willing to pay for a solution.](https://www.reddit.com/r/scala/comments/p7sbwh/urgently_need_help_with_coursework_willing_to_pay/)
 - [What should I avoid coming from Java to Scala?](https://www.reddit.com/r/scala/comments/p7rhgt/what_should_i_avoid_coming_from_java_to_scala/)
 - [Need help with running JUnit with Scala in Eclipse](https://www.reddit.com/r/scala/comments/p7gy7a/need_help_with_running_junit_with_scala_in_eclipse/)
@@ -276,9 +279,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Zymposium - ZIO Flow](https://www.reddit.com/r/scala/comments/p6ng54/zymposium_zio_flow/)
 - [Help] Databricks: Unable to copy multiple files from file:/tmp to dbfs:/tmp](https://www.reddit.com/r/scala/comments/p6lhcx/help_databricks_unable_to_copy_multiple_files/)
 - [Post-Mortem: "RoguelikeDev Does The Complete Roguelike Tutorial" in Scala (via Indigo)](https://www.reddit.com/r/scala/comments/p6cpgp/postmortem_roguelikedev_does_the_complete/)
-- [Zymposium: Building A Full Stack Application With ZIO](https://www.reddit.com/r/scala/comments/p67nsv/zymposium_building_a_full_stack_application_with/)
-- [Migrating from IntelliJ IDEA to VSCode and Metals – Staying Productive at Writing Scala](https://www.reddit.com/r/scala/comments/p64kwk/migrating_from_intellij_idea_to_vscode_and_metals/)
-- [Journey to the Centre of the JVM — Daniel Spiewak](https://www.reddit.com/r/scala/comments/p5z0yc/journey_to_the_centre_of_the_jvm_daniel_spiewak/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

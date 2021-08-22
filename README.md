@@ -269,16 +269,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Part 10 - core & persistence - TF to ZIO (The Big Rewrite) - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/p92ahb/part_10_core_persistence_tf_to_zio_the_big/)
+- [Fresher joined in as an Intern. Needs suggestions from people with experience.](https://www.reddit.com/r/scala/comments/p8z8y7/fresher_joined_in_as_an_intern_needs_suggestions/)
+- [Scalqa: Void Request Pattern](https://www.reddit.com/r/scala/comments/p8u5ln/scalqa_void_request_pattern/)
+- [Since PlayFramework has stalled in development, any tips on migrating to akka-http?](https://www.reddit.com/r/scala/comments/p8p1e6/since_playframework_has_stalled_in_development/)
 - [Scala 3 Typeclasses: How to derive on the return type?](https://www.reddit.com/r/scala/comments/p85sf0/scala_3_typeclasses_how_to_derive_on_the_return/)
 - [Configuring Scalafmt to only one module in Intellij](https://www.reddit.com/r/scala/comments/p81ksd/configuring_scalafmt_to_only_one_module_in/)
 - [Need help with CSV Logic, Trying to Pull the search column then generate a count based on the column but map is returning any instead of Map[String, Int]](https://www.reddit.com/r/scala/comments/p7u7fu/need_help_with_csv_logic_trying_to_pull_the/)
 - [Urgently need help with coursework, willing to pay for a solution.](https://www.reddit.com/r/scala/comments/p7sbwh/urgently_need_help_with_coursework_willing_to_pay/)
 - [What should I avoid coming from Java to Scala?](https://www.reddit.com/r/scala/comments/p7rhgt/what_should_i_avoid_coming_from_java_to_scala/)
 - [Need help with running JUnit with Scala in Eclipse](https://www.reddit.com/r/scala/comments/p7gy7a/need_help_with_running_junit_with_scala_in_eclipse/)
-- [In which version did Scala add @static to the language?](https://www.reddit.com/r/scala/comments/p71tq9/in_which_version_did_scala_add_static_to_the/)
-- [Zymposium - ZIO Flow](https://www.reddit.com/r/scala/comments/p6ng54/zymposium_zio_flow/)
-- [Help] Databricks: Unable to copy multiple files from file:/tmp to dbfs:/tmp](https://www.reddit.com/r/scala/comments/p6lhcx/help_databricks_unable_to_copy_multiple_files/)
-- [Post-Mortem: "RoguelikeDev Does The Complete Roguelike Tutorial" in Scala (via Indigo)](https://www.reddit.com/r/scala/comments/p6cpgp/postmortem_roguelikedev_does_the_complete/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

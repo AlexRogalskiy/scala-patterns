@@ -269,6 +269,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala (Aug 23th, 2021)](https://www.reddit.com/r/scala/comments/p9op55/this_week_in_scala_aug_23th_2021/)
+- [Introducing effects systems S.A. ZIO at work?](https://www.reddit.com/r/scala/comments/p9g8vc/introducing_effects_systems_sa_zio_at_work/)
 - [Part 10 - core & persistence - TF to ZIO (The Big Rewrite) - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/p92ahb/part_10_core_persistence_tf_to_zio_the_big/)
 - [Fresher joined in as an Intern. Needs suggestions from people with experience.](https://www.reddit.com/r/scala/comments/p8z8y7/fresher_joined_in_as_an_intern_needs_suggestions/)
 - [Scalqa: Void Request Pattern](https://www.reddit.com/r/scala/comments/p8u5ln/scalqa_void_request_pattern/)
@@ -277,8 +279,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Configuring Scalafmt to only one module in Intellij](https://www.reddit.com/r/scala/comments/p81ksd/configuring_scalafmt_to_only_one_module_in/)
 - [Need help with CSV Logic, Trying to Pull the search column then generate a count based on the column but map is returning any instead of Map[String, Int]](https://www.reddit.com/r/scala/comments/p7u7fu/need_help_with_csv_logic_trying_to_pull_the/)
 - [Urgently need help with coursework, willing to pay for a solution.](https://www.reddit.com/r/scala/comments/p7sbwh/urgently_need_help_with_coursework_willing_to_pay/)
-- [What should I avoid coming from Java to Scala?](https://www.reddit.com/r/scala/comments/p7rhgt/what_should_i_avoid_coming_from_java_to_scala/)
-- [Need help with running JUnit with Scala in Eclipse](https://www.reddit.com/r/scala/comments/p7gy7a/need_help_with_running_junit_with_scala_in_eclipse/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

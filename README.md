@@ -269,16 +269,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to use specific map type depending on key type?](https://www.reddit.com/r/scala/comments/pas4l3/how_to_use_specific_map_type_depending_on_key_type/)
+- [Zymposium - Full-Stack Frontend](https://www.reddit.com/r/scala/comments/parai1/zymposium_fullstack_frontend/)
+- [Refine types](https://www.reddit.com/r/scala/comments/par6cn/refine_types/)
+- [Is there a way to beautify the code after Scala 3 migration?](https://www.reddit.com/r/scala/comments/paju9n/is_there_a_way_to_beautify_the_code_after_scala_3/)
+- [Classes with type params in collections](https://www.reddit.com/r/scala/comments/pain5h/classes_with_type_params_in_collections/)
 - [Help with making backtracking more efficient](https://www.reddit.com/r/scala/comments/pad0vx/help_with_making_backtracking_more_efficient/)
 - [New single GitHub Action to setup everything Scala & Scala.JS](https://www.reddit.com/r/scala/comments/pab79k/new_single_github_action_to_setup_everything/)
 - [Interface syntax vs implicit conversions vs type class instance constructor](https://www.reddit.com/r/scala/comments/pa8tjd/interface_syntax_vs_implicit_conversions_vs_type/)
 - [Getting Comfortable with Implicits](https://www.reddit.com/r/scala/comments/pa4yci/getting_comfortable_with_implicits/)
 - [A naive question about modeling task](https://www.reddit.com/r/scala/comments/pa3dnz/a_naive_question_about_modeling_task/)
-- [ZIO Kafka: A Tutorial](https://www.reddit.com/r/scala/comments/pa39sl/zio_kafka_a_tutorial/)
-- [This week in #Scala (Aug 23th, 2021)](https://www.reddit.com/r/scala/comments/p9op55/this_week_in_scala_aug_23th_2021/)
-- [Introducing effects systems S.A. ZIO at work?](https://www.reddit.com/r/scala/comments/p9g8vc/introducing_effects_systems_sa_zio_at_work/)
-- [Part 10 - core & persistence - TF to ZIO (The Big Rewrite) - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/p92ahb/part_10_core_persistence_tf_to_zio_the_big/)
-- [Fresher joined in as an Intern. Needs suggestions from people with experience.](https://www.reddit.com/r/scala/comments/p8z8y7/fresher_joined_in_as_an_intern_needs_suggestions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

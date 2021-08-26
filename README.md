@@ -269,16 +269,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Functional Effects with ZIO 2.0 course by John A. De Goes (20% off for the Reddit community) 😊](https://www.reddit.com/r/scala/comments/pbk4lv/functional_effects_with_zio_20_course_by_john_a/)
+- [Functional Scala 2021 opens call for proposals (Dec 2-3, London & online)](https://www.reddit.com/r/scala/comments/pbfgi4/functional_scala_2021_opens_call_for_proposals/)
+- [How is scala as microservices-based backend for web service?](https://www.reddit.com/r/scala/comments/pbeyb4/how_is_scala_as_microservicesbased_backend_for/)
+- [Scala 3 Difficulties](https://www.reddit.com/r/scala/comments/pb7kor/scala_3_difficulties/)
 - [How to use specific map type depending on key type?](https://www.reddit.com/r/scala/comments/pas4l3/how_to_use_specific_map_type_depending_on_key_type/)
 - [Zymposium - Full-Stack Frontend](https://www.reddit.com/r/scala/comments/parai1/zymposium_fullstack_frontend/)
 - [Refine types](https://www.reddit.com/r/scala/comments/par6cn/refine_types/)
 - [Is there a way to beautify the code after Scala 3 migration?](https://www.reddit.com/r/scala/comments/paju9n/is_there_a_way_to_beautify_the_code_after_scala_3/)
 - [Classes with type params in collections](https://www.reddit.com/r/scala/comments/pain5h/classes_with_type_params_in_collections/)
 - [Help with making backtracking more efficient](https://www.reddit.com/r/scala/comments/pad0vx/help_with_making_backtracking_more_efficient/)
-- [New single GitHub Action to setup everything Scala & Scala.JS](https://www.reddit.com/r/scala/comments/pab79k/new_single_github_action_to_setup_everything/)
-- [Interface syntax vs implicit conversions vs type class instance constructor](https://www.reddit.com/r/scala/comments/pa8tjd/interface_syntax_vs_implicit_conversions_vs_type/)
-- [Getting Comfortable with Implicits](https://www.reddit.com/r/scala/comments/pa4yci/getting_comfortable_with_implicits/)
-- [A naive question about modeling task](https://www.reddit.com/r/scala/comments/pa3dnz/a_naive_question_about_modeling_task/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

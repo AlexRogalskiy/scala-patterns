@@ -269,16 +269,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [scala-js-dom 1.2.0 released! - This is the first release with love from new maintainers and we'll be focusing on 2.0.0 next](https://www.reddit.com/r/scala/comments/pc9k5y/scalajsdom_120_released_this_is_the_first_release/)
+- [Scala code review culture (rant and discussion starter)](https://www.reddit.com/r/scala/comments/pc3b8s/scala_code_review_culture_rant_and_discussion/)
+- [Explicit type conversion in Scala 3 macros](https://www.reddit.com/r/scala/comments/pc2do3/explicit_type_conversion_in_scala_3_macros/)
+- [Advances In The ZIO 2.0 Scheduler](https://www.reddit.com/r/scala/comments/pc24wx/advances_in_the_zio_20_scheduler/)
+- [I am using play framework in scala. In back/front button on explorer, there is no redirection. The URI changes but the page remains the same.](https://www.reddit.com/r/scala/comments/pbyy50/i_am_using_play_framework_in_scala_in_backfront/)
 - [Functional Effects with ZIO 2.0 course by John A. De Goes (20% off for the Reddit community) 😊](https://www.reddit.com/r/scala/comments/pbk4lv/functional_effects_with_zio_20_course_by_john_a/)
 - [Functional Scala 2021 opens call for proposals (Dec 2-3, London & online)](https://www.reddit.com/r/scala/comments/pbfgi4/functional_scala_2021_opens_call_for_proposals/)
 - [How is scala as microservices-based backend for web service?](https://www.reddit.com/r/scala/comments/pbeyb4/how_is_scala_as_microservicesbased_backend_for/)
 - [Scala 3 Difficulties](https://www.reddit.com/r/scala/comments/pb7kor/scala_3_difficulties/)
 - [How to use specific map type depending on key type?](https://www.reddit.com/r/scala/comments/pas4l3/how_to_use_specific_map_type_depending_on_key_type/)
-- [Zymposium - Full-Stack Frontend](https://www.reddit.com/r/scala/comments/parai1/zymposium_fullstack_frontend/)
-- [Refine types](https://www.reddit.com/r/scala/comments/par6cn/refine_types/)
-- [Is there a way to beautify the code after Scala 3 migration?](https://www.reddit.com/r/scala/comments/paju9n/is_there_a_way_to_beautify_the_code_after_scala_3/)
-- [Classes with type params in collections](https://www.reddit.com/r/scala/comments/pain5h/classes_with_type_params_in_collections/)
-- [Help with making backtracking more efficient](https://www.reddit.com/r/scala/comments/pad0vx/help_with_making_backtracking_more_efficient/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

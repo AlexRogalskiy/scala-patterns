@@ -269,16 +269,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help! How to access files in a gs bucket by using Scala in a dataproc job?](https://www.reddit.com/r/scala/comments/pd0ezs/help_how_to_access_files_in_a_gs_bucket_by_using/)
+- [Help with Single Value Validated Types](https://www.reddit.com/r/scala/comments/pcuqcy/help_with_single_value_validated_types/)
+- [What's the maturity level of ScalaJS?](https://www.reddit.com/r/scala/comments/pcso0z/whats_the_maturity_level_of_scalajs/)
+- [New outwatch documentation based on mdoc](https://www.reddit.com/r/scala/comments/pcsmae/new_outwatch_documentation_based_on_mdoc/)
+- [What's the best Seq subclass in 2021?](https://www.reddit.com/r/scala/comments/pcha4i/whats_the_best_seq_subclass_in_2021/)
 - [scala-js-dom 1.2.0 released! - This is the first release with love from new maintainers and we'll be focusing on 2.0.0 next](https://www.reddit.com/r/scala/comments/pc9k5y/scalajsdom_120_released_this_is_the_first_release/)
-- [Scala code review culture (rant and discussion starter)](https://www.reddit.com/r/scala/comments/pc3b8s/scala_code_review_culture_rant_and_discussion/)
 - [Explicit type conversion in Scala 3 macros](https://www.reddit.com/r/scala/comments/pc2do3/explicit_type_conversion_in_scala_3_macros/)
 - [Advances In The ZIO 2.0 Scheduler](https://www.reddit.com/r/scala/comments/pc24wx/advances_in_the_zio_20_scheduler/)
 - [I am using play framework in scala. In back/front button on explorer, there is no redirection. The URI changes but the page remains the same.](https://www.reddit.com/r/scala/comments/pbyy50/i_am_using_play_framework_in_scala_in_backfront/)
 - [Functional Effects with ZIO 2.0 course by John A. De Goes (20% off for the Reddit community) 😊](https://www.reddit.com/r/scala/comments/pbk4lv/functional_effects_with_zio_20_course_by_john_a/)
-- [Functional Scala 2021 opens call for proposals (Dec 2-3, London & online)](https://www.reddit.com/r/scala/comments/pbfgi4/functional_scala_2021_opens_call_for_proposals/)
-- [How is scala as microservices-based backend for web service?](https://www.reddit.com/r/scala/comments/pbeyb4/how_is_scala_as_microservicesbased_backend_for/)
-- [Scala 3 Difficulties](https://www.reddit.com/r/scala/comments/pb7kor/scala_3_difficulties/)
-- [How to use specific map type depending on key type?](https://www.reddit.com/r/scala/comments/pas4l3/how_to_use_specific_map_type_depending_on_key_type/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

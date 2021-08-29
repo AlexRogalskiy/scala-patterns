@@ -269,8 +269,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [yesterday's date is today? code run on 8/28/2021, 6:35PM PDT](https://www.reddit.com/r/scala/comments/pdmb31/yesterdays_date_is_today_code_run_on_8282021/)
+- [Is there an example of a Firebase+Scala.JS app?](https://www.reddit.com/r/scala/comments/pdju7a/is_there_an_example_of_a_firebasescalajs_app/)
 - [Help! How to access files in a gs bucket by using Scala in a dataproc job?](https://www.reddit.com/r/scala/comments/pd0ezs/help_how_to_access_files_in_a_gs_bucket_by_using/)
-- [Help with Single Value Validated Types](https://www.reddit.com/r/scala/comments/pcuqcy/help_with_single_value_validated_types/)
 - [What's the maturity level of ScalaJS?](https://www.reddit.com/r/scala/comments/pcso0z/whats_the_maturity_level_of_scalajs/)
 - [New outwatch documentation based on mdoc](https://www.reddit.com/r/scala/comments/pcsmae/new_outwatch_documentation_based_on_mdoc/)
 - [What's the best Seq subclass in 2021?](https://www.reddit.com/r/scala/comments/pcha4i/whats_the_best_seq_subclass_in_2021/)
@@ -278,7 +279,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Explicit type conversion in Scala 3 macros](https://www.reddit.com/r/scala/comments/pc2do3/explicit_type_conversion_in_scala_3_macros/)
 - [Advances In The ZIO 2.0 Scheduler](https://www.reddit.com/r/scala/comments/pc24wx/advances_in_the_zio_20_scheduler/)
 - [I am using play framework in scala. In back/front button on explorer, there is no redirection. The URI changes but the page remains the same.](https://www.reddit.com/r/scala/comments/pbyy50/i_am_using_play_framework_in_scala_in_backfront/)
-- [Functional Effects with ZIO 2.0 course by John A. De Goes (20% off for the Reddit community) 😊](https://www.reddit.com/r/scala/comments/pbk4lv/functional_effects_with_zio_20_course_by_john_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

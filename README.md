@@ -269,6 +269,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need help with play framework](https://www.reddit.com/r/scala/comments/pethws/need_help_with_play_framework/)
+- [Native code access from scala 3 without using Graal](https://www.reddit.com/r/scala/comments/peff3m/native_code_access_from_scala_3_without_using/)
 - [This week in #Scala (Aug 30th, 2021)](https://www.reddit.com/r/scala/comments/pe2f2s/this_week_in_scala_aug_30th_2021/)
 - [VSCode workplace recommended extensions](https://www.reddit.com/r/scala/comments/pdtctl/vscode_workplace_recommended_extensions/)
 - [Part 11 - delivery & main - TF to ZIO (The Big Rewrite) - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/pdodk7/part_11_delivery_main_tf_to_zio_the_big_rewrite/)
@@ -277,8 +279,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Help! How to access files in a gs bucket by using Scala in a dataproc job?](https://www.reddit.com/r/scala/comments/pd0ezs/help_how_to_access_files_in_a_gs_bucket_by_using/)
 - [What's the maturity level of ScalaJS?](https://www.reddit.com/r/scala/comments/pcso0z/whats_the_maturity_level_of_scalajs/)
 - [New outwatch documentation based on mdoc](https://www.reddit.com/r/scala/comments/pcsmae/new_outwatch_documentation_based_on_mdoc/)
-- [What's the best Seq subclass in 2021?](https://www.reddit.com/r/scala/comments/pcha4i/whats_the_best_seq_subclass_in_2021/)
-- [scala-js-dom 1.2.0 released! - This is the first release with love from new maintainers and we'll be focusing on 2.0.0 next](https://www.reddit.com/r/scala/comments/pc9k5y/scalajsdom_120_released_this_is_the_first_release/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

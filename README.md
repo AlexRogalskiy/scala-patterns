@@ -269,16 +269,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Use akka-stream without constantly passing around implicit ActorSystem, Materializer, ExecutionContext](https://www.reddit.com/r/scala/comments/pfji6o/use_akkastream_without_constantly_passing_around/)
+- [Scala 3 and Class Data Validation Best Practices](https://www.reddit.com/r/scala/comments/pff1w0/scala_3_and_class_data_validation_best_practices/)
+- [Inheritance friendly immutability & copying, using context functions, opaque types, intersection types and extension methods](https://www.reddit.com/r/scala/comments/pf7iqb/inheritance_friendly_immutability_copying_using/)
+- [Zymposium — Type-Level Sets](https://www.reddit.com/r/scala/comments/pf5x9w/zymposium_typelevel_sets/)
+- [Produce clean APIs with algebraic design - Scala/FP tutorial](https://www.reddit.com/r/scala/comments/pf4oc4/produce_clean_apis_with_algebraic_design_scalafp/)
+- [Stuck on this problem!!](https://www.reddit.com/r/scala/comments/pf397t/stuck_on_this_problem/)
 - [Need help with play framework](https://www.reddit.com/r/scala/comments/pethws/need_help_with_play_framework/)
 - [Native code access from scala 3 without using Graal](https://www.reddit.com/r/scala/comments/peff3m/native_code_access_from_scala_3_without_using/)
 - [This week in #Scala (Aug 30th, 2021)](https://www.reddit.com/r/scala/comments/pe2f2s/this_week_in_scala_aug_30th_2021/)
 - [VSCode workplace recommended extensions](https://www.reddit.com/r/scala/comments/pdtctl/vscode_workplace_recommended_extensions/)
-- [Part 11 - delivery & main - TF to ZIO (The Big Rewrite) - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/pdodk7/part_11_delivery_main_tf_to_zio_the_big_rewrite/)
-- [yesterday's date is today? code run on 8/28/2021, 6:35PM PDT](https://www.reddit.com/r/scala/comments/pdmb31/yesterdays_date_is_today_code_run_on_8282021/)
-- [Is there an example of a Firebase+Scala.JS app?](https://www.reddit.com/r/scala/comments/pdju7a/is_there_an_example_of_a_firebasescalajs_app/)
-- [Help! How to access files in a gs bucket by using Scala in a dataproc job?](https://www.reddit.com/r/scala/comments/pd0ezs/help_how_to_access_files_in_a_gs_bucket_by_using/)
-- [What's the maturity level of ScalaJS?](https://www.reddit.com/r/scala/comments/pcso0z/whats_the_maturity_level_of_scalajs/)
-- [New outwatch documentation based on mdoc](https://www.reddit.com/r/scala/comments/pcsmae/new_outwatch_documentation_based_on_mdoc/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

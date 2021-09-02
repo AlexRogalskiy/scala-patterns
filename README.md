@@ -269,16 +269,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Tutorial] Scala For Beginners - Crash Course - Part 2](https://www.reddit.com/r/scala/comments/pfxx66/tutorial_scala_for_beginners_crash_course_part_2/)
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/pfwuys/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [case class with subtype and typeclass evidence](https://www.reddit.com/r/scala/comments/pfprlu/case_class_with_subtype_and_typeclass_evidence/)
+- [New Tooling Talks episode with Eugune Yokota: Coding with Friends and sbt](https://www.reddit.com/r/scala/comments/pfoxnu/new_tooling_talks_episode_with_eugune_yokota/)
+- [Jar Jar Abrams 1.8.0 and sbt-assembly 1.1.0](https://www.reddit.com/r/scala/comments/pfo8sd/jar_jar_abrams_180_and_sbtassembly_110/)
 - [Use akka-stream without constantly passing around implicit ActorSystem, Materializer, ExecutionContext](https://www.reddit.com/r/scala/comments/pfji6o/use_akkastream_without_constantly_passing_around/)
 - [Scala 3 and Class Data Validation Best Practices](https://www.reddit.com/r/scala/comments/pff1w0/scala_3_and_class_data_validation_best_practices/)
 - [Inheritance friendly immutability & copying, using context functions, opaque types, intersection types and extension methods](https://www.reddit.com/r/scala/comments/pf7iqb/inheritance_friendly_immutability_copying_using/)
 - [Zymposium — Type-Level Sets](https://www.reddit.com/r/scala/comments/pf5x9w/zymposium_typelevel_sets/)
 - [Produce clean APIs with algebraic design - Scala/FP tutorial](https://www.reddit.com/r/scala/comments/pf4oc4/produce_clean_apis_with_algebraic_design_scalafp/)
-- [Stuck on this problem!!](https://www.reddit.com/r/scala/comments/pf397t/stuck_on_this_problem/)
-- [Need help with play framework](https://www.reddit.com/r/scala/comments/pethws/need_help_with_play_framework/)
-- [Native code access from scala 3 without using Graal](https://www.reddit.com/r/scala/comments/peff3m/native_code_access_from_scala_3_without_using/)
-- [This week in #Scala (Aug 30th, 2021)](https://www.reddit.com/r/scala/comments/pe2f2s/this_week_in_scala_aug_30th_2021/)
-- [VSCode workplace recommended extensions](https://www.reddit.com/r/scala/comments/pdtctl/vscode_workplace_recommended_extensions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

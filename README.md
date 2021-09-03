@@ -269,16 +269,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [An introduction to Scala Native](https://www.reddit.com/r/scala/comments/pgnv07/an_introduction_to_scala_native/)
+- [Integration tests with Testcontainers and Aerospike](https://www.reddit.com/r/scala/comments/pgnla9/integration_tests_with_testcontainers_and/)
+- [Zymposium](https://www.reddit.com/r/scala/comments/pgn5s3/zymposium/)
+- [Beginner question on calling method in generic class](https://www.reddit.com/r/scala/comments/pgmy1n/beginner_question_on_calling_method_in_generic/)
+- [Learning Scala pre beginner question](https://www.reddit.com/r/scala/comments/pgj3f6/learning_scala_pre_beginner_question/)
+- [What would be the best platform to learn Scala 3](https://www.reddit.com/r/scala/comments/pgimnr/what_would_be_the_best_platform_to_learn_scala_3/)
+- [Scala For Beginners - Crash Course - Part 3](https://www.reddit.com/r/scala/comments/pges4n/scala_for_beginners_crash_course_part_3/)
 - [[Tutorial] Scala For Beginners - Crash Course - Part 2](https://www.reddit.com/r/scala/comments/pfxx66/tutorial_scala_for_beginners_crash_course_part_2/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/pfwuys/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [case class with subtype and typeclass evidence](https://www.reddit.com/r/scala/comments/pfprlu/case_class_with_subtype_and_typeclass_evidence/)
-- [New Tooling Talks episode with Eugune Yokota: Coding with Friends and sbt](https://www.reddit.com/r/scala/comments/pfoxnu/new_tooling_talks_episode_with_eugune_yokota/)
-- [Jar Jar Abrams 1.8.0 and sbt-assembly 1.1.0](https://www.reddit.com/r/scala/comments/pfo8sd/jar_jar_abrams_180_and_sbtassembly_110/)
-- [Use akka-stream without constantly passing around implicit ActorSystem, Materializer, ExecutionContext](https://www.reddit.com/r/scala/comments/pfji6o/use_akkastream_without_constantly_passing_around/)
-- [Scala 3 and Class Data Validation Best Practices](https://www.reddit.com/r/scala/comments/pff1w0/scala_3_and_class_data_validation_best_practices/)
-- [Inheritance friendly immutability & copying, using context functions, opaque types, intersection types and extension methods](https://www.reddit.com/r/scala/comments/pf7iqb/inheritance_friendly_immutability_copying_using/)
-- [Zymposium — Type-Level Sets](https://www.reddit.com/r/scala/comments/pf5x9w/zymposium_typelevel_sets/)
-- [Produce clean APIs with algebraic design - Scala/FP tutorial](https://www.reddit.com/r/scala/comments/pf4oc4/produce_clean_apis_with_algebraic_design_scalafp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

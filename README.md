@@ -269,16 +269,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why does this not work when I do it in repl.it?](https://www.reddit.com/r/scala/comments/phaxch/why_does_this_not_work_when_i_do_it_in_replit/)
+- [(Yet) Another Take on Monads in Scala: Generalizing Computations](https://www.reddit.com/r/scala/comments/ph7gyu/yet_another_take_on_monads_in_scala_generalizing/)
+- [Hiring a Senior Full-stack Scala Engineer / DevOps](https://www.reddit.com/r/scala/comments/ph0r6u/hiring_a_senior_fullstack_scala_engineer_devops/)
+- [The online course Foundations of Functional Programming in Scala is now complete](https://www.reddit.com/r/scala/comments/ph0na3/the_online_course_foundations_of_functional/)
 - [An introduction to Scala Native](https://www.reddit.com/r/scala/comments/pgnv07/an_introduction_to_scala_native/)
 - [Integration tests with Testcontainers and Aerospike](https://www.reddit.com/r/scala/comments/pgnla9/integration_tests_with_testcontainers_and/)
 - [Zymposium](https://www.reddit.com/r/scala/comments/pgn5s3/zymposium/)
 - [Beginner question on calling method in generic class](https://www.reddit.com/r/scala/comments/pgmy1n/beginner_question_on_calling_method_in_generic/)
 - [Learning Scala pre beginner question](https://www.reddit.com/r/scala/comments/pgj3f6/learning_scala_pre_beginner_question/)
 - [What would be the best platform to learn Scala 3](https://www.reddit.com/r/scala/comments/pgimnr/what_would_be_the_best_platform_to_learn_scala_3/)
-- [Scala For Beginners - Crash Course - Part 3](https://www.reddit.com/r/scala/comments/pges4n/scala_for_beginners_crash_course_part_3/)
-- [[Tutorial] Scala For Beginners - Crash Course - Part 2](https://www.reddit.com/r/scala/comments/pfxx66/tutorial_scala_for_beginners_crash_course_part_2/)
-- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/pfwuys/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [case class with subtype and typeclass evidence](https://www.reddit.com/r/scala/comments/pfprlu/case_class_with_subtype_and_typeclass_evidence/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

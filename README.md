@@ -269,6 +269,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Singleton types and case class fields - F[_] around and find out #1](https://www.reddit.com/r/scala/comments/pi0vos/singleton_types_and_case_class_fields_f_around/)
 - [Why does this not work when I do it in repl.it?](https://www.reddit.com/r/scala/comments/phaxch/why_does_this_not_work_when_i_do_it_in_replit/)
 - [(Yet) Another Take on Monads in Scala: Generalizing Computations](https://www.reddit.com/r/scala/comments/ph7gyu/yet_another_take_on_monads_in_scala_generalizing/)
 - [Hiring a Senior Full-stack Scala Engineer / DevOps](https://www.reddit.com/r/scala/comments/ph0r6u/hiring_a_senior_fullstack_scala_engineer_devops/)
@@ -278,7 +279,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Zymposium](https://www.reddit.com/r/scala/comments/pgn5s3/zymposium/)
 - [Beginner question on calling method in generic class](https://www.reddit.com/r/scala/comments/pgmy1n/beginner_question_on_calling_method_in_generic/)
 - [Learning Scala pre beginner question](https://www.reddit.com/r/scala/comments/pgj3f6/learning_scala_pre_beginner_question/)
-- [What would be the best platform to learn Scala 3](https://www.reddit.com/r/scala/comments/pgimnr/what_would_be_the_best_platform_to_learn_scala_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

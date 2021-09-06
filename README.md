@@ -269,16 +269,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala (Sep 6th, 2021)](https://www.reddit.com/r/scala/comments/pin640/this_week_in_scala_sep_6th_2021/)
+- [What is faster, .view or .iterator?](https://www.reddit.com/r/scala/comments/pimajt/what_is_faster_view_or_iterator/)
+- [Scala Futures & Callbacks](https://www.reddit.com/r/scala/comments/pidx9n/scala_futures_callbacks/)
+- [Scala 3 SonarCloud support](https://www.reddit.com/r/scala/comments/pidqoe/scala_3_sonarcloud_support/)
+- [Part 12 - http4s & skunk - TF to ZIO (The Big Rewrite) - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/pic56f/part_12_http4s_skunk_tf_to_zio_the_big_rewrite/)
+- ["Learn Scala for the best technology jobs in banking"](https://www.reddit.com/r/scala/comments/pia3ab/learn_scala_for_the_best_technology_jobs_in/)
 - [Singleton types and case class fields - F[_] around and find out #1](https://www.reddit.com/r/scala/comments/pi0vos/singleton_types_and_case_class_fields_f_around/)
 - [Why does this not work when I do it in repl.it?](https://www.reddit.com/r/scala/comments/phaxch/why_does_this_not_work_when_i_do_it_in_replit/)
 - [(Yet) Another Take on Monads in Scala: Generalizing Computations](https://www.reddit.com/r/scala/comments/ph7gyu/yet_another_take_on_monads_in_scala_generalizing/)
 - [Hiring a Senior Full-stack Scala Engineer / DevOps](https://www.reddit.com/r/scala/comments/ph0r6u/hiring_a_senior_fullstack_scala_engineer_devops/)
-- [The online course Foundations of Functional Programming in Scala is now complete](https://www.reddit.com/r/scala/comments/ph0na3/the_online_course_foundations_of_functional/)
-- [An introduction to Scala Native](https://www.reddit.com/r/scala/comments/pgnv07/an_introduction_to_scala_native/)
-- [Integration tests with Testcontainers and Aerospike](https://www.reddit.com/r/scala/comments/pgnla9/integration_tests_with_testcontainers_and/)
-- [Zymposium](https://www.reddit.com/r/scala/comments/pgn5s3/zymposium/)
-- [Beginner question on calling method in generic class](https://www.reddit.com/r/scala/comments/pgmy1n/beginner_question_on_calling_method_in_generic/)
-- [Learning Scala pre beginner question](https://www.reddit.com/r/scala/comments/pgj3f6/learning_scala_pre_beginner_question/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

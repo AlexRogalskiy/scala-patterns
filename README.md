@@ -269,16 +269,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need help with this error in debug console](https://www.reddit.com/r/scala/comments/pj9fqo/need_help_with_this_error_in_debug_console/)
+- [SBT errors](https://www.reddit.com/r/scala/comments/pj7wbn/sbt_errors/)
+- [Metals v0.10.6 is out!](https://www.reddit.com/r/scala/comments/pj7bpj/metals_v0106_is_out/)
+- [Zymposium](https://www.reddit.com/r/scala/comments/pj1ezp/zymposium/)
+- [Scala For Beginners - Crash Course - Part 4](https://www.reddit.com/r/scala/comments/pix5bw/scala_for_beginners_crash_course_part_4/)
+- [[HIRING] (Senior) Software Engineer - Data Platform (f/m/x), 💰 65.000 - 85.000 EUR / year](https://www.reddit.com/r/scala/comments/piw3e5/hiring_senior_software_engineer_data_platform_fmx/)
+- [Express that one abstract type member equals another abstract type member (Scala 2)](https://www.reddit.com/r/scala/comments/piqrht/express_that_one_abstract_type_member_equals/)
 - [This week in #Scala (Sep 6th, 2021)](https://www.reddit.com/r/scala/comments/pin640/this_week_in_scala_sep_6th_2021/)
 - [What is faster, .view or .iterator?](https://www.reddit.com/r/scala/comments/pimajt/what_is_faster_view_or_iterator/)
 - [Scala Futures & Callbacks](https://www.reddit.com/r/scala/comments/pidx9n/scala_futures_callbacks/)
-- [Scala 3 SonarCloud support](https://www.reddit.com/r/scala/comments/pidqoe/scala_3_sonarcloud_support/)
-- [Part 12 - http4s & skunk - TF to ZIO (The Big Rewrite) - Getting Started with ZIO in Scala3](https://www.reddit.com/r/scala/comments/pic56f/part_12_http4s_skunk_tf_to_zio_the_big_rewrite/)
-- ["Learn Scala for the best technology jobs in banking"](https://www.reddit.com/r/scala/comments/pia3ab/learn_scala_for_the_best_technology_jobs_in/)
-- [Singleton types and case class fields - F[_] around and find out #1](https://www.reddit.com/r/scala/comments/pi0vos/singleton_types_and_case_class_fields_f_around/)
-- [Why does this not work when I do it in repl.it?](https://www.reddit.com/r/scala/comments/phaxch/why_does_this_not_work_when_i_do_it_in_replit/)
-- [(Yet) Another Take on Monads in Scala: Generalizing Computations](https://www.reddit.com/r/scala/comments/ph7gyu/yet_another_take_on_monads_in_scala_generalizing/)
-- [Hiring a Senior Full-stack Scala Engineer / DevOps](https://www.reddit.com/r/scala/comments/ph0r6u/hiring_a_senior_fullstack_scala_engineer_devops/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

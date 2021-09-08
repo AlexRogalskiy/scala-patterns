@@ -269,16 +269,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Braces in Scala 3 aren't just Optional, they're Consistent](https://www.reddit.com/r/scala/comments/pjunsl/braces_in_scala_3_arent_just_optional_theyre/)
+- [Heterogenous Maps and Dynamic Case Classes in Scala 3](https://www.reddit.com/r/scala/comments/pjqkbn/heterogenous_maps_and_dynamic_case_classes_in/)
+- [Scala 3.0.2 released! (And 3.1 is coming soon)](https://www.reddit.com/r/scala/comments/pjpkhr/scala_302_released_and_31_is_coming_soon/)
+- [Monix Newtypes: Macro-free helpers for defining newtypes in Scala, cross-compiled to Scala 3](https://www.reddit.com/r/scala/comments/pjk58a/monix_newtypes_macrofree_helpers_for_defining/)
+- [[error] java.lang.NoSuchMethodError: scala.tools.nsc.Settings.bootclasspath()Lscala/tools/nsc/settings/AbsSettings$AbsSetting;](https://www.reddit.com/r/scala/comments/pjhex0/error_javalangnosuchmethoderror/)
+- [Scala Core : How to optimize your code in Universal Way? If-Else v/s PatternMatch](https://www.reddit.com/r/scala/comments/pjfrqd/scala_core_how_to_optimize_your_code_in_universal/)
+- [intro to Scala 3 macros](https://www.reddit.com/r/scala/comments/pje527/intro_to_scala_3_macros/)
 - [Need help with this error in debug console](https://www.reddit.com/r/scala/comments/pj9fqo/need_help_with_this_error_in_debug_console/)
 - [SBT errors](https://www.reddit.com/r/scala/comments/pj7wbn/sbt_errors/)
 - [Metals v0.10.6 is out!](https://www.reddit.com/r/scala/comments/pj7bpj/metals_v0106_is_out/)
-- [Zymposium](https://www.reddit.com/r/scala/comments/pj1ezp/zymposium/)
-- [Scala For Beginners - Crash Course - Part 4](https://www.reddit.com/r/scala/comments/pix5bw/scala_for_beginners_crash_course_part_4/)
-- [[HIRING] (Senior) Software Engineer - Data Platform (f/m/x), 💰 65.000 - 85.000 EUR / year](https://www.reddit.com/r/scala/comments/piw3e5/hiring_senior_software_engineer_data_platform_fmx/)
-- [Express that one abstract type member equals another abstract type member (Scala 2)](https://www.reddit.com/r/scala/comments/piqrht/express_that_one_abstract_type_member_equals/)
-- [This week in #Scala (Sep 6th, 2021)](https://www.reddit.com/r/scala/comments/pin640/this_week_in_scala_sep_6th_2021/)
-- [What is faster, .view or .iterator?](https://www.reddit.com/r/scala/comments/pimajt/what_is_faster_view_or_iterator/)
-- [Scala Futures & Callbacks](https://www.reddit.com/r/scala/comments/pidx9n/scala_futures_callbacks/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -269,6 +269,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala3 upgrade: modules were resolved with conflicting cross-version suffixes in ProjectRef...?](https://www.reddit.com/r/scala/comments/pkkusj/scala3_upgrade_modules_were_resolved_with/)
+- [Play Framework](https://www.reddit.com/r/scala/comments/pk5rti/play_framework/)
 - [Braces in Scala 3 aren't just Optional, they're Consistent](https://www.reddit.com/r/scala/comments/pjunsl/braces_in_scala_3_arent_just_optional_theyre/)
 - [Heterogenous Maps and Dynamic Case Classes in Scala 3](https://www.reddit.com/r/scala/comments/pjqkbn/heterogenous_maps_and_dynamic_case_classes_in/)
 - [Scala 3.0.2 released! (And 3.1 is coming soon)](https://www.reddit.com/r/scala/comments/pjpkhr/scala_302_released_and_31_is_coming_soon/)
@@ -277,8 +279,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Core : How to optimize your code in Universal Way? If-Else v/s PatternMatch](https://www.reddit.com/r/scala/comments/pjfrqd/scala_core_how_to_optimize_your_code_in_universal/)
 - [intro to Scala 3 macros](https://www.reddit.com/r/scala/comments/pje527/intro_to_scala_3_macros/)
 - [Need help with this error in debug console](https://www.reddit.com/r/scala/comments/pj9fqo/need_help_with_this_error_in_debug_console/)
-- [SBT errors](https://www.reddit.com/r/scala/comments/pj7wbn/sbt_errors/)
-- [Metals v0.10.6 is out!](https://www.reddit.com/r/scala/comments/pj7bpj/metals_v0106_is_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

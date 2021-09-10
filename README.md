@@ -269,6 +269,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Turn github repo into library](https://www.reddit.com/r/scala/comments/pl9ypm/turn_github_repo_into_library/)
 - [Scala3 upgrade: modules were resolved with conflicting cross-version suffixes in ProjectRef...?](https://www.reddit.com/r/scala/comments/pkkusj/scala3_upgrade_modules_were_resolved_with/)
 - [Play Framework](https://www.reddit.com/r/scala/comments/pk5rti/play_framework/)
 - [Braces in Scala 3 aren't just Optional, they're Consistent](https://www.reddit.com/r/scala/comments/pjunsl/braces_in_scala_3_arent_just_optional_theyre/)
@@ -278,7 +279,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [[error] java.lang.NoSuchMethodError: scala.tools.nsc.Settings.bootclasspath()Lscala/tools/nsc/settings/AbsSettings$AbsSetting;](https://www.reddit.com/r/scala/comments/pjhex0/error_javalangnosuchmethoderror/)
 - [Scala Core : How to optimize your code in Universal Way? If-Else v/s PatternMatch](https://www.reddit.com/r/scala/comments/pjfrqd/scala_core_how_to_optimize_your_code_in_universal/)
 - [intro to Scala 3 macros](https://www.reddit.com/r/scala/comments/pje527/intro_to_scala_3_macros/)
-- [Need help with this error in debug console](https://www.reddit.com/r/scala/comments/pj9fqo/need_help_with_this_error_in_debug_console/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

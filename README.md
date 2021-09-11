@@ -269,6 +269,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is Microservices Architecture the Silver Bullet? Mary Grygielski at Scalac's Event](https://www.reddit.com/r/scala/comments/plldf1/is_microservices_architecture_the_silver_bullet/)
+- [.contains method.](https://www.reddit.com/r/scala/comments/pld6pk/contains_method/)
 - [Turn github repo into library](https://www.reddit.com/r/scala/comments/pl9ypm/turn_github_repo_into_library/)
 - [Scala3 upgrade: modules were resolved with conflicting cross-version suffixes in ProjectRef...?](https://www.reddit.com/r/scala/comments/pkkusj/scala3_upgrade_modules_were_resolved_with/)
 - [Play Framework](https://www.reddit.com/r/scala/comments/pk5rti/play_framework/)
@@ -277,8 +279,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala 3.0.2 released! (And 3.1 is coming soon)](https://www.reddit.com/r/scala/comments/pjpkhr/scala_302_released_and_31_is_coming_soon/)
 - [Monix Newtypes: Macro-free helpers for defining newtypes in Scala, cross-compiled to Scala 3](https://www.reddit.com/r/scala/comments/pjk58a/monix_newtypes_macrofree_helpers_for_defining/)
 - [[error] java.lang.NoSuchMethodError: scala.tools.nsc.Settings.bootclasspath()Lscala/tools/nsc/settings/AbsSettings$AbsSetting;](https://www.reddit.com/r/scala/comments/pjhex0/error_javalangnosuchmethoderror/)
-- [Scala Core : How to optimize your code in Universal Way? If-Else v/s PatternMatch](https://www.reddit.com/r/scala/comments/pjfrqd/scala_core_how_to_optimize_your_code_in_universal/)
-- [intro to Scala 3 macros](https://www.reddit.com/r/scala/comments/pje527/intro_to_scala_3_macros/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -269,6 +269,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [SBT can be tricky! Maybe this will help!](https://www.reddit.com/r/scala/comments/pmibfe/sbt_can_be_tricky_maybe_this_will_help/)
+- [A Collection of the Best Scala Tutorials For Beginners](https://www.reddit.com/r/scala/comments/pm57ky/a_collection_of_the_best_scala_tutorials_for/)
 - [Is Microservices Architecture the Silver Bullet? Mary Grygielski at Scalac's Event](https://www.reddit.com/r/scala/comments/plldf1/is_microservices_architecture_the_silver_bullet/)
 - [.contains method.](https://www.reddit.com/r/scala/comments/pld6pk/contains_method/)
 - [Turn github repo into library](https://www.reddit.com/r/scala/comments/pl9ypm/turn_github_repo_into_library/)
@@ -277,8 +279,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Braces in Scala 3 aren't just Optional, they're Consistent](https://www.reddit.com/r/scala/comments/pjunsl/braces_in_scala_3_arent_just_optional_theyre/)
 - [Heterogenous Maps and Dynamic Case Classes in Scala 3](https://www.reddit.com/r/scala/comments/pjqkbn/heterogenous_maps_and_dynamic_case_classes_in/)
 - [Scala 3.0.2 released! (And 3.1 is coming soon)](https://www.reddit.com/r/scala/comments/pjpkhr/scala_302_released_and_31_is_coming_soon/)
-- [Monix Newtypes: Macro-free helpers for defining newtypes in Scala, cross-compiled to Scala 3](https://www.reddit.com/r/scala/comments/pjk58a/monix_newtypes_macrofree_helpers_for_defining/)
-- [[error] java.lang.NoSuchMethodError: scala.tools.nsc.Settings.bootclasspath()Lscala/tools/nsc/settings/AbsSettings$AbsSetting;](https://www.reddit.com/r/scala/comments/pjhex0/error_javalangnosuchmethoderror/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

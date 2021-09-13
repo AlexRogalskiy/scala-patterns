@@ -269,6 +269,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Learn Scala (again) in 2021](https://www.reddit.com/r/scala/comments/pn037f/learn_scala_again_in_2021/)
 - [SBT can be tricky! Maybe this will help!](https://www.reddit.com/r/scala/comments/pmibfe/sbt_can_be_tricky_maybe_this_will_help/)
 - [A Collection of the Best Scala Tutorials For Beginners](https://www.reddit.com/r/scala/comments/pm57ky/a_collection_of_the_best_scala_tutorials_for/)
 - [Is Microservices Architecture the Silver Bullet? Mary Grygielski at Scalac's Event](https://www.reddit.com/r/scala/comments/plldf1/is_microservices_architecture_the_silver_bullet/)
@@ -278,7 +279,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Play Framework](https://www.reddit.com/r/scala/comments/pk5rti/play_framework/)
 - [Braces in Scala 3 aren't just Optional, they're Consistent](https://www.reddit.com/r/scala/comments/pjunsl/braces_in_scala_3_arent_just_optional_theyre/)
 - [Heterogenous Maps and Dynamic Case Classes in Scala 3](https://www.reddit.com/r/scala/comments/pjqkbn/heterogenous_maps_and_dynamic_case_classes_in/)
-- [Scala 3.0.2 released! (And 3.1 is coming soon)](https://www.reddit.com/r/scala/comments/pjpkhr/scala_302_released_and_31_is_coming_soon/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

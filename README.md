@@ -269,16 +269,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Design Microservice Architectures the Right Way](https://www.reddit.com/r/scala/comments/pnqtn7/design_microservice_architectures_the_right_way/)
+- [Data analysis in Scala](https://www.reddit.com/r/scala/comments/pnii1c/data_analysis_in_scala/)
+- [Scalqa - GUI Could Be Easy](https://www.reddit.com/r/scala/comments/pnfyre/scalqa_gui_could_be_easy/)
+- [This week in #Scala (Sep 13, 2021)](https://www.reddit.com/r/scala/comments/pneadf/this_week_in_scala_sep_13_2021/)
+- [Scala For Beginners - Crash Course - Part 5](https://www.reddit.com/r/scala/comments/pndi7w/scala_for_beginners_crash_course_part_5/)
+- [Scala Jobs- B2B contract- Remote](https://www.reddit.com/r/scala/comments/pnbm2j/scala_jobs_b2b_contract_remote/)
 - [Learn Scala (again) in 2021](https://www.reddit.com/r/scala/comments/pn037f/learn_scala_again_in_2021/)
 - [SBT can be tricky! Maybe this will help!](https://www.reddit.com/r/scala/comments/pmibfe/sbt_can_be_tricky_maybe_this_will_help/)
 - [A Collection of the Best Scala Tutorials For Beginners](https://www.reddit.com/r/scala/comments/pm57ky/a_collection_of_the_best_scala_tutorials_for/)
 - [Is Microservices Architecture the Silver Bullet? Mary Grygielski at Scalac's Event](https://www.reddit.com/r/scala/comments/plldf1/is_microservices_architecture_the_silver_bullet/)
-- [.contains method.](https://www.reddit.com/r/scala/comments/pld6pk/contains_method/)
-- [Turn github repo into library](https://www.reddit.com/r/scala/comments/pl9ypm/turn_github_repo_into_library/)
-- [Scala3 upgrade: modules were resolved with conflicting cross-version suffixes in ProjectRef...?](https://www.reddit.com/r/scala/comments/pkkusj/scala3_upgrade_modules_were_resolved_with/)
-- [Play Framework](https://www.reddit.com/r/scala/comments/pk5rti/play_framework/)
-- [Braces in Scala 3 aren't just Optional, they're Consistent](https://www.reddit.com/r/scala/comments/pjunsl/braces_in_scala_3_arent_just_optional_theyre/)
-- [Heterogenous Maps and Dynamic Case Classes in Scala 3](https://www.reddit.com/r/scala/comments/pjqkbn/heterogenous_maps_and_dynamic_case_classes_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -269,6 +269,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Java 17 / JDK 17: General Availability](https://www.reddit.com/r/scala/comments/pobv1y/java_17_jdk_17_general_availability/)
+- [Scala 3: What’s Changed Since Scala 3.0.0](https://www.reddit.com/r/scala/comments/po36gv/scala_3_whats_changed_since_scala_300/)
+- [Scala Vs Python Syntax Cheat Sheet](https://www.reddit.com/r/scala/comments/po02za/scala_vs_python_syntax_cheat_sheet/)
 - [Design Microservice Architectures the Right Way](https://www.reddit.com/r/scala/comments/pnqtn7/design_microservice_architectures_the_right_way/)
 - [Data analysis in Scala](https://www.reddit.com/r/scala/comments/pnii1c/data_analysis_in_scala/)
 - [Scalqa - GUI Could Be Easy](https://www.reddit.com/r/scala/comments/pnfyre/scalqa_gui_could_be_easy/)
@@ -276,9 +279,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala For Beginners - Crash Course - Part 5](https://www.reddit.com/r/scala/comments/pndi7w/scala_for_beginners_crash_course_part_5/)
 - [Scala Jobs- B2B contract- Remote](https://www.reddit.com/r/scala/comments/pnbm2j/scala_jobs_b2b_contract_remote/)
 - [Learn Scala (again) in 2021](https://www.reddit.com/r/scala/comments/pn037f/learn_scala_again_in_2021/)
-- [SBT can be tricky! Maybe this will help!](https://www.reddit.com/r/scala/comments/pmibfe/sbt_can_be_tricky_maybe_this_will_help/)
-- [A Collection of the Best Scala Tutorials For Beginners](https://www.reddit.com/r/scala/comments/pm57ky/a_collection_of_the_best_scala_tutorials_for/)
-- [Is Microservices Architecture the Silver Bullet? Mary Grygielski at Scalac's Event](https://www.reddit.com/r/scala/comments/plldf1/is_microservices_architecture_the_silver_bullet/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

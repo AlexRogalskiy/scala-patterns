@@ -269,16 +269,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [recreating builds with sbt and publishLocal](https://www.reddit.com/r/scala/comments/pp3zbo/recreating_builds_with_sbt_and_publishlocal/)
+- [Need help to understand if my solution fails in Codewars.](https://www.reddit.com/r/scala/comments/pourdh/need_help_to_understand_if_my_solution_fails_in/)
+- [Odersky comments on Don Syme's rejection of typeclasses for F#](https://www.reddit.com/r/scala/comments/poqk7f/odersky_comments_on_don_symes_rejection_of/)
+- [Preptember - Prepare For HacktoberFest 2021](https://www.reddit.com/r/scala/comments/popmoo/preptember_prepare_for_hacktoberfest_2021/)
+- [Rebuilding ZIO From Scratch With Adam and Kit- Friday 7 pm BST (Concurrency and Declarative Encoding)](https://www.reddit.com/r/scala/comments/ponlj0/rebuilding_zio_from_scratch_with_adam_and_kit/)
+- [Building Next-Gen Applications on JVM with ZIO by John De Goes at Capital One blog](https://www.reddit.com/r/scala/comments/polus7/building_nextgen_applications_on_jvm_with_zio_by/)
+- [How many of you have switched to VSCode + Metals?](https://www.reddit.com/r/scala/comments/pokre3/how_many_of_you_have_switched_to_vscode_metals/)
+- [Scala job search tips, if you please!](https://www.reddit.com/r/scala/comments/pogwkj/scala_job_search_tips_if_you_please/)
 - [Java 17 / JDK 17: General Availability](https://www.reddit.com/r/scala/comments/pobv1y/java_17_jdk_17_general_availability/)
 - [Scala 3: What’s Changed Since Scala 3.0.0](https://www.reddit.com/r/scala/comments/po36gv/scala_3_whats_changed_since_scala_300/)
-- [Scala Vs Python Syntax Cheat Sheet](https://www.reddit.com/r/scala/comments/po02za/scala_vs_python_syntax_cheat_sheet/)
-- [Design Microservice Architectures the Right Way](https://www.reddit.com/r/scala/comments/pnqtn7/design_microservice_architectures_the_right_way/)
-- [Data analysis in Scala](https://www.reddit.com/r/scala/comments/pnii1c/data_analysis_in_scala/)
-- [Scalqa - GUI Could Be Easy](https://www.reddit.com/r/scala/comments/pnfyre/scalqa_gui_could_be_easy/)
-- [This week in #Scala (Sep 13, 2021)](https://www.reddit.com/r/scala/comments/pneadf/this_week_in_scala_sep_13_2021/)
-- [Scala For Beginners - Crash Course - Part 5](https://www.reddit.com/r/scala/comments/pndi7w/scala_for_beginners_crash_course_part_5/)
-- [Scala Jobs- B2B contract- Remote](https://www.reddit.com/r/scala/comments/pnbm2j/scala_jobs_b2b_contract_remote/)
-- [Learn Scala (again) in 2021](https://www.reddit.com/r/scala/comments/pn037f/learn_scala_again_in_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

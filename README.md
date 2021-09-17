@@ -269,6 +269,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does anyone have recommendations for static analysis tools?](https://www.reddit.com/r/scala/comments/ppng4e/does_anyone_have_recommendations_for_static/)
+- [From the Scala World point of view](https://www.reddit.com/r/scala/comments/ppf5ph/from_the_scala_world_point_of_view/)
+- [Where the ZIO Roadmap is Headed Next? Guest appearance at Capital One blog by John A. De Goes](https://www.reddit.com/r/scala/comments/ppbzlt/where_the_zio_roadmap_is_headed_next_guest/)
 - [recreating builds with sbt and publishLocal](https://www.reddit.com/r/scala/comments/pp3zbo/recreating_builds_with_sbt_and_publishlocal/)
 - [Need help to understand if my solution fails in Codewars.](https://www.reddit.com/r/scala/comments/pourdh/need_help_to_understand_if_my_solution_fails_in/)
 - [Odersky comments on Don Syme's rejection of typeclasses for F#](https://www.reddit.com/r/scala/comments/poqk7f/odersky_comments_on_don_symes_rejection_of/)
@@ -276,9 +279,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Rebuilding ZIO From Scratch With Adam and Kit- Friday 7 pm BST (Concurrency and Declarative Encoding)](https://www.reddit.com/r/scala/comments/ponlj0/rebuilding_zio_from_scratch_with_adam_and_kit/)
 - [Building Next-Gen Applications on JVM with ZIO by John De Goes at Capital One blog](https://www.reddit.com/r/scala/comments/polus7/building_nextgen_applications_on_jvm_with_zio_by/)
 - [How many of you have switched to VSCode + Metals?](https://www.reddit.com/r/scala/comments/pokre3/how_many_of_you_have_switched_to_vscode_metals/)
-- [Scala job search tips, if you please!](https://www.reddit.com/r/scala/comments/pogwkj/scala_job_search_tips_if_you_please/)
-- [Java 17 / JDK 17: General Availability](https://www.reddit.com/r/scala/comments/pobv1y/java_17_jdk_17_general_availability/)
-- [Scala 3: What’s Changed Since Scala 3.0.0](https://www.reddit.com/r/scala/comments/po36gv/scala_3_whats_changed_since_scala_300/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

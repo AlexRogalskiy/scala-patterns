@@ -269,16 +269,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt Tutorial - Part 2](https://www.reddit.com/r/scala/comments/pqxgjq/sbt_tutorial_part_2/)
+- [How do FinTech companies use Scala](https://www.reddit.com/r/scala/comments/pqvhgs/how_do_fintech_companies_use_scala/)
+- [Making sense of Scala's regex syntax](https://www.reddit.com/r/scala/comments/pqkczs/making_sense_of_scalas_regex_syntax/)
+- [Akka became the de-facto solution for Scala web development?](https://www.reddit.com/r/scala/comments/pqjed7/akka_became_the_defacto_solution_for_scala_web/)
 - [Singleton types - Scala tutorial](https://www.reddit.com/r/scala/comments/ppznwf/singleton_types_scala_tutorial/)
 - [That's So Meta & Next-Generation Operations With ZIO (Tuesday, Oct 5th, 7 PM BST) by Damian Reeves (Capital One) & Adam Fraser (Ziverge)](https://www.reddit.com/r/scala/comments/ppzewb/thats_so_meta_nextgeneration_operations_with_zio/)
 - [JDK 17 on GitHub Actions](https://www.reddit.com/r/scala/comments/ppxsag/jdk_17_on_github_actions/)
 - [SBT creating dependencies on protos from different project](https://www.reddit.com/r/scala/comments/ppuwjg/sbt_creating_dependencies_on_protos_from/)
 - [Metals v0.10.7 is out with indentation fixes for Scala 3 and a built-in TASTy viewer!](https://www.reddit.com/r/scala/comments/pptroj/metals_v0107_is_out_with_indentation_fixes_for/)
 - [Does anyone have recommendations for static analysis tools?](https://www.reddit.com/r/scala/comments/ppng4e/does_anyone_have_recommendations_for_static/)
-- [Where the ZIO Roadmap is Headed Next? Guest appearance at Capital One blog by John A. De Goes](https://www.reddit.com/r/scala/comments/ppbzlt/where_the_zio_roadmap_is_headed_next_guest/)
-- [recreating builds with sbt and publishLocal](https://www.reddit.com/r/scala/comments/pp3zbo/recreating_builds_with_sbt_and_publishlocal/)
-- [Need help to understand if my solution fails in Codewars.](https://www.reddit.com/r/scala/comments/pourdh/need_help_to_understand_if_my_solution_fails_in/)
-- [Odersky comments on Don Syme's rejection of typeclasses for F#](https://www.reddit.com/r/scala/comments/poqk7f/odersky_comments_on_don_symes_rejection_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -269,16 +269,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 1.6.0-M1 released](https://www.reddit.com/r/scala/comments/prkj3r/sbt_160m1_released/)
+- [This week in #Scala (Sep 20, 2021)](https://www.reddit.com/r/scala/comments/prjdpl/this_week_in_scala_sep_20_2021/)
+- [Scala project from scratch #1 - rough idea, setting up, design decisions](https://www.reddit.com/r/scala/comments/pr8k60/scala_project_from_scratch_1_rough_idea_setting/)
+- [Optimizing Kafka Performance](https://www.reddit.com/r/scala/comments/pr45zg/optimizing_kafka_performance/)
+- [A simple ray tracer written in Scala (in-progress)](https://www.reddit.com/r/scala/comments/pqzg8k/a_simple_ray_tracer_written_in_scala_inprogress/)
 - [sbt Tutorial - Part 2](https://www.reddit.com/r/scala/comments/pqxgjq/sbt_tutorial_part_2/)
 - [How do FinTech companies use Scala](https://www.reddit.com/r/scala/comments/pqvhgs/how_do_fintech_companies_use_scala/)
 - [Making sense of Scala's regex syntax](https://www.reddit.com/r/scala/comments/pqkczs/making_sense_of_scalas_regex_syntax/)
 - [Akka became the de-facto solution for Scala web development?](https://www.reddit.com/r/scala/comments/pqjed7/akka_became_the_defacto_solution_for_scala_web/)
 - [Singleton types - Scala tutorial](https://www.reddit.com/r/scala/comments/ppznwf/singleton_types_scala_tutorial/)
-- [That's So Meta & Next-Generation Operations With ZIO (Tuesday, Oct 5th, 7 PM BST) by Damian Reeves (Capital One) & Adam Fraser (Ziverge)](https://www.reddit.com/r/scala/comments/ppzewb/thats_so_meta_nextgeneration_operations_with_zio/)
-- [JDK 17 on GitHub Actions](https://www.reddit.com/r/scala/comments/ppxsag/jdk_17_on_github_actions/)
-- [SBT creating dependencies on protos from different project](https://www.reddit.com/r/scala/comments/ppuwjg/sbt_creating_dependencies_on_protos_from/)
-- [Metals v0.10.7 is out with indentation fixes for Scala 3 and a built-in TASTy viewer!](https://www.reddit.com/r/scala/comments/pptroj/metals_v0107_is_out_with_indentation_fixes_for/)
-- [Does anyone have recommendations for static analysis tools?](https://www.reddit.com/r/scala/comments/ppng4e/does_anyone_have_recommendations_for_static/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

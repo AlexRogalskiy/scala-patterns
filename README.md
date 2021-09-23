@@ -269,16 +269,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Building ZIO from Scratch - Fiber Context and Error Handling with Kit and Adam September 24th at 7 pm BST - Zymposium](https://www.reddit.com/r/scala/comments/ptgco0/building_zio_from_scratch_fiber_context_and_error/)
+- [Learning a domestic feline framework](https://www.reddit.com/r/scala/comments/pt80c1/learning_a_domestic_feline_framework/)
 - [Good book for idiomatic Scala in 2021?](https://www.reddit.com/r/scala/comments/pspcif/good_book_for_idiomatic_scala_in_2021/)
 - [What's the difference between a ZLayer and a ZIO?](https://www.reddit.com/r/scala/comments/psp46x/whats_the_difference_between_a_zlayer_and_a_zio/)
-- [A-List of Most-Asked Scala Interview QNAs for Beginners](https://www.reddit.com/r/scala/comments/psg6e6/alist_of_mostasked_scala_interview_qnas_for/)
 - [Fast C-style for loops in Scala 3](https://www.reddit.com/r/scala/comments/ps8u5h/fast_cstyle_for_loops_in_scala_3/)
 - [What is the status Scala 3 with IntelliJ ?](https://www.reddit.com/r/scala/comments/ps3meg/what_is_the_status_scala_3_with_intellij/)
 - [Quick question: Where should I place my .jar files and what in the build.sbt file under the libraryDependencies should I write for them to be included?](https://www.reddit.com/r/scala/comments/prvkij/quick_question_where_should_i_place_my_jar_files/)
 - [Using BSP effectively in IntelliJ and Scala](https://www.reddit.com/r/scala/comments/prqdwx/using_bsp_effectively_in_intellij_and_scala/)
 - [Do you have someone experienced with Flutter and Scala? What is your stack, and what do you think about this?](https://www.reddit.com/r/scala/comments/proiji/do_you_have_someone_experienced_with_flutter_and/)
 - [sbt 1.6.0-M1 released](https://www.reddit.com/r/scala/comments/prkj3r/sbt_160m1_released/)
-- [This week in #Scala (Sep 20, 2021)](https://www.reddit.com/r/scala/comments/prjdpl/this_week_in_scala_sep_20_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

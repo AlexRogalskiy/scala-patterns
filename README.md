@@ -269,6 +269,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Akka/CE project ideas](https://www.reddit.com/r/scala/comments/pup583/akkace_project_ideas/)
+- [Anyone work at Twitter?](https://www.reddit.com/r/scala/comments/puly9a/anyone_work_at_twitter/)
 - [Scala3 typeclassery with graphs](https://www.reddit.com/r/scala/comments/ptzlh2/scala3_typeclassery_with_graphs/)
 - [What is the best book on problem solving? At least enlist 1 and also suggest the way to polish problem solving skills in programming?](https://www.reddit.com/r/scala/comments/ptpeet/what_is_the_best_book_on_problem_solving_at_least/)
 - [Building ZIO from Scratch - Fiber Context and Error Handling with Kit and Adam September 24th at 7 pm BST - Zymposium](https://www.reddit.com/r/scala/comments/ptgco0/building_zio_from_scratch_fiber_context_and_error/)
@@ -277,8 +279,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [What's the difference between a ZLayer and a ZIO?](https://www.reddit.com/r/scala/comments/psp46x/whats_the_difference_between_a_zlayer_and_a_zio/)
 - [Fast C-style for loops in Scala 3](https://www.reddit.com/r/scala/comments/ps8u5h/fast_cstyle_for_loops_in_scala_3/)
 - [What is the status Scala 3 with IntelliJ ?](https://www.reddit.com/r/scala/comments/ps3meg/what_is_the_status_scala_3_with_intellij/)
-- [Quick question: Where should I place my .jar files and what in the build.sbt file under the libraryDependencies should I write for them to be included?](https://www.reddit.com/r/scala/comments/prvkij/quick_question_where_should_i_place_my_jar_files/)
-- [Using BSP effectively in IntelliJ and Scala](https://www.reddit.com/r/scala/comments/prqdwx/using_bsp_effectively_in_intellij_and_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

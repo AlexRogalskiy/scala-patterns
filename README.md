@@ -269,6 +269,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Starlark 4.2.1](https://www.reddit.com/r/scala/comments/pw3ox3/starlark_421/)
 - [scalaxb 1.8.2 released](https://www.reddit.com/r/scala/comments/pvhkki/scalaxb_182_released/)
 - [Why does this become "UserClaim with Product"? Where does the Product come from?](https://www.reddit.com/r/scala/comments/pvcrbg/why_does_this_become_userclaim_with_product_where/)
 - [Scala project from scratch #2 - http4s, tapir, long fixes for simple issues](https://www.reddit.com/r/scala/comments/pv9j6g/scala_project_from_scratch_2_http4s_tapir_long/)
@@ -278,7 +279,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Anyone work at Twitter?](https://www.reddit.com/r/scala/comments/puly9a/anyone_work_at_twitter/)
 - [Scala3 typeclassery with graphs](https://www.reddit.com/r/scala/comments/ptzlh2/scala3_typeclassery_with_graphs/)
 - [What is the best book on problem solving? At least enlist 1 and also suggest the way to polish problem solving skills in programming?](https://www.reddit.com/r/scala/comments/ptpeet/what_is_the_best_book_on_problem_solving_at_least/)
-- [Building ZIO from Scratch - Fiber Context and Error Handling with Kit and Adam September 24th at 7 pm BST - Zymposium](https://www.reddit.com/r/scala/comments/ptgco0/building_zio_from_scratch_fiber_context_and_error/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -269,16 +269,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is `-language:experimental.fewerBraces` likely to land in a future release?](https://www.reddit.com/r/scala/comments/pws186/is_languageexperimentalfewerbraces_likely_to_land/)
+- [This week in #Scala (Sep 27, 2021)](https://www.reddit.com/r/scala/comments/pwgbxk/this_week_in_scala_sep_27_2021/)
+- [Effects Libraries "RuntoFuture" implementations](https://www.reddit.com/r/scala/comments/pwfbh1/effects_libraries_runtofuture_implementations/)
+- [What is Apache Kafka, and what are Kafka use cases?](https://www.reddit.com/r/scala/comments/pwcv0e/what_is_apache_kafka_and_what_are_kafka_use_cases/)
 - [Starlark 4.2.1](https://www.reddit.com/r/scala/comments/pw3ox3/starlark_421/)
 - [scalaxb 1.8.2 released](https://www.reddit.com/r/scala/comments/pvhkki/scalaxb_182_released/)
 - [Why does this become "UserClaim with Product"? Where does the Product come from?](https://www.reddit.com/r/scala/comments/pvcrbg/why_does_this_become_userclaim_with_product_where/)
 - [Scala project from scratch #2 - http4s, tapir, long fixes for simple issues](https://www.reddit.com/r/scala/comments/pv9j6g/scala_project_from_scratch_2_http4s_tapir_long/)
 - [notes for the "Programming Concurrency on the JVM" book](https://www.reddit.com/r/scala/comments/pv6uq7/notes_for_the_programming_concurrency_on_the_jvm/)
 - [Scalatra 2.8.1 released](https://www.reddit.com/r/scala/comments/pv1lz6/scalatra_281_released/)
-- [Akka/CE project ideas](https://www.reddit.com/r/scala/comments/pup583/akkace_project_ideas/)
-- [Anyone work at Twitter?](https://www.reddit.com/r/scala/comments/puly9a/anyone_work_at_twitter/)
-- [Scala3 typeclassery with graphs](https://www.reddit.com/r/scala/comments/ptzlh2/scala3_typeclassery_with_graphs/)
-- [What is the best book on problem solving? At least enlist 1 and also suggest the way to polish problem solving skills in programming?](https://www.reddit.com/r/scala/comments/ptpeet/what_is_the_best_book_on_problem_solving_at_least/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

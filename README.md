@@ -269,16 +269,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The right way to make SSR (Server Side Rendering).](https://www.reddit.com/r/scala/comments/pxgtqf/the_right_way_to_make_ssr_server_side_rendering/)
+- [Check all elements of a list meeting a criteria](https://www.reddit.com/r/scala/comments/pxe2uw/check_all_elements_of_a_list_meeting_a_criteria/)
+- [Map, MapLike update functions](https://www.reddit.com/r/scala/comments/pxckig/map_maplike_update_functions/)
+- [Akka Streams - Help with Custom Graph Stage.](https://www.reddit.com/r/scala/comments/pxbod5/akka_streams_help_with_custom_graph_stage/)
+- [Using Mockito with ZIO Test?](https://www.reddit.com/r/scala/comments/pxakhe/using_mockito_with_zio_test/)
+- [[Interview] Working at ALICE Technologies - Build an AI-powered Construction Simulation Platform using Scala](https://www.reddit.com/r/scala/comments/px85lo/interview_working_at_alice_technologies_build_an/)
 - [Is `-language:experimental.fewerBraces` likely to land in a future release?](https://www.reddit.com/r/scala/comments/pws186/is_languageexperimentalfewerbraces_likely_to_land/)
 - [This week in #Scala (Sep 27, 2021)](https://www.reddit.com/r/scala/comments/pwgbxk/this_week_in_scala_sep_27_2021/)
 - [Effects Libraries "RuntoFuture" implementations](https://www.reddit.com/r/scala/comments/pwfbh1/effects_libraries_runtofuture_implementations/)
 - [What is Apache Kafka, and what are Kafka use cases?](https://www.reddit.com/r/scala/comments/pwcv0e/what_is_apache_kafka_and_what_are_kafka_use_cases/)
-- [Starlark 4.2.1](https://www.reddit.com/r/scala/comments/pw3ox3/starlark_421/)
-- [scalaxb 1.8.2 released](https://www.reddit.com/r/scala/comments/pvhkki/scalaxb_182_released/)
-- [Why does this become "UserClaim with Product"? Where does the Product come from?](https://www.reddit.com/r/scala/comments/pvcrbg/why_does_this_become_userclaim_with_product_where/)
-- [Scala project from scratch #2 - http4s, tapir, long fixes for simple issues](https://www.reddit.com/r/scala/comments/pv9j6g/scala_project_from_scratch_2_http4s_tapir_long/)
-- [notes for the "Programming Concurrency on the JVM" book](https://www.reddit.com/r/scala/comments/pv6uq7/notes_for_the_programming_concurrency_on_the_jvm/)
-- [Scalatra 2.8.1 released](https://www.reddit.com/r/scala/comments/pv1lz6/scalatra_281_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

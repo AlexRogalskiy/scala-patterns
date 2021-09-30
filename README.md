@@ -269,6 +269,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Release John Snow Labs Spark-NLP 3.3.0: New ALBERT, XLNet, RoBERTa, XLM-RoBERTa, and Longformer for Token Classification, 50x times faster to save models, new ways to discover pretrained models and pipelines, new state-of-the-art models, and lots more!](https://www.reddit.com/r/scala/comments/pxxkwj/release_john_snow_labs_sparknlp_330_new_albert/)
+- [Common stack/tools for REST application with storage](https://www.reddit.com/r/scala/comments/pxqlmg/common_stacktools_for_rest_application_with/)
+- [What is a transitive dependency?](https://www.reddit.com/r/scala/comments/pxm7tm/what_is_a_transitive_dependency/)
 - [The right way to make SSR (Server Side Rendering).](https://www.reddit.com/r/scala/comments/pxgtqf/the_right_way_to_make_ssr_server_side_rendering/)
 - [Check all elements of a list meeting a criteria](https://www.reddit.com/r/scala/comments/pxe2uw/check_all_elements_of_a_list_meeting_a_criteria/)
 - [Map, MapLike update functions](https://www.reddit.com/r/scala/comments/pxckig/map_maplike_update_functions/)
@@ -276,9 +279,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Using Mockito with ZIO Test?](https://www.reddit.com/r/scala/comments/pxakhe/using_mockito_with_zio_test/)
 - [[Interview] Working at ALICE Technologies - Build an AI-powered Construction Simulation Platform using Scala](https://www.reddit.com/r/scala/comments/px85lo/interview_working_at_alice_technologies_build_an/)
 - [Is `-language:experimental.fewerBraces` likely to land in a future release?](https://www.reddit.com/r/scala/comments/pws186/is_languageexperimentalfewerbraces_likely_to_land/)
-- [This week in #Scala (Sep 27, 2021)](https://www.reddit.com/r/scala/comments/pwgbxk/this_week_in_scala_sep_27_2021/)
-- [Effects Libraries "RuntoFuture" implementations](https://www.reddit.com/r/scala/comments/pwfbh1/effects_libraries_runtofuture_implementations/)
-- [What is Apache Kafka, and what are Kafka use cases?](https://www.reddit.com/r/scala/comments/pwcv0e/what_is_apache_kafka_and_what_are_kafka_use_cases/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

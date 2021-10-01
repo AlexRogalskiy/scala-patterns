@@ -269,16 +269,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why is this not running?](https://www.reddit.com/r/scala/comments/pytm69/why_is_this_not_running/)
+- [Your favorite CRUD](https://www.reddit.com/r/scala/comments/pyovv7/your_favorite_crud/)
+- [Scala versions cheatsheet](https://www.reddit.com/r/scala/comments/pyfbi7/scala_versions_cheatsheet/)
+- [https://scalac.io/blog/why-does-scala-win-against-kotlin-senior-engineers-opinion/](https://www.reddit.com/r/scala/comments/pyez80/httpsscalacioblogwhydoesscalawinagainstkotlinsenio/)
+- [As a scala data engineer, is it necessary to learn functional programming libs such as Cats?](https://www.reddit.com/r/scala/comments/pyaral/as_a_scala_data_engineer_is_it_necessary_to_learn/)
 - [Release John Snow Labs Spark-NLP 3.3.0: New ALBERT, XLNet, RoBERTa, XLM-RoBERTa, and Longformer for Token Classification, 50x times faster to save models, new ways to discover pretrained models and pipelines, new state-of-the-art models, and lots more!](https://www.reddit.com/r/scala/comments/pxxkwj/release_john_snow_labs_sparknlp_330_new_albert/)
 - [Common stack/tools for REST application with storage](https://www.reddit.com/r/scala/comments/pxqlmg/common_stacktools_for_rest_application_with/)
 - [What is a transitive dependency?](https://www.reddit.com/r/scala/comments/pxm7tm/what_is_a_transitive_dependency/)
 - [The right way to make SSR (Server Side Rendering).](https://www.reddit.com/r/scala/comments/pxgtqf/the_right_way_to_make_ssr_server_side_rendering/)
 - [Check all elements of a list meeting a criteria](https://www.reddit.com/r/scala/comments/pxe2uw/check_all_elements_of_a_list_meeting_a_criteria/)
-- [Map, MapLike update functions](https://www.reddit.com/r/scala/comments/pxckig/map_maplike_update_functions/)
-- [Akka Streams - Help with Custom Graph Stage.](https://www.reddit.com/r/scala/comments/pxbod5/akka_streams_help_with_custom_graph_stage/)
-- [Using Mockito with ZIO Test?](https://www.reddit.com/r/scala/comments/pxakhe/using_mockito_with_zio_test/)
-- [[Interview] Working at ALICE Technologies - Build an AI-powered Construction Simulation Platform using Scala](https://www.reddit.com/r/scala/comments/px85lo/interview_working_at_alice_technologies_build_an/)
-- [Is `-language:experimental.fewerBraces` likely to land in a future release?](https://www.reddit.com/r/scala/comments/pws186/is_languageexperimentalfewerbraces_likely_to_land/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

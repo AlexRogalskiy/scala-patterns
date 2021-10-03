@@ -269,6 +269,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Metals with Multiple Roots in a Workspace](https://www.reddit.com/r/scala/comments/q06ll0/metals_with_multiple_roots_in_a_workspace/)
+- [Hitler reacts to functional programming](https://www.reddit.com/r/scala/comments/q05btz/hitler_reacts_to_functional_programming/)
+- [Scala project from scratch #3 - compiling the client with GraalVM Native Image](https://www.reddit.com/r/scala/comments/pzuqee/scala_project_from_scratch_3_compiling_the_client/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/pzb05q/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Implementing behavior, FP and the new implicits](https://www.reddit.com/r/scala/comments/pz8ic4/implementing_behavior_fp_and_the_new_implicits/)
 - [Guillaume Martres: An Interactive Compiler -- New Tooling Talks episode out!](https://www.reddit.com/r/scala/comments/pz858i/guillaume_martres_an_interactive_compiler_new/)
@@ -276,9 +279,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Why is this not running?](https://www.reddit.com/r/scala/comments/pytm69/why_is_this_not_running/)
 - [Your favorite CRUD](https://www.reddit.com/r/scala/comments/pyovv7/your_favorite_crud/)
 - [Scala versions cheatsheet](https://www.reddit.com/r/scala/comments/pyfbi7/scala_versions_cheatsheet/)
-- [https://scalac.io/blog/why-does-scala-win-against-kotlin-senior-engineers-opinion/](https://www.reddit.com/r/scala/comments/pyez80/httpsscalacioblogwhydoesscalawinagainstkotlinsenio/)
-- [As a scala data engineer, is it necessary to learn functional programming libs such as Cats?](https://www.reddit.com/r/scala/comments/pyaral/as_a_scala_data_engineer_is_it_necessary_to_learn/)
-- [Release John Snow Labs Spark-NLP 3.3.0: New ALBERT, XLNet, RoBERTa, XLM-RoBERTa, and Longformer for Token Classification, 50x times faster to save models, new ways to discover pretrained models and pipelines, new state-of-the-art models, and lots more!](https://www.reddit.com/r/scala/comments/pxxkwj/release_john_snow_labs_sparknlp_330_new_albert/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

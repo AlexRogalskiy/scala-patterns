@@ -269,6 +269,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [kubernetes-client: A Kubernetes client for Scala now compiled for Scala 3!](https://www.reddit.com/r/scala/comments/q0ue37/kubernetesclient_a_kubernetes_client_for_scala/)
+- [This week in #Scala (Oct 4, 2021)](https://www.reddit.com/r/scala/comments/q0sive/this_week_in_scala_oct_4_2021/)
+- [Regex works in tester, but not in Scala](https://www.reddit.com/r/scala/comments/q0kviu/regex_works_in_tester_but_not_in_scala/)
 - [Metals with Multiple Roots in a Workspace](https://www.reddit.com/r/scala/comments/q06ll0/metals_with_multiple_roots_in_a_workspace/)
 - [Hitler reacts to functional programming](https://www.reddit.com/r/scala/comments/q05btz/hitler_reacts_to_functional_programming/)
 - [Scala project from scratch #3 - compiling the client with GraalVM Native Image](https://www.reddit.com/r/scala/comments/pzuqee/scala_project_from_scratch_3_compiling_the_client/)
@@ -276,9 +279,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Implementing behavior, FP and the new implicits](https://www.reddit.com/r/scala/comments/pz8ic4/implementing_behavior_fp_and_the_new_implicits/)
 - [Guillaume Martres: An Interactive Compiler -- New Tooling Talks episode out!](https://www.reddit.com/r/scala/comments/pz858i/guillaume_martres_an_interactive_compiler_new/)
 - [Mocking with scala3](https://www.reddit.com/r/scala/comments/pz175l/mocking_with_scala3/)
-- [Why is this not running?](https://www.reddit.com/r/scala/comments/pytm69/why_is_this_not_running/)
-- [Your favorite CRUD](https://www.reddit.com/r/scala/comments/pyovv7/your_favorite_crud/)
-- [Scala versions cheatsheet](https://www.reddit.com/r/scala/comments/pyfbi7/scala_versions_cheatsheet/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

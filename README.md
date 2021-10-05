@@ -269,6 +269,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Install Scala 3 on Mac m1](https://www.reddit.com/r/scala/comments/q1acoy/install_scala_3_on_mac_m1/)
 - [kubernetes-client: A Kubernetes client for Scala now compiled for Scala 3!](https://www.reddit.com/r/scala/comments/q0ue37/kubernetesclient_a_kubernetes_client_for_scala/)
 - [This week in #Scala (Oct 4, 2021)](https://www.reddit.com/r/scala/comments/q0sive/this_week_in_scala_oct_4_2021/)
 - [Regex works in tester, but not in Scala](https://www.reddit.com/r/scala/comments/q0kviu/regex_works_in_tester_but_not_in_scala/)
@@ -278,7 +279,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/pzb05q/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Implementing behavior, FP and the new implicits](https://www.reddit.com/r/scala/comments/pz8ic4/implementing_behavior_fp_and_the_new_implicits/)
 - [Guillaume Martres: An Interactive Compiler -- New Tooling Talks episode out!](https://www.reddit.com/r/scala/comments/pz858i/guillaume_martres_an_interactive_compiler_new/)
-- [Mocking with scala3](https://www.reddit.com/r/scala/comments/pz175l/mocking_with_scala3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -258,6 +258,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 
 [![Stargazers over time](https://starchart.cc/AlexRogalskiy/scala-patterns.svg)][stars_chart]
 
+[![Statistics report](https://cauldron.io/project/5124/stats.svg)][stats_chart]
+
 ## 📎 *OpenGraph Card*
 
 <p align="center" style="text-align:center;">
@@ -385,6 +387,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 [stars]: https://github.com/AlexRogalskiy/scala-patterns/stargazers
 
 [stars_chart]: https://starchart.cc/AlexRogalskiy/scala-patterns
+
+[stats_chart]: https://cauldron.io/project/5124
 
 [contributors]: https://github.com/AlexRogalskiy/scala-patterns/graphs/contributors
 

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Blog Post Topic idea?](https://www.reddit.com/r/scala/comments/q2kbbk/blog_post_topic_idea/)
+- [Type-Level Programming in Scala 3, Part 1 - Ordering Types](https://www.reddit.com/r/scala/comments/q2din7/typelevel_programming_in_scala_3_part_1_ordering/)
 - [RIP Play Framework](https://www.reddit.com/r/scala/comments/q2ab56/rip_play_framework/)
 - [search repository](https://www.reddit.com/r/scala/comments/q29age/search_repository/)
 - [Calling C code from Scala](https://www.reddit.com/r/scala/comments/q21578/calling_c_code_from_scala/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala (Oct 4, 2021)](https://www.reddit.com/r/scala/comments/q0sive/this_week_in_scala_oct_4_2021/)
 - [Regex works in tester, but not in Scala](https://www.reddit.com/r/scala/comments/q0kviu/regex_works_in_tester_but_not_in_scala/)
 - [Metals with Multiple Roots in a Workspace](https://www.reddit.com/r/scala/comments/q06ll0/metals_with_multiple_roots_in_a_workspace/)
-- [Hitler reacts to functional programming](https://www.reddit.com/r/scala/comments/q05btz/hitler_reacts_to_functional_programming/)
-- [Scala project from scratch #3 - compiling the client with GraalVM Native Image](https://www.reddit.com/r/scala/comments/pzuqee/scala_project_from_scratch_3_compiling_the_client/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

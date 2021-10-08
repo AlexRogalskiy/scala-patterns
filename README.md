@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Apache Spark: Bucketing and Partitioning. Scala](https://www.reddit.com/r/scala/comments/q3gk3m/apache_spark_bucketing_and_partitioning_scala/)
+- [OCR, find text in image library ?](https://www.reddit.com/r/scala/comments/q3fxvx/ocr_find_text_in_image_library/)
+- [How to get started with Play, Akka and Spark in real-world applications?](https://www.reddit.com/r/scala/comments/q310u1/how_to_get_started_with_play_akka_and_spark_in/)
 - [Blog Post Topic idea?](https://www.reddit.com/r/scala/comments/q2kbbk/blog_post_topic_idea/)
 - [Type-Level Programming in Scala 3, Part 1 - Ordering Types](https://www.reddit.com/r/scala/comments/q2din7/typelevel_programming_in_scala_3_part_1_ordering/)
 - [RIP Play Framework](https://www.reddit.com/r/scala/comments/q2ab56/rip_play_framework/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Calling C code from Scala](https://www.reddit.com/r/scala/comments/q21578/calling_c_code_from_scala/)
 - [Install Scala 3 on Mac m1](https://www.reddit.com/r/scala/comments/q1acoy/install_scala_3_on_mac_m1/)
 - [kubernetes-client: A Kubernetes client for Scala now compiled for Scala 3!](https://www.reddit.com/r/scala/comments/q0ue37/kubernetesclient_a_kubernetes_client_for_scala/)
-- [This week in #Scala (Oct 4, 2021)](https://www.reddit.com/r/scala/comments/q0sive/this_week_in_scala_oct_4_2021/)
-- [Regex works in tester, but not in Scala](https://www.reddit.com/r/scala/comments/q0kviu/regex_works_in_tester_but_not_in_scala/)
-- [Metals with Multiple Roots in a Workspace](https://www.reddit.com/r/scala/comments/q06ll0/metals_with_multiple_roots_in_a_workspace/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Testing client/server compatibility + error handling - Scala Project From Scratch #4](https://www.reddit.com/r/scala/comments/q5gmk6/testing_clientserver_compatibility_error_handling/)
+- [This week in #Scala (Oct 11, 2021)](https://www.reddit.com/r/scala/comments/q5e8lz/this_week_in_scala_oct_11_2021/)
 - ["Programming in Scala" Review](https://www.reddit.com/r/scala/comments/q4x6ec/programming_in_scala_review/)
 - [Use cypress in Scala](https://www.reddit.com/r/scala/comments/q4qynw/use_cypress_in_scala/)
 - [Examples of contravariant functors?](https://www.reddit.com/r/scala/comments/q4kzju/examples_of_contravariant_functors/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to get started with Play, Akka and Spark in real-world applications?](https://www.reddit.com/r/scala/comments/q310u1/how_to_get_started_with_play_akka_and_spark_in/)
 - [Blog Post Topic idea?](https://www.reddit.com/r/scala/comments/q2kbbk/blog_post_topic_idea/)
 - [Type-Level Programming in Scala 3, Part 1 - Ordering Types](https://www.reddit.com/r/scala/comments/q2din7/typelevel_programming_in_scala_3_part_1_ordering/)
-- [RIP Play Framework](https://www.reddit.com/r/scala/comments/q2ab56/rip_play_framework/)
-- [search repository](https://www.reddit.com/r/scala/comments/q29age/search_repository/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

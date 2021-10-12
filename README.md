@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do i read a csv file and parse it by , but ignore "ewf,wef" ?](https://www.reddit.com/r/scala/comments/q659pl/how_do_i_read_a_csv_file_and_parse_it_by_but/)
+- [Scala string character replacements trough index](https://www.reddit.com/r/scala/comments/q62kq1/scala_string_character_replacements_trough_index/)
+- [Scala Cookbook, 2nd Edition ebook](https://www.reddit.com/r/scala/comments/q61lq3/scala_cookbook_2nd_edition_ebook/)
+- [Akka Serverless: a hammer to nail all your business requirements. Akka](https://www.reddit.com/r/scala/comments/q60zll/akka_serverless_a_hammer_to_nail_all_your/)
+- [Functional Programming in Scala book suggestions](https://www.reddit.com/r/scala/comments/q5yrvv/functional_programming_in_scala_book_suggestions/)
+- [Scala on the GPU?](https://www.reddit.com/r/scala/comments/q5uhxa/scala_on_the_gpu/)
+- [New course on Udemy: Supercharge Scala Future](https://www.reddit.com/r/scala/comments/q5rix5/new_course_on_udemy_supercharge_scala_future/)
+- [Can someone provide us a contrast example between imperative and functional?](https://www.reddit.com/r/scala/comments/q5qcsa/can_someone_provide_us_a_contrast_example_between/)
+- [A Dive into how Metals works](https://www.reddit.com/r/scala/comments/q5qako/a_dive_into_how_metals_works/)
 - [Testing client/server compatibility + error handling - Scala Project From Scratch #4](https://www.reddit.com/r/scala/comments/q5gmk6/testing_clientserver_compatibility_error_handling/)
-- [This week in #Scala (Oct 11, 2021)](https://www.reddit.com/r/scala/comments/q5e8lz/this_week_in_scala_oct_11_2021/)
-- ["Programming in Scala" Review](https://www.reddit.com/r/scala/comments/q4x6ec/programming_in_scala_review/)
-- [Use cypress in Scala](https://www.reddit.com/r/scala/comments/q4qynw/use_cypress_in_scala/)
-- [Examples of contravariant functors?](https://www.reddit.com/r/scala/comments/q4kzju/examples_of_contravariant_functors/)
-- [Apache Spark: Bucketing and Partitioning. Scala](https://www.reddit.com/r/scala/comments/q3gk3m/apache_spark_bucketing_and_partitioning_scala/)
-- [OCR, find text in image library ?](https://www.reddit.com/r/scala/comments/q3fxvx/ocr_find_text_in_image_library/)
-- [How to get started with Play, Akka and Spark in real-world applications?](https://www.reddit.com/r/scala/comments/q310u1/how_to_get_started_with_play_akka_and_spark_in/)
-- [Blog Post Topic idea?](https://www.reddit.com/r/scala/comments/q2kbbk/blog_post_topic_idea/)
-- [Type-Level Programming in Scala 3, Part 1 - Ordering Types](https://www.reddit.com/r/scala/comments/q2din7/typelevel_programming_in_scala_3_part_1_ordering/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

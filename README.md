@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Beginner scala project examples?](https://www.reddit.com/r/scala/comments/q6lpng/beginner_scala_project_examples/)
+- [Typeclass for generic type?](https://www.reddit.com/r/scala/comments/q6l5tp/typeclass_for_generic_type/)
+- [Slack3D - Simple 3D graphics library](https://www.reddit.com/r/scala/comments/q6iw46/slack3d_simple_3d_graphics_library/)
 - [How do i read a csv file and parse it by , but ignore "ewf,wef" ?](https://www.reddit.com/r/scala/comments/q659pl/how_do_i_read_a_csv_file_and_parse_it_by_but/)
-- [Scala string character replacements trough index](https://www.reddit.com/r/scala/comments/q62kq1/scala_string_character_replacements_trough_index/)
-- [Scala Cookbook, 2nd Edition ebook](https://www.reddit.com/r/scala/comments/q61lq3/scala_cookbook_2nd_edition_ebook/)
 - [Akka Serverless: a hammer to nail all your business requirements. Akka](https://www.reddit.com/r/scala/comments/q60zll/akka_serverless_a_hammer_to_nail_all_your/)
 - [Functional Programming in Scala book suggestions](https://www.reddit.com/r/scala/comments/q5yrvv/functional_programming_in_scala_book_suggestions/)
 - [Scala on the GPU?](https://www.reddit.com/r/scala/comments/q5uhxa/scala_on_the_gpu/)
 - [New course on Udemy: Supercharge Scala Future](https://www.reddit.com/r/scala/comments/q5rix5/new_course_on_udemy_supercharge_scala_future/)
 - [Can someone provide us a contrast example between imperative and functional?](https://www.reddit.com/r/scala/comments/q5qcsa/can_someone_provide_us_a_contrast_example_between/)
 - [A Dive into how Metals works](https://www.reddit.com/r/scala/comments/q5qako/a_dive_into_how_metals_works/)
-- [Testing client/server compatibility + error handling - Scala Project From Scratch #4](https://www.reddit.com/r/scala/comments/q5gmk6/testing_clientserver_compatibility_error_handling/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

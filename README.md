@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New to Scala](https://www.reddit.com/r/scala/comments/q85nu1/new_to_scala/)
 - [Why are we so miserly about "starring" github projects.](https://www.reddit.com/r/scala/comments/q7ikg2/why_are_we_so_miserly_about_starring_github/)
 - [Scalqa - Creating New Numerical Types](https://www.reddit.com/r/scala/comments/q7caoe/scalqa_creating_new_numerical_types/)
 - [Functional Programming with Scala3](https://www.reddit.com/r/scala/comments/q76wlr/functional_programming_with_scala3/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Typeclass for generic type?](https://www.reddit.com/r/scala/comments/q6l5tp/typeclass_for_generic_type/)
 - [Slack3D - Simple 3D graphics library](https://www.reddit.com/r/scala/comments/q6iw46/slack3d_simple_3d_graphics_library/)
 - [How do i read a csv file and parse it by , but ignore "ewf,wef" ?](https://www.reddit.com/r/scala/comments/q659pl/how_do_i_read_a_csv_file_and_parse_it_by_but/)
-- [Akka Serverless: a hammer to nail all your business requirements. Akka](https://www.reddit.com/r/scala/comments/q60zll/akka_serverless_a_hammer_to_nail_all_your/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

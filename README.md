@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 2.8 Book](https://www.reddit.com/r/scala/comments/q9n4mr/scala_28_book/)
+- [How do i process a cvs file into objects ?](https://www.reddit.com/r/scala/comments/q9lnvw/how_do_i_process_a_cvs_file_into_objects/)
+- [[ZIO] parallel sum](https://www.reddit.com/r/scala/comments/q9l27y/zio_parallel_sum/)
+- [Not getting the whole value to show](https://www.reddit.com/r/scala/comments/q9c81d/not_getting_the_whole_value_to_show/)
 - [New to Scala](https://www.reddit.com/r/scala/comments/q85nu1/new_to_scala/)
 - [Why are we so miserly about "starring" github projects.](https://www.reddit.com/r/scala/comments/q7ikg2/why_are_we_so_miserly_about_starring_github/)
 - [Scalqa - Creating New Numerical Types](https://www.reddit.com/r/scala/comments/q7caoe/scalqa_creating_new_numerical_types/)
 - [Functional Programming with Scala3](https://www.reddit.com/r/scala/comments/q76wlr/functional_programming_with_scala3/)
 - [Advantages of Scala](https://www.reddit.com/r/scala/comments/q76u5h/advantages_of_scala/)
 - [Help with complex mapping functions](https://www.reddit.com/r/scala/comments/q750r5/help_with_complex_mapping_functions/)
-- [Beginner scala project examples?](https://www.reddit.com/r/scala/comments/q6lpng/beginner_scala_project_examples/)
-- [Typeclass for generic type?](https://www.reddit.com/r/scala/comments/q6l5tp/typeclass_for_generic_type/)
-- [Slack3D - Simple 3D graphics library](https://www.reddit.com/r/scala/comments/q6iw46/slack3d_simple_3d_graphics_library/)
-- [How do i read a csv file and parse it by , but ignore "ewf,wef" ?](https://www.reddit.com/r/scala/comments/q659pl/how_do_i_read_a_csv_file_and_parse_it_by_but/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

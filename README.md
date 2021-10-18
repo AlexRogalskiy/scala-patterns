@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Where is this value coming from?](https://www.reddit.com/r/scala/comments/qa1unr/where_is_this_value_coming_from/)
+- [Newbie on scala & jobs](https://www.reddit.com/r/scala/comments/q9zpiz/newbie_on_scala_jobs/)
+- [Trait parameters in Scala3 - a feature no one asked for?](https://www.reddit.com/r/scala/comments/q9ysuj/trait_parameters_in_scala3_a_feature_no_one_asked/)
+- [How should I update my Scala 2 Play API project to use Scala 3 features?](https://www.reddit.com/r/scala/comments/q9vxaq/how_should_i_update_my_scala_2_play_api_project/)
 - [Scala 2.8 Book](https://www.reddit.com/r/scala/comments/q9n4mr/scala_28_book/)
 - [How do i process a cvs file into objects ?](https://www.reddit.com/r/scala/comments/q9lnvw/how_do_i_process_a_cvs_file_into_objects/)
 - [[ZIO] parallel sum](https://www.reddit.com/r/scala/comments/q9l27y/zio_parallel_sum/)
 - [Not getting the whole value to show](https://www.reddit.com/r/scala/comments/q9c81d/not_getting_the_whole_value_to_show/)
 - [New to Scala](https://www.reddit.com/r/scala/comments/q85nu1/new_to_scala/)
 - [Why are we so miserly about "starring" github projects.](https://www.reddit.com/r/scala/comments/q7ikg2/why_are_we_so_miserly_about_starring_github/)
-- [Scalqa - Creating New Numerical Types](https://www.reddit.com/r/scala/comments/q7caoe/scalqa_creating_new_numerical_types/)
-- [Functional Programming with Scala3](https://www.reddit.com/r/scala/comments/q76wlr/functional_programming_with_scala3/)
-- [Advantages of Scala](https://www.reddit.com/r/scala/comments/q76u5h/advantages_of_scala/)
-- [Help with complex mapping functions](https://www.reddit.com/r/scala/comments/q750r5/help_with_complex_mapping_functions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

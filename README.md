@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Confused over 2's complement in Scala/Java yielding different results for different numbers](https://www.reddit.com/r/scala/comments/qblyq5/confused_over_2s_complement_in_scalajava_yielding/)
+- [Scala and WebAssembly?](https://www.reddit.com/r/scala/comments/qbj6pu/scala_and_webassembly/)
+- [Programming with Functions #9: Try, for-comprehensions, and monadic laws](https://www.reddit.com/r/scala/comments/qbdgt2/programming_with_functions_9_try/)
+- [Which would be the scala way of building a modular/plugin based architecture application?](https://www.reddit.com/r/scala/comments/qbdbad/which_would_be_the_scala_way_of_building_a/)
+- [Why do candidates prefer fold over filter in job interviews?](https://www.reddit.com/r/scala/comments/qbban5/why_do_candidates_prefer_fold_over_filter_in_job/)
+- [I told you, it's hot! Speed up your circe up to 2x times! 🎃🎃](https://www.reddit.com/r/scala/comments/qb9qii/i_told_you_its_hot_speed_up_your_circe_up_to_2x/)
+- [New to Scala 2! Comfortable (as a student) with C and Python.](https://www.reddit.com/r/scala/comments/qb3zvm/new_to_scala_2_comfortable_as_a_student_with_c/)
 - [How is this calculating complexity?](https://www.reddit.com/r/scala/comments/qaydit/how_is_this_calculating_complexity/)
 - [Need to deal with squeryl LogicalBoolean](https://www.reddit.com/r/scala/comments/qarwo6/need_to_deal_with_squeryl_logicalboolean/)
 - [Scala 3.1.0 Released](https://www.reddit.com/r/scala/comments/qaqfz4/scala_310_released/)
-- [[HIRING] Backend SCALA Engineer](https://www.reddit.com/r/scala/comments/qamo67/hiring_backend_scala_engineer/)
-- [This week in #Scala (Oct 18, 2021)](https://www.reddit.com/r/scala/comments/qafblm/this_week_in_scala_oct_18_2021/)
-- [Where is this value coming from?](https://www.reddit.com/r/scala/comments/qa1unr/where_is_this_value_coming_from/)
-- [Newbie on scala & jobs](https://www.reddit.com/r/scala/comments/q9zpiz/newbie_on_scala_jobs/)
-- [Trait parameters in Scala3 - a feature no one asked for?](https://www.reddit.com/r/scala/comments/q9ysuj/trait_parameters_in_scala3_a_feature_no_one_asked/)
-- [How should I update my Scala 2 Play API project to use Scala 3 features?](https://www.reddit.com/r/scala/comments/q9vxaq/how_should_i_update_my_scala_2_play_api_project/)
-- [Scala 2.8 Book](https://www.reddit.com/r/scala/comments/q9n4mr/scala_28_book/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Deploying Flutter Apps to an Android Phone?](https://www.reddit.com/r/scala/comments/qcezb0/deploying_flutter_apps_to_an_android_phone/)
+- [On the future of Play Framework](https://www.reddit.com/r/scala/comments/qc64z7/on_the_future_of_play_framework/)
+- [Scala 3 and Spark?](https://www.reddit.com/r/scala/comments/qc12lh/scala_3_and_spark/)
 - [Confused over 2's complement in Scala/Java yielding different results for different numbers](https://www.reddit.com/r/scala/comments/qblyq5/confused_over_2s_complement_in_scalajava_yielding/)
 - [Scala and WebAssembly?](https://www.reddit.com/r/scala/comments/qbj6pu/scala_and_webassembly/)
 - [Programming with Functions #9: Try, for-comprehensions, and monadic laws](https://www.reddit.com/r/scala/comments/qbdgt2/programming_with_functions_9_try/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Why do candidates prefer fold over filter in job interviews?](https://www.reddit.com/r/scala/comments/qbban5/why_do_candidates_prefer_fold_over_filter_in_job/)
 - [I told you, it's hot! Speed up your circe up to 2x times! 🎃🎃](https://www.reddit.com/r/scala/comments/qb9qii/i_told_you_its_hot_speed_up_your_circe_up_to_2x/)
 - [New to Scala 2! Comfortable (as a student) with C and Python.](https://www.reddit.com/r/scala/comments/qb3zvm/new_to_scala_2_comfortable_as_a_student_with_c/)
-- [How is this calculating complexity?](https://www.reddit.com/r/scala/comments/qaydit/how_is_this_calculating_complexity/)
-- [Need to deal with squeryl LogicalBoolean](https://www.reddit.com/r/scala/comments/qarwo6/need_to_deal_with_squeryl_logicalboolean/)
-- [Scala 3.1.0 Released](https://www.reddit.com/r/scala/comments/qaqfz4/scala_310_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

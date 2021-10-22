@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Deploying Flutter Apps to an Android Phone?](https://www.reddit.com/r/scala/comments/qcezb0/deploying_flutter_apps_to_an_android_phone/)
+- [Scanner transducer in ZStream?](https://www.reddit.com/r/scala/comments/qczs1y/scanner_transducer_in_zstream/)
+- [How do i store csv values to show in HTTPS ?](https://www.reddit.com/r/scala/comments/qcz330/how_do_i_store_csv_values_to_show_in_https/)
+- [Scala Native 0.4.1 is here!](https://www.reddit.com/r/scala/comments/qcxrnf/scala_native_041_is_here/)
+- [Struggle to read csv file](https://www.reddit.com/r/scala/comments/qcvvt0/struggle_to_read_csv_file/)
+- [Mini-rant on the Scala community and Scala overspecialization.](https://www.reddit.com/r/scala/comments/qctp7i/minirant_on_the_scala_community_and_scala/)
+- [Will scala-native run without a garbage collector?](https://www.reddit.com/r/scala/comments/qcn9t9/will_scalanative_run_without_a_garbage_collector/)
+- [scala-js-dom v2.0.0 released! (scala-js-dom is the JS DOM API made accessible to Scala.js)](https://www.reddit.com/r/scala/comments/qcn0dp/scalajsdom_v200_released_scalajsdom_is_the_js_dom/)
+- [VSCode Metals](https://www.reddit.com/r/scala/comments/qclg34/vscode_metals/)
 - [On the future of Play Framework](https://www.reddit.com/r/scala/comments/qc64z7/on_the_future_of_play_framework/)
 - [Scala 3 and Spark?](https://www.reddit.com/r/scala/comments/qc12lh/scala_3_and_spark/)
-- [Confused over 2's complement in Scala/Java yielding different results for different numbers](https://www.reddit.com/r/scala/comments/qblyq5/confused_over_2s_complement_in_scalajava_yielding/)
-- [Scala and WebAssembly?](https://www.reddit.com/r/scala/comments/qbj6pu/scala_and_webassembly/)
-- [Programming with Functions #9: Try, for-comprehensions, and monadic laws](https://www.reddit.com/r/scala/comments/qbdgt2/programming_with_functions_9_try/)
-- [Which would be the scala way of building a modular/plugin based architecture application?](https://www.reddit.com/r/scala/comments/qbdbad/which_would_be_the_scala_way_of_building_a/)
-- [Why do candidates prefer fold over filter in job interviews?](https://www.reddit.com/r/scala/comments/qbban5/why_do_candidates_prefer_fold_over_filter_in_job/)
-- [I told you, it's hot! Speed up your circe up to 2x times! 🎃🎃](https://www.reddit.com/r/scala/comments/qb9qii/i_told_you_its_hot_speed_up_your_circe_up_to_2x/)
-- [New to Scala 2! Comfortable (as a student) with C and Python.](https://www.reddit.com/r/scala/comments/qb3zvm/new_to_scala_2_comfortable_as_a_student_with_c/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

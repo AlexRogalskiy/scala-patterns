@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is it worth to take a scala developer job](https://www.reddit.com/r/scala/comments/qdtxsp/is_it_worth_to_take_a_scala_developer_job/)
+- [scala3 + zio + dotty-cps-async field report](https://www.reddit.com/r/scala/comments/qdfce7/scala3_zio_dottycpsasync_field_report/)
 - [Scanner transducer in ZStream?](https://www.reddit.com/r/scala/comments/qczs1y/scanner_transducer_in_zstream/)
 - [How do i store csv values to show in HTTPS ?](https://www.reddit.com/r/scala/comments/qcz330/how_do_i_store_csv_values_to_show_in_https/)
 - [Scala Native 0.4.1 is here!](https://www.reddit.com/r/scala/comments/qcxrnf/scala_native_041_is_here/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Will scala-native run without a garbage collector?](https://www.reddit.com/r/scala/comments/qcn9t9/will_scalanative_run_without_a_garbage_collector/)
 - [scala-js-dom v2.0.0 released! (scala-js-dom is the JS DOM API made accessible to Scala.js)](https://www.reddit.com/r/scala/comments/qcn0dp/scalajsdom_v200_released_scalajsdom_is_the_js_dom/)
 - [VSCode Metals](https://www.reddit.com/r/scala/comments/qclg34/vscode_metals/)
-- [On the future of Play Framework](https://www.reddit.com/r/scala/comments/qc64z7/on_the_future_of_play_framework/)
-- [Scala 3 and Spark?](https://www.reddit.com/r/scala/comments/qc12lh/scala_3_and_spark/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

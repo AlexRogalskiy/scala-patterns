@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Curiousity Question (by a beginner who don't know much)](https://www.reddit.com/r/scala/comments/qe2426/curiousity_question_by_a_beginner_who_dont_know/)
 - [Is it worth to take a scala developer job](https://www.reddit.com/r/scala/comments/qdtxsp/is_it_worth_to_take_a_scala_developer_job/)
 - [scala3 + zio + dotty-cps-async field report](https://www.reddit.com/r/scala/comments/qdfce7/scala3_zio_dottycpsasync_field_report/)
 - [Scanner transducer in ZStream?](https://www.reddit.com/r/scala/comments/qczs1y/scanner_transducer_in_zstream/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Mini-rant on the Scala community and Scala overspecialization.](https://www.reddit.com/r/scala/comments/qctp7i/minirant_on_the_scala_community_and_scala/)
 - [Will scala-native run without a garbage collector?](https://www.reddit.com/r/scala/comments/qcn9t9/will_scalanative_run_without_a_garbage_collector/)
 - [scala-js-dom v2.0.0 released! (scala-js-dom is the JS DOM API made accessible to Scala.js)](https://www.reddit.com/r/scala/comments/qcn0dp/scalajsdom_v200_released_scalajsdom_is_the_js_dom/)
-- [VSCode Metals](https://www.reddit.com/r/scala/comments/qclg34/vscode_metals/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

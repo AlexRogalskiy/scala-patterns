@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala (Oct 25, 2021)](https://www.reddit.com/r/scala/comments/qf1dtn/this_week_in_scala_oct_25_2021/)
+- [Overriding equals function for a sealed abstract class / sealed trait](https://www.reddit.com/r/scala/comments/qevxif/overriding_equals_function_for_a_sealed_abstract/)
+- [Akka on a home cluster](https://www.reddit.com/r/scala/comments/qer4zp/akka_on_a_home_cluster/)
+- [Scala learning path for new developer ?](https://www.reddit.com/r/scala/comments/qekyos/scala_learning_path_for_new_developer/)
+- [What is the future of Play Framework ?](https://www.reddit.com/r/scala/comments/qekmye/what_is_the_future_of_play_framework/)
 - [Curiousity Question (by a beginner who don't know much)](https://www.reddit.com/r/scala/comments/qe2426/curiousity_question_by_a_beginner_who_dont_know/)
 - [Is it worth to take a scala developer job](https://www.reddit.com/r/scala/comments/qdtxsp/is_it_worth_to_take_a_scala_developer_job/)
 - [scala3 + zio + dotty-cps-async field report](https://www.reddit.com/r/scala/comments/qdfce7/scala3_zio_dottycpsasync_field_report/)
 - [Scanner transducer in ZStream?](https://www.reddit.com/r/scala/comments/qczs1y/scanner_transducer_in_zstream/)
 - [How do i store csv values to show in HTTPS ?](https://www.reddit.com/r/scala/comments/qcz330/how_do_i_store_csv_values_to_show_in_https/)
-- [Scala Native 0.4.1 is here!](https://www.reddit.com/r/scala/comments/qcxrnf/scala_native_041_is_here/)
-- [Struggle to read csv file](https://www.reddit.com/r/scala/comments/qcvvt0/struggle_to_read_csv_file/)
-- [Mini-rant on the Scala community and Scala overspecialization.](https://www.reddit.com/r/scala/comments/qctp7i/minirant_on_the_scala_community_and_scala/)
-- [Will scala-native run without a garbage collector?](https://www.reddit.com/r/scala/comments/qcn9t9/will_scalanative_run_without_a_garbage_collector/)
-- [scala-js-dom v2.0.0 released! (scala-js-dom is the JS DOM API made accessible to Scala.js)](https://www.reddit.com/r/scala/comments/qcn0dp/scalajsdom_v200_released_scalajsdom_is_the_js_dom/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for a little help](https://www.reddit.com/r/scala/comments/qfkcan/looking_for_a_little_help/)
+- [Iron v.1.1.2 is available](https://www.reddit.com/r/scala/comments/qferyv/iron_v112_is_available/)
+- [Functional Programming](https://www.reddit.com/r/scala/comments/qfc4tt/functional_programming/)
+- [Typeclasses and algebraic data types?](https://www.reddit.com/r/scala/comments/qf6u8q/typeclasses_and_algebraic_data_types/)
 - [This week in #Scala (Oct 25, 2021)](https://www.reddit.com/r/scala/comments/qf1dtn/this_week_in_scala_oct_25_2021/)
 - [Overriding equals function for a sealed abstract class / sealed trait](https://www.reddit.com/r/scala/comments/qevxif/overriding_equals_function_for_a_sealed_abstract/)
 - [Akka on a home cluster](https://www.reddit.com/r/scala/comments/qer4zp/akka_on_a_home_cluster/)
 - [Scala learning path for new developer ?](https://www.reddit.com/r/scala/comments/qekyos/scala_learning_path_for_new_developer/)
 - [What is the future of Play Framework ?](https://www.reddit.com/r/scala/comments/qekmye/what_is_the_future_of_play_framework/)
 - [Curiousity Question (by a beginner who don't know much)](https://www.reddit.com/r/scala/comments/qe2426/curiousity_question_by_a_beginner_who_dont_know/)
-- [Is it worth to take a scala developer job](https://www.reddit.com/r/scala/comments/qdtxsp/is_it_worth_to_take_a_scala_developer_job/)
-- [scala3 + zio + dotty-cps-async field report](https://www.reddit.com/r/scala/comments/qdfce7/scala3_zio_dottycpsasync_field_report/)
-- [Scanner transducer in ZStream?](https://www.reddit.com/r/scala/comments/qczs1y/scanner_transducer_in_zstream/)
-- [How do i store csv values to show in HTTPS ?](https://www.reddit.com/r/scala/comments/qcz330/how_do_i_store_csv_values_to_show_in_https/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

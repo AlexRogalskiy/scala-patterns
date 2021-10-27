@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Metals v0.10.8 - Tons of new features and Support for Scala 3.1.0!](https://www.reddit.com/r/scala/comments/qg5v6e/metals_v0108_tons_of_new_features_and_support_for/)
+- [Apache Spark: All about Serialization.](https://www.reddit.com/r/scala/comments/qg25dy/apache_spark_all_about_serialization/)
+- [ECScala - An ECS Scala framework](https://www.reddit.com/r/scala/comments/qg21ag/ecscala_an_ecs_scala_framework/)
 - [Looking for a little help](https://www.reddit.com/r/scala/comments/qfkcan/looking_for_a_little_help/)
 - [Iron v.1.1.2 is available](https://www.reddit.com/r/scala/comments/qferyv/iron_v112_is_available/)
 - [Functional Programming](https://www.reddit.com/r/scala/comments/qfc4tt/functional_programming/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala (Oct 25, 2021)](https://www.reddit.com/r/scala/comments/qf1dtn/this_week_in_scala_oct_25_2021/)
 - [Overriding equals function for a sealed abstract class / sealed trait](https://www.reddit.com/r/scala/comments/qevxif/overriding_equals_function_for_a_sealed_abstract/)
 - [Akka on a home cluster](https://www.reddit.com/r/scala/comments/qer4zp/akka_on_a_home_cluster/)
-- [Scala learning path for new developer ?](https://www.reddit.com/r/scala/comments/qekyos/scala_learning_path_for_new_developer/)
-- [What is the future of Play Framework ?](https://www.reddit.com/r/scala/comments/qekmye/what_is_the_future_of_play_framework/)
-- [Curiousity Question (by a beginner who don't know much)](https://www.reddit.com/r/scala/comments/qe2426/curiousity_question_by_a_beginner_who_dont_know/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

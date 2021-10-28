@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [how can i get the type of the argument that was passed to my function](https://www.reddit.com/r/scala/comments/qh9jf8/how_can_i_get_the_type_of_the_argument_that_was/)
+- [Representing Monads with Capabilities](https://www.reddit.com/r/scala/comments/qh5sf2/representing_monads_with_capabilities/)
 - [Metals v0.10.8 - Tons of new features and Support for Scala 3.1.0!](https://www.reddit.com/r/scala/comments/qg5v6e/metals_v0108_tons_of_new_features_and_support_for/)
 - [Apache Spark: All about Serialization.](https://www.reddit.com/r/scala/comments/qg25dy/apache_spark_all_about_serialization/)
 - [ECScala - An ECS Scala framework](https://www.reddit.com/r/scala/comments/qg21ag/ecscala_an_ecs_scala_framework/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Functional Programming](https://www.reddit.com/r/scala/comments/qfc4tt/functional_programming/)
 - [Typeclasses and algebraic data types?](https://www.reddit.com/r/scala/comments/qf6u8q/typeclasses_and_algebraic_data_types/)
 - [This week in #Scala (Oct 25, 2021)](https://www.reddit.com/r/scala/comments/qf1dtn/this_week_in_scala_oct_25_2021/)
-- [Overriding equals function for a sealed abstract class / sealed trait](https://www.reddit.com/r/scala/comments/qevxif/overriding_equals_function_for_a_sealed_abstract/)
-- [Akka on a home cluster](https://www.reddit.com/r/scala/comments/qer4zp/akka_on_a_home_cluster/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

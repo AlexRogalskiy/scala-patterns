@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Which of these books do you recommend for a beginner?](https://www.reddit.com/r/scala/comments/qilxek/which_of_these_books_do_you_recommend_for_a/)
+- [Best Scala framework / libraries out there ?](https://www.reddit.com/r/scala/comments/qilhao/best_scala_framework_libraries_out_there/)
+- [I am trying to play with cats but I cant get this build sbt to work right](https://www.reddit.com/r/scala/comments/qijp12/i_am_trying_to_play_with_cats_but_i_cant_get_this/)
+- [Kafka Streams with Scala](https://www.reddit.com/r/scala/comments/qifte9/kafka_streams_with_scala/)
+- [James Roper on the future of Lagom.](https://www.reddit.com/r/scala/comments/qidgda/james_roper_on_the_future_of_lagom/)
+- [IntelliJ: Dataflow Analysis for Scala](https://www.reddit.com/r/scala/comments/qi2svw/intellij_dataflow_analysis_for_scala/)
 - [New to Scala - getting ready for Advent of Code](https://www.reddit.com/r/scala/comments/qhuxvk/new_to_scala_getting_ready_for_advent_of_code/)
 - [SBT console does not work](https://www.reddit.com/r/scala/comments/qhrkd3/sbt_console_does_not_work/)
 - [Dataflow analysis for Scala in IntelliJ IDEA](https://www.reddit.com/r/scala/comments/qhrcql/dataflow_analysis_for_scala_in_intellij_idea/)
 - [Scala isn’t Hard: How to Master Scala Step by Step](https://www.reddit.com/r/scala/comments/qhjzca/scala_isnt_hard_how_to_master_scala_step_by_step/)
-- [how can i get the type of the argument that was passed to my function](https://www.reddit.com/r/scala/comments/qh9jf8/how_can_i_get_the_type_of_the_argument_that_was/)
-- [Representing Monads with Capabilities](https://www.reddit.com/r/scala/comments/qh5sf2/representing_monads_with_capabilities/)
-- [Metals v0.10.8 - Tons of new features and Support for Scala 3.1.0!](https://www.reddit.com/r/scala/comments/qg5v6e/metals_v0108_tons_of_new_features_and_support_for/)
-- [Apache Spark: All about Serialization.](https://www.reddit.com/r/scala/comments/qg25dy/apache_spark_all_about_serialization/)
-- [ECScala - An ECS Scala framework](https://www.reddit.com/r/scala/comments/qg21ag/ecscala_an_ecs_scala_framework/)
-- [Looking for a little help](https://www.reddit.com/r/scala/comments/qfkcan/looking_for_a_little_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

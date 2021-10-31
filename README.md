@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Break free from your entangled code base! - Part 1](https://www.reddit.com/r/scala/comments/qjdw21/break_free_from_your_entangled_code_base_part_1/)
+- [Demystifying Akka Streams' Materialized Values](https://www.reddit.com/r/scala/comments/qja6m6/demystifying_akka_streams_materialized_values/)
 - [Which of these books do you recommend for a beginner?](https://www.reddit.com/r/scala/comments/qilxek/which_of_these_books_do_you_recommend_for_a/)
 - [Best Scala framework / libraries out there ?](https://www.reddit.com/r/scala/comments/qilhao/best_scala_framework_libraries_out_there/)
 - [I am trying to play with cats but I cant get this build sbt to work right](https://www.reddit.com/r/scala/comments/qijp12/i_am_trying_to_play_with_cats_but_i_cant_get_this/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [IntelliJ: Dataflow Analysis for Scala](https://www.reddit.com/r/scala/comments/qi2svw/intellij_dataflow_analysis_for_scala/)
 - [New to Scala - getting ready for Advent of Code](https://www.reddit.com/r/scala/comments/qhuxvk/new_to_scala_getting_ready_for_advent_of_code/)
 - [SBT console does not work](https://www.reddit.com/r/scala/comments/qhrkd3/sbt_console_does_not_work/)
-- [Dataflow analysis for Scala in IntelliJ IDEA](https://www.reddit.com/r/scala/comments/qhrcql/dataflow_analysis_for_scala_in_intellij_idea/)
-- [Scala isn’t Hard: How to Master Scala Step by Step](https://www.reddit.com/r/scala/comments/qhjzca/scala_isnt_hard_how_to_master_scala_step_by_step/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

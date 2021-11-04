@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there a difference between def and val if the right hand side is simple?](https://www.reddit.com/r/scala/comments/qm3wrn/is_there_a_difference_between_def_and_val_if_the/)
+- [Scala Beyond 3.0 - The Quest for Simplicity - Martin Odersky](https://www.reddit.com/r/scala/comments/qlrcyx/scala_beyond_30_the_quest_for_simplicity_martin/)
 - [Scala 2.13.7: Android compatibility improvements, support for new JDKs, alignment with latest Scala 3.x and many other things](https://www.reddit.com/r/scala/comments/qkoler/scala_2137_android_compatibility_improvements/)
 - [why does compiling and running a hello world file take more than a second?](https://www.reddit.com/r/scala/comments/qkkaut/why_does_compiling_and_running_a_hello_world_file/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/qkh3uu/who_is_hiring_monthly_rscala_job_postings_thread/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala (Nov 1, 2021)](https://www.reddit.com/r/scala/comments/qk2hai/this_week_in_scala_nov_1_2021/)
 - [Akka Http Scaladsl custom Content-Type and Accept headers](https://www.reddit.com/r/scala/comments/qjxndb/akka_http_scaladsl_custom_contenttype_and_accept/)
 - [Mutable state in fiber](https://www.reddit.com/r/scala/comments/qjucy5/mutable_state_in_fiber/)
-- [Still trying to play with Cats, using my laptop instead of my raspberry pi](https://www.reddit.com/r/scala/comments/qjq9js/still_trying_to_play_with_cats_using_my_laptop/)
-- [New library for ordered sets and maps](https://www.reddit.com/r/scala/comments/qjjyl0/new_library_for_ordered_sets_and_maps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

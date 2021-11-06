@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Whats :: type in scala](https://www.reddit.com/r/scala/comments/qnfhjl/whats_type_in_scala/)
+- [Introduction to Programming with ZIO Functional Effects](https://www.reddit.com/r/scala/comments/qnbgw7/introduction_to_programming_with_zio_functional/)
 - [New RethinkDB driver design](https://www.reddit.com/r/scala/comments/qmxor6/new_rethinkdb_driver_design/)
 - [scalajs-react 2.0.0 final is finally out of the oven! A lot of work and love has gone into this release. Check out what's new here.](https://www.reddit.com/r/scala/comments/qmw97u/scalajsreact_200_final_is_finally_out_of_the_oven/)
 - [Advice on huge XML parsing](https://www.reddit.com/r/scala/comments/qmk77b/advice_on_huge_xml_parsing/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala 2.13.7: Android compatibility improvements, support for new JDKs, alignment with latest Scala 3.x and many other things](https://www.reddit.com/r/scala/comments/qkoler/scala_2137_android_compatibility_improvements/)
 - [why does compiling and running a hello world file take more than a second?](https://www.reddit.com/r/scala/comments/qkkaut/why_does_compiling_and_running_a_hello_world_file/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/qkh3uu/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [Async with futures in a multi-threaded Scala app](https://www.reddit.com/r/scala/comments/qkeidn/async_with_futures_in_a_multithreaded_scala_app/)
-- [Zio / Zionomicon : is it worth it ?](https://www.reddit.com/r/scala/comments/qkdtg2/zio_zionomicon_is_it_worth_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

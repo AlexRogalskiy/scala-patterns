@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Break free from your entangled code base! - Part 2](https://www.reddit.com/r/scala/comments/qoco68/break_free_from_your_entangled_code_base_part_2/)
+- [Hiring U.S. Senior Scala Developers- U.S. Remote](https://www.reddit.com/r/scala/comments/qo6t6m/hiring_us_senior_scala_developers_us_remote/)
+- [Why is tpolecat against ZIO?](https://www.reddit.com/r/scala/comments/qnz0eg/why_is_tpolecat_against_zio/)
 - [Whats :: type in scala](https://www.reddit.com/r/scala/comments/qnfhjl/whats_type_in_scala/)
 - [Introduction to Programming with ZIO Functional Effects](https://www.reddit.com/r/scala/comments/qnbgw7/introduction_to_programming_with_zio_functional/)
 - [New RethinkDB driver design](https://www.reddit.com/r/scala/comments/qmxor6/new_rethinkdb_driver_design/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Advice on huge XML parsing](https://www.reddit.com/r/scala/comments/qmk77b/advice_on_huge_xml_parsing/)
 - [Is there a difference between def and val if the right hand side is simple?](https://www.reddit.com/r/scala/comments/qm3wrn/is_there_a_difference_between_def_and_val_if_the/)
 - [Scala Beyond 3.0 - The Quest for Simplicity - Martin Odersky](https://www.reddit.com/r/scala/comments/qlrcyx/scala_beyond_30_the_quest_for_simplicity_martin/)
-- [Scala 2.13.7: Android compatibility improvements, support for new JDKs, alignment with latest Scala 3.x and many other things](https://www.reddit.com/r/scala/comments/qkoler/scala_2137_android_compatibility_improvements/)
-- [why does compiling and running a hello world file take more than a second?](https://www.reddit.com/r/scala/comments/qkkaut/why_does_compiling_and_running_a_hello_world_file/)
-- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/qkh3uu/who_is_hiring_monthly_rscala_job_postings_thread/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [It's unsafe to depend on Typelevel Libraries](https://www.reddit.com/r/scala/comments/qp25rp/its_unsafe_to_depend_on_typelevel_libraries/)
-- [This week in #Scala (Nov 8, 2021)](https://www.reddit.com/r/scala/comments/qoyh9m/this_week_in_scala_nov_8_2021/)
+- [SLinC: A library for calling into C from Scala 3](https://www.reddit.com/r/scala/comments/qpjp36/slinc_a_library_for_calling_into_c_from_scala_3/)
+- [Recursion pitfalls in IO monads and how to avoid them](https://www.reddit.com/r/scala/comments/qpjk3x/recursion_pitfalls_in_io_monads_and_how_to_avoid/)
+- [Calling All Scala Enthusiasts &amp; Functional Programming Advocates!](https://www.reddit.com/r/scala/comments/qpieuy/calling_all_scala_enthusiasts_functional/)
+- [The programmer&#39;s brain in the lands of exploration and production](https://www.reddit.com/r/scala/comments/qpf48b/the_programmers_brain_in_the_lands_of_exploration/)
+- [Beginners Question. Please be kind and try to explain](https://www.reddit.com/r/scala/comments/qpbe14/beginners_question_please_be_kind_and_try_to/)
+- [Scala at Scale at Databricks](https://www.reddit.com/r/scala/comments/qp8cfl/scala_at_scale_at_databricks/)
+- [This week in #Scala &lpar;Nov 8, 2021&rpar;](https://www.reddit.com/r/scala/comments/qoyh9m/this_week_in_scala_nov_8_2021/)
 - [On the future of Akka and Lightbend](https://www.reddit.com/r/scala/comments/qov9o4/on_the_future_of_akka_and_lightbend/)
 - [Break free from your entangled code base! - Part 2](https://www.reddit.com/r/scala/comments/qoco68/break_free_from_your_entangled_code_base_part_2/)
 - [Hiring U.S. Senior Scala Developers- U.S. Remote](https://www.reddit.com/r/scala/comments/qo6t6m/hiring_us_senior_scala_developers_us_remote/)
-- [Why is tpolecat against ZIO?](https://www.reddit.com/r/scala/comments/qnz0eg/why_is_tpolecat_against_zio/)
-- [Whats :: type in scala](https://www.reddit.com/r/scala/comments/qnfhjl/whats_type_in_scala/)
-- [Introduction to Programming with ZIO Functional Effects](https://www.reddit.com/r/scala/comments/qnbgw7/introduction_to_programming_with_zio_functional/)
-- [New RethinkDB driver design](https://www.reddit.com/r/scala/comments/qmxor6/new_rethinkdb_driver_design/)
-- [scalajs-react 2.0.0 final is finally out of the oven! A lot of work and love has gone into this release. Check out what's new here.](https://www.reddit.com/r/scala/comments/qmw97u/scalajsreact_200_final_is_finally_out_of_the_oven/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,7 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Manning sent me a link for 40% off on everything if anyone is interested](https://www.reddit.com/r/scala/comments/qr9pdx/manning_sent_me_a_link_for_40_off_on_everything/)
+- [Scala Community Center latest news?](https://www.reddit.com/r/scala/comments/qruc0y/scala_community_center_latest_news/)
+- [General question related to Scala programming jobs](https://www.reddit.com/r/scala/comments/qrogk0/general_question_related_to_scala_programming_jobs/)
+- [Understanding Laws in Scala](https://www.reddit.com/r/scala/comments/qro48h/understanding_laws_in_scala/)
 - [John De Goes: Improvements to the ZIO Organization](https://www.reddit.com/r/scala/comments/qq1dit/john_de_goes_improvements_to_the_zio_organization/)
 - [SLinC: A library for calling into C from Scala 3](https://www.reddit.com/r/scala/comments/qpjp36/slinc_a_library_for_calling_into_c_from_scala_3/)
 - [Recursion pitfalls in IO monads and how to avoid them](https://www.reddit.com/r/scala/comments/qpjk3x/recursion_pitfalls_in_io_monads_and_how_to_avoid/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [The programmer&#39;s brain in the lands of exploration and production](https://www.reddit.com/r/scala/comments/qpf48b/the_programmers_brain_in_the_lands_of_exploration/)
 - [Beginners Question. Please be kind and try to explain](https://www.reddit.com/r/scala/comments/qpbe14/beginners_question_please_be_kind_and_try_to/)
 - [Scala at Scale at Databricks](https://www.reddit.com/r/scala/comments/qp8cfl/scala_at_scale_at_databricks/)
-- [This week in #Scala &lpar;Nov 8, 2021&rpar;](https://www.reddit.com/r/scala/comments/qoyh9m/this_week_in_scala_nov_8_2021/)
-- [On the future of Akka and Lightbend](https://www.reddit.com/r/scala/comments/qov9o4/on_the_future_of_akka_and_lightbend/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

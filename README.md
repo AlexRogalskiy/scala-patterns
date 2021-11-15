@@ -271,7 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Need Help With Scala? Join the Devs&#39; Guild!](https://www.reddit.com/r/scala/comments/qtfaz4/need_help_with_scala_join_the_devs_guild/)
+- [This week in #Scala &lpar;Nov 15, 2021&rpar;](https://www.reddit.com/r/scala/comments/qtx770/this_week_in_scala_nov_15_2021/)
 - [The Red Book - &quot;Functional Programming in Scala&quot; Review](https://www.reddit.com/r/scala/comments/qtdex1/the_red_book_functional_programming_in_scala/)
 - [👾 Indigo 0.10.0 released, now with extra Clones and Mutants.](https://www.reddit.com/r/scala/comments/qsytp2/indigo_0100_released_now_with_extra_clones_and/)
 - [Spark transform without spark.sql](https://www.reddit.com/r/scala/comments/qsflma/spark_transform_without_sparksql/)

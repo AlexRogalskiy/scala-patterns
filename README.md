@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [CoC: clarify personal-information bullet by SethTisue · Pull Request #1303 · scala/scala-lang](https://www.reddit.com/r/scala/comments/qutsl2/coc_clarify_personalinformation_bullet_by/)
+- [Apache Pulsar with Scala](https://www.reddit.com/r/scala/comments/qug5qm/apache_pulsar_with_scala/)
+- [Functional Scala 2021 Schedule Online &lpar;London, UK &amp; Online&rpar;](https://www.reddit.com/r/scala/comments/qud9g7/functional_scala_2021_schedule_online_london_uk/)
+- [Typelevel: On Recent Events](https://www.reddit.com/r/scala/comments/qu8wag/typelevel_on_recent_events/)
 - [This week in #Scala &lpar;Nov 15, 2021&rpar;](https://www.reddit.com/r/scala/comments/qtx770/this_week_in_scala_nov_15_2021/)
 - [The Red Book - &quot;Functional Programming in Scala&quot; Review](https://www.reddit.com/r/scala/comments/qtdex1/the_red_book_functional_programming_in_scala/)
 - [👾 Indigo 0.10.0 released, now with extra Clones and Mutants.](https://www.reddit.com/r/scala/comments/qsytp2/indigo_0100_released_now_with_extra_clones_and/)
 - [Spark transform without spark.sql](https://www.reddit.com/r/scala/comments/qsflma/spark_transform_without_sparksql/)
 - [sudori part 3](https://www.reddit.com/r/scala/comments/qsdk71/sudori_part_3/)
 - [What exactly is functional programming &lpar;and it&#39;s benefits&rpar;?](https://www.reddit.com/r/scala/comments/qs52h2/what_exactly_is_functional_programming_and_its/)
-- [Scala Community Center latest news?](https://www.reddit.com/r/scala/comments/qruc0y/scala_community_center_latest_news/)
-- [General question related to Scala programming jobs](https://www.reddit.com/r/scala/comments/qrogk0/general_question_related_to_scala_programming_jobs/)
-- [Understanding Laws in Scala](https://www.reddit.com/r/scala/comments/qro48h/understanding_laws_in_scala/)
-- [John De Goes: Improvements to the ZIO Organization](https://www.reddit.com/r/scala/comments/qq1dit/john_de_goes_improvements_to_the_zio_organization/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

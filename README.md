@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala&#39;s future as seen by VirtusLab&#39;s Scala3 team &lpar;Scalacon&rpar;](https://www.reddit.com/r/scala/comments/qv9su3/scalas_future_as_seen_by_virtuslabs_scala3_team/)
+- [This doesn&#39;t look good for Scala](https://www.reddit.com/r/scala/comments/qv1f97/this_doesnt_look_good_for_scala/)
 - [CoC: clarify personal-information bullet by SethTisue · Pull Request #1303 · scala/scala-lang](https://www.reddit.com/r/scala/comments/qutsl2/coc_clarify_personalinformation_bullet_by/)
 - [Apache Pulsar with Scala](https://www.reddit.com/r/scala/comments/qug5qm/apache_pulsar_with_scala/)
 - [Functional Scala 2021 Schedule Online &lpar;London, UK &amp; Online&rpar;](https://www.reddit.com/r/scala/comments/qud9g7/functional_scala_2021_schedule_online_london_uk/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [The Red Book - &quot;Functional Programming in Scala&quot; Review](https://www.reddit.com/r/scala/comments/qtdex1/the_red_book_functional_programming_in_scala/)
 - [👾 Indigo 0.10.0 released, now with extra Clones and Mutants.](https://www.reddit.com/r/scala/comments/qsytp2/indigo_0100_released_now_with_extra_clones_and/)
 - [Spark transform without spark.sql](https://www.reddit.com/r/scala/comments/qsflma/spark_transform_without_sparksql/)
-- [sudori part 3](https://www.reddit.com/r/scala/comments/qsdk71/sudori_part_3/)
-- [What exactly is functional programming &lpar;and it&#39;s benefits&rpar;?](https://www.reddit.com/r/scala/comments/qs52h2/what_exactly_is_functional_programming_and_its/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

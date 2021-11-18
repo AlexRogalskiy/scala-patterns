@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A statement about my Scala open source work&lpar;travis&rpar;](https://www.reddit.com/r/scala/comments/qweo20/a_statement_about_my_scala_open_source_worktravis/)
+- [Sbt Build question](https://www.reddit.com/r/scala/comments/qw2cx5/sbt_build_question/)
 - [Scala&#39;s future as seen by VirtusLab&#39;s Scala3 team &lpar;Scalacon&rpar;](https://www.reddit.com/r/scala/comments/qv9su3/scalas_future_as_seen_by_virtuslabs_scala3_team/)
 - [This doesn&#39;t look good for Scala](https://www.reddit.com/r/scala/comments/qv1f97/this_doesnt_look_good_for_scala/)
 - [CoC: clarify personal-information bullet by SethTisue · Pull Request #1303 · scala/scala-lang](https://www.reddit.com/r/scala/comments/qutsl2/coc_clarify_personalinformation_bullet_by/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Typelevel: On Recent Events](https://www.reddit.com/r/scala/comments/qu8wag/typelevel_on_recent_events/)
 - [This week in #Scala &lpar;Nov 15, 2021&rpar;](https://www.reddit.com/r/scala/comments/qtx770/this_week_in_scala_nov_15_2021/)
 - [The Red Book - &quot;Functional Programming in Scala&quot; Review](https://www.reddit.com/r/scala/comments/qtdex1/the_red_book_functional_programming_in_scala/)
-- [👾 Indigo 0.10.0 released, now with extra Clones and Mutants.](https://www.reddit.com/r/scala/comments/qsytp2/indigo_0100_released_now_with_extra_clones_and/)
-- [Spark transform without spark.sql](https://www.reddit.com/r/scala/comments/qsflma/spark_transform_without_sparksql/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

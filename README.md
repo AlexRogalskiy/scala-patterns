@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Microsoft Announces General Availability of SynapseML](https://www.reddit.com/r/scala/comments/qwtzqk/microsoft_announces_general_availability_of/)
 - [A statement about my Scala open source work&lpar;travis&rpar;](https://www.reddit.com/r/scala/comments/qweo20/a_statement_about_my_scala_open_source_worktravis/)
 - [Sbt Build question](https://www.reddit.com/r/scala/comments/qw2cx5/sbt_build_question/)
 - [Scala&#39;s future as seen by VirtusLab&#39;s Scala3 team &lpar;Scalacon&rpar;](https://www.reddit.com/r/scala/comments/qv9su3/scalas_future_as_seen_by_virtuslabs_scala3_team/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Functional Scala 2021 Schedule Online &lpar;London, UK &amp; Online&rpar;](https://www.reddit.com/r/scala/comments/qud9g7/functional_scala_2021_schedule_online_london_uk/)
 - [Typelevel: On Recent Events](https://www.reddit.com/r/scala/comments/qu8wag/typelevel_on_recent_events/)
 - [This week in #Scala &lpar;Nov 15, 2021&rpar;](https://www.reddit.com/r/scala/comments/qtx770/this_week_in_scala_nov_15_2021/)
-- [The Red Book - &quot;Functional Programming in Scala&quot; Review](https://www.reddit.com/r/scala/comments/qtdex1/the_red_book_functional_programming_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

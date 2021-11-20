@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [IO Global – www.iohk.io | Software Engineering Lead &lpar;Scala&rpar;](https://www.reddit.com/r/scala/comments/qxkaod/io_global_wwwiohkio_software_engineering_lead/)
+- [IO Global – www.iohk.io | Technical Architect &lpar;Scala&rpar;](https://www.reddit.com/r/scala/comments/qxkaci/io_global_wwwiohkio_technical_architect_scala/)
+- [Supporting Martin Odersky &amp; Other Scala OSS Developers](https://www.reddit.com/r/scala/comments/qxk9lh/supporting_martin_odersky_other_scala_oss/)
+- [How to insert into multiple DBs&lpar; postgres and redis &rpar; simultaneously so that both inserts get successful or else even of 1 fails, no insert is done after execution ?](https://www.reddit.com/r/scala/comments/qxiqtg/how_to_insert_into_multiple_dbs_postgres_and/)
+- [Parsing character encoding-dependent protocols with scodec](https://www.reddit.com/r/scala/comments/qxhst9/parsing_character_encodingdependent_protocols/)
 - [Microsoft Announces General Availability of SynapseML](https://www.reddit.com/r/scala/comments/qwtzqk/microsoft_announces_general_availability_of/)
 - [A statement about my Scala open source work&lpar;travis&rpar;](https://www.reddit.com/r/scala/comments/qweo20/a_statement_about_my_scala_open_source_worktravis/)
 - [Sbt Build question](https://www.reddit.com/r/scala/comments/qw2cx5/sbt_build_question/)
 - [Scala&#39;s future as seen by VirtusLab&#39;s Scala3 team &lpar;Scalacon&rpar;](https://www.reddit.com/r/scala/comments/qv9su3/scalas_future_as_seen_by_virtuslabs_scala3_team/)
 - [This doesn&#39;t look good for Scala](https://www.reddit.com/r/scala/comments/qv1f97/this_doesnt_look_good_for_scala/)
-- [CoC: clarify personal-information bullet by SethTisue · Pull Request #1303 · scala/scala-lang](https://www.reddit.com/r/scala/comments/qutsl2/coc_clarify_personalinformation_bullet_by/)
-- [Apache Pulsar with Scala](https://www.reddit.com/r/scala/comments/qug5qm/apache_pulsar_with_scala/)
-- [Functional Scala 2021 Schedule Online &lpar;London, UK &amp; Online&rpar;](https://www.reddit.com/r/scala/comments/qud9g7/functional_scala_2021_schedule_online_london_uk/)
-- [Typelevel: On Recent Events](https://www.reddit.com/r/scala/comments/qu8wag/typelevel_on_recent_events/)
-- [This week in #Scala &lpar;Nov 15, 2021&rpar;](https://www.reddit.com/r/scala/comments/qtx770/this_week_in_scala_nov_15_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

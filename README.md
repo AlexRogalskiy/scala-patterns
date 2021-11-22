@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Nov 22, 2021&rpar;](https://www.reddit.com/r/scala/comments/qz6ejv/this_week_in_scala_nov_22_2021/)
+- [Working with shared dependencies in ZIO Test](https://www.reddit.com/r/scala/comments/qyoyls/working_with_shared_dependencies_in_zio_test/)
 - [Preview of ZIO 2.0 Layer error messages](https://www.reddit.com/r/scala/comments/qyjvpu/preview_of_zio_20_layer_error_messages/)
 - [&quot;Scala with Cats&quot; Review](https://www.reddit.com/r/scala/comments/qyikpw/scala_with_cats_review/)
 - [IO Global – www.iohk.io | Software Engineering Lead &lpar;Scala&rpar;](https://www.reddit.com/r/scala/comments/qxkaod/io_global_wwwiohkio_software_engineering_lead/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to insert into multiple DBs&lpar; postgres and redis &rpar; simultaneously so that both inserts get successful or else even of 1 fails, no insert is done after execution ?](https://www.reddit.com/r/scala/comments/qxiqtg/how_to_insert_into_multiple_dbs_postgres_and/)
 - [Parsing character encoding-dependent protocols with scodec](https://www.reddit.com/r/scala/comments/qxhst9/parsing_character_encodingdependent_protocols/)
 - [Microsoft Announces General Availability of SynapseML](https://www.reddit.com/r/scala/comments/qwtzqk/microsoft_announces_general_availability_of/)
-- [A statement about my Scala open source work&lpar;travis&rpar;](https://www.reddit.com/r/scala/comments/qweo20/a_statement_about_my_scala_open_source_worktravis/)
-- [Sbt Build question](https://www.reddit.com/r/scala/comments/qw2cx5/sbt_build_question/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

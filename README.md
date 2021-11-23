@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Fp libraries that target scala 3 exclusively?](https://www.reddit.com/r/scala/comments/qznudw/fp_libraries_that_target_scala_3_exclusively/)
+- [Finally some business logic! &lpar;Scala Project From Scratch #5&rpar;](https://www.reddit.com/r/scala/comments/qzn7lp/finally_some_business_logic_scala_project_from/)
+- [Wix&#39;s road to global Kafka data mesh - YouTube](https://www.reddit.com/r/scala/comments/qzf85v/wixs_road_to_global_kafka_data_mesh_youtube/)
 - [This week in #Scala &lpar;Nov 22, 2021&rpar;](https://www.reddit.com/r/scala/comments/qz6ejv/this_week_in_scala_nov_22_2021/)
 - [Working with shared dependencies in ZIO Test](https://www.reddit.com/r/scala/comments/qyoyls/working_with_shared_dependencies_in_zio_test/)
 - [Preview of ZIO 2.0 Layer error messages](https://www.reddit.com/r/scala/comments/qyjvpu/preview_of_zio_20_layer_error_messages/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [IO Global – www.iohk.io | Software Engineering Lead &lpar;Scala&rpar;](https://www.reddit.com/r/scala/comments/qxkaod/io_global_wwwiohkio_software_engineering_lead/)
 - [IO Global – www.iohk.io | Technical Architect &lpar;Scala&rpar;](https://www.reddit.com/r/scala/comments/qxkaci/io_global_wwwiohkio_technical_architect_scala/)
 - [Supporting Martin Odersky &amp; Other Scala OSS Developers](https://www.reddit.com/r/scala/comments/qxk9lh/supporting_martin_odersky_other_scala_oss/)
-- [How to insert into multiple DBs&lpar; postgres and redis &rpar; simultaneously so that both inserts get successful or else even of 1 fails, no insert is done after execution ?](https://www.reddit.com/r/scala/comments/qxiqtg/how_to_insert_into_multiple_dbs_postgres_and/)
-- [Parsing character encoding-dependent protocols with scodec](https://www.reddit.com/r/scala/comments/qxhst9/parsing_character_encodingdependent_protocols/)
-- [Microsoft Announces General Availability of SynapseML](https://www.reddit.com/r/scala/comments/qwtzqk/microsoft_announces_general_availability_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

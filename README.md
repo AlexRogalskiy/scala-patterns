@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there a scala library to handle grammar in string messages?](https://www.reddit.com/r/scala/comments/r0gxjl/is_there_a_scala_library_to_handle_grammar_in/)
+- [Is Coursera functional programming course worth it for getting a scala developer job](https://www.reddit.com/r/scala/comments/r0566r/is_coursera_functional_programming_course_worth/)
+- [find out from the Rust community&#39;s actions what the Scala community can learn!](https://www.reddit.com/r/scala/comments/r02nwv/find_out_from_the_rust_communitys_actions_what/)
 - [Fp libraries that target scala 3 exclusively?](https://www.reddit.com/r/scala/comments/qznudw/fp_libraries_that_target_scala_3_exclusively/)
 - [Finally some business logic! &lpar;Scala Project From Scratch #5&rpar;](https://www.reddit.com/r/scala/comments/qzn7lp/finally_some_business_logic_scala_project_from/)
 - [Wix&#39;s road to global Kafka data mesh - YouTube](https://www.reddit.com/r/scala/comments/qzf85v/wixs_road_to_global_kafka_data_mesh_youtube/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Working with shared dependencies in ZIO Test](https://www.reddit.com/r/scala/comments/qyoyls/working_with_shared_dependencies_in_zio_test/)
 - [Preview of ZIO 2.0 Layer error messages](https://www.reddit.com/r/scala/comments/qyjvpu/preview_of_zio_20_layer_error_messages/)
 - [&quot;Scala with Cats&quot; Review](https://www.reddit.com/r/scala/comments/qyikpw/scala_with_cats_review/)
-- [IO Global – www.iohk.io | Software Engineering Lead &lpar;Scala&rpar;](https://www.reddit.com/r/scala/comments/qxkaod/io_global_wwwiohkio_software_engineering_lead/)
-- [IO Global – www.iohk.io | Technical Architect &lpar;Scala&rpar;](https://www.reddit.com/r/scala/comments/qxkaci/io_global_wwwiohkio_technical_architect_scala/)
-- [Supporting Martin Odersky &amp; Other Scala OSS Developers](https://www.reddit.com/r/scala/comments/qxk9lh/supporting_martin_odersky_other_scala_oss/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

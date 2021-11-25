@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Documenting a gRPC API - tools comparison](https://www.reddit.com/r/scala/comments/r16bmk/documenting_a_grpc_api_tools_comparison/)
+- [Purely functional Scala beginner exercises?](https://www.reddit.com/r/scala/comments/r151y1/purely_functional_scala_beginner_exercises/)
+- [Complex test data prototyping with Shapeless and Monocle](https://www.reddit.com/r/scala/comments/r13yuq/complex_test_data_prototyping_with_shapeless_and/)
 - [Is there a scala library to handle grammar in string messages?](https://www.reddit.com/r/scala/comments/r0gxjl/is_there_a_scala_library_to_handle_grammar_in/)
 - [Is Coursera functional programming course worth it for getting a scala developer job](https://www.reddit.com/r/scala/comments/r0566r/is_coursera_functional_programming_course_worth/)
-- [find out from the Rust community&#39;s actions what the Scala community can learn!](https://www.reddit.com/r/scala/comments/r02nwv/find_out_from_the_rust_communitys_actions_what/)
 - [Fp libraries that target scala 3 exclusively?](https://www.reddit.com/r/scala/comments/qznudw/fp_libraries_that_target_scala_3_exclusively/)
 - [Finally some business logic! &lpar;Scala Project From Scratch #5&rpar;](https://www.reddit.com/r/scala/comments/qzn7lp/finally_some_business_logic_scala_project_from/)
 - [Wix&#39;s road to global Kafka data mesh - YouTube](https://www.reddit.com/r/scala/comments/qzf85v/wixs_road_to_global_kafka_data_mesh_youtube/)
 - [This week in #Scala &lpar;Nov 22, 2021&rpar;](https://www.reddit.com/r/scala/comments/qz6ejv/this_week_in_scala_nov_22_2021/)
 - [Working with shared dependencies in ZIO Test](https://www.reddit.com/r/scala/comments/qyoyls/working_with_shared_dependencies_in_zio_test/)
-- [Preview of ZIO 2.0 Layer error messages](https://www.reddit.com/r/scala/comments/qyjvpu/preview_of_zio_20_layer_error_messages/)
-- [&quot;Scala with Cats&quot; Review](https://www.reddit.com/r/scala/comments/qyikpw/scala_with_cats_review/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

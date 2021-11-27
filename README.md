@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [If a type can be derived for a case class, what&#39;s the point of even specifying the derives clause?](https://www.reddit.com/r/scala/comments/r2wtg8/if_a_type_can_be_derived_for_a_case_class_whats/)
+- [Should I take the job? &lpar;involves spark and scala&rpar;](https://www.reddit.com/r/scala/comments/r2vo0q/should_i_take_the_job_involves_spark_and_scala/)
+- [Some Scala 3 local REPL changes](https://www.reddit.com/r/scala/comments/r2vny3/some_scala_3_local_repl_changes/)
+- [Purely Functional Scala research project topics?](https://www.reddit.com/r/scala/comments/r2vivh/purely_functional_scala_research_project_topics/)
+- [What are the advantages to upgrade microservices from Scala 2.12 to 3.0?](https://www.reddit.com/r/scala/comments/r2t7n8/what_are_the_advantages_to_upgrade_microservices/)
 - [Documenting a gRPC API - tools comparison](https://www.reddit.com/r/scala/comments/r16bmk/documenting_a_grpc_api_tools_comparison/)
 - [Purely functional Scala beginner exercises?](https://www.reddit.com/r/scala/comments/r151y1/purely_functional_scala_beginner_exercises/)
 - [Complex test data prototyping with Shapeless and Monocle](https://www.reddit.com/r/scala/comments/r13yuq/complex_test_data_prototyping_with_shapeless_and/)
 - [Is there a scala library to handle grammar in string messages?](https://www.reddit.com/r/scala/comments/r0gxjl/is_there_a_scala_library_to_handle_grammar_in/)
 - [Is Coursera functional programming course worth it for getting a scala developer job](https://www.reddit.com/r/scala/comments/r0566r/is_coursera_functional_programming_course_worth/)
-- [Fp libraries that target scala 3 exclusively?](https://www.reddit.com/r/scala/comments/qznudw/fp_libraries_that_target_scala_3_exclusively/)
-- [Finally some business logic! &lpar;Scala Project From Scratch #5&rpar;](https://www.reddit.com/r/scala/comments/qzn7lp/finally_some_business_logic_scala_project_from/)
-- [Wix&#39;s road to global Kafka data mesh - YouTube](https://www.reddit.com/r/scala/comments/qzf85v/wixs_road_to_global_kafka_data_mesh_youtube/)
-- [This week in #Scala &lpar;Nov 22, 2021&rpar;](https://www.reddit.com/r/scala/comments/qz6ejv/this_week_in_scala_nov_22_2021/)
-- [Working with shared dependencies in ZIO Test](https://www.reddit.com/r/scala/comments/qyoyls/working_with_shared_dependencies_in_zio_test/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Nov 29, 2021&rpar;](https://www.reddit.com/r/scala/comments/r4k8dj/this_week_in_scala_nov_29_2021/)
+- [Best internet archive for scholarly articles/research papers?](https://www.reddit.com/r/scala/comments/r433zg/best_internet_archive_for_scholarly/)
+- [What libraries do you use for machine learning and data visualizing in scala?](https://www.reddit.com/r/scala/comments/r3x8mm/what_libraries_do_you_use_for_machine_learning/)
 - [If a type can be derived for a case class, what&#39;s the point of even specifying the derives clause?](https://www.reddit.com/r/scala/comments/r2wtg8/if_a_type_can_be_derived_for_a_case_class_whats/)
-- [Should I take the job? &lpar;involves spark and scala&rpar;](https://www.reddit.com/r/scala/comments/r2vo0q/should_i_take_the_job_involves_spark_and_scala/)
 - [Some Scala 3 local REPL changes](https://www.reddit.com/r/scala/comments/r2vny3/some_scala_3_local_repl_changes/)
 - [Purely Functional Scala research project topics?](https://www.reddit.com/r/scala/comments/r2vivh/purely_functional_scala_research_project_topics/)
 - [What are the advantages to upgrade microservices from Scala 2.12 to 3.0?](https://www.reddit.com/r/scala/comments/r2t7n8/what_are_the_advantages_to_upgrade_microservices/)
 - [Documenting a gRPC API - tools comparison](https://www.reddit.com/r/scala/comments/r16bmk/documenting_a_grpc_api_tools_comparison/)
 - [Purely functional Scala beginner exercises?](https://www.reddit.com/r/scala/comments/r151y1/purely_functional_scala_beginner_exercises/)
 - [Complex test data prototyping with Shapeless and Monocle](https://www.reddit.com/r/scala/comments/r13yuq/complex_test_data_prototyping_with_shapeless_and/)
-- [Is there a scala library to handle grammar in string messages?](https://www.reddit.com/r/scala/comments/r0gxjl/is_there_a_scala_library_to_handle_grammar_in/)
-- [Is Coursera functional programming course worth it for getting a scala developer job](https://www.reddit.com/r/scala/comments/r0566r/is_coursera_functional_programming_course_worth/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

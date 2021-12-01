@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What&#39;s your preferred setup/process &lpar;IDE, settings, etc&rpar; for working in Scala?](https://www.reddit.com/r/scala/comments/r5k6rk/whats_your_preferred_setupprocess_ide_settings/)
+- [how to import a function from anothe file?](https://www.reddit.com/r/scala/comments/r5k4cu/how_to_import_a_function_from_anothe_file/)
+- [Scala Http Framework](https://www.reddit.com/r/scala/comments/r5i1zu/scala_http_framework/)
+- [sbt 1.6.0-RC1 released](https://www.reddit.com/r/scala/comments/r53usy/sbt_160rc1_released/)
+- [Automatically unlocking concurrent builds and fine-grained caching for Scala and Java with dependency inference](https://www.reddit.com/r/scala/comments/r53a8t/automatically_unlocking_concurrent_builds_and/)
+- [Upsides of colors in the Scala 3.0 local REPL](https://www.reddit.com/r/scala/comments/r52w84/upsides_of_colors_in_the_scala_30_local_repl/)
+- [Can someone explain this piece of code to me and what it does?](https://www.reddit.com/r/scala/comments/r4zqes/can_someone_explain_this_piece_of_code_to_me_and/)
 - [This week in #Scala &lpar;Nov 29, 2021&rpar;](https://www.reddit.com/r/scala/comments/r4k8dj/this_week_in_scala_nov_29_2021/)
 - [Best internet archive for scholarly articles/research papers?](https://www.reddit.com/r/scala/comments/r433zg/best_internet_archive_for_scholarly/)
 - [What libraries do you use for machine learning and data visualizing in scala?](https://www.reddit.com/r/scala/comments/r3x8mm/what_libraries_do_you_use_for_machine_learning/)
-- [If a type can be derived for a case class, what&#39;s the point of even specifying the derives clause?](https://www.reddit.com/r/scala/comments/r2wtg8/if_a_type_can_be_derived_for_a_case_class_whats/)
-- [Some Scala 3 local REPL changes](https://www.reddit.com/r/scala/comments/r2vny3/some_scala_3_local_repl_changes/)
-- [Purely Functional Scala research project topics?](https://www.reddit.com/r/scala/comments/r2vivh/purely_functional_scala_research_project_topics/)
-- [What are the advantages to upgrade microservices from Scala 2.12 to 3.0?](https://www.reddit.com/r/scala/comments/r2t7n8/what_are_the_advantages_to_upgrade_microservices/)
-- [Documenting a gRPC API - tools comparison](https://www.reddit.com/r/scala/comments/r16bmk/documenting_a_grpc_api_tools_comparison/)
-- [Purely functional Scala beginner exercises?](https://www.reddit.com/r/scala/comments/r151y1/purely_functional_scala_beginner_exercises/)
-- [Complex test data prototyping with Shapeless and Monocle](https://www.reddit.com/r/scala/comments/r13yuq/complex_test_data_prototyping_with_shapeless_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

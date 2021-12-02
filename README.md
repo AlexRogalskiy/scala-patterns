@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/r6jfmv/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [Alex Archambault: Coursier and scala-cli - Changing the Way You Start Scala -- New Tooling Talks episode!](https://www.reddit.com/r/scala/comments/r6edv9/alex_archambault_coursier_and_scalacli_changing/)
+- [How to make inline match and default arguments work together?](https://www.reddit.com/r/scala/comments/r6btqy/how_to_make_inline_match_and_default_arguments/)
+- [Intellij 2021.3 is available with better Scala 3 support](https://www.reddit.com/r/scala/comments/r68szk/intellij_20213_is_available_with_better_scala_3/)
+- [scaladex.nvim: a neovim plugin to search the scaladex index and add a dependency to your project from within neovim using telescope](https://www.reddit.com/r/scala/comments/r68k00/scaladexnvim_a_neovim_plugin_to_search_the/)
 - [What&#39;s your preferred setup/process &lpar;IDE, settings, etc&rpar; for working in Scala?](https://www.reddit.com/r/scala/comments/r5k6rk/whats_your_preferred_setupprocess_ide_settings/)
 - [how to import a function from anothe file?](https://www.reddit.com/r/scala/comments/r5k4cu/how_to_import_a_function_from_anothe_file/)
 - [Scala Http Framework](https://www.reddit.com/r/scala/comments/r5i1zu/scala_http_framework/)
 - [sbt 1.6.0-RC1 released](https://www.reddit.com/r/scala/comments/r53usy/sbt_160rc1_released/)
 - [Automatically unlocking concurrent builds and fine-grained caching for Scala and Java with dependency inference](https://www.reddit.com/r/scala/comments/r53a8t/automatically_unlocking_concurrent_builds_and/)
-- [Upsides of colors in the Scala 3.0 local REPL](https://www.reddit.com/r/scala/comments/r52w84/upsides_of_colors_in_the_scala_30_local_repl/)
-- [Can someone explain this piece of code to me and what it does?](https://www.reddit.com/r/scala/comments/r4zqes/can_someone_explain_this_piece_of_code_to_me_and/)
-- [This week in #Scala &lpar;Nov 29, 2021&rpar;](https://www.reddit.com/r/scala/comments/r4k8dj/this_week_in_scala_nov_29_2021/)
-- [Best internet archive for scholarly articles/research papers?](https://www.reddit.com/r/scala/comments/r433zg/best_internet_archive_for_scholarly/)
-- [What libraries do you use for machine learning and data visualizing in scala?](https://www.reddit.com/r/scala/comments/r3x8mm/what_libraries_do_you_use_for_machine_learning/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

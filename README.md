@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [7 ZIO experts share why they choose ZIO](https://www.reddit.com/r/scala/comments/r7ajqt/7_zio_experts_share_why_they_choose_zio/)
+- [How Difficult is it to learn Scala from a background of JavaScript and Python? &lpar;Should I rather go and learn Java First?&rpar;](https://www.reddit.com/r/scala/comments/r78xtq/how_difficult_is_it_to_learn_scala_from_a/)
+- [TypeVille 2022 Conference](https://www.reddit.com/r/scala/comments/r74glp/typeville_2022_conference/)
+- [Zip and slide! &lpar;Advent of Code day 1&rpar;](https://www.reddit.com/r/scala/comments/r6x8x1/zip_and_slide_advent_of_code_day_1/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/r6jfmv/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Alex Archambault: Coursier and scala-cli - Changing the Way You Start Scala -- New Tooling Talks episode!](https://www.reddit.com/r/scala/comments/r6edv9/alex_archambault_coursier_and_scalacli_changing/)
 - [How to make inline match and default arguments work together?](https://www.reddit.com/r/scala/comments/r6btqy/how_to_make_inline_match_and_default_arguments/)
 - [Intellij 2021.3 is available with better Scala 3 support](https://www.reddit.com/r/scala/comments/r68szk/intellij_20213_is_available_with_better_scala_3/)
 - [scaladex.nvim: a neovim plugin to search the scaladex index and add a dependency to your project from within neovim using telescope](https://www.reddit.com/r/scala/comments/r68k00/scaladexnvim_a_neovim_plugin_to_search_the/)
 - [What&#39;s your preferred setup/process &lpar;IDE, settings, etc&rpar; for working in Scala?](https://www.reddit.com/r/scala/comments/r5k6rk/whats_your_preferred_setupprocess_ide_settings/)
-- [how to import a function from anothe file?](https://www.reddit.com/r/scala/comments/r5k4cu/how_to_import_a_function_from_anothe_file/)
-- [Scala Http Framework](https://www.reddit.com/r/scala/comments/r5i1zu/scala_http_framework/)
-- [sbt 1.6.0-RC1 released](https://www.reddit.com/r/scala/comments/r53usy/sbt_160rc1_released/)
-- [Automatically unlocking concurrent builds and fine-grained caching for Scala and Java with dependency inference](https://www.reddit.com/r/scala/comments/r53a8t/automatically_unlocking_concurrent_builds_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

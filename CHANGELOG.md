@@ -1,14 +1,5 @@
 # Changelog
 
-## [Unreleased](https://github.com/AlexRogalskiy/scala-patterns/tree/HEAD)
-
-[Full Changelog](https://github.com/AlexRogalskiy/scala-patterns/compare/1.0.1...HEAD)
-
-**Merged pull requests:**
-
-- github-actions: bump wagoid/commitlint-github-action from v2.2.3 to v2.2.5 [\#52](https://github.com/AlexRogalskiy/scala-patterns/pull/52) ([dependabot[bot]](https://github.com/apps/dependabot))
-- :arrow\_up: Updates wagoid/commitlint-github-action action to v2.2.5 [\#50](https://github.com/AlexRogalskiy/scala-patterns/pull/50) ([renovate[bot]](https://github.com/apps/renovate))
-
 ## [1.0.1](https://github.com/AlexRogalskiy/scala-patterns/tree/1.0.1) (2021-02-18)
 
 [Full Changelog](https://github.com/AlexRogalskiy/scala-patterns/compare/v1...1.0.1)

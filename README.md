@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [&quot;Practical Functional Programming in Scala&quot; Review](https://www.reddit.com/r/scala/comments/r92t8b/practical_functional_programming_in_scala_review/)
+- [Scala REPL error when scala3 &amp; scala 2 implemented with coursier installed with homebrew](https://www.reddit.com/r/scala/comments/r8nm7y/scala_repl_error_when_scala3_scala_2_implemented/)
 - [Scala at Scale at Databricks](https://www.reddit.com/r/scala/comments/r8do6l/scala_at_scale_at_databricks/)
 - [How do you do implicit conversions in Scala 3?](https://www.reddit.com/r/scala/comments/r87kxc/how_do_you_do_implicit_conversions_in_scala_3/)
 - [Sponsoring | Play Framework](https://www.reddit.com/r/scala/comments/r81v5r/sponsoring_play_framework/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Failiure caught inside Success](https://www.reddit.com/r/scala/comments/r7se8c/scala_failiure_caught_inside_success/)
 - [7 ZIO experts share why they choose ZIO](https://www.reddit.com/r/scala/comments/r7ajqt/7_zio_experts_share_why_they_choose_zio/)
 - [How Difficult is it to learn Scala from a background of JavaScript and Python? &lpar;Should I rather go and learn Java First?&rpar;](https://www.reddit.com/r/scala/comments/r78xtq/how_difficult_is_it_to_learn_scala_from_a/)
-- [TypeVille 2022 Conference](https://www.reddit.com/r/scala/comments/r74glp/typeville_2022_conference/)
-- [Zip and slide! &lpar;Advent of Code day 1&rpar;](https://www.reddit.com/r/scala/comments/r6x8x1/zip_and_slide_advent_of_code_day_1/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

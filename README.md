@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Dec 6, 2021&rpar;](https://www.reddit.com/r/scala/comments/r9ox1g/this_week_in_scala_dec_6_2021/)
+- [How to declare methods on reflection API as top level and usable from other methods?](https://www.reddit.com/r/scala/comments/r9lb3g/how_to_declare_methods_on_reflection_api_as_top/)
 - [&quot;Practical Functional Programming in Scala&quot; Review](https://www.reddit.com/r/scala/comments/r92t8b/practical_functional_programming_in_scala_review/)
 - [Scala REPL error when scala3 &amp; scala 2 implemented with coursier installed with homebrew](https://www.reddit.com/r/scala/comments/r8nm7y/scala_repl_error_when_scala3_scala_2_implemented/)
 - [Scala at Scale at Databricks](https://www.reddit.com/r/scala/comments/r8do6l/scala_at_scale_at_databricks/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Switching to a Scala position soon, where should I start?](https://www.reddit.com/r/scala/comments/r80tv9/switching_to_a_scala_position_soon_where_should_i/)
 - [Why don&#39;t scala developers like people who put functional programming style aside?](https://www.reddit.com/r/scala/comments/r80shf/why_dont_scala_developers_like_people_who_put/)
 - [Scala Failiure caught inside Success](https://www.reddit.com/r/scala/comments/r7se8c/scala_failiure_caught_inside_success/)
-- [7 ZIO experts share why they choose ZIO](https://www.reddit.com/r/scala/comments/r7ajqt/7_zio_experts_share_why_they_choose_zio/)
-- [How Difficult is it to learn Scala from a background of JavaScript and Python? &lpar;Should I rather go and learn Java First?&rpar;](https://www.reddit.com/r/scala/comments/r78xtq/how_difficult_is_it_to_learn_scala_from_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

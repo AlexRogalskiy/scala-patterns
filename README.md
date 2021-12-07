@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Jam 0.1.0 is out with new syntax and more features](https://www.reddit.com/r/scala/comments/rahrej/jam_010_is_out_with_new_syntax_and_more_features/)
+- [Constraint that a type is an explicit union?](https://www.reddit.com/r/scala/comments/racqsz/constraint_that_a_type_is_an_explicit_union/)
+- [Coding at 6am isn&#39;t fun &lpar;Advent of Code days 2-5&rpar;](https://www.reddit.com/r/scala/comments/rabrjp/coding_at_6am_isnt_fun_advent_of_code_days_25/)
+- [Endless4s: a new Scala library to describe event sourced entities using tagless-final algebras, running with built-in implementations for Akka](https://www.reddit.com/r/scala/comments/rabo0i/endless4s_a_new_scala_library_to_describe_event/)
+- [How to create asynchronous stream/iterator that preloads N elements?](https://www.reddit.com/r/scala/comments/ra2rcf/how_to_create_asynchronous_streamiterator_that/)
 - [This week in #Scala &lpar;Dec 6, 2021&rpar;](https://www.reddit.com/r/scala/comments/r9ox1g/this_week_in_scala_dec_6_2021/)
 - [How to declare methods on reflection API as top level and usable from other methods?](https://www.reddit.com/r/scala/comments/r9lb3g/how_to_declare_methods_on_reflection_api_as_top/)
 - [&quot;Practical Functional Programming in Scala&quot; Review](https://www.reddit.com/r/scala/comments/r92t8b/practical_functional_programming_in_scala_review/)
 - [Scala REPL error when scala3 &amp; scala 2 implemented with coursier installed with homebrew](https://www.reddit.com/r/scala/comments/r8nm7y/scala_repl_error_when_scala3_scala_2_implemented/)
 - [Scala at Scale at Databricks](https://www.reddit.com/r/scala/comments/r8do6l/scala_at_scale_at_databricks/)
-- [How do you do implicit conversions in Scala 3?](https://www.reddit.com/r/scala/comments/r87kxc/how_do_you_do_implicit_conversions_in_scala_3/)
-- [Sponsoring | Play Framework](https://www.reddit.com/r/scala/comments/r81v5r/sponsoring_play_framework/)
-- [Switching to a Scala position soon, where should I start?](https://www.reddit.com/r/scala/comments/r80tv9/switching_to_a_scala_position_soon_where_should_i/)
-- [Why don&#39;t scala developers like people who put functional programming style aside?](https://www.reddit.com/r/scala/comments/r80shf/why_dont_scala_developers_like_people_who_put/)
-- [Scala Failiure caught inside Success](https://www.reddit.com/r/scala/comments/r7se8c/scala_failiure_caught_inside_success/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

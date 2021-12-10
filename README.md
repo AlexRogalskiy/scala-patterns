@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3 RDBMS Libraries](https://www.reddit.com/r/scala/comments/rcv033/scala_3_rdbms_libraries/)
+- [What are the popular Scala 3 test framework as of 2021?](https://www.reddit.com/r/scala/comments/rck6pp/what_are_the_popular_scala_3_test_framework_as_of/)
+- [&quot;Performance Analysis and Tuning on Modern CPU&quot; by Denis Bakhvalov](https://www.reddit.com/r/scala/comments/rcdrlx/performance_analysis_and_tuning_on_modern_cpu_by/)
+- [What is the best way to load scala dependencies in jupyter spylon-kernel?](https://www.reddit.com/r/scala/comments/rcayp9/what_is_the_best_way_to_load_scala_dependencies/)
+- [SLinC Update Dec 6, 2021](https://www.reddit.com/r/scala/comments/rbzjbu/slinc_update_dec_6_2021/)
 - [Combining Akka &lpar;typed&rpar; actor pools and discovery to fulfill actor dependencies](https://www.reddit.com/r/scala/comments/rbwhap/combining_akka_typed_actor_pools_and_discovery_to/)
 - [Is there any package with something like Default typeclass implementation?](https://www.reddit.com/r/scala/comments/rbvidq/is_there_any_package_with_something_like_default/)
 - [Is Scala and Play Framework dying?](https://www.reddit.com/r/scala/comments/rbuxeu/is_scala_and_play_framework_dying/)
 - [Reverse SBT Prompt?](https://www.reddit.com/r/scala/comments/rbpga1/reverse_sbt_prompt/)
 - [I&#39;ve entered a state of helplessness while learning scala](https://www.reddit.com/r/scala/comments/rb78t7/ive_entered_a_state_of_helplessness_while/)
-- [Why does this work?](https://www.reddit.com/r/scala/comments/rb02bv/why_does_this_work/)
-- [Scala Native 0.4.2](https://www.reddit.com/r/scala/comments/rawj06/scala_native_042/)
-- [Jam 0.1.0 is out with new syntax and more features](https://www.reddit.com/r/scala/comments/rahrej/jam_010_is_out_with_new_syntax_and_more_features/)
-- [Constraint that a type is an explicit union?](https://www.reddit.com/r/scala/comments/racqsz/constraint_that_a_type_is_an_explicit_union/)
-- [Coding at 6am isn&#39;t fun &lpar;Advent of Code days 2-5&rpar;](https://www.reddit.com/r/scala/comments/rabrjp/coding_at_6am_isnt_fun_advent_of_code_days_25/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

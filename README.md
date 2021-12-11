@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is anyone using jOOQ for query building in Scala?](https://www.reddit.com/r/scala/comments/rdni89/is_anyone_using_jooq_for_query_building_in_scala/)
+- [2021-12-10 benchmark results · LesnyRumcajs/grpc_bench Wiki](https://www.reddit.com/r/scala/comments/rdlad0/20211210_benchmark_results_lesnyrumcajsgrpc_bench/)
+- [sbt publish to remote repo issues](https://www.reddit.com/r/scala/comments/rdcfsl/sbt_publish_to_remote_repo_issues/)
+- [sbt 1.5.6 released](https://www.reddit.com/r/scala/comments/rd238u/sbt_156_released/)
 - [Scala 3 RDBMS Libraries](https://www.reddit.com/r/scala/comments/rcv033/scala_3_rdbms_libraries/)
 - [What are the popular Scala 3 test framework as of 2021?](https://www.reddit.com/r/scala/comments/rck6pp/what_are_the_popular_scala_3_test_framework_as_of/)
 - [&quot;Performance Analysis and Tuning on Modern CPU&quot; by Denis Bakhvalov](https://www.reddit.com/r/scala/comments/rcdrlx/performance_analysis_and_tuning_on_modern_cpu_by/)
 - [What is the best way to load scala dependencies in jupyter spylon-kernel?](https://www.reddit.com/r/scala/comments/rcayp9/what_is_the_best_way_to_load_scala_dependencies/)
 - [SLinC Update Dec 6, 2021](https://www.reddit.com/r/scala/comments/rbzjbu/slinc_update_dec_6_2021/)
 - [Combining Akka &lpar;typed&rpar; actor pools and discovery to fulfill actor dependencies](https://www.reddit.com/r/scala/comments/rbwhap/combining_akka_typed_actor_pools_and_discovery_to/)
-- [Is there any package with something like Default typeclass implementation?](https://www.reddit.com/r/scala/comments/rbvidq/is_there_any_package_with_something_like_default/)
-- [Is Scala and Play Framework dying?](https://www.reddit.com/r/scala/comments/rbuxeu/is_scala_and_play_framework_dying/)
-- [Reverse SBT Prompt?](https://www.reddit.com/r/scala/comments/rbpga1/reverse_sbt_prompt/)
-- [I&#39;ve entered a state of helplessness while learning scala](https://www.reddit.com/r/scala/comments/rb78t7/ive_entered_a_state_of_helplessness_while/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

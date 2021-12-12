@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [&quot;Scala CLI&quot; - Tool or Toy?](https://www.reddit.com/r/scala/comments/rec9do/scala_cli_tool_or_toy/)
+- [Dupin 0.2.0 got Scala 3/JS/Native support and more](https://www.reddit.com/r/scala/comments/re2te2/dupin_020_got_scala_3jsnative_support_and_more/)
+- [Want to learn Scala or Java Data Structures in details.](https://www.reddit.com/r/scala/comments/rdxdj8/want_to_learn_scala_or_java_data_structures_in/)
+- [Random Spawn 2D Wall](https://www.reddit.com/r/scala/comments/rdue63/random_spawn_2d_wall/)
 - [Is anyone using jOOQ for query building in Scala?](https://www.reddit.com/r/scala/comments/rdni89/is_anyone_using_jooq_for_query_building_in_scala/)
 - [2021-12-10 benchmark results · LesnyRumcajs/grpc_bench Wiki](https://www.reddit.com/r/scala/comments/rdlad0/20211210_benchmark_results_lesnyrumcajsgrpc_bench/)
 - [sbt publish to remote repo issues](https://www.reddit.com/r/scala/comments/rdcfsl/sbt_publish_to_remote_repo_issues/)
 - [sbt 1.5.6 released](https://www.reddit.com/r/scala/comments/rd238u/sbt_156_released/)
 - [Scala 3 RDBMS Libraries](https://www.reddit.com/r/scala/comments/rcv033/scala_3_rdbms_libraries/)
 - [What are the popular Scala 3 test framework as of 2021?](https://www.reddit.com/r/scala/comments/rck6pp/what_are_the_popular_scala_3_test_framework_as_of/)
-- [&quot;Performance Analysis and Tuning on Modern CPU&quot; by Denis Bakhvalov](https://www.reddit.com/r/scala/comments/rcdrlx/performance_analysis_and_tuning_on_modern_cpu_by/)
-- [What is the best way to load scala dependencies in jupyter spylon-kernel?](https://www.reddit.com/r/scala/comments/rcayp9/what_is_the_best_way_to_load_scala_dependencies/)
-- [SLinC Update Dec 6, 2021](https://www.reddit.com/r/scala/comments/rbzjbu/slinc_update_dec_6_2021/)
-- [Combining Akka &lpar;typed&rpar; actor pools and discovery to fulfill actor dependencies](https://www.reddit.com/r/scala/comments/rbwhap/combining_akka_typed_actor_pools_and_discovery_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

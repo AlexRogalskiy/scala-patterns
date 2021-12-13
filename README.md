@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Documentation?](https://www.reddit.com/r/scala/comments/rf2wz8/documentation/)
+- [This week in #Scala &lpar;Dec 13, 2021&rpar;](https://www.reddit.com/r/scala/comments/reyph4/this_week_in_scala_dec_13_2021/)
 - [&quot;Scala CLI&quot; - Tool or Toy?](https://www.reddit.com/r/scala/comments/rec9do/scala_cli_tool_or_toy/)
 - [Dupin 0.2.0 got Scala 3/JS/Native support and more](https://www.reddit.com/r/scala/comments/re2te2/dupin_020_got_scala_3jsnative_support_and_more/)
 - [Want to learn Scala or Java Data Structures in details.](https://www.reddit.com/r/scala/comments/rdxdj8/want_to_learn_scala_or_java_data_structures_in/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [2021-12-10 benchmark results · LesnyRumcajs/grpc_bench Wiki](https://www.reddit.com/r/scala/comments/rdlad0/20211210_benchmark_results_lesnyrumcajsgrpc_bench/)
 - [sbt publish to remote repo issues](https://www.reddit.com/r/scala/comments/rdcfsl/sbt_publish_to_remote_repo_issues/)
 - [sbt 1.5.6 released](https://www.reddit.com/r/scala/comments/rd238u/sbt_156_released/)
-- [Scala 3 RDBMS Libraries](https://www.reddit.com/r/scala/comments/rcv033/scala_3_rdbms_libraries/)
-- [What are the popular Scala 3 test framework as of 2021?](https://www.reddit.com/r/scala/comments/rck6pp/what_are_the_popular_scala_3_test_framework_as_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

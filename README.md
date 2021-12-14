@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Which functional programming book is &quot;better&quot;?](https://www.reddit.com/r/scala/comments/rfiurb/which_functional_programming_book_is_better/)
+- [Advent of crab 🦀🦀🦀 &lpar;#adventofcode days 6-9&rpar;](https://www.reddit.com/r/scala/comments/rffhiq/advent_of_crab_adventofcode_days_69/)
 - [Documentation?](https://www.reddit.com/r/scala/comments/rf2wz8/documentation/)
 - [This week in #Scala &lpar;Dec 13, 2021&rpar;](https://www.reddit.com/r/scala/comments/reyph4/this_week_in_scala_dec_13_2021/)
 - [&quot;Scala CLI&quot; - Tool or Toy?](https://www.reddit.com/r/scala/comments/rec9do/scala_cli_tool_or_toy/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Random Spawn 2D Wall](https://www.reddit.com/r/scala/comments/rdue63/random_spawn_2d_wall/)
 - [Is anyone using jOOQ for query building in Scala?](https://www.reddit.com/r/scala/comments/rdni89/is_anyone_using_jooq_for_query_building_in_scala/)
 - [2021-12-10 benchmark results · LesnyRumcajs/grpc_bench Wiki](https://www.reddit.com/r/scala/comments/rdlad0/20211210_benchmark_results_lesnyrumcajsgrpc_bench/)
-- [sbt publish to remote repo issues](https://www.reddit.com/r/scala/comments/rdcfsl/sbt_publish_to_remote_repo_issues/)
-- [sbt 1.5.6 released](https://www.reddit.com/r/scala/comments/rd238u/sbt_156_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

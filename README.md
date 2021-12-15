@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Share your Scala expertise at Functional Conf 2022 - Call for Proposals &lpar;closes January 15&rpar;](https://www.reddit.com/r/scala/comments/rgk0mg/share_your_scala_expertise_at_functional_conf/)
+- [“Sustainable Scala” — blog post by Julien Richard-Foy &lpar;Scala Center&rpar;, Wojciech Mazur &lpar;VirtusLab&rpar;](https://www.reddit.com/r/scala/comments/rgj6i1/sustainable_scala_blog_post_by_julien_richardfoy/)
+- [Is there any place to post newbie questions?](https://www.reddit.com/r/scala/comments/rgfdq3/is_there_any_place_to_post_newbie_questions/)
+- [Macros: how to match a generic implicit conversion using quoted code?](https://www.reddit.com/r/scala/comments/rge3q3/macros_how_to_match_a_generic_implicit_conversion/)
+- [Can someone please explain &quot;implicit&quot; to me like I&#39;m five?](https://www.reddit.com/r/scala/comments/rg8ora/can_someone_please_explain_implicit_to_me_like_im/)
+- [Functional Programming in scala beginner](https://www.reddit.com/r/scala/comments/rg2vcd/functional_programming_in_scala_beginner/)
 - [Which functional programming book is &quot;better&quot;?](https://www.reddit.com/r/scala/comments/rfiurb/which_functional_programming_book_is_better/)
 - [Advent of crab 🦀🦀🦀 &lpar;#adventofcode days 6-9&rpar;](https://www.reddit.com/r/scala/comments/rffhiq/advent_of_crab_adventofcode_days_69/)
 - [Documentation?](https://www.reddit.com/r/scala/comments/rf2wz8/documentation/)
 - [This week in #Scala &lpar;Dec 13, 2021&rpar;](https://www.reddit.com/r/scala/comments/reyph4/this_week_in_scala_dec_13_2021/)
-- [&quot;Scala CLI&quot; - Tool or Toy?](https://www.reddit.com/r/scala/comments/rec9do/scala_cli_tool_or_toy/)
-- [Dupin 0.2.0 got Scala 3/JS/Native support and more](https://www.reddit.com/r/scala/comments/re2te2/dupin_020_got_scala_3jsnative_support_and_more/)
-- [Want to learn Scala or Java Data Structures in details.](https://www.reddit.com/r/scala/comments/rdxdj8/want_to_learn_scala_or_java_data_structures_in/)
-- [Random Spawn 2D Wall](https://www.reddit.com/r/scala/comments/rdue63/random_spawn_2d_wall/)
-- [Is anyone using jOOQ for query building in Scala?](https://www.reddit.com/r/scala/comments/rdni89/is_anyone_using_jooq_for_query_building_in_scala/)
-- [2021-12-10 benchmark results · LesnyRumcajs/grpc_bench Wiki](https://www.reddit.com/r/scala/comments/rdlad0/20211210_benchmark_results_lesnyrumcajsgrpc_bench/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

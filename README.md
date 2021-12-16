@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Designing a Framework for Conversational Interfaces using PL design, API Design, and formal methods](https://www.reddit.com/r/scala/comments/rhehss/designing_a_framework_for_conversational/)
+- [sbt 1.5.7 released](https://www.reddit.com/r/scala/comments/rgtl88/sbt_157_released/)
 - [Share your Scala expertise at Functional Conf 2022 - Call for Proposals &lpar;closes January 15&rpar;](https://www.reddit.com/r/scala/comments/rgk0mg/share_your_scala_expertise_at_functional_conf/)
 - [“Sustainable Scala” — blog post by Julien Richard-Foy &lpar;Scala Center&rpar;, Wojciech Mazur &lpar;VirtusLab&rpar;](https://www.reddit.com/r/scala/comments/rgj6i1/sustainable_scala_blog_post_by_julien_richardfoy/)
 - [Is there any place to post newbie questions?](https://www.reddit.com/r/scala/comments/rgfdq3/is_there_any_place_to_post_newbie_questions/)
-- [Macros: how to match a generic implicit conversion using quoted code?](https://www.reddit.com/r/scala/comments/rge3q3/macros_how_to_match_a_generic_implicit_conversion/)
 - [Can someone please explain &quot;implicit&quot; to me like I&#39;m five?](https://www.reddit.com/r/scala/comments/rg8ora/can_someone_please_explain_implicit_to_me_like_im/)
 - [Functional Programming in scala beginner](https://www.reddit.com/r/scala/comments/rg2vcd/functional_programming_in_scala_beginner/)
 - [Which functional programming book is &quot;better&quot;?](https://www.reddit.com/r/scala/comments/rfiurb/which_functional_programming_book_is_better/)
 - [Advent of crab 🦀🦀🦀 &lpar;#adventofcode days 6-9&rpar;](https://www.reddit.com/r/scala/comments/rffhiq/advent_of_crab_adventofcode_days_69/)
 - [Documentation?](https://www.reddit.com/r/scala/comments/rf2wz8/documentation/)
-- [This week in #Scala &lpar;Dec 13, 2021&rpar;](https://www.reddit.com/r/scala/comments/reyph4/this_week_in_scala_dec_13_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

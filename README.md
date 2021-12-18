@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How do I make a 3 column dataframe from 3 ListBuffers in Scala ;](https://www.reddit.com/r/scala/comments/ri5d1b/how_do_i_make_a_3_column_dataframe_from_3/)
+- [Which European country has the highest demand for scala developers](https://www.reddit.com/r/scala/comments/rit4sp/which_european_country_has_the_highest_demand_for/)
+- [Friend had trouble getting started with Scala 3. Recorded video walking through a from-scratch development setup for a Gradle + Scala 3 app, in VS Code w/ Metals. Also touched on binary compatibility and other traps I fell into as a beginner.](https://www.reddit.com/r/scala/comments/riqmdc/friend_had_trouble_getting_started_with_scala_3/)
+- [We need some feedback what kind of geospatial analysis should be implemented for the scala community .](https://www.reddit.com/r/scala/comments/rioqee/we_need_some_feedback_what_kind_of_geospatial/)
+- [Fully remote Scala compensations](https://www.reddit.com/r/scala/comments/rika28/fully_remote_scala_compensations/)
+- [Scala Backend Recommendation for Beginners](https://www.reddit.com/r/scala/comments/rib1fq/scala_backend_recommendation_for_beginners/)
 - [Implicits for the Fellow in that Other Post](https://www.reddit.com/r/scala/comments/ri0a1w/implicits_for_the_fellow_in_that_other_post/)
 - [The state of the log4j CVE in the Scala ecosystem](https://www.reddit.com/r/scala/comments/rhvhep/the_state_of_the_log4j_cve_in_the_scala_ecosystem/)
 - [ZIO environment: episode 3](https://www.reddit.com/r/scala/comments/rhthis/zio_environment_episode_3/)
 - [New job role dilemma](https://www.reddit.com/r/scala/comments/rhqbuz/new_job_role_dilemma/)
 - [Designing a Framework for Conversational Interfaces using PL design, API Design, and formal methods](https://www.reddit.com/r/scala/comments/rhehss/designing_a_framework_for_conversational/)
-- [sbt 1.5.7 released](https://www.reddit.com/r/scala/comments/rgtl88/sbt_157_released/)
-- [Share your Scala expertise at Functional Conf 2022 - Call for Proposals &lpar;closes January 15&rpar;](https://www.reddit.com/r/scala/comments/rgk0mg/share_your_scala_expertise_at_functional_conf/)
-- [“Sustainable Scala” — blog post by Julien Richard-Foy &lpar;Scala Center&rpar;, Wojciech Mazur &lpar;VirtusLab&rpar;](https://www.reddit.com/r/scala/comments/rgj6i1/sustainable_scala_blog_post_by_julien_richardfoy/)
-- [Is there any place to post newbie questions?](https://www.reddit.com/r/scala/comments/rgfdq3/is_there_any_place_to_post_newbie_questions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

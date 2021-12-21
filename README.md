@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 1.5.8 released](https://www.reddit.com/r/scala/comments/rl1f64/sbt_158_released/)
+- [This week in #Scala &lpar;Dec 21, 2020 ;](https://www.reddit.com/r/scala/comments/rl0p8x/this_week_in_scala_dec_21_2020/)
+- [Play Framework has completed its transition from Lightbend to Open Collective](https://www.reddit.com/r/scala/comments/rkxgvm/play_framework_has_completed_its_transition_from/)
+- [An Akka Streams workshop](https://www.reddit.com/r/scala/comments/rkwgxc/an_akka_streams_workshop/)
+- [Tagless Final in Scala](https://www.reddit.com/r/scala/comments/rkuuji/tagless_final_in_scala/)
+- [New to Scala](https://www.reddit.com/r/scala/comments/rko9vn/new_to_scala/)
+- [&#39;Ambiguous implicit arguments&#39; when using FromExpr[T]](https://www.reddit.com/r/scala/comments/rkj8dh/ambiguous_implicit_arguments_when_using_fromexprt/)
 - [This week in #Scala &lpar;Dec 20, 2021&rpar;](https://www.reddit.com/r/scala/comments/rk7elw/this_week_in_scala_dec_20_2021/)
 - [Few questions about Scala and ZIO best practices](https://www.reddit.com/r/scala/comments/rk3v6s/few_questions_about_scala_and_zio_best_practices/)
 - [My Dos and Dont&#39;s in sbt Build Definitions](https://www.reddit.com/r/scala/comments/rjyse0/my_dos_and_donts_in_sbt_build_definitions/)
-- [sbt 1.6.0-RC2 released](https://www.reddit.com/r/scala/comments/rjmrlt/sbt_160rc2_released/)
-- [&quot;Akka Concurrency&quot; Review &amp; The Truth about Actors &amp; Akka](https://www.reddit.com/r/scala/comments/rjk21v/akka_concurrency_review_the_truth_about_actors/)
-- [Scala Parser Combinator - SQL Parser AND-Operator](https://www.reddit.com/r/scala/comments/rj5ftg/scala_parser_combinator_sql_parser_andoperator/)
-- [Which European country has the highest demand for scala developers](https://www.reddit.com/r/scala/comments/rit4sp/which_european_country_has_the_highest_demand_for/)
-- [Friend had trouble getting started with Scala 3. Recorded video walking through a from-scratch development setup for a Gradle + Scala 3 app, in VS Code w/ Metals. Also touched on binary compatibility and other traps I fell into as a beginner.](https://www.reddit.com/r/scala/comments/riqmdc/friend_had_trouble_getting_started_with_scala_3/)
-- [We need some feedback what kind of geospatial analysis should be implemented for the scala community .](https://www.reddit.com/r/scala/comments/rioqee/we_need_some_feedback_what_kind_of_geospatial/)
-- [Fully remote Scala compensations](https://www.reddit.com/r/scala/comments/rika28/fully_remote_scala_compensations/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

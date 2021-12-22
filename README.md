@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The wonder of context functions](https://www.reddit.com/r/scala/comments/rlhyu0/the_wonder_of_context_functions/)
+- [Ramp time on scala stack](https://www.reddit.com/r/scala/comments/rlgq9n/ramp_time_on_scala_stack/)
+- [Discord is Scala&#39;s main chat platform now. Bye Gitter!](https://www.reddit.com/r/scala/comments/rlgmrf/discord_is_scalas_main_chat_platform_now_bye/)
+- [An Introduction to the Mill Build Tool - Oliver Mélois](https://www.reddit.com/r/scala/comments/rlahcq/an_introduction_to_the_mill_build_tool_oliver/)
 - [sbt 1.5.8 released](https://www.reddit.com/r/scala/comments/rl1f64/sbt_158_released/)
-- [This week in #Scala &lpar;Dec 21, 2020 ;](https://www.reddit.com/r/scala/comments/rl0p8x/this_week_in_scala_dec_21_2020/)
 - [Play Framework has completed its transition from Lightbend to Open Collective](https://www.reddit.com/r/scala/comments/rkxgvm/play_framework_has_completed_its_transition_from/)
 - [An Akka Streams workshop](https://www.reddit.com/r/scala/comments/rkwgxc/an_akka_streams_workshop/)
 - [Tagless Final in Scala](https://www.reddit.com/r/scala/comments/rkuuji/tagless_final_in_scala/)
 - [New to Scala](https://www.reddit.com/r/scala/comments/rko9vn/new_to_scala/)
 - [&#39;Ambiguous implicit arguments&#39; when using FromExpr[T]](https://www.reddit.com/r/scala/comments/rkj8dh/ambiguous_implicit_arguments_when_using_fromexprt/)
-- [This week in #Scala &lpar;Dec 20, 2021&rpar;](https://www.reddit.com/r/scala/comments/rk7elw/this_week_in_scala_dec_20_2021/)
-- [Few questions about Scala and ZIO best practices](https://www.reddit.com/r/scala/comments/rk3v6s/few_questions_about_scala_and_zio_best_practices/)
-- [My Dos and Dont&#39;s in sbt Build Definitions](https://www.reddit.com/r/scala/comments/rjyse0/my_dos_and_donts_in_sbt_build_definitions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

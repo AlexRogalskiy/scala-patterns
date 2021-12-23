@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Meet smithy4s, a framework for generation http4s servers and clients from Smithy IDLs](https://www.reddit.com/r/scala/comments/rm9cgc/meet_smithy4s_a_framework_for_generation_http4s/)
+- [Kind Vs Type Constructor](https://www.reddit.com/r/scala/comments/rm7czy/kind_vs_type_constructor/)
+- [TypeVille Conference - Call For Papers till 9 January](https://www.reddit.com/r/scala/comments/rm0qc3/typeville_conference_call_for_papers_till_9/)
+- [Managing Effects in Domain Models - The Algebraic Way by Debasish Ghosh at #FnConf18](https://www.reddit.com/r/scala/comments/rlwiku/managing_effects_in_domain_models_the_algebraic/)
 - [The wonder of context functions](https://www.reddit.com/r/scala/comments/rlhyu0/the_wonder_of_context_functions/)
 - [Ramp time on scala stack](https://www.reddit.com/r/scala/comments/rlgq9n/ramp_time_on_scala_stack/)
 - [Discord is Scala&#39;s main chat platform now. Bye Gitter!](https://www.reddit.com/r/scala/comments/rlgmrf/discord_is_scalas_main_chat_platform_now_bye/)
 - [An Introduction to the Mill Build Tool - Oliver Mélois](https://www.reddit.com/r/scala/comments/rlahcq/an_introduction_to_the_mill_build_tool_oliver/)
 - [sbt 1.5.8 released](https://www.reddit.com/r/scala/comments/rl1f64/sbt_158_released/)
 - [Play Framework has completed its transition from Lightbend to Open Collective](https://www.reddit.com/r/scala/comments/rkxgvm/play_framework_has_completed_its_transition_from/)
-- [An Akka Streams workshop](https://www.reddit.com/r/scala/comments/rkwgxc/an_akka_streams_workshop/)
-- [Tagless Final in Scala](https://www.reddit.com/r/scala/comments/rkuuji/tagless_final_in_scala/)
-- [New to Scala](https://www.reddit.com/r/scala/comments/rko9vn/new_to_scala/)
-- [&#39;Ambiguous implicit arguments&#39; when using FromExpr[T]](https://www.reddit.com/r/scala/comments/rkj8dh/ambiguous_implicit_arguments_when_using_fromexprt/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

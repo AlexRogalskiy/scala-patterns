@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala and Rust interoperability via JNI, a howto guide](https://www.reddit.com/r/scala/comments/rmx9ld/scala_and_rust_interoperability_via_jni_a_howto/)
 - [Meet smithy4s, a framework for generation http4s servers and clients from Smithy IDLs](https://www.reddit.com/r/scala/comments/rm9cgc/meet_smithy4s_a_framework_for_generation_http4s/)
 - [Kind Vs Type Constructor](https://www.reddit.com/r/scala/comments/rm7czy/kind_vs_type_constructor/)
 - [TypeVille Conference - Call For Papers till 9 January](https://www.reddit.com/r/scala/comments/rm0qc3/typeville_conference_call_for_papers_till_9/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Discord is Scala&#39;s main chat platform now. Bye Gitter!](https://www.reddit.com/r/scala/comments/rlgmrf/discord_is_scalas_main_chat_platform_now_bye/)
 - [An Introduction to the Mill Build Tool - Oliver Mélois](https://www.reddit.com/r/scala/comments/rlahcq/an_introduction_to_the_mill_build_tool_oliver/)
 - [sbt 1.5.8 released](https://www.reddit.com/r/scala/comments/rl1f64/sbt_158_released/)
-- [Play Framework has completed its transition from Lightbend to Open Collective](https://www.reddit.com/r/scala/comments/rkxgvm/play_framework_has_completed_its_transition_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

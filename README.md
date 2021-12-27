@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Dec 27, 2021&rpar;](https://www.reddit.com/r/scala/comments/rp7k8x/this_week_in_scala_dec_27_2021/)
+- [sbt 1.6.0 released](https://www.reddit.com/r/scala/comments/rp572k/sbt_160_released/)
 - [Scala 3 Native support was published](https://www.reddit.com/r/scala/comments/rnk9rh/scala_3_native_support_was_published/)
 - [Scala and Rust interoperability via JNI, a howto guide](https://www.reddit.com/r/scala/comments/rmx9ld/scala_and_rust_interoperability_via_jni_a_howto/)
 - [Meet smithy4s, a framework for generation http4s servers and clients from Smithy IDLs](https://www.reddit.com/r/scala/comments/rm9cgc/meet_smithy4s_a_framework_for_generation_http4s/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Managing Effects in Domain Models - The Algebraic Way by Debasish Ghosh at #FnConf18](https://www.reddit.com/r/scala/comments/rlwiku/managing_effects_in_domain_models_the_algebraic/)
 - [The wonder of context functions](https://www.reddit.com/r/scala/comments/rlhyu0/the_wonder_of_context_functions/)
 - [Ramp time on scala stack](https://www.reddit.com/r/scala/comments/rlgq9n/ramp_time_on_scala_stack/)
-- [Discord is Scala&#39;s main chat platform now. Bye Gitter!](https://www.reddit.com/r/scala/comments/rlgmrf/discord_is_scalas_main_chat_platform_now_bye/)
-- [An Introduction to the Mill Build Tool - Oliver Mélois](https://www.reddit.com/r/scala/comments/rlahcq/an_introduction_to_the_mill_build_tool_oliver/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

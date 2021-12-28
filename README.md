@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Truth maintenance systems in Scala](https://www.reddit.com/r/scala/comments/rq1bc1/truth_maintenance_systems_in_scala/)
 - [This week in #Scala &lpar;Dec 27, 2021&rpar;](https://www.reddit.com/r/scala/comments/rp7k8x/this_week_in_scala_dec_27_2021/)
 - [sbt 1.6.0 released](https://www.reddit.com/r/scala/comments/rp572k/sbt_160_released/)
 - [Scala 3 Native support was published](https://www.reddit.com/r/scala/comments/rnk9rh/scala_3_native_support_was_published/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [TypeVille Conference - Call For Papers till 9 January](https://www.reddit.com/r/scala/comments/rm0qc3/typeville_conference_call_for_papers_till_9/)
 - [Managing Effects in Domain Models - The Algebraic Way by Debasish Ghosh at #FnConf18](https://www.reddit.com/r/scala/comments/rlwiku/managing_effects_in_domain_models_the_algebraic/)
 - [The wonder of context functions](https://www.reddit.com/r/scala/comments/rlhyu0/the_wonder_of_context_functions/)
-- [Ramp time on scala stack](https://www.reddit.com/r/scala/comments/rlgq9n/ramp_time_on_scala_stack/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

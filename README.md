@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Caves, octopuses and folding invisible paper &lpar;Advent of Code days 10-13&rpar;](https://www.reddit.com/r/scala/comments/rqfg51/caves_octopuses_and_folding_invisible_paper/)
+- [Please help in understanding the following snippet](https://www.reddit.com/r/scala/comments/rqay0m/please_help_in_understanding_the_following_snippet/)
 - [Truth maintenance systems in Scala](https://www.reddit.com/r/scala/comments/rq1bc1/truth_maintenance_systems_in_scala/)
 - [This week in #Scala &lpar;Dec 27, 2021&rpar;](https://www.reddit.com/r/scala/comments/rp7k8x/this_week_in_scala_dec_27_2021/)
 - [sbt 1.6.0 released](https://www.reddit.com/r/scala/comments/rp572k/sbt_160_released/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Meet smithy4s, a framework for generation http4s servers and clients from Smithy IDLs](https://www.reddit.com/r/scala/comments/rm9cgc/meet_smithy4s_a_framework_for_generation_http4s/)
 - [Kind Vs Type Constructor](https://www.reddit.com/r/scala/comments/rm7czy/kind_vs_type_constructor/)
 - [TypeVille Conference - Call For Papers till 9 January](https://www.reddit.com/r/scala/comments/rm0qc3/typeville_conference_call_for_papers_till_9/)
-- [Managing Effects in Domain Models - The Algebraic Way by Debasish Ghosh at #FnConf18](https://www.reddit.com/r/scala/comments/rlwiku/managing_effects_in_domain_models_the_algebraic/)
-- [The wonder of context functions](https://www.reddit.com/r/scala/comments/rlhyu0/the_wonder_of_context_functions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

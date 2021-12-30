@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [MIT 6.824: Distributed Systems study group](https://www.reddit.com/r/scala/comments/rrext6/mit_6824_distributed_systems_study_group/)
+- [sbt 1.6.1 released](https://www.reddit.com/r/scala/comments/rr0vjq/sbt_161_released/)
+- [New to Scala, looking for REST API Framework recommendations.](https://www.reddit.com/r/scala/comments/rqzbt5/new_to_scala_looking_for_rest_api_framework/)
 - [Caves, octopuses and folding invisible paper &lpar;Advent of Code days 10-13&rpar;](https://www.reddit.com/r/scala/comments/rqfg51/caves_octopuses_and_folding_invisible_paper/)
 - [Please help in understanding the following snippet](https://www.reddit.com/r/scala/comments/rqay0m/please_help_in_understanding_the_following_snippet/)
 - [Truth maintenance systems in Scala](https://www.reddit.com/r/scala/comments/rq1bc1/truth_maintenance_systems_in_scala/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt 1.6.0 released](https://www.reddit.com/r/scala/comments/rp572k/sbt_160_released/)
 - [Scala 3 Native support was published](https://www.reddit.com/r/scala/comments/rnk9rh/scala_3_native_support_was_published/)
 - [Scala and Rust interoperability via JNI, a howto guide](https://www.reddit.com/r/scala/comments/rmx9ld/scala_and_rust_interoperability_via_jni_a_howto/)
-- [Meet smithy4s, a framework for generation http4s servers and clients from Smithy IDLs](https://www.reddit.com/r/scala/comments/rm9cgc/meet_smithy4s_a_framework_for_generation_http4s/)
-- [Kind Vs Type Constructor](https://www.reddit.com/r/scala/comments/rm7czy/kind_vs_type_constructor/)
-- [TypeVille Conference - Call For Papers till 9 January](https://www.reddit.com/r/scala/comments/rm0qc3/typeville_conference_call_for_papers_till_9/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

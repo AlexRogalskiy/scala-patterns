@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Notes about loading configuration | Examples for Play Framework](https://www.reddit.com/r/scala/comments/rsfbl5/notes_about_loading_configuration_examples_for/)
+- [Fun with type level default parameters](https://www.reddit.com/r/scala/comments/rsdkac/fun_with_type_level_default_parameters/)
+- [Scala Monad Option.size](https://www.reddit.com/r/scala/comments/rrz5y7/scala_monad_optionsize/)
 - [MIT 6.824: Distributed Systems study group](https://www.reddit.com/r/scala/comments/rrext6/mit_6824_distributed_systems_study_group/)
 - [sbt 1.6.1 released](https://www.reddit.com/r/scala/comments/rr0vjq/sbt_161_released/)
 - [New to Scala, looking for REST API Framework recommendations.](https://www.reddit.com/r/scala/comments/rqzbt5/new_to_scala_looking_for_rest_api_framework/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Please help in understanding the following snippet](https://www.reddit.com/r/scala/comments/rqay0m/please_help_in_understanding_the_following_snippet/)
 - [Truth maintenance systems in Scala](https://www.reddit.com/r/scala/comments/rq1bc1/truth_maintenance_systems_in_scala/)
 - [This week in #Scala &lpar;Dec 27, 2021&rpar;](https://www.reddit.com/r/scala/comments/rp7k8x/this_week_in_scala_dec_27_2021/)
-- [sbt 1.6.0 released](https://www.reddit.com/r/scala/comments/rp572k/sbt_160_released/)
-- [Scala 3 Native support was published](https://www.reddit.com/r/scala/comments/rnk9rh/scala_3_native_support_was_published/)
-- [Scala and Rust interoperability via JNI, a howto guide](https://www.reddit.com/r/scala/comments/rmx9ld/scala_and_rust_interoperability_via_jni_a_howto/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

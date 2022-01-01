@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [granularity of testing](https://www.reddit.com/r/scala/comments/rt09w6/granularity_of_testing/)
 - [Notes about loading configuration | Examples for Play Framework](https://www.reddit.com/r/scala/comments/rsfbl5/notes_about_loading_configuration_examples_for/)
 - [Fun with type level default parameters](https://www.reddit.com/r/scala/comments/rsdkac/fun_with_type_level_default_parameters/)
 - [Scala Monad Option.size](https://www.reddit.com/r/scala/comments/rrz5y7/scala_monad_optionsize/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Caves, octopuses and folding invisible paper &lpar;Advent of Code days 10-13&rpar;](https://www.reddit.com/r/scala/comments/rqfg51/caves_octopuses_and_folding_invisible_paper/)
 - [Please help in understanding the following snippet](https://www.reddit.com/r/scala/comments/rqay0m/please_help_in_understanding_the_following_snippet/)
 - [Truth maintenance systems in Scala](https://www.reddit.com/r/scala/comments/rq1bc1/truth_maintenance_systems_in_scala/)
-- [This week in #Scala &lpar;Dec 27, 2021&rpar;](https://www.reddit.com/r/scala/comments/rp7k8x/this_week_in_scala_dec_27_2021/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New Year! New Indigo Release! 🎉 &lpar;0.11.0&rpar;](https://www.reddit.com/r/scala/comments/rtpqut/new_year_new_indigo_release_0110/)
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/rtnc6o/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [granularity of testing](https://www.reddit.com/r/scala/comments/rt09w6/granularity_of_testing/)
 - [Notes about loading configuration | Examples for Play Framework](https://www.reddit.com/r/scala/comments/rsfbl5/notes_about_loading_configuration_examples_for/)
 - [Fun with type level default parameters](https://www.reddit.com/r/scala/comments/rsdkac/fun_with_type_level_default_parameters/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt 1.6.1 released](https://www.reddit.com/r/scala/comments/rr0vjq/sbt_161_released/)
 - [New to Scala, looking for REST API Framework recommendations.](https://www.reddit.com/r/scala/comments/rqzbt5/new_to_scala_looking_for_rest_api_framework/)
 - [Caves, octopuses and folding invisible paper &lpar;Advent of Code days 10-13&rpar;](https://www.reddit.com/r/scala/comments/rqfg51/caves_octopuses_and_folding_invisible_paper/)
-- [Please help in understanding the following snippet](https://www.reddit.com/r/scala/comments/rqay0m/please_help_in_understanding_the_following_snippet/)
-- [Truth maintenance systems in Scala](https://www.reddit.com/r/scala/comments/rq1bc1/truth_maintenance_systems_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

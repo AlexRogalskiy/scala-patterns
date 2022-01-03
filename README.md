@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Jan 3, 2022&rpar;](https://www.reddit.com/r/scala/comments/runnlk/this_week_in_scala_jan_3_2022/)
+- [Iron v1.2.0 is out | Happy new year](https://www.reddit.com/r/scala/comments/ru8uy0/iron_v120_is_out_happy_new_year/)
 - [New Year! New Indigo Release! 🎉 &lpar;0.11.0&rpar;](https://www.reddit.com/r/scala/comments/rtpqut/new_year_new_indigo_release_0110/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/rtnc6o/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [granularity of testing](https://www.reddit.com/r/scala/comments/rt09w6/granularity_of_testing/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Monad Option.size](https://www.reddit.com/r/scala/comments/rrz5y7/scala_monad_optionsize/)
 - [MIT 6.824: Distributed Systems study group](https://www.reddit.com/r/scala/comments/rrext6/mit_6824_distributed_systems_study_group/)
 - [sbt 1.6.1 released](https://www.reddit.com/r/scala/comments/rr0vjq/sbt_161_released/)
-- [New to Scala, looking for REST API Framework recommendations.](https://www.reddit.com/r/scala/comments/rqzbt5/new_to_scala_looking_for_rest_api_framework/)
-- [Caves, octopuses and folding invisible paper &lpar;Advent of Code days 10-13&rpar;](https://www.reddit.com/r/scala/comments/rqfg51/caves_octopuses_and_folding_invisible_paper/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

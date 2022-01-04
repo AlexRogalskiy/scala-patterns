@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need suggestions on where and how I can practice functional programming with Scala or in general programming in Scala. New to Scala.](https://www.reddit.com/r/scala/comments/rv4xjg/need_suggestions_on_where_and_how_i_can_practice/)
+- [Libray for ACL in Play Framework](https://www.reddit.com/r/scala/comments/rv08zz/libray_for_acl_in_play_framework/)
 - [This week in #Scala &lpar;Jan 3, 2022&rpar;](https://www.reddit.com/r/scala/comments/runnlk/this_week_in_scala_jan_3_2022/)
 - [Iron v1.2.0 is out | Happy new year](https://www.reddit.com/r/scala/comments/ru8uy0/iron_v120_is_out_happy_new_year/)
 - [New Year! New Indigo Release! 🎉 &lpar;0.11.0&rpar;](https://www.reddit.com/r/scala/comments/rtpqut/new_year_new_indigo_release_0110/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Notes about loading configuration | Examples for Play Framework](https://www.reddit.com/r/scala/comments/rsfbl5/notes_about_loading_configuration_examples_for/)
 - [Fun with type level default parameters](https://www.reddit.com/r/scala/comments/rsdkac/fun_with_type_level_default_parameters/)
 - [Scala Monad Option.size](https://www.reddit.com/r/scala/comments/rrz5y7/scala_monad_optionsize/)
-- [MIT 6.824: Distributed Systems study group](https://www.reddit.com/r/scala/comments/rrext6/mit_6824_distributed_systems_study_group/)
-- [sbt 1.6.1 released](https://www.reddit.com/r/scala/comments/rr0vjq/sbt_161_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

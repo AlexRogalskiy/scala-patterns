@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Probably already boring question about Play Framework](https://www.reddit.com/r/scala/comments/rw0vdg/probably_already_boring_question_about_play/)
 - [Need suggestions on where and how I can practice functional programming with Scala or in general programming in Scala. New to Scala.](https://www.reddit.com/r/scala/comments/rv4xjg/need_suggestions_on_where_and_how_i_can_practice/)
 - [Libray for ACL in Play Framework](https://www.reddit.com/r/scala/comments/rv08zz/libray_for_acl_in_play_framework/)
 - [This week in #Scala &lpar;Jan 3, 2022&rpar;](https://www.reddit.com/r/scala/comments/runnlk/this_week_in_scala_jan_3_2022/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [granularity of testing](https://www.reddit.com/r/scala/comments/rt09w6/granularity_of_testing/)
 - [Notes about loading configuration | Examples for Play Framework](https://www.reddit.com/r/scala/comments/rsfbl5/notes_about_loading_configuration_examples_for/)
 - [Fun with type level default parameters](https://www.reddit.com/r/scala/comments/rsdkac/fun_with_type_level_default_parameters/)
-- [Scala Monad Option.size](https://www.reddit.com/r/scala/comments/rrz5y7/scala_monad_optionsize/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

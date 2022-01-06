@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is Akka still so low-level?](https://www.reddit.com/r/scala/comments/rwy9jj/is_akka_still_so_lowlevel/)
+- [John Snow Labs Spark-NLP 3.4.0: New OpenAI GPT-2, new ALBERT, XLNet, RoBERTa, XLM-RoBERTa, and Longformer for Sequence Classification, support for Spark 3.2, new distributed Word2Vec, extend support to more Databricks &amp; EMR runtimes, new state-of-the-art transformer models, bug fixes, and lots more!](https://www.reddit.com/r/scala/comments/rwpswy/john_snow_labs_sparknlp_340_new_openai_gpt2_new/)
 - [Probably already boring question about Play Framework](https://www.reddit.com/r/scala/comments/rw0vdg/probably_already_boring_question_about_play/)
 - [Need suggestions on where and how I can practice functional programming with Scala or in general programming in Scala. New to Scala.](https://www.reddit.com/r/scala/comments/rv4xjg/need_suggestions_on_where_and_how_i_can_practice/)
 - [Libray for ACL in Play Framework](https://www.reddit.com/r/scala/comments/rv08zz/libray_for_acl_in_play_framework/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [New Year! New Indigo Release! 🎉 &lpar;0.11.0&rpar;](https://www.reddit.com/r/scala/comments/rtpqut/new_year_new_indigo_release_0110/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/rtnc6o/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [granularity of testing](https://www.reddit.com/r/scala/comments/rt09w6/granularity_of_testing/)
-- [Notes about loading configuration | Examples for Play Framework](https://www.reddit.com/r/scala/comments/rsfbl5/notes_about_loading_configuration_examples_for/)
-- [Fun with type level default parameters](https://www.reddit.com/r/scala/comments/rsdkac/fun_with_type_level_default_parameters/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Jan 10, 2022&rpar;](https://www.reddit.com/r/scala/comments/s02dcf/this_week_in_scala_jan_10_2022/)
+- [GraalVM native-image with Scala 3 reflection hell](https://www.reddit.com/r/scala/comments/rzvkmi/graalvm_nativeimage_with_scala_3_reflection_hell/)
+- [Happy 2022! &lpar;Scala project from scratch #6&rpar;](https://www.reddit.com/r/scala/comments/rzt7gb/happy_2022_scala_project_from_scratch_6/)
 - [&quot;Functional Programming for Mortals with Scalaz&quot; Review](https://www.reddit.com/r/scala/comments/rzeg75/functional_programming_for_mortals_with_scalaz/)
 - [Interview knowledge](https://www.reddit.com/r/scala/comments/rxmjnt/interview_knowledge/)
 - [Is Akka still so low-level?](https://www.reddit.com/r/scala/comments/rwy9jj/is_akka_still_so_lowlevel/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Probably already boring question about Play Framework](https://www.reddit.com/r/scala/comments/rw0vdg/probably_already_boring_question_about_play/)
 - [Need suggestions on where and how I can practice functional programming with Scala or in general programming in Scala. New to Scala.](https://www.reddit.com/r/scala/comments/rv4xjg/need_suggestions_on_where_and_how_i_can_practice/)
 - [Libray for ACL in Play Framework](https://www.reddit.com/r/scala/comments/rv08zz/libray_for_acl_in_play_framework/)
-- [This week in #Scala &lpar;Jan 3, 2022&rpar;](https://www.reddit.com/r/scala/comments/runnlk/this_week_in_scala_jan_3_2022/)
-- [Iron v1.2.0 is out | Happy new year](https://www.reddit.com/r/scala/comments/ru8uy0/iron_v120_is_out_happy_new_year/)
-- [New Year! New Indigo Release! 🎉 &lpar;0.11.0&rpar;](https://www.reddit.com/r/scala/comments/rtpqut/new_year_new_indigo_release_0110/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

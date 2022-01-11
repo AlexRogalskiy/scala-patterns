@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is the prerequisite reading materials for &lt;Practical FP in Scala-A Hands on Approach&gt;?](https://www.reddit.com/r/scala/comments/s0xhv6/what_is_the_prerequisite_reading_materials_for/)
+- [Tooling question](https://www.reddit.com/r/scala/comments/s0r84g/tooling_question/)
+- [Circe defaults with refined types](https://www.reddit.com/r/scala/comments/s0ioki/circe_defaults_with_refined_types/)
 - [This week in #Scala &lpar;Jan 10, 2022&rpar;](https://www.reddit.com/r/scala/comments/s02dcf/this_week_in_scala_jan_10_2022/)
 - [GraalVM native-image with Scala 3 reflection hell](https://www.reddit.com/r/scala/comments/rzvkmi/graalvm_nativeimage_with_scala_3_reflection_hell/)
 - [Happy 2022! &lpar;Scala project from scratch #6&rpar;](https://www.reddit.com/r/scala/comments/rzt7gb/happy_2022_scala_project_from_scratch_6/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Interview knowledge](https://www.reddit.com/r/scala/comments/rxmjnt/interview_knowledge/)
 - [Is Akka still so low-level?](https://www.reddit.com/r/scala/comments/rwy9jj/is_akka_still_so_lowlevel/)
 - [John Snow Labs Spark-NLP 3.4.0: New OpenAI GPT-2, new ALBERT, XLNet, RoBERTa, XLM-RoBERTa, and Longformer for Sequence Classification, support for Spark 3.2, new distributed Word2Vec, extend support to more Databricks &amp; EMR runtimes, new state-of-the-art transformer models, bug fixes, and lots more!](https://www.reddit.com/r/scala/comments/rwpswy/john_snow_labs_sparknlp_340_new_openai_gpt2_new/)
-- [Probably already boring question about Play Framework](https://www.reddit.com/r/scala/comments/rw0vdg/probably_already_boring_question_about_play/)
-- [Need suggestions on where and how I can practice functional programming with Scala or in general programming in Scala. New to Scala.](https://www.reddit.com/r/scala/comments/rv4xjg/need_suggestions_on_where_and_how_i_can_practice/)
-- [Libray for ACL in Play Framework](https://www.reddit.com/r/scala/comments/rv08zz/libray_for_acl_in_play_framework/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

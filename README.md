@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What is the prerequisite reading materials for &lt;Practical FP in Scala-A Hands on Approach&gt;?](https://www.reddit.com/r/scala/comments/s0xhv6/what_is_the_prerequisite_reading_materials_for/)
-- [Tooling question](https://www.reddit.com/r/scala/comments/s0r84g/tooling_question/)
-- [Circe defaults with refined types](https://www.reddit.com/r/scala/comments/s0ioki/circe_defaults_with_refined_types/)
-- [This week in #Scala &lpar;Jan 10, 2022&rpar;](https://www.reddit.com/r/scala/comments/s02dcf/this_week_in_scala_jan_10_2022/)
-- [GraalVM native-image with Scala 3 reflection hell](https://www.reddit.com/r/scala/comments/rzvkmi/graalvm_nativeimage_with_scala_3_reflection_hell/)
-- [Happy 2022! &lpar;Scala project from scratch #6&rpar;](https://www.reddit.com/r/scala/comments/rzt7gb/happy_2022_scala_project_from_scratch_6/)
-- [&quot;Functional Programming for Mortals with Scalaz&quot; Review](https://www.reddit.com/r/scala/comments/rzeg75/functional_programming_for_mortals_with_scalaz/)
-- [Interview knowledge](https://www.reddit.com/r/scala/comments/rxmjnt/interview_knowledge/)
-- [Is Akka still so low-level?](https://www.reddit.com/r/scala/comments/rwy9jj/is_akka_still_so_lowlevel/)
-- [John Snow Labs Spark-NLP 3.4.0: New OpenAI GPT-2, new ALBERT, XLNet, RoBERTa, XLM-RoBERTa, and Longformer for Sequence Classification, support for Spark 3.2, new distributed Word2Vec, extend support to more Databricks &amp; EMR runtimes, new state-of-the-art transformer models, bug fixes, and lots more!](https://www.reddit.com/r/scala/comments/rwpswy/john_snow_labs_sparknlp_340_new_openai_gpt2_new/)
+- [Play Framework: first release based at Open Collective](https://www.reddit.com/r/scala/comments/s2mvvs/play_framework_first_release_based_at_open/)
+- [Scala 2.13.8 is here!](https://www.reddit.com/r/scala/comments/s2mrwt/scala_2138_is_here/)
+- [Pants 2.9: Alpha support for Java and Scala](https://www.reddit.com/r/scala/comments/s2it94/pants_29_alpha_support_for_java_and_scala/)
+- [Which static analysis tool do you use for Scala?](https://www.reddit.com/r/scala/comments/s28yeq/which_static_analysis_tool_do_you_use_for_scala/)
+- [Akka: Can an actor of some class become an actor of a diferent class?](https://www.reddit.com/r/scala/comments/s2625b/akka_can_an_actor_of_some_class_become_an_actor/)
+- [Cats Effect - How it works technically?](https://www.reddit.com/r/scala/comments/s23dve/cats_effect_how_it_works_technically/)
+- [2022-01-11 gRPC benchmark results](https://www.reddit.com/r/scala/comments/s22v31/20220111_grpc_benchmark_results/)
+- [Interns training](https://www.reddit.com/r/scala/comments/s1sqdg/interns_training/)
+- [[Event C4P] Last day to submit your Scala talk to TypeVille!](https://www.reddit.com/r/scala/comments/s1jtso/event_c4p_last_day_to_submit_your_scala_talk_to/)
+- [What are the best courses to learn ZIO?](https://www.reddit.com/r/scala/comments/s1ifdb/what_are_the_best_courses_to_learn_zio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

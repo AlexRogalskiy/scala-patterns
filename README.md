@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help: Subscribe to Telegram Bot Messages Task Composition](https://www.reddit.com/r/scala/comments/s3e0n4/help_subscribe_to_telegram_bot_messages_task/)
+- [Beginner question to the experts!](https://www.reddit.com/r/scala/comments/s365z5/beginner_question_to_the_experts/)
+- [Fully Remote Scala Opportunities available](https://www.reddit.com/r/scala/comments/s31vn1/fully_remote_scala_opportunities_available/)
+- [Metals v0.11.0 is out! Basic Java support, test explorer API implementation, Scala 3 improvements, and more.](https://www.reddit.com/r/scala/comments/s2tc29/metals_v0110_is_out_basic_java_support_test/)
 - [Play Framework: first release based at Open Collective](https://www.reddit.com/r/scala/comments/s2mvvs/play_framework_first_release_based_at_open/)
 - [Scala 2.13.8 is here!](https://www.reddit.com/r/scala/comments/s2mrwt/scala_2138_is_here/)
 - [Pants 2.9: Alpha support for Java and Scala](https://www.reddit.com/r/scala/comments/s2it94/pants_29_alpha_support_for_java_and_scala/)
 - [Which static analysis tool do you use for Scala?](https://www.reddit.com/r/scala/comments/s28yeq/which_static_analysis_tool_do_you_use_for_scala/)
 - [Akka: Can an actor of some class become an actor of a diferent class?](https://www.reddit.com/r/scala/comments/s2625b/akka_can_an_actor_of_some_class_become_an_actor/)
 - [Cats Effect - How it works technically?](https://www.reddit.com/r/scala/comments/s23dve/cats_effect_how_it_works_technically/)
-- [2022-01-11 gRPC benchmark results](https://www.reddit.com/r/scala/comments/s22v31/20220111_grpc_benchmark_results/)
-- [Interns training](https://www.reddit.com/r/scala/comments/s1sqdg/interns_training/)
-- [[Event C4P] Last day to submit your Scala talk to TypeVille!](https://www.reddit.com/r/scala/comments/s1jtso/event_c4p_last_day_to_submit_your_scala_talk_to/)
-- [What are the best courses to learn ZIO?](https://www.reddit.com/r/scala/comments/s1ifdb/what_are_the_best_courses_to_learn_zio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

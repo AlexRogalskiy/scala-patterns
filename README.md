@@ -271,8 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is the fastest build tool that requires the least config?](https://www.reddit.com/r/scala/comments/s4o3kw/what_is_the_fastest_build_tool_that_requires_the/)
+- [Macros API of jsoniter-scala got Scala 3 support!](https://www.reddit.com/r/scala/comments/s4hymj/macros_api_of_jsoniterscala_got_scala_3_support/)
 - [How to update and access state that needs to be shared across multiple API endpoints with FP?](https://www.reddit.com/r/scala/comments/s3qjia/how_to_update_and_access_state_that_needs_to_be/)
-- [Help: Subscribe to Telegram Bot Messages Task Composition](https://www.reddit.com/r/scala/comments/s3e0n4/help_subscribe_to_telegram_bot_messages_task/)
 - [Beginner question to the experts!](https://www.reddit.com/r/scala/comments/s365z5/beginner_question_to_the_experts/)
 - [Fully Remote Scala Opportunities available](https://www.reddit.com/r/scala/comments/s31vn1/fully_remote_scala_opportunities_available/)
 - [Metals v0.11.0 is out! Basic Java support, test explorer API implementation, Scala 3 improvements, and more.](https://www.reddit.com/r/scala/comments/s2tc29/metals_v0110_is_out_basic_java_support_test/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala 2.13.8 is here!](https://www.reddit.com/r/scala/comments/s2mrwt/scala_2138_is_here/)
 - [Pants 2.9: Alpha support for Java and Scala](https://www.reddit.com/r/scala/comments/s2it94/pants_29_alpha_support_for_java_and_scala/)
 - [Which static analysis tool do you use for Scala?](https://www.reddit.com/r/scala/comments/s28yeq/which_static_analysis_tool_do_you_use_for_scala/)
-- [Akka: Can an actor of some class become an actor of a diferent class?](https://www.reddit.com/r/scala/comments/s2625b/akka_can_an_actor_of_some_class_become_an_actor/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can you give me a brief understanding on tagless final?](https://www.reddit.com/r/scala/comments/s6ih9p/can_you_give_me_a_brief_understanding_on_tagless/)
+- [Is the main website offline?](https://www.reddit.com/r/scala/comments/s6dk57/is_the_main_website_offline/)
+- [A quick explanation of Path Dependent Types](https://www.reddit.com/r/scala/comments/s68x0l/a_quick_explanation_of_path_dependent_types/)
+- [Metals v0.11.1 Released -- Mainly to address some performance regressions introduced in v0.11.0](https://www.reddit.com/r/scala/comments/s618mk/metals_v0111_released_mainly_to_address_some/)
 - [This week in #Scala &lpar;Jan 17, 2022&rpar;](https://www.reddit.com/r/scala/comments/s5pl21/this_week_in_scala_jan_17_2022/)
 - [Should there be a single setup-scala GitHub Action to rule them all? Currently there are many competing but none covers all use cases nor is officially supported.](https://www.reddit.com/r/scala/comments/s5h3wb/should_there_be_a_single_setupscala_github_action/)
 - [In basic terms, what makes path dependent types/DOT calculus so powerful?](https://www.reddit.com/r/scala/comments/s5grwg/in_basic_terms_what_makes_path_dependent_typesdot/)
 - [Cannot resolve overloaded constructor `RowMatrix` - IntelliJ IDEA](https://www.reddit.com/r/scala/comments/s52ij8/cannot_resolve_overloaded_constructor_rowmatrix/)
 - [What is the fastest build tool that requires the least config?](https://www.reddit.com/r/scala/comments/s4o3kw/what_is_the_fastest_build_tool_that_requires_the/)
 - [Macros API of jsoniter-scala got Scala 3 support!](https://www.reddit.com/r/scala/comments/s4hymj/macros_api_of_jsoniterscala_got_scala_3_support/)
-- [How to update and access state that needs to be shared across multiple API endpoints with FP?](https://www.reddit.com/r/scala/comments/s3qjia/how_to_update_and_access_state_that_needs_to_be/)
-- [Beginner question to the experts!](https://www.reddit.com/r/scala/comments/s365z5/beginner_question_to_the_experts/)
-- [Fully Remote Scala Opportunities available](https://www.reddit.com/r/scala/comments/s31vn1/fully_remote_scala_opportunities_available/)
-- [Metals v0.11.0 is out! Basic Java support, test explorer API implementation, Scala 3 improvements, and more.](https://www.reddit.com/r/scala/comments/s2tc29/metals_v0110_is_out_basic_java_support_test/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

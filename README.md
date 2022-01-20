@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Websites for practicing;](https://www.reddit.com/r/scala/comments/s7sdk4/websites_for_practicing/)
+- [Do we need to have an Scala effects system working group to make sure compatibility between them and libraries using them?](https://www.reddit.com/r/scala/comments/s7n03w/do_we_need_to_have_an_scala_effects_system/)
+- [Does akk http meet your performance expectation in production?](https://www.reddit.com/r/scala/comments/s7f92g/does_akk_http_meet_your_performance_expectation/)
 - [Why use placeholder syntax in a function?](https://www.reddit.com/r/scala/comments/s78g6x/why_use_placeholder_syntax_in_a_function/)
 - [Autowire/sloth replacements for Scala 3](https://www.reddit.com/r/scala/comments/s6urnu/autowiresloth_replacements_for_scala_3/)
 - [Can you give me a brief understanding on tagless final?](https://www.reddit.com/r/scala/comments/s6ih9p/can_you_give_me_a_brief_understanding_on_tagless/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [A quick explanation of Path Dependent Types](https://www.reddit.com/r/scala/comments/s68x0l/a_quick_explanation_of_path_dependent_types/)
 - [Metals v0.11.1 Released -- Mainly to address some performance regressions introduced in v0.11.0](https://www.reddit.com/r/scala/comments/s618mk/metals_v0111_released_mainly_to_address_some/)
 - [This week in #Scala &lpar;Jan 17, 2022&rpar;](https://www.reddit.com/r/scala/comments/s5pl21/this_week_in_scala_jan_17_2022/)
-- [Should there be a single setup-scala GitHub Action to rule them all? Currently there are many competing but none covers all use cases nor is officially supported.](https://www.reddit.com/r/scala/comments/s5h3wb/should_there_be_a_single_setupscala_github_action/)
-- [In basic terms, what makes path dependent types/DOT calculus so powerful?](https://www.reddit.com/r/scala/comments/s5grwg/in_basic_terms_what_makes_path_dependent_typesdot/)
-- [Cannot resolve overloaded constructor `RowMatrix` - IntelliJ IDEA](https://www.reddit.com/r/scala/comments/s52ij8/cannot_resolve_overloaded_constructor_rowmatrix/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

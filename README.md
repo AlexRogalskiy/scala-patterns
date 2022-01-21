@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need a hand with some regex in scala](https://www.reddit.com/r/scala/comments/s8uh8d/need_a_hand_with_some_regex_in_scala/)
+- [Is it possible to get runnable generated scala code from a macro &lpar;chminey to be specific&rpar;?](https://www.reddit.com/r/scala/comments/s8r08t/is_it_possible_to_get_runnable_generated_scala/)
+- [Doobie tutorial: databases and pure FP in Scala](https://www.reddit.com/r/scala/comments/s8lnfm/doobie_tutorial_databases_and_pure_fp_in_scala/)
+- [IntelliJ Scala plugin CPU Usage!](https://www.reddit.com/r/scala/comments/s8lbzb/intellij_scala_plugin_cpu_usage/)
 - [Websites for practicing;](https://www.reddit.com/r/scala/comments/s7sdk4/websites_for_practicing/)
 - [Do we need to have an Scala effects system working group to make sure compatibility between them and libraries using them?](https://www.reddit.com/r/scala/comments/s7n03w/do_we_need_to_have_an_scala_effects_system/)
 - [Does akk http meet your performance expectation in production?](https://www.reddit.com/r/scala/comments/s7f92g/does_akk_http_meet_your_performance_expectation/)
 - [Why use placeholder syntax in a function?](https://www.reddit.com/r/scala/comments/s78g6x/why_use_placeholder_syntax_in_a_function/)
+- [&lpar;EBOOK&rpar; Mastering Modularity in ZIO with Zlayer](https://www.reddit.com/r/scala/comments/s6uxt0/ebook_mastering_modularity_in_zio_with_zlayer/)
 - [Autowire/sloth replacements for Scala 3](https://www.reddit.com/r/scala/comments/s6urnu/autowiresloth_replacements_for_scala_3/)
-- [Can you give me a brief understanding on tagless final?](https://www.reddit.com/r/scala/comments/s6ih9p/can_you_give_me_a_brief_understanding_on_tagless/)
-- [Is the main website offline?](https://www.reddit.com/r/scala/comments/s6dk57/is_the_main_website_offline/)
-- [A quick explanation of Path Dependent Types](https://www.reddit.com/r/scala/comments/s68x0l/a_quick_explanation_of_path_dependent_types/)
-- [Metals v0.11.1 Released -- Mainly to address some performance regressions introduced in v0.11.0](https://www.reddit.com/r/scala/comments/s618mk/metals_v0111_released_mainly_to_address_some/)
-- [This week in #Scala &lpar;Jan 17, 2022&rpar;](https://www.reddit.com/r/scala/comments/s5pl21/this_week_in_scala_jan_17_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

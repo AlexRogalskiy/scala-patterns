@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Comparing ZIO and Monix for writing a reactive application](https://www.reddit.com/r/scala/comments/sahdav/comparing_zio_and_monix_for_writing_a_reactive/)
+- [I made a fun little project for absolute beginners. Enjoy!](https://www.reddit.com/r/scala/comments/sag178/i_made_a_fun_little_project_for_absolute/)
+- [Scala FP code samples?](https://www.reddit.com/r/scala/comments/sacsao/scala_fp_code_samples/)
+- [How will Loom&#39;s fibers change the Cats Effect and ZIO parts of the ecosystem?](https://www.reddit.com/r/scala/comments/sa927v/how_will_looms_fibers_change_the_cats_effect_and/)
+- [Scala Native 0.4.3 has been released](https://www.reddit.com/r/scala/comments/sa4scf/scala_native_043_has_been_released/)
+- [v0.1.0 of Slinc released!!](https://www.reddit.com/r/scala/comments/s9tuab/v010_of_slinc_released/)
+- [Metals code completion not working &lpar;as of Jan 2022&rpar;](https://www.reddit.com/r/scala/comments/s9t702/metals_code_completion_not_working_as_of_jan_2022/)
+- [A small library to do rate limiting with redis](https://www.reddit.com/r/scala/comments/s9t50s/a_small_library_to_do_rate_limiting_with_redis/)
 - [Need a hand with some regex in scala](https://www.reddit.com/r/scala/comments/s8uh8d/need_a_hand_with_some_regex_in_scala/)
 - [Is it possible to get runnable generated scala code from a macro &lpar;chminey to be specific&rpar;?](https://www.reddit.com/r/scala/comments/s8r08t/is_it_possible_to_get_runnable_generated_scala/)
-- [Doobie tutorial: databases and pure FP in Scala](https://www.reddit.com/r/scala/comments/s8lnfm/doobie_tutorial_databases_and_pure_fp_in_scala/)
-- [IntelliJ Scala plugin CPU Usage!](https://www.reddit.com/r/scala/comments/s8lbzb/intellij_scala_plugin_cpu_usage/)
-- [Websites for practicing;](https://www.reddit.com/r/scala/comments/s7sdk4/websites_for_practicing/)
-- [Do we need to have an Scala effects system working group to make sure compatibility between them and libraries using them?](https://www.reddit.com/r/scala/comments/s7n03w/do_we_need_to_have_an_scala_effects_system/)
-- [Does akk http meet your performance expectation in production?](https://www.reddit.com/r/scala/comments/s7f92g/does_akk_http_meet_your_performance_expectation/)
-- [Why use placeholder syntax in a function?](https://www.reddit.com/r/scala/comments/s78g6x/why_use_placeholder_syntax_in_a_function/)
-- [&lpar;EBOOK&rpar; Mastering Modularity in ZIO with Zlayer](https://www.reddit.com/r/scala/comments/s6uxt0/ebook_mastering_modularity_in_zio_with_zlayer/)
-- [Autowire/sloth replacements for Scala 3](https://www.reddit.com/r/scala/comments/s6urnu/autowiresloth_replacements_for_scala_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

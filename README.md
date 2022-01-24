@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is Scala Native use case?](https://www.reddit.com/r/scala/comments/sb8qw6/what_is_scala_native_use_case/)
+- [Metals / VS Code debug not working](https://www.reddit.com/r/scala/comments/sb8e4h/metals_vs_code_debug_not_working/)
+- [This week in #Scala &lpar;Jan 24, 2022&rpar;](https://www.reddit.com/r/scala/comments/sb7v9l/this_week_in_scala_jan_24_2022/)
+- [how should i read this? what is the role of functor in here](https://www.reddit.com/r/scala/comments/sb1koy/how_should_i_read_this_what_is_the_role_of/)
+- [ELI5: Zio, Akka, Cats - what exactly they do and what are the differences. What’s the use case?](https://www.reddit.com/r/scala/comments/saz2a8/eli5_zio_akka_cats_what_exactly_they_do_and_what/)
+- [Is there any automation library for server provisioning like ansible but for scala so that i can write scala scripts to automate setting up a server?](https://www.reddit.com/r/scala/comments/sasxc0/is_there_any_automation_library_for_server/)
+- [Scala 3 sources apparently not working](https://www.reddit.com/r/scala/comments/saiyy1/scala_3_sources_apparently_not_working/)
 - [Comparing ZIO and Monix for writing a reactive application](https://www.reddit.com/r/scala/comments/sahdav/comparing_zio_and_monix_for_writing_a_reactive/)
 - [I made a fun little project for absolute beginners. Enjoy!](https://www.reddit.com/r/scala/comments/sag178/i_made_a_fun_little_project_for_absolute/)
 - [Scala FP code samples?](https://www.reddit.com/r/scala/comments/sacsao/scala_fp_code_samples/)
-- [How will Loom&#39;s fibers change the Cats Effect and ZIO parts of the ecosystem?](https://www.reddit.com/r/scala/comments/sa927v/how_will_looms_fibers_change_the_cats_effect_and/)
-- [Scala Native 0.4.3 has been released](https://www.reddit.com/r/scala/comments/sa4scf/scala_native_043_has_been_released/)
-- [v0.1.0 of Slinc released!!](https://www.reddit.com/r/scala/comments/s9tuab/v010_of_slinc_released/)
-- [Metals code completion not working &lpar;as of Jan 2022&rpar;](https://www.reddit.com/r/scala/comments/s9t702/metals_code_completion_not_working_as_of_jan_2022/)
-- [A small library to do rate limiting with redis](https://www.reddit.com/r/scala/comments/s9t50s/a_small_library_to_do_rate_limiting_with_redis/)
-- [Need a hand with some regex in scala](https://www.reddit.com/r/scala/comments/s8uh8d/need_a_hand_with_some_regex_in_scala/)
-- [Is it possible to get runnable generated scala code from a macro &lpar;chminey to be specific&rpar;?](https://www.reddit.com/r/scala/comments/s8r08t/is_it_possible_to_get_runnable_generated_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

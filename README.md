@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Updated benchmark results of JSON parsers for Scala - now with results for circe and play-json boosters based on jsoniter-scala.](https://www.reddit.com/r/scala/comments/sc9yra/updated_benchmark_results_of_json_parsers_for/)
+- [ENSIME v3.0.0 released](https://www.reddit.com/r/scala/comments/sc9llm/ensime_v300_released/)
 - [Transactional effect in Scala.](https://www.reddit.com/r/scala/comments/sbml5e/transactional_effect_in_scala/)
 - [Big rewrites from Scala?](https://www.reddit.com/r/scala/comments/sbm38r/big_rewrites_from_scala/)
 - [Urgent Help Needed](https://www.reddit.com/r/scala/comments/sbida8/urgent_help_needed/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Metals / VS Code debug not working](https://www.reddit.com/r/scala/comments/sb8e4h/metals_vs_code_debug_not_working/)
 - [This week in #Scala &lpar;Jan 24, 2022&rpar;](https://www.reddit.com/r/scala/comments/sb7v9l/this_week_in_scala_jan_24_2022/)
 - [how should i read this? what is the role of functor in here](https://www.reddit.com/r/scala/comments/sb1koy/how_should_i_read_this_what_is_the_role_of/)
-- [ELI5: Zio, Akka, Cats - what exactly they do and what are the differences. What’s the use case?](https://www.reddit.com/r/scala/comments/saz2a8/eli5_zio_akka_cats_what_exactly_they_do_and_what/)
-- [Is there any automation library for server provisioning like ansible but for scala so that i can write scala scripts to automate setting up a server?](https://www.reddit.com/r/scala/comments/sasxc0/is_there_any_automation_library_for_server/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

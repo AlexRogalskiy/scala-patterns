@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best places to work](https://www.reddit.com/r/scala/comments/sdc7ez/best_places_to_work/)
+- [Dotty-cps-async 0.9.7 is released.](https://www.reddit.com/r/scala/comments/sd8jz5/dottycpsasync_097_is_released/)
+- [How can effect system ever become mainstream?](https://www.reddit.com/r/scala/comments/sd3yav/how_can_effect_system_ever_become_mainstream/)
 - [Updated benchmark results of JSON parsers for Scala - now with results for circe and play-json boosters based on jsoniter-scala.](https://www.reddit.com/r/scala/comments/sc9yra/updated_benchmark_results_of_json_parsers_for/)
 - [ENSIME v3.0.0 released](https://www.reddit.com/r/scala/comments/sc9llm/ensime_v300_released/)
 - [Transactional effect in Scala.](https://www.reddit.com/r/scala/comments/sbml5e/transactional_effect_in_scala/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Urgent Help Needed](https://www.reddit.com/r/scala/comments/sbida8/urgent_help_needed/)
 - [Cleanup Scala/Java project](https://www.reddit.com/r/scala/comments/sbhxhk/cleanup_scalajava_project/)
 - [What is Scala Native use case?](https://www.reddit.com/r/scala/comments/sb8qw6/what_is_scala_native_use_case/)
-- [Metals / VS Code debug not working](https://www.reddit.com/r/scala/comments/sb8e4h/metals_vs_code_debug_not_working/)
-- [This week in #Scala &lpar;Jan 24, 2022&rpar;](https://www.reddit.com/r/scala/comments/sb7v9l/this_week_in_scala_jan_24_2022/)
-- [how should i read this? what is the role of functor in here](https://www.reddit.com/r/scala/comments/sb1koy/how_should_i_read_this_what_is_the_role_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

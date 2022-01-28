@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New career](https://www.reddit.com/r/scala/comments/seaygr/new_career/)
 - [Best places to work](https://www.reddit.com/r/scala/comments/sdc7ez/best_places_to_work/)
 - [Dotty-cps-async 0.9.7 is released.](https://www.reddit.com/r/scala/comments/sd8jz5/dottycpsasync_097_is_released/)
 - [How can effect system ever become mainstream?](https://www.reddit.com/r/scala/comments/sd3yav/how_can_effect_system_ever_become_mainstream/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Big rewrites from Scala?](https://www.reddit.com/r/scala/comments/sbm38r/big_rewrites_from_scala/)
 - [Urgent Help Needed](https://www.reddit.com/r/scala/comments/sbida8/urgent_help_needed/)
 - [Cleanup Scala/Java project](https://www.reddit.com/r/scala/comments/sbhxhk/cleanup_scalajava_project/)
-- [What is Scala Native use case?](https://www.reddit.com/r/scala/comments/sb8qw6/what_is_scala_native_use_case/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

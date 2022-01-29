@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [SCALA API Data Placement in Apache Spark](https://www.reddit.com/r/scala/comments/sf4wy8/scala_api_data_placement_in_apache_spark/)
+- [Scala setup in Ubuntu](https://www.reddit.com/r/scala/comments/sf4txg/scala_setup_in_ubuntu/)
+- [MIT 6.824: Distributed Systems study group Kickoff Saturday 29th of January at 9h00 EST](https://www.reddit.com/r/scala/comments/seubj4/mit_6824_distributed_systems_study_group_kickoff/)
+- [How to compile some code against an unversioned snapshot of the scala compiler?](https://www.reddit.com/r/scala/comments/sera5w/how_to_compile_some_code_against_an_unversioned/)
+- [Babel: Internationalization &lpar;i18n&rpar; for Scala applications?](https://www.reddit.com/r/scala/comments/seofsk/babel_internationalization_i18n_for_scala/)
 - [New career](https://www.reddit.com/r/scala/comments/seaygr/new_career/)
 - [Best places to work](https://www.reddit.com/r/scala/comments/sdc7ez/best_places_to_work/)
 - [Dotty-cps-async 0.9.7 is released.](https://www.reddit.com/r/scala/comments/sd8jz5/dottycpsasync_097_is_released/)
 - [How can effect system ever become mainstream?](https://www.reddit.com/r/scala/comments/sd3yav/how_can_effect_system_ever_become_mainstream/)
 - [Updated benchmark results of JSON parsers for Scala - now with results for circe and play-json boosters based on jsoniter-scala.](https://www.reddit.com/r/scala/comments/sc9yra/updated_benchmark_results_of_json_parsers_for/)
-- [ENSIME v3.0.0 released](https://www.reddit.com/r/scala/comments/sc9llm/ensime_v300_released/)
-- [Transactional effect in Scala.](https://www.reddit.com/r/scala/comments/sbml5e/transactional_effect_in_scala/)
-- [Big rewrites from Scala?](https://www.reddit.com/r/scala/comments/sbm38r/big_rewrites_from_scala/)
-- [Urgent Help Needed](https://www.reddit.com/r/scala/comments/sbida8/urgent_help_needed/)
-- [Cleanup Scala/Java project](https://www.reddit.com/r/scala/comments/sbhxhk/cleanup_scalajava_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

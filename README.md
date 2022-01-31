@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Jan 31, 2022&rpar;](https://www.reddit.com/r/scala/comments/sgm67u/this_week_in_scala_jan_31_2022/)
+- [Who has experience in blockchain with Scala?](https://www.reddit.com/r/scala/comments/sgi8nm/who_has_experience_in_blockchain_with_scala/)
+- [VSCode Metals auto import in non-scala folders](https://www.reddit.com/r/scala/comments/sgbgow/vscode_metals_auto_import_in_nonscala_folders/)
 - [The second and last part of the fun little project for absolute beginner!](https://www.reddit.com/r/scala/comments/sfvisr/the_second_and_last_part_of_the_fun_little/)
 - [How large can a BigInt be?](https://www.reddit.com/r/scala/comments/sfsamo/how_large_can_a_bigint_be/)
 - [Publishing a library](https://www.reddit.com/r/scala/comments/sfpmad/publishing_a_library/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Python in scala IDE](https://www.reddit.com/r/scala/comments/sfl127/python_in_scala_ide/)
 - [Algorithms and Data Structures in Scala;](https://www.reddit.com/r/scala/comments/sfkiyq/algorithms_and_data_structures_in_scala/)
 - [SCALA API Data Placement in Apache Spark](https://www.reddit.com/r/scala/comments/sf4wy8/scala_api_data_placement_in_apache_spark/)
-- [Scala setup in Ubuntu](https://www.reddit.com/r/scala/comments/sf4txg/scala_setup_in_ubuntu/)
-- [MIT 6.824: Distributed Systems study group Kickoff Saturday 29th of January at 9h00 EST](https://www.reddit.com/r/scala/comments/seubj4/mit_6824_distributed_systems_study_group_kickoff/)
-- [How to compile some code against an unversioned snapshot of the scala compiler?](https://www.reddit.com/r/scala/comments/sera5w/how_to_compile_some_code_against_an_unversioned/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [VS Code for Scala 3](https://www.reddit.com/r/scala/comments/sh6ovk/vs_code_for_scala_3/)
+- [Scala Eclipse IDE Installation issue](https://www.reddit.com/r/scala/comments/sgr6p5/scala_eclipse_ide_installation_issue/)
 - [This week in #Scala &lpar;Jan 31, 2022&rpar;](https://www.reddit.com/r/scala/comments/sgm67u/this_week_in_scala_jan_31_2022/)
 - [Who has experience in blockchain with Scala?](https://www.reddit.com/r/scala/comments/sgi8nm/who_has_experience_in_blockchain_with_scala/)
 - [VSCode Metals auto import in non-scala folders](https://www.reddit.com/r/scala/comments/sgbgow/vscode_metals_auto_import_in_nonscala_folders/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Publishing a library](https://www.reddit.com/r/scala/comments/sfpmad/publishing_a_library/)
 - [Fault tolerant, distributed and high-load Scala concerns](https://www.reddit.com/r/scala/comments/sfm56i/fault_tolerant_distributed_and_highload_scala/)
 - [Python in scala IDE](https://www.reddit.com/r/scala/comments/sfl127/python_in_scala_ide/)
-- [Algorithms and Data Structures in Scala;](https://www.reddit.com/r/scala/comments/sfkiyq/algorithms_and_data_structures_in_scala/)
-- [SCALA API Data Placement in Apache Spark](https://www.reddit.com/r/scala/comments/sf4wy8/scala_api_data_placement_in_apache_spark/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

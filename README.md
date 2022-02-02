@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3 Reflection](https://www.reddit.com/r/scala/comments/siatmj/scala_3_reflection/)
+- [Scala help](https://www.reddit.com/r/scala/comments/si9cyl/scala_help/)
+- [Why no scala native IOC containers?](https://www.reddit.com/r/scala/comments/shzzah/why_no_scala_native_ioc_containers/)
+- [ScalaPB client tutorial/Github example](https://www.reddit.com/r/scala/comments/shzxaz/scalapb_client_tutorialgithub_example/)
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/shzqg7/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [Tooling Talks episode 8 - Tomasz Godzik: The Scalameta Firefighter](https://www.reddit.com/r/scala/comments/shrxi4/tooling_talks_episode_8_tomasz_godzik_the/)
+- [programming in scala book 4th edition vs 5th edition](https://www.reddit.com/r/scala/comments/shq5mz/programming_in_scala_book_4th_edition_vs_5th/)
+- [sbt 1.6.2 released](https://www.reddit.com/r/scala/comments/shmqw7/sbt_162_released/)
+- [editor + REPL integration](https://www.reddit.com/r/scala/comments/shjc4c/editor_repl_integration/)
 - [VS Code for Scala 3](https://www.reddit.com/r/scala/comments/sh6ovk/vs_code_for_scala_3/)
-- [Scala Eclipse IDE Installation issue](https://www.reddit.com/r/scala/comments/sgr6p5/scala_eclipse_ide_installation_issue/)
-- [This week in #Scala &lpar;Jan 31, 2022&rpar;](https://www.reddit.com/r/scala/comments/sgm67u/this_week_in_scala_jan_31_2022/)
-- [Who has experience in blockchain with Scala?](https://www.reddit.com/r/scala/comments/sgi8nm/who_has_experience_in_blockchain_with_scala/)
-- [VSCode Metals auto import in non-scala folders](https://www.reddit.com/r/scala/comments/sgbgow/vscode_metals_auto_import_in_nonscala_folders/)
-- [The second and last part of the fun little project for absolute beginner!](https://www.reddit.com/r/scala/comments/sfvisr/the_second_and_last_part_of_the_fun_little/)
-- [How large can a BigInt be?](https://www.reddit.com/r/scala/comments/sfsamo/how_large_can_a_bigint_be/)
-- [Publishing a library](https://www.reddit.com/r/scala/comments/sfpmad/publishing_a_library/)
-- [Fault tolerant, distributed and high-load Scala concerns](https://www.reddit.com/r/scala/comments/sfm56i/fault_tolerant_distributed_and_highload_scala/)
-- [Python in scala IDE](https://www.reddit.com/r/scala/comments/sfl127/python_in_scala_ide/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

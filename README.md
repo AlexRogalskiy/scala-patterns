@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How is Databricks&#39; style guide viewed nowadays?](https://www.reddit.com/r/scala/comments/siuwt7/how_is_databricks_style_guide_viewed_nowadays/)
+- [Akka Eventing and MergeHub Errors](https://www.reddit.com/r/scala/comments/situwo/akka_eventing_and_mergehub_errors/)
+- [Resources for learning about http4s and Typelevel ecosystem?](https://www.reddit.com/r/scala/comments/simo1v/resources_for_learning_about_http4s_and_typelevel/)
 - [Scala 3 Reflection](https://www.reddit.com/r/scala/comments/siatmj/scala_3_reflection/)
 - [Scala help](https://www.reddit.com/r/scala/comments/si9cyl/scala_help/)
 - [Why no scala native IOC containers?](https://www.reddit.com/r/scala/comments/shzzah/why_no_scala_native_ioc_containers/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/shzqg7/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Tooling Talks episode 8 - Tomasz Godzik: The Scalameta Firefighter](https://www.reddit.com/r/scala/comments/shrxi4/tooling_talks_episode_8_tomasz_godzik_the/)
 - [programming in scala book 4th edition vs 5th edition](https://www.reddit.com/r/scala/comments/shq5mz/programming_in_scala_book_4th_edition_vs_5th/)
-- [sbt 1.6.2 released](https://www.reddit.com/r/scala/comments/shmqw7/sbt_162_released/)
-- [editor + REPL integration](https://www.reddit.com/r/scala/comments/shjc4c/editor_repl_integration/)
-- [VS Code for Scala 3](https://www.reddit.com/r/scala/comments/sh6ovk/vs_code_for_scala_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

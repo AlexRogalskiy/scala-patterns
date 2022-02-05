@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Slinc v0.1.1 releases with significant performance improvements](https://www.reddit.com/r/scala/comments/sklqht/slinc_v011_releases_with_significant_performance/)
+- [ClearScore | Multiple Junior + Mid Developer opportunities | HYBRID &lpar;London&rpar; | Full-time permanent](https://www.reddit.com/r/scala/comments/skfy3x/clearscore_multiple_junior_mid_developer/)
 - [Need help with running a simple skeleton program of scala client](https://www.reddit.com/r/scala/comments/sjyw57/need_help_with_running_a_simple_skeleton_program/)
 - [The Scala Center&#39;s roadmap for a Unified Scala.js Ecosystem - Scala Center Updates](https://www.reddit.com/r/scala/comments/sjph7l/the_scala_centers_roadmap_for_a_unified_scalajs/)
 - [What is recommended way for managing multiple scala versions](https://www.reddit.com/r/scala/comments/sjhmfi/what_is_recommended_way_for_managing_multiple/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Akka Eventing and MergeHub Errors](https://www.reddit.com/r/scala/comments/situwo/akka_eventing_and_mergehub_errors/)
 - [Resources for learning about http4s and Typelevel ecosystem?](https://www.reddit.com/r/scala/comments/simo1v/resources_for_learning_about_http4s_and_typelevel/)
 - [Scala 3 Reflection](https://www.reddit.com/r/scala/comments/siatmj/scala_3_reflection/)
-- [Scala help](https://www.reddit.com/r/scala/comments/si9cyl/scala_help/)
-- [Why no scala native IOC containers?](https://www.reddit.com/r/scala/comments/shzzah/why_no_scala_native_ioc_containers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ZIO is just Functions on steroid. And i love it🥱☺️](https://www.reddit.com/r/scala/comments/sl73oe/zio_is_just_functions_on_steroid_and_i_love_it/)
+- [Can I convert an Int column in a CSV file to Vectors via a case class?](https://www.reddit.com/r/scala/comments/skwr6f/can_i_convert_an_int_column_in_a_csv_file_to/)
 - [Slinc v0.1.1 releases with significant performance improvements](https://www.reddit.com/r/scala/comments/sklqht/slinc_v011_releases_with_significant_performance/)
 - [ClearScore | Multiple Junior + Mid Developer opportunities | HYBRID &lpar;London&rpar; | Full-time permanent](https://www.reddit.com/r/scala/comments/skfy3x/clearscore_multiple_junior_mid_developer/)
 - [Need help with running a simple skeleton program of scala client](https://www.reddit.com/r/scala/comments/sjyw57/need_help_with_running_a_simple_skeleton_program/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [PLEASE help org.slf4j.impl.Log4jLoggerFactory cannot be cast to ch.qos.logback.classic.LoggerContext](https://www.reddit.com/r/scala/comments/sjf2vw/please_help_orgslf4jimpllog4jloggerfactory_cannot/)
 - [How is Databricks&#39; style guide viewed nowadays?](https://www.reddit.com/r/scala/comments/siuwt7/how_is_databricks_style_guide_viewed_nowadays/)
 - [Akka Eventing and MergeHub Errors](https://www.reddit.com/r/scala/comments/situwo/akka_eventing_and_mergehub_errors/)
-- [Resources for learning about http4s and Typelevel ecosystem?](https://www.reddit.com/r/scala/comments/simo1v/resources_for_learning_about_http4s_and_typelevel/)
-- [Scala 3 Reflection](https://www.reddit.com/r/scala/comments/siatmj/scala_3_reflection/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

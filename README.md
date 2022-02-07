@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Feb 7, 2022&rpar;](https://www.reddit.com/r/scala/comments/smdqek/this_week_in_scala_feb_7_2022/)
+- [Is Twitter moving away from Scala?](https://www.reddit.com/r/scala/comments/slw2n6/is_twitter_moving_away_from_scala/)
 - [ZIO is just Functions on steroid. And i love it🥱☺️](https://www.reddit.com/r/scala/comments/sl73oe/zio_is_just_functions_on_steroid_and_i_love_it/)
 - [Can I convert an Int column in a CSV file to Vectors via a case class?](https://www.reddit.com/r/scala/comments/skwr6f/can_i_convert_an_int_column_in_a_csv_file_to/)
 - [Slinc v0.1.1 releases with significant performance improvements](https://www.reddit.com/r/scala/comments/sklqht/slinc_v011_releases_with_significant_performance/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [The Scala Center&#39;s roadmap for a Unified Scala.js Ecosystem - Scala Center Updates](https://www.reddit.com/r/scala/comments/sjph7l/the_scala_centers_roadmap_for_a_unified_scalajs/)
 - [What is recommended way for managing multiple scala versions](https://www.reddit.com/r/scala/comments/sjhmfi/what_is_recommended_way_for_managing_multiple/)
 - [PLEASE help org.slf4j.impl.Log4jLoggerFactory cannot be cast to ch.qos.logback.classic.LoggerContext](https://www.reddit.com/r/scala/comments/sjf2vw/please_help_orgslf4jimpllog4jloggerfactory_cannot/)
-- [How is Databricks&#39; style guide viewed nowadays?](https://www.reddit.com/r/scala/comments/siuwt7/how_is_databricks_style_guide_viewed_nowadays/)
-- [Akka Eventing and MergeHub Errors](https://www.reddit.com/r/scala/comments/situwo/akka_eventing_and_mergehub_errors/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

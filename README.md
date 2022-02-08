@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scalqa 1.0 is released.](https://www.reddit.com/r/scala/comments/smv2ix/scalqa_10_is_released/)
+- [Parallel For Comprehensions 🙌](https://www.reddit.com/r/scala/comments/smqhme/parallel_for_comprehensions/)
+- [What&#39;s the story behind Scala&#39;s logo?](https://www.reddit.com/r/scala/comments/smq3t2/whats_the_story_behind_scalas_logo/)
+- [So much done today! &lpar;Scala Project From Scratch #7&rpar;](https://www.reddit.com/r/scala/comments/smov0i/so_much_done_today_scala_project_from_scratch_7/)
+- [simplifying sbt with common settings](https://www.reddit.com/r/scala/comments/smjsd1/simplifying_sbt_with_common_settings/)
 - [This week in #Scala &lpar;Feb 7, 2022&rpar;](https://www.reddit.com/r/scala/comments/smdqek/this_week_in_scala_feb_7_2022/)
 - [Is Twitter moving away from Scala?](https://www.reddit.com/r/scala/comments/slw2n6/is_twitter_moving_away_from_scala/)
 - [ZIO is just Functions on steroid. And i love it🥱☺️](https://www.reddit.com/r/scala/comments/sl73oe/zio_is_just_functions_on_steroid_and_i_love_it/)
 - [Can I convert an Int column in a CSV file to Vectors via a case class?](https://www.reddit.com/r/scala/comments/skwr6f/can_i_convert_an_int_column_in_a_csv_file_to/)
 - [Slinc v0.1.1 releases with significant performance improvements](https://www.reddit.com/r/scala/comments/sklqht/slinc_v011_releases_with_significant_performance/)
-- [ClearScore | Multiple Junior + Mid Developer opportunities | HYBRID &lpar;London&rpar; | Full-time permanent](https://www.reddit.com/r/scala/comments/skfy3x/clearscore_multiple_junior_mid_developer/)
-- [Need help with running a simple skeleton program of scala client](https://www.reddit.com/r/scala/comments/sjyw57/need_help_with_running_a_simple_skeleton_program/)
-- [The Scala Center&#39;s roadmap for a Unified Scala.js Ecosystem - Scala Center Updates](https://www.reddit.com/r/scala/comments/sjph7l/the_scala_centers_roadmap_for_a_unified_scalajs/)
-- [What is recommended way for managing multiple scala versions](https://www.reddit.com/r/scala/comments/sjhmfi/what_is_recommended_way_for_managing_multiple/)
-- [PLEASE help org.slf4j.impl.Log4jLoggerFactory cannot be cast to ch.qos.logback.classic.LoggerContext](https://www.reddit.com/r/scala/comments/sjf2vw/please_help_orgslf4jimpllog4jloggerfactory_cannot/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Implement map, flatten, flatMap for Node?](https://www.reddit.com/r/scala/comments/snzdq0/implement_map_flatten_flatmap_for_node/)
+- [Streaming Analytics with Apache Pulsar and Spark Streaming](https://www.reddit.com/r/scala/comments/snem7m/streaming_analytics_with_apache_pulsar_and_spark/)
+- [A Snake Game with Scala JS and FRP](https://www.reddit.com/r/scala/comments/snajoj/a_snake_game_with_scala_js_and_frp/)
 - [Scalqa 1.0 is released.](https://www.reddit.com/r/scala/comments/smv2ix/scalqa_10_is_released/)
 - [Parallel For Comprehensions 🙌](https://www.reddit.com/r/scala/comments/smqhme/parallel_for_comprehensions/)
 - [What&#39;s the story behind Scala&#39;s logo?](https://www.reddit.com/r/scala/comments/smq3t2/whats_the_story_behind_scalas_logo/)
 - [So much done today! &lpar;Scala Project From Scratch #7&rpar;](https://www.reddit.com/r/scala/comments/smov0i/so_much_done_today_scala_project_from_scratch_7/)
 - [simplifying sbt with common settings](https://www.reddit.com/r/scala/comments/smjsd1/simplifying_sbt_with_common_settings/)
 - [This week in #Scala &lpar;Feb 7, 2022&rpar;](https://www.reddit.com/r/scala/comments/smdqek/this_week_in_scala_feb_7_2022/)
-- [Is Twitter moving away from Scala?](https://www.reddit.com/r/scala/comments/slw2n6/is_twitter_moving_away_from_scala/)
 - [ZIO is just Functions on steroid. And i love it🥱☺️](https://www.reddit.com/r/scala/comments/sl73oe/zio_is_just_functions_on_steroid_and_i_love_it/)
-- [Can I convert an Int column in a CSV file to Vectors via a case class?](https://www.reddit.com/r/scala/comments/skwr6f/can_i_convert_an_int_column_in_a_csv_file_to/)
-- [Slinc v0.1.1 releases with significant performance improvements](https://www.reddit.com/r/scala/comments/sklqht/slinc_v011_releases_with_significant_performance/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

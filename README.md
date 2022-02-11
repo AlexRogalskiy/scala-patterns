@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Dependency Version](https://www.reddit.com/r/scala/comments/sp2wwz/scala_dependency_version/)
 - [TypeVille Conference offers a 5% discount on group tickets](https://www.reddit.com/r/scala/comments/soc2kh/typeville_conference_offers_a_5_discount_on_group/)
 - [What is happening with Lightbend?](https://www.reddit.com/r/scala/comments/soa4ut/what_is_happening_with_lightbend/)
 - [spark automatic partitioning](https://www.reddit.com/r/scala/comments/so8akv/spark_automatic_partitioning/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Parallel For Comprehensions 🙌](https://www.reddit.com/r/scala/comments/smqhme/parallel_for_comprehensions/)
 - [What&#39;s the story behind Scala&#39;s logo?](https://www.reddit.com/r/scala/comments/smq3t2/whats_the_story_behind_scalas_logo/)
 - [So much done today! &lpar;Scala Project From Scratch #7&rpar;](https://www.reddit.com/r/scala/comments/smov0i/so_much_done_today_scala_project_from_scratch_7/)
-- [simplifying sbt with common settings](https://www.reddit.com/r/scala/comments/smjsd1/simplifying_sbt_with_common_settings/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

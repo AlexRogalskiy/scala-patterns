@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Post Resources for New Developers in the Comments](https://www.reddit.com/r/scala/comments/sqrtqk/post_resources_for_new_developers_in_the_comments/)
 - [Programming in Scala, 5th Edition](https://www.reddit.com/r/scala/comments/sqe82l/programming_in_scala_5th_edition/)
 - [A capture checking prototype for Scala has landed](https://www.reddit.com/r/scala/comments/sp5gw4/a_capture_checking_prototype_for_scala_has_landed/)
 - [Scala Dependency Version](https://www.reddit.com/r/scala/comments/sp2wwz/scala_dependency_version/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Streaming Analytics with Apache Pulsar and Spark Streaming](https://www.reddit.com/r/scala/comments/snem7m/streaming_analytics_with_apache_pulsar_and_spark/)
 - [A Snake Game with Scala JS and FRP](https://www.reddit.com/r/scala/comments/snajoj/a_snake_game_with_scala_js_and_frp/)
 - [Scalqa 1.0 is released.](https://www.reddit.com/r/scala/comments/smv2ix/scalqa_10_is_released/)
-- [Parallel For Comprehensions 🙌](https://www.reddit.com/r/scala/comments/smqhme/parallel_for_comprehensions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

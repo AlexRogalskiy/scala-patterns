@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Post Resources for New Developers in the Comments](https://www.reddit.com/r/scala/comments/sqrtqk/post_resources_for_new_developers_in_the_comments/)
+- [Make your code testable with this simple refactoring!](https://www.reddit.com/r/scala/comments/srx4jr/make_your_code_testable_with_this_simple/)
+- [Why is Scala so much slower than JavaScript/Node at running iterations?](https://www.reddit.com/r/scala/comments/srp4lw/why_is_scala_so_much_slower_than_javascriptnode/)
+- [This week in #Scala &lpar;Feb 14, 2022&rpar;](https://www.reddit.com/r/scala/comments/srosvs/this_week_in_scala_feb_14_2022/)
+- [Scala 3 compatibility for starting out](https://www.reddit.com/r/scala/comments/srjltt/scala_3_compatibility_for_starting_out/)
+- [What I learned from programming WITHOUT the standard library for 6 days - Part 1](https://www.reddit.com/r/scala/comments/srix49/what_i_learned_from_programming_without_the/)
+- [Jar Jar Abrams 1.8.1 and sbt-assembly 1.2.0 released](https://www.reddit.com/r/scala/comments/srcdr1/jar_jar_abrams_181_and_sbtassembly_120_released/)
+- [Scala 3 Support for major Scala libraries/frameworks](https://www.reddit.com/r/scala/comments/srb39c/scala_3_support_for_major_scala/)
 - [Programming in Scala, 5th Edition](https://www.reddit.com/r/scala/comments/sqe82l/programming_in_scala_5th_edition/)
 - [A capture checking prototype for Scala has landed](https://www.reddit.com/r/scala/comments/sp5gw4/a_capture_checking_prototype_for_scala_has_landed/)
 - [Scala Dependency Version](https://www.reddit.com/r/scala/comments/sp2wwz/scala_dependency_version/)
-- [TypeVille Conference offers a 5% discount on group tickets](https://www.reddit.com/r/scala/comments/soc2kh/typeville_conference_offers_a_5_discount_on_group/)
-- [What is happening with Lightbend?](https://www.reddit.com/r/scala/comments/soa4ut/what_is_happening_with_lightbend/)
-- [spark automatic partitioning](https://www.reddit.com/r/scala/comments/so8akv/spark_automatic_partitioning/)
-- [Streaming Analytics with Apache Pulsar and Spark Streaming](https://www.reddit.com/r/scala/comments/snem7m/streaming_analytics_with_apache_pulsar_and_spark/)
-- [A Snake Game with Scala JS and FRP](https://www.reddit.com/r/scala/comments/snajoj/a_snake_game_with_scala_js_and_frp/)
-- [Scalqa 1.0 is released.](https://www.reddit.com/r/scala/comments/smv2ix/scalqa_10_is_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

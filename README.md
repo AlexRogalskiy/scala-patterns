@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [About capture checking](https://www.reddit.com/r/scala/comments/ssjo3u/about_capture_checking/)
+- [sbt and resources](https://www.reddit.com/r/scala/comments/ssj8br/sbt_and_resources/)
+- [Monadic Resource Management in Scala](https://www.reddit.com/r/scala/comments/ssgh78/monadic_resource_management_in_scala/)
+- [What does F[_]: Files: Concurrent mean ?](https://www.reddit.com/r/scala/comments/ssg2ev/what_does_f_files_concurrent_mean/)
+- [Achieving Indisputable Job Security Using Novel Scala 3 Features - a &quot;very serious&quot; business analysis](https://www.reddit.com/r/scala/comments/ss9m2p/achieving_indisputable_job_security_using_novel/)
+- [Scala code deisgn](https://www.reddit.com/r/scala/comments/ss5ltk/scala_code_deisgn/)
+- [Scala native support for scala library!](https://www.reddit.com/r/scala/comments/ss45k7/scala_native_support_for_scala_library/)
 - [Make your code testable with this simple refactoring!](https://www.reddit.com/r/scala/comments/srx4jr/make_your_code_testable_with_this_simple/)
 - [Why is Scala so much slower than JavaScript/Node at running iterations?](https://www.reddit.com/r/scala/comments/srp4lw/why_is_scala_so_much_slower_than_javascriptnode/)
 - [This week in #Scala &lpar;Feb 14, 2022&rpar;](https://www.reddit.com/r/scala/comments/srosvs/this_week_in_scala_feb_14_2022/)
-- [Scala 3 compatibility for starting out](https://www.reddit.com/r/scala/comments/srjltt/scala_3_compatibility_for_starting_out/)
-- [What I learned from programming WITHOUT the standard library for 6 days - Part 1](https://www.reddit.com/r/scala/comments/srix49/what_i_learned_from_programming_without_the/)
-- [Jar Jar Abrams 1.8.1 and sbt-assembly 1.2.0 released](https://www.reddit.com/r/scala/comments/srcdr1/jar_jar_abrams_181_and_sbtassembly_120_released/)
-- [Scala 3 Support for major Scala libraries/frameworks](https://www.reddit.com/r/scala/comments/srb39c/scala_3_support_for_major_scala/)
-- [Programming in Scala, 5th Edition](https://www.reddit.com/r/scala/comments/sqe82l/programming_in_scala_5th_edition/)
-- [A capture checking prototype for Scala has landed](https://www.reddit.com/r/scala/comments/sp5gw4/a_capture_checking_prototype_for_scala_has_landed/)
-- [Scala Dependency Version](https://www.reddit.com/r/scala/comments/sp2wwz/scala_dependency_version/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

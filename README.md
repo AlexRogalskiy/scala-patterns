@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [a SBT plugin to get your UML Class Diagram drawn !](https://www.reddit.com/r/scala/comments/stda1f/a_sbt_plugin_to_get_your_uml_class_diagram_drawn/)
+- [Turn IO#unsafeRunSync into compile warnings](https://www.reddit.com/r/scala/comments/std0xy/turn_iounsaferunsync_into_compile_warnings/)
+- [How Scala MAGICALLY turns everything into functions!](https://www.reddit.com/r/scala/comments/st4117/how_scala_magically_turns_everything_into/)
+- [How does Akka ensure thread safety for actor mutable state?](https://www.reddit.com/r/scala/comments/st3bzu/how_does_akka_ensure_thread_safety_for_actor/)
+- [Getting started with &quot;Hello World&quot;](https://www.reddit.com/r/scala/comments/st28a6/getting_started_with_hello_world/)
 - [About capture checking](https://www.reddit.com/r/scala/comments/ssjo3u/about_capture_checking/)
 - [sbt and resources](https://www.reddit.com/r/scala/comments/ssj8br/sbt_and_resources/)
 - [Monadic Resource Management in Scala](https://www.reddit.com/r/scala/comments/ssgh78/monadic_resource_management_in_scala/)
 - [What does F[_]: Files: Concurrent mean ?](https://www.reddit.com/r/scala/comments/ssg2ev/what_does_f_files_concurrent_mean/)
 - [Achieving Indisputable Job Security Using Novel Scala 3 Features - a &quot;very serious&quot; business analysis](https://www.reddit.com/r/scala/comments/ss9m2p/achieving_indisputable_job_security_using_novel/)
-- [Scala code deisgn](https://www.reddit.com/r/scala/comments/ss5ltk/scala_code_deisgn/)
-- [Scala native support for scala library!](https://www.reddit.com/r/scala/comments/ss45k7/scala_native_support_for_scala_library/)
-- [Make your code testable with this simple refactoring!](https://www.reddit.com/r/scala/comments/srx4jr/make_your_code_testable_with_this_simple/)
-- [Why is Scala so much slower than JavaScript/Node at running iterations?](https://www.reddit.com/r/scala/comments/srp4lw/why_is_scala_so_much_slower_than_javascriptnode/)
-- [This week in #Scala &lpar;Feb 14, 2022&rpar;](https://www.reddit.com/r/scala/comments/srosvs/this_week_in_scala_feb_14_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

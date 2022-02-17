@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New Scala 3 Codebases](https://www.reddit.com/r/scala/comments/sua5yr/new_scala_3_codebases/)
+- [Gonna need some help](https://www.reddit.com/r/scala/comments/su447z/gonna_need_some_help/)
+- [Core and Macros APIs of jsoniter-scala got Scala Native support](https://www.reddit.com/r/scala/comments/su2dwj/core_and_macros_apis_of_jsoniterscala_got_scala/)
+- [3 Benchmarking/load testing tools for different use cases](https://www.reddit.com/r/scala/comments/stu21j/3_benchmarkingload_testing_tools_for_different/)
+- [Scala3 adoption doubts](https://www.reddit.com/r/scala/comments/stola1/scala3_adoption_doubts/)
 - [a SBT plugin to get your UML Class Diagram drawn !](https://www.reddit.com/r/scala/comments/stda1f/a_sbt_plugin_to_get_your_uml_class_diagram_drawn/)
 - [Turn IO#unsafeRunSync into compile warnings](https://www.reddit.com/r/scala/comments/std0xy/turn_iounsaferunsync_into_compile_warnings/)
 - [How Scala MAGICALLY turns everything into functions!](https://www.reddit.com/r/scala/comments/st4117/how_scala_magically_turns_everything_into/)
 - [How does Akka ensure thread safety for actor mutable state?](https://www.reddit.com/r/scala/comments/st3bzu/how_does_akka_ensure_thread_safety_for_actor/)
 - [Getting started with &quot;Hello World&quot;](https://www.reddit.com/r/scala/comments/st28a6/getting_started_with_hello_world/)
-- [About capture checking](https://www.reddit.com/r/scala/comments/ssjo3u/about_capture_checking/)
-- [sbt and resources](https://www.reddit.com/r/scala/comments/ssj8br/sbt_and_resources/)
-- [Monadic Resource Management in Scala](https://www.reddit.com/r/scala/comments/ssgh78/monadic_resource_management_in_scala/)
-- [What does F[_]: Files: Concurrent mean ?](https://www.reddit.com/r/scala/comments/ssg2ev/what_does_f_files_concurrent_mean/)
-- [Achieving Indisputable Job Security Using Novel Scala 3 Features - a &quot;very serious&quot; business analysis](https://www.reddit.com/r/scala/comments/ss9m2p/achieving_indisputable_job_security_using_novel/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [El poder de las type class y los implícitos en Scala](https://www.reddit.com/r/scala/comments/svtqrr/el_poder_de_las_type_class_y_los_implícitos_en/)
+- [Akka Testing - Is there a way to watch a spawned actor for messages?](https://www.reddit.com/r/scala/comments/svneej/akka_testing_is_there_a_way_to_watch_a_spawned/)
+- [Scala has close to one million users today](https://www.reddit.com/r/scala/comments/svdl5m/scala_has_close_to_one_million_users_today/)
 - [Functional streams in Scala - FS2 tutorial](https://www.reddit.com/r/scala/comments/suuu83/functional_streams_in_scala_fs2_tutorial/)
 - [Scala Classes](https://www.reddit.com/r/scala/comments/suo3nu/scala_classes/)
 - [Also dotty-cps-async 0.9.8 with scala-native support](https://www.reddit.com/r/scala/comments/sui9tp/also_dottycpsasync_098_with_scalanative_support/)
 - [New Scala 3 Codebases](https://www.reddit.com/r/scala/comments/sua5yr/new_scala_3_codebases/)
-- [Gonna need some help](https://www.reddit.com/r/scala/comments/su447z/gonna_need_some_help/)
 - [Core and Macros APIs of jsoniter-scala got Scala Native support](https://www.reddit.com/r/scala/comments/su2dwj/core_and_macros_apis_of_jsoniterscala_got_scala/)
 - [3 Benchmarking/load testing tools for different use cases](https://www.reddit.com/r/scala/comments/stu21j/3_benchmarkingload_testing_tools_for_different/)
 - [Scala3 adoption doubts](https://www.reddit.com/r/scala/comments/stola1/scala3_adoption_doubts/)
-- [a SBT plugin to get your UML Class Diagram drawn !](https://www.reddit.com/r/scala/comments/stda1f/a_sbt_plugin_to_get_your_uml_class_diagram_drawn/)
-- [Turn IO#unsafeRunSync into compile warnings](https://www.reddit.com/r/scala/comments/std0xy/turn_iounsaferunsync_into_compile_warnings/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

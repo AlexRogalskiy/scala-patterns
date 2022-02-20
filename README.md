@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Telemetry with Scala, part 1: OpenTelemetry](https://www.reddit.com/r/scala/comments/swg2pa/telemetry_with_scala_part_1_opentelemetry/)
+- [Can we all please star our top 15 used Scala libraries ?](https://www.reddit.com/r/scala/comments/svzsjz/can_we_all_please_star_our_top_15_used_scala/)
 - [El poder de las type class y los implícitos en Scala](https://www.reddit.com/r/scala/comments/svtqrr/el_poder_de_las_type_class_y_los_implícitos_en/)
 - [Akka Testing - Is there a way to watch a spawned actor for messages?](https://www.reddit.com/r/scala/comments/svneej/akka_testing_is_there_a_way_to_watch_a_spawned/)
 - [Scala has close to one million users today](https://www.reddit.com/r/scala/comments/svdl5m/scala_has_close_to_one_million_users_today/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Also dotty-cps-async 0.9.8 with scala-native support](https://www.reddit.com/r/scala/comments/sui9tp/also_dottycpsasync_098_with_scalanative_support/)
 - [New Scala 3 Codebases](https://www.reddit.com/r/scala/comments/sua5yr/new_scala_3_codebases/)
 - [Core and Macros APIs of jsoniter-scala got Scala Native support](https://www.reddit.com/r/scala/comments/su2dwj/core_and_macros_apis_of_jsoniterscala_got_scala/)
-- [3 Benchmarking/load testing tools for different use cases](https://www.reddit.com/r/scala/comments/stu21j/3_benchmarkingload_testing_tools_for_different/)
-- [Scala3 adoption doubts](https://www.reddit.com/r/scala/comments/stola1/scala3_adoption_doubts/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

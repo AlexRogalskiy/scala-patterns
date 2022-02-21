@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Feb 21, 2022&rpar;](https://www.reddit.com/r/scala/comments/sxetuv/this_week_in_scala_feb_21_2022/)
+- [Recommended CLI parsing libraries.](https://www.reddit.com/r/scala/comments/sxbd7e/recommended_cli_parsing_libraries/)
+- [Every time I sit down to use an HTTP client and JSON parser, I get really frustrated](https://www.reddit.com/r/scala/comments/sx5xus/every_time_i_sit_down_to_use_an_http_client_and/)
 - [Telemetry with Scala, part 1: OpenTelemetry](https://www.reddit.com/r/scala/comments/swg2pa/telemetry_with_scala_part_1_opentelemetry/)
 - [Can we all please star our top 15 used Scala libraries ?](https://www.reddit.com/r/scala/comments/svzsjz/can_we_all_please_star_our_top_15_used_scala/)
 - [El poder de las type class y los implícitos en Scala](https://www.reddit.com/r/scala/comments/svtqrr/el_poder_de_las_type_class_y_los_implícitos_en/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala has close to one million users today](https://www.reddit.com/r/scala/comments/svdl5m/scala_has_close_to_one_million_users_today/)
 - [Functional streams in Scala - FS2 tutorial](https://www.reddit.com/r/scala/comments/suuu83/functional_streams_in_scala_fs2_tutorial/)
 - [Scala Classes](https://www.reddit.com/r/scala/comments/suo3nu/scala_classes/)
-- [Also dotty-cps-async 0.9.8 with scala-native support](https://www.reddit.com/r/scala/comments/sui9tp/also_dottycpsasync_098_with_scalanative_support/)
-- [New Scala 3 Codebases](https://www.reddit.com/r/scala/comments/sua5yr/new_scala_3_codebases/)
-- [Core and Macros APIs of jsoniter-scala got Scala Native support](https://www.reddit.com/r/scala/comments/su2dwj/core_and_macros_apis_of_jsoniterscala_got_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

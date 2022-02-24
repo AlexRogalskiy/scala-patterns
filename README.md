@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is inline power enough in Scala3? An alternative idea for inlining](https://www.reddit.com/r/scala/comments/szye1x/is_inline_power_enough_in_scala3_an_alternative/)
+- [Opinions on implementing traits for validation with the help of a companion object](https://www.reddit.com/r/scala/comments/szomwd/opinions_on_implementing_traits_for_validation/)
+- [Error Tracking Is Commercially Worthless](https://www.reddit.com/r/scala/comments/szmg95/error_tracking_is_commercially_worthless/)
 - [Need help on a multiple choice question in scala](https://www.reddit.com/r/scala/comments/syxtdg/need_help_on_a_multiple_choice_question_in_scala/)
 - [Introducing Gigahex - An open source data infrastructure platform](https://www.reddit.com/r/scala/comments/syqytw/introducing_gigahex_an_open_source_data/)
 - [Building a frameworkless webapp in Scala](https://www.reddit.com/r/scala/comments/syn9r7/building_a_frameworkless_webapp_in_scala/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Akka-HTTP with spray-json - How to marshall a route response as a JSON array?](https://www.reddit.com/r/scala/comments/sy7oth/akkahttp_with_sprayjson_how_to_marshall_a_route/)
 - [🟣 New Releases: Indigo &amp; Tyrian](https://www.reddit.com/r/scala/comments/sxzqfk/new_releases_indigo_tyrian/)
 - [Gathering dependency management approaches](https://www.reddit.com/r/scala/comments/sxufme/gathering_dependency_management_approaches/)
-- [This week in #Scala &lpar;Feb 21, 2022&rpar;](https://www.reddit.com/r/scala/comments/sxetuv/this_week_in_scala_feb_21_2022/)
-- [Every time I sit down to use an HTTP client and JSON parser, I get really frustrated](https://www.reddit.com/r/scala/comments/sx5xus/every_time_i_sit_down_to_use_an_http_client_and/)
-- [Telemetry with Scala, part 1: OpenTelemetry](https://www.reddit.com/r/scala/comments/swg2pa/telemetry_with_scala_part_1_opentelemetry/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

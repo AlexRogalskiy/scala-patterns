@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Query DSL in Scala ?](https://www.reddit.com/r/scala/comments/t0l8dh/query_dsl_in_scala/)
+- [Every Argument for Static Typing Applies to Typed Errors](https://www.reddit.com/r/scala/comments/t0d5zi/every_argument_for_static_typing_applies_to_typed/)
+- [Using Redis with Scala](https://www.reddit.com/r/scala/comments/t0ayqn/using_redis_with_scala/)
+- [How do we explain Pairs on RangePartition](https://www.reddit.com/r/scala/comments/t09zcc/how_do_we_explain_pairs_on_rangepartition/)
 - [Is inline power enough in Scala3? An alternative idea for inlining](https://www.reddit.com/r/scala/comments/szye1x/is_inline_power_enough_in_scala3_an_alternative/)
 - [Opinions on implementing traits for validation with the help of a companion object](https://www.reddit.com/r/scala/comments/szomwd/opinions_on_implementing_traits_for_validation/)
 - [Error Tracking Is Commercially Worthless](https://www.reddit.com/r/scala/comments/szmg95/error_tracking_is_commercially_worthless/)
 - [Need help on a multiple choice question in scala](https://www.reddit.com/r/scala/comments/syxtdg/need_help_on_a_multiple_choice_question_in_scala/)
 - [Introducing Gigahex - An open source data infrastructure platform](https://www.reddit.com/r/scala/comments/syqytw/introducing_gigahex_an_open_source_data/)
 - [Building a frameworkless webapp in Scala](https://www.reddit.com/r/scala/comments/syn9r7/building_a_frameworkless_webapp_in_scala/)
-- [An error pops up and I don&#39;t know what to do.](https://www.reddit.com/r/scala/comments/syn7rt/an_error_pops_up_and_i_dont_know_what_to_do/)
-- [Akka-HTTP with spray-json - How to marshall a route response as a JSON array?](https://www.reddit.com/r/scala/comments/sy7oth/akkahttp_with_sprayjson_how_to_marshall_a_route/)
-- [🟣 New Releases: Indigo &amp; Tyrian](https://www.reddit.com/r/scala/comments/sxzqfk/new_releases_indigo_tyrian/)
-- [Gathering dependency management approaches](https://www.reddit.com/r/scala/comments/sxufme/gathering_dependency_management_approaches/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

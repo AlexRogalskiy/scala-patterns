@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Simple, Naïve, and Wrong: More than you wanted to know about Scala Case Classes](https://www.reddit.com/r/scala/comments/t1hfzt/simple_naïve_and_wrong_more_than_you_wanted_to/)
+- [sbt-blowout](https://www.reddit.com/r/scala/comments/t10mds/sbtblowout/)
+- [Interesting Scala talks at Functional Conf online &lpar;24-26 March 2022&rpar;](https://www.reddit.com/r/scala/comments/t0t0o8/interesting_scala_talks_at_functional_conf_online/)
 - [Query DSL in Scala ?](https://www.reddit.com/r/scala/comments/t0l8dh/query_dsl_in_scala/)
 - [Every Argument for Static Typing Applies to Typed Errors](https://www.reddit.com/r/scala/comments/t0d5zi/every_argument_for_static_typing_applies_to_typed/)
 - [Using Redis with Scala](https://www.reddit.com/r/scala/comments/t0ayqn/using_redis_with_scala/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Is inline power enough in Scala3? An alternative idea for inlining](https://www.reddit.com/r/scala/comments/szye1x/is_inline_power_enough_in_scala3_an_alternative/)
 - [Opinions on implementing traits for validation with the help of a companion object](https://www.reddit.com/r/scala/comments/szomwd/opinions_on_implementing_traits_for_validation/)
 - [Error Tracking Is Commercially Worthless](https://www.reddit.com/r/scala/comments/szmg95/error_tracking_is_commercially_worthless/)
-- [Need help on a multiple choice question in scala](https://www.reddit.com/r/scala/comments/syxtdg/need_help_on_a_multiple_choice_question_in_scala/)
-- [Introducing Gigahex - An open source data infrastructure platform](https://www.reddit.com/r/scala/comments/syqytw/introducing_gigahex_an_open_source_data/)
-- [Building a frameworkless webapp in Scala](https://www.reddit.com/r/scala/comments/syn9r7/building_a_frameworkless_webapp_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

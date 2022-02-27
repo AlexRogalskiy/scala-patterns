@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[QUESTION]Transforming Try to Either and using my Type Alias](https://www.reddit.com/r/scala/comments/t2bew4/questiontransforming_try_to_either_and_using_my/)
+- [Scalaz: Lost With Monoids](https://www.reddit.com/r/scala/comments/t28k33/scalaz_lost_with_monoids/)
+- [Dedav4s : A scala plotting library](https://www.reddit.com/r/scala/comments/t26s73/dedav4s_a_scala_plotting_library/)
+- [Which type of functor will fit Equivalence?](https://www.reddit.com/r/scala/comments/t265fx/which_type_of_functor_will_fit_equivalence/)
+- [Working at EMURGO - Meet the Team Taking Cardano Mainstream.](https://www.reddit.com/r/scala/comments/t1y2cq/working_at_emurgo_meet_the_team_taking_cardano/)
 - [Simple, Naïve, and Wrong: More than you wanted to know about Scala Case Classes](https://www.reddit.com/r/scala/comments/t1hfzt/simple_naïve_and_wrong_more_than_you_wanted_to/)
 - [sbt-blowout](https://www.reddit.com/r/scala/comments/t10mds/sbtblowout/)
 - [Interesting Scala talks at Functional Conf online &lpar;24-26 March 2022&rpar;](https://www.reddit.com/r/scala/comments/t0t0o8/interesting_scala_talks_at_functional_conf_online/)
 - [Query DSL in Scala ?](https://www.reddit.com/r/scala/comments/t0l8dh/query_dsl_in_scala/)
 - [Every Argument for Static Typing Applies to Typed Errors](https://www.reddit.com/r/scala/comments/t0d5zi/every_argument_for_static_typing_applies_to_typed/)
-- [Using Redis with Scala](https://www.reddit.com/r/scala/comments/t0ayqn/using_redis_with_scala/)
-- [How do we explain Pairs on RangePartition](https://www.reddit.com/r/scala/comments/t09zcc/how_do_we_explain_pairs_on_rangepartition/)
-- [Is inline power enough in Scala3? An alternative idea for inlining](https://www.reddit.com/r/scala/comments/szye1x/is_inline_power_enough_in_scala3_an_alternative/)
-- [Opinions on implementing traits for validation with the help of a companion object](https://www.reddit.com/r/scala/comments/szomwd/opinions_on_implementing_traits_for_validation/)
-- [Error Tracking Is Commercially Worthless](https://www.reddit.com/r/scala/comments/szmg95/error_tracking_is_commercially_worthless/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

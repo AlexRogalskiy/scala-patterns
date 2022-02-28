@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hey r/scala devs, 🇺🇦🔥 Hackers start war on Russia, are you in? #FckPutin](https://www.reddit.com/r/scala/comments/t2zich/hey_rscala_devs_hackers_start_war_on_russia_are/)
+- [Is there a more efficient way of finding the element-wise intersection between two sequences in Scala/Spark?](https://www.reddit.com/r/scala/comments/t2z54y/is_there_a_more_efficient_way_of_finding_the/)
+- [This week in #Scala &lpar;Feb 28, 2022&rpar;](https://www.reddit.com/r/scala/comments/t2yxic/this_week_in_scala_feb_28_2022/)
+- [Scala Option Some None for beginners](https://www.reddit.com/r/scala/comments/t2xf33/scala_option_some_none_for_beginners/)
+- [Grow the Scala community with a SINGLE command!](https://www.reddit.com/r/scala/comments/t2mcvp/grow_the_scala_community_with_a_single_command/)
 - [[QUESTION]Transforming Try to Either and using my Type Alias](https://www.reddit.com/r/scala/comments/t2bew4/questiontransforming_try_to_either_and_using_my/)
 - [Scalaz: Lost With Monoids](https://www.reddit.com/r/scala/comments/t28k33/scalaz_lost_with_monoids/)
 - [Dedav4s : A scala plotting library](https://www.reddit.com/r/scala/comments/t26s73/dedav4s_a_scala_plotting_library/)
 - [Which type of functor will fit Equivalence?](https://www.reddit.com/r/scala/comments/t265fx/which_type_of_functor_will_fit_equivalence/)
 - [Working at EMURGO - Meet the Team Taking Cardano Mainstream.](https://www.reddit.com/r/scala/comments/t1y2cq/working_at_emurgo_meet_the_team_taking_cardano/)
-- [Simple, Naïve, and Wrong: More than you wanted to know about Scala Case Classes](https://www.reddit.com/r/scala/comments/t1hfzt/simple_naïve_and_wrong_more_than_you_wanted_to/)
-- [sbt-blowout](https://www.reddit.com/r/scala/comments/t10mds/sbtblowout/)
-- [Interesting Scala talks at Functional Conf online &lpar;24-26 March 2022&rpar;](https://www.reddit.com/r/scala/comments/t0t0o8/interesting_scala_talks_at_functional_conf_online/)
-- [Query DSL in Scala ?](https://www.reddit.com/r/scala/comments/t0l8dh/query_dsl_in_scala/)
-- [Every Argument for Static Typing Applies to Typed Errors](https://www.reddit.com/r/scala/comments/t0d5zi/every_argument_for_static_typing_applies_to_typed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

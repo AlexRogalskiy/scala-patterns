@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [for comprehensions + multiple validations using either](https://www.reddit.com/r/scala/comments/t4j8vk/for_comprehensions_multiple_validations_using/)
+- [Questions about Scala-js!](https://www.reddit.com/r/scala/comments/t4iehu/questions_about_scalajs/)
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/t4cleb/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [Tooling Talks Episode 9 - Gabriel Volpe: A look at Nix and Scala](https://www.reddit.com/r/scala/comments/t48xme/tooling_talks_episode_9_gabriel_volpe_a_look_at/)
+- [Sbt binary incompatibilty errors](https://www.reddit.com/r/scala/comments/t3zf0y/sbt_binary_incompatibilty_errors/)
 - [Scala 3 compatible macro libraries](https://www.reddit.com/r/scala/comments/t3uvou/scala_3_compatible_macro_libraries/)
 - [Scrapping implicit boilerplate with Scala 3 Context Functions](https://www.reddit.com/r/scala/comments/t3qo30/scrapping_implicit_boilerplate_with_scala_3/)
 - [Hi guys, if someone is interested, there are two questions at the end of the article. It would be very helpful if you answer them :&rpar;](https://www.reddit.com/r/scala/comments/t3atss/hi_guys_if_someone_is_interested_there_are_two/)
 - [This week in #Scala &lpar;Feb 28, 2022&rpar;](https://www.reddit.com/r/scala/comments/t2yxic/this_week_in_scala_feb_28_2022/)
 - [Scala Option Some None for beginners](https://www.reddit.com/r/scala/comments/t2xf33/scala_option_some_none_for_beginners/)
-- [Grow the Scala community with a SINGLE command!](https://www.reddit.com/r/scala/comments/t2mcvp/grow_the_scala_community_with_a_single_command/)
-- [[QUESTION]Transforming Try to Either and using my Type Alias](https://www.reddit.com/r/scala/comments/t2bew4/questiontransforming_try_to_either_and_using_my/)
-- [Scalaz: Lost With Monoids](https://www.reddit.com/r/scala/comments/t28k33/scalaz_lost_with_monoids/)
-- [Dedav4s : A scala plotting library](https://www.reddit.com/r/scala/comments/t26s73/dedav4s_a_scala_plotting_library/)
-- [Which type of functor will fit Equivalence?](https://www.reddit.com/r/scala/comments/t265fx/which_type_of_functor_will_fit_equivalence/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

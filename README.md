@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Weird issue when importing an object](https://www.reddit.com/r/scala/comments/t61n9q/weird_issue_when_importing_an_object/)
 - [[Scaladoc, Scala3] Question about special character in URL in new Scaladoc in Scala3](https://www.reddit.com/r/scala/comments/t55r8n/scaladoc_scala3_question_about_special_character/)
 - [Leveraging AWS Aurora &lpar;with akka-persistence&rpar; for event sourcing](https://www.reddit.com/r/scala/comments/t4xxzw/leveraging_aws_aurora_with_akkapersistence_for/)
 - [for comprehensions + multiple validations using either](https://www.reddit.com/r/scala/comments/t4j8vk/for_comprehensions_multiple_validations_using/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Sbt binary incompatibilty errors](https://www.reddit.com/r/scala/comments/t3zf0y/sbt_binary_incompatibilty_errors/)
 - [Scala 3 compatible macro libraries](https://www.reddit.com/r/scala/comments/t3uvou/scala_3_compatible_macro_libraries/)
 - [Scrapping implicit boilerplate with Scala 3 Context Functions](https://www.reddit.com/r/scala/comments/t3qo30/scrapping_implicit_boilerplate_with_scala_3/)
-- [Hi guys, if someone is interested, there are two questions at the end of the article. It would be very helpful if you answer them :&rpar;](https://www.reddit.com/r/scala/comments/t3atss/hi_guys_if_someone_is_interested_there_are_two/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

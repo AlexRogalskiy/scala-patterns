@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there any reason &quot;excessive&quot; use of extension methods would be a bad idea?](https://www.reddit.com/r/scala/comments/t6u339/is_there_any_reason_excessive_use_of_extension/)
+- [In support of Ukraine - scala-lang blog](https://www.reddit.com/r/scala/comments/t6txb9/in_support_of_ukraine_scalalang_blog/)
+- [Which should I start learning. Scala 2 or Scala 3 ?](https://www.reddit.com/r/scala/comments/t6tak1/which_should_i_start_learning_scala_2_or_scala_3/)
+- [Debugging Scala.js](https://www.reddit.com/r/scala/comments/t6rhti/debugging_scalajs/)
 - [Weird issue when importing an object](https://www.reddit.com/r/scala/comments/t61n9q/weird_issue_when_importing_an_object/)
 - [[Scaladoc, Scala3] Question about special character in URL in new Scaladoc in Scala3](https://www.reddit.com/r/scala/comments/t55r8n/scaladoc_scala3_question_about_special_character/)
 - [Leveraging AWS Aurora &lpar;with akka-persistence&rpar; for event sourcing](https://www.reddit.com/r/scala/comments/t4xxzw/leveraging_aws_aurora_with_akkapersistence_for/)
 - [for comprehensions + multiple validations using either](https://www.reddit.com/r/scala/comments/t4j8vk/for_comprehensions_multiple_validations_using/)
 - [Questions about Scala-js!](https://www.reddit.com/r/scala/comments/t4iehu/questions_about_scalajs/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/t4cleb/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [Tooling Talks Episode 9 - Gabriel Volpe: A look at Nix and Scala](https://www.reddit.com/r/scala/comments/t48xme/tooling_talks_episode_9_gabriel_volpe_a_look_at/)
-- [Sbt binary incompatibilty errors](https://www.reddit.com/r/scala/comments/t3zf0y/sbt_binary_incompatibilty_errors/)
-- [Scala 3 compatible macro libraries](https://www.reddit.com/r/scala/comments/t3uvou/scala_3_compatible_macro_libraries/)
-- [Scrapping implicit boilerplate with Scala 3 Context Functions](https://www.reddit.com/r/scala/comments/t3qo30/scrapping_implicit_boilerplate_with_scala_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

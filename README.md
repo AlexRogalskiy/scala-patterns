@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Empezando con Cats parte 2](https://www.reddit.com/r/scala/comments/t9538n/empezando_con_cats_parte_2/)
+- [This week in #Scala &lpar;Mar 8, 2021 ;](https://www.reddit.com/r/scala/comments/t8zmal/this_week_in_scala_mar_8_2021/)
+- [What makes scala stand-out for backends?](https://www.reddit.com/r/scala/comments/t8r7wg/what_makes_scala_standout_for_backends/)
+- [How to import Scalatest please](https://www.reddit.com/r/scala/comments/t8pkgv/how_to_import_scalatest_please/)
+- [Empezando con Cats](https://www.reddit.com/r/scala/comments/t8gbvz/empezando_con_cats/)
 - [Preparing for uPickle 2.0.0](https://www.reddit.com/r/scala/comments/t8dvnx/preparing_for_upickle_200/)
 - [This week in #Scala &lpar;Mar 7, 2022&rpar;](https://www.reddit.com/r/scala/comments/t87ak8/this_week_in_scala_mar_7_2022/)
 - [Setting Up a Scala Project With Sbt](https://www.reddit.com/r/scala/comments/t85pr3/setting_up_a_scala_project_with_sbt/)
 - [Is there any way to have a curried function with generic parameters?](https://www.reddit.com/r/scala/comments/t7g2mh/is_there_any_way_to_have_a_curried_function_with/)
 - [Comparing implementations of the Monkey language VII: My name is 3… Scala 3](https://www.reddit.com/r/scala/comments/t755vx/comparing_implementations_of_the_monkey_language/)
-- [Is there any reason &quot;excessive&quot; use of extension methods would be a bad idea?](https://www.reddit.com/r/scala/comments/t6u339/is_there_any_reason_excessive_use_of_extension/)
-- [In support of Ukraine - scala-lang blog](https://www.reddit.com/r/scala/comments/t6txb9/in_support_of_ukraine_scalalang_blog/)
-- [Which should I start learning. Scala 2 or Scala 3 ?](https://www.reddit.com/r/scala/comments/t6tak1/which_should_i_start_learning_scala_2_or_scala_3/)
-- [Debugging Scala.js](https://www.reddit.com/r/scala/comments/t6rhti/debugging_scalajs/)
-- [Weird issue when importing an object](https://www.reddit.com/r/scala/comments/t61n9q/weird_issue_when_importing_an_object/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

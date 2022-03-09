@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Microsoft Announces SynapseML 0.9.5: Speech Synthesis, Anomaly Detection, ICE Plots and more!](https://www.reddit.com/r/scala/comments/t9oz4e/microsoft_announces_synapseml_095_speech/)
+- [Finding awesome Scala libraries – Scala-lang blog](https://www.reddit.com/r/scala/comments/t9klag/finding_awesome_scala_libraries_scalalang_blog/)
+- [AssertThrows throws an error instead of doing the test](https://www.reddit.com/r/scala/comments/t9kg77/assertthrows_throws_an_error_instead_of_doing_the/)
+- [Scala collection Map question](https://www.reddit.com/r/scala/comments/t9k2fu/scala_collection_map_question/)
+- [Looking for a really good/complex example codebase or tutorial for Scala FP](https://www.reddit.com/r/scala/comments/t9hhme/looking_for_a_really_goodcomplex_example_codebase/)
+- [Chi - A proof-of-concept code generator for universally quantified function signatures.](https://www.reddit.com/r/scala/comments/t9h4nx/chi_a_proofofconcept_code_generator_for/)
 - [Empezando con Cats parte 2](https://www.reddit.com/r/scala/comments/t9538n/empezando_con_cats_parte_2/)
 - [This week in #Scala &lpar;Mar 8, 2021 ;](https://www.reddit.com/r/scala/comments/t8zmal/this_week_in_scala_mar_8_2021/)
 - [What makes scala stand-out for backends?](https://www.reddit.com/r/scala/comments/t8r7wg/what_makes_scala_standout_for_backends/)
 - [How to import Scalatest please](https://www.reddit.com/r/scala/comments/t8pkgv/how_to_import_scalatest_please/)
-- [Empezando con Cats](https://www.reddit.com/r/scala/comments/t8gbvz/empezando_con_cats/)
-- [Preparing for uPickle 2.0.0](https://www.reddit.com/r/scala/comments/t8dvnx/preparing_for_upickle_200/)
-- [This week in #Scala &lpar;Mar 7, 2022&rpar;](https://www.reddit.com/r/scala/comments/t87ak8/this_week_in_scala_mar_7_2022/)
-- [Setting Up a Scala Project With Sbt](https://www.reddit.com/r/scala/comments/t85pr3/setting_up_a_scala_project_with_sbt/)
-- [Is there any way to have a curried function with generic parameters?](https://www.reddit.com/r/scala/comments/t7g2mh/is_there_any_way_to_have_a_curried_function_with/)
-- [Comparing implementations of the Monkey language VII: My name is 3… Scala 3](https://www.reddit.com/r/scala/comments/t755vx/comparing_implementations_of_the_monkey_language/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

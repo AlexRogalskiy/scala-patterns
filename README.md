@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [how do u manage ur dependencies? which tools are u using?](https://www.reddit.com/r/scala/comments/ta4of2/how_do_u_manage_ur_dependencies_which_tools_are_u/)
 - [Microsoft Announces SynapseML 0.9.5: Speech Synthesis, Anomaly Detection, ICE Plots and more!](https://www.reddit.com/r/scala/comments/t9oz4e/microsoft_announces_synapseml_095_speech/)
 - [Finding awesome Scala libraries – Scala-lang blog](https://www.reddit.com/r/scala/comments/t9klag/finding_awesome_scala_libraries_scalalang_blog/)
 - [AssertThrows throws an error instead of doing the test](https://www.reddit.com/r/scala/comments/t9kg77/assertthrows_throws_an_error_instead_of_doing_the/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Empezando con Cats parte 2](https://www.reddit.com/r/scala/comments/t9538n/empezando_con_cats_parte_2/)
 - [This week in #Scala &lpar;Mar 8, 2021 ;](https://www.reddit.com/r/scala/comments/t8zmal/this_week_in_scala_mar_8_2021/)
 - [What makes scala stand-out for backends?](https://www.reddit.com/r/scala/comments/t8r7wg/what_makes_scala_standout_for_backends/)
-- [How to import Scalatest please](https://www.reddit.com/r/scala/comments/t8pkgv/how_to_import_scalatest_please/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

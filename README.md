@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [All About JDK 18 - Inside Java Newscast #21](https://www.reddit.com/r/scala/comments/tbc1t3/all_about_jdk_18_inside_java_newscast_21/)
+- [How do you make metals work when the project cannot be compiled?](https://www.reddit.com/r/scala/comments/tb6325/how_do_you_make_metals_work_when_the_project/)
+- [Empezando con Cats parte 3](https://www.reddit.com/r/scala/comments/tb3m9a/empezando_con_cats_parte_3/)
 - [how do u manage ur dependencies? which tools are u using?](https://www.reddit.com/r/scala/comments/ta4of2/how_do_u_manage_ur_dependencies_which_tools_are_u/)
 - [Microsoft Announces SynapseML 0.9.5: Speech Synthesis, Anomaly Detection, ICE Plots and more!](https://www.reddit.com/r/scala/comments/t9oz4e/microsoft_announces_synapseml_095_speech/)
 - [Finding awesome Scala libraries – Scala-lang blog](https://www.reddit.com/r/scala/comments/t9klag/finding_awesome_scala_libraries_scalalang_blog/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala collection Map question](https://www.reddit.com/r/scala/comments/t9k2fu/scala_collection_map_question/)
 - [Looking for a really good/complex example codebase or tutorial for Scala FP](https://www.reddit.com/r/scala/comments/t9hhme/looking_for_a_really_goodcomplex_example_codebase/)
 - [Chi - A proof-of-concept code generator for universally quantified function signatures.](https://www.reddit.com/r/scala/comments/t9h4nx/chi_a_proofofconcept_code_generator_for/)
-- [Empezando con Cats parte 2](https://www.reddit.com/r/scala/comments/t9538n/empezando_con_cats_parte_2/)
-- [This week in #Scala &lpar;Mar 8, 2021 ;](https://www.reddit.com/r/scala/comments/t8zmal/this_week_in_scala_mar_8_2021/)
-- [What makes scala stand-out for backends?](https://www.reddit.com/r/scala/comments/t8r7wg/what_makes_scala_standout_for_backends/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Install intel sbt+java on Mac M1](https://www.reddit.com/r/scala/comments/tbysmq/install_intel_sbtjava_on_mac_m1/)
+- [Should I know all famous scala frameworks, such as akka, ZIO, spark?](https://www.reddit.com/r/scala/comments/tbxqsa/should_i_know_all_famous_scala_frameworks_such_as/)
+- [How to successfully manage a ZIO fiber&#39;s lifecycle - Functional Scala](https://www.reddit.com/r/scala/comments/tbkekf/how_to_successfully_manage_a_zio_fibers_lifecycle/)
 - [All About JDK 18 - Inside Java Newscast #21](https://www.reddit.com/r/scala/comments/tbc1t3/all_about_jdk_18_inside_java_newscast_21/)
 - [How do you make metals work when the project cannot be compiled?](https://www.reddit.com/r/scala/comments/tb6325/how_do_you_make_metals_work_when_the_project/)
 - [Empezando con Cats parte 3](https://www.reddit.com/r/scala/comments/tb3m9a/empezando_con_cats_parte_3/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Microsoft Announces SynapseML 0.9.5: Speech Synthesis, Anomaly Detection, ICE Plots and more!](https://www.reddit.com/r/scala/comments/t9oz4e/microsoft_announces_synapseml_095_speech/)
 - [Finding awesome Scala libraries – Scala-lang blog](https://www.reddit.com/r/scala/comments/t9klag/finding_awesome_scala_libraries_scalalang_blog/)
 - [AssertThrows throws an error instead of doing the test](https://www.reddit.com/r/scala/comments/t9kg77/assertthrows_throws_an_error_instead_of_doing_the/)
-- [Scala collection Map question](https://www.reddit.com/r/scala/comments/t9k2fu/scala_collection_map_question/)
-- [Looking for a really good/complex example codebase or tutorial for Scala FP](https://www.reddit.com/r/scala/comments/t9hhme/looking_for_a_really_goodcomplex_example_codebase/)
-- [Chi - A proof-of-concept code generator for universally quantified function signatures.](https://www.reddit.com/r/scala/comments/t9h4nx/chi_a_proofofconcept_code_generator_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [xuwei-k/unused-code: find and remove unused scala code](https://www.reddit.com/r/scala/comments/tdgfym/xuweikunusedcode_find_and_remove_unused_scala_code/)
+- [Why can&#39;t we destructure tuples in function argument position?](https://www.reddit.com/r/scala/comments/tdfkn6/why_cant_we_destructure_tuples_in_function/)
+- [The Debug Adapter Protocol and Scala. How it all works together.](https://www.reddit.com/r/scala/comments/tdeirt/the_debug_adapter_protocol_and_scala_how_it_all/)
+- [This week in #Scala &lpar;Mar 14, 2022&rpar;](https://www.reddit.com/r/scala/comments/tday65/this_week_in_scala_mar_14_2022/)
+- [Option is NOT about null!](https://www.reddit.com/r/scala/comments/td6xpn/option_is_not_about_null/)
+- [FS2 stream doesn&#39;t work as I expect it to](https://www.reddit.com/r/scala/comments/td4dvd/fs2_stream_doesnt_work_as_i_expect_it_to/)
 - [Install intel sbt+java on Mac M1](https://www.reddit.com/r/scala/comments/tbysmq/install_intel_sbtjava_on_mac_m1/)
 - [Should I know all famous scala frameworks, such as akka, ZIO, spark?](https://www.reddit.com/r/scala/comments/tbxqsa/should_i_know_all_famous_scala_frameworks_such_as/)
 - [How to successfully manage a ZIO fiber&#39;s lifecycle - Functional Scala](https://www.reddit.com/r/scala/comments/tbkekf/how_to_successfully_manage_a_zio_fibers_lifecycle/)
 - [All About JDK 18 - Inside Java Newscast #21](https://www.reddit.com/r/scala/comments/tbc1t3/all_about_jdk_18_inside_java_newscast_21/)
-- [How do you make metals work when the project cannot be compiled?](https://www.reddit.com/r/scala/comments/tb6325/how_do_you_make_metals_work_when_the_project/)
-- [Empezando con Cats parte 3](https://www.reddit.com/r/scala/comments/tb3m9a/empezando_con_cats_parte_3/)
-- [how do u manage ur dependencies? which tools are u using?](https://www.reddit.com/r/scala/comments/ta4of2/how_do_u_manage_ur_dependencies_which_tools_are_u/)
-- [Microsoft Announces SynapseML 0.9.5: Speech Synthesis, Anomaly Detection, ICE Plots and more!](https://www.reddit.com/r/scala/comments/t9oz4e/microsoft_announces_synapseml_095_speech/)
-- [Finding awesome Scala libraries – Scala-lang blog](https://www.reddit.com/r/scala/comments/t9klag/finding_awesome_scala_libraries_scalalang_blog/)
-- [AssertThrows throws an error instead of doing the test](https://www.reddit.com/r/scala/comments/t9kg77/assertthrows_throws_an_error_instead_of_doing_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

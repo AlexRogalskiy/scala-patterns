@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Issues setting up Scala 3 on Windows w/Coursier](https://www.reddit.com/r/scala/comments/ted8h8/issues_setting_up_scala_3_on_windows_wcoursier/)
+- [Issue creating a simple function to Map a file containing words](https://www.reddit.com/r/scala/comments/tead0c/issue_creating_a_simple_function_to_map_a_file/)
+- [functional programing : state monad, understand the for expression](https://www.reddit.com/r/scala/comments/te7dnp/functional_programing_state_monad_understand_the/)
+- [Testimonials about the usage of Izumi BIO typeclasses](https://www.reddit.com/r/scala/comments/tdwjnb/testimonials_about_the_usage_of_izumi_bio/)
+- [Data Engineer primarily working in Data Analysis role for more than 2 years interested to switch to Distributed Data Systems &lpar;preferably in Scala language&rpar; role perhaps in a different workplace. How to do this?](https://www.reddit.com/r/scala/comments/tdn9yk/data_engineer_primarily_working_in_data_analysis/)
 - [xuwei-k/unused-code: find and remove unused scala code](https://www.reddit.com/r/scala/comments/tdgfym/xuweikunusedcode_find_and_remove_unused_scala_code/)
 - [Why can&#39;t we destructure tuples in function argument position?](https://www.reddit.com/r/scala/comments/tdfkn6/why_cant_we_destructure_tuples_in_function/)
 - [The Debug Adapter Protocol and Scala. How it all works together.](https://www.reddit.com/r/scala/comments/tdeirt/the_debug_adapter_protocol_and_scala_how_it_all/)
 - [This week in #Scala &lpar;Mar 14, 2022&rpar;](https://www.reddit.com/r/scala/comments/tday65/this_week_in_scala_mar_14_2022/)
 - [Option is NOT about null!](https://www.reddit.com/r/scala/comments/td6xpn/option_is_not_about_null/)
-- [FS2 stream doesn&#39;t work as I expect it to](https://www.reddit.com/r/scala/comments/td4dvd/fs2_stream_doesnt_work_as_i_expect_it_to/)
-- [Install intel sbt+java on Mac M1](https://www.reddit.com/r/scala/comments/tbysmq/install_intel_sbtjava_on_mac_m1/)
-- [Should I know all famous scala frameworks, such as akka, ZIO, spark?](https://www.reddit.com/r/scala/comments/tbxqsa/should_i_know_all_famous_scala_frameworks_such_as/)
-- [How to successfully manage a ZIO fiber&#39;s lifecycle - Functional Scala](https://www.reddit.com/r/scala/comments/tbkekf/how_to_successfully_manage_a_zio_fibers_lifecycle/)
-- [All About JDK 18 - Inside Java Newscast #21](https://www.reddit.com/r/scala/comments/tbc1t3/all_about_jdk_18_inside_java_newscast_21/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

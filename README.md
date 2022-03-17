@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [List vs Vector in 2022](https://www.reddit.com/r/scala/comments/tfak2w/list_vs_vector_in_2022/)
+- [THE most important programming concept explained in 35 seconds !](https://www.reddit.com/r/scala/comments/tf72np/the_most_important_programming_concept_explained/)
 - [Config as code — am I doing it wrong?](https://www.reddit.com/r/scala/comments/tf6fg2/config_as_code_am_i_doing_it_wrong/)
 - [Will there be a physical ScalaDays in 2022?](https://www.reddit.com/r/scala/comments/tf3gec/will_there_be_a_physical_scaladays_in_2022/)
 - [Embracing Nondeterminism Part I: Contexts and Effects](https://www.reddit.com/r/scala/comments/teuyxy/embracing_nondeterminism_part_i_contexts_and/)
 - [Concurrency Deep Dives: Java timer/scheduler from scratch](https://www.reddit.com/r/scala/comments/tem3t4/concurrency_deep_dives_java_timerscheduler_from/)
 - [Strange Loop 2022 - Call for Presentations - Scala talks welcome!](https://www.reddit.com/r/scala/comments/teftc4/strange_loop_2022_call_for_presentations_scala/)
 - [Issues setting up Scala 3 on Windows w/Coursier](https://www.reddit.com/r/scala/comments/ted8h8/issues_setting_up_scala_3_on_windows_wcoursier/)
-- [Issue creating a simple function to Map a file containing words](https://www.reddit.com/r/scala/comments/tead0c/issue_creating_a_simple_function_to_map_a_file/)
 - [functional programing : state monad, understand the for expression](https://www.reddit.com/r/scala/comments/te7dnp/functional_programing_state_monad_understand_the/)
 - [Testimonials about the usage of Izumi BIO typeclasses](https://www.reddit.com/r/scala/comments/tdwjnb/testimonials_about_the_usage_of_izumi_bio/)
-- [Data Engineer primarily working in Data Analysis role for more than 2 years interested to switch to Distributed Data Systems &lpar;preferably in Scala language&rpar; role perhaps in a different workplace. How to do this?](https://www.reddit.com/r/scala/comments/tdn9yk/data_engineer_primarily_working_in_data_analysis/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

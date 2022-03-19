@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Sleipnir Project: Fundamentals Part 1](https://www.reddit.com/r/scala/comments/th9c66/sleipnir_project_fundamentals_part_1/)
+- [Interview preparation](https://www.reddit.com/r/scala/comments/th4540/interview_preparation/)
+- [Scala 3 inline: macro-like superpowers- great guest post by François Sarradin!](https://www.reddit.com/r/scala/comments/th452h/scala_3_inline_macrolike_superpowers_great_guest/)
 - [Road map for learning scala functioning programming](https://www.reddit.com/r/scala/comments/tggplw/road_map_for_learning_scala_functioning/)
 - [How to think in &quot;Type&quot; language](https://www.reddit.com/r/scala/comments/tgbu1d/how_to_think_in_type_language/)
 - [How to be an immigrant as a Scala developer](https://www.reddit.com/r/scala/comments/tg5827/how_to_be_an_immigrant_as_a_scala_developer/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [List vs Vector in 2022](https://www.reddit.com/r/scala/comments/tfak2w/list_vs_vector_in_2022/)
 - [THE most important programming concept explained in 35 seconds !](https://www.reddit.com/r/scala/comments/tf72np/the_most_important_programming_concept_explained/)
 - [Config as code — am I doing it wrong?](https://www.reddit.com/r/scala/comments/tf6fg2/config_as_code_am_i_doing_it_wrong/)
-- [Will there be a physical ScalaDays in 2022?](https://www.reddit.com/r/scala/comments/tf3gec/will_there_be_a_physical_scaladays_in_2022/)
-- [Embracing Nondeterminism Part I: Contexts and Effects](https://www.reddit.com/r/scala/comments/teuyxy/embracing_nondeterminism_part_i_contexts_and/)
-- [Concurrency Deep Dives: Java timer/scheduler from scratch](https://www.reddit.com/r/scala/comments/tem3t4/concurrency_deep_dives_java_timerscheduler_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

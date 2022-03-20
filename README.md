@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Where can I learn about concurrency in Scala?](https://www.reddit.com/r/scala/comments/ti7ziy/where_can_i_learn_about_concurrency_in_scala/)
+- [Can&#39;t find scala error by searching google.](https://www.reddit.com/r/scala/comments/thzoah/cant_find_scala_error_by_searching_google/)
+- [Decline is amazing! &lpar;Scala Project From Scratch #8&rpar;](https://www.reddit.com/r/scala/comments/thyi9h/decline_is_amazing_scala_project_from_scratch_8/)
 - [Sleipnir Project: Fundamentals Part 1](https://www.reddit.com/r/scala/comments/th9c66/sleipnir_project_fundamentals_part_1/)
 - [Interview preparation](https://www.reddit.com/r/scala/comments/th4540/interview_preparation/)
 - [Scala 3 inline: macro-like superpowers- great guest post by François Sarradin!](https://www.reddit.com/r/scala/comments/th452h/scala_3_inline_macrolike_superpowers_great_guest/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to think in &quot;Type&quot; language](https://www.reddit.com/r/scala/comments/tgbu1d/how_to_think_in_type_language/)
 - [How to be an immigrant as a Scala developer](https://www.reddit.com/r/scala/comments/tg5827/how_to_be_an_immigrant_as_a_scala_developer/)
 - [Check out these exciting Scala talks, including a keynote on Scala 3 by Dean Wampler at Functional Conf next week. You can view the schedule and register here: https://confng.in/QonMj9b1](https://www.reddit.com/r/scala/comments/tg0pd9/check_out_these_exciting_scala_talks_including_a/)
-- [List vs Vector in 2022](https://www.reddit.com/r/scala/comments/tfak2w/list_vs_vector_in_2022/)
-- [THE most important programming concept explained in 35 seconds !](https://www.reddit.com/r/scala/comments/tf72np/the_most_important_programming_concept_explained/)
-- [Config as code — am I doing it wrong?](https://www.reddit.com/r/scala/comments/tf6fg2/config_as_code_am_i_doing_it_wrong/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

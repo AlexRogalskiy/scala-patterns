@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Sleipnir Project - Foundations - Scala Fundamentals Part 2](https://www.reddit.com/r/scala/comments/tjk0j4/sleipnir_project_foundations_scala_fundamentals/)
 - [This week in #Scala &lpar;Mar 21, 2022&rpar;](https://www.reddit.com/r/scala/comments/tim9mf/this_week_in_scala_mar_21_2022/)
 - [Trying to decide on Scala or Kotlin](https://www.reddit.com/r/scala/comments/tijhwx/trying_to_decide_on_scala_or_kotlin/)
 - [Where can I learn about concurrency in Scala?](https://www.reddit.com/r/scala/comments/ti7ziy/where_can_i_learn_about_concurrency_in_scala/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Interview preparation](https://www.reddit.com/r/scala/comments/th4540/interview_preparation/)
 - [Scala 3 inline: macro-like superpowers- great guest post by François Sarradin!](https://www.reddit.com/r/scala/comments/th452h/scala_3_inline_macrolike_superpowers_great_guest/)
 - [Road map for learning scala functioning programming](https://www.reddit.com/r/scala/comments/tggplw/road_map_for_learning_scala_functioning/)
-- [How to think in &quot;Type&quot; language](https://www.reddit.com/r/scala/comments/tgbu1d/how_to_think_in_type_language/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

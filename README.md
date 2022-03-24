@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Metarank - A low code Machine Learning tool that personalizes product listings, articles, recommendations, and search results in order to boost sales. A friendly Learn-to-Rank engine](https://www.reddit.com/r/scala/comments/tl10i6/metarank_a_low_code_machine_learning_tool_that/)
+- [Use Scala property object from Java](https://www.reddit.com/r/scala/comments/tkvuqq/use_scala_property_object_from_java/)
+- [How can I use munit in IntelliJ? I added it to sbt but when I try to use it I get the error shown in the screenshot.](https://www.reddit.com/r/scala/comments/tkvrd3/how_can_i_use_munit_in_intellij_i_added_it_to_sbt/)
 - [Daniel Spiewak - The Case For Effect Systems](https://www.reddit.com/r/scala/comments/tkebi1/daniel_spiewak_the_case_for_effect_systems/)
 - [ZIO SQL: Type-safe SQL for ZIO applications](https://www.reddit.com/r/scala/comments/tk5ys5/zio_sql_typesafe_sql_for_zio_applications/)
 - [new typeclass derivation library for Scala 2 and 3 &lpar;shapely&rpar;](https://www.reddit.com/r/scala/comments/tk1z6q/new_typeclass_derivation_library_for_scala_2_and/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Mar 21, 2022&rpar;](https://www.reddit.com/r/scala/comments/tim9mf/this_week_in_scala_mar_21_2022/)
 - [Trying to decide on Scala or Kotlin](https://www.reddit.com/r/scala/comments/tijhwx/trying_to_decide_on_scala_or_kotlin/)
 - [Where can I learn about concurrency in Scala?](https://www.reddit.com/r/scala/comments/ti7ziy/where_can_i_learn_about_concurrency_in_scala/)
-- [Can&#39;t find scala error by searching google.](https://www.reddit.com/r/scala/comments/thzoah/cant_find_scala_error_by_searching_google/)
-- [Decline is amazing! &lpar;Scala Project From Scratch #8&rpar;](https://www.reddit.com/r/scala/comments/thyi9h/decline_is_amazing_scala_project_from_scratch_8/)
-- [Sleipnir Project: Fundamentals Part 1](https://www.reddit.com/r/scala/comments/th9c66/sleipnir_project_fundamentals_part_1/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Three tools to improve your Scala workflow](https://www.reddit.com/r/scala/comments/tm2q70/three_tools_to_improve_your_scala_workflow/)
+- [Create .deb &lpar;debian&rpar; file of playframework for deploying in cloud linux ...](https://www.reddit.com/r/scala/comments/tm210v/create_deb_debian_file_of_playframework_for/)
 - [Metarank - A low code Machine Learning tool that personalizes product listings, articles, recommendations, and search results in order to boost sales. A friendly Learn-to-Rank engine](https://www.reddit.com/r/scala/comments/tl10i6/metarank_a_low_code_machine_learning_tool_that/)
 - [Use Scala property object from Java](https://www.reddit.com/r/scala/comments/tkvuqq/use_scala_property_object_from_java/)
 - [How can I use munit in IntelliJ? I added it to sbt but when I try to use it I get the error shown in the screenshot.](https://www.reddit.com/r/scala/comments/tkvrd3/how_can_i_use_munit_in_intellij_i_added_it_to_sbt/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [new typeclass derivation library for Scala 2 and 3 &lpar;shapely&rpar;](https://www.reddit.com/r/scala/comments/tk1z6q/new_typeclass_derivation_library_for_scala_2_and/)
 - [Sleipnir Project - Foundations - Scala Fundamentals Part 2](https://www.reddit.com/r/scala/comments/tjk0j4/sleipnir_project_foundations_scala_fundamentals/)
 - [This week in #Scala &lpar;Mar 21, 2022&rpar;](https://www.reddit.com/r/scala/comments/tim9mf/this_week_in_scala_mar_21_2022/)
-- [Trying to decide on Scala or Kotlin](https://www.reddit.com/r/scala/comments/tijhwx/trying_to_decide_on_scala_or_kotlin/)
-- [Where can I learn about concurrency in Scala?](https://www.reddit.com/r/scala/comments/ti7ziy/where_can_i_learn_about_concurrency_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

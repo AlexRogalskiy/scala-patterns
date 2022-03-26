@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Interesting but correct behavior](https://www.reddit.com/r/scala/comments/tnhyvd/interesting_but_correct_behavior/)
+- [One step closer to replacing REST with gRPC - beautiful gRPC Documentation with Gradle and Maven support](https://www.reddit.com/r/scala/comments/tnh1s3/one_step_closer_to_replacing_rest_with_grpc/)
 - [Three tools to improve your Scala workflow](https://www.reddit.com/r/scala/comments/tm2q70/three_tools_to_improve_your_scala_workflow/)
 - [Create .deb &lpar;debian&rpar; file of playframework for deploying in cloud linux ...](https://www.reddit.com/r/scala/comments/tm210v/create_deb_debian_file_of_playframework_for/)
 - [Metarank - A low code Machine Learning tool that personalizes product listings, articles, recommendations, and search results in order to boost sales. A friendly Learn-to-Rank engine](https://www.reddit.com/r/scala/comments/tl10i6/metarank_a_low_code_machine_learning_tool_that/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Daniel Spiewak - The Case For Effect Systems](https://www.reddit.com/r/scala/comments/tkebi1/daniel_spiewak_the_case_for_effect_systems/)
 - [ZIO SQL: Type-safe SQL for ZIO applications](https://www.reddit.com/r/scala/comments/tk5ys5/zio_sql_typesafe_sql_for_zio_applications/)
 - [new typeclass derivation library for Scala 2 and 3 &lpar;shapely&rpar;](https://www.reddit.com/r/scala/comments/tk1z6q/new_typeclass_derivation_library_for_scala_2_and/)
-- [Sleipnir Project - Foundations - Scala Fundamentals Part 2](https://www.reddit.com/r/scala/comments/tjk0j4/sleipnir_project_foundations_scala_fundamentals/)
-- [This week in #Scala &lpar;Mar 21, 2022&rpar;](https://www.reddit.com/r/scala/comments/tim9mf/this_week_in_scala_mar_21_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

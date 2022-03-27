@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ambiguous implicits are confusing me](https://www.reddit.com/r/scala/comments/tomnqm/ambiguous_implicits_are_confusing_me/)
+- [Matlab wrapper for scala package](https://www.reddit.com/r/scala/comments/tohs28/matlab_wrapper_for_scala_package/)
 - [Interesting but correct behavior](https://www.reddit.com/r/scala/comments/tnhyvd/interesting_but_correct_behavior/)
 - [One step closer to replacing REST with gRPC - beautiful gRPC Documentation with Gradle and Maven support](https://www.reddit.com/r/scala/comments/tnh1s3/one_step_closer_to_replacing_rest_with_grpc/)
 - [Three tools to improve your Scala workflow](https://www.reddit.com/r/scala/comments/tm2q70/three_tools_to_improve_your_scala_workflow/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Use Scala property object from Java](https://www.reddit.com/r/scala/comments/tkvuqq/use_scala_property_object_from_java/)
 - [How can I use munit in IntelliJ? I added it to sbt but when I try to use it I get the error shown in the screenshot.](https://www.reddit.com/r/scala/comments/tkvrd3/how_can_i_use_munit_in_intellij_i_added_it_to_sbt/)
 - [Daniel Spiewak - The Case For Effect Systems](https://www.reddit.com/r/scala/comments/tkebi1/daniel_spiewak_the_case_for_effect_systems/)
-- [ZIO SQL: Type-safe SQL for ZIO applications](https://www.reddit.com/r/scala/comments/tk5ys5/zio_sql_typesafe_sql_for_zio_applications/)
-- [new typeclass derivation library for Scala 2 and 3 &lpar;shapely&rpar;](https://www.reddit.com/r/scala/comments/tk1z6q/new_typeclass_derivation_library_for_scala_2_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

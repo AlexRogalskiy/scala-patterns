@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I love Scala but I can&#39;t stand:](https://www.reddit.com/r/scala/comments/tpsjbd/i_love_scala_but_i_cant_stand/)
+- [This week in #Scala &lpar;Mar 28, 2022&rpar;](https://www.reddit.com/r/scala/comments/tplsln/this_week_in_scala_mar_28_2022/)
+- [sbt 1.7.0-M1 released](https://www.reddit.com/r/scala/comments/tpf6r1/sbt_170m1_released/)
 - [Ambiguous implicits are confusing me](https://www.reddit.com/r/scala/comments/tomnqm/ambiguous_implicits_are_confusing_me/)
 - [Matlab wrapper for scala package](https://www.reddit.com/r/scala/comments/tohs28/matlab_wrapper_for_scala_package/)
 - [Interesting but correct behavior](https://www.reddit.com/r/scala/comments/tnhyvd/interesting_but_correct_behavior/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Three tools to improve your Scala workflow](https://www.reddit.com/r/scala/comments/tm2q70/three_tools_to_improve_your_scala_workflow/)
 - [Create .deb &lpar;debian&rpar; file of playframework for deploying in cloud linux ...](https://www.reddit.com/r/scala/comments/tm210v/create_deb_debian_file_of_playframework_for/)
 - [Metarank - A low code Machine Learning tool that personalizes product listings, articles, recommendations, and search results in order to boost sales. A friendly Learn-to-Rank engine](https://www.reddit.com/r/scala/comments/tl10i6/metarank_a_low_code_machine_learning_tool_that/)
-- [Use Scala property object from Java](https://www.reddit.com/r/scala/comments/tkvuqq/use_scala_property_object_from_java/)
-- [How can I use munit in IntelliJ? I added it to sbt but when I try to use it I get the error shown in the screenshot.](https://www.reddit.com/r/scala/comments/tkvrd3/how_can_i_use_munit_in_intellij_i_added_it_to_sbt/)
-- [Daniel Spiewak - The Case For Effect Systems](https://www.reddit.com/r/scala/comments/tkebi1/daniel_spiewak_the_case_for_effect_systems/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

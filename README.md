@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [fs2-aws 5.0.0 has been released with Scala 3 support](https://www.reddit.com/r/scala/comments/tqerel/fs2aws_500_has_been_released_with_scala_3_support/)
+- [Eval 0.1.0 released](https://www.reddit.com/r/scala/comments/tq9z4l/eval_010_released/)
 - [I love Scala but I can&#39;t stand:](https://www.reddit.com/r/scala/comments/tpsjbd/i_love_scala_but_i_cant_stand/)
 - [This week in #Scala &lpar;Mar 28, 2022&rpar;](https://www.reddit.com/r/scala/comments/tplsln/this_week_in_scala_mar_28_2022/)
 - [sbt 1.7.0-M1 released](https://www.reddit.com/r/scala/comments/tpf6r1/sbt_170m1_released/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Interesting but correct behavior](https://www.reddit.com/r/scala/comments/tnhyvd/interesting_but_correct_behavior/)
 - [One step closer to replacing REST with gRPC - beautiful gRPC Documentation with Gradle and Maven support](https://www.reddit.com/r/scala/comments/tnh1s3/one_step_closer_to_replacing_rest_with_grpc/)
 - [Three tools to improve your Scala workflow](https://www.reddit.com/r/scala/comments/tm2q70/three_tools_to_improve_your_scala_workflow/)
-- [Create .deb &lpar;debian&rpar; file of playframework for deploying in cloud linux ...](https://www.reddit.com/r/scala/comments/tm210v/create_deb_debian_file_of_playframework_for/)
-- [Metarank - A low code Machine Learning tool that personalizes product listings, articles, recommendations, and search results in order to boost sales. A friendly Learn-to-Rank engine](https://www.reddit.com/r/scala/comments/tl10i6/metarank_a_low_code_machine_learning_tool_that/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

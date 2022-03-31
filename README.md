@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Using SWAR techniques to speed up parsing and serialization from/to JSON](https://www.reddit.com/r/scala/comments/tsd49l/using_swar_techniques_to_speed_up_parsing_and/)
+- [Where can I find realistic salary ranges for scala backend?](https://www.reddit.com/r/scala/comments/ts3woo/where_can_i_find_realistic_salary_ranges_for/)
+- [gRPC bench new update 2022-03-15](https://www.reddit.com/r/scala/comments/ts1yit/grpc_bench_new_update_20220315/)
+- [Monoides en Cats parte 2](https://www.reddit.com/r/scala/comments/trx18n/monoides_en_cats_parte_2/)
 - [fs2-aws 5.0.0 has been released with Scala 3 support](https://www.reddit.com/r/scala/comments/tqerel/fs2aws_500_has_been_released_with_scala_3_support/)
 - [Eval 0.1.0 released](https://www.reddit.com/r/scala/comments/tq9z4l/eval_010_released/)
 - [I love Scala but I can&#39;t stand:](https://www.reddit.com/r/scala/comments/tpsjbd/i_love_scala_but_i_cant_stand/)
 - [This week in #Scala &lpar;Mar 28, 2022&rpar;](https://www.reddit.com/r/scala/comments/tplsln/this_week_in_scala_mar_28_2022/)
 - [sbt 1.7.0-M1 released](https://www.reddit.com/r/scala/comments/tpf6r1/sbt_170m1_released/)
 - [Ambiguous implicits are confusing me](https://www.reddit.com/r/scala/comments/tomnqm/ambiguous_implicits_are_confusing_me/)
-- [Matlab wrapper for scala package](https://www.reddit.com/r/scala/comments/tohs28/matlab_wrapper_for_scala_package/)
-- [Interesting but correct behavior](https://www.reddit.com/r/scala/comments/tnhyvd/interesting_but_correct_behavior/)
-- [One step closer to replacing REST with gRPC - beautiful gRPC Documentation with Gradle and Maven support](https://www.reddit.com/r/scala/comments/tnh1s3/one_step_closer_to_replacing_rest_with_grpc/)
-- [Three tools to improve your Scala workflow](https://www.reddit.com/r/scala/comments/tm2q70/three_tools_to_improve_your_scala_workflow/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

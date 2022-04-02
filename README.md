@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Funtores](https://www.reddit.com/r/scala/comments/tu3lgf/funtores/)
+- [Are there any junior scala developer roles to apply &lpar;remote or relocation&rpar;?](https://www.reddit.com/r/scala/comments/ttvz5z/are_there_any_junior_scala_developer_roles_to/)
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/ttu85s/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [Inline your boilerplate – harnessing Scala 3 metaprogramming without macros](https://www.reddit.com/r/scala/comments/tttt3c/inline_your_boilerplate_harnessing_scala_3/)
+- [We strongly encourage you to join the Functional World conference, where we will talk about the functional power of ZIO Tests. There are 11 days left to the event. Learn more and register⬇️](https://www.reddit.com/r/scala/comments/tttpv4/we_strongly_encourage_you_to_join_the_functional/)
+- [IntelliJ and ScalaJS setup](https://www.reddit.com/r/scala/comments/ttqp9c/intellij_and_scalajs_setup/)
+- [The RedMonk Programming Language Rankings: January 2022](https://www.reddit.com/r/scala/comments/ttpscm/the_redmonk_programming_language_rankings_january/)
+- [Tooling Talks Episode 10 - Amina Adewusi: Let&#39;s Talk about Newcomers](https://www.reddit.com/r/scala/comments/ttmsx8/tooling_talks_episode_10_amina_adewusi_lets_talk/)
 - [Neotypes now support CE3](https://www.reddit.com/r/scala/comments/ttare3/neotypes_now_support_ce3/)
 - [Replace null with empty array in scala](https://www.reddit.com/r/scala/comments/tszkjm/replace_null_with_empty_array_in_scala/)
-- [Monoides en Cats parte 3](https://www.reddit.com/r/scala/comments/tsrl17/monoides_en_cats_parte_3/)
-- [Using SWAR techniques to speed up parsing and serialization from/to JSON](https://www.reddit.com/r/scala/comments/tsd49l/using_swar_techniques_to_speed_up_parsing_and/)
-- [Where can I find realistic salary ranges for scala backend?](https://www.reddit.com/r/scala/comments/ts3woo/where_can_i_find_realistic_salary_ranges_for/)
-- [gRPC bench new update 2022-03-15](https://www.reddit.com/r/scala/comments/ts1yit/grpc_bench_new_update_20220315/)
-- [Monoides en Cats parte 2](https://www.reddit.com/r/scala/comments/trx18n/monoides_en_cats_parte_2/)
-- [fs2-aws 5.0.0 has been released with Scala 3 support](https://www.reddit.com/r/scala/comments/tqerel/fs2aws_500_has_been_released_with_scala_3_support/)
-- [Eval 0.1.0 released](https://www.reddit.com/r/scala/comments/tq9z4l/eval_010_released/)
-- [I love Scala but I can&#39;t stand:](https://www.reddit.com/r/scala/comments/tpsjbd/i_love_scala_but_i_cant_stand/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

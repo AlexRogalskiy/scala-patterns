@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Chi now has a limited support for Java syntax &lpar;and a simple editor UI&rpar;](https://www.reddit.com/r/scala/comments/tumv4n/chi_now_has_a_limited_support_for_java_syntax_and/)
 - [Funtores](https://www.reddit.com/r/scala/comments/tu3lgf/funtores/)
 - [Are there any junior scala developer roles to apply &lpar;remote or relocation&rpar;?](https://www.reddit.com/r/scala/comments/ttvz5z/are_there_any_junior_scala_developer_roles_to/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/ttu85s/who_is_hiring_monthly_rscala_job_postings_thread/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [The RedMonk Programming Language Rankings: January 2022](https://www.reddit.com/r/scala/comments/ttpscm/the_redmonk_programming_language_rankings_january/)
 - [Tooling Talks Episode 10 - Amina Adewusi: Let&#39;s Talk about Newcomers](https://www.reddit.com/r/scala/comments/ttmsx8/tooling_talks_episode_10_amina_adewusi_lets_talk/)
 - [Neotypes now support CE3](https://www.reddit.com/r/scala/comments/ttare3/neotypes_now_support_ce3/)
-- [Replace null with empty array in scala](https://www.reddit.com/r/scala/comments/tszkjm/replace_null_with_empty_array_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

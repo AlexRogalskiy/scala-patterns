@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Apr 4, 2022&rpar;](https://www.reddit.com/r/scala/comments/tvh9z9/this_week_in_scala_apr_4_2022/)
+- [Scala project rewrite](https://www.reddit.com/r/scala/comments/tvgt4q/scala_project_rewrite/)
+- [BoundedContext](https://www.reddit.com/r/scala/comments/tv8n85/boundedcontext/)
+- [Confused about DataFrame vs Multidimensional Array](https://www.reddit.com/r/scala/comments/tv79l9/confused_about_dataframe_vs_multidimensional_array/)
 - [Chi now has a limited support for Java syntax &lpar;and a simple editor UI&rpar;](https://www.reddit.com/r/scala/comments/tumv4n/chi_now_has_a_limited_support_for_java_syntax_and/)
 - [Funtores](https://www.reddit.com/r/scala/comments/tu3lgf/funtores/)
 - [Are there any junior scala developer roles to apply &lpar;remote or relocation&rpar;?](https://www.reddit.com/r/scala/comments/ttvz5z/are_there_any_junior_scala_developer_roles_to/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/ttu85s/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Inline your boilerplate – harnessing Scala 3 metaprogramming without macros](https://www.reddit.com/r/scala/comments/tttt3c/inline_your_boilerplate_harnessing_scala_3/)
 - [We strongly encourage you to join the Functional World conference, where we will talk about the functional power of ZIO Tests. There are 11 days left to the event. Learn more and register⬇️](https://www.reddit.com/r/scala/comments/tttpv4/we_strongly_encourage_you_to_join_the_functional/)
-- [IntelliJ and ScalaJS setup](https://www.reddit.com/r/scala/comments/ttqp9c/intellij_and_scalajs_setup/)
-- [The RedMonk Programming Language Rankings: January 2022](https://www.reddit.com/r/scala/comments/ttpscm/the_redmonk_programming_language_rankings_january/)
-- [Tooling Talks Episode 10 - Amina Adewusi: Let&#39;s Talk about Newcomers](https://www.reddit.com/r/scala/comments/ttmsx8/tooling_talks_episode_10_amina_adewusi_lets_talk/)
-- [Neotypes now support CE3](https://www.reddit.com/r/scala/comments/ttare3/neotypes_now_support_ce3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

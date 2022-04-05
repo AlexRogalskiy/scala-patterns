@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[r/place] Help for Scala logo &lpar;patern in comment&rpar;](https://www.reddit.com/r/scala/comments/twbjx1/rplace_help_for_scala_logo_patern_in_comment/)
+- [Potentially picking up Scala for a project after a 5 year hiatus - what&#39;s changed?](https://www.reddit.com/r/scala/comments/tw5x4d/potentially_picking_up_scala_for_a_project_after/)
+- [Scala Love: Five takeaways from migrating a library to Scala 3](https://www.reddit.com/r/scala/comments/tvu59w/scala_love_five_takeaways_from_migrating_a/)
 - [This week in #Scala &lpar;Apr 4, 2022&rpar;](https://www.reddit.com/r/scala/comments/tvh9z9/this_week_in_scala_apr_4_2022/)
 - [Scala project rewrite](https://www.reddit.com/r/scala/comments/tvgt4q/scala_project_rewrite/)
 - [BoundedContext](https://www.reddit.com/r/scala/comments/tv8n85/boundedcontext/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Chi now has a limited support for Java syntax &lpar;and a simple editor UI&rpar;](https://www.reddit.com/r/scala/comments/tumv4n/chi_now_has_a_limited_support_for_java_syntax_and/)
 - [Funtores](https://www.reddit.com/r/scala/comments/tu3lgf/funtores/)
 - [Are there any junior scala developer roles to apply &lpar;remote or relocation&rpar;?](https://www.reddit.com/r/scala/comments/ttvz5z/are_there_any_junior_scala_developer_roles_to/)
-- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/ttu85s/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [Inline your boilerplate – harnessing Scala 3 metaprogramming without macros](https://www.reddit.com/r/scala/comments/tttt3c/inline_your_boilerplate_harnessing_scala_3/)
-- [We strongly encourage you to join the Functional World conference, where we will talk about the functional power of ZIO Tests. There are 11 days left to the event. Learn more and register⬇️](https://www.reddit.com/r/scala/comments/tttpv4/we_strongly_encourage_you_to_join_the_functional/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

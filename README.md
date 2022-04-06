@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Sort](https://www.reddit.com/r/scala/comments/twvj78/sort/)
+- [Help: implicit conversion in def/pattern match &lpar;Scala3&rpar;](https://www.reddit.com/r/scala/comments/twuwxb/help_implicit_conversion_in_defpattern_match/)
+- [Cannot connect to compile server at local host 127.0.0.1:3,200 error](https://www.reddit.com/r/scala/comments/twurm5/cannot_connect_to_compile_server_at_local_host/)
+- [Functional programming with Russ Olsen &amp; Christian Romney](https://www.reddit.com/r/scala/comments/twthcx/functional_programming_with_russ_olsen_christian/)
 - [[r/place] Help for Scala logo &lpar;patern in comment&rpar;](https://www.reddit.com/r/scala/comments/twbjx1/rplace_help_for_scala_logo_patern_in_comment/)
 - [Potentially picking up Scala for a project after a 5 year hiatus - what&#39;s changed?](https://www.reddit.com/r/scala/comments/tw5x4d/potentially_picking_up_scala_for_a_project_after/)
 - [Scala Love: Five takeaways from migrating a library to Scala 3](https://www.reddit.com/r/scala/comments/tvu59w/scala_love_five_takeaways_from_migrating_a/)
 - [This week in #Scala &lpar;Apr 4, 2022&rpar;](https://www.reddit.com/r/scala/comments/tvh9z9/this_week_in_scala_apr_4_2022/)
 - [Scala project rewrite](https://www.reddit.com/r/scala/comments/tvgt4q/scala_project_rewrite/)
 - [BoundedContext](https://www.reddit.com/r/scala/comments/tv8n85/boundedcontext/)
-- [Confused about DataFrame vs Multidimensional Array](https://www.reddit.com/r/scala/comments/tv79l9/confused_about_dataframe_vs_multidimensional_array/)
-- [Chi now has a limited support for Java syntax &lpar;and a simple editor UI&rpar;](https://www.reddit.com/r/scala/comments/tumv4n/chi_now_has_a_limited_support_for_java_syntax_and/)
-- [Funtores](https://www.reddit.com/r/scala/comments/tu3lgf/funtores/)
-- [Are there any junior scala developer roles to apply &lpar;remote or relocation&rpar;?](https://www.reddit.com/r/scala/comments/ttvz5z/are_there_any_junior_scala_developer_roles_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

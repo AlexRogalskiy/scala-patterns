@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [My first Tapir stream &lpar;Scala Project From Scratch #9&rpar;](https://www.reddit.com/r/scala/comments/txo3sj/my_first_tapir_stream_scala_project_from_scratch_9/)
+- [Can someone explain what is this doing?](https://www.reddit.com/r/scala/comments/txnyj2/can_someone_explain_what_is_this_doing/)
+- [Running tests from emacs](https://www.reddit.com/r/scala/comments/txnpox/running_tests_from_emacs/)
+- [ZIO SQL presentation by Jaroslav Regec ⬇️ This Scala library provides a nice embedded DSL that is 100% type-safe and just feels like writing SQL in Scala...](https://www.reddit.com/r/scala/comments/txhn2s/zio_sql_presentation_by_jaroslav_regec_this_scala/)
+- [Funtores parte 2](https://www.reddit.com/r/scala/comments/txe1yt/funtores_parte_2/)
 - [Sort](https://www.reddit.com/r/scala/comments/twvj78/sort/)
 - [Help: implicit conversion in def/pattern match &lpar;Scala3&rpar;](https://www.reddit.com/r/scala/comments/twuwxb/help_implicit_conversion_in_defpattern_match/)
 - [Cannot connect to compile server at local host 127.0.0.1:3,200 error](https://www.reddit.com/r/scala/comments/twurm5/cannot_connect_to_compile_server_at_local_host/)
 - [Functional programming with Russ Olsen &amp; Christian Romney](https://www.reddit.com/r/scala/comments/twthcx/functional_programming_with_russ_olsen_christian/)
 - [[r/place] Help for Scala logo &lpar;patern in comment&rpar;](https://www.reddit.com/r/scala/comments/twbjx1/rplace_help_for_scala_logo_patern_in_comment/)
-- [Potentially picking up Scala for a project after a 5 year hiatus - what&#39;s changed?](https://www.reddit.com/r/scala/comments/tw5x4d/potentially_picking_up_scala_for_a_project_after/)
-- [Scala Love: Five takeaways from migrating a library to Scala 3](https://www.reddit.com/r/scala/comments/tvu59w/scala_love_five_takeaways_from_migrating_a/)
-- [This week in #Scala &lpar;Apr 4, 2022&rpar;](https://www.reddit.com/r/scala/comments/tvh9z9/this_week_in_scala_apr_4_2022/)
-- [Scala project rewrite](https://www.reddit.com/r/scala/comments/tvgt4q/scala_project_rewrite/)
-- [BoundedContext](https://www.reddit.com/r/scala/comments/tv8n85/boundedcontext/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

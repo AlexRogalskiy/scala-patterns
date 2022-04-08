@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best framework for huge data processing?](https://www.reddit.com/r/scala/comments/tyg7q7/best_framework_for_huge_data_processing/)
 - [My first Tapir stream &lpar;Scala Project From Scratch #9&rpar;](https://www.reddit.com/r/scala/comments/txo3sj/my_first_tapir_stream_scala_project_from_scratch_9/)
 - [Can someone explain what is this doing?](https://www.reddit.com/r/scala/comments/txnyj2/can_someone_explain_what_is_this_doing/)
 - [Running tests from emacs](https://www.reddit.com/r/scala/comments/txnpox/running_tests_from_emacs/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Help: implicit conversion in def/pattern match &lpar;Scala3&rpar;](https://www.reddit.com/r/scala/comments/twuwxb/help_implicit_conversion_in_defpattern_match/)
 - [Cannot connect to compile server at local host 127.0.0.1:3,200 error](https://www.reddit.com/r/scala/comments/twurm5/cannot_connect_to_compile_server_at_local_host/)
 - [Functional programming with Russ Olsen &amp; Christian Romney](https://www.reddit.com/r/scala/comments/twthcx/functional_programming_with_russ_olsen_christian/)
-- [[r/place] Help for Scala logo &lpar;patern in comment&rpar;](https://www.reddit.com/r/scala/comments/twbjx1/rplace_help_for_scala_logo_patern_in_comment/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

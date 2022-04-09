@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Functor lambda variable naming](https://www.reddit.com/r/scala/comments/tzfy8n/functor_lambda_variable_naming/)
+- [Edit Suggestions in Metals](https://www.reddit.com/r/scala/comments/tza1d7/edit_suggestions_in_metals/)
 - [Best framework for huge data processing?](https://www.reddit.com/r/scala/comments/tyg7q7/best_framework_for_huge_data_processing/)
 - [My first Tapir stream &lpar;Scala Project From Scratch #9&rpar;](https://www.reddit.com/r/scala/comments/txo3sj/my_first_tapir_stream_scala_project_from_scratch_9/)
 - [Can someone explain what is this doing?](https://www.reddit.com/r/scala/comments/txnyj2/can_someone_explain_what_is_this_doing/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Funtores parte 2](https://www.reddit.com/r/scala/comments/txe1yt/funtores_parte_2/)
 - [Sort](https://www.reddit.com/r/scala/comments/twvj78/sort/)
 - [Help: implicit conversion in def/pattern match &lpar;Scala3&rpar;](https://www.reddit.com/r/scala/comments/twuwxb/help_implicit_conversion_in_defpattern_match/)
-- [Cannot connect to compile server at local host 127.0.0.1:3,200 error](https://www.reddit.com/r/scala/comments/twurm5/cannot_connect_to_compile_server_at_local_host/)
-- [Functional programming with Russ Olsen &amp; Christian Romney](https://www.reddit.com/r/scala/comments/twthcx/functional_programming_with_russ_olsen_christian/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

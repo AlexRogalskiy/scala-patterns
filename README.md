@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [FlowRun - executable flowcharts](https://www.reddit.com/r/scala/comments/u07ma5/flowrun_executable_flowcharts/)
+- [Future of monix](https://www.reddit.com/r/scala/comments/u07fzn/future_of_monix/)
+- [How does scala foldLeft method of List compiled? step by step](https://www.reddit.com/r/scala/comments/u04i6k/how_does_scala_foldleft_method_of_list_compiled/)
+- [Scala&#39;s Gitter to Discord migration mistake](https://www.reddit.com/r/scala/comments/tzpk4q/scalas_gitter_to_discord_migration_mistake/)
 - [Functor lambda variable naming](https://www.reddit.com/r/scala/comments/tzfy8n/functor_lambda_variable_naming/)
 - [Edit Suggestions in Metals](https://www.reddit.com/r/scala/comments/tza1d7/edit_suggestions_in_metals/)
 - [Best framework for huge data processing?](https://www.reddit.com/r/scala/comments/tyg7q7/best_framework_for_huge_data_processing/)
 - [My first Tapir stream &lpar;Scala Project From Scratch #9&rpar;](https://www.reddit.com/r/scala/comments/txo3sj/my_first_tapir_stream_scala_project_from_scratch_9/)
 - [Can someone explain what is this doing?](https://www.reddit.com/r/scala/comments/txnyj2/can_someone_explain_what_is_this_doing/)
 - [Running tests from emacs](https://www.reddit.com/r/scala/comments/txnpox/running_tests_from_emacs/)
-- [ZIO SQL presentation by Jaroslav Regec ⬇️ This Scala library provides a nice embedded DSL that is 100% type-safe and just feels like writing SQL in Scala...](https://www.reddit.com/r/scala/comments/txhn2s/zio_sql_presentation_by_jaroslav_regec_this_scala/)
-- [Funtores parte 2](https://www.reddit.com/r/scala/comments/txe1yt/funtores_parte_2/)
-- [Sort](https://www.reddit.com/r/scala/comments/twvj78/sort/)
-- [Help: implicit conversion in def/pattern match &lpar;Scala3&rpar;](https://www.reddit.com/r/scala/comments/twuwxb/help_implicit_conversion_in_defpattern_match/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

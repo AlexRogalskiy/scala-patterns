@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala vs Java/C# code examples](https://www.reddit.com/r/scala/comments/u0ni37/scala_vs_javac_code_examples/)
+- [Diamond Architecture - How to build HUMONGOUS apps FAST!](https://www.reddit.com/r/scala/comments/u0geiv/diamond_architecture_how_to_build_humongous_apps/)
+- [Is &quot;Scala for the Impatient&quot; outdated?](https://www.reddit.com/r/scala/comments/u0eebx/is_scala_for_the_impatient_outdated/)
+- [ordset v.0.1.0](https://www.reddit.com/r/scala/comments/u0dyg2/ordset_v010/)
 - [FlowRun - executable flowcharts](https://www.reddit.com/r/scala/comments/u07ma5/flowrun_executable_flowcharts/)
 - [Future of monix](https://www.reddit.com/r/scala/comments/u07fzn/future_of_monix/)
 - [How does scala foldLeft method of List compiled? step by step](https://www.reddit.com/r/scala/comments/u04i6k/how_does_scala_foldleft_method_of_list_compiled/)
 - [Scala&#39;s Gitter to Discord migration mistake](https://www.reddit.com/r/scala/comments/tzpk4q/scalas_gitter_to_discord_migration_mistake/)
 - [Functor lambda variable naming](https://www.reddit.com/r/scala/comments/tzfy8n/functor_lambda_variable_naming/)
 - [Edit Suggestions in Metals](https://www.reddit.com/r/scala/comments/tza1d7/edit_suggestions_in_metals/)
-- [Best framework for huge data processing?](https://www.reddit.com/r/scala/comments/tyg7q7/best_framework_for_huge_data_processing/)
-- [My first Tapir stream &lpar;Scala Project From Scratch #9&rpar;](https://www.reddit.com/r/scala/comments/txo3sj/my_first_tapir_stream_scala_project_from_scratch_9/)
-- [Can someone explain what is this doing?](https://www.reddit.com/r/scala/comments/txnyj2/can_someone_explain_what_is_this_doing/)
-- [Running tests from emacs](https://www.reddit.com/r/scala/comments/txnpox/running_tests_from_emacs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

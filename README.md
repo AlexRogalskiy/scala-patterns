@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Funtores en Cats](https://www.reddit.com/r/scala/comments/u1ayv7/funtores_en_cats/)
+- [Scala vs Kotlin for REST API](https://www.reddit.com/r/scala/comments/u18n5o/scala_vs_kotlin_for_rest_api/)
+- [This week in #Scala &lpar;Apr 11, 2022&rpar;](https://www.reddit.com/r/scala/comments/u17bkr/this_week_in_scala_apr_11_2022/)
 - [Scala vs Java/C# code examples](https://www.reddit.com/r/scala/comments/u0ni37/scala_vs_javac_code_examples/)
 - [Diamond Architecture - How to build HUMONGOUS apps FAST!](https://www.reddit.com/r/scala/comments/u0geiv/diamond_architecture_how_to_build_humongous_apps/)
 - [Is &quot;Scala for the Impatient&quot; outdated?](https://www.reddit.com/r/scala/comments/u0eebx/is_scala_for_the_impatient_outdated/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [FlowRun - executable flowcharts](https://www.reddit.com/r/scala/comments/u07ma5/flowrun_executable_flowcharts/)
 - [Future of monix](https://www.reddit.com/r/scala/comments/u07fzn/future_of_monix/)
 - [How does scala foldLeft method of List compiled? step by step](https://www.reddit.com/r/scala/comments/u04i6k/how_does_scala_foldleft_method_of_list_compiled/)
-- [Scala&#39;s Gitter to Discord migration mistake](https://www.reddit.com/r/scala/comments/tzpk4q/scalas_gitter_to_discord_migration_mistake/)
-- [Functor lambda variable naming](https://www.reddit.com/r/scala/comments/tzfy8n/functor_lambda_variable_naming/)
-- [Edit Suggestions in Metals](https://www.reddit.com/r/scala/comments/tza1d7/edit_suggestions_in_metals/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

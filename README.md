@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Defining &lt; in terms of &lt;=?](https://www.reddit.com/r/scala/comments/u1u3bo/defining_in_terms_of/)
 - [Funtores en Cats](https://www.reddit.com/r/scala/comments/u1ayv7/funtores_en_cats/)
 - [Scala vs Kotlin for REST API](https://www.reddit.com/r/scala/comments/u18n5o/scala_vs_kotlin_for_rest_api/)
 - [This week in #Scala &lpar;Apr 11, 2022&rpar;](https://www.reddit.com/r/scala/comments/u17bkr/this_week_in_scala_apr_11_2022/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ordset v.0.1.0](https://www.reddit.com/r/scala/comments/u0dyg2/ordset_v010/)
 - [FlowRun - executable flowcharts](https://www.reddit.com/r/scala/comments/u07ma5/flowrun_executable_flowcharts/)
 - [Future of monix](https://www.reddit.com/r/scala/comments/u07fzn/future_of_monix/)
-- [How does scala foldLeft method of List compiled? step by step](https://www.reddit.com/r/scala/comments/u04i6k/how_does_scala_foldleft_method_of_list_compiled/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

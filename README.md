@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Configuring my jupyter notebook with a scala kernel](https://www.reddit.com/r/scala/comments/u2rpah/configuring_my_jupyter_notebook_with_a_scala/)
+- [Spekka public announcement](https://www.reddit.com/r/scala/comments/u2oxf6/spekka_public_announcement/)
 - [Defining &lt; in terms of &lt;=?](https://www.reddit.com/r/scala/comments/u1u3bo/defining_in_terms_of/)
 - [Funtores en Cats](https://www.reddit.com/r/scala/comments/u1ayv7/funtores_en_cats/)
 - [Scala vs Kotlin for REST API](https://www.reddit.com/r/scala/comments/u18n5o/scala_vs_kotlin_for_rest_api/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Diamond Architecture - How to build HUMONGOUS apps FAST!](https://www.reddit.com/r/scala/comments/u0geiv/diamond_architecture_how_to_build_humongous_apps/)
 - [Is &quot;Scala for the Impatient&quot; outdated?](https://www.reddit.com/r/scala/comments/u0eebx/is_scala_for_the_impatient_outdated/)
 - [ordset v.0.1.0](https://www.reddit.com/r/scala/comments/u0dyg2/ordset_v010/)
-- [FlowRun - executable flowcharts](https://www.reddit.com/r/scala/comments/u07ma5/flowrun_executable_flowcharts/)
-- [Future of monix](https://www.reddit.com/r/scala/comments/u07fzn/future_of_monix/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Funtores en Cats parte 2](https://www.reddit.com/r/scala/comments/u3j3z3/funtores_en_cats_parte_2/)
 - [Configuring my jupyter notebook with a scala kernel](https://www.reddit.com/r/scala/comments/u2rpah/configuring_my_jupyter_notebook_with_a_scala/)
 - [Spekka public announcement](https://www.reddit.com/r/scala/comments/u2oxf6/spekka_public_announcement/)
 - [Defining &lt; in terms of &lt;=?](https://www.reddit.com/r/scala/comments/u1u3bo/defining_in_terms_of/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala vs Java/C# code examples](https://www.reddit.com/r/scala/comments/u0ni37/scala_vs_javac_code_examples/)
 - [Diamond Architecture - How to build HUMONGOUS apps FAST!](https://www.reddit.com/r/scala/comments/u0geiv/diamond_architecture_how_to_build_humongous_apps/)
 - [Is &quot;Scala for the Impatient&quot; outdated?](https://www.reddit.com/r/scala/comments/u0eebx/is_scala_for_the_impatient_outdated/)
-- [ordset v.0.1.0](https://www.reddit.com/r/scala/comments/u0dyg2/ordset_v010/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

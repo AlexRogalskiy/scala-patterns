@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Funtores en Cats parte 3](https://www.reddit.com/r/scala/comments/u4ea2b/funtores_en_cats_parte_3/)
+- [Scala and Java Upgrade strategy](https://www.reddit.com/r/scala/comments/u43c40/scala_and_java_upgrade_strategy/)
 - [Funtores en Cats parte 2](https://www.reddit.com/r/scala/comments/u3j3z3/funtores_en_cats_parte_2/)
 - [Configuring my jupyter notebook with a scala kernel](https://www.reddit.com/r/scala/comments/u2rpah/configuring_my_jupyter_notebook_with_a_scala/)
 - [Spekka public announcement](https://www.reddit.com/r/scala/comments/u2oxf6/spekka_public_announcement/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala vs Kotlin for REST API](https://www.reddit.com/r/scala/comments/u18n5o/scala_vs_kotlin_for_rest_api/)
 - [This week in #Scala &lpar;Apr 11, 2022&rpar;](https://www.reddit.com/r/scala/comments/u17bkr/this_week_in_scala_apr_11_2022/)
 - [Scala vs Java/C# code examples](https://www.reddit.com/r/scala/comments/u0ni37/scala_vs_javac_code_examples/)
-- [Diamond Architecture - How to build HUMONGOUS apps FAST!](https://www.reddit.com/r/scala/comments/u0geiv/diamond_architecture_how_to_build_humongous_apps/)
-- [Is &quot;Scala for the Impatient&quot; outdated?](https://www.reddit.com/r/scala/comments/u0eebx/is_scala_for_the_impatient_outdated/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

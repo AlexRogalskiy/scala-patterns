@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Apr 18, 2022&rpar;](https://www.reddit.com/r/scala/comments/u5rpit/this_week_in_scala_apr_18_2022/)
 - [Chi can now check if two function signatures are isomorphic](https://www.reddit.com/r/scala/comments/u4zvas/chi_can_now_check_if_two_function_signatures_are/)
 - [IntelliJ Scala Plugin 2022.1 Is Out!](https://www.reddit.com/r/scala/comments/u4uha3/intellij_scala_plugin_20221_is_out/)
 - [Funtores en Cats parte 3](https://www.reddit.com/r/scala/comments/u4ea2b/funtores_en_cats_parte_3/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Spekka public announcement](https://www.reddit.com/r/scala/comments/u2oxf6/spekka_public_announcement/)
 - [Defining &lt; in terms of &lt;=?](https://www.reddit.com/r/scala/comments/u1u3bo/defining_in_terms_of/)
 - [Funtores en Cats](https://www.reddit.com/r/scala/comments/u1ayv7/funtores_en_cats/)
-- [Scala vs Kotlin for REST API](https://www.reddit.com/r/scala/comments/u18n5o/scala_vs_kotlin_for_rest_api/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to grasp the Kafka Architecture in 10 Lines | For Senior Programmers](https://www.reddit.com/r/scala/comments/u6i4iy/how_to_grasp_the_kafka_architecture_in_10_lines/)
+- [Scala OOFP Design Sample](https://www.reddit.com/r/scala/comments/u6gps1/scala_oofp_design_sample/)
+- [Need of inspiration to say bye-bye to my favorite /ide](https://www.reddit.com/r/scala/comments/u6bkv6/need_of_inspiration_to_say_byebye_to_my_favorite/)
+- [Funtores en Cats parte 3](https://www.reddit.com/r/scala/comments/u65d6n/funtores_en_cats_parte_3/)
+- [sbt 1.7.0-M2 released](https://www.reddit.com/r/scala/comments/u64m37/sbt_170m2_released/)
 - [This week in #Scala &lpar;Apr 18, 2022&rpar;](https://www.reddit.com/r/scala/comments/u5rpit/this_week_in_scala_apr_18_2022/)
 - [Chi can now check if two function signatures are isomorphic](https://www.reddit.com/r/scala/comments/u4zvas/chi_can_now_check_if_two_function_signatures_are/)
 - [IntelliJ Scala Plugin 2022.1 Is Out!](https://www.reddit.com/r/scala/comments/u4uha3/intellij_scala_plugin_20221_is_out/)
 - [Funtores en Cats parte 3](https://www.reddit.com/r/scala/comments/u4ea2b/funtores_en_cats_parte_3/)
 - [Scala and Java Upgrade strategy](https://www.reddit.com/r/scala/comments/u43c40/scala_and_java_upgrade_strategy/)
-- [Funtores en Cats parte 2](https://www.reddit.com/r/scala/comments/u3j3z3/funtores_en_cats_parte_2/)
-- [Configuring my jupyter notebook with a scala kernel](https://www.reddit.com/r/scala/comments/u2rpah/configuring_my_jupyter_notebook_with_a_scala/)
-- [Spekka public announcement](https://www.reddit.com/r/scala/comments/u2oxf6/spekka_public_announcement/)
-- [Defining &lt; in terms of &lt;=?](https://www.reddit.com/r/scala/comments/u1u3bo/defining_in_terms_of/)
-- [Funtores en Cats](https://www.reddit.com/r/scala/comments/u1ayv7/funtores_en_cats/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ASCII games in Scala3](https://www.reddit.com/r/scala/comments/u8d4i9/ascii_games_in_scala3/)
+- [Optimal decision-making with examples built using scala](https://www.reddit.com/r/scala/comments/u7rhlu/optimal_decisionmaking_with_examples_built_using/)
+- [Funtores en Cats parte 5](https://www.reddit.com/r/scala/comments/u7oyxy/funtores_en_cats_parte_5/)
 - [Getting an error installing metals for lsp-mode](https://www.reddit.com/r/scala/comments/u7mofk/getting_an_error_installing_metals_for_lspmode/)
 - [Java to scala converter online](https://www.reddit.com/r/scala/comments/u6vhzx/java_to_scala_converter_online/)
 - [How to grasp the Kafka Architecture in 10 Lines | For Senior Programmers](https://www.reddit.com/r/scala/comments/u6i4iy/how_to_grasp_the_kafka_architecture_in_10_lines/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Need of inspiration to say bye-bye to my favorite /ide](https://www.reddit.com/r/scala/comments/u6bkv6/need_of_inspiration_to_say_byebye_to_my_favorite/)
 - [Funtores en Cats parte 3](https://www.reddit.com/r/scala/comments/u65d6n/funtores_en_cats_parte_3/)
 - [sbt 1.7.0-M2 released](https://www.reddit.com/r/scala/comments/u64m37/sbt_170m2_released/)
-- [This week in #Scala &lpar;Apr 18, 2022&rpar;](https://www.reddit.com/r/scala/comments/u5rpit/this_week_in_scala_apr_18_2022/)
-- [Chi can now check if two function signatures are isomorphic](https://www.reddit.com/r/scala/comments/u4zvas/chi_can_now_check_if_two_function_signatures_are/)
-- [IntelliJ Scala Plugin 2022.1 Is Out!](https://www.reddit.com/r/scala/comments/u4uha3/intellij_scala_plugin_20221_is_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

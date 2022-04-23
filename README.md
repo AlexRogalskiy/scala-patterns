@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Apache Spark Help: given a json data as follows {&quot;id&quot;: 1, &quot;id_loop&quot;: {&quot;id&quot;: 2,&quot;id_loop&quot;: {&quot;id&quot;: 3}}.How to generate id table](https://www.reddit.com/r/scala/comments/u9g79j/apache_spark_help_given_a_json_data_as_follows_id/)
 - [Scala functions on Java objects](https://www.reddit.com/r/scala/comments/u91yfx/scala_functions_on_java_objects/)
 - [How much scala do I need to know/learn before jumping on to learn Akka](https://www.reddit.com/r/scala/comments/u91fwt/how_much_scala_do_i_need_to_knowlearn_before/)
 - [Dependency management in Scala note](https://www.reddit.com/r/scala/comments/u8p55n/dependency_management_in_scala_note/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Funtores en Cats parte 5](https://www.reddit.com/r/scala/comments/u7oyxy/funtores_en_cats_parte_5/)
 - [Getting an error installing metals for lsp-mode](https://www.reddit.com/r/scala/comments/u7mofk/getting_an_error_installing_metals_for_lspmode/)
 - [Java to scala converter online](https://www.reddit.com/r/scala/comments/u6vhzx/java_to_scala_converter_online/)
-- [How to grasp the Kafka Architecture in 10 Lines | For Senior Programmers](https://www.reddit.com/r/scala/comments/u6i4iy/how_to_grasp_the_kafka_architecture_in_10_lines/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

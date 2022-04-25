@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Apr 25, 2022&rpar;](https://www.reddit.com/r/scala/comments/uaypuo/this_week_in_scala_apr_25_2022/)
+- [What is the minimum requirements for a Scala Data engineer to pass interview for FAANG companies?](https://www.reddit.com/r/scala/comments/uauyxj/what_is_the_minimum_requirements_for_a_scala_data/)
 - [The second part of the Diamond Architecture series](https://www.reddit.com/r/scala/comments/uails1/the_second_part_of_the_diamond_architecture_series/)
 - [A rule of thumb when to use property-based vs example-based test](https://www.reddit.com/r/scala/comments/ua1m0k/a_rule_of_thumb_when_to_use_propertybased_vs/)
 - [Novice questions](https://www.reddit.com/r/scala/comments/u9z5m9/novice_questions/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How much scala do I need to know/learn before jumping on to learn Akka](https://www.reddit.com/r/scala/comments/u91fwt/how_much_scala_do_i_need_to_knowlearn_before/)
 - [Dependency management in Scala note](https://www.reddit.com/r/scala/comments/u8p55n/dependency_management_in_scala_note/)
 - [Chi now supports Haskell Syntax](https://www.reddit.com/r/scala/comments/u8mjw0/chi_now_supports_haskell_syntax/)
-- [ASCII games in Scala3](https://www.reddit.com/r/scala/comments/u8d4i9/ascii_games_in_scala3/)
-- [Optimal decision-making with examples built using scala](https://www.reddit.com/r/scala/comments/u7rhlu/optimal_decisionmaking_with_examples_built_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

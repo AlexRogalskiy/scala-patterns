@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help me break the fourth wall](https://www.reddit.com/r/scala/comments/ubo7hz/help_me_break_the_fourth_wall/)
+- [Funtores en Cats parte 6](https://www.reddit.com/r/scala/comments/ubcfel/funtores_en_cats_parte_6/)
 - [This week in #Scala &lpar;Apr 25, 2022&rpar;](https://www.reddit.com/r/scala/comments/uaypuo/this_week_in_scala_apr_25_2022/)
 - [What is the minimum requirements for a Scala Data engineer to pass interview for FAANG companies?](https://www.reddit.com/r/scala/comments/uauyxj/what_is_the_minimum_requirements_for_a_scala_data/)
 - [The second part of the Diamond Architecture series](https://www.reddit.com/r/scala/comments/uails1/the_second_part_of_the_diamond_architecture_series/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Apache Spark Help: given a json data as follows {&quot;id&quot;: 1, &quot;id_loop&quot;: {&quot;id&quot;: 2,&quot;id_loop&quot;: {&quot;id&quot;: 3}}.How to generate id table](https://www.reddit.com/r/scala/comments/u9g79j/apache_spark_help_given_a_json_data_as_follows_id/)
 - [Scala functions on Java objects](https://www.reddit.com/r/scala/comments/u91yfx/scala_functions_on_java_objects/)
 - [How much scala do I need to know/learn before jumping on to learn Akka](https://www.reddit.com/r/scala/comments/u91fwt/how_much_scala_do_i_need_to_knowlearn_before/)
-- [Dependency management in Scala note](https://www.reddit.com/r/scala/comments/u8p55n/dependency_management_in_scala_note/)
-- [Chi now supports Haskell Syntax](https://www.reddit.com/r/scala/comments/u8mjw0/chi_now_supports_haskell_syntax/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

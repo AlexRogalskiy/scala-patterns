@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [unwanted consumption of whitespaces in scala-parser-combinators](https://www.reddit.com/r/scala/comments/udaytw/unwanted_consumption_of_whitespaces_in/)
+- [thoroughful tutorial for scala.util.parsing.combinator._](https://www.reddit.com/r/scala/comments/ud6ls1/thoroughful_tutorial_for/)
+- [A Mini-Project with Scala, Akka, Cassandra and Cats](https://www.reddit.com/r/scala/comments/ud5vzn/a_miniproject_with_scala_akka_cassandra_and_cats/)
 - [Is there a code interview in a Scala based engineer interview?](https://www.reddit.com/r/scala/comments/ucper7/is_there_a_code_interview_in_a_scala_based/)
 - [What do I gain by learning cats?](https://www.reddit.com/r/scala/comments/uceznh/what_do_i_gain_by_learning_cats/)
 - [The Most Common Scala Myths Debunked](https://www.reddit.com/r/scala/comments/ucbnf4/the_most_common_scala_myths_debunked/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Use Vim as a Scala IDE](https://www.reddit.com/r/scala/comments/uc316j/use_vim_as_a_scala_ide/)
 - [Help me break the fourth wall](https://www.reddit.com/r/scala/comments/ubo7hz/help_me_break_the_fourth_wall/)
 - [Funtores en Cats parte 6](https://www.reddit.com/r/scala/comments/ubcfel/funtores_en_cats_parte_6/)
-- [This week in #Scala &lpar;Apr 25, 2022&rpar;](https://www.reddit.com/r/scala/comments/uaypuo/this_week_in_scala_apr_25_2022/)
-- [What is the minimum requirements for a Scala Data engineer to pass interview for FAANG companies?](https://www.reddit.com/r/scala/comments/uauyxj/what_is_the_minimum_requirements_for_a_scala_data/)
-- [The second part of the Diamond Architecture series](https://www.reddit.com/r/scala/comments/uails1/the_second_part_of_the_diamond_architecture_series/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

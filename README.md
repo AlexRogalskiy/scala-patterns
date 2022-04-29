@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [# of Scala vs Scala Spark Contracts](https://www.reddit.com/r/scala/comments/ue0ra3/of_scala_vs_scala_spark_contracts/)
 - [unwanted consumption of whitespaces in scala-parser-combinators](https://www.reddit.com/r/scala/comments/udaytw/unwanted_consumption_of_whitespaces_in/)
 - [thoroughful tutorial for scala.util.parsing.combinator._](https://www.reddit.com/r/scala/comments/ud6ls1/thoroughful_tutorial_for/)
 - [A Mini-Project with Scala, Akka, Cassandra and Cats](https://www.reddit.com/r/scala/comments/ud5vzn/a_miniproject_with_scala_akka_cassandra_and_cats/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [The semantics of code](https://www.reddit.com/r/scala/comments/ucae3n/the_semantics_of_code/)
 - [Use Vim as a Scala IDE](https://www.reddit.com/r/scala/comments/uc316j/use_vim_as_a_scala_ide/)
 - [Help me break the fourth wall](https://www.reddit.com/r/scala/comments/ubo7hz/help_me_break_the_fourth_wall/)
-- [Funtores en Cats parte 6](https://www.reddit.com/r/scala/comments/ubcfel/funtores_en_cats_parte_6/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Want to help an emulator project being written in Scala?](https://www.reddit.com/r/scala/comments/ueo0kv/want_to_help_an_emulator_project_being_written_in/)
 - [# of Scala vs Scala Spark Contracts](https://www.reddit.com/r/scala/comments/ue0ra3/of_scala_vs_scala_spark_contracts/)
 - [unwanted consumption of whitespaces in scala-parser-combinators](https://www.reddit.com/r/scala/comments/udaytw/unwanted_consumption_of_whitespaces_in/)
 - [thoroughful tutorial for scala.util.parsing.combinator._](https://www.reddit.com/r/scala/comments/ud6ls1/thoroughful_tutorial_for/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [The Most Common Scala Myths Debunked](https://www.reddit.com/r/scala/comments/ucbnf4/the_most_common_scala_myths_debunked/)
 - [The semantics of code](https://www.reddit.com/r/scala/comments/ucae3n/the_semantics_of_code/)
 - [Use Vim as a Scala IDE](https://www.reddit.com/r/scala/comments/uc316j/use_vim_as_a_scala_ide/)
-- [Help me break the fourth wall](https://www.reddit.com/r/scala/comments/ubo7hz/help_me_break_the_fourth_wall/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

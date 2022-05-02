@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt-assembly 2.0.0-RC1 released](https://www.reddit.com/r/scala/comments/ugdcog/sbtassembly_200rc1_released/)
+- [Batch Processing alternative to Spring batch ?](https://www.reddit.com/r/scala/comments/ug5v8f/batch_processing_alternative_to_spring_batch/)
+- [Funtores en Cats parte 8](https://www.reddit.com/r/scala/comments/ug5ivu/funtores_en_cats_parte_8/)
+- [This week in #Scala &lpar;May 2, 2022&rpar;](https://www.reddit.com/r/scala/comments/ug4jhi/this_week_in_scala_may_2_2022/)
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/ug2xpd/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [Porc-épic: A slow linearizability checker written in Scala](https://www.reddit.com/r/scala/comments/ug0zf9/porcépic_a_slow_linearizability_checker_written/)
+- [Am I considered a OKish scala developer if I only use Vanilla scala &lpar;and doesn&#39;t know cats / shapeless&rpar;?](https://www.reddit.com/r/scala/comments/uft2ry/am_i_considered_a_okish_scala_developer_if_i_only/)
 - [Funtores en Cats parte 7](https://www.reddit.com/r/scala/comments/uf8x77/funtores_en_cats_parte_7/)
 - [Want to help an emulator project being written in Scala?](https://www.reddit.com/r/scala/comments/ueo0kv/want_to_help_an_emulator_project_being_written_in/)
 - [# of Scala vs Scala Spark Contracts](https://www.reddit.com/r/scala/comments/ue0ra3/of_scala_vs_scala_spark_contracts/)
-- [unwanted consumption of whitespaces in scala-parser-combinators](https://www.reddit.com/r/scala/comments/udaytw/unwanted_consumption_of_whitespaces_in/)
-- [thoroughful tutorial for scala.util.parsing.combinator._](https://www.reddit.com/r/scala/comments/ud6ls1/thoroughful_tutorial_for/)
-- [A Mini-Project with Scala, Akka, Cassandra and Cats](https://www.reddit.com/r/scala/comments/ud5vzn/a_miniproject_with_scala_akka_cassandra_and_cats/)
-- [Is there a code interview in a Scala based engineer interview?](https://www.reddit.com/r/scala/comments/ucper7/is_there_a_code_interview_in_a_scala_based/)
-- [What do I gain by learning cats?](https://www.reddit.com/r/scala/comments/uceznh/what_do_i_gain_by_learning_cats/)
-- [The Most Common Scala Myths Debunked](https://www.reddit.com/r/scala/comments/ucbnf4/the_most_common_scala_myths_debunked/)
-- [The semantics of code](https://www.reddit.com/r/scala/comments/ucae3n/the_semantics_of_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

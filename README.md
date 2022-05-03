@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala2grpc – A SBT plugin to make it non-invasive to use gRPC with Scala](https://www.reddit.com/r/scala/comments/uh5ofh/scala2grpc_a_sbt_plugin_to_make_it_noninvasive_to/)
+- [Performance testing framework](https://www.reddit.com/r/scala/comments/ugxy0g/performance_testing_framework/)
+- [Innovative database browsing tool with sophisticated and animated Swing UI](https://www.reddit.com/r/scala/comments/ugjb56/innovative_database_browsing_tool_with/)
 - [sbt-assembly 2.0.0-RC1 released](https://www.reddit.com/r/scala/comments/ugdcog/sbtassembly_200rc1_released/)
 - [Batch Processing alternative to Spring batch ?](https://www.reddit.com/r/scala/comments/ug5v8f/batch_processing_alternative_to_spring_batch/)
 - [Funtores en Cats parte 8](https://www.reddit.com/r/scala/comments/ug5ivu/funtores_en_cats_parte_8/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/ug2xpd/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Porc-épic: A slow linearizability checker written in Scala](https://www.reddit.com/r/scala/comments/ug0zf9/porcépic_a_slow_linearizability_checker_written/)
 - [Am I considered a OKish scala developer if I only use Vanilla scala &lpar;and doesn&#39;t know cats / shapeless&rpar;?](https://www.reddit.com/r/scala/comments/uft2ry/am_i_considered_a_okish_scala_developer_if_i_only/)
-- [Funtores en Cats parte 7](https://www.reddit.com/r/scala/comments/uf8x77/funtores_en_cats_parte_7/)
-- [Want to help an emulator project being written in Scala?](https://www.reddit.com/r/scala/comments/ueo0kv/want_to_help_an_emulator_project_being_written_in/)
-- [# of Scala vs Scala Spark Contracts](https://www.reddit.com/r/scala/comments/ue0ra3/of_scala_vs_scala_spark_contracts/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

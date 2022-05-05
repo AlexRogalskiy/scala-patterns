@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to model this Scala ADT in Java?](https://www.reddit.com/r/scala/comments/ui86u5/how_to_model_this_scala_adt_in_java/)
+- [ZIO Test - What, Why and How? - Functional World #4](https://www.reddit.com/r/scala/comments/ui1e1b/zio_test_what_why_and_how_functional_world_4/)
+- [Hivemind Technologies AG |Senior Cloud Infrastructure Engineer.|Berlin, Germany |REMOTE |Full or Part Time, Contract |74,000.00€ | jobs@hivemindtechnoligies.com](https://www.reddit.com/r/scala/comments/ui1bsn/hivemind_technologies_ag_senior_cloud/)
+- [Hivemind Technologies AG |Senior Scala Developer |Berlin, Germany |REMOTE |Full or Part Time, Contract |74,000.00€ | jobs@hivemindtechnoligies.com](https://www.reddit.com/r/scala/comments/ui1845/hivemind_technologies_ag_senior_scala_developer/)
+- [Code in jar dependency is packed as java code and can not be used as normal Scala dependency](https://www.reddit.com/r/scala/comments/ui0pjp/code_in_jar_dependency_is_packed_as_java_code_and/)
 - [Instructor Lead Courses](https://www.reddit.com/r/scala/comments/uhwt1j/instructor_lead_courses/)
 - [Chi now supports Python syntax](https://www.reddit.com/r/scala/comments/uhjedh/chi_now_supports_python_syntax/)
 - [[_mid/senior data Engineer.]](https://www.reddit.com/r/scala/comments/uhhicf/midsenior_data_engineer/)
 - [Scala2grpc – A SBT plugin to make it non-invasive to use gRPC with Scala](https://www.reddit.com/r/scala/comments/uh5ofh/scala2grpc_a_sbt_plugin_to_make_it_noninvasive_to/)
 - [Performance testing framework](https://www.reddit.com/r/scala/comments/ugxy0g/performance_testing_framework/)
-- [Innovative database browsing tool with sophisticated and animated Swing UI](https://www.reddit.com/r/scala/comments/ugjb56/innovative_database_browsing_tool_with/)
-- [sbt-assembly 2.0.0-RC1 released](https://www.reddit.com/r/scala/comments/ugdcog/sbtassembly_200rc1_released/)
-- [Batch Processing alternative to Spring batch ?](https://www.reddit.com/r/scala/comments/ug5v8f/batch_processing_alternative_to_spring_batch/)
-- [Funtores en Cats parte 8](https://www.reddit.com/r/scala/comments/ug5ivu/funtores_en_cats_parte_8/)
-- [This week in #Scala &lpar;May 2, 2022&rpar;](https://www.reddit.com/r/scala/comments/ug4jhi/this_week_in_scala_may_2_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

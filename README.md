@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [State of Scala.js frameworks](https://www.reddit.com/r/scala/comments/uj0ztg/state_of_scalajs_frameworks/)
 - [How to model this Scala ADT in Java?](https://www.reddit.com/r/scala/comments/ui86u5/how_to_model_this_scala_adt_in_java/)
 - [ZIO Test - What, Why and How? - Functional World #4](https://www.reddit.com/r/scala/comments/ui1e1b/zio_test_what_why_and_how_functional_world_4/)
 - [Hivemind Technologies AG |Senior Cloud Infrastructure Engineer.|Berlin, Germany |REMOTE |Full or Part Time, Contract |74,000.00€ | jobs@hivemindtechnoligies.com](https://www.reddit.com/r/scala/comments/ui1bsn/hivemind_technologies_ag_senior_cloud/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Chi now supports Python syntax](https://www.reddit.com/r/scala/comments/uhjedh/chi_now_supports_python_syntax/)
 - [[_mid/senior data Engineer.]](https://www.reddit.com/r/scala/comments/uhhicf/midsenior_data_engineer/)
 - [Scala2grpc – A SBT plugin to make it non-invasive to use gRPC with Scala](https://www.reddit.com/r/scala/comments/uh5ofh/scala2grpc_a_sbt_plugin_to_make_it_noninvasive_to/)
-- [Performance testing framework](https://www.reddit.com/r/scala/comments/ugxy0g/performance_testing_framework/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

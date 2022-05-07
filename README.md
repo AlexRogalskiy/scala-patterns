@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Using Play Framework with Akka Cluster](https://www.reddit.com/r/scala/comments/ujfe51/using_play_framework_with_akka_cluster/)
 - [State of Scala.js frameworks](https://www.reddit.com/r/scala/comments/uj0ztg/state_of_scalajs_frameworks/)
 - [How to model this Scala ADT in Java?](https://www.reddit.com/r/scala/comments/ui86u5/how_to_model_this_scala_adt_in_java/)
 - [ZIO Test - What, Why and How? - Functional World #4](https://www.reddit.com/r/scala/comments/ui1e1b/zio_test_what_why_and_how_functional_world_4/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Instructor Lead Courses](https://www.reddit.com/r/scala/comments/uhwt1j/instructor_lead_courses/)
 - [Chi now supports Python syntax](https://www.reddit.com/r/scala/comments/uhjedh/chi_now_supports_python_syntax/)
 - [[_mid/senior data Engineer.]](https://www.reddit.com/r/scala/comments/uhhicf/midsenior_data_engineer/)
-- [Scala2grpc – A SBT plugin to make it non-invasive to use gRPC with Scala](https://www.reddit.com/r/scala/comments/uh5ofh/scala2grpc_a_sbt_plugin_to_make_it_noninvasive_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

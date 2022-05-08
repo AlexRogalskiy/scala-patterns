@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Dynamically Packaging a Codebase with sbt](https://www.reddit.com/r/scala/comments/ukih01/dynamically_packaging_a_codebase_with_sbt/)
+- [Scastie now blocks russian IPs](https://www.reddit.com/r/scala/comments/uk80w9/scastie_now_blocks_russian_ips/)
 - [Using Play Framework with Akka Cluster](https://www.reddit.com/r/scala/comments/ujfe51/using_play_framework_with_akka_cluster/)
 - [State of Scala.js frameworks](https://www.reddit.com/r/scala/comments/uj0ztg/state_of_scalajs_frameworks/)
 - [How to model this Scala ADT in Java?](https://www.reddit.com/r/scala/comments/ui86u5/how_to_model_this_scala_adt_in_java/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Hivemind Technologies AG |Senior Scala Developer |Berlin, Germany |REMOTE |Full or Part Time, Contract |74,000.00€ | jobs@hivemindtechnoligies.com](https://www.reddit.com/r/scala/comments/ui1845/hivemind_technologies_ag_senior_scala_developer/)
 - [Code in jar dependency is packed as java code and can not be used as normal Scala dependency](https://www.reddit.com/r/scala/comments/ui0pjp/code_in_jar_dependency_is_packed_as_java_code_and/)
 - [Instructor Lead Courses](https://www.reddit.com/r/scala/comments/uhwt1j/instructor_lead_courses/)
-- [Chi now supports Python syntax](https://www.reddit.com/r/scala/comments/uhjedh/chi_now_supports_python_syntax/)
-- [[_mid/senior data Engineer.]](https://www.reddit.com/r/scala/comments/uhhicf/midsenior_data_engineer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

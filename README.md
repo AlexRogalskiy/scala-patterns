@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;May 9, 2022&rpar;](https://www.reddit.com/r/scala/comments/ulad3s/this_week_in_scala_may_9_2022/)
+- [GitHub Code Search First Look](https://www.reddit.com/r/scala/comments/uktn2b/github_code_search_first_look/)
 - [Dynamically Packaging a Codebase with sbt](https://www.reddit.com/r/scala/comments/ukih01/dynamically_packaging_a_codebase_with_sbt/)
 - [Scastie now blocks russian IPs](https://www.reddit.com/r/scala/comments/uk80w9/scastie_now_blocks_russian_ips/)
 - [Using Play Framework with Akka Cluster](https://www.reddit.com/r/scala/comments/ujfe51/using_play_framework_with_akka_cluster/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ZIO Test - What, Why and How? - Functional World #4](https://www.reddit.com/r/scala/comments/ui1e1b/zio_test_what_why_and_how_functional_world_4/)
 - [Hivemind Technologies AG |Senior Cloud Infrastructure Engineer.|Berlin, Germany |REMOTE |Full or Part Time, Contract |74,000.00€ | jobs@hivemindtechnoligies.com](https://www.reddit.com/r/scala/comments/ui1bsn/hivemind_technologies_ag_senior_cloud/)
 - [Hivemind Technologies AG |Senior Scala Developer |Berlin, Germany |REMOTE |Full or Part Time, Contract |74,000.00€ | jobs@hivemindtechnoligies.com](https://www.reddit.com/r/scala/comments/ui1845/hivemind_technologies_ag_senior_scala_developer/)
-- [Code in jar dependency is packed as java code and can not be used as normal Scala dependency](https://www.reddit.com/r/scala/comments/ui0pjp/code_in_jar_dependency_is_packed_as_java_code_and/)
-- [Instructor Lead Courses](https://www.reddit.com/r/scala/comments/uhwt1j/instructor_lead_courses/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

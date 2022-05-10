@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [OMG!](https://www.reddit.com/r/scala/comments/um01rh/omg/)
+- [DSA in Scala](https://www.reddit.com/r/scala/comments/uljpcl/dsa_in_scala/)
 - [This week in #Scala &lpar;May 9, 2022&rpar;](https://www.reddit.com/r/scala/comments/ulad3s/this_week_in_scala_may_9_2022/)
 - [GitHub Code Search First Look](https://www.reddit.com/r/scala/comments/uktn2b/github_code_search_first_look/)
 - [Dynamically Packaging a Codebase with sbt](https://www.reddit.com/r/scala/comments/ukih01/dynamically_packaging_a_codebase_with_sbt/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [State of Scala.js frameworks](https://www.reddit.com/r/scala/comments/uj0ztg/state_of_scalajs_frameworks/)
 - [How to model this Scala ADT in Java?](https://www.reddit.com/r/scala/comments/ui86u5/how_to_model_this_scala_adt_in_java/)
 - [ZIO Test - What, Why and How? - Functional World #4](https://www.reddit.com/r/scala/comments/ui1e1b/zio_test_what_why_and_how_functional_world_4/)
-- [Hivemind Technologies AG |Senior Cloud Infrastructure Engineer.|Berlin, Germany |REMOTE |Full or Part Time, Contract |74,000.00€ | jobs@hivemindtechnoligies.com](https://www.reddit.com/r/scala/comments/ui1bsn/hivemind_technologies_ag_senior_cloud/)
-- [Hivemind Technologies AG |Senior Scala Developer |Berlin, Germany |REMOTE |Full or Part Time, Contract |74,000.00€ | jobs@hivemindtechnoligies.com](https://www.reddit.com/r/scala/comments/ui1845/hivemind_technologies_ag_senior_scala_developer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

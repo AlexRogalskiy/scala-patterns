@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Seeking scala consultant](https://www.reddit.com/r/scala/comments/umzq3q/seeking_scala_consultant/)
+- [how do Scala libraries like CatsEffects and ZIO manage to get green threads without JVM support?](https://www.reddit.com/r/scala/comments/umphqd/how_do_scala_libraries_like_catseffects_and_zio/)
 - [OMG!](https://www.reddit.com/r/scala/comments/um01rh/omg/)
 - [DSA in Scala](https://www.reddit.com/r/scala/comments/uljpcl/dsa_in_scala/)
 - [This week in #Scala &lpar;May 9, 2022&rpar;](https://www.reddit.com/r/scala/comments/ulad3s/this_week_in_scala_may_9_2022/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scastie now blocks russian IPs](https://www.reddit.com/r/scala/comments/uk80w9/scastie_now_blocks_russian_ips/)
 - [Using Play Framework with Akka Cluster](https://www.reddit.com/r/scala/comments/ujfe51/using_play_framework_with_akka_cluster/)
 - [State of Scala.js frameworks](https://www.reddit.com/r/scala/comments/uj0ztg/state_of_scalajs_frameworks/)
-- [How to model this Scala ADT in Java?](https://www.reddit.com/r/scala/comments/ui86u5/how_to_model_this_scala_adt_in_java/)
-- [ZIO Test - What, Why and How? - Functional World #4](https://www.reddit.com/r/scala/comments/ui1e1b/zio_test_what_why_and_how_functional_world_4/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

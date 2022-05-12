@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Implicit vs Scala 3&#39;s Given](https://www.reddit.com/r/scala/comments/unf0w4/implicit_vs_scala_3s_given/)
 - [Seeking scala consultant](https://www.reddit.com/r/scala/comments/umzq3q/seeking_scala_consultant/)
 - [how do Scala libraries like CatsEffects and ZIO manage to get green threads without JVM support?](https://www.reddit.com/r/scala/comments/umphqd/how_do_scala_libraries_like_catseffects_and_zio/)
 - [OMG!](https://www.reddit.com/r/scala/comments/um01rh/omg/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Dynamically Packaging a Codebase with sbt](https://www.reddit.com/r/scala/comments/ukih01/dynamically_packaging_a_codebase_with_sbt/)
 - [Scastie now blocks russian IPs](https://www.reddit.com/r/scala/comments/uk80w9/scastie_now_blocks_russian_ips/)
 - [Using Play Framework with Akka Cluster](https://www.reddit.com/r/scala/comments/ujfe51/using_play_framework_with_akka_cluster/)
-- [State of Scala.js frameworks](https://www.reddit.com/r/scala/comments/uj0ztg/state_of_scalajs_frameworks/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

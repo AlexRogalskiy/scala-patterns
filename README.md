@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [SCALA ENGINEER JOB](https://www.reddit.com/r/scala/comments/uo7ayp/scala_engineer_job/)
+- [A Prelude of Purity: Scaling Back ZIO by Jorge Vasquez - ZIO World 2022](https://www.reddit.com/r/scala/comments/unwksh/a_prelude_of_purity_scaling_back_zio_by_jorge/)
 - [Implicit vs Scala 3&#39;s Given](https://www.reddit.com/r/scala/comments/unf0w4/implicit_vs_scala_3s_given/)
 - [Seeking scala consultant](https://www.reddit.com/r/scala/comments/umzq3q/seeking_scala_consultant/)
 - [how do Scala libraries like CatsEffects and ZIO manage to get green threads without JVM support?](https://www.reddit.com/r/scala/comments/umphqd/how_do_scala_libraries_like_catseffects_and_zio/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;May 9, 2022&rpar;](https://www.reddit.com/r/scala/comments/ulad3s/this_week_in_scala_may_9_2022/)
 - [GitHub Code Search First Look](https://www.reddit.com/r/scala/comments/uktn2b/github_code_search_first_look/)
 - [Dynamically Packaging a Codebase with sbt](https://www.reddit.com/r/scala/comments/ukih01/dynamically_packaging_a_codebase_with_sbt/)
-- [Scastie now blocks russian IPs](https://www.reddit.com/r/scala/comments/uk80w9/scastie_now_blocks_russian_ips/)
-- [Using Play Framework with Akka Cluster](https://www.reddit.com/r/scala/comments/ujfe51/using_play_framework_with_akka_cluster/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

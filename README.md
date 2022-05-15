@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Fun project to learn scala 3 and cats ?](https://www.reddit.com/r/scala/comments/upm0wt/fun_project_to_learn_scala_3_and_cats/)
+- [what can you build/create in Scala?](https://www.reddit.com/r/scala/comments/upemr4/what_can_you_buildcreate_in_scala/)
+- [Scala 3 is here! 🎉 ?🎉](https://www.reddit.com/r/scala/comments/updur5/scala_3_is_here/)
+- [Have you switched from Scala to other language or replace one ecosystem for another? Why?](https://www.reddit.com/r/scala/comments/updk4w/have_you_switched_from_scala_to_other_language_or/)
+- [what popular companies uses Scala?](https://www.reddit.com/r/scala/comments/upbvqu/what_popular_companies_uses_scala/)
 - [Chi now supports Typescript syntax](https://www.reddit.com/r/scala/comments/uoywgr/chi_now_supports_typescript_syntax/)
 - [OOP vs Type Classes, Part 1: Ideology](https://www.reddit.com/r/scala/comments/uor6qa/oop_vs_type_classes_part_1_ideology/)
 - [Mónadas en Cats parte 2](https://www.reddit.com/r/scala/comments/uoo921/mónadas_en_cats_parte_2/)
 - [8 Best Scala and Functional Programming Books to Learn 2022](https://www.reddit.com/r/scala/comments/uol367/8_best_scala_and_functional_programming_books_to/)
 - [SCALA ENGINEER JOB](https://www.reddit.com/r/scala/comments/uo7ayp/scala_engineer_job/)
-- [A Prelude of Purity: Scaling Back ZIO by Jorge Vasquez - ZIO World 2022](https://www.reddit.com/r/scala/comments/unwksh/a_prelude_of_purity_scaling_back_zio_by_jorge/)
-- [Implicit vs Scala 3&#39;s Given](https://www.reddit.com/r/scala/comments/unf0w4/implicit_vs_scala_3s_given/)
-- [Seeking scala consultant](https://www.reddit.com/r/scala/comments/umzq3q/seeking_scala_consultant/)
-- [how do Scala libraries like CatsEffects and ZIO manage to get green threads without JVM support?](https://www.reddit.com/r/scala/comments/umphqd/how_do_scala_libraries_like_catseffects_and_zio/)
-- [OMG!](https://www.reddit.com/r/scala/comments/um01rh/omg/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

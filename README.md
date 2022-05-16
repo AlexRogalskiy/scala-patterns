@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;May 16, 2022&rpar;](https://www.reddit.com/r/scala/comments/uqhve3/this_week_in_scala_may_16_2022/)
+- [Career switch to FP backend](https://www.reddit.com/r/scala/comments/uqf0oq/career_switch_to_fp_backend/)
 - [Fun project to learn scala 3 and cats ?](https://www.reddit.com/r/scala/comments/upm0wt/fun_project_to_learn_scala_3_and_cats/)
 - [what can you build/create in Scala?](https://www.reddit.com/r/scala/comments/upemr4/what_can_you_buildcreate_in_scala/)
 - [Scala 3 is here! 🎉 ?🎉](https://www.reddit.com/r/scala/comments/updur5/scala_3_is_here/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Chi now supports Typescript syntax](https://www.reddit.com/r/scala/comments/uoywgr/chi_now_supports_typescript_syntax/)
 - [OOP vs Type Classes, Part 1: Ideology](https://www.reddit.com/r/scala/comments/uor6qa/oop_vs_type_classes_part_1_ideology/)
 - [Mónadas en Cats parte 2](https://www.reddit.com/r/scala/comments/uoo921/mónadas_en_cats_parte_2/)
-- [8 Best Scala and Functional Programming Books to Learn 2022](https://www.reddit.com/r/scala/comments/uol367/8_best_scala_and_functional_programming_books_to/)
-- [SCALA ENGINEER JOB](https://www.reddit.com/r/scala/comments/uo7ayp/scala_engineer_job/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

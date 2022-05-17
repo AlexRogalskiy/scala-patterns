@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Mónadas en Cats parte 4](https://www.reddit.com/r/scala/comments/uqnu02/mónadas_en_cats_parte_4/)
+- [Mónadas en Cats parte 3](https://www.reddit.com/r/scala/comments/uqlyle/mónadas_en_cats_parte_3/)
 - [This week in #Scala &lpar;May 16, 2022&rpar;](https://www.reddit.com/r/scala/comments/uqhve3/this_week_in_scala_may_16_2022/)
 - [Career switch to FP backend](https://www.reddit.com/r/scala/comments/uqf0oq/career_switch_to_fp_backend/)
 - [Fun project to learn scala 3 and cats ?](https://www.reddit.com/r/scala/comments/upm0wt/fun_project_to_learn_scala_3_and_cats/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Have you switched from Scala to other language or replace one ecosystem for another? Why?](https://www.reddit.com/r/scala/comments/updk4w/have_you_switched_from_scala_to_other_language_or/)
 - [what popular companies uses Scala?](https://www.reddit.com/r/scala/comments/upbvqu/what_popular_companies_uses_scala/)
 - [Chi now supports Typescript syntax](https://www.reddit.com/r/scala/comments/uoywgr/chi_now_supports_typescript_syntax/)
-- [OOP vs Type Classes, Part 1: Ideology](https://www.reddit.com/r/scala/comments/uor6qa/oop_vs_type_classes_part_1_ideology/)
-- [Mónadas en Cats parte 2](https://www.reddit.com/r/scala/comments/uoo921/mónadas_en_cats_parte_2/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why scala engineers despise python;](https://www.reddit.com/r/scala/comments/usrzpy/why_scala_engineers_despise_python/)
+- [Refer to child type in abstract class](https://www.reddit.com/r/scala/comments/uskyg6/refer_to_child_type_in_abstract_class/)
+- [Time complexities of Scala APIs](https://www.reddit.com/r/scala/comments/usfocp/time_complexities_of_scala_apis/)
 - [You already know Monad&lpar;ic&rpar; stuff](https://www.reddit.com/r/scala/comments/urytym/you_already_know_monadic_stuff/)
 - [why every year on stack overflow developer survey, Scala is one of the most dreaded programming languages?](https://www.reddit.com/r/scala/comments/urfz17/why_every_year_on_stack_overflow_developer_survey/)
 - [Example of webapp-util&#39;s higher-level IndexedDB API](https://www.reddit.com/r/scala/comments/urfwnz/example_of_webapputils_higherlevel_indexeddb_api/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Mónadas en Cats parte 4](https://www.reddit.com/r/scala/comments/uqnu02/mónadas_en_cats_parte_4/)
 - [Mónadas en Cats parte 3](https://www.reddit.com/r/scala/comments/uqlyle/mónadas_en_cats_parte_3/)
 - [This week in #Scala &lpar;May 16, 2022&rpar;](https://www.reddit.com/r/scala/comments/uqhve3/this_week_in_scala_may_16_2022/)
-- [Career switch to FP backend](https://www.reddit.com/r/scala/comments/uqf0oq/career_switch_to_fp_backend/)
-- [Fun project to learn scala 3 and cats ?](https://www.reddit.com/r/scala/comments/upm0wt/fun_project_to_learn_scala_3_and_cats/)
-- [what can you build/create in Scala?](https://www.reddit.com/r/scala/comments/upemr4/what_can_you_buildcreate_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

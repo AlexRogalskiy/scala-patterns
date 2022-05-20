@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to properly handle 429 error code when doing batch http requests with STTP 3](https://www.reddit.com/r/scala/comments/ut6pqr/how_to_properly_handle_429_error_code_when_doing/)
+- [Mónadas en Cats parte 5](https://www.reddit.com/r/scala/comments/usviky/mónadas_en_cats_parte_5/)
 - [Why scala engineers despise python;](https://www.reddit.com/r/scala/comments/usrzpy/why_scala_engineers_despise_python/)
 - [Refer to child type in abstract class](https://www.reddit.com/r/scala/comments/uskyg6/refer_to_child_type_in_abstract_class/)
 - [Time complexities of Scala APIs](https://www.reddit.com/r/scala/comments/usfocp/time_complexities_of_scala_apis/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Example of webapp-util&#39;s higher-level IndexedDB API](https://www.reddit.com/r/scala/comments/urfwnz/example_of_webapputils_higherlevel_indexeddb_api/)
 - [Spark-Scala RDD, finding out range groups from CSV data](https://www.reddit.com/r/scala/comments/ureyqt/sparkscala_rdd_finding_out_range_groups_from_csv/)
 - [Mónadas en Cats parte 4](https://www.reddit.com/r/scala/comments/uqnu02/mónadas_en_cats_parte_4/)
-- [Mónadas en Cats parte 3](https://www.reddit.com/r/scala/comments/uqlyle/mónadas_en_cats_parte_3/)
-- [This week in #Scala &lpar;May 16, 2022&rpar;](https://www.reddit.com/r/scala/comments/uqhve3/this_week_in_scala_may_16_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

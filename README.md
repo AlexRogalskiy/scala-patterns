@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ten-Step Tail-Rec Transformation Technique](https://www.reddit.com/r/scala/comments/uttl2y/tenstep_tailrec_transformation_technique/)
 - [How to properly handle 429 error code when doing batch http requests with STTP 3](https://www.reddit.com/r/scala/comments/ut6pqr/how_to_properly_handle_429_error_code_when_doing/)
 - [Mónadas en Cats parte 5](https://www.reddit.com/r/scala/comments/usviky/mónadas_en_cats_parte_5/)
 - [Why scala engineers despise python;](https://www.reddit.com/r/scala/comments/usrzpy/why_scala_engineers_despise_python/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [why every year on stack overflow developer survey, Scala is one of the most dreaded programming languages?](https://www.reddit.com/r/scala/comments/urfz17/why_every_year_on_stack_overflow_developer_survey/)
 - [Example of webapp-util&#39;s higher-level IndexedDB API](https://www.reddit.com/r/scala/comments/urfwnz/example_of_webapputils_higherlevel_indexeddb_api/)
 - [Spark-Scala RDD, finding out range groups from CSV data](https://www.reddit.com/r/scala/comments/ureyqt/sparkscala_rdd_finding_out_range_groups_from_csv/)
-- [Mónadas en Cats parte 4](https://www.reddit.com/r/scala/comments/uqnu02/mónadas_en_cats_parte_4/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;May 23, 2022&rpar;](https://www.reddit.com/r/scala/comments/uvium9/this_week_in_scala_may_23_2022/)
+- [Mónadas en Cats parte 7](https://www.reddit.com/r/scala/comments/uv2kko/mónadas_en_cats_parte_7/)
 - [Mónadas en Cats parte 6](https://www.reddit.com/r/scala/comments/uv1hqq/mónadas_en_cats_parte_6/)
 - [scala-hedgehog munit integration released](https://www.reddit.com/r/scala/comments/uun393/scalahedgehog_munit_integration_released/)
 - [Ten-Step Tail-Rec Transformation Technique](https://www.reddit.com/r/scala/comments/uttl2y/tenstep_tailrec_transformation_technique/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Why scala engineers despise python;](https://www.reddit.com/r/scala/comments/usrzpy/why_scala_engineers_despise_python/)
 - [Refer to child type in abstract class](https://www.reddit.com/r/scala/comments/uskyg6/refer_to_child_type_in_abstract_class/)
 - [Time complexities of Scala APIs](https://www.reddit.com/r/scala/comments/usfocp/time_complexities_of_scala_apis/)
-- [You already know Monad&lpar;ic&rpar; stuff](https://www.reddit.com/r/scala/comments/urytym/you_already_know_monadic_stuff/)
-- [why every year on stack overflow developer survey, Scala is one of the most dreaded programming languages?](https://www.reddit.com/r/scala/comments/urfz17/why_every_year_on_stack_overflow_developer_survey/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

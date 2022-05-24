@@ -271,13 +271,13 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Using literal singleton type to restrict varargs](https://www.reddit.com/r/scala/comments/uwa6ri/using_literal_singleton_type_to_restrict_varargs/)
+- [Tracking Side Effects in Scala](https://www.reddit.com/r/scala/comments/uw8lix/tracking_side_effects_in_scala/)
+- [Resource safety is hard - Scala Project From Scratch #10](https://www.reddit.com/r/scala/comments/uvyfv4/resource_safety_is_hard_scala_project_from/)
 - [This week in #Scala &lpar;May 23, 2022&rpar;](https://www.reddit.com/r/scala/comments/uvium9/this_week_in_scala_may_23_2022/)
-- [Mónadas en Cats parte 7](https://www.reddit.com/r/scala/comments/uv2kko/mónadas_en_cats_parte_7/)
-- [Mónadas en Cats parte 6](https://www.reddit.com/r/scala/comments/uv1hqq/mónadas_en_cats_parte_6/)
 - [scala-hedgehog munit integration released](https://www.reddit.com/r/scala/comments/uun393/scalahedgehog_munit_integration_released/)
 - [Ten-Step Tail-Rec Transformation Technique](https://www.reddit.com/r/scala/comments/uttl2y/tenstep_tailrec_transformation_technique/)
 - [How to properly handle 429 error code when doing batch http requests with STTP 3](https://www.reddit.com/r/scala/comments/ut6pqr/how_to_properly_handle_429_error_code_when_doing/)
-- [Mónadas en Cats parte 5](https://www.reddit.com/r/scala/comments/usviky/mónadas_en_cats_parte_5/)
 - [Why scala engineers despise python;](https://www.reddit.com/r/scala/comments/usrzpy/why_scala_engineers_despise_python/)
 - [Refer to child type in abstract class](https://www.reddit.com/r/scala/comments/uskyg6/refer_to_child_type_in_abstract_class/)
 - [Time complexities of Scala APIs](https://www.reddit.com/r/scala/comments/usfocp/time_complexities_of_scala_apis/)

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Getting a value &gt; is not a member of type parameter T error when comparing 2 numerics](https://www.reddit.com/r/scala/comments/uwn842/getting_a_value_is_not_a_member_of_type_parameter/)
+- [Agregando skills modulares](https://www.reddit.com/r/scala/comments/uwlxfq/agregando_skills_modulares/)
+- [What companies/startups are using Scala &lpar;open source projects on github&rpar;?](https://www.reddit.com/r/scala/comments/uwlsxd/what_companiesstartups_are_using_scala_open/)
 - [Using literal singleton type to restrict varargs](https://www.reddit.com/r/scala/comments/uwa6ri/using_literal_singleton_type_to_restrict_varargs/)
 - [Tracking Side Effects in Scala](https://www.reddit.com/r/scala/comments/uw8lix/tracking_side_effects_in_scala/)
 - [Resource safety is hard - Scala Project From Scratch #10](https://www.reddit.com/r/scala/comments/uvyfv4/resource_safety_is_hard_scala_project_from/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [scala-hedgehog munit integration released](https://www.reddit.com/r/scala/comments/uun393/scalahedgehog_munit_integration_released/)
 - [Ten-Step Tail-Rec Transformation Technique](https://www.reddit.com/r/scala/comments/uttl2y/tenstep_tailrec_transformation_technique/)
 - [How to properly handle 429 error code when doing batch http requests with STTP 3](https://www.reddit.com/r/scala/comments/ut6pqr/how_to_properly_handle_429_error_code_when_doing/)
-- [Why scala engineers despise python;](https://www.reddit.com/r/scala/comments/usrzpy/why_scala_engineers_despise_python/)
-- [Refer to child type in abstract class](https://www.reddit.com/r/scala/comments/uskyg6/refer_to_child_type_in_abstract_class/)
-- [Time complexities of Scala APIs](https://www.reddit.com/r/scala/comments/usfocp/time_complexities_of_scala_apis/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

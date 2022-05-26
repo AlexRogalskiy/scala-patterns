@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Reverse a Map which has A Set as its value using HOF](https://www.reddit.com/r/scala/comments/uxqgcb/reverse_a_map_which_has_a_set_as_its_value_using/)
+- [Project works with sbt run but not with a fat jar](https://www.reddit.com/r/scala/comments/uxe1dz/project_works_with_sbt_run_but_not_with_a_fat_jar/)
+- [Hosting Options for Scala CRUD App](https://www.reddit.com/r/scala/comments/ux83ay/hosting_options_for_scala_crud_app/)
 - [Getting a value &gt; is not a member of type parameter T error when comparing 2 numerics](https://www.reddit.com/r/scala/comments/uwn842/getting_a_value_is_not_a_member_of_type_parameter/)
 - [Agregando skills modulares](https://www.reddit.com/r/scala/comments/uwlxfq/agregando_skills_modulares/)
 - [What companies/startups are using Scala &lpar;open source projects on github&rpar;?](https://www.reddit.com/r/scala/comments/uwlsxd/what_companiesstartups_are_using_scala_open/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Tracking Side Effects in Scala](https://www.reddit.com/r/scala/comments/uw8lix/tracking_side_effects_in_scala/)
 - [Resource safety is hard - Scala Project From Scratch #10](https://www.reddit.com/r/scala/comments/uvyfv4/resource_safety_is_hard_scala_project_from/)
 - [This week in #Scala &lpar;May 23, 2022&rpar;](https://www.reddit.com/r/scala/comments/uvium9/this_week_in_scala_may_23_2022/)
-- [scala-hedgehog munit integration released](https://www.reddit.com/r/scala/comments/uun393/scalahedgehog_munit_integration_released/)
-- [Ten-Step Tail-Rec Transformation Technique](https://www.reddit.com/r/scala/comments/uttl2y/tenstep_tailrec_transformation_technique/)
-- [How to properly handle 429 error code when doing batch http requests with STTP 3](https://www.reddit.com/r/scala/comments/ut6pqr/how_to_properly_handle_429_error_code_when_doing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

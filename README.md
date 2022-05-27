@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [It&#39;s been a while since the latest scala-native update, any news or anybody knows what the devs are working on?](https://www.reddit.com/r/scala/comments/uym8qr/its_been_a_while_since_the_latest_scalanative/)
+- [Question using Cats effect &amp; Http4s](https://www.reddit.com/r/scala/comments/uykvm3/question_using_cats_effect_http4s/)
+- [Free Monads in Scala](https://www.reddit.com/r/scala/comments/uy994x/free_monads_in_scala/)
+- [Cheat Sheet - 40+ example Http Client SSL TLS Configuration with http requests](https://www.reddit.com/r/scala/comments/uy5bmp/cheat_sheet_40_example_http_client_ssl_tls/)
 - [Reverse a Map which has A Set as its value using HOF](https://www.reddit.com/r/scala/comments/uxqgcb/reverse_a_map_which_has_a_set_as_its_value_using/)
 - [Project works with sbt run but not with a fat jar](https://www.reddit.com/r/scala/comments/uxe1dz/project_works_with_sbt_run_but_not_with_a_fat_jar/)
 - [Hosting Options for Scala CRUD App](https://www.reddit.com/r/scala/comments/ux83ay/hosting_options_for_scala_crud_app/)
 - [Getting a value &gt; is not a member of type parameter T error when comparing 2 numerics](https://www.reddit.com/r/scala/comments/uwn842/getting_a_value_is_not_a_member_of_type_parameter/)
 - [Agregando skills modulares](https://www.reddit.com/r/scala/comments/uwlxfq/agregando_skills_modulares/)
 - [What companies/startups are using Scala &lpar;open source projects on github&rpar;?](https://www.reddit.com/r/scala/comments/uwlsxd/what_companiesstartups_are_using_scala_open/)
-- [Using literal singleton type to restrict varargs](https://www.reddit.com/r/scala/comments/uwa6ri/using_literal_singleton_type_to_restrict_varargs/)
-- [Tracking Side Effects in Scala](https://www.reddit.com/r/scala/comments/uw8lix/tracking_side_effects_in_scala/)
-- [Resource safety is hard - Scala Project From Scratch #10](https://www.reddit.com/r/scala/comments/uvyfv4/resource_safety_is_hard_scala_project_from/)
-- [This week in #Scala &lpar;May 23, 2022&rpar;](https://www.reddit.com/r/scala/comments/uvium9/this_week_in_scala_may_23_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

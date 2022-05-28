@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there a Jsoniter like library for CML parsing](https://www.reddit.com/r/scala/comments/uz4rt6/is_there_a_jsoniter_like_library_for_cml_parsing/)
+- [The ultimate guide to the ZIO Test framework](https://www.reddit.com/r/scala/comments/uyx6pi/the_ultimate_guide_to_the_zio_test_framework/)
+- [Question using Cats Monad Transformers](https://www.reddit.com/r/scala/comments/uyucrz/question_using_cats_monad_transformers/)
+- [Step by step guide of setting up SSL/TLS for a server and client](https://www.reddit.com/r/scala/comments/uysshn/step_by_step_guide_of_setting_up_ssltls_for_a/)
 - [It&#39;s been a while since the latest scala-native update, any news or anybody knows what the devs are working on?](https://www.reddit.com/r/scala/comments/uym8qr/its_been_a_while_since_the_latest_scalanative/)
 - [Question using Cats effect &amp; Http4s](https://www.reddit.com/r/scala/comments/uykvm3/question_using_cats_effect_http4s/)
 - [Free Monads in Scala](https://www.reddit.com/r/scala/comments/uy994x/free_monads_in_scala/)
 - [Cheat Sheet - 40+ example Http Client SSL TLS Configuration with http requests](https://www.reddit.com/r/scala/comments/uy5bmp/cheat_sheet_40_example_http_client_ssl_tls/)
 - [Reverse a Map which has A Set as its value using HOF](https://www.reddit.com/r/scala/comments/uxqgcb/reverse_a_map_which_has_a_set_as_its_value_using/)
 - [Project works with sbt run but not with a fat jar](https://www.reddit.com/r/scala/comments/uxe1dz/project_works_with_sbt_run_but_not_with_a_fat_jar/)
-- [Hosting Options for Scala CRUD App](https://www.reddit.com/r/scala/comments/ux83ay/hosting_options_for_scala_crud_app/)
-- [Getting a value &gt; is not a member of type parameter T error when comparing 2 numerics](https://www.reddit.com/r/scala/comments/uwn842/getting_a_value_is_not_a_member_of_type_parameter/)
-- [Agregando skills modulares](https://www.reddit.com/r/scala/comments/uwlxfq/agregando_skills_modulares/)
-- [What companies/startups are using Scala &lpar;open source projects on github&rpar;?](https://www.reddit.com/r/scala/comments/uwlsxd/what_companiesstartups_are_using_scala_open/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

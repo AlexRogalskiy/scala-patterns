@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Free Monad vs Tagless Final](https://www.reddit.com/r/scala/comments/uzoycg/free_monad_vs_tagless_final/)
+- [How to make reduce return another type than the one in its parameters](https://www.reddit.com/r/scala/comments/uzkqus/how_to_make_reduce_return_another_type_than_the/)
 - [Is there a Jsoniter like library for CML parsing](https://www.reddit.com/r/scala/comments/uz4rt6/is_there_a_jsoniter_like_library_for_cml_parsing/)
 - [The ultimate guide to the ZIO Test framework](https://www.reddit.com/r/scala/comments/uyx6pi/the_ultimate_guide_to_the_zio_test_framework/)
 - [Question using Cats Monad Transformers](https://www.reddit.com/r/scala/comments/uyucrz/question_using_cats_monad_transformers/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Question using Cats effect &amp; Http4s](https://www.reddit.com/r/scala/comments/uykvm3/question_using_cats_effect_http4s/)
 - [Free Monads in Scala](https://www.reddit.com/r/scala/comments/uy994x/free_monads_in_scala/)
 - [Cheat Sheet - 40+ example Http Client SSL TLS Configuration with http requests](https://www.reddit.com/r/scala/comments/uy5bmp/cheat_sheet_40_example_http_client_ssl_tls/)
-- [Reverse a Map which has A Set as its value using HOF](https://www.reddit.com/r/scala/comments/uxqgcb/reverse_a_map_which_has_a_set_as_its_value_using/)
-- [Project works with sbt run but not with a fat jar](https://www.reddit.com/r/scala/comments/uxe1dz/project_works_with_sbt_run_but_not_with_a_fat_jar/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

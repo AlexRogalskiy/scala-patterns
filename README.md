@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;May 30, 2022&rpar;](https://www.reddit.com/r/scala/comments/v0ca1v/this_week_in_scala_may_30_2022/)
+- [how hard is Scala, and what languages are harder than Scala?](https://www.reddit.com/r/scala/comments/v0b451/how_hard_is_scala_and_what_languages_are_harder/)
 - [Free Monad vs Tagless Final](https://www.reddit.com/r/scala/comments/uzoycg/free_monad_vs_tagless_final/)
 - [How to make reduce return another type than the one in its parameters](https://www.reddit.com/r/scala/comments/uzkqus/how_to_make_reduce_return_another_type_than_the/)
 - [Is there a Jsoniter like library for CML parsing](https://www.reddit.com/r/scala/comments/uz4rt6/is_there_a_jsoniter_like_library_for_cml_parsing/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Step by step guide of setting up SSL/TLS for a server and client](https://www.reddit.com/r/scala/comments/uysshn/step_by_step_guide_of_setting_up_ssltls_for_a/)
 - [It&#39;s been a while since the latest scala-native update, any news or anybody knows what the devs are working on?](https://www.reddit.com/r/scala/comments/uym8qr/its_been_a_while_since_the_latest_scalanative/)
 - [Question using Cats effect &amp; Http4s](https://www.reddit.com/r/scala/comments/uykvm3/question_using_cats_effect_http4s/)
-- [Free Monads in Scala](https://www.reddit.com/r/scala/comments/uy994x/free_monads_in_scala/)
-- [Cheat Sheet - 40+ example Http Client SSL TLS Configuration with http requests](https://www.reddit.com/r/scala/comments/uy5bmp/cheat_sheet_40_example_http_client_ssl_tls/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

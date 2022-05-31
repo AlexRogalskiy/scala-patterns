@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Type Classes in Scala !](https://www.reddit.com/r/scala/comments/v17juf/type_classes_in_scala/)
+- [Convert Scala query to SQL](https://www.reddit.com/r/scala/comments/v0vacc/convert_scala_query_to_sql/)
 - [This week in #Scala &lpar;May 30, 2022&rpar;](https://www.reddit.com/r/scala/comments/v0ca1v/this_week_in_scala_may_30_2022/)
 - [how hard is Scala, and what languages are harder than Scala?](https://www.reddit.com/r/scala/comments/v0b451/how_hard_is_scala_and_what_languages_are_harder/)
 - [Free Monad vs Tagless Final](https://www.reddit.com/r/scala/comments/uzoycg/free_monad_vs_tagless_final/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [The ultimate guide to the ZIO Test framework](https://www.reddit.com/r/scala/comments/uyx6pi/the_ultimate_guide_to_the_zio_test_framework/)
 - [Question using Cats Monad Transformers](https://www.reddit.com/r/scala/comments/uyucrz/question_using_cats_monad_transformers/)
 - [Step by step guide of setting up SSL/TLS for a server and client](https://www.reddit.com/r/scala/comments/uysshn/step_by_step_guide_of_setting_up_ssltls_for_a/)
-- [It&#39;s been a while since the latest scala-native update, any news or anybody knows what the devs are working on?](https://www.reddit.com/r/scala/comments/uym8qr/its_been_a_while_since_the_latest_scalanative/)
-- [Question using Cats effect &amp; Http4s](https://www.reddit.com/r/scala/comments/uykvm3/question_using_cats_effect_http4s/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

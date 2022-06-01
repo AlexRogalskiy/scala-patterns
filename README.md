@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Junior Jobs](https://www.reddit.com/r/scala/comments/v1xod0/junior_jobs/)
+- [Recommended simple static website generator that is well-maintained that plays well with scala&lpar;.js&rpar; &lpar;3&rpar; ?](https://www.reddit.com/r/scala/comments/v1pr8g/recommended_simple_static_website_generator_that/)
 - [Type Classes in Scala !](https://www.reddit.com/r/scala/comments/v17juf/type_classes_in_scala/)
 - [Convert Scala query to SQL](https://www.reddit.com/r/scala/comments/v0vacc/convert_scala_query_to_sql/)
 - [This week in #Scala &lpar;May 30, 2022&rpar;](https://www.reddit.com/r/scala/comments/v0ca1v/this_week_in_scala_may_30_2022/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to make reduce return another type than the one in its parameters](https://www.reddit.com/r/scala/comments/uzkqus/how_to_make_reduce_return_another_type_than_the/)
 - [Is there a Jsoniter like library for CML parsing](https://www.reddit.com/r/scala/comments/uz4rt6/is_there_a_jsoniter_like_library_for_cml_parsing/)
 - [The ultimate guide to the ZIO Test framework](https://www.reddit.com/r/scala/comments/uyx6pi/the_ultimate_guide_to_the_zio_test_framework/)
-- [Question using Cats Monad Transformers](https://www.reddit.com/r/scala/comments/uyucrz/question_using_cats_monad_transformers/)
-- [Step by step guide of setting up SSL/TLS for a server and client](https://www.reddit.com/r/scala/comments/uysshn/step_by_step_guide_of_setting_up_ssltls_for_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

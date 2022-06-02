@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [List of the companies that use Scala in North America](https://www.reddit.com/r/scala/comments/v2vsi9/list_of_the_companies_that_use_scala_in_north/)
+- [Why is Scala still not popular ?](https://www.reddit.com/r/scala/comments/v2vnp8/why_is_scala_still_not_popular/)
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/v2ka2q/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [Tooling Talks Episode 11 - Olivier Mélois: Diving into Smithy](https://www.reddit.com/r/scala/comments/v2bhxn/tooling_talks_episode_11_olivier_mélois_diving/)
 - [Junior Jobs](https://www.reddit.com/r/scala/comments/v1xod0/junior_jobs/)
 - [Recommended simple static website generator that is well-maintained that plays well with scala&lpar;.js&rpar; &lpar;3&rpar; ?](https://www.reddit.com/r/scala/comments/v1pr8g/recommended_simple_static_website_generator_that/)
 - [Type Classes in Scala !](https://www.reddit.com/r/scala/comments/v17juf/type_classes_in_scala/)
 - [Convert Scala query to SQL](https://www.reddit.com/r/scala/comments/v0vacc/convert_scala_query_to_sql/)
 - [This week in #Scala &lpar;May 30, 2022&rpar;](https://www.reddit.com/r/scala/comments/v0ca1v/this_week_in_scala_may_30_2022/)
 - [how hard is Scala, and what languages are harder than Scala?](https://www.reddit.com/r/scala/comments/v0b451/how_hard_is_scala_and_what_languages_are_harder/)
-- [Free Monad vs Tagless Final](https://www.reddit.com/r/scala/comments/uzoycg/free_monad_vs_tagless_final/)
-- [How to make reduce return another type than the one in its parameters](https://www.reddit.com/r/scala/comments/uzkqus/how_to_make_reduce_return_another_type_than_the/)
-- [Is there a Jsoniter like library for CML parsing](https://www.reddit.com/r/scala/comments/uz4rt6/is_there_a_jsoniter_like_library_for_cml_parsing/)
-- [The ultimate guide to the ZIO Test framework](https://www.reddit.com/r/scala/comments/uyx6pi/the_ultimate_guide_to_the_zio_test_framework/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

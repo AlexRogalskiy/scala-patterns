@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [SBT Native Packager Universal Plugin Error](https://www.reddit.com/r/scala/comments/v4fcbx/sbt_native_packager_universal_plugin_error/)
+- [Add Tyrian 0.5.0 to your TodoMVC list! 📋](https://www.reddit.com/r/scala/comments/v4c10g/add_tyrian_050_to_your_todomvc_list/)
+- [How is the hiring process looks like for Scala positions?](https://www.reddit.com/r/scala/comments/v4ap94/how_is_the_hiring_process_looks_like_for_scala/)
+- [Web Service Tech Stack for 2022](https://www.reddit.com/r/scala/comments/v3yevv/web_service_tech_stack_for_2022/)
 - [Functional Programming concepts I actually like: A bit of praise for Scala &lpar;for once&rpar;](https://www.reddit.com/r/scala/comments/v3mw4g/functional_programming_concepts_i_actually_like_a/)
 - [How to use Scala 3 macros to eliminate boilerplate](https://www.reddit.com/r/scala/comments/v3cbo4/how_to_use_scala_3_macros_to_eliminate_boilerplate/)
 - [Some questions about nullable types, syntax](https://www.reddit.com/r/scala/comments/v355bj/some_questions_about_nullable_types_syntax/)
 - [Mónadas en Cats parte 9](https://www.reddit.com/r/scala/comments/v30p2p/mónadas_en_cats_parte_9/)
 - [List of the companies that use Scala in North America](https://www.reddit.com/r/scala/comments/v2vsi9/list_of_the_companies_that_use_scala_in_north/)
 - [Why is Scala still not popular ?](https://www.reddit.com/r/scala/comments/v2vnp8/why_is_scala_still_not_popular/)
-- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/v2ka2q/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [Tooling Talks Episode 11 - Olivier Mélois: Diving into Smithy](https://www.reddit.com/r/scala/comments/v2bhxn/tooling_talks_episode_11_olivier_mélois_diving/)
-- [Junior Jobs](https://www.reddit.com/r/scala/comments/v1xod0/junior_jobs/)
-- [Recommended simple static website generator that is well-maintained that plays well with scala&lpar;.js&rpar; &lpar;3&rpar; ?](https://www.reddit.com/r/scala/comments/v1pr8g/recommended_simple_static_website_generator_that/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

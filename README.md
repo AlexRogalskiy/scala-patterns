@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Learning macros in scala 2.13](https://www.reddit.com/r/scala/comments/v4ubo1/learning_macros_in_scala_213/)
+- [Alephium: The First Live Layer 1 Sharded Blockchain Written 100% in Scala](https://www.reddit.com/r/scala/comments/v4nioq/alephium_the_first_live_layer_1_sharded/)
+- [Anyone looking for an intern or entry level scala developer?](https://www.reddit.com/r/scala/comments/v4foko/anyone_looking_for_an_intern_or_entry_level_scala/)
 - [SBT Native Packager Universal Plugin Error](https://www.reddit.com/r/scala/comments/v4fcbx/sbt_native_packager_universal_plugin_error/)
 - [Add Tyrian 0.5.0 to your TodoMVC list! 📋](https://www.reddit.com/r/scala/comments/v4c10g/add_tyrian_050_to_your_todomvc_list/)
 - [How is the hiring process looks like for Scala positions?](https://www.reddit.com/r/scala/comments/v4ap94/how_is_the_hiring_process_looks_like_for_scala/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Functional Programming concepts I actually like: A bit of praise for Scala &lpar;for once&rpar;](https://www.reddit.com/r/scala/comments/v3mw4g/functional_programming_concepts_i_actually_like_a/)
 - [How to use Scala 3 macros to eliminate boilerplate](https://www.reddit.com/r/scala/comments/v3cbo4/how_to_use_scala_3_macros_to_eliminate_boilerplate/)
 - [Some questions about nullable types, syntax](https://www.reddit.com/r/scala/comments/v355bj/some_questions_about_nullable_types_syntax/)
-- [Mónadas en Cats parte 9](https://www.reddit.com/r/scala/comments/v30p2p/mónadas_en_cats_parte_9/)
-- [List of the companies that use Scala in North America](https://www.reddit.com/r/scala/comments/v2vsi9/list_of_the_companies_that_use_scala_in_north/)
-- [Why is Scala still not popular ?](https://www.reddit.com/r/scala/comments/v2vnp8/why_is_scala_still_not_popular/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

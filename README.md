@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Option and Some in Scala](https://www.reddit.com/r/scala/comments/v6qjyt/option_and_some_in_scala/)
 - [hexdump4s: building a simple command line application using scodec and scala-cli](https://www.reddit.com/r/scala/comments/v6h7g4/hexdump4s_building_a_simple_command_line/)
 - [Data Modeling in Scala 3, but I only use types](https://www.reddit.com/r/scala/comments/v62rja/data_modeling_in_scala_3_but_i_only_use_types/)
 - [Starting with Scala: editor and version choice?](https://www.reddit.com/r/scala/comments/v5yqmn/starting_with_scala_editor_and_version_choice/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Structured concurrency with plain Scala Futures](https://www.reddit.com/r/scala/comments/v59ze6/structured_concurrency_with_plain_scala_futures/)
 - [dotty-cps-async 0.9.9](https://www.reddit.com/r/scala/comments/v59ef3/dottycpsasync_099/)
 - [Learning macros in scala 2.13](https://www.reddit.com/r/scala/comments/v4ubo1/learning_macros_in_scala_213/)
-- [Alephium: The First Live Layer 1 Sharded Blockchain Written 100% in Scala](https://www.reddit.com/r/scala/comments/v4nioq/alephium_the_first_live_layer_1_sharded/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

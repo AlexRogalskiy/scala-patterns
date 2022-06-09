@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sttp: ¡el cliente Scala HTTP que siempre quisiste!](https://www.reddit.com/r/scala/comments/v7mjyu/sttp_el_cliente_scala_http_que_siempre_quisiste/)
+- [Structuring ZIO 2 applications, by Adam Warski](https://www.reddit.com/r/scala/comments/v7kscv/structuring_zio_2_applications_by_adam_warski/)
 - [Option and Some in Scala](https://www.reddit.com/r/scala/comments/v6qjyt/option_and_some_in_scala/)
 - [hexdump4s: building a simple command line application using scodec and scala-cli](https://www.reddit.com/r/scala/comments/v6h7g4/hexdump4s_building_a_simple_command_line/)
 - [Data Modeling in Scala 3, but I only use types](https://www.reddit.com/r/scala/comments/v62rja/data_modeling_in_scala_3_but_i_only_use_types/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Jun 6, 2022&rpar;](https://www.reddit.com/r/scala/comments/v5m3f3/this_week_in_scala_jun_6_2022/)
 - [Is Scala an interpreted language, compiled language, or both?](https://www.reddit.com/r/scala/comments/v5eqne/is_scala_an_interpreted_language_compiled/)
 - [Structured concurrency with plain Scala Futures](https://www.reddit.com/r/scala/comments/v59ze6/structured_concurrency_with_plain_scala_futures/)
-- [dotty-cps-async 0.9.9](https://www.reddit.com/r/scala/comments/v59ef3/dottycpsasync_099/)
-- [Learning macros in scala 2.13](https://www.reddit.com/r/scala/comments/v4ubo1/learning_macros_in_scala_213/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

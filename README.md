@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Data modelling in Scala3 with types example](https://www.reddit.com/r/scala/comments/v8kf4b/data_modelling_in_scala3_with_types_example/)
+- [Improving Fault Tolerance with RPC Fallbacks](https://www.reddit.com/r/scala/comments/v8ivqp/improving_fault_tolerance_with_rpc_fallbacks/)
+- [Scala in the City - Medidata - 28th June - Hammersmith, London](https://www.reddit.com/r/scala/comments/v8ewxz/scala_in_the_city_medidata_28th_june_hammersmith/)
 - [sttp: ¡el cliente Scala HTTP que siempre quisiste!](https://www.reddit.com/r/scala/comments/v7mjyu/sttp_el_cliente_scala_http_que_siempre_quisiste/)
 - [Structuring ZIO 2 applications, by Adam Warski](https://www.reddit.com/r/scala/comments/v7kscv/structuring_zio_2_applications_by_adam_warski/)
 - [Option and Some in Scala](https://www.reddit.com/r/scala/comments/v6qjyt/option_and_some_in_scala/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Data Modeling in Scala 3, but I only use types](https://www.reddit.com/r/scala/comments/v62rja/data_modeling_in_scala_3_but_i_only_use_types/)
 - [Starting with Scala: editor and version choice?](https://www.reddit.com/r/scala/comments/v5yqmn/starting_with_scala_editor_and_version_choice/)
 - [Mónadas en Cats parte 10](https://www.reddit.com/r/scala/comments/v5udnu/mónadas_en_cats_parte_10/)
-- [This week in #Scala &lpar;Jun 6, 2022&rpar;](https://www.reddit.com/r/scala/comments/v5m3f3/this_week_in_scala_jun_6_2022/)
-- [Is Scala an interpreted language, compiled language, or both?](https://www.reddit.com/r/scala/comments/v5eqne/is_scala_an_interpreted_language_compiled/)
-- [Structured concurrency with plain Scala Futures](https://www.reddit.com/r/scala/comments/v59ze6/structured_concurrency_with_plain_scala_futures/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 2.12.16 is here](https://www.reddit.com/r/scala/comments/v9a0bc/scala_21216_is_here/)
 - [Data modelling in Scala3 with types example](https://www.reddit.com/r/scala/comments/v8kf4b/data_modelling_in_scala3_with_types_example/)
 - [Improving Fault Tolerance with RPC Fallbacks](https://www.reddit.com/r/scala/comments/v8ivqp/improving_fault_tolerance_with_rpc_fallbacks/)
 - [Scala in the City - Medidata - 28th June - Hammersmith, London](https://www.reddit.com/r/scala/comments/v8ewxz/scala_in_the_city_medidata_28th_june_hammersmith/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [hexdump4s: building a simple command line application using scodec and scala-cli](https://www.reddit.com/r/scala/comments/v6h7g4/hexdump4s_building_a_simple_command_line/)
 - [Data Modeling in Scala 3, but I only use types](https://www.reddit.com/r/scala/comments/v62rja/data_modeling_in_scala_3_but_i_only_use_types/)
 - [Starting with Scala: editor and version choice?](https://www.reddit.com/r/scala/comments/v5yqmn/starting_with_scala_editor_and_version_choice/)
-- [Mónadas en Cats parte 10](https://www.reddit.com/r/scala/comments/v5udnu/mónadas_en_cats_parte_10/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

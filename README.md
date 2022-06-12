@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Top de lenguajes en la JVM](https://www.reddit.com/r/scala/comments/v9vqfz/top_de_lenguajes_en_la_jvm/)
+- [Mónadas en Cats parte 11](https://www.reddit.com/r/scala/comments/v9ppv5/mónadas_en_cats_parte_11/)
+- [Akka streams - value ~&gt; is not a member of akka.stream.Shape](https://www.reddit.com/r/scala/comments/v9p4ig/akka_streams_value_is_not_a_member_of/)
 - [Scala 2.12.16 is here](https://www.reddit.com/r/scala/comments/v9a0bc/scala_21216_is_here/)
 - [Data modelling in Scala3 with types example](https://www.reddit.com/r/scala/comments/v8kf4b/data_modelling_in_scala3_with_types_example/)
 - [Improving Fault Tolerance with RPC Fallbacks](https://www.reddit.com/r/scala/comments/v8ivqp/improving_fault_tolerance_with_rpc_fallbacks/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sttp: ¡el cliente Scala HTTP que siempre quisiste!](https://www.reddit.com/r/scala/comments/v7mjyu/sttp_el_cliente_scala_http_que_siempre_quisiste/)
 - [Structuring ZIO 2 applications, by Adam Warski](https://www.reddit.com/r/scala/comments/v7kscv/structuring_zio_2_applications_by_adam_warski/)
 - [Option and Some in Scala](https://www.reddit.com/r/scala/comments/v6qjyt/option_and_some_in_scala/)
-- [hexdump4s: building a simple command line application using scodec and scala-cli](https://www.reddit.com/r/scala/comments/v6h7g4/hexdump4s_building_a_simple_command_line/)
-- [Data Modeling in Scala 3, but I only use types](https://www.reddit.com/r/scala/comments/v62rja/data_modeling_in_scala_3_but_i_only_use_types/)
-- [Starting with Scala: editor and version choice?](https://www.reddit.com/r/scala/comments/v5yqmn/starting_with_scala_editor_and_version_choice/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

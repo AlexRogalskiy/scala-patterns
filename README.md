@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What would the performance nrs be for ZIO and or Cats Effects if someone would implement the computer language benchmark game using those libraries](https://www.reddit.com/r/scala/comments/vbjus4/what_would_the_performance_nrs_be_for_zio_and_or/)
+- [Dot product not commutative](https://www.reddit.com/r/scala/comments/vbiylj/dot_product_not_commutative/)
+- [ZLayers in ZIO 2.0 are a totally different BEAST!](https://www.reddit.com/r/scala/comments/vbbvuu/zlayers_in_zio_20_are_a_totally_different_beast/)
+- [Help with adding sets to List of Sets](https://www.reddit.com/r/scala/comments/vbbqsq/help_with_adding_sets_to_list_of_sets/)
+- [sbt 1.7.0-M3 released](https://www.reddit.com/r/scala/comments/vb75gz/sbt_170m3_released/)
 - [This week in #Scala &lpar;Jun 12, 2022&rpar;](https://www.reddit.com/r/scala/comments/vawfkx/this_week_in_scala_jun_12_2022/)
 - [Hot reload SSL configuration for a server and http client](https://www.reddit.com/r/scala/comments/vaugkb/hot_reload_ssl_configuration_for_a_server_and/)
 - [What are Diode alternatives?](https://www.reddit.com/r/scala/comments/vanluj/what_are_diode_alternatives/)
 - [Top de lenguajes en la JVM](https://www.reddit.com/r/scala/comments/v9vqfz/top_de_lenguajes_en_la_jvm/)
 - [Mónadas en Cats parte 11](https://www.reddit.com/r/scala/comments/v9ppv5/mónadas_en_cats_parte_11/)
-- [Akka streams - value ~&gt; is not a member of akka.stream.Shape](https://www.reddit.com/r/scala/comments/v9p4ig/akka_streams_value_is_not_a_member_of/)
-- [Scala 2.12.16 is here](https://www.reddit.com/r/scala/comments/v9a0bc/scala_21216_is_here/)
-- [Data modelling in Scala3 with types example](https://www.reddit.com/r/scala/comments/v8kf4b/data_modelling_in_scala3_with_types_example/)
-- [Improving Fault Tolerance with RPC Fallbacks](https://www.reddit.com/r/scala/comments/v8ivqp/improving_fault_tolerance_with_rpc_fallbacks/)
-- [Scala in the City - Medidata - 28th June - Hammersmith, London](https://www.reddit.com/r/scala/comments/v8ewxz/scala_in_the_city_medidata_28th_june_hammersmith/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

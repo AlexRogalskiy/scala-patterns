@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tapir 1.0 released](https://www.reddit.com/r/scala/comments/vc61vi/tapir_10_released/)
+- [Introduction to Programming with ZIO Functional Effects](https://www.reddit.com/r/scala/comments/vc2avw/introduction_to_programming_with_zio_functional/)
+- [Spark saves DataFrame as an empty JSON File](https://www.reddit.com/r/scala/comments/vby9vg/spark_saves_dataframe_as_an_empty_json_file/)
 - [What would the performance nrs be for ZIO and or Cats Effects if someone would implement the computer language benchmark game using those libraries](https://www.reddit.com/r/scala/comments/vbjus4/what_would_the_performance_nrs_be_for_zio_and_or/)
 - [Dot product not commutative](https://www.reddit.com/r/scala/comments/vbiylj/dot_product_not_commutative/)
 - [ZLayers in ZIO 2.0 are a totally different BEAST!](https://www.reddit.com/r/scala/comments/vbbvuu/zlayers_in_zio_20_are_a_totally_different_beast/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt 1.7.0-M3 released](https://www.reddit.com/r/scala/comments/vb75gz/sbt_170m3_released/)
 - [This week in #Scala &lpar;Jun 12, 2022&rpar;](https://www.reddit.com/r/scala/comments/vawfkx/this_week_in_scala_jun_12_2022/)
 - [Hot reload SSL configuration for a server and http client](https://www.reddit.com/r/scala/comments/vaugkb/hot_reload_ssl_configuration_for_a_server_and/)
-- [What are Diode alternatives?](https://www.reddit.com/r/scala/comments/vanluj/what_are_diode_alternatives/)
-- [Top de lenguajes en la JVM](https://www.reddit.com/r/scala/comments/v9vqfz/top_de_lenguajes_en_la_jvm/)
-- [Mónadas en Cats parte 11](https://www.reddit.com/r/scala/comments/v9ppv5/mónadas_en_cats_parte_11/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [It&#39;s time to traverse &lpar;Scala Project From Scratch #11&rpar;](https://www.reddit.com/r/scala/comments/vd3349/its_time_to_traverse_scala_project_from_scratch_11/)
+- [Spark-NLP 4.0.0 🚀: New modern extractive Question answering &lpar;QA&rpar; annotators for ALBERT, BERT, DistilBERT, DeBERTa, RoBERTa, Longformer, and XLM-RoBERTa, official support for Apple silicon M1, support oneDNN to improve CPU up to 97%, improved transformers on GPU up to +700%, 1000+ SOTA models](https://www.reddit.com/r/scala/comments/vd20uc/sparknlp_400_new_modern_extractive_question/)
+- [Made a Scala promotional video for fun](https://www.reddit.com/r/scala/comments/vcx1h4/made_a_scala_promotional_video_for_fun/)
+- [tAPIr 1.0 release [INFOGRAPHIC]](https://www.reddit.com/r/scala/comments/vcshv1/tapir_10_release_infographic/)
 - [Tapir 1.0 released](https://www.reddit.com/r/scala/comments/vc61vi/tapir_10_released/)
 - [Introduction to Programming with ZIO Functional Effects](https://www.reddit.com/r/scala/comments/vc2avw/introduction_to_programming_with_zio_functional/)
 - [Spark saves DataFrame as an empty JSON File](https://www.reddit.com/r/scala/comments/vby9vg/spark_saves_dataframe_as_an_empty_json_file/)
 - [What would the performance nrs be for ZIO and or Cats Effects if someone would implement the computer language benchmark game using those libraries](https://www.reddit.com/r/scala/comments/vbjus4/what_would_the_performance_nrs_be_for_zio_and_or/)
 - [Dot product not commutative](https://www.reddit.com/r/scala/comments/vbiylj/dot_product_not_commutative/)
 - [ZLayers in ZIO 2.0 are a totally different BEAST!](https://www.reddit.com/r/scala/comments/vbbvuu/zlayers_in_zio_20_are_a_totally_different_beast/)
-- [Help with adding sets to List of Sets](https://www.reddit.com/r/scala/comments/vbbqsq/help_with_adding_sets_to_list_of_sets/)
-- [sbt 1.7.0-M3 released](https://www.reddit.com/r/scala/comments/vb75gz/sbt_170m3_released/)
-- [This week in #Scala &lpar;Jun 12, 2022&rpar;](https://www.reddit.com/r/scala/comments/vawfkx/this_week_in_scala_jun_12_2022/)
-- [Hot reload SSL configuration for a server and http client](https://www.reddit.com/r/scala/comments/vaugkb/hot_reload_ssl_configuration_for_a_server_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

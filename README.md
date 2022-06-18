@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Multiplatform. Across the Universe](https://www.reddit.com/r/scala/comments/venzok/scala_multiplatform_across_the_universe/)
+- [Top Rated Scala Books of June 2022](https://www.reddit.com/r/scala/comments/vekzey/top_rated_scala_books_of_june_2022/)
+- [Ukrainian Scala Community In Telegram](https://www.reddit.com/r/scala/comments/ve8kpb/ukrainian_scala_community_in_telegram/)
 - [Check Which Branch Scala repo is on](https://www.reddit.com/r/scala/comments/vdpn1w/check_which_branch_scala_repo_is_on/)
 - [It&#39;s time to traverse &lpar;Scala Project From Scratch #11&rpar;](https://www.reddit.com/r/scala/comments/vd3349/its_time_to_traverse_scala_project_from_scratch_11/)
 - [Spark-NLP 4.0.0 🚀: New modern extractive Question answering &lpar;QA&rpar; annotators for ALBERT, BERT, DistilBERT, DeBERTa, RoBERTa, Longformer, and XLM-RoBERTa, official support for Apple silicon M1, support oneDNN to improve CPU up to 97%, improved transformers on GPU up to +700%, 1000+ SOTA models](https://www.reddit.com/r/scala/comments/vd20uc/sparknlp_400_new_modern_extractive_question/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [tAPIr 1.0 release [INFOGRAPHIC]](https://www.reddit.com/r/scala/comments/vcshv1/tapir_10_release_infographic/)
 - [Tapir 1.0 released](https://www.reddit.com/r/scala/comments/vc61vi/tapir_10_released/)
 - [Introduction to Programming with ZIO Functional Effects](https://www.reddit.com/r/scala/comments/vc2avw/introduction_to_programming_with_zio_functional/)
-- [Spark saves DataFrame as an empty JSON File](https://www.reddit.com/r/scala/comments/vby9vg/spark_saves_dataframe_as_an_empty_json_file/)
-- [What would the performance nrs be for ZIO and or Cats Effects if someone would implement the computer language benchmark game using those libraries](https://www.reddit.com/r/scala/comments/vbjus4/what_would_the_performance_nrs_be_for_zio_and_or/)
-- [Dot product not commutative](https://www.reddit.com/r/scala/comments/vbiylj/dot_product_not_commutative/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

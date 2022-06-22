@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [scala monorepo](https://www.reddit.com/r/scala/comments/vhs4cj/scala_monorepo/)
+- [Learn programming using Scala](https://www.reddit.com/r/scala/comments/vhiqqb/learn_programming_using_scala/)
+- [This week in #Scala &lpar;Jun 21, 2021 !](https://www.reddit.com/r/scala/comments/vh7j99/this_week_in_scala_jun_21_2021/)
 - [Scala workspace - docker image with Scala and browser-based VS-code](https://www.reddit.com/r/scala/comments/vgt3sj/scala_workspace_docker_image_with_scala_and/)
 - [Good first open source projects to contribute to.](https://www.reddit.com/r/scala/comments/vgp6k9/good_first_open_source_projects_to_contribute_to/)
 - [Mónadas en Cats parte 12](https://www.reddit.com/r/scala/comments/vgiyw2/mónadas_en_cats_parte_12/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Does Scala have support for Dependent types?](https://www.reddit.com/r/scala/comments/vg72cn/does_scala_have_support_for_dependent_types/)
 - [This week in #Scala &lpar;Jun 20, 2022&rpar;](https://www.reddit.com/r/scala/comments/vg6wrb/this_week_in_scala_jun_20_2022/)
 - [What is/has been your go-to documentation while learning Scala?](https://www.reddit.com/r/scala/comments/vg5rif/what_ishas_been_your_goto_documentation_while/)
-- [Scala Contracting ~ 2 Years Recap &lpar;Disappointment&rpar;](https://www.reddit.com/r/scala/comments/vg29fs/scala_contracting_2_years_recap_disappointment/)
-- [How does Scala&#39;s type system compare to TypeScript&#39;s? Is it as powerful?](https://www.reddit.com/r/scala/comments/vfqg9u/how_does_scalas_type_system_compare_to/)
-- [10 Must-Have IntelliJ Plugins to Improve Your Productivity](https://www.reddit.com/r/scala/comments/vfqfsh/10_musthave_intellij_plugins_to_improve_your/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to print an array in Scala?](https://www.reddit.com/r/scala/comments/viioyi/how_to_print_an_array_in_scala/)
+- [Pass4s a Scala library providing an abstract layer for cross app messaging v0.1.0 released!](https://www.reddit.com/r/scala/comments/vif3v1/pass4s_a_scala_library_providing_an_abstract/)
+- [SCALAC| Scala developer| LATAM| Remote| Full time| US $ 2,500 - 7,000 per month](https://www.reddit.com/r/scala/comments/vi7qt1/scalac_scala_developer_latam_remote_full_time_us/)
+- [Disjoint Graph Unions: Performance Case Study](https://www.reddit.com/r/scala/comments/vhvdmx/disjoint_graph_unions_performance_case_study/)
 - [scala monorepo](https://www.reddit.com/r/scala/comments/vhs4cj/scala_monorepo/)
 - [Learn programming using Scala](https://www.reddit.com/r/scala/comments/vhiqqb/learn_programming_using_scala/)
 - [This week in #Scala &lpar;Jun 21, 2021 !](https://www.reddit.com/r/scala/comments/vh7j99/this_week_in_scala_jun_21_2021/)
 - [Scala workspace - docker image with Scala and browser-based VS-code](https://www.reddit.com/r/scala/comments/vgt3sj/scala_workspace_docker_image_with_scala_and/)
 - [Good first open source projects to contribute to.](https://www.reddit.com/r/scala/comments/vgp6k9/good_first_open_source_projects_to_contribute_to/)
 - [Mónadas en Cats parte 12](https://www.reddit.com/r/scala/comments/vgiyw2/mónadas_en_cats_parte_12/)
-- [Intellij scala in maven long time to recompile](https://www.reddit.com/r/scala/comments/vgh9d3/intellij_scala_in_maven_long_time_to_recompile/)
-- [Does Scala have support for Dependent types?](https://www.reddit.com/r/scala/comments/vg72cn/does_scala_have_support_for_dependent_types/)
-- [This week in #Scala &lpar;Jun 20, 2022&rpar;](https://www.reddit.com/r/scala/comments/vg6wrb/this_week_in_scala_jun_20_2022/)
-- [What is/has been your go-to documentation while learning Scala?](https://www.reddit.com/r/scala/comments/vg5rif/what_ishas_been_your_goto_documentation_while/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

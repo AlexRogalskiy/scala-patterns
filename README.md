@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Should I begin with Scala or Hadoop in Big Data ?](https://www.reddit.com/r/scala/comments/vje5zs/should_i_begin_with_scala_or_hadoop_in_big_data/)
+- [Why is Scala a mildly loved language?](https://www.reddit.com/r/scala/comments/vjdxw6/why_is_scala_a_mildly_loved_language/)
+- [2022 Laminar Ecosystem Update – new libraries, web components, tutorials, sponsors](https://www.reddit.com/r/scala/comments/visorh/2022_laminar_ecosystem_update_new_libraries_web/)
+- [Build an Android Video Calling App using Android Studio and Video SDK](https://www.reddit.com/r/scala/comments/vir8nx/build_an_android_video_calling_app_using_android/)
 - [How to print an array in Scala?](https://www.reddit.com/r/scala/comments/viioyi/how_to_print_an_array_in_scala/)
 - [Pass4s a Scala library providing an abstract layer for cross app messaging v0.1.0 released!](https://www.reddit.com/r/scala/comments/vif3v1/pass4s_a_scala_library_providing_an_abstract/)
 - [SCALAC| Scala developer| LATAM| Remote| Full time| US $ 2,500 - 7,000 per month](https://www.reddit.com/r/scala/comments/vi7qt1/scalac_scala_developer_latam_remote_full_time_us/)
 - [Disjoint Graph Unions: Performance Case Study](https://www.reddit.com/r/scala/comments/vhvdmx/disjoint_graph_unions_performance_case_study/)
 - [scala monorepo](https://www.reddit.com/r/scala/comments/vhs4cj/scala_monorepo/)
 - [Learn programming using Scala](https://www.reddit.com/r/scala/comments/vhiqqb/learn_programming_using_scala/)
-- [This week in #Scala &lpar;Jun 21, 2021 !](https://www.reddit.com/r/scala/comments/vh7j99/this_week_in_scala_jun_21_2021/)
-- [Scala workspace - docker image with Scala and browser-based VS-code](https://www.reddit.com/r/scala/comments/vgt3sj/scala_workspace_docker_image_with_scala_and/)
-- [Good first open source projects to contribute to.](https://www.reddit.com/r/scala/comments/vgp6k9/good_first_open_source_projects_to_contribute_to/)
-- [Mónadas en Cats parte 12](https://www.reddit.com/r/scala/comments/vgiyw2/mónadas_en_cats_parte_12/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Quarkus &amp; Scala](https://www.reddit.com/r/scala/comments/vk51qh/quarkus_scala/)
+- [Should I learn Scala if I&#39;m using PySpark](https://www.reddit.com/r/scala/comments/vk4qjq/should_i_learn_scala_if_im_using_pyspark/)
+- [ZIO 2.0 Released](https://www.reddit.com/r/scala/comments/vjrvux/zio_20_released/)
+- [Learning Scala for Big Data](https://www.reddit.com/r/scala/comments/vjez02/learning_scala_for_big_data/)
 - [Should I begin with Scala or Hadoop in Big Data ?](https://www.reddit.com/r/scala/comments/vje5zs/should_i_begin_with_scala_or_hadoop_in_big_data/)
 - [Why is Scala a mildly loved language?](https://www.reddit.com/r/scala/comments/vjdxw6/why_is_scala_a_mildly_loved_language/)
 - [2022 Laminar Ecosystem Update – new libraries, web components, tutorials, sponsors](https://www.reddit.com/r/scala/comments/visorh/2022_laminar_ecosystem_update_new_libraries_web/)
 - [Build an Android Video Calling App using Android Studio and Video SDK](https://www.reddit.com/r/scala/comments/vir8nx/build_an_android_video_calling_app_using_android/)
 - [How to print an array in Scala?](https://www.reddit.com/r/scala/comments/viioyi/how_to_print_an_array_in_scala/)
 - [Pass4s a Scala library providing an abstract layer for cross app messaging v0.1.0 released!](https://www.reddit.com/r/scala/comments/vif3v1/pass4s_a_scala_library_providing_an_abstract/)
-- [SCALAC| Scala developer| LATAM| Remote| Full time| US $ 2,500 - 7,000 per month](https://www.reddit.com/r/scala/comments/vi7qt1/scalac_scala_developer_latam_remote_full_time_us/)
-- [Disjoint Graph Unions: Performance Case Study](https://www.reddit.com/r/scala/comments/vhvdmx/disjoint_graph_unions_performance_case_study/)
-- [scala monorepo](https://www.reddit.com/r/scala/comments/vhs4cj/scala_monorepo/)
-- [Learn programming using Scala](https://www.reddit.com/r/scala/comments/vhiqqb/learn_programming_using_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

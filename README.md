@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Jun 27, 2022&rpar;](https://www.reddit.com/r/scala/comments/vlfqmv/this_week_in_scala_jun_27_2022/)
+- [sbt plugin for enforce conventional commits](https://www.reddit.com/r/scala/comments/vl8tgr/sbt_plugin_for_enforce_conventional_commits/)
+- [Diamond Architecture - How to build HUMONGOUS Apps FAST! - Part 3](https://www.reddit.com/r/scala/comments/vl8rzh/diamond_architecture_how_to_build_humongous_apps/)
+- [Simple games ported to Scala.js &lpar;Scala 3&rpar;](https://www.reddit.com/r/scala/comments/vl5rs3/simple_games_ported_to_scalajs_scala_3/)
 - [About compilation and run](https://www.reddit.com/r/scala/comments/vktoes/about_compilation_and_run/)
 - [Quarkus &amp; Scala](https://www.reddit.com/r/scala/comments/vk51qh/quarkus_scala/)
 - [Should I learn Scala if I&#39;m using PySpark](https://www.reddit.com/r/scala/comments/vk4qjq/should_i_learn_scala_if_im_using_pyspark/)
 - [ZIO 2.0 Released](https://www.reddit.com/r/scala/comments/vjrvux/zio_20_released/)
 - [Learning Scala for Big Data](https://www.reddit.com/r/scala/comments/vjez02/learning_scala_for_big_data/)
 - [Should I begin with Scala or Hadoop in Big Data ?](https://www.reddit.com/r/scala/comments/vje5zs/should_i_begin_with_scala_or_hadoop_in_big_data/)
-- [Why is Scala a mildly loved language?](https://www.reddit.com/r/scala/comments/vjdxw6/why_is_scala_a_mildly_loved_language/)
-- [2022 Laminar Ecosystem Update – new libraries, web components, tutorials, sponsors](https://www.reddit.com/r/scala/comments/visorh/2022_laminar_ecosystem_update_new_libraries_web/)
-- [Build an Android Video Calling App using Android Studio and Video SDK](https://www.reddit.com/r/scala/comments/vir8nx/build_an_android_video_calling_app_using_android/)
-- [How to print an array in Scala?](https://www.reddit.com/r/scala/comments/viioyi/how_to_print_an_array_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

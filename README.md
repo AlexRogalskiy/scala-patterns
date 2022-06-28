@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala FP - Open positions](https://www.reddit.com/r/scala/comments/vm3xlg/scala_fp_open_positions/)
+- [Fields — Scala Validation Library](https://www.reddit.com/r/scala/comments/vm3a7n/fields_scala_validation_library/)
+- [Slick tutorial in Scala &lpar;part 1&rpar;](https://www.reddit.com/r/scala/comments/vm1zdz/slick_tutorial_in_scala_part_1/)
+- [Scala 3 + ZIO 2 + zhttp + Laminar](https://www.reddit.com/r/scala/comments/vm0sl0/scala_3_zio_2_zhttp_laminar/)
+- [Self Taught I Came Up With Leet-code Solution topKFrequent Is There Anyway To Optimize It Much Further I Would Be Grateful For Your tips or hints](https://www.reddit.com/r/scala/comments/vlxwfm/self_taught_i_came_up_with_leetcode_solution/)
+- [scala-interactive-update: A CLI for interactively updating your Scala dependencies](https://www.reddit.com/r/scala/comments/vlwkp0/scalainteractiveupdate_a_cli_for_interactively/)
+- [sbt 1.7.0-RC1 released](https://www.reddit.com/r/scala/comments/vlrzf2/sbt_170rc1_released/)
 - [This week in #Scala &lpar;Jun 27, 2022&rpar;](https://www.reddit.com/r/scala/comments/vlfqmv/this_week_in_scala_jun_27_2022/)
 - [sbt plugin for enforce conventional commits](https://www.reddit.com/r/scala/comments/vl8tgr/sbt_plugin_for_enforce_conventional_commits/)
 - [Diamond Architecture - How to build HUMONGOUS Apps FAST! - Part 3](https://www.reddit.com/r/scala/comments/vl8rzh/diamond_architecture_how_to_build_humongous_apps/)
-- [Simple games ported to Scala.js &lpar;Scala 3&rpar;](https://www.reddit.com/r/scala/comments/vl5rs3/simple_games_ported_to_scalajs_scala_3/)
-- [About compilation and run](https://www.reddit.com/r/scala/comments/vktoes/about_compilation_and_run/)
-- [Quarkus &amp; Scala](https://www.reddit.com/r/scala/comments/vk51qh/quarkus_scala/)
-- [Should I learn Scala if I&#39;m using PySpark](https://www.reddit.com/r/scala/comments/vk4qjq/should_i_learn_scala_if_im_using_pyspark/)
-- [ZIO 2.0 Released](https://www.reddit.com/r/scala/comments/vjrvux/zio_20_released/)
-- [Learning Scala for Big Data](https://www.reddit.com/r/scala/comments/vjez02/learning_scala_for_big_data/)
-- [Should I begin with Scala or Hadoop in Big Data ?](https://www.reddit.com/r/scala/comments/vje5zs/should_i_begin_with_scala_or_hadoop_in_big_data/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

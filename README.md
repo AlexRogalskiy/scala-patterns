@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ergonomics of End Markers](https://www.reddit.com/r/scala/comments/vmlfct/ergonomics_of_end_markers/)
+- [Mónadas en Cats parte 13](https://www.reddit.com/r/scala/comments/vmek5c/mónadas_en_cats_parte_13/)
 - [Scala FP - Open positions](https://www.reddit.com/r/scala/comments/vm3xlg/scala_fp_open_positions/)
 - [Fields — Scala Validation Library](https://www.reddit.com/r/scala/comments/vm3a7n/fields_scala_validation_library/)
 - [Slick tutorial in Scala &lpar;part 1&rpar;](https://www.reddit.com/r/scala/comments/vm1zdz/slick_tutorial_in_scala_part_1/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [scala-interactive-update: A CLI for interactively updating your Scala dependencies](https://www.reddit.com/r/scala/comments/vlwkp0/scalainteractiveupdate_a_cli_for_interactively/)
 - [sbt 1.7.0-RC1 released](https://www.reddit.com/r/scala/comments/vlrzf2/sbt_170rc1_released/)
 - [This week in #Scala &lpar;Jun 27, 2022&rpar;](https://www.reddit.com/r/scala/comments/vlfqmv/this_week_in_scala_jun_27_2022/)
-- [sbt plugin for enforce conventional commits](https://www.reddit.com/r/scala/comments/vl8tgr/sbt_plugin_for_enforce_conventional_commits/)
-- [Diamond Architecture - How to build HUMONGOUS Apps FAST! - Part 3](https://www.reddit.com/r/scala/comments/vl8rzh/diamond_architecture_how_to_build_humongous_apps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Pants 2.12: Improved performance for common cases, IDE support for Java and Scala &lpar;via BSP&rpar;](https://www.reddit.com/r/scala/comments/vnk6cb/pants_212_improved_performance_for_common_cases/)
+- [Scala performing API calls, Paralell programing, Kafka.](https://www.reddit.com/r/scala/comments/vnc60s/scala_performing_api_calls_paralell_programing/)
+- [A Prelude of Purity: Scaling Back ZIO](https://www.reddit.com/r/scala/comments/vnb06w/a_prelude_of_purity_scaling_back_zio/)
 - [Ergonomics of End Markers](https://www.reddit.com/r/scala/comments/vmlfct/ergonomics_of_end_markers/)
 - [Mónadas en Cats parte 13](https://www.reddit.com/r/scala/comments/vmek5c/mónadas_en_cats_parte_13/)
 - [Scala FP - Open positions](https://www.reddit.com/r/scala/comments/vm3xlg/scala_fp_open_positions/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Slick tutorial in Scala &lpar;part 1&rpar;](https://www.reddit.com/r/scala/comments/vm1zdz/slick_tutorial_in_scala_part_1/)
 - [Scala 3 + ZIO 2 + zhttp + Laminar](https://www.reddit.com/r/scala/comments/vm0sl0/scala_3_zio_2_zhttp_laminar/)
 - [Self Taught I Came Up With Leet-code Solution topKFrequent Is There Anyway To Optimize It Much Further I Would Be Grateful For Your tips or hints](https://www.reddit.com/r/scala/comments/vlxwfm/self_taught_i_came_up_with_leetcode_solution/)
-- [scala-interactive-update: A CLI for interactively updating your Scala dependencies](https://www.reddit.com/r/scala/comments/vlwkp0/scalainteractiveupdate_a_cli_for_interactively/)
-- [sbt 1.7.0-RC1 released](https://www.reddit.com/r/scala/comments/vlrzf2/sbt_170rc1_released/)
-- [This week in #Scala &lpar;Jun 27, 2022&rpar;](https://www.reddit.com/r/scala/comments/vlfqmv/this_week_in_scala_jun_27_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

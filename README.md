@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [scala-cli a replacement for ammonite?](https://www.reddit.com/r/scala/comments/vojngb/scalacli_a_replacement_for_ammonite/)
+- [Scala CLI v0.1.9 is out](https://www.reddit.com/r/scala/comments/vo6iq5/scala_cli_v019_is_out/)
 - [Pants 2.12: Improved performance for common cases, IDE support for Java and Scala &lpar;via BSP&rpar;](https://www.reddit.com/r/scala/comments/vnk6cb/pants_212_improved_performance_for_common_cases/)
 - [Scala performing API calls, Paralell programing, Kafka.](https://www.reddit.com/r/scala/comments/vnc60s/scala_performing_api_calls_paralell_programing/)
 - [A Prelude of Purity: Scaling Back ZIO](https://www.reddit.com/r/scala/comments/vnb06w/a_prelude_of_purity_scaling_back_zio/)
 - [Ergonomics of End Markers](https://www.reddit.com/r/scala/comments/vmlfct/ergonomics_of_end_markers/)
-- [Mónadas en Cats parte 13](https://www.reddit.com/r/scala/comments/vmek5c/mónadas_en_cats_parte_13/)
 - [Scala FP - Open positions](https://www.reddit.com/r/scala/comments/vm3xlg/scala_fp_open_positions/)
 - [Fields — Scala Validation Library](https://www.reddit.com/r/scala/comments/vm3a7n/fields_scala_validation_library/)
 - [Slick tutorial in Scala &lpar;part 1&rpar;](https://www.reddit.com/r/scala/comments/vm1zdz/slick_tutorial_in_scala_part_1/)
 - [Scala 3 + ZIO 2 + zhttp + Laminar](https://www.reddit.com/r/scala/comments/vm0sl0/scala_3_zio_2_zhttp_laminar/)
-- [Self Taught I Came Up With Leet-code Solution topKFrequent Is There Anyway To Optimize It Much Further I Would Be Grateful For Your tips or hints](https://www.reddit.com/r/scala/comments/vlxwfm/self_taught_i_came_up_with_leetcode_solution/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

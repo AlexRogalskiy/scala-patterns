@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why isn&#39;t Scala listed in the JavaFX list of languages of IntelliJ IDEA?](https://www.reddit.com/r/scala/comments/vq74ye/why_isnt_scala_listed_in_the_javafx_list_of/)
+- [sbt 1.7.0-RC2 released](https://www.reddit.com/r/scala/comments/vq5vno/sbt_170rc2_released/)
+- [scopt 4.1.0 released](https://www.reddit.com/r/scala/comments/vq10ar/scopt_410_released/)
+- [jOOQ as a dependency in Scala 3 is broken?](https://www.reddit.com/r/scala/comments/vpxvg8/jooq_as_a_dependency_in_scala_3_is_broken/)
+- [Mónadas en Cats parte 14](https://www.reddit.com/r/scala/comments/vpjcst/mónadas_en_cats_parte_14/)
 - [Some notes on developing a structured logging API for Scala](https://www.reddit.com/r/scala/comments/vpdk0o/some_notes_on_developing_a_structured_logging_api/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/vp486c/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Anton Sviridov: Part 1 - The Scala Cross Platform Story](https://www.reddit.com/r/scala/comments/vouzim/anton_sviridov_part_1_the_scala_cross_platform/)
 - [scala-cli a replacement for ammonite?](https://www.reddit.com/r/scala/comments/vojngb/scalacli_a_replacement_for_ammonite/)
 - [Scala CLI v0.1.9 is out](https://www.reddit.com/r/scala/comments/vo6iq5/scala_cli_v019_is_out/)
-- [Pants 2.12: Improved performance for common cases, IDE support for Java and Scala &lpar;via BSP&rpar;](https://www.reddit.com/r/scala/comments/vnk6cb/pants_212_improved_performance_for_common_cases/)
-- [Scala performing API calls, Paralell programing, Kafka.](https://www.reddit.com/r/scala/comments/vnc60s/scala_performing_api_calls_paralell_programing/)
-- [A Prelude of Purity: Scaling Back ZIO](https://www.reddit.com/r/scala/comments/vnb06w/a_prelude_of_purity_scaling_back_zio/)
-- [Ergonomics of End Markers](https://www.reddit.com/r/scala/comments/vmlfct/ergonomics_of_end_markers/)
-- [Scala FP - Open positions](https://www.reddit.com/r/scala/comments/vm3xlg/scala_fp_open_positions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

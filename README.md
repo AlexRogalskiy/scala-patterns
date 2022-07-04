@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Jul 4, 2022&rpar;](https://www.reddit.com/r/scala/comments/vqosfj/this_week_in_scala_jul_4_2022/)
+- [Write Y Combinator to understand recursions better](https://www.reddit.com/r/scala/comments/vqhto2/write_y_combinator_to_understand_recursions_better/)
+- [High school research on open source software contributors](https://www.reddit.com/r/scala/comments/vqdnsx/high_school_research_on_open_source_software/)
 - [Why isn&#39;t Scala listed in the JavaFX list of languages of IntelliJ IDEA?](https://www.reddit.com/r/scala/comments/vq74ye/why_isnt_scala_listed_in_the_javafx_list_of/)
 - [sbt 1.7.0-RC2 released](https://www.reddit.com/r/scala/comments/vq5vno/sbt_170rc2_released/)
 - [scopt 4.1.0 released](https://www.reddit.com/r/scala/comments/vq10ar/scopt_410_released/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Mónadas en Cats parte 14](https://www.reddit.com/r/scala/comments/vpjcst/mónadas_en_cats_parte_14/)
 - [Some notes on developing a structured logging API for Scala](https://www.reddit.com/r/scala/comments/vpdk0o/some_notes_on_developing_a_structured_logging_api/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/vp486c/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [Anton Sviridov: Part 1 - The Scala Cross Platform Story](https://www.reddit.com/r/scala/comments/vouzim/anton_sviridov_part_1_the_scala_cross_platform/)
-- [scala-cli a replacement for ammonite?](https://www.reddit.com/r/scala/comments/vojngb/scalacli_a_replacement_for_ammonite/)
-- [Scala CLI v0.1.9 is out](https://www.reddit.com/r/scala/comments/vo6iq5/scala_cli_v019_is_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

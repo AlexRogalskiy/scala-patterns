@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [“Replaying” data through an application that is essentially a ETL](https://www.reddit.com/r/scala/comments/vsdw3h/replaying_data_through_an_application_that_is/)
+- [Raspberry pi 4b.](https://www.reddit.com/r/scala/comments/vs41dy/raspberry_pi_4b/)
+- [I used Scala.js to make a tool for bootstrapping ZIO applications](https://www.reddit.com/r/scala/comments/vrywh3/i_used_scalajs_to_make_a_tool_for_bootstrapping/)
+- [Mónadas en Cats parte 15](https://www.reddit.com/r/scala/comments/vrp231/mónadas_en_cats_parte_15/)
 - [This week in #Scala &lpar;Jul 4, 2022&rpar;](https://www.reddit.com/r/scala/comments/vqosfj/this_week_in_scala_jul_4_2022/)
 - [Write Y Combinator to understand recursions better](https://www.reddit.com/r/scala/comments/vqhto2/write_y_combinator_to_understand_recursions_better/)
 - [High school research on open source software contributors](https://www.reddit.com/r/scala/comments/vqdnsx/high_school_research_on_open_source_software/)
 - [Why isn&#39;t Scala listed in the JavaFX list of languages of IntelliJ IDEA?](https://www.reddit.com/r/scala/comments/vq74ye/why_isnt_scala_listed_in_the_javafx_list_of/)
 - [sbt 1.7.0-RC2 released](https://www.reddit.com/r/scala/comments/vq5vno/sbt_170rc2_released/)
 - [scopt 4.1.0 released](https://www.reddit.com/r/scala/comments/vq10ar/scopt_410_released/)
-- [jOOQ as a dependency in Scala 3 is broken?](https://www.reddit.com/r/scala/comments/vpxvg8/jooq_as_a_dependency_in_scala_3_is_broken/)
-- [Mónadas en Cats parte 14](https://www.reddit.com/r/scala/comments/vpjcst/mónadas_en_cats_parte_14/)
-- [Some notes on developing a structured logging API for Scala](https://www.reddit.com/r/scala/comments/vpdk0o/some_notes_on_developing_a_structured_logging_api/)
-- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/vp486c/who_is_hiring_monthly_rscala_job_postings_thread/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

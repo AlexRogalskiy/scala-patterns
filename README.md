@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Using FS2 alongside ZIO?](https://www.reddit.com/r/scala/comments/vstagn/using_fs2_alongside_zio/)
+- [Next step towards learning](https://www.reddit.com/r/scala/comments/vsnmyj/next_step_towards_learning/)
+- [Pleasant to use Scala libraries](https://www.reddit.com/r/scala/comments/vsmqyf/pleasant_to_use_scala_libraries/)
 - [“Replaying” data through an application that is essentially a ETL](https://www.reddit.com/r/scala/comments/vsdw3h/replaying_data_through_an_application_that_is/)
 - [Raspberry pi 4b.](https://www.reddit.com/r/scala/comments/vs41dy/raspberry_pi_4b/)
 - [I used Scala.js to make a tool for bootstrapping ZIO applications](https://www.reddit.com/r/scala/comments/vrywh3/i_used_scalajs_to_make_a_tool_for_bootstrapping/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Jul 4, 2022&rpar;](https://www.reddit.com/r/scala/comments/vqosfj/this_week_in_scala_jul_4_2022/)
 - [Write Y Combinator to understand recursions better](https://www.reddit.com/r/scala/comments/vqhto2/write_y_combinator_to_understand_recursions_better/)
 - [High school research on open source software contributors](https://www.reddit.com/r/scala/comments/vqdnsx/high_school_research_on_open_source_software/)
-- [Why isn&#39;t Scala listed in the JavaFX list of languages of IntelliJ IDEA?](https://www.reddit.com/r/scala/comments/vq74ye/why_isnt_scala_listed_in_the_javafx_list_of/)
-- [sbt 1.7.0-RC2 released](https://www.reddit.com/r/scala/comments/vq5vno/sbt_170rc2_released/)
-- [scopt 4.1.0 released](https://www.reddit.com/r/scala/comments/vq10ar/scopt_410_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

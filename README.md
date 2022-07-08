@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Video: NonEmptyLists more or less?](https://www.reddit.com/r/scala/comments/vtw81s/video_nonemptylists_more_or_less/)
+- [Is anyone using ScalikeJDBC with ZIO in production ?](https://www.reddit.com/r/scala/comments/vtv6cc/is_anyone_using_scalikejdbc_with_zio_in_production/)
+- [Is “Functional Programming in Scala” 1st edition still relevant?](https://www.reddit.com/r/scala/comments/vtrsi3/is_functional_programming_in_scala_1st_edition/)
+- [Deprecation of Scala 2 syntax?](https://www.reddit.com/r/scala/comments/vtrnb7/deprecation_of_scala_2_syntax/)
+- [What VSCode extension to use?](https://www.reddit.com/r/scala/comments/vt9ckn/what_vscode_extension_to_use/)
+- [Mónadas en Cats parte 16](https://www.reddit.com/r/scala/comments/vt9ad5/mónadas_en_cats_parte_16/)
 - [Using FS2 alongside ZIO?](https://www.reddit.com/r/scala/comments/vstagn/using_fs2_alongside_zio/)
 - [Next step towards learning](https://www.reddit.com/r/scala/comments/vsnmyj/next_step_towards_learning/)
 - [Pleasant to use Scala libraries](https://www.reddit.com/r/scala/comments/vsmqyf/pleasant_to_use_scala_libraries/)
 - [“Replaying” data through an application that is essentially a ETL](https://www.reddit.com/r/scala/comments/vsdw3h/replaying_data_through_an_application_that_is/)
-- [Raspberry pi 4b.](https://www.reddit.com/r/scala/comments/vs41dy/raspberry_pi_4b/)
-- [I used Scala.js to make a tool for bootstrapping ZIO applications](https://www.reddit.com/r/scala/comments/vrywh3/i_used_scalajs_to_make_a_tool_for_bootstrapping/)
-- [Mónadas en Cats parte 15](https://www.reddit.com/r/scala/comments/vrp231/mónadas_en_cats_parte_15/)
-- [This week in #Scala &lpar;Jul 4, 2022&rpar;](https://www.reddit.com/r/scala/comments/vqosfj/this_week_in_scala_jul_4_2022/)
-- [Write Y Combinator to understand recursions better](https://www.reddit.com/r/scala/comments/vqhto2/write_y_combinator_to_understand_recursions_better/)
-- [High school research on open source software contributors](https://www.reddit.com/r/scala/comments/vqdnsx/high_school_research_on_open_source_software/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

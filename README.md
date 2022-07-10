@@ -271,7 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to send email in Scala?](https://www.reddit.com/r/scala/comments/vup51y/how_to_send_email_in_scala/)
+- [Ref in cats-effect. When should I use it, and when should I not?](https://www.reddit.com/r/scala/comments/vvf1v3/ref_in_catseffect_when_should_i_use_it_and_when/)
+- [What do you think are the defining features that make Scala uniquely better than other languages?](https://www.reddit.com/r/scala/comments/vv6ijo/what_do_you_think_are_the_defining_features_that/)
+- [Metals in Code-OSS absolutely no highlighting](https://www.reddit.com/r/scala/comments/vv0qdq/metals_in_codeoss_absolutely_no_highlighting/)
 - [Pre-SIP: Suspended functions and continuations in Scala 3](https://www.reddit.com/r/scala/comments/vuozgo/presip_suspended_functions_and_continuations_in/)
 - [Does sbt has a &#39;sbt init&#39; similar?](https://www.reddit.com/r/scala/comments/vullkp/does_sbt_has_a_sbt_init_similar/)
 - [ZIO 2.0 course from Rock the JVM](https://www.reddit.com/r/scala/comments/vudlac/zio_20_course_from_rock_the_jvm/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Natchez and Akka Http](https://www.reddit.com/r/scala/comments/vu4w9t/natchez_and_akka_http/)
 - [Video: NonEmptyLists more or less?](https://www.reddit.com/r/scala/comments/vtw81s/video_nonemptylists_more_or_less/)
 - [Is anyone using ScalikeJDBC with ZIO in production ?](https://www.reddit.com/r/scala/comments/vtv6cc/is_anyone_using_scalikejdbc_with_zio_in_production/)
-- [Is “Functional Programming in Scala” 1st edition still relevant?](https://www.reddit.com/r/scala/comments/vtrsi3/is_functional_programming_in_scala_1st_edition/)
-- [Deprecation of Scala 2 syntax?](https://www.reddit.com/r/scala/comments/vtrnb7/deprecation_of_scala_2_syntax/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

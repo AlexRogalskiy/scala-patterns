@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Beginner-intermediate project ideas?](https://www.reddit.com/r/scala/comments/vw4w9w/beginnerintermediate_project_ideas/)
+- [sbt 1.7.0 released](https://www.reddit.com/r/scala/comments/vw447r/sbt_170_released/)
+- [This week in #Scala &lpar;Jul 11, 2022&rpar;](https://www.reddit.com/r/scala/comments/vw1w66/this_week_in_scala_jul_11_2022/)
+- [Scala Slander Meme](https://www.reddit.com/r/scala/comments/vvsfdo/scala_slander_meme/)
+- [Cats vs ZIO](https://www.reddit.com/r/scala/comments/vvq1j7/cats_vs_zio/)
+- [My Top 7 Most Underrated IntelliJ IDEA Features](https://www.reddit.com/r/scala/comments/vvm7tr/my_top_7_most_underrated_intellij_idea_features/)
 - [Ref in cats-effect. When should I use it, and when should I not?](https://www.reddit.com/r/scala/comments/vvf1v3/ref_in_catseffect_when_should_i_use_it_and_when/)
 - [What do you think are the defining features that make Scala uniquely better than other languages?](https://www.reddit.com/r/scala/comments/vv6ijo/what_do_you_think_are_the_defining_features_that/)
 - [Metals in Code-OSS absolutely no highlighting](https://www.reddit.com/r/scala/comments/vv0qdq/metals_in_codeoss_absolutely_no_highlighting/)
 - [Pre-SIP: Suspended functions and continuations in Scala 3](https://www.reddit.com/r/scala/comments/vuozgo/presip_suspended_functions_and_continuations_in/)
-- [Does sbt has a &#39;sbt init&#39; similar?](https://www.reddit.com/r/scala/comments/vullkp/does_sbt_has_a_sbt_init_similar/)
-- [ZIO 2.0 course from Rock the JVM](https://www.reddit.com/r/scala/comments/vudlac/zio_20_course_from_rock_the_jvm/)
-- [Metadata types with Scala 3](https://www.reddit.com/r/scala/comments/vu9uml/metadata_types_with_scala_3/)
-- [Natchez and Akka Http](https://www.reddit.com/r/scala/comments/vu4w9t/natchez_and_akka_http/)
-- [Video: NonEmptyLists more or less?](https://www.reddit.com/r/scala/comments/vtw81s/video_nonemptylists_more_or_less/)
-- [Is anyone using ScalikeJDBC with ZIO in production ?](https://www.reddit.com/r/scala/comments/vtv6cc/is_anyone_using_scalikejdbc_with_zio_in_production/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

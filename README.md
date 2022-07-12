@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [reibitto&#39;s blog - Remote caching with sbt and S3 across multiple machines](https://www.reddit.com/r/scala/comments/vwqnpz/reibittos_blog_remote_caching_with_sbt_and_s3/)
+- [Scala supports top level functions? Like Clojure functions.](https://www.reddit.com/r/scala/comments/vwq1rg/scala_supports_top_level_functions_like_clojure/)
 - [Beginner-intermediate project ideas?](https://www.reddit.com/r/scala/comments/vw4w9w/beginnerintermediate_project_ideas/)
 - [sbt 1.7.0 released](https://www.reddit.com/r/scala/comments/vw447r/sbt_170_released/)
 - [This week in #Scala &lpar;Jul 11, 2022&rpar;](https://www.reddit.com/r/scala/comments/vw1w66/this_week_in_scala_jul_11_2022/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [My Top 7 Most Underrated IntelliJ IDEA Features](https://www.reddit.com/r/scala/comments/vvm7tr/my_top_7_most_underrated_intellij_idea_features/)
 - [Ref in cats-effect. When should I use it, and when should I not?](https://www.reddit.com/r/scala/comments/vvf1v3/ref_in_catseffect_when_should_i_use_it_and_when/)
 - [What do you think are the defining features that make Scala uniquely better than other languages?](https://www.reddit.com/r/scala/comments/vv6ijo/what_do_you_think_are_the_defining_features_that/)
-- [Metals in Code-OSS absolutely no highlighting](https://www.reddit.com/r/scala/comments/vv0qdq/metals_in_codeoss_absolutely_no_highlighting/)
-- [Pre-SIP: Suspended functions and continuations in Scala 3](https://www.reddit.com/r/scala/comments/vuozgo/presip_suspended_functions_and_continuations_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

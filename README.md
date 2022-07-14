@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Index shows 1K Scala 3 projects](https://www.reddit.com/r/scala/comments/vya50g/scala_index_shows_1k_scala_3_projects/)
+- [Scala Improvement Process - Evolving Scala openly and collaboratively](https://www.reddit.com/r/scala/comments/vy8y6k/scala_improvement_process_evolving_scala_openly/)
+- [Scala 3: modifying product types in compile-time](https://www.reddit.com/r/scala/comments/vy6o7t/scala_3_modifying_product_types_in_compiletime/)
+- [Big Scala projects getting ported to Scala 3?](https://www.reddit.com/r/scala/comments/vy51s0/big_scala_projects_getting_ported_to_scala_3/)
 - [ZIO Fundamentals Training](https://www.reddit.com/r/scala/comments/vx9000/zio_fundamentals_training/)
 - [Mónadas en Cats parte 17](https://www.reddit.com/r/scala/comments/vx8te9/mónadas_en_cats_parte_17/)
 - [sbt 1.7.1 released](https://www.reddit.com/r/scala/comments/vx2uky/sbt_171_released/)
 - [reibitto&#39;s blog - Remote caching with sbt and S3 across multiple machines](https://www.reddit.com/r/scala/comments/vwqnpz/reibittos_blog_remote_caching_with_sbt_and_s3/)
 - [Scala supports top level functions? Like Clojure functions.](https://www.reddit.com/r/scala/comments/vwq1rg/scala_supports_top_level_functions_like_clojure/)
-- [Beginner-intermediate project ideas?](https://www.reddit.com/r/scala/comments/vw4w9w/beginnerintermediate_project_ideas/)
 - [sbt 1.7.0 released](https://www.reddit.com/r/scala/comments/vw447r/sbt_170_released/)
-- [This week in #Scala &lpar;Jul 11, 2022&rpar;](https://www.reddit.com/r/scala/comments/vw1w66/this_week_in_scala_jul_11_2022/)
-- [Scala Slander Meme](https://www.reddit.com/r/scala/comments/vvsfdo/scala_slander_meme/)
-- [Cats vs ZIO](https://www.reddit.com/r/scala/comments/vvq1j7/cats_vs_zio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

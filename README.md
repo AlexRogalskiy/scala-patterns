@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Any FS2 + Kafka github projects for reference?](https://www.reddit.com/r/scala/comments/vzdpnf/any_fs2_kafka_github_projects_for_reference/)
+- [Is there anyone using Scala 3 with Scala Native in production?](https://www.reddit.com/r/scala/comments/vysjvt/is_there_anyone_using_scala_3_with_scala_native/)
+- [Tooling Talks - Anton Sviridov: Part 2 - I Do As the Crystal Guides](https://www.reddit.com/r/scala/comments/vyqz7x/tooling_talks_anton_sviridov_part_2_i_do_as_the/)
+- [The way forward on my Scala learning journey.](https://www.reddit.com/r/scala/comments/vyo6d3/the_way_forward_on_my_scala_learning_journey/)
 - [Scala Index shows 1K Scala 3 projects](https://www.reddit.com/r/scala/comments/vya50g/scala_index_shows_1k_scala_3_projects/)
 - [Scala Improvement Process - Evolving Scala openly and collaboratively](https://www.reddit.com/r/scala/comments/vy8y6k/scala_improvement_process_evolving_scala_openly/)
 - [Scala 3: modifying product types in compile-time](https://www.reddit.com/r/scala/comments/vy6o7t/scala_3_modifying_product_types_in_compiletime/)
 - [Big Scala projects getting ported to Scala 3?](https://www.reddit.com/r/scala/comments/vy51s0/big_scala_projects_getting_ported_to_scala_3/)
 - [ZIO Fundamentals Training](https://www.reddit.com/r/scala/comments/vx9000/zio_fundamentals_training/)
 - [Mónadas en Cats parte 17](https://www.reddit.com/r/scala/comments/vx8te9/mónadas_en_cats_parte_17/)
-- [sbt 1.7.1 released](https://www.reddit.com/r/scala/comments/vx2uky/sbt_171_released/)
-- [reibitto&#39;s blog - Remote caching with sbt and S3 across multiple machines](https://www.reddit.com/r/scala/comments/vwqnpz/reibittos_blog_remote_caching_with_sbt_and_s3/)
-- [Scala supports top level functions? Like Clojure functions.](https://www.reddit.com/r/scala/comments/vwq1rg/scala_supports_top_level_functions_like_clojure/)
-- [sbt 1.7.0 released](https://www.reddit.com/r/scala/comments/vw447r/sbt_170_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

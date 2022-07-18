@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Jul 18, 2022&rpar;](https://www.reddit.com/r/scala/comments/w1iob3/this_week_in_scala_jul_18_2022/)
+- [This is the end! &lpar;Scala Project From Scratch #12&rpar;](https://www.reddit.com/r/scala/comments/w180tk/this_is_the_end_scala_project_from_scratch_12/)
 - [Examples on http4s + sangria?](https://www.reddit.com/r/scala/comments/w0ppcz/examples_on_http4s_sangria/)
 - [Scala JSON Parser](https://www.reddit.com/r/scala/comments/w0dp0t/scala_json_parser/)
 - [Any FS2 + Kafka github projects for reference?](https://www.reddit.com/r/scala/comments/vzdpnf/any_fs2_kafka_github_projects_for_reference/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [The way forward on my Scala learning journey.](https://www.reddit.com/r/scala/comments/vyo6d3/the_way_forward_on_my_scala_learning_journey/)
 - [Scala Index shows 1K Scala 3 projects](https://www.reddit.com/r/scala/comments/vya50g/scala_index_shows_1k_scala_3_projects/)
 - [Scala Improvement Process - Evolving Scala openly and collaboratively](https://www.reddit.com/r/scala/comments/vy8y6k/scala_improvement_process_evolving_scala_openly/)
-- [Scala 3: modifying product types in compile-time](https://www.reddit.com/r/scala/comments/vy6o7t/scala_3_modifying_product_types_in_compiletime/)
-- [Big Scala projects getting ported to Scala 3?](https://www.reddit.com/r/scala/comments/vy51s0/big_scala_projects_getting_ported_to_scala_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Containers - Associating items by Type Class](https://www.reddit.com/r/scala/comments/w2bjdl/containers_associating_items_by_type_class/)
+- [Secure the Dependencies of your Scala Project on Github](https://www.reddit.com/r/scala/comments/w1zu5w/secure_the_dependencies_of_your_scala_project_on/)
+- [As a Scala developer what do you think about the Unison language?](https://www.reddit.com/r/scala/comments/w1uo9p/as_a_scala_developer_what_do_you_think_about_the/)
+- [Improving type safety with refined types](https://www.reddit.com/r/scala/comments/w1srs3/improving_type_safety_with_refined_types/)
+- [doobie map to PostGIS Point](https://www.reddit.com/r/scala/comments/w1pfgk/doobie_map_to_postgis_point/)
 - [This week in #Scala &lpar;Jul 18, 2022&rpar;](https://www.reddit.com/r/scala/comments/w1iob3/this_week_in_scala_jul_18_2022/)
 - [This is the end! &lpar;Scala Project From Scratch #12&rpar;](https://www.reddit.com/r/scala/comments/w180tk/this_is_the_end_scala_project_from_scratch_12/)
 - [Examples on http4s + sangria?](https://www.reddit.com/r/scala/comments/w0ppcz/examples_on_http4s_sangria/)
 - [Scala JSON Parser](https://www.reddit.com/r/scala/comments/w0dp0t/scala_json_parser/)
 - [Any FS2 + Kafka github projects for reference?](https://www.reddit.com/r/scala/comments/vzdpnf/any_fs2_kafka_github_projects_for_reference/)
-- [Is there anyone using Scala 3 with Scala Native in production?](https://www.reddit.com/r/scala/comments/vysjvt/is_there_anyone_using_scala_3_with_scala_native/)
-- [Tooling Talks - Anton Sviridov: Part 2 - I Do As the Crystal Guides](https://www.reddit.com/r/scala/comments/vyqz7x/tooling_talks_anton_sviridov_part_2_i_do_as_the/)
-- [The way forward on my Scala learning journey.](https://www.reddit.com/r/scala/comments/vyo6d3/the_way_forward_on_my_scala_learning_journey/)
-- [Scala Index shows 1K Scala 3 projects](https://www.reddit.com/r/scala/comments/vya50g/scala_index_shows_1k_scala_3_projects/)
-- [Scala Improvement Process - Evolving Scala openly and collaboratively](https://www.reddit.com/r/scala/comments/vy8y6k/scala_improvement_process_evolving_scala_openly/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

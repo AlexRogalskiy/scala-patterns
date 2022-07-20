@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Wrote a mill build tool completion script for Zsh. Demo and download in the link!](https://www.reddit.com/r/scala/comments/w33wv5/wrote_a_mill_build_tool_completion_script_for_zsh/)
+- [ScaLatin - Spanish Scala meetup, 26.07.2022](https://www.reddit.com/r/scala/comments/w2nwwd/scalatin_spanish_scala_meetup_26072022/)
 - [Containers - Associating items by Type Class](https://www.reddit.com/r/scala/comments/w2bjdl/containers_associating_items_by_type_class/)
 - [Secure the Dependencies of your Scala Project on Github](https://www.reddit.com/r/scala/comments/w1zu5w/secure_the_dependencies_of_your_scala_project_on/)
 - [As a Scala developer what do you think about the Unison language?](https://www.reddit.com/r/scala/comments/w1uo9p/as_a_scala_developer_what_do_you_think_about_the/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Jul 18, 2022&rpar;](https://www.reddit.com/r/scala/comments/w1iob3/this_week_in_scala_jul_18_2022/)
 - [This is the end! &lpar;Scala Project From Scratch #12&rpar;](https://www.reddit.com/r/scala/comments/w180tk/this_is_the_end_scala_project_from_scratch_12/)
 - [Examples on http4s + sangria?](https://www.reddit.com/r/scala/comments/w0ppcz/examples_on_http4s_sangria/)
-- [Scala JSON Parser](https://www.reddit.com/r/scala/comments/w0dp0t/scala_json_parser/)
-- [Any FS2 + Kafka github projects for reference?](https://www.reddit.com/r/scala/comments/vzdpnf/any_fs2_kafka_github_projects_for_reference/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

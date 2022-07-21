@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to teach fundamentals when you&#39;re coding so hiiiiigh](https://www.reddit.com/r/scala/comments/w45aaf/how_to_teach_fundamentals_when_youre_coding_so/)
+- [Hosting a scala play website?](https://www.reddit.com/r/scala/comments/w3rkkq/hosting_a_scala_play_website/)
+- [What is the most advanced functional programming concept that is commonly used in production Scala code that you have seen?](https://www.reddit.com/r/scala/comments/w3jzd5/what_is_the_most_advanced_functional_programming/)
 - [Wrote a mill build tool completion script for Zsh. Demo and download in the link!](https://www.reddit.com/r/scala/comments/w33wv5/wrote_a_mill_build_tool_completion_script_for_zsh/)
 - [ScaLatin - Spanish Scala meetup, 26.07.2022](https://www.reddit.com/r/scala/comments/w2nwwd/scalatin_spanish_scala_meetup_26072022/)
 - [Containers - Associating items by Type Class](https://www.reddit.com/r/scala/comments/w2bjdl/containers_associating_items_by_type_class/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [As a Scala developer what do you think about the Unison language?](https://www.reddit.com/r/scala/comments/w1uo9p/as_a_scala_developer_what_do_you_think_about_the/)
 - [Improving type safety with refined types](https://www.reddit.com/r/scala/comments/w1srs3/improving_type_safety_with_refined_types/)
 - [doobie map to PostGIS Point](https://www.reddit.com/r/scala/comments/w1pfgk/doobie_map_to_postgis_point/)
-- [This week in #Scala &lpar;Jul 18, 2022&rpar;](https://www.reddit.com/r/scala/comments/w1iob3/this_week_in_scala_jul_18_2022/)
-- [This is the end! &lpar;Scala Project From Scratch #12&rpar;](https://www.reddit.com/r/scala/comments/w180tk/this_is_the_end_scala_project_from_scratch_12/)
-- [Examples on http4s + sangria?](https://www.reddit.com/r/scala/comments/w0ppcz/examples_on_http4s_sangria/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

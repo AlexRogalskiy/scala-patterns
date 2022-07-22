@@ -271,7 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to teach fundamentals when you&#39;re coding so hiiiiigh](https://www.reddit.com/r/scala/comments/w45aaf/how_to_teach_fundamentals_when_youre_coding_so/)
+- [Help with implicit scopes](https://www.reddit.com/r/scala/comments/w4mm4o/help_with_implicit_scopes/)
+- [Concurrency in Scala with Cats-Effect. Two years old, but still useful.](https://www.reddit.com/r/scala/comments/w4b5sa/concurrency_in_scala_with_catseffect_two_years/)
+- [Mónadas en Cats parte 18](https://www.reddit.com/r/scala/comments/w47cwq/mónadas_en_cats_parte_18/)
 - [Hosting a scala play website?](https://www.reddit.com/r/scala/comments/w3rkkq/hosting_a_scala_play_website/)
 - [What is the most advanced functional programming concept that is commonly used in production Scala code that you have seen?](https://www.reddit.com/r/scala/comments/w3jzd5/what_is_the_most_advanced_functional_programming/)
 - [Wrote a mill build tool completion script for Zsh. Demo and download in the link!](https://www.reddit.com/r/scala/comments/w33wv5/wrote_a_mill_build_tool_completion_script_for_zsh/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Containers - Associating items by Type Class](https://www.reddit.com/r/scala/comments/w2bjdl/containers_associating_items_by_type_class/)
 - [Secure the Dependencies of your Scala Project on Github](https://www.reddit.com/r/scala/comments/w1zu5w/secure_the_dependencies_of_your_scala_project_on/)
 - [As a Scala developer what do you think about the Unison language?](https://www.reddit.com/r/scala/comments/w1uo9p/as_a_scala_developer_what_do_you_think_about_the/)
-- [Improving type safety with refined types](https://www.reddit.com/r/scala/comments/w1srs3/improving_type_safety_with_refined_types/)
-- [doobie map to PostGIS Point](https://www.reddit.com/r/scala/comments/w1pfgk/doobie_map_to_postgis_point/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

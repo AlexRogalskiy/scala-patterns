@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is it doable to write a library using either CATS effects or ZIO and have it consumed from Java and Scala?](https://www.reddit.com/r/scala/comments/w5kvai/is_it_doable_to_write_a_library_using_either_cats/)
+- [Someone help in this scala library?](https://www.reddit.com/r/scala/comments/w5dlbo/someone_help_in_this_scala_library/)
 - [Help with implicit scopes](https://www.reddit.com/r/scala/comments/w4mm4o/help_with_implicit_scopes/)
 - [Concurrency in Scala with Cats-Effect. Two years old, but still useful.](https://www.reddit.com/r/scala/comments/w4b5sa/concurrency_in_scala_with_catseffect_two_years/)
 - [Mónadas en Cats parte 18](https://www.reddit.com/r/scala/comments/w47cwq/mónadas_en_cats_parte_18/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Wrote a mill build tool completion script for Zsh. Demo and download in the link!](https://www.reddit.com/r/scala/comments/w33wv5/wrote_a_mill_build_tool_completion_script_for_zsh/)
 - [ScaLatin - Spanish Scala meetup, 26.07.2022](https://www.reddit.com/r/scala/comments/w2nwwd/scalatin_spanish_scala_meetup_26072022/)
 - [Containers - Associating items by Type Class](https://www.reddit.com/r/scala/comments/w2bjdl/containers_associating_items_by_type_class/)
-- [Secure the Dependencies of your Scala Project on Github](https://www.reddit.com/r/scala/comments/w1zu5w/secure_the_dependencies_of_your_scala_project_on/)
-- [As a Scala developer what do you think about the Unison language?](https://www.reddit.com/r/scala/comments/w1uo9p/as_a_scala_developer_what_do_you_think_about_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

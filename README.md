@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Coursier with ASDF version mamager?](https://www.reddit.com/r/scala/comments/w7dwue/coursier_with_asdf_version_mamager/)
+- [Scala interview preparation](https://www.reddit.com/r/scala/comments/w7apz0/scala_interview_preparation/)
+- [This week in #Scala &lpar;Jul 25, 2022&rpar;](https://www.reddit.com/r/scala/comments/w78ss3/this_week_in_scala_jul_25_2022/)
+- [Is ZIO and Cats Effects interoperable in both directions?](https://www.reddit.com/r/scala/comments/w6rgby/is_zio_and_cats_effects_interoperable_in_both/)
 - [sbt/scalatest library or plugin that only re-runs tests for code that changed](https://www.reddit.com/r/scala/comments/w6it6c/sbtscalatest_library_or_plugin_that_only_reruns/)
 - [Is it doable to write a library using either CATS effects or ZIO and have it consumed from Java and Scala?](https://www.reddit.com/r/scala/comments/w5kvai/is_it_doable_to_write_a_library_using_either_cats/)
 - [Someone help in this scala library?](https://www.reddit.com/r/scala/comments/w5dlbo/someone_help_in_this_scala_library/)
 - [Help with implicit scopes](https://www.reddit.com/r/scala/comments/w4mm4o/help_with_implicit_scopes/)
 - [Concurrency in Scala with Cats-Effect. Two years old, but still useful.](https://www.reddit.com/r/scala/comments/w4b5sa/concurrency_in_scala_with_catseffect_two_years/)
-- [Mónadas en Cats parte 18](https://www.reddit.com/r/scala/comments/w47cwq/mónadas_en_cats_parte_18/)
 - [Hosting a scala play website?](https://www.reddit.com/r/scala/comments/w3rkkq/hosting_a_scala_play_website/)
-- [What is the most advanced functional programming concept that is commonly used in production Scala code that you have seen?](https://www.reddit.com/r/scala/comments/w3jzd5/what_is_the_most_advanced_functional_programming/)
-- [Wrote a mill build tool completion script for Zsh. Demo and download in the link!](https://www.reddit.com/r/scala/comments/w33wv5/wrote_a_mill_build_tool_completion_script_for_zsh/)
-- [ScaLatin - Spanish Scala meetup, 26.07.2022](https://www.reddit.com/r/scala/comments/w2nwwd/scalatin_spanish_scala_meetup_26072022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

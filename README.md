@@ -271,7 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Coursier with ASDF version mamager?](https://www.reddit.com/r/scala/comments/w7dwue/coursier_with_asdf_version_mamager/)
+- [Happy Path Programming - ZIO 2 dot Ohhhhh!](https://www.reddit.com/r/scala/comments/w7zvlm/happy_path_programming_zio_2_dot_ohhhhh/)
 - [Scala interview preparation](https://www.reddit.com/r/scala/comments/w7apz0/scala_interview_preparation/)
 - [This week in #Scala &lpar;Jul 25, 2022&rpar;](https://www.reddit.com/r/scala/comments/w78ss3/this_week_in_scala_jul_25_2022/)
 - [Is ZIO and Cats Effects interoperable in both directions?](https://www.reddit.com/r/scala/comments/w6rgby/is_zio_and_cats_effects_interoperable_in_both/)

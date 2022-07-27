@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [IntelliJ Scala Plugin 2022.2 Is Out!](https://www.reddit.com/r/scala/comments/w8w3tu/intellij_scala_plugin_20222_is_out/)
+- [How many of you are using Monix?](https://www.reddit.com/r/scala/comments/w8rmw9/how_many_of_you_are_using_monix/)
 - [Happy Path Programming - ZIO 2 dot Ohhhhh!](https://www.reddit.com/r/scala/comments/w7zvlm/happy_path_programming_zio_2_dot_ohhhhh/)
 - [Scala interview preparation](https://www.reddit.com/r/scala/comments/w7apz0/scala_interview_preparation/)
 - [This week in #Scala &lpar;Jul 25, 2022&rpar;](https://www.reddit.com/r/scala/comments/w78ss3/this_week_in_scala_jul_25_2022/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Is it doable to write a library using either CATS effects or ZIO and have it consumed from Java and Scala?](https://www.reddit.com/r/scala/comments/w5kvai/is_it_doable_to_write_a_library_using_either_cats/)
 - [Someone help in this scala library?](https://www.reddit.com/r/scala/comments/w5dlbo/someone_help_in_this_scala_library/)
 - [Help with implicit scopes](https://www.reddit.com/r/scala/comments/w4mm4o/help_with_implicit_scopes/)
-- [Concurrency in Scala with Cats-Effect. Two years old, but still useful.](https://www.reddit.com/r/scala/comments/w4b5sa/concurrency_in_scala_with_catseffect_two_years/)
-- [Hosting a scala play website?](https://www.reddit.com/r/scala/comments/w3rkkq/hosting_a_scala_play_website/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

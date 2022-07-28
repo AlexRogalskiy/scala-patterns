@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Mill, Cask, and SBT](https://www.reddit.com/r/scala/comments/w9rjgp/mill_cask_and_sbt/)
+- [What is the best way to create partial indexes with Slick?](https://www.reddit.com/r/scala/comments/w9j9v3/what_is_the_best_way_to_create_partial_indexes/)
+- [[IfYouUse] Question about jedis and sentinels](https://www.reddit.com/r/scala/comments/w93ylz/ifyouuse_question_about_jedis_and_sentinels/)
 - [IntelliJ Scala Plugin 2022.2 Is Out!](https://www.reddit.com/r/scala/comments/w8w3tu/intellij_scala_plugin_20222_is_out/)
 - [How many of you are using Monix?](https://www.reddit.com/r/scala/comments/w8rmw9/how_many_of_you_are_using_monix/)
 - [Happy Path Programming - ZIO 2 dot Ohhhhh!](https://www.reddit.com/r/scala/comments/w7zvlm/happy_path_programming_zio_2_dot_ohhhhh/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Jul 25, 2022&rpar;](https://www.reddit.com/r/scala/comments/w78ss3/this_week_in_scala_jul_25_2022/)
 - [Is ZIO and Cats Effects interoperable in both directions?](https://www.reddit.com/r/scala/comments/w6rgby/is_zio_and_cats_effects_interoperable_in_both/)
 - [sbt/scalatest library or plugin that only re-runs tests for code that changed](https://www.reddit.com/r/scala/comments/w6it6c/sbtscalatest_library_or_plugin_that_only_reruns/)
-- [Is it doable to write a library using either CATS effects or ZIO and have it consumed from Java and Scala?](https://www.reddit.com/r/scala/comments/w5kvai/is_it_doable_to_write_a_library_using_either_cats/)
-- [Someone help in this scala library?](https://www.reddit.com/r/scala/comments/w5dlbo/someone_help_in_this_scala_library/)
-- [Help with implicit scopes](https://www.reddit.com/r/scala/comments/w4mm4o/help_with_implicit_scopes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

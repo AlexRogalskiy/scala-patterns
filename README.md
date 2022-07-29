@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Here’s a playlist of 7 hours of music I use to focus when I’m coding/developing](https://www.reddit.com/r/scala/comments/wammy7/heres_a_playlist_of_7_hours_of_music_i_use_to/)
+- [Why would I wrap logging into an effect?](https://www.reddit.com/r/scala/comments/wakybu/why_would_i_wrap_logging_into_an_effect/)
+- [What comes after the Red Book?](https://www.reddit.com/r/scala/comments/waj91s/what_comes_after_the_red_book/)
+- [Is Java&#39;s new structured concurrency a subset of an effect systems goals?](https://www.reddit.com/r/scala/comments/wa7nqk/is_javas_new_structured_concurrency_a_subset_of/)
 - [Mill, Cask, and SBT](https://www.reddit.com/r/scala/comments/w9rjgp/mill_cask_and_sbt/)
 - [What is the best way to create partial indexes with Slick?](https://www.reddit.com/r/scala/comments/w9j9v3/what_is_the_best_way_to_create_partial_indexes/)
 - [[IfYouUse] Question about jedis and sentinels](https://www.reddit.com/r/scala/comments/w93ylz/ifyouuse_question_about_jedis_and_sentinels/)
 - [IntelliJ Scala Plugin 2022.2 Is Out!](https://www.reddit.com/r/scala/comments/w8w3tu/intellij_scala_plugin_20222_is_out/)
 - [How many of you are using Monix?](https://www.reddit.com/r/scala/comments/w8rmw9/how_many_of_you_are_using_monix/)
 - [Happy Path Programming - ZIO 2 dot Ohhhhh!](https://www.reddit.com/r/scala/comments/w7zvlm/happy_path_programming_zio_2_dot_ohhhhh/)
-- [Scala interview preparation](https://www.reddit.com/r/scala/comments/w7apz0/scala_interview_preparation/)
-- [This week in #Scala &lpar;Jul 25, 2022&rpar;](https://www.reddit.com/r/scala/comments/w78ss3/this_week_in_scala_jul_25_2022/)
-- [Is ZIO and Cats Effects interoperable in both directions?](https://www.reddit.com/r/scala/comments/w6rgby/is_zio_and_cats_effects_interoperable_in_both/)
-- [sbt/scalatest library or plugin that only re-runs tests for code that changed](https://www.reddit.com/r/scala/comments/w6it6c/sbtscalatest_library_or_plugin_that_only_reruns/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

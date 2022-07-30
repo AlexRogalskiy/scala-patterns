@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What kind of commercial projects do you make in Scala and why can&#39;t you do it in another language e.g Javascript?](https://www.reddit.com/r/scala/comments/wb6qir/what_kind_of_commercial_projects_do_you_make_in/)
+- [Structuring Monolith in Scala with SBT](https://www.reddit.com/r/scala/comments/wb0et4/structuring_monolith_in_scala_with_sbt/)
 - [Here’s a playlist of 7 hours of music I use to focus when I’m coding/developing](https://www.reddit.com/r/scala/comments/wammy7/heres_a_playlist_of_7_hours_of_music_i_use_to/)
 - [Why would I wrap logging into an effect?](https://www.reddit.com/r/scala/comments/wakybu/why_would_i_wrap_logging_into_an_effect/)
 - [What comes after the Red Book?](https://www.reddit.com/r/scala/comments/waj91s/what_comes_after_the_red_book/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [What is the best way to create partial indexes with Slick?](https://www.reddit.com/r/scala/comments/w9j9v3/what_is_the_best_way_to_create_partial_indexes/)
 - [[IfYouUse] Question about jedis and sentinels](https://www.reddit.com/r/scala/comments/w93ylz/ifyouuse_question_about_jedis_and_sentinels/)
 - [IntelliJ Scala Plugin 2022.2 Is Out!](https://www.reddit.com/r/scala/comments/w8w3tu/intellij_scala_plugin_20222_is_out/)
-- [How many of you are using Monix?](https://www.reddit.com/r/scala/comments/w8rmw9/how_many_of_you_are_using_monix/)
-- [Happy Path Programming - ZIO 2 dot Ohhhhh!](https://www.reddit.com/r/scala/comments/w7zvlm/happy_path_programming_zio_2_dot_ohhhhh/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

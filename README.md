@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Yeah, about learning Scala....](https://www.reddit.com/r/scala/comments/wc9sph/yeah_about_learning_scala/)
+- [Scala vs Java: Things You Should Know About](https://www.reddit.com/r/scala/comments/wbwuk7/scala_vs_java_things_you_should_know_about/)
+- [Understanding Comparative Benchmarks &lpar;Cats Effect 3 and ZIO 2 !](https://www.reddit.com/r/scala/comments/wbui3u/understanding_comparative_benchmarks_cats_effect/)
 - [What kind of commercial projects do you make in Scala and why can&#39;t you do it in another language e.g Javascript?](https://www.reddit.com/r/scala/comments/wb6qir/what_kind_of_commercial_projects_do_you_make_in/)
 - [Structuring Monolith in Scala with SBT](https://www.reddit.com/r/scala/comments/wb0et4/structuring_monolith_in_scala_with_sbt/)
 - [Here’s a playlist of 7 hours of music I use to focus when I’m coding/developing](https://www.reddit.com/r/scala/comments/wammy7/heres_a_playlist_of_7_hours_of_music_i_use_to/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [What comes after the Red Book?](https://www.reddit.com/r/scala/comments/waj91s/what_comes_after_the_red_book/)
 - [Is Java&#39;s new structured concurrency a subset of an effect systems goals?](https://www.reddit.com/r/scala/comments/wa7nqk/is_javas_new_structured_concurrency_a_subset_of/)
 - [Mill, Cask, and SBT](https://www.reddit.com/r/scala/comments/w9rjgp/mill_cask_and_sbt/)
-- [What is the best way to create partial indexes with Slick?](https://www.reddit.com/r/scala/comments/w9j9v3/what_is_the_best_way_to_create_partial_indexes/)
-- [[IfYouUse] Question about jedis and sentinels](https://www.reddit.com/r/scala/comments/w93ylz/ifyouuse_question_about_jedis_and_sentinels/)
-- [IntelliJ Scala Plugin 2022.2 Is Out!](https://www.reddit.com/r/scala/comments/w8w3tu/intellij_scala_plugin_20222_is_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

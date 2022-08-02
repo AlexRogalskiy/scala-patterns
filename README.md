@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Map Performance: Java vs Scala](https://www.reddit.com/r/scala/comments/wdwdku/map_performance_java_vs_scala/)
+- [Mónadas en Cats parte 19](https://www.reddit.com/r/scala/comments/wdqcnh/mónadas_en_cats_parte_19/)
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/wdl05k/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [Tooling Talks - Jeremy Smith: Polynote and Notebooks](https://www.reddit.com/r/scala/comments/wdb4q1/tooling_talks_jeremy_smith_polynote_and_notebooks/)
 - [Any online Scala meetup or study group? How is the Scala community?](https://www.reddit.com/r/scala/comments/wd1c97/any_online_scala_meetup_or_study_group_how_is_the/)
 - [This week in #Scala &lpar;Aug 1, 2022&rpar;](https://www.reddit.com/r/scala/comments/wcwdd9/this_week_in_scala_aug_1_2022/)
 - [FP for beginners in one video, enjoy!](https://www.reddit.com/r/scala/comments/wcqtv7/fp_for_beginners_in_one_video_enjoy/)
 - [Variations in Syntax between lecture and online resources](https://www.reddit.com/r/scala/comments/wcow05/variations_in_syntax_between_lecture_and_online/)
 - [Scala open source funding poll](https://www.reddit.com/r/scala/comments/wckftw/scala_open_source_funding_poll/)
 - [Monorepo: seeking for an advice for bi-lang project](https://www.reddit.com/r/scala/comments/wcjnox/monorepo_seeking_for_an_advice_for_bilang_project/)
-- [Yeah, about learning Scala....](https://www.reddit.com/r/scala/comments/wc9sph/yeah_about_learning_scala/)
-- [Scala vs Java: Things You Should Know About](https://www.reddit.com/r/scala/comments/wbwuk7/scala_vs_java_things_you_should_know_about/)
-- [Understanding Comparative Benchmarks &lpar;Cats Effect 3 and ZIO 2 !](https://www.reddit.com/r/scala/comments/wbui3u/understanding_comparative_benchmarks_cats_effect/)
-- [What kind of commercial projects do you make in Scala and why can&#39;t you do it in another language e.g Javascript?](https://www.reddit.com/r/scala/comments/wb6qir/what_kind_of_commercial_projects_do_you_make_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

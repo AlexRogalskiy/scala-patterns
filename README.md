@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [how to acheive this in scala ?](https://www.reddit.com/r/scala/comments/weqbar/how_to_acheive_this_in_scala/)
 - [Map Performance: Java vs Scala](https://www.reddit.com/r/scala/comments/wdwdku/map_performance_java_vs_scala/)
 - [Mónadas en Cats parte 19](https://www.reddit.com/r/scala/comments/wdqcnh/mónadas_en_cats_parte_19/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/wdl05k/who_is_hiring_monthly_rscala_job_postings_thread/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [FP for beginners in one video, enjoy!](https://www.reddit.com/r/scala/comments/wcqtv7/fp_for_beginners_in_one_video_enjoy/)
 - [Variations in Syntax between lecture and online resources](https://www.reddit.com/r/scala/comments/wcow05/variations_in_syntax_between_lecture_and_online/)
 - [Scala open source funding poll](https://www.reddit.com/r/scala/comments/wckftw/scala_open_source_funding_poll/)
-- [Monorepo: seeking for an advice for bi-lang project](https://www.reddit.com/r/scala/comments/wcjnox/monorepo_seeking_for_an_advice_for_bilang_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

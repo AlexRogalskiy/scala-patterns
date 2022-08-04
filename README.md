@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Getting into Scala from Python](https://www.reddit.com/r/scala/comments/wfll4k/getting_into_scala_from_python/)
+- [Upper type bound doesn&#39;t work with type inference](https://www.reddit.com/r/scala/comments/wfgpm9/upper_type_bound_doesnt_work_with_type_inference/)
+- [CQRS with Scala, Akka and Cassandra](https://www.reddit.com/r/scala/comments/wfdp8m/cqrs_with_scala_akka_and_cassandra/)
+- [Where can I use fibers? [ZIO/CE]](https://www.reddit.com/r/scala/comments/wf0hs3/where_can_i_use_fibers_zioce/)
+- [Mónadas en Cats parte 21](https://www.reddit.com/r/scala/comments/wevnih/mónadas_en_cats_parte_21/)
+- [Mónadas en Cats parte 20](https://www.reddit.com/r/scala/comments/wevma7/mónadas_en_cats_parte_20/)
 - [how to acheive this in scala ?](https://www.reddit.com/r/scala/comments/weqbar/how_to_acheive_this_in_scala/)
 - [Map Performance: Java vs Scala](https://www.reddit.com/r/scala/comments/wdwdku/map_performance_java_vs_scala/)
 - [Mónadas en Cats parte 19](https://www.reddit.com/r/scala/comments/wdqcnh/mónadas_en_cats_parte_19/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/wdl05k/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [Tooling Talks - Jeremy Smith: Polynote and Notebooks](https://www.reddit.com/r/scala/comments/wdb4q1/tooling_talks_jeremy_smith_polynote_and_notebooks/)
-- [Any online Scala meetup or study group? How is the Scala community?](https://www.reddit.com/r/scala/comments/wd1c97/any_online_scala_meetup_or_study_group_how_is_the/)
-- [This week in #Scala &lpar;Aug 1, 2022&rpar;](https://www.reddit.com/r/scala/comments/wcwdd9/this_week_in_scala_aug_1_2022/)
-- [FP for beginners in one video, enjoy!](https://www.reddit.com/r/scala/comments/wcqtv7/fp_for_beginners_in_one_video_enjoy/)
-- [Variations in Syntax between lecture and online resources](https://www.reddit.com/r/scala/comments/wcow05/variations_in_syntax_between_lecture_and_online/)
-- [Scala open source funding poll](https://www.reddit.com/r/scala/comments/wckftw/scala_open_source_funding_poll/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

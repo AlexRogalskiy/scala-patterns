@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scalatra now supports Scala3](https://www.reddit.com/r/scala/comments/wgfkw0/scalatra_now_supports_scala3/)
+- [Will ZIO and/or Cats Effect get a performance boost from Loom?](https://www.reddit.com/r/scala/comments/wfwn6w/will_zio_andor_cats_effect_get_a_performance/)
 - [Getting into Scala from Python](https://www.reddit.com/r/scala/comments/wfll4k/getting_into_scala_from_python/)
 - [Upper type bound doesn&#39;t work with type inference](https://www.reddit.com/r/scala/comments/wfgpm9/upper_type_bound_doesnt_work_with_type_inference/)
 - [CQRS with Scala, Akka and Cassandra](https://www.reddit.com/r/scala/comments/wfdp8m/cqrs_with_scala_akka_and_cassandra/)
 - [Where can I use fibers? [ZIO/CE]](https://www.reddit.com/r/scala/comments/wf0hs3/where_can_i_use_fibers_zioce/)
-- [Mónadas en Cats parte 21](https://www.reddit.com/r/scala/comments/wevnih/mónadas_en_cats_parte_21/)
 - [Mónadas en Cats parte 20](https://www.reddit.com/r/scala/comments/wevma7/mónadas_en_cats_parte_20/)
 - [how to acheive this in scala ?](https://www.reddit.com/r/scala/comments/weqbar/how_to_acheive_this_in_scala/)
 - [Map Performance: Java vs Scala](https://www.reddit.com/r/scala/comments/wdwdku/map_performance_java_vs_scala/)
 - [Mónadas en Cats parte 19](https://www.reddit.com/r/scala/comments/wdqcnh/mónadas_en_cats_parte_19/)
-- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/wdl05k/who_is_hiring_monthly_rscala_job_postings_thread/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Have I lost my damn mind? Weird use case for Spark, would like feedback on feasibility](https://www.reddit.com/r/scala/comments/wh6556/have_i_lost_my_damn_mind_weird_use_case_for_spark/)
 - [Scalatra now supports Scala3](https://www.reddit.com/r/scala/comments/wgfkw0/scalatra_now_supports_scala3/)
 - [Will ZIO and/or Cats Effect get a performance boost from Loom?](https://www.reddit.com/r/scala/comments/wfwn6w/will_zio_andor_cats_effect_get_a_performance/)
 - [Getting into Scala from Python](https://www.reddit.com/r/scala/comments/wfll4k/getting_into_scala_from_python/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Mónadas en Cats parte 20](https://www.reddit.com/r/scala/comments/wevma7/mónadas_en_cats_parte_20/)
 - [how to acheive this in scala ?](https://www.reddit.com/r/scala/comments/weqbar/how_to_acheive_this_in_scala/)
 - [Map Performance: Java vs Scala](https://www.reddit.com/r/scala/comments/wdwdku/map_performance_java_vs_scala/)
-- [Mónadas en Cats parte 19](https://www.reddit.com/r/scala/comments/wdqcnh/mónadas_en_cats_parte_19/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

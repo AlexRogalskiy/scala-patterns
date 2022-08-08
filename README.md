@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Resources for advanced topics](https://www.reddit.com/r/scala/comments/wiwtza/resources_for_advanced_topics/)
+- [This week in #Scala &lpar;Aug 8, 2022&rpar;](https://www.reddit.com/r/scala/comments/wio3ll/this_week_in_scala_aug_8_2022/)
+- [Programación Funcional con Scala y ZIO 2.0](https://www.reddit.com/r/scala/comments/wid612/programación_funcional_con_scala_y_zio_20/)
+- [Scala jobs in the uk / Ireland](https://www.reddit.com/r/scala/comments/wicst0/scala_jobs_in_the_uk_ireland/)
 - [Websites to practice Scala with exercises](https://www.reddit.com/r/scala/comments/whstgu/websites_to_practice_scala_with_exercises/)
 - [Scala became Typelevel/Zio only ecosystem?](https://www.reddit.com/r/scala/comments/whlz35/scala_became_typelevelzio_only_ecosystem/)
 - [Have I lost my damn mind? Weird use case for Spark, would like feedback on feasibility](https://www.reddit.com/r/scala/comments/wh6556/have_i_lost_my_damn_mind_weird_use_case_for_spark/)
 - [Scalatra now supports Scala3](https://www.reddit.com/r/scala/comments/wgfkw0/scalatra_now_supports_scala3/)
 - [Will ZIO and/or Cats Effect get a performance boost from Loom?](https://www.reddit.com/r/scala/comments/wfwn6w/will_zio_andor_cats_effect_get_a_performance/)
 - [Getting into Scala from Python](https://www.reddit.com/r/scala/comments/wfll4k/getting_into_scala_from_python/)
-- [Upper type bound doesn&#39;t work with type inference](https://www.reddit.com/r/scala/comments/wfgpm9/upper_type_bound_doesnt_work_with_type_inference/)
-- [CQRS with Scala, Akka and Cassandra](https://www.reddit.com/r/scala/comments/wfdp8m/cqrs_with_scala_akka_and_cassandra/)
-- [Where can I use fibers? [ZIO/CE]](https://www.reddit.com/r/scala/comments/wf0hs3/where_can_i_use_fibers_zioce/)
-- [Mónadas en Cats parte 20](https://www.reddit.com/r/scala/comments/wevma7/mónadas_en_cats_parte_20/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

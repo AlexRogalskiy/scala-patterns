@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Are language rankings rigged ?](https://www.reddit.com/r/scala/comments/wjrrc5/are_language_rankings_rigged/)
+- [Looking for efficient code](https://www.reddit.com/r/scala/comments/wjm27f/looking_for_efficient_code/)
+- [Primeros pasos con ZIO](https://www.reddit.com/r/scala/comments/wizenw/primeros_pasos_con_zio/)
 - [Resources for advanced topics](https://www.reddit.com/r/scala/comments/wiwtza/resources_for_advanced_topics/)
 - [This week in #Scala &lpar;Aug 8, 2022&rpar;](https://www.reddit.com/r/scala/comments/wio3ll/this_week_in_scala_aug_8_2022/)
 - [Programación Funcional con Scala y ZIO 2.0](https://www.reddit.com/r/scala/comments/wid612/programación_funcional_con_scala_y_zio_20/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Websites to practice Scala with exercises](https://www.reddit.com/r/scala/comments/whstgu/websites_to_practice_scala_with_exercises/)
 - [Scala became Typelevel/Zio only ecosystem?](https://www.reddit.com/r/scala/comments/whlz35/scala_became_typelevelzio_only_ecosystem/)
 - [Have I lost my damn mind? Weird use case for Spark, would like feedback on feasibility](https://www.reddit.com/r/scala/comments/wh6556/have_i_lost_my_damn_mind_weird_use_case_for_spark/)
-- [Scalatra now supports Scala3](https://www.reddit.com/r/scala/comments/wgfkw0/scalatra_now_supports_scala3/)
-- [Will ZIO and/or Cats Effect get a performance boost from Loom?](https://www.reddit.com/r/scala/comments/wfwn6w/will_zio_andor_cats_effect_get_a_performance/)
-- [Getting into Scala from Python](https://www.reddit.com/r/scala/comments/wfll4k/getting_into_scala_from_python/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

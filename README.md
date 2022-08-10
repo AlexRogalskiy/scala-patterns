@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for and internship or job](https://www.reddit.com/r/scala/comments/wkk127/looking_for_and_internship_or_job/)
+- [Scala 3 with pulsar4s and Circe or Play Json](https://www.reddit.com/r/scala/comments/wkgjg9/scala_3_with_pulsar4s_and_circe_or_play_json/)
+- [Microsoft Announces new Scala-based Integrations with OpenAI and MLFlow](https://www.reddit.com/r/scala/comments/wk7tph/microsoft_announces_new_scalabased_integrations/)
 - [Are language rankings rigged ?](https://www.reddit.com/r/scala/comments/wjrrc5/are_language_rankings_rigged/)
 - [Looking for efficient code](https://www.reddit.com/r/scala/comments/wjm27f/looking_for_efficient_code/)
 - [Primeros pasos con ZIO](https://www.reddit.com/r/scala/comments/wizenw/primeros_pasos_con_zio/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Aug 8, 2022&rpar;](https://www.reddit.com/r/scala/comments/wio3ll/this_week_in_scala_aug_8_2022/)
 - [Programación Funcional con Scala y ZIO 2.0](https://www.reddit.com/r/scala/comments/wid612/programación_funcional_con_scala_y_zio_20/)
 - [Scala jobs in the uk / Ireland](https://www.reddit.com/r/scala/comments/wicst0/scala_jobs_in_the_uk_ireland/)
-- [Websites to practice Scala with exercises](https://www.reddit.com/r/scala/comments/whstgu/websites_to_practice_scala_with_exercises/)
-- [Scala became Typelevel/Zio only ecosystem?](https://www.reddit.com/r/scala/comments/whlz35/scala_became_typelevelzio_only_ecosystem/)
-- [Have I lost my damn mind? Weird use case for Spark, would like feedback on feasibility](https://www.reddit.com/r/scala/comments/wh6556/have_i_lost_my_damn_mind_weird_use_case_for_spark/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Effect Zoo for Scala 3](https://www.reddit.com/r/scala/comments/wn0wyg/effect_zoo_for_scala_3/)
+- [Pulumi &lpar;Infrastructure as Code platform&rpar; has gained experimental support for Scala/sbt](https://www.reddit.com/r/scala/comments/wmn41x/pulumi_infrastructure_as_code_platform_has_gained/)
+- [My first article ever: Tagless final — from a different perspective](https://www.reddit.com/r/scala/comments/wmlkm6/my_first_article_ever_tagless_final_from_a/)
+- [Creando un web service REST con ZIO](https://www.reddit.com/r/scala/comments/wmh04p/creando_un_web_service_rest_con_zio/)
+- [My Top 7 Most Underrated IntelliJ IDEA Features](https://www.reddit.com/r/scala/comments/wmfn0v/my_top_7_most_underrated_intellij_idea_features/)
 - [VSC Extension .scaml files](https://www.reddit.com/r/scala/comments/wlyerm/vsc_extension_scaml_files/)
 - [Security static analysis tooling for Scala?](https://www.reddit.com/r/scala/comments/wltwhp/security_static_analysis_tooling_for_scala/)
 - [Scala is close to having an amazing Jupyter Notebook experience for data science workflows](https://www.reddit.com/r/scala/comments/wl383c/scala_is_close_to_having_an_amazing_jupyter/)
 - [Advices on proggresing with Scala](https://www.reddit.com/r/scala/comments/wkxb23/advices_on_proggresing_with_scala/)
 - [Is transitioning from Haskell really that hard?](https://www.reddit.com/r/scala/comments/wkw4tw/is_transitioning_from_haskell_really_that_hard/)
-- [Scala Beginner - Help with Nested Futures](https://www.reddit.com/r/scala/comments/wks8xp/scala_beginner_help_with_nested_futures/)
-- [Looking for and internship or job](https://www.reddit.com/r/scala/comments/wkk127/looking_for_and_internship_or_job/)
-- [Scala 3 with pulsar4s and Circe or Play Json](https://www.reddit.com/r/scala/comments/wkgjg9/scala_3_with_pulsar4s_and_circe_or_play_json/)
-- [Microsoft Announces new Scala-based Integrations with OpenAI and MLFlow](https://www.reddit.com/r/scala/comments/wk7tph/microsoft_announces_new_scalabased_integrations/)
-- [Are language rankings rigged ?](https://www.reddit.com/r/scala/comments/wjrrc5/are_language_rankings_rigged/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is it feasible to switch from a Data Science role to a Scala Engineer one?](https://www.reddit.com/r/scala/comments/wnruux/is_it_feasible_to_switch_from_a_data_science_role/)
+- [Find the max of a pair](https://www.reddit.com/r/scala/comments/wng37n/find_the_max_of_a_pair/)
+- [Scala needs a good, dependency-free DataFrame library](https://www.reddit.com/r/scala/comments/wncgqr/scala_needs_a_good_dependencyfree_dataframe/)
+- [Count Vowels in List of Strings](https://www.reddit.com/r/scala/comments/wnc96t/count_vowels_in_list_of_strings/)
 - [Effect Zoo for Scala 3](https://www.reddit.com/r/scala/comments/wn0wyg/effect_zoo_for_scala_3/)
 - [Pulumi &lpar;Infrastructure as Code platform&rpar; has gained experimental support for Scala/sbt](https://www.reddit.com/r/scala/comments/wmn41x/pulumi_infrastructure_as_code_platform_has_gained/)
 - [My first article ever: Tagless final — from a different perspective](https://www.reddit.com/r/scala/comments/wmlkm6/my_first_article_ever_tagless_final_from_a/)
 - [Creando un web service REST con ZIO](https://www.reddit.com/r/scala/comments/wmh04p/creando_un_web_service_rest_con_zio/)
 - [My Top 7 Most Underrated IntelliJ IDEA Features](https://www.reddit.com/r/scala/comments/wmfn0v/my_top_7_most_underrated_intellij_idea_features/)
 - [VSC Extension .scaml files](https://www.reddit.com/r/scala/comments/wlyerm/vsc_extension_scaml_files/)
-- [Security static analysis tooling for Scala?](https://www.reddit.com/r/scala/comments/wltwhp/security_static_analysis_tooling_for_scala/)
-- [Scala is close to having an amazing Jupyter Notebook experience for data science workflows](https://www.reddit.com/r/scala/comments/wl383c/scala_is_close_to_having_an_amazing_jupyter/)
-- [Advices on proggresing with Scala](https://www.reddit.com/r/scala/comments/wkxb23/advices_on_proggresing_with_scala/)
-- [Is transitioning from Haskell really that hard?](https://www.reddit.com/r/scala/comments/wkw4tw/is_transitioning_from_haskell_really_that_hard/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

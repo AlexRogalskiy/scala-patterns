@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need some help running a scala program](https://www.reddit.com/r/scala/comments/wodnra/need_some_help_running_a_scala_program/)
+- [This week in #Scala &lpar;Aug 15, 2022&rpar;](https://www.reddit.com/r/scala/comments/wocx6c/this_week_in_scala_aug_15_2022/)
+- [Static Dynamics - Expression definable datatypes in Scala](https://www.reddit.com/r/scala/comments/wo9ly7/static_dynamics_expression_definable_datatypes_in/)
+- [3 months, 28 live streams and almost 60 hours later...](https://www.reddit.com/r/scala/comments/wo8uok/3_months_28_live_streams_and_almost_60_hours_later/)
+- [Find odd children in a tree](https://www.reddit.com/r/scala/comments/wo1j4x/find_odd_children_in_a_tree/)
+- [Selection functions are an interesting notion with tricky implementation](https://www.reddit.com/r/scala/comments/wo11cg/selection_functions_are_an_interesting_notion/)
+- [What is the point of tools like Kafka?](https://www.reddit.com/r/scala/comments/wnwadu/what_is_the_point_of_tools_like_kafka/)
 - [Is it feasible to switch from a Data Science role to a Scala Engineer one?](https://www.reddit.com/r/scala/comments/wnruux/is_it_feasible_to_switch_from_a_data_science_role/)
 - [Find the max of a pair](https://www.reddit.com/r/scala/comments/wng37n/find_the_max_of_a_pair/)
 - [Scala needs a good, dependency-free DataFrame library](https://www.reddit.com/r/scala/comments/wncgqr/scala_needs_a_good_dependencyfree_dataframe/)
-- [Count Vowels in List of Strings](https://www.reddit.com/r/scala/comments/wnc96t/count_vowels_in_list_of_strings/)
-- [Effect Zoo for Scala 3](https://www.reddit.com/r/scala/comments/wn0wyg/effect_zoo_for_scala_3/)
-- [Pulumi &lpar;Infrastructure as Code platform&rpar; has gained experimental support for Scala/sbt](https://www.reddit.com/r/scala/comments/wmn41x/pulumi_infrastructure_as_code_platform_has_gained/)
-- [My first article ever: Tagless final — from a different perspective](https://www.reddit.com/r/scala/comments/wmlkm6/my_first_article_ever_tagless_final_from_a/)
-- [Creando un web service REST con ZIO](https://www.reddit.com/r/scala/comments/wmh04p/creando_un_web_service_rest_con_zio/)
-- [My Top 7 Most Underrated IntelliJ IDEA Features](https://www.reddit.com/r/scala/comments/wmfn0v/my_top_7_most_underrated_intellij_idea_features/)
-- [VSC Extension .scaml files](https://www.reddit.com/r/scala/comments/wlyerm/vsc_extension_scaml_files/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

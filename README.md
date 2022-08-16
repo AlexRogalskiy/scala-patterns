@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Implicitly pass the name of the current class to a function](https://www.reddit.com/r/scala/comments/wp7rom/implicitly_pass_the_name_of_the_current_class_to/)
+- [SSLContext Kickstart - Super lightweight library to secure your Client and Server](https://www.reddit.com/r/scala/comments/wovgds/sslcontext_kickstart_super_lightweight_library_to/)
+- [What are some good follow-along projects for Scala beginners](https://www.reddit.com/r/scala/comments/wova08/what_are_some_good_followalong_projects_for_scala/)
 - [Need some help running a scala program](https://www.reddit.com/r/scala/comments/wodnra/need_some_help_running_a_scala_program/)
 - [This week in #Scala &lpar;Aug 15, 2022&rpar;](https://www.reddit.com/r/scala/comments/wocx6c/this_week_in_scala_aug_15_2022/)
 - [Static Dynamics - Expression definable datatypes in Scala](https://www.reddit.com/r/scala/comments/wo9ly7/static_dynamics_expression_definable_datatypes_in/)
 - [3 months, 28 live streams and almost 60 hours later...](https://www.reddit.com/r/scala/comments/wo8uok/3_months_28_live_streams_and_almost_60_hours_later/)
-- [Find odd children in a tree](https://www.reddit.com/r/scala/comments/wo1j4x/find_odd_children_in_a_tree/)
 - [Selection functions are an interesting notion with tricky implementation](https://www.reddit.com/r/scala/comments/wo11cg/selection_functions_are_an_interesting_notion/)
 - [What is the point of tools like Kafka?](https://www.reddit.com/r/scala/comments/wnwadu/what_is_the_point_of_tools_like_kafka/)
 - [Is it feasible to switch from a Data Science role to a Scala Engineer one?](https://www.reddit.com/r/scala/comments/wnruux/is_it_feasible_to_switch_from_a_data_science_role/)
-- [Find the max of a pair](https://www.reddit.com/r/scala/comments/wng37n/find_the_max_of_a_pair/)
-- [Scala needs a good, dependency-free DataFrame library](https://www.reddit.com/r/scala/comments/wncgqr/scala_needs_a_good_dependencyfree_dataframe/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

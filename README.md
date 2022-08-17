@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Slick 3.4.0 is imminent](https://www.reddit.com/r/scala/comments/wqamhm/slick_340_is_imminent/)
+- [Announcing hwtest](https://www.reddit.com/r/scala/comments/wq30so/announcing_hwtest/)
 - [Implicitly pass the name of the current class to a function](https://www.reddit.com/r/scala/comments/wp7rom/implicitly_pass_the_name_of_the_current_class_to/)
 - [SSLContext Kickstart - Super lightweight library to secure your Client and Server](https://www.reddit.com/r/scala/comments/wovgds/sslcontext_kickstart_super_lightweight_library_to/)
 - [What are some good follow-along projects for Scala beginners](https://www.reddit.com/r/scala/comments/wova08/what_are_some_good_followalong_projects_for_scala/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Static Dynamics - Expression definable datatypes in Scala](https://www.reddit.com/r/scala/comments/wo9ly7/static_dynamics_expression_definable_datatypes_in/)
 - [3 months, 28 live streams and almost 60 hours later...](https://www.reddit.com/r/scala/comments/wo8uok/3_months_28_live_streams_and_almost_60_hours_later/)
 - [Selection functions are an interesting notion with tricky implementation](https://www.reddit.com/r/scala/comments/wo11cg/selection_functions_are_an_interesting_notion/)
-- [What is the point of tools like Kafka?](https://www.reddit.com/r/scala/comments/wnwadu/what_is_the_point_of_tools_like_kafka/)
-- [Is it feasible to switch from a Data Science role to a Scala Engineer one?](https://www.reddit.com/r/scala/comments/wnruux/is_it_feasible_to_switch_from_a_data_science_role/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

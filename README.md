@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Long-term compatibility plans for Scala 3](https://www.reddit.com/r/scala/comments/wqy6hz/longterm_compatibility_plans_for_scala_3/)
+- [Recommended textbook to teach very beginner Scala](https://www.reddit.com/r/scala/comments/wqqvec/recommended_textbook_to_teach_very_beginner_scala/)
+- [Which of these is the best way to keep an akka-http server alive?](https://www.reddit.com/r/scala/comments/wqoc3t/which_of_these_is_the_best_way_to_keep_an/)
+- [what is the best play framework course?](https://www.reddit.com/r/scala/comments/wqhu92/what_is_the_best_play_framework_course/)
+- [Scala Library To Generate Case Classes for JSON](https://www.reddit.com/r/scala/comments/wqfy0g/scala_library_to_generate_case_classes_for_json/)
+- [Mónadas en Cats parte 22](https://www.reddit.com/r/scala/comments/wqesvz/mónadas_en_cats_parte_22/)
 - [Slick 3.4.0 is imminent](https://www.reddit.com/r/scala/comments/wqamhm/slick_340_is_imminent/)
 - [Announcing hwtest](https://www.reddit.com/r/scala/comments/wq30so/announcing_hwtest/)
 - [Implicitly pass the name of the current class to a function](https://www.reddit.com/r/scala/comments/wp7rom/implicitly_pass_the_name_of_the_current_class_to/)
 - [SSLContext Kickstart - Super lightweight library to secure your Client and Server](https://www.reddit.com/r/scala/comments/wovgds/sslcontext_kickstart_super_lightweight_library_to/)
-- [What are some good follow-along projects for Scala beginners](https://www.reddit.com/r/scala/comments/wova08/what_are_some_good_followalong_projects_for_scala/)
-- [Need some help running a scala program](https://www.reddit.com/r/scala/comments/wodnra/need_some_help_running_a_scala_program/)
-- [This week in #Scala &lpar;Aug 15, 2022&rpar;](https://www.reddit.com/r/scala/comments/wocx6c/this_week_in_scala_aug_15_2022/)
-- [Static Dynamics - Expression definable datatypes in Scala](https://www.reddit.com/r/scala/comments/wo9ly7/static_dynamics_expression_definable_datatypes_in/)
-- [3 months, 28 live streams and almost 60 hours later...](https://www.reddit.com/r/scala/comments/wo8uok/3_months_28_live_streams_and_almost_60_hours_later/)
-- [Selection functions are an interesting notion with tricky implementation](https://www.reddit.com/r/scala/comments/wo11cg/selection_functions_are_an_interesting_notion/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

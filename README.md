@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Smithy4s 0.15.0, now with Smithy 2.0 support](https://www.reddit.com/r/scala/comments/wrjue2/smithy4s_0150_now_with_smithy_20_support/)
+- [Scala var](https://www.reddit.com/r/scala/comments/wrckdt/scala_var/)
 - [Long-term compatibility plans for Scala 3](https://www.reddit.com/r/scala/comments/wqy6hz/longterm_compatibility_plans_for_scala_3/)
 - [Recommended textbook to teach very beginner Scala](https://www.reddit.com/r/scala/comments/wqqvec/recommended_textbook_to_teach_very_beginner_scala/)
 - [Which of these is the best way to keep an akka-http server alive?](https://www.reddit.com/r/scala/comments/wqoc3t/which_of_these_is_the_best_way_to_keep_an/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Mónadas en Cats parte 22](https://www.reddit.com/r/scala/comments/wqesvz/mónadas_en_cats_parte_22/)
 - [Slick 3.4.0 is imminent](https://www.reddit.com/r/scala/comments/wqamhm/slick_340_is_imminent/)
 - [Announcing hwtest](https://www.reddit.com/r/scala/comments/wq30so/announcing_hwtest/)
-- [Implicitly pass the name of the current class to a function](https://www.reddit.com/r/scala/comments/wp7rom/implicitly_pass_the_name_of_the_current_class_to/)
-- [SSLContext Kickstart - Super lightweight library to secure your Client and Server](https://www.reddit.com/r/scala/comments/wovgds/sslcontext_kickstart_super_lightweight_library_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

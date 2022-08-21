@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [/packages cannot be represented as URI](https://www.reddit.com/r/scala/comments/wte2hc/packages_cannot_be_represented_as_uri/)
+- [Looking for ZIO 2.0 Projects](https://www.reddit.com/r/scala/comments/wt6hlt/looking_for_zio_20_projects/)
 - [Smithy4s 0.15.0, now with Smithy 2.0 support](https://www.reddit.com/r/scala/comments/wrjue2/smithy4s_0150_now_with_smithy_20_support/)
 - [Scala var](https://www.reddit.com/r/scala/comments/wrckdt/scala_var/)
 - [Long-term compatibility plans for Scala 3](https://www.reddit.com/r/scala/comments/wqy6hz/longterm_compatibility_plans_for_scala_3/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [what is the best play framework course?](https://www.reddit.com/r/scala/comments/wqhu92/what_is_the_best_play_framework_course/)
 - [Scala Library To Generate Case Classes for JSON](https://www.reddit.com/r/scala/comments/wqfy0g/scala_library_to_generate_case_classes_for_json/)
 - [Mónadas en Cats parte 22](https://www.reddit.com/r/scala/comments/wqesvz/mónadas_en_cats_parte_22/)
-- [Slick 3.4.0 is imminent](https://www.reddit.com/r/scala/comments/wqamhm/slick_340_is_imminent/)
-- [Announcing hwtest](https://www.reddit.com/r/scala/comments/wq30so/announcing_hwtest/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

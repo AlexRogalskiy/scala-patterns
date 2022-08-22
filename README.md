@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Aug 22, 2022&rpar;](https://www.reddit.com/r/scala/comments/wu5k4h/this_week_in_scala_aug_22_2022/)
+- [If you are a sucker for CLIs check this one out!](https://www.reddit.com/r/scala/comments/wu23w8/if_you_are_a_sucker_for_clis_check_this_one_out/)
 - [/packages cannot be represented as URI](https://www.reddit.com/r/scala/comments/wte2hc/packages_cannot_be_represented_as_uri/)
 - [Looking for ZIO 2.0 Projects](https://www.reddit.com/r/scala/comments/wt6hlt/looking_for_zio_20_projects/)
 - [Smithy4s 0.15.0, now with Smithy 2.0 support](https://www.reddit.com/r/scala/comments/wrjue2/smithy4s_0150_now_with_smithy_20_support/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Recommended textbook to teach very beginner Scala](https://www.reddit.com/r/scala/comments/wqqvec/recommended_textbook_to_teach_very_beginner_scala/)
 - [Which of these is the best way to keep an akka-http server alive?](https://www.reddit.com/r/scala/comments/wqoc3t/which_of_these_is_the_best_way_to_keep_an/)
 - [what is the best play framework course?](https://www.reddit.com/r/scala/comments/wqhu92/what_is_the_best_play_framework_course/)
-- [Scala Library To Generate Case Classes for JSON](https://www.reddit.com/r/scala/comments/wqfy0g/scala_library_to_generate_case_classes_for_json/)
-- [Mónadas en Cats parte 22](https://www.reddit.com/r/scala/comments/wqesvz/mónadas_en_cats_parte_22/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

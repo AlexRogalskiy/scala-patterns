@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [http4s](https://www.reddit.com/r/scala/comments/wx084m/http4s/)
 - [Scalafmt force empty lines between functions and classes](https://www.reddit.com/r/scala/comments/ww36bc/scalafmt_force_empty_lines_between_functions_and/)
 - [This week in #Scala &lpar;Aug 22, 2022&rpar;](https://www.reddit.com/r/scala/comments/wu5k4h/this_week_in_scala_aug_22_2022/)
 - [If you are a sucker for CLIs check this one out!](https://www.reddit.com/r/scala/comments/wu23w8/if_you_are_a_sucker_for_clis_check_this_one_out/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala var](https://www.reddit.com/r/scala/comments/wrckdt/scala_var/)
 - [Long-term compatibility plans for Scala 3](https://www.reddit.com/r/scala/comments/wqy6hz/longterm_compatibility_plans_for_scala_3/)
 - [Recommended textbook to teach very beginner Scala](https://www.reddit.com/r/scala/comments/wqqvec/recommended_textbook_to_teach_very_beginner_scala/)
-- [Which of these is the best way to keep an akka-http server alive?](https://www.reddit.com/r/scala/comments/wqoc3t/which_of_these_is_the_best_way_to_keep_an/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

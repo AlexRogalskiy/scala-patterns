@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Comparing ZIO to Haskell effects libraries like Polysemy?](https://www.reddit.com/r/scala/comments/wxioxg/comparing_zio_to_haskell_effects_libraries_like/)
+- [I&#39;m tired of writing low quality Scala code so I&#39;m learning it seriously](https://www.reddit.com/r/scala/comments/wxhmog/im_tired_of_writing_low_quality_scala_code_so_im/)
+- [Scala List[Unit] to List[String] Conversion](https://www.reddit.com/r/scala/comments/wxfi7z/scala_listunit_to_liststring_conversion/)
+- [Best library for DynamoDB in Scala](https://www.reddit.com/r/scala/comments/wxck2x/best_library_for_dynamodb_in_scala/)
+- [Spark-NLP 4.1.0 Released: Vision Transformer &lpar;ViT&rpar; is here! The very first Computer Vision pipeline for the state-of-the-art Image Classification task, AWS Graviton/ARM64 support, new EMR &amp; Databricks support, 1000+ state-of-the-art models, and more!](https://www.reddit.com/r/scala/comments/wxc7pv/sparknlp_410_released_vision_transformer_vit_is/)
 - [http4s](https://www.reddit.com/r/scala/comments/wx084m/http4s/)
 - [Scalafmt force empty lines between functions and classes](https://www.reddit.com/r/scala/comments/ww36bc/scalafmt_force_empty_lines_between_functions_and/)
 - [This week in #Scala &lpar;Aug 22, 2022&rpar;](https://www.reddit.com/r/scala/comments/wu5k4h/this_week_in_scala_aug_22_2022/)
 - [If you are a sucker for CLIs check this one out!](https://www.reddit.com/r/scala/comments/wu23w8/if_you_are_a_sucker_for_clis_check_this_one_out/)
 - [/packages cannot be represented as URI](https://www.reddit.com/r/scala/comments/wte2hc/packages_cannot_be_represented_as_uri/)
-- [Looking for ZIO 2.0 Projects](https://www.reddit.com/r/scala/comments/wt6hlt/looking_for_zio_20_projects/)
-- [Smithy4s 0.15.0, now with Smithy 2.0 support](https://www.reddit.com/r/scala/comments/wrjue2/smithy4s_0150_now_with_smithy_20_support/)
-- [Scala var](https://www.reddit.com/r/scala/comments/wrckdt/scala_var/)
-- [Long-term compatibility plans for Scala 3](https://www.reddit.com/r/scala/comments/wqy6hz/longterm_compatibility_plans_for_scala_3/)
-- [Recommended textbook to teach very beginner Scala](https://www.reddit.com/r/scala/comments/wqqvec/recommended_textbook_to_teach_very_beginner_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

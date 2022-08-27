@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Containers Redux - Capturing Type Class information for myriad types](https://www.reddit.com/r/scala/comments/wykd95/containers_redux_capturing_type_class_information/)
+- [How can I bind 2 class hierarchies together by a shared type, the correct/idiomatic way?](https://www.reddit.com/r/scala/comments/wy2yir/how_can_i_bind_2_class_hierarchies_together_by_a/)
 - [Comparing ZIO to Haskell effects libraries like Polysemy?](https://www.reddit.com/r/scala/comments/wxioxg/comparing_zio_to_haskell_effects_libraries_like/)
 - [I&#39;m tired of writing low quality Scala code so I&#39;m learning it seriously](https://www.reddit.com/r/scala/comments/wxhmog/im_tired_of_writing_low_quality_scala_code_so_im/)
 - [Scala List[Unit] to List[String] Conversion](https://www.reddit.com/r/scala/comments/wxfi7z/scala_listunit_to_liststring_conversion/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [http4s](https://www.reddit.com/r/scala/comments/wx084m/http4s/)
 - [Scalafmt force empty lines between functions and classes](https://www.reddit.com/r/scala/comments/ww36bc/scalafmt_force_empty_lines_between_functions_and/)
 - [This week in #Scala &lpar;Aug 22, 2022&rpar;](https://www.reddit.com/r/scala/comments/wu5k4h/this_week_in_scala_aug_22_2022/)
-- [If you are a sucker for CLIs check this one out!](https://www.reddit.com/r/scala/comments/wu23w8/if_you_are_a_sucker_for_clis_check_this_one_out/)
-- [/packages cannot be represented as URI](https://www.reddit.com/r/scala/comments/wte2hc/packages_cannot_be_represented_as_uri/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

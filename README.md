@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Enums en Scala 3](https://www.reddit.com/r/scala/comments/wz1uuz/enums_en_scala_3/)
 - [Containers Redux - Capturing Type Class information for myriad types](https://www.reddit.com/r/scala/comments/wykd95/containers_redux_capturing_type_class_information/)
 - [How can I bind 2 class hierarchies together by a shared type, the correct/idiomatic way?](https://www.reddit.com/r/scala/comments/wy2yir/how_can_i_bind_2_class_hierarchies_together_by_a/)
 - [Comparing ZIO to Haskell effects libraries like Polysemy?](https://www.reddit.com/r/scala/comments/wxioxg/comparing_zio_to_haskell_effects_libraries_like/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Spark-NLP 4.1.0 Released: Vision Transformer &lpar;ViT&rpar; is here! The very first Computer Vision pipeline for the state-of-the-art Image Classification task, AWS Graviton/ARM64 support, new EMR &amp; Databricks support, 1000+ state-of-the-art models, and more!](https://www.reddit.com/r/scala/comments/wxc7pv/sparknlp_410_released_vision_transformer_vit_is/)
 - [http4s](https://www.reddit.com/r/scala/comments/wx084m/http4s/)
 - [Scalafmt force empty lines between functions and classes](https://www.reddit.com/r/scala/comments/ww36bc/scalafmt_force_empty_lines_between_functions_and/)
-- [This week in #Scala &lpar;Aug 22, 2022&rpar;](https://www.reddit.com/r/scala/comments/wu5k4h/this_week_in_scala_aug_22_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

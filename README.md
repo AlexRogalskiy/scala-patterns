@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [No build target could be found](https://www.reddit.com/r/scala/comments/x0uirx/no_build_target_could_be_found/)
+- [Rejected for scala job](https://www.reddit.com/r/scala/comments/x0kcf6/rejected_for_scala_job/)
+- [Scala 2 compiler plugin to detect unused expressions](https://www.reddit.com/r/scala/comments/x0hv4v/scala_2_compiler_plugin_to_detect_unused/)
 - [is there any way to get SBT to *always* build a file with a scala 3 macro?](https://www.reddit.com/r/scala/comments/x0992q/is_there_any_way_to_get_sbt_to_always_build_a/)
 - [This week in #Scala &lpar;Aug 29, 2022&rpar;](https://www.reddit.com/r/scala/comments/x05tr0/this_week_in_scala_aug_29_2022/)
 - [[Question] Class constructor as a function in a LUT](https://www.reddit.com/r/scala/comments/x03q33/question_class_constructor_as_a_function_in_a_lut/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Enums en Scala 3](https://www.reddit.com/r/scala/comments/wz1uuz/enums_en_scala_3/)
 - [Containers Redux - Capturing Type Class information for myriad types](https://www.reddit.com/r/scala/comments/wykd95/containers_redux_capturing_type_class_information/)
 - [How can I bind 2 class hierarchies together by a shared type, the correct/idiomatic way?](https://www.reddit.com/r/scala/comments/wy2yir/how_can_i_bind_2_class_hierarchies_together_by_a/)
-- [Comparing ZIO to Haskell effects libraries like Polysemy?](https://www.reddit.com/r/scala/comments/wxioxg/comparing_zio_to_haskell_effects_libraries_like/)
-- [I&#39;m tired of writing low quality Scala code so I&#39;m learning it seriously](https://www.reddit.com/r/scala/comments/wxhmog/im_tired_of_writing_low_quality_scala_code_so_im/)
-- [Scala List[Unit] to List[String] Conversion](https://www.reddit.com/r/scala/comments/wxfi7z/scala_listunit_to_liststring_conversion/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

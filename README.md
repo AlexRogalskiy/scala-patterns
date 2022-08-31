@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help with doobie mapping, date[] - Seq[String]](https://www.reddit.com/r/scala/comments/x1zui5/help_with_doobie_mapping_date_seqstring/)
+- [Scala is Improving &lpar;SIP update&rpar;](https://www.reddit.com/r/scala/comments/x1ru1i/scala_is_improving_sip_update/)
+- [Confusion about Tagless Final](https://www.reddit.com/r/scala/comments/x1ri1q/confusion_about_tagless_final/)
+- [How Scala 3 compiler is verified - The Open Community Build](https://www.reddit.com/r/scala/comments/x1h84n/how_scala_3_compiler_is_verified_the_open/)
+- [[NEWBIE] Problem with the very first project &lpar;Coursier installer, Win 10, Java 8&rpar;](https://www.reddit.com/r/scala/comments/x1flgp/newbie_problem_with_the_very_first_project/)
+- [Learn Scala 3 The Fast Way!](https://www.reddit.com/r/scala/comments/x1d2ss/learn_scala_3_the_fast_way/)
 - [No build target could be found](https://www.reddit.com/r/scala/comments/x0uirx/no_build_target_could_be_found/)
 - [Rejected for scala job](https://www.reddit.com/r/scala/comments/x0kcf6/rejected_for_scala_job/)
 - [Scala 2 compiler plugin to detect unused expressions](https://www.reddit.com/r/scala/comments/x0hv4v/scala_2_compiler_plugin_to_detect_unused/)
 - [is there any way to get SBT to *always* build a file with a scala 3 macro?](https://www.reddit.com/r/scala/comments/x0992q/is_there_any_way_to_get_sbt_to_always_build_a/)
-- [This week in #Scala &lpar;Aug 29, 2022&rpar;](https://www.reddit.com/r/scala/comments/x05tr0/this_week_in_scala_aug_29_2022/)
-- [[Question] Class constructor as a function in a LUT](https://www.reddit.com/r/scala/comments/x03q33/question_class_constructor_as_a_function_in_a_lut/)
-- [Bash Scripting is AWESOME now?!](https://www.reddit.com/r/scala/comments/wzxwpk/bash_scripting_is_awesome_now/)
-- [Enums en Scala 3](https://www.reddit.com/r/scala/comments/wz1uuz/enums_en_scala_3/)
-- [Containers Redux - Capturing Type Class information for myriad types](https://www.reddit.com/r/scala/comments/wykd95/containers_redux_capturing_type_class_information/)
-- [How can I bind 2 class hierarchies together by a shared type, the correct/idiomatic way?](https://www.reddit.com/r/scala/comments/wy2yir/how_can_i_bind_2_class_hierarchies_together_by_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

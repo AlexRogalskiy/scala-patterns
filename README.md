@@ -271,7 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Help with doobie mapping, date[] - Seq[String]](https://www.reddit.com/r/scala/comments/x1zui5/help_with_doobie_mapping_date_seqstring/)
+- [Various doobie Meta instances with same type?](https://www.reddit.com/r/scala/comments/x2snkz/various_doobie_meta_instances_with_same_type/)
+- [I want to move to Scala 3, but I&#39;m not sure what libraries to use](https://www.reddit.com/r/scala/comments/x23oa7/i_want_to_move_to_scala_3_but_im_not_sure_what/)
 - [Scala is Improving &lpar;SIP update&rpar;](https://www.reddit.com/r/scala/comments/x1ru1i/scala_is_improving_sip_update/)
 - [Confusion about Tagless Final](https://www.reddit.com/r/scala/comments/x1ri1q/confusion_about_tagless_final/)
 - [How Scala 3 compiler is verified - The Open Community Build](https://www.reddit.com/r/scala/comments/x1h84n/how_scala_3_compiler_is_verified_the_open/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [No build target could be found](https://www.reddit.com/r/scala/comments/x0uirx/no_build_target_could_be_found/)
 - [Rejected for scala job](https://www.reddit.com/r/scala/comments/x0kcf6/rejected_for_scala_job/)
 - [Scala 2 compiler plugin to detect unused expressions](https://www.reddit.com/r/scala/comments/x0hv4v/scala_2_compiler_plugin_to_detect_unused/)
-- [is there any way to get SBT to *always* build a file with a scala 3 macro?](https://www.reddit.com/r/scala/comments/x0992q/is_there_any_way_to_get_sbt_to_always_build_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

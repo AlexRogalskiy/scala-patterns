@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/x3bb09/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [Mónadas en Cats parte 22](https://www.reddit.com/r/scala/comments/x347af/mónadas_en_cats_parte_22/)
+- [Tooling Talks - Filip Zybała: Scaladoc from Scratch](https://www.reddit.com/r/scala/comments/x31q4n/tooling_talks_filip_zybała_scaladoc_from_scratch/)
 - [Various doobie Meta instances with same type?](https://www.reddit.com/r/scala/comments/x2snkz/various_doobie_meta_instances_with_same_type/)
 - [I want to move to Scala 3, but I&#39;m not sure what libraries to use](https://www.reddit.com/r/scala/comments/x23oa7/i_want_to_move_to_scala_3_but_im_not_sure_what/)
 - [Scala is Improving &lpar;SIP update&rpar;](https://www.reddit.com/r/scala/comments/x1ru1i/scala_is_improving_sip_update/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How Scala 3 compiler is verified - The Open Community Build](https://www.reddit.com/r/scala/comments/x1h84n/how_scala_3_compiler_is_verified_the_open/)
 - [[NEWBIE] Problem with the very first project &lpar;Coursier installer, Win 10, Java 8&rpar;](https://www.reddit.com/r/scala/comments/x1flgp/newbie_problem_with_the_very_first_project/)
 - [Learn Scala 3 The Fast Way!](https://www.reddit.com/r/scala/comments/x1d2ss/learn_scala_3_the_fast_way/)
-- [No build target could be found](https://www.reddit.com/r/scala/comments/x0uirx/no_build_target_could_be_found/)
-- [Rejected for scala job](https://www.reddit.com/r/scala/comments/x0kcf6/rejected_for_scala_job/)
-- [Scala 2 compiler plugin to detect unused expressions](https://www.reddit.com/r/scala/comments/x0hv4v/scala_2_compiler_plugin_to_detect_unused/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

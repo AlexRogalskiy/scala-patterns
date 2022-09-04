@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Handling exceptions using Futures / Try Monads](https://www.reddit.com/r/scala/comments/x519hd/handling_exceptions_using_futures_try_monads/)
+- [Writing Worse Scala](https://www.reddit.com/r/scala/comments/x4zxbk/writing_worse_scala/)
+- [Is Scala a good choice for a data intensive web backend?](https://www.reddit.com/r/scala/comments/x4ksxd/is_scala_a_good_choice_for_a_data_intensive_web/)
 - [Is there any good resource for learning Slick &lpar;3.x&rpar;?](https://www.reddit.com/r/scala/comments/x3vtrj/is_there_any_good_resource_for_learning_slick_3x/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/x3bb09/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Mónadas en Cats parte 22](https://www.reddit.com/r/scala/comments/x347af/mónadas_en_cats_parte_22/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Various doobie Meta instances with same type?](https://www.reddit.com/r/scala/comments/x2snkz/various_doobie_meta_instances_with_same_type/)
 - [I want to move to Scala 3, but I&#39;m not sure what libraries to use](https://www.reddit.com/r/scala/comments/x23oa7/i_want_to_move_to_scala_3_but_im_not_sure_what/)
 - [Scala is Improving &lpar;SIP update&rpar;](https://www.reddit.com/r/scala/comments/x1ru1i/scala_is_improving_sip_update/)
-- [Confusion about Tagless Final](https://www.reddit.com/r/scala/comments/x1ri1q/confusion_about_tagless_final/)
-- [How Scala 3 compiler is verified - The Open Community Build](https://www.reddit.com/r/scala/comments/x1h84n/how_scala_3_compiler_is_verified_the_open/)
-- [[NEWBIE] Problem with the very first project &lpar;Coursier installer, Win 10, Java 8&rpar;](https://www.reddit.com/r/scala/comments/x1flgp/newbie_problem_with_the_very_first_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

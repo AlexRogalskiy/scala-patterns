@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Has anyone tried ZIO 2 with Scala 3 for a production build?](https://www.reddit.com/r/scala/comments/x6yv9i/has_anyone_tried_zio_2_with_scala_3_for_a/)
+- [Is there a JSON parsing library that supports union types?](https://www.reddit.com/r/scala/comments/x6vnbo/is_there_a_json_parsing_library_that_supports/)
+- [[Question] Syntax sugar for unwrapping Try-s?](https://www.reddit.com/r/scala/comments/x6l0ha/question_syntax_sugar_for_unwrapping_trys/)
+- [Scala 3.2 released!](https://www.reddit.com/r/scala/comments/x6cncf/scala_32_released/)
+- [Tell about your favorite courses to study Scala for beginners and pro](https://www.reddit.com/r/scala/comments/x6cjtx/tell_about_your_favorite_courses_to_study_scala/)
+- [Question about some advanced types](https://www.reddit.com/r/scala/comments/x6bwws/question_about_some_advanced_types/)
+- [zio-json got 333 stars!](https://www.reddit.com/r/scala/comments/x693pa/ziojson_got_333_stars/)
 - [This week in #Scala &lpar;Sep 5, 2022&rpar;](https://www.reddit.com/r/scala/comments/x5rl2i/this_week_in_scala_sep_5_2022/)
 - [A brief tour of Scala: two classic problems](https://www.reddit.com/r/scala/comments/x5opi9/a_brief_tour_of_scala_two_classic_problems/)
 - [SIP-44 - FEWER BRACES](https://www.reddit.com/r/scala/comments/x5kxdm/sip44_fewer_braces/)
-- [Calculate times for N days interval?](https://www.reddit.com/r/scala/comments/x5hsta/calculate_times_for_n_days_interval/)
-- [Handling exceptions using Futures / Try Monads](https://www.reddit.com/r/scala/comments/x519hd/handling_exceptions_using_futures_try_monads/)
-- [Writing Worse Scala](https://www.reddit.com/r/scala/comments/x4zxbk/writing_worse_scala/)
-- [Is Scala a good choice for a data intensive web backend?](https://www.reddit.com/r/scala/comments/x4ksxd/is_scala_a_good_choice_for_a_data_intensive_web/)
-- [Is there any good resource for learning Slick &lpar;3.x&rpar;?](https://www.reddit.com/r/scala/comments/x3vtrj/is_there_any_good_resource_for_learning_slick_3x/)
-- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/x3bb09/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [Mónadas en Cats parte 22](https://www.reddit.com/r/scala/comments/x347af/mónadas_en_cats_parte_22/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

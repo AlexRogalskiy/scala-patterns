@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Superfan James Ward on Java, Scala &amp; Kotlin](https://www.reddit.com/r/scala/comments/x91ovq/scala_superfan_james_ward_on_java_scala_kotlin/)
 - [Starting with scala](https://www.reddit.com/r/scala/comments/x888ai/starting_with_scala/)
 - [The Guardian is now sponsoring the Play Framework](https://www.reddit.com/r/scala/comments/x82vp3/the_guardian_is_now_sponsoring_the_play_framework/)
 - [Akka is moving away from Open Source](https://www.reddit.com/r/scala/comments/x7yr9b/akka_is_moving_away_from_open_source/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How many devils laughing to tears in your Scala projects?](https://www.reddit.com/r/scala/comments/x75hx8/how_many_devils_laughing_to_tears_in_your_scala/)
 - [Has anyone tried ZIO 2 with Scala 3 for a production build?](https://www.reddit.com/r/scala/comments/x6yv9i/has_anyone_tried_zio_2_with_scala_3_for_a/)
 - [Is there a JSON parsing library that supports union types?](https://www.reddit.com/r/scala/comments/x6vnbo/is_there_a_json_parsing_library_that_supports/)
-- [[Question] Syntax sugar for unwrapping Try-s?](https://www.reddit.com/r/scala/comments/x6l0ha/question_syntax_sugar_for_unwrapping_trys/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

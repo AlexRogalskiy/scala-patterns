@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Scala Superfan James Ward on Java, Scala &amp; Kotlin](https://www.reddit.com/r/scala/comments/x91ovq/scala_superfan_james_ward_on_java_scala_kotlin/)
-- [Starting with scala](https://www.reddit.com/r/scala/comments/x888ai/starting_with_scala/)
-- [The Guardian is now sponsoring the Play Framework](https://www.reddit.com/r/scala/comments/x82vp3/the_guardian_is_now_sponsoring_the_play_framework/)
-- [Akka is moving away from Open Source](https://www.reddit.com/r/scala/comments/x7yr9b/akka_is_moving_away_from_open_source/)
-- [Why We Are Changing the License for Akka](https://www.reddit.com/r/scala/comments/x7xyzr/why_we_are_changing_the_license_for_akka/)
-- [where to deploy http API on aws](https://www.reddit.com/r/scala/comments/x7gg8i/where_to_deploy_http_api_on_aws/)
-- [Using Regular Expressions in queries with Scala Anorm and Playframework](https://www.reddit.com/r/scala/comments/x79qkp/using_regular_expressions_in_queries_with_scala/)
-- [How many devils laughing to tears in your Scala projects?](https://www.reddit.com/r/scala/comments/x75hx8/how_many_devils_laughing_to_tears_in_your_scala/)
-- [Has anyone tried ZIO 2 with Scala 3 for a production build?](https://www.reddit.com/r/scala/comments/x6yv9i/has_anyone_tried_zio_2_with_scala_3_for_a/)
-- [Is there a JSON parsing library that supports union types?](https://www.reddit.com/r/scala/comments/x6vnbo/is_there_a_json_parsing_library_that_supports/)
+- [typelevel](https://www.reddit.com/r/scala/comments/xabwfj/typelevel/)
+- [Scala Ukraine Meet-up September 30](https://www.reddit.com/r/scala/comments/xa8c4j/scala_ukraine_meetup_september_30/)
+- [Apache Flink: Regarding Akka&#39;s licensing change](https://www.reddit.com/r/scala/comments/xa60no/apache_flink_regarding_akkas_licensing_change/)
+- [How to unit test a Scala object that calls other objects](https://www.reddit.com/r/scala/comments/xa2p2e/how_to_unit_test_a_scala_object_that_calls_other/)
+- [Lightbend commit to supporting Akka 2.6.x until September 2023](https://www.reddit.com/r/scala/comments/xa2gok/lightbend_commit_to_supporting_akka_26x_until/)
+- [library/framework to write concurrent and distributed application in scala](https://www.reddit.com/r/scala/comments/x9ym9t/libraryframework_to_write_concurrent_and/)
+- [Replacing Akka Streams with 100 lines of code](https://www.reddit.com/r/scala/comments/x9vfxg/replacing_akka_streams_with_100_lines_of_code/)
+- [would you recommend learning scala?](https://www.reddit.com/r/scala/comments/x9sea7/would_you_recommend_learning_scala/)
+- [Library recommendations?](https://www.reddit.com/r/scala/comments/x9q0dr/library_recommendations/)
+- [Scala isn&#39;t fun anymore](https://www.reddit.com/r/scala/comments/x9olls/scala_isnt_fun_anymore/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

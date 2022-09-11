@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Shardcake, a library for entity sharding and location transparency](https://www.reddit.com/r/scala/comments/xb6f90/shardcake_a_library_for_entity_sharding_and/)
+- [Good book for non-beginners in programming](https://www.reddit.com/r/scala/comments/xank77/good_book_for_nonbeginners_in_programming/)
 - [typelevel](https://www.reddit.com/r/scala/comments/xabwfj/typelevel/)
 - [Scala Ukraine Meet-up September 30](https://www.reddit.com/r/scala/comments/xa8c4j/scala_ukraine_meetup_september_30/)
 - [Apache Flink: Regarding Akka&#39;s licensing change](https://www.reddit.com/r/scala/comments/xa60no/apache_flink_regarding_akkas_licensing_change/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [library/framework to write concurrent and distributed application in scala](https://www.reddit.com/r/scala/comments/x9ym9t/libraryframework_to_write_concurrent_and/)
 - [Replacing Akka Streams with 100 lines of code](https://www.reddit.com/r/scala/comments/x9vfxg/replacing_akka_streams_with_100_lines_of_code/)
 - [would you recommend learning scala?](https://www.reddit.com/r/scala/comments/x9sea7/would_you_recommend_learning_scala/)
-- [Library recommendations?](https://www.reddit.com/r/scala/comments/x9q0dr/library_recommendations/)
-- [Scala isn&#39;t fun anymore](https://www.reddit.com/r/scala/comments/x9olls/scala_isnt_fun_anymore/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Moving Career, should I learn Akka?](https://www.reddit.com/r/scala/comments/xc2cdg/moving_career_should_i_learn_akka/)
+- [I badly need some help with Zio](https://www.reddit.com/r/scala/comments/xc1pq1/i_badly_need_some_help_with_zio/)
+- [Scala JWT](https://www.reddit.com/r/scala/comments/xbqf7u/scala_jwt/)
+- [Which package style for a library](https://www.reddit.com/r/scala/comments/xbpvfq/which_package_style_for_a_library/)
+- [This week in #Scala &lpar;Sep 12, 2022&rpar;](https://www.reddit.com/r/scala/comments/xbowxq/this_week_in_scala_sep_12_2022/)
+- [Replacing Play+Akka with another tech-stack in Scala](https://www.reddit.com/r/scala/comments/xbhval/replacing_playakka_with_another_techstack_in_scala/)
 - [Shardcake, a library for entity sharding and location transparency](https://www.reddit.com/r/scala/comments/xb6f90/shardcake_a_library_for_entity_sharding_and/)
 - [Good book for non-beginners in programming](https://www.reddit.com/r/scala/comments/xank77/good_book_for_nonbeginners_in_programming/)
 - [typelevel](https://www.reddit.com/r/scala/comments/xabwfj/typelevel/)
 - [Scala Ukraine Meet-up September 30](https://www.reddit.com/r/scala/comments/xa8c4j/scala_ukraine_meetup_september_30/)
-- [Apache Flink: Regarding Akka&#39;s licensing change](https://www.reddit.com/r/scala/comments/xa60no/apache_flink_regarding_akkas_licensing_change/)
-- [How to unit test a Scala object that calls other objects](https://www.reddit.com/r/scala/comments/xa2p2e/how_to_unit_test_a_scala_object_that_calls_other/)
-- [Lightbend commit to supporting Akka 2.6.x until September 2023](https://www.reddit.com/r/scala/comments/xa2gok/lightbend_commit_to_supporting_akka_26x_until/)
-- [library/framework to write concurrent and distributed application in scala](https://www.reddit.com/r/scala/comments/x9ym9t/libraryframework_to_write_concurrent_and/)
-- [Replacing Akka Streams with 100 lines of code](https://www.reddit.com/r/scala/comments/x9vfxg/replacing_akka_streams_with_100_lines_of_code/)
-- [would you recommend learning scala?](https://www.reddit.com/r/scala/comments/x9sea7/would_you_recommend_learning_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

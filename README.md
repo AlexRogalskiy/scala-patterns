@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Reconciling Spark APIs for Scala](https://www.reddit.com/r/scala/comments/xc7j6r/reconciling_spark_apis_for_scala/)
+- [Properties scala tests](https://www.reddit.com/r/scala/comments/xc2upj/properties_scala_tests/)
 - [Moving Career, should I learn Akka?](https://www.reddit.com/r/scala/comments/xc2cdg/moving_career_should_i_learn_akka/)
 - [I badly need some help with Zio](https://www.reddit.com/r/scala/comments/xc1pq1/i_badly_need_some_help_with_zio/)
 - [Scala JWT](https://www.reddit.com/r/scala/comments/xbqf7u/scala_jwt/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Replacing Play+Akka with another tech-stack in Scala](https://www.reddit.com/r/scala/comments/xbhval/replacing_playakka_with_another_techstack_in_scala/)
 - [Shardcake, a library for entity sharding and location transparency](https://www.reddit.com/r/scala/comments/xb6f90/shardcake_a_library_for_entity_sharding_and/)
 - [Good book for non-beginners in programming](https://www.reddit.com/r/scala/comments/xank77/good_book_for_nonbeginners_in_programming/)
-- [typelevel](https://www.reddit.com/r/scala/comments/xabwfj/typelevel/)
-- [Scala Ukraine Meet-up September 30](https://www.reddit.com/r/scala/comments/xa8c4j/scala_ukraine_meetup_september_30/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

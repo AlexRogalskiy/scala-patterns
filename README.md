@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala.js AWS Lambda, using Scala 3](https://www.reddit.com/r/scala/comments/xdqc5l/scalajs_aws_lambda_using_scala_3/)
+- [fewerBraces, YAML, ZIO](https://www.reddit.com/r/scala/comments/xdnovf/fewerbraces_yaml_zio/)
+- [How to find city&#39;s Scala User Group or start if it doesn&#39;t exist?](https://www.reddit.com/r/scala/comments/xddaar/how_to_find_citys_scala_user_group_or_start_if_it/)
+- [A small uni class&#39;s initial take on the Akka licence change](https://www.reddit.com/r/scala/comments/xdclxs/a_small_uni_classs_initial_take_on_the_akka/)
+- [Neovim &amp; Scala. Metals LSP not found when using :LspInstall](https://www.reddit.com/r/scala/comments/xd8oqr/neovim_scala_metals_lsp_not_found_when_using/)
+- [Scripting with Scala](https://www.reddit.com/r/scala/comments/xd4i70/scripting_with_scala/)
 - [Reconciling Spark APIs for Scala](https://www.reddit.com/r/scala/comments/xc7j6r/reconciling_spark_apis_for_scala/)
 - [Properties scala tests](https://www.reddit.com/r/scala/comments/xc2upj/properties_scala_tests/)
 - [Moving Career, should I learn Akka?](https://www.reddit.com/r/scala/comments/xc2cdg/moving_career_should_i_learn_akka/)
 - [I badly need some help with Zio](https://www.reddit.com/r/scala/comments/xc1pq1/i_badly_need_some_help_with_zio/)
-- [Scala JWT](https://www.reddit.com/r/scala/comments/xbqf7u/scala_jwt/)
-- [Which package style for a library](https://www.reddit.com/r/scala/comments/xbpvfq/which_package_style_for_a_library/)
-- [This week in #Scala &lpar;Sep 12, 2022&rpar;](https://www.reddit.com/r/scala/comments/xbowxq/this_week_in_scala_sep_12_2022/)
-- [Replacing Play+Akka with another tech-stack in Scala](https://www.reddit.com/r/scala/comments/xbhval/replacing_playakka_with_another_techstack_in_scala/)
-- [Shardcake, a library for entity sharding and location transparency](https://www.reddit.com/r/scala/comments/xb6f90/shardcake_a_library_for_entity_sharding_and/)
-- [Good book for non-beginners in programming](https://www.reddit.com/r/scala/comments/xank77/good_book_for_nonbeginners_in_programming/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

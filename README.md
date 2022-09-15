@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Functional event sourcing with cats-effect](https://www.reddit.com/r/scala/comments/xe2kce/functional_event_sourcing_with_catseffect/)
+- [Real-world functional programming in Scala using ZIO - a tour by Yonas Ghidei @ FuncProgSweden](https://www.reddit.com/r/scala/comments/xe1fw7/realworld_functional_programming_in_scala_using/)
+- [Manage library breaking changes with Scalafix by Alifirat Kilic](https://www.reddit.com/r/scala/comments/xe069t/manage_library_breaking_changes_with_scalafix_by/)
 - [Scala.js AWS Lambda, using Scala 3](https://www.reddit.com/r/scala/comments/xdqc5l/scalajs_aws_lambda_using_scala_3/)
 - [fewerBraces, YAML, ZIO](https://www.reddit.com/r/scala/comments/xdnovf/fewerbraces_yaml_zio/)
 - [How to find city&#39;s Scala User Group or start if it doesn&#39;t exist?](https://www.reddit.com/r/scala/comments/xddaar/how_to_find_citys_scala_user_group_or_start_if_it/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Neovim &amp; Scala. Metals LSP not found when using :LspInstall](https://www.reddit.com/r/scala/comments/xd8oqr/neovim_scala_metals_lsp_not_found_when_using/)
 - [Scripting with Scala](https://www.reddit.com/r/scala/comments/xd4i70/scripting_with_scala/)
 - [Reconciling Spark APIs for Scala](https://www.reddit.com/r/scala/comments/xc7j6r/reconciling_spark_apis_for_scala/)
-- [Properties scala tests](https://www.reddit.com/r/scala/comments/xc2upj/properties_scala_tests/)
-- [Moving Career, should I learn Akka?](https://www.reddit.com/r/scala/comments/xc2cdg/moving_career_should_i_learn_akka/)
-- [I badly need some help with Zio](https://www.reddit.com/r/scala/comments/xc1pq1/i_badly_need_some_help_with_zio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

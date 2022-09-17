@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 2.12.17 is here](https://www.reddit.com/r/scala/comments/xg4f8f/scala_21217_is_here/)
+- [Custom JIT compilation with Runtime Multi-Stage Programming](https://www.reddit.com/r/scala/comments/xfqiio/custom_jit_compilation_with_runtime_multistage/)
+- [Azure databricks Scala 2.12 and spark 3.2.1 how to deploy](https://www.reddit.com/r/scala/comments/xfokit/azure_databricks_scala_212_and_spark_321_how_to/)
+- [A Apache Commons Lang3 Bridge For Scala](https://www.reddit.com/r/scala/comments/xfnfro/a_apache_commons_lang3_bridge_for_scala/)
+- [Learning about variance/covariance and context bounds. hit me with your best blog or YT !](https://www.reddit.com/r/scala/comments/xf67m4/learning_about_variancecovariance_and_context/)
+- [Scala 3 Equivalent for implicit def](https://www.reddit.com/r/scala/comments/xf0bag/scala_3_equivalent_for_implicit_def/)
+- [http4s as a replacement for akka-http?](https://www.reddit.com/r/scala/comments/xey2qa/http4s_as_a_replacement_for_akkahttp/)
+- [Test with Scala check properties](https://www.reddit.com/r/scala/comments/xet80a/test_with_scala_check_properties/)
+- [Scala backend developer interview process](https://www.reddit.com/r/scala/comments/xeqh0t/scala_backend_developer_interview_process/)
 - [Functional event sourcing with cats-effect](https://www.reddit.com/r/scala/comments/xe2kce/functional_event_sourcing_with_catseffect/)
-- [Real-world functional programming in Scala using ZIO - a tour by Yonas Ghidei @ FuncProgSweden](https://www.reddit.com/r/scala/comments/xe1fw7/realworld_functional_programming_in_scala_using/)
-- [Manage library breaking changes with Scalafix by Alifirat Kilic](https://www.reddit.com/r/scala/comments/xe069t/manage_library_breaking_changes_with_scalafix_by/)
-- [Scala.js AWS Lambda, using Scala 3](https://www.reddit.com/r/scala/comments/xdqc5l/scalajs_aws_lambda_using_scala_3/)
-- [fewerBraces, YAML, ZIO](https://www.reddit.com/r/scala/comments/xdnovf/fewerbraces_yaml_zio/)
-- [How to find city&#39;s Scala User Group or start if it doesn&#39;t exist?](https://www.reddit.com/r/scala/comments/xddaar/how_to_find_citys_scala_user_group_or_start_if_it/)
-- [A small uni class&#39;s initial take on the Akka licence change](https://www.reddit.com/r/scala/comments/xdclxs/a_small_uni_classs_initial_take_on_the_akka/)
-- [Neovim &amp; Scala. Metals LSP not found when using :LspInstall](https://www.reddit.com/r/scala/comments/xd8oqr/neovim_scala_metals_lsp_not_found_when_using/)
-- [Scripting with Scala](https://www.reddit.com/r/scala/comments/xd4i70/scripting_with_scala/)
-- [Reconciling Spark APIs for Scala](https://www.reddit.com/r/scala/comments/xc7j6r/reconciling_spark_apis_for_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

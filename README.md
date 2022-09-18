@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala project ideas](https://www.reddit.com/r/scala/comments/xh04zx/scala_project_ideas/)
+- [zio-http, any experiences to share](https://www.reddit.com/r/scala/comments/xgywrw/ziohttp_any_experiences_to_share/)
+- [The Typelevel stack and Scala Native](https://www.reddit.com/r/scala/comments/xgswt8/the_typelevel_stack_and_scala_native/)
 - [Scala 2.12.17 is here](https://www.reddit.com/r/scala/comments/xg4f8f/scala_21217_is_here/)
 - [Custom JIT compilation with Runtime Multi-Stage Programming](https://www.reddit.com/r/scala/comments/xfqiio/custom_jit_compilation_with_runtime_multistage/)
 - [Azure databricks Scala 2.12 and spark 3.2.1 how to deploy](https://www.reddit.com/r/scala/comments/xfokit/azure_databricks_scala_212_and_spark_321_how_to/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Learning about variance/covariance and context bounds. hit me with your best blog or YT !](https://www.reddit.com/r/scala/comments/xf67m4/learning_about_variancecovariance_and_context/)
 - [Scala 3 Equivalent for implicit def](https://www.reddit.com/r/scala/comments/xf0bag/scala_3_equivalent_for_implicit_def/)
 - [http4s as a replacement for akka-http?](https://www.reddit.com/r/scala/comments/xey2qa/http4s_as_a_replacement_for_akkahttp/)
-- [Test with Scala check properties](https://www.reddit.com/r/scala/comments/xet80a/test_with_scala_check_properties/)
-- [Scala backend developer interview process](https://www.reddit.com/r/scala/comments/xeqh0t/scala_backend_developer_interview_process/)
-- [Functional event sourcing with cats-effect](https://www.reddit.com/r/scala/comments/xe2kce/functional_event_sourcing_with_catseffect/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

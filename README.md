@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Typelevel Native](https://www.reddit.com/r/scala/comments/xippcl/typelevel_native/)
+- [Using Circe with GADT](https://www.reddit.com/r/scala/comments/xin6mi/using_circe_with_gadt/)
+- [What projects I can build while applying Functional programming in Scala?](https://www.reddit.com/r/scala/comments/xilpwr/what_projects_i_can_build_while_applying/)
+- [What does :+ mean in pattern matching?](https://www.reddit.com/r/scala/comments/xigqxc/what_does_mean_in_pattern_matching/)
+- [Taking recruitment in the Scala community to the next level!](https://www.reddit.com/r/scala/comments/xi4hjt/taking_recruitment_in_the_scala_community_to_the/)
+- [Another one on braceless syntax and indentation](https://www.reddit.com/r/scala/comments/xi2n1p/another_one_on_braceless_syntax_and_indentation/)
 - [Anybody Recruiting?](https://www.reddit.com/r/scala/comments/xhx7jg/anybody_recruiting/)
 - [Slick 3.4.x is here!](https://www.reddit.com/r/scala/comments/xhsbdh/slick_34x_is_here/)
 - [This week in #Scala &lpar;Sep 19, 2022&rpar;](https://www.reddit.com/r/scala/comments/xhqdni/this_week_in_scala_sep_19_2022/)
 - [Building a simple programming language in Scala from scratch](https://www.reddit.com/r/scala/comments/xhos7k/building_a_simple_programming_language_in_scala/)
-- [Immutable Map in a var, or mutable Map in a val?](https://www.reddit.com/r/scala/comments/xhlvlg/immutable_map_in_a_var_or_mutable_map_in_a_val/)
-- [dotty-cps-async 0.9.11 is out. &lpar;bugfixes and experimental loom support&rpar;](https://www.reddit.com/r/scala/comments/xha61s/dottycpsasync_0911_is_out_bugfixes_and/)
-- [Scala project ideas](https://www.reddit.com/r/scala/comments/xh04zx/scala_project_ideas/)
-- [zio-http, any experiences to share](https://www.reddit.com/r/scala/comments/xgywrw/ziohttp_any_experiences_to_share/)
-- [The Typelevel stack and Scala Native](https://www.reddit.com/r/scala/comments/xgswt8/the_typelevel_stack_and_scala_native/)
-- [Scala 2.12.17 is here](https://www.reddit.com/r/scala/comments/xg4f8f/scala_21217_is_here/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

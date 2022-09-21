@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Akka fork](https://www.reddit.com/r/scala/comments/xjfoa3/akka_fork/)
+- [Zymposium - From Akka to ZIO](https://www.reddit.com/r/scala/comments/xj426h/zymposium_from_akka_to_zio/)
+- [Need Help Creating Scala JS Library Artifact](https://www.reddit.com/r/scala/comments/xj223u/need_help_creating_scala_js_library_artifact/)
 - [Typelevel Native](https://www.reddit.com/r/scala/comments/xippcl/typelevel_native/)
 - [Using Circe with GADT](https://www.reddit.com/r/scala/comments/xin6mi/using_circe_with_gadt/)
 - [What projects I can build while applying Functional programming in Scala?](https://www.reddit.com/r/scala/comments/xilpwr/what_projects_i_can_build_while_applying/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Taking recruitment in the Scala community to the next level!](https://www.reddit.com/r/scala/comments/xi4hjt/taking_recruitment_in_the_scala_community_to_the/)
 - [Another one on braceless syntax and indentation](https://www.reddit.com/r/scala/comments/xi2n1p/another_one_on_braceless_syntax_and_indentation/)
 - [Anybody Recruiting?](https://www.reddit.com/r/scala/comments/xhx7jg/anybody_recruiting/)
-- [Slick 3.4.x is here!](https://www.reddit.com/r/scala/comments/xhsbdh/slick_34x_is_here/)
-- [This week in #Scala &lpar;Sep 19, 2022&rpar;](https://www.reddit.com/r/scala/comments/xhqdni/this_week_in_scala_sep_19_2022/)
-- [Building a simple programming language in Scala from scratch](https://www.reddit.com/r/scala/comments/xhos7k/building_a_simple_programming_language_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

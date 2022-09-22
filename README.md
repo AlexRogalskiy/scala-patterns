@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 2.13.9 is here](https://www.reddit.com/r/scala/comments/xkh9fa/scala_2139_is_here/)
+- [Java 19](https://www.reddit.com/r/scala/comments/xk9yon/java_19/)
+- [Migrating from Akka to ZIO Panel Discussion with John De Goes, Adam Fraser, Ivan Subotic, Jakub Czuchnowski, Jan Ypma, Kit Langton, and Michael Arnaldi &lpar;Sep. 23rd, 11:00 am PDT&rpar;](https://www.reddit.com/r/scala/comments/xk1pqe/migrating_from_akka_to_zio_panel_discussion_with/)
+- [Akka Fork FUD](https://www.reddit.com/r/scala/comments/xjw0bm/akka_fork_fud/)
 - [Akka fork](https://www.reddit.com/r/scala/comments/xjfoa3/akka_fork/)
 - [Zymposium - From Akka to ZIO](https://www.reddit.com/r/scala/comments/xj426h/zymposium_from_akka_to_zio/)
 - [Need Help Creating Scala JS Library Artifact](https://www.reddit.com/r/scala/comments/xj223u/need_help_creating_scala_js_library_artifact/)
 - [Typelevel Native](https://www.reddit.com/r/scala/comments/xippcl/typelevel_native/)
 - [Using Circe with GADT](https://www.reddit.com/r/scala/comments/xin6mi/using_circe_with_gadt/)
 - [What projects I can build while applying Functional programming in Scala?](https://www.reddit.com/r/scala/comments/xilpwr/what_projects_i_can_build_while_applying/)
-- [What does :+ mean in pattern matching?](https://www.reddit.com/r/scala/comments/xigqxc/what_does_mean_in_pattern_matching/)
-- [Taking recruitment in the Scala community to the next level!](https://www.reddit.com/r/scala/comments/xi4hjt/taking_recruitment_in_the_scala_community_to_the/)
-- [Another one on braceless syntax and indentation](https://www.reddit.com/r/scala/comments/xi2n1p/another_one_on_braceless_syntax_and_indentation/)
-- [Anybody Recruiting?](https://www.reddit.com/r/scala/comments/xhx7jg/anybody_recruiting/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

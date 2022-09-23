@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Akka Fork - Something is Brewing at Apache](https://www.reddit.com/r/scala/comments/xl5nvy/akka_fork_something_is_brewing_at_apache/)
 - [Scala 2.13.9 is here](https://www.reddit.com/r/scala/comments/xkh9fa/scala_2139_is_here/)
 - [Java 19](https://www.reddit.com/r/scala/comments/xk9yon/java_19/)
 - [Migrating from Akka to ZIO Panel Discussion with John De Goes, Adam Fraser, Ivan Subotic, Jakub Czuchnowski, Jan Ypma, Kit Langton, and Michael Arnaldi &lpar;Sep. 23rd, 11:00 am PDT&rpar;](https://www.reddit.com/r/scala/comments/xk1pqe/migrating_from_akka_to_zio_panel_discussion_with/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Need Help Creating Scala JS Library Artifact](https://www.reddit.com/r/scala/comments/xj223u/need_help_creating_scala_js_library_artifact/)
 - [Typelevel Native](https://www.reddit.com/r/scala/comments/xippcl/typelevel_native/)
 - [Using Circe with GADT](https://www.reddit.com/r/scala/comments/xin6mi/using_circe_with_gadt/)
-- [What projects I can build while applying Functional programming in Scala?](https://www.reddit.com/r/scala/comments/xilpwr/what_projects_i_can_build_while_applying/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

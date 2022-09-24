@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Brain teaser to take your mind off Akka](https://www.reddit.com/r/scala/comments/xm5pev/brain_teaser_to_take_your_mind_off_akka/)
+- [Normalised relational database modelling of ADTs](https://www.reddit.com/r/scala/comments/xm1jlk/normalised_relational_database_modelling_of_adts/)
+- [Migrating from Akka HTTP to tapir](https://www.reddit.com/r/scala/comments/xlqtph/migrating_from_akka_http_to_tapir/)
 - [Akka Fork - Something is Brewing at Apache](https://www.reddit.com/r/scala/comments/xl5nvy/akka_fork_something_is_brewing_at_apache/)
 - [Scala 2.13.9 is here](https://www.reddit.com/r/scala/comments/xkh9fa/scala_2139_is_here/)
 - [Java 19](https://www.reddit.com/r/scala/comments/xk9yon/java_19/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Akka Fork FUD](https://www.reddit.com/r/scala/comments/xjw0bm/akka_fork_fud/)
 - [Akka fork](https://www.reddit.com/r/scala/comments/xjfoa3/akka_fork/)
 - [Zymposium - From Akka to ZIO](https://www.reddit.com/r/scala/comments/xj426h/zymposium_from_akka_to_zio/)
-- [Need Help Creating Scala JS Library Artifact](https://www.reddit.com/r/scala/comments/xj223u/need_help_creating_scala_js_library_artifact/)
-- [Typelevel Native](https://www.reddit.com/r/scala/comments/xippcl/typelevel_native/)
-- [Using Circe with GADT](https://www.reddit.com/r/scala/comments/xin6mi/using_circe_with_gadt/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

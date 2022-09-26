@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Sep 26, 2022&rpar;](https://www.reddit.com/r/scala/comments/xnuevk/this_week_in_scala_sep_26_2022/)
 - [Is it a good idea to learn Scala coming from Python and without knowledge of Java?](https://www.reddit.com/r/scala/comments/xmpi3g/is_it_a_good_idea_to_learn_scala_coming_from/)
 - [Brain teaser to take your mind off Akka](https://www.reddit.com/r/scala/comments/xm5pev/brain_teaser_to_take_your_mind_off_akka/)
 - [Normalised relational database modelling of ADTs](https://www.reddit.com/r/scala/comments/xm1jlk/normalised_relational_database_modelling_of_adts/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Java 19](https://www.reddit.com/r/scala/comments/xk9yon/java_19/)
 - [Migrating from Akka to ZIO Panel Discussion with John De Goes, Adam Fraser, Ivan Subotic, Jakub Czuchnowski, Jan Ypma, Kit Langton, and Michael Arnaldi &lpar;Sep. 23rd, 11:00 am PDT&rpar;](https://www.reddit.com/r/scala/comments/xk1pqe/migrating_from_akka_to_zio_panel_discussion_with/)
 - [Akka Fork FUD](https://www.reddit.com/r/scala/comments/xjw0bm/akka_fork_fud/)
-- [Akka fork](https://www.reddit.com/r/scala/comments/xjfoa3/akka_fork/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

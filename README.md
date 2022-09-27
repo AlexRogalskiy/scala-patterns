@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Structured Logging for Akka](https://www.reddit.com/r/scala/comments/xomctp/structured_logging_for_akka/)
+- [How to be a part of Scala’s Open Community Build](https://www.reddit.com/r/scala/comments/xoe4si/how_to_be_a_part_of_scalas_open_community_build/)
+- [Released: Tyrian 0.6.0 &amp; Indigo 0.14.0](https://www.reddit.com/r/scala/comments/xod1dd/released_tyrian_060_indigo_0140/)
 - [This week in #Scala &lpar;Sep 26, 2022&rpar;](https://www.reddit.com/r/scala/comments/xnuevk/this_week_in_scala_sep_26_2022/)
 - [Is it a good idea to learn Scala coming from Python and without knowledge of Java?](https://www.reddit.com/r/scala/comments/xmpi3g/is_it_a_good_idea_to_learn_scala_coming_from/)
 - [Brain teaser to take your mind off Akka](https://www.reddit.com/r/scala/comments/xm5pev/brain_teaser_to_take_your_mind_off_akka/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Migrating from Akka HTTP to tapir](https://www.reddit.com/r/scala/comments/xlqtph/migrating_from_akka_http_to_tapir/)
 - [Akka Fork - Something is Brewing at Apache](https://www.reddit.com/r/scala/comments/xl5nvy/akka_fork_something_is_brewing_at_apache/)
 - [Scala 2.13.9 is here](https://www.reddit.com/r/scala/comments/xkh9fa/scala_2139_is_here/)
-- [Java 19](https://www.reddit.com/r/scala/comments/xk9yon/java_19/)
-- [Migrating from Akka to ZIO Panel Discussion with John De Goes, Adam Fraser, Ivan Subotic, Jakub Czuchnowski, Jan Ypma, Kit Langton, and Michael Arnaldi &lpar;Sep. 23rd, 11:00 am PDT&rpar;](https://www.reddit.com/r/scala/comments/xk1pqe/migrating_from_akka_to_zio_panel_discussion_with/)
-- [Akka Fork FUD](https://www.reddit.com/r/scala/comments/xjw0bm/akka_fork_fud/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

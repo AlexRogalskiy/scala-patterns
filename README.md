@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I have profiled my IntegerIncrementingService](https://www.reddit.com/r/scala/comments/xpxl6c/i_have_profiled_my_integerincrementingservice/)
+- [Any good examples of using Swagger with Akka HTTP?](https://www.reddit.com/r/scala/comments/xpkwbm/any_good_examples_of_using_swagger_with_akka_http/)
+- [what does this placeholder do here.](https://www.reddit.com/r/scala/comments/xpfqd1/what_does_this_placeholder_do_here/)
+- [Scala needs *highly* efficient libraries to survive in a multi-core age](https://www.reddit.com/r/scala/comments/xp8ub4/scala_needs_highly_efficient_libraries_to_survive/)
+- [How does Scala compare with other statically typed FP languages? What do you consider some of its strengths and weaknesses over those languages?](https://www.reddit.com/r/scala/comments/xp647r/how_does_scala_compare_with_other_statically/)
 - [Structured Logging for Akka](https://www.reddit.com/r/scala/comments/xomctp/structured_logging_for_akka/)
 - [How to be a part of Scala’s Open Community Build](https://www.reddit.com/r/scala/comments/xoe4si/how_to_be_a_part_of_scalas_open_community_build/)
 - [Released: Tyrian 0.6.0 &amp; Indigo 0.14.0](https://www.reddit.com/r/scala/comments/xod1dd/released_tyrian_060_indigo_0140/)
 - [This week in #Scala &lpar;Sep 26, 2022&rpar;](https://www.reddit.com/r/scala/comments/xnuevk/this_week_in_scala_sep_26_2022/)
 - [Is it a good idea to learn Scala coming from Python and without knowledge of Java?](https://www.reddit.com/r/scala/comments/xmpi3g/is_it_a_good_idea_to_learn_scala_coming_from/)
-- [Brain teaser to take your mind off Akka](https://www.reddit.com/r/scala/comments/xm5pev/brain_teaser_to_take_your_mind_off_akka/)
-- [Normalised relational database modelling of ADTs](https://www.reddit.com/r/scala/comments/xm1jlk/normalised_relational_database_modelling_of_adts/)
-- [Migrating from Akka HTTP to tapir](https://www.reddit.com/r/scala/comments/xlqtph/migrating_from_akka_http_to_tapir/)
-- [Akka Fork - Something is Brewing at Apache](https://www.reddit.com/r/scala/comments/xl5nvy/akka_fork_something_is_brewing_at_apache/)
-- [Scala 2.13.9 is here](https://www.reddit.com/r/scala/comments/xkh9fa/scala_2139_is_here/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

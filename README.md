@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Here’s a playlist of 7 hours of music I use to focus when I’m coding/developing](https://www.reddit.com/r/scala/comments/xqtpyg/heres_a_playlist_of_7_hours_of_music_i_use_to/)
+- [The Trouble with Checked Exceptions: Part 2](https://www.reddit.com/r/scala/comments/xqr0lk/the_trouble_with_checked_exceptions_part_2/)
+- [Functional Programming exercises in Scala 3: Functions on Lists](https://www.reddit.com/r/scala/comments/xq7hdn/functional_programming_exercises_in_scala_3/)
+- [Spark-NLP 4.2.0: Wav2Vec2 for Automatic Speech Recognition &lpar;ASR&rpar;, TAPAS for Table Question Answering, CamemBERT for Token Classification, new evaluation metrics for external datasets in all classifiers, much faster EntityRuler, over 3000+ state-of-the-art models &amp; pipelines, and many more!](https://www.reddit.com/r/scala/comments/xq5yuv/sparknlp_420_wav2vec2_for_automatic_speech/)
+- [Scala Visualizer?](https://www.reddit.com/r/scala/comments/xq2rdt/scala_visualizer/)
 - [I have profiled my IntegerIncrementingService](https://www.reddit.com/r/scala/comments/xpxl6c/i_have_profiled_my_integerincrementingservice/)
 - [Any good examples of using Swagger with Akka HTTP?](https://www.reddit.com/r/scala/comments/xpkwbm/any_good_examples_of_using_swagger_with_akka_http/)
 - [what does this placeholder do here.](https://www.reddit.com/r/scala/comments/xpfqd1/what_does_this_placeholder_do_here/)
 - [Scala needs *highly* efficient libraries to survive in a multi-core age](https://www.reddit.com/r/scala/comments/xp8ub4/scala_needs_highly_efficient_libraries_to_survive/)
 - [How does Scala compare with other statically typed FP languages? What do you consider some of its strengths and weaknesses over those languages?](https://www.reddit.com/r/scala/comments/xp647r/how_does_scala_compare_with_other_statically/)
-- [Structured Logging for Akka](https://www.reddit.com/r/scala/comments/xomctp/structured_logging_for_akka/)
-- [How to be a part of Scala’s Open Community Build](https://www.reddit.com/r/scala/comments/xoe4si/how_to_be_a_part_of_scalas_open_community_build/)
-- [Released: Tyrian 0.6.0 &amp; Indigo 0.14.0](https://www.reddit.com/r/scala/comments/xod1dd/released_tyrian_060_indigo_0140/)
-- [This week in #Scala &lpar;Sep 26, 2022&rpar;](https://www.reddit.com/r/scala/comments/xnuevk/this_week_in_scala_sep_26_2022/)
-- [Is it a good idea to learn Scala coming from Python and without knowledge of Java?](https://www.reddit.com/r/scala/comments/xmpi3g/is_it_a_good_idea_to_learn_scala_coming_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,7 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Here’s a playlist of 7 hours of music I use to focus when I’m coding/developing](https://www.reddit.com/r/scala/comments/xqtpyg/heres_a_playlist_of_7_hours_of_music_i_use_to/)
+- [Metaprogramming in Scala 2 and Scala 3](https://www.reddit.com/r/scala/comments/xr9ujj/metaprogramming_in_scala_2_and_scala_3/)
+- [Scala CLI v0.1.15 is out](https://www.reddit.com/r/scala/comments/xr5zy7/scala_cli_v0115_is_out/)
 - [The Trouble with Checked Exceptions: Part 2](https://www.reddit.com/r/scala/comments/xqr0lk/the_trouble_with_checked_exceptions_part_2/)
 - [Functional Programming exercises in Scala 3: Functions on Lists](https://www.reddit.com/r/scala/comments/xq7hdn/functional_programming_exercises_in_scala_3/)
 - [Spark-NLP 4.2.0: Wav2Vec2 for Automatic Speech Recognition &lpar;ASR&rpar;, TAPAS for Table Question Answering, CamemBERT for Token Classification, new evaluation metrics for external datasets in all classifiers, much faster EntityRuler, over 3000+ state-of-the-art models &amp; pipelines, and many more!](https://www.reddit.com/r/scala/comments/xq5yuv/sparknlp_420_wav2vec2_for_automatic_speech/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Any good examples of using Swagger with Akka HTTP?](https://www.reddit.com/r/scala/comments/xpkwbm/any_good_examples_of_using_swagger_with_akka_http/)
 - [what does this placeholder do here.](https://www.reddit.com/r/scala/comments/xpfqd1/what_does_this_placeholder_do_here/)
 - [Scala needs *highly* efficient libraries to survive in a multi-core age](https://www.reddit.com/r/scala/comments/xp8ub4/scala_needs_highly_efficient_libraries_to_survive/)
-- [How does Scala compare with other statically typed FP languages? What do you consider some of its strengths and weaknesses over those languages?](https://www.reddit.com/r/scala/comments/xp647r/how_does_scala_compare_with_other_statically/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

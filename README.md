@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Participate in the Scala Survey 2022!](https://www.reddit.com/r/scala/comments/xs2ggn/participate_in_the_scala_survey_2022/)
+- [Pekko &lpar;Open Source Akka fork&rpar; has been submitted to Apache Incubator](https://www.reddit.com/r/scala/comments/xrv5eu/pekko_open_source_akka_fork_has_been_submitted_to/)
 - [Metaprogramming in Scala 2 and Scala 3](https://www.reddit.com/r/scala/comments/xr9ujj/metaprogramming_in_scala_2_and_scala_3/)
 - [Scala CLI v0.1.15 is out](https://www.reddit.com/r/scala/comments/xr5zy7/scala_cli_v0115_is_out/)
 - [The Trouble with Checked Exceptions: Part 2](https://www.reddit.com/r/scala/comments/xqr0lk/the_trouble_with_checked_exceptions_part_2/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Visualizer?](https://www.reddit.com/r/scala/comments/xq2rdt/scala_visualizer/)
 - [I have profiled my IntegerIncrementingService](https://www.reddit.com/r/scala/comments/xpxl6c/i_have_profiled_my_integerincrementingservice/)
 - [Any good examples of using Swagger with Akka HTTP?](https://www.reddit.com/r/scala/comments/xpkwbm/any_good_examples_of_using_swagger_with_akka_http/)
-- [what does this placeholder do here.](https://www.reddit.com/r/scala/comments/xpfqd1/what_does_this_placeholder_do_here/)
-- [Scala needs *highly* efficient libraries to survive in a multi-core age](https://www.reddit.com/r/scala/comments/xp8ub4/scala_needs_highly_efficient_libraries_to_survive/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

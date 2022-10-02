@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/xsyy39/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [Tooling Talks - Gabriele Petronella: The Scala Improvement Process &lpar;SIP&rpar;](https://www.reddit.com/r/scala/comments/xsq0ga/tooling_talks_gabriele_petronella_the_scala/)
 - [Participate in the Scala Survey 2022!](https://www.reddit.com/r/scala/comments/xs2ggn/participate_in_the_scala_survey_2022/)
 - [Pekko &lpar;Open Source Akka fork&rpar; has been submitted to Apache Incubator](https://www.reddit.com/r/scala/comments/xrv5eu/pekko_open_source_akka_fork_has_been_submitted_to/)
 - [Metaprogramming in Scala 2 and Scala 3](https://www.reddit.com/r/scala/comments/xr9ujj/metaprogramming_in_scala_2_and_scala_3/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Functional Programming exercises in Scala 3: Functions on Lists](https://www.reddit.com/r/scala/comments/xq7hdn/functional_programming_exercises_in_scala_3/)
 - [Spark-NLP 4.2.0: Wav2Vec2 for Automatic Speech Recognition &lpar;ASR&rpar;, TAPAS for Table Question Answering, CamemBERT for Token Classification, new evaluation metrics for external datasets in all classifiers, much faster EntityRuler, over 3000+ state-of-the-art models &amp; pipelines, and many more!](https://www.reddit.com/r/scala/comments/xq5yuv/sparknlp_420_wav2vec2_for_automatic_speech/)
 - [Scala Visualizer?](https://www.reddit.com/r/scala/comments/xq2rdt/scala_visualizer/)
-- [I have profiled my IntegerIncrementingService](https://www.reddit.com/r/scala/comments/xpxl6c/i_have_profiled_my_integerincrementingservice/)
-- [Any good examples of using Swagger with Akka HTTP?](https://www.reddit.com/r/scala/comments/xpkwbm/any_good_examples_of_using_swagger_with_akka_http/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

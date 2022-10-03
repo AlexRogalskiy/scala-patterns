@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Oct 3, 2022&rpar;](https://www.reddit.com/r/scala/comments/xtx3h9/this_week_in_scala_oct_3_2022/)
+- [2022-10-02 gRPC benchmark results](https://www.reddit.com/r/scala/comments/xtqz0u/20221002_grpc_benchmark_results/)
+- [Custom sbt Segment for p10k - How to Make Your Own!](https://www.reddit.com/r/scala/comments/xtpfnt/custom_sbt_segment_for_p10k_how_to_make_your_own/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/xsyy39/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Tooling Talks - Gabriele Petronella: The Scala Improvement Process &lpar;SIP&rpar;](https://www.reddit.com/r/scala/comments/xsq0ga/tooling_talks_gabriele_petronella_the_scala/)
 - [Participate in the Scala Survey 2022!](https://www.reddit.com/r/scala/comments/xs2ggn/participate_in_the_scala_survey_2022/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Metaprogramming in Scala 2 and Scala 3](https://www.reddit.com/r/scala/comments/xr9ujj/metaprogramming_in_scala_2_and_scala_3/)
 - [Scala CLI v0.1.15 is out](https://www.reddit.com/r/scala/comments/xr5zy7/scala_cli_v0115_is_out/)
 - [The Trouble with Checked Exceptions: Part 2](https://www.reddit.com/r/scala/comments/xqr0lk/the_trouble_with_checked_exceptions_part_2/)
-- [Functional Programming exercises in Scala 3: Functions on Lists](https://www.reddit.com/r/scala/comments/xq7hdn/functional_programming_exercises_in_scala_3/)
-- [Spark-NLP 4.2.0: Wav2Vec2 for Automatic Speech Recognition &lpar;ASR&rpar;, TAPAS for Table Question Answering, CamemBERT for Token Classification, new evaluation metrics for external datasets in all classifiers, much faster EntityRuler, over 3000+ state-of-the-art models &amp; pipelines, and many more!](https://www.reddit.com/r/scala/comments/xq5yuv/sparknlp_420_wav2vec2_for_automatic_speech/)
-- [Scala Visualizer?](https://www.reddit.com/r/scala/comments/xq2rdt/scala_visualizer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

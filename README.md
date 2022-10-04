@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Execute Shell Commands in Java/Scala/Kotlin](https://www.reddit.com/r/scala/comments/xuh6kp/execute_shell_commands_in_javascalakotlin/)
 - [This week in #Scala &lpar;Oct 3, 2022&rpar;](https://www.reddit.com/r/scala/comments/xtx3h9/this_week_in_scala_oct_3_2022/)
 - [2022-10-02 gRPC benchmark results](https://www.reddit.com/r/scala/comments/xtqz0u/20221002_grpc_benchmark_results/)
 - [Custom sbt Segment for p10k - How to Make Your Own!](https://www.reddit.com/r/scala/comments/xtpfnt/custom_sbt_segment_for_p10k_how_to_make_your_own/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Pekko &lpar;Open Source Akka fork&rpar; has been submitted to Apache Incubator](https://www.reddit.com/r/scala/comments/xrv5eu/pekko_open_source_akka_fork_has_been_submitted_to/)
 - [Metaprogramming in Scala 2 and Scala 3](https://www.reddit.com/r/scala/comments/xr9ujj/metaprogramming_in_scala_2_and_scala_3/)
 - [Scala CLI v0.1.15 is out](https://www.reddit.com/r/scala/comments/xr5zy7/scala_cli_v0115_is_out/)
-- [The Trouble with Checked Exceptions: Part 2](https://www.reddit.com/r/scala/comments/xqr0lk/the_trouble_with_checked_exceptions_part_2/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

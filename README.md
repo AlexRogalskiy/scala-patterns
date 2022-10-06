@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Cache ZIO result like future](https://www.reddit.com/r/scala/comments/xwo5er/cache_zio_result_like_future/)
+- [Hacktoberfest Scala projects?](https://www.reddit.com/r/scala/comments/xwnz1a/hacktoberfest_scala_projects/)
+- [What&#39;s the best IDE for Scala 2 + Maven?](https://www.reddit.com/r/scala/comments/xwekpq/whats_the_best_ide_for_scala_2_maven/)
 - [Guys, what&#39;s the best IDE for Scala 3?](https://www.reddit.com/r/scala/comments/xvhm44/guys_whats_the_best_ide_for_scala_3/)
 - [Added zio version for redis rate limit](https://www.reddit.com/r/scala/comments/xv4h2e/added_zio_version_for_redis_rate_limit/)
 - [Execute Shell Commands in Java/Scala/Kotlin](https://www.reddit.com/r/scala/comments/xuh6kp/execute_shell_commands_in_javascalakotlin/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [2022-10-02 gRPC benchmark results](https://www.reddit.com/r/scala/comments/xtqz0u/20221002_grpc_benchmark_results/)
 - [Custom sbt Segment for p10k - How to Make Your Own!](https://www.reddit.com/r/scala/comments/xtpfnt/custom_sbt_segment_for_p10k_how_to_make_your_own/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/xsyy39/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [Tooling Talks - Gabriele Petronella: The Scala Improvement Process &lpar;SIP&rpar;](https://www.reddit.com/r/scala/comments/xsq0ga/tooling_talks_gabriele_petronella_the_scala/)
-- [Participate in the Scala Survey 2022!](https://www.reddit.com/r/scala/comments/xs2ggn/participate_in_the_scala_survey_2022/)
-- [Pekko &lpar;Open Source Akka fork&rpar; has been submitted to Apache Incubator](https://www.reddit.com/r/scala/comments/xrv5eu/pekko_open_source_akka_fork_has_been_submitted_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

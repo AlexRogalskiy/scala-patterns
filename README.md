@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to get started with Play, Akka and Spark in real-world applications ;](https://www.reddit.com/r/scala/comments/xxh2nm/how_to_get_started_with_play_akka_and_spark_in/)
+- [Has anyone implemented anything like a &quot;safe&quot; Future wrapper?](https://www.reddit.com/r/scala/comments/xwzyl0/has_anyone_implemented_anything_like_a_safe/)
+- [How to do supervision without actors?](https://www.reddit.com/r/scala/comments/xwvnru/how_to_do_supervision_without_actors/)
 - [Cache ZIO result like future](https://www.reddit.com/r/scala/comments/xwo5er/cache_zio_result_like_future/)
 - [Hacktoberfest Scala projects?](https://www.reddit.com/r/scala/comments/xwnz1a/hacktoberfest_scala_projects/)
 - [What&#39;s the best IDE for Scala 2 + Maven?](https://www.reddit.com/r/scala/comments/xwekpq/whats_the_best_ide_for_scala_2_maven/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Added zio version for redis rate limit](https://www.reddit.com/r/scala/comments/xv4h2e/added_zio_version_for_redis_rate_limit/)
 - [Execute Shell Commands in Java/Scala/Kotlin](https://www.reddit.com/r/scala/comments/xuh6kp/execute_shell_commands_in_javascalakotlin/)
 - [This week in #Scala &lpar;Oct 3, 2022&rpar;](https://www.reddit.com/r/scala/comments/xtx3h9/this_week_in_scala_oct_3_2022/)
-- [2022-10-02 gRPC benchmark results](https://www.reddit.com/r/scala/comments/xtqz0u/20221002_grpc_benchmark_results/)
-- [Custom sbt Segment for p10k - How to Make Your Own!](https://www.reddit.com/r/scala/comments/xtpfnt/custom_sbt_segment_for_p10k_how_to_make_your_own/)
-- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/xsyy39/who_is_hiring_monthly_rscala_job_postings_thread/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

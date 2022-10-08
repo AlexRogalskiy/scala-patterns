@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Starting a Scala project.](https://www.reddit.com/r/scala/comments/xy22m7/starting_a_scala_project/)
+- [Definir monadas con Cats](https://www.reddit.com/r/scala/comments/xxwxzn/definir_monadas_con_cats/)
+- [Beginner question: passing implicit values inside class](https://www.reddit.com/r/scala/comments/xxuvhc/beginner_question_passing_implicit_values_inside/)
 - [How to get started with Play, Akka and Spark in real-world applications ;](https://www.reddit.com/r/scala/comments/xxh2nm/how_to_get_started_with_play_akka_and_spark_in/)
 - [Has anyone implemented anything like a &quot;safe&quot; Future wrapper?](https://www.reddit.com/r/scala/comments/xwzyl0/has_anyone_implemented_anything_like_a_safe/)
 - [How to do supervision without actors?](https://www.reddit.com/r/scala/comments/xwvnru/how_to_do_supervision_without_actors/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Hacktoberfest Scala projects?](https://www.reddit.com/r/scala/comments/xwnz1a/hacktoberfest_scala_projects/)
 - [What&#39;s the best IDE for Scala 2 + Maven?](https://www.reddit.com/r/scala/comments/xwekpq/whats_the_best_ide_for_scala_2_maven/)
 - [Guys, what&#39;s the best IDE for Scala 3?](https://www.reddit.com/r/scala/comments/xvhm44/guys_whats_the_best_ide_for_scala_3/)
-- [Added zio version for redis rate limit](https://www.reddit.com/r/scala/comments/xv4h2e/added_zio_version_for_redis_rate_limit/)
-- [Execute Shell Commands in Java/Scala/Kotlin](https://www.reddit.com/r/scala/comments/xuh6kp/execute_shell_commands_in_javascalakotlin/)
-- [This week in #Scala &lpar;Oct 3, 2022&rpar;](https://www.reddit.com/r/scala/comments/xtx3h9/this_week_in_scala_oct_3_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

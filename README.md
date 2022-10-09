@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tail recursion for lazy functions in Scala 2](https://www.reddit.com/r/scala/comments/xyy2y2/tail_recursion_for_lazy_functions_in_scala_2/)
 - [Starting a Scala project.](https://www.reddit.com/r/scala/comments/xy22m7/starting_a_scala_project/)
 - [Definir monadas con Cats](https://www.reddit.com/r/scala/comments/xxwxzn/definir_monadas_con_cats/)
 - [Beginner question: passing implicit values inside class](https://www.reddit.com/r/scala/comments/xxuvhc/beginner_question_passing_implicit_values_inside/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Cache ZIO result like future](https://www.reddit.com/r/scala/comments/xwo5er/cache_zio_result_like_future/)
 - [Hacktoberfest Scala projects?](https://www.reddit.com/r/scala/comments/xwnz1a/hacktoberfest_scala_projects/)
 - [What&#39;s the best IDE for Scala 2 + Maven?](https://www.reddit.com/r/scala/comments/xwekpq/whats_the_best_ide_for_scala_2_maven/)
-- [Guys, what&#39;s the best IDE for Scala 3?](https://www.reddit.com/r/scala/comments/xvhm44/guys_whats_the_best_ide_for_scala_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

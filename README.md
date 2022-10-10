@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Oct 10, 2022&rpar;](https://www.reddit.com/r/scala/comments/xzw2pv/this_week_in_scala_oct_10_2022/)
+- [Question: Trying to update Ref and SignalRef from an instance of a class, and it does not work](https://www.reddit.com/r/scala/comments/xzi2t6/question_trying_to_update_ref_and_signalref_from/)
 - [Tail recursion for lazy functions in Scala 2](https://www.reddit.com/r/scala/comments/xyy2y2/tail_recursion_for_lazy_functions_in_scala_2/)
 - [Starting a Scala project.](https://www.reddit.com/r/scala/comments/xy22m7/starting_a_scala_project/)
 - [Definir monadas con Cats](https://www.reddit.com/r/scala/comments/xxwxzn/definir_monadas_con_cats/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Has anyone implemented anything like a &quot;safe&quot; Future wrapper?](https://www.reddit.com/r/scala/comments/xwzyl0/has_anyone_implemented_anything_like_a_safe/)
 - [How to do supervision without actors?](https://www.reddit.com/r/scala/comments/xwvnru/how_to_do_supervision_without_actors/)
 - [Cache ZIO result like future](https://www.reddit.com/r/scala/comments/xwo5er/cache_zio_result_like_future/)
-- [Hacktoberfest Scala projects?](https://www.reddit.com/r/scala/comments/xwnz1a/hacktoberfest_scala_projects/)
-- [What&#39;s the best IDE for Scala 2 + Maven?](https://www.reddit.com/r/scala/comments/xwekpq/whats_the_best_ide_for_scala_2_maven/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

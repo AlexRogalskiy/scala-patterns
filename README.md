@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Request for feedback: generic error-aware connection pool with fs2](https://www.reddit.com/r/scala/comments/y0olrg/request_for_feedback_generic_erroraware/)
 - [This week in #Scala &lpar;Oct 10, 2022&rpar;](https://www.reddit.com/r/scala/comments/xzw2pv/this_week_in_scala_oct_10_2022/)
 - [Question: Trying to update Ref and SignalRef from an instance of a class, and it does not work](https://www.reddit.com/r/scala/comments/xzi2t6/question_trying_to_update_ref_and_signalref_from/)
 - [Tail recursion for lazy functions in Scala 2](https://www.reddit.com/r/scala/comments/xyy2y2/tail_recursion_for_lazy_functions_in_scala_2/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to get started with Play, Akka and Spark in real-world applications ;](https://www.reddit.com/r/scala/comments/xxh2nm/how_to_get_started_with_play_akka_and_spark_in/)
 - [Has anyone implemented anything like a &quot;safe&quot; Future wrapper?](https://www.reddit.com/r/scala/comments/xwzyl0/has_anyone_implemented_anything_like_a_safe/)
 - [How to do supervision without actors?](https://www.reddit.com/r/scala/comments/xwvnru/how_to_do_supervision_without_actors/)
-- [Cache ZIO result like future](https://www.reddit.com/r/scala/comments/xwo5er/cache_zio_result_like_future/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

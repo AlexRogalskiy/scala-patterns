@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to gain mid-senior experience in Scala](https://www.reddit.com/r/scala/comments/y1q9im/how_to_gain_midsenior_experience_in_scala/)
+- [Type Mismatch Error](https://www.reddit.com/r/scala/comments/y1ktvi/type_mismatch_error/)
+- [Not able to fill nested column with string](https://www.reddit.com/r/scala/comments/y1ad8z/not_able_to_fill_nested_column_with_string/)
+- [neotest-scala – Neovim test plugin](https://www.reddit.com/r/scala/comments/y15zct/neotestscala_neovim_test_plugin/)
+- [Transformadores de mónadas en cats](https://www.reddit.com/r/scala/comments/y109cz/transformadores_de_mónadas_en_cats/)
 - [Request for feedback: generic error-aware connection pool with fs2](https://www.reddit.com/r/scala/comments/y0olrg/request_for_feedback_generic_erroraware/)
 - [This week in #Scala &lpar;Oct 10, 2022&rpar;](https://www.reddit.com/r/scala/comments/xzw2pv/this_week_in_scala_oct_10_2022/)
 - [Question: Trying to update Ref and SignalRef from an instance of a class, and it does not work](https://www.reddit.com/r/scala/comments/xzi2t6/question_trying_to_update_ref_and_signalref_from/)
 - [Tail recursion for lazy functions in Scala 2](https://www.reddit.com/r/scala/comments/xyy2y2/tail_recursion_for_lazy_functions_in_scala_2/)
 - [Starting a Scala project.](https://www.reddit.com/r/scala/comments/xy22m7/starting_a_scala_project/)
-- [Definir monadas con Cats](https://www.reddit.com/r/scala/comments/xxwxzn/definir_monadas_con_cats/)
-- [Beginner question: passing implicit values inside class](https://www.reddit.com/r/scala/comments/xxuvhc/beginner_question_passing_implicit_values_inside/)
-- [How to get started with Play, Akka and Spark in real-world applications ;](https://www.reddit.com/r/scala/comments/xxh2nm/how_to_get_started_with_play_akka_and_spark_in/)
-- [Has anyone implemented anything like a &quot;safe&quot; Future wrapper?](https://www.reddit.com/r/scala/comments/xwzyl0/has_anyone_implemented_anything_like_a_safe/)
-- [How to do supervision without actors?](https://www.reddit.com/r/scala/comments/xwvnru/how_to_do_supervision_without_actors/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

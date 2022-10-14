@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best resource to learn Scalia 3 metaprogramming](https://www.reddit.com/r/scala/comments/y3gp54/best_resource_to_learn_scalia_3_metaprogramming/)
+- [Project for CV](https://www.reddit.com/r/scala/comments/y3846f/project_for_cv/)
+- [What are the limitations of using the underscore for lambdas](https://www.reddit.com/r/scala/comments/y353eq/what_are_the_limitations_of_using_the_underscore/)
+- [why val and not var](https://www.reddit.com/r/scala/comments/y34di1/why_val_and_not_var/)
+- [Scala 2.13.10 is here](https://www.reddit.com/r/scala/comments/y2zkyd/scala_21310_is_here/)
 - [How to gain mid-senior experience in Scala](https://www.reddit.com/r/scala/comments/y1q9im/how_to_gain_midsenior_experience_in_scala/)
 - [Type Mismatch Error](https://www.reddit.com/r/scala/comments/y1ktvi/type_mismatch_error/)
 - [Not able to fill nested column with string](https://www.reddit.com/r/scala/comments/y1ad8z/not_able_to_fill_nested_column_with_string/)
 - [neotest-scala – Neovim test plugin](https://www.reddit.com/r/scala/comments/y15zct/neotestscala_neovim_test_plugin/)
 - [Transformadores de mónadas en cats](https://www.reddit.com/r/scala/comments/y109cz/transformadores_de_mónadas_en_cats/)
-- [Request for feedback: generic error-aware connection pool with fs2](https://www.reddit.com/r/scala/comments/y0olrg/request_for_feedback_generic_erroraware/)
-- [This week in #Scala &lpar;Oct 10, 2022&rpar;](https://www.reddit.com/r/scala/comments/xzw2pv/this_week_in_scala_oct_10_2022/)
-- [Question: Trying to update Ref and SignalRef from an instance of a class, and it does not work](https://www.reddit.com/r/scala/comments/xzi2t6/question_trying_to_update_ref_and_signalref_from/)
-- [Tail recursion for lazy functions in Scala 2](https://www.reddit.com/r/scala/comments/xyy2y2/tail_recursion_for_lazy_functions_in_scala_2/)
-- [Starting a Scala project.](https://www.reddit.com/r/scala/comments/xy22m7/starting_a_scala_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

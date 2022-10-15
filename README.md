@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Any good examples of an android app written in Scala?](https://www.reddit.com/r/scala/comments/y47zlz/any_good_examples_of_an_android_app_written_in/)
+- [Package by feature and inter-project binary dependencies](https://www.reddit.com/r/scala/comments/y47l4m/package_by_feature_and_interproject_binary/)
+- [Type mismatch on build](https://www.reddit.com/r/scala/comments/y46bvi/type_mismatch_on_build/)
+- [Here’s a playlist of 7 hours of music I use to focus when I’m coding/developing](https://www.reddit.com/r/scala/comments/y40wwl/heres_a_playlist_of_7_hours_of_music_i_use_to/)
+- [Scala CLI 0.1.16 is out](https://www.reddit.com/r/scala/comments/y3xugq/scala_cli_0116_is_out/)
+- [New to Scala;](https://www.reddit.com/r/scala/comments/y3qf1y/new_to_scala/)
 - [Best resource to learn Scalia 3 metaprogramming](https://www.reddit.com/r/scala/comments/y3gp54/best_resource_to_learn_scalia_3_metaprogramming/)
 - [Project for CV](https://www.reddit.com/r/scala/comments/y3846f/project_for_cv/)
 - [What are the limitations of using the underscore for lambdas](https://www.reddit.com/r/scala/comments/y353eq/what_are_the_limitations_of_using_the_underscore/)
 - [why val and not var](https://www.reddit.com/r/scala/comments/y34di1/why_val_and_not_var/)
-- [Scala 2.13.10 is here](https://www.reddit.com/r/scala/comments/y2zkyd/scala_21310_is_here/)
-- [How to gain mid-senior experience in Scala](https://www.reddit.com/r/scala/comments/y1q9im/how_to_gain_midsenior_experience_in_scala/)
-- [Type Mismatch Error](https://www.reddit.com/r/scala/comments/y1ktvi/type_mismatch_error/)
-- [Not able to fill nested column with string](https://www.reddit.com/r/scala/comments/y1ad8z/not_able_to_fill_nested_column_with_string/)
-- [neotest-scala – Neovim test plugin](https://www.reddit.com/r/scala/comments/y15zct/neotestscala_neovim_test_plugin/)
-- [Transformadores de mónadas en cats](https://www.reddit.com/r/scala/comments/y109cz/transformadores_de_mónadas_en_cats/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

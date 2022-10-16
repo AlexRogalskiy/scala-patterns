@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Well designed scala/spark project](https://www.reddit.com/r/scala/comments/y4qas7/well_designed_scalaspark_project/)
+- [Transformadores de mónadas en cats parte 2](https://www.reddit.com/r/scala/comments/y4dpks/transformadores_de_mónadas_en_cats_parte_2/)
 - [Any good examples of an android app written in Scala?](https://www.reddit.com/r/scala/comments/y47zlz/any_good_examples_of_an_android_app_written_in/)
 - [Package by feature and inter-project binary dependencies](https://www.reddit.com/r/scala/comments/y47l4m/package_by_feature_and_interproject_binary/)
 - [Type mismatch on build](https://www.reddit.com/r/scala/comments/y46bvi/type_mismatch_on_build/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [New to Scala;](https://www.reddit.com/r/scala/comments/y3qf1y/new_to_scala/)
 - [Best resource to learn Scalia 3 metaprogramming](https://www.reddit.com/r/scala/comments/y3gp54/best_resource_to_learn_scalia_3_metaprogramming/)
 - [Project for CV](https://www.reddit.com/r/scala/comments/y3846f/project_for_cv/)
-- [What are the limitations of using the underscore for lambdas](https://www.reddit.com/r/scala/comments/y353eq/what_are_the_limitations_of_using_the_underscore/)
-- [why val and not var](https://www.reddit.com/r/scala/comments/y34di1/why_val_and_not_var/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

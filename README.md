@@ -271,12 +271,12 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Transformadores de mónadas en cats parte 3](https://www.reddit.com/r/scala/comments/y5zb68/transformadores_de_mónadas_en_cats_parte_3/)
+- [New to Scala - Stuck on Scala 2](https://www.reddit.com/r/scala/comments/y5m1kb/new_to_scala_stuck_on_scala_2/)
 - [Well designed scala/spark project](https://www.reddit.com/r/scala/comments/y4qas7/well_designed_scalaspark_project/)
-- [Transformadores de mónadas en cats parte 2](https://www.reddit.com/r/scala/comments/y4dpks/transformadores_de_mónadas_en_cats_parte_2/)
 - [Any good examples of an android app written in Scala?](https://www.reddit.com/r/scala/comments/y47zlz/any_good_examples_of_an_android_app_written_in/)
 - [Package by feature and inter-project binary dependencies](https://www.reddit.com/r/scala/comments/y47l4m/package_by_feature_and_interproject_binary/)
 - [Type mismatch on build](https://www.reddit.com/r/scala/comments/y46bvi/type_mismatch_on_build/)
-- [Here’s a playlist of 7 hours of music I use to focus when I’m coding/developing](https://www.reddit.com/r/scala/comments/y40wwl/heres_a_playlist_of_7_hours_of_music_i_use_to/)
 - [Scala CLI 0.1.16 is out](https://www.reddit.com/r/scala/comments/y3xugq/scala_cli_0116_is_out/)
 - [New to Scala;](https://www.reddit.com/r/scala/comments/y3qf1y/new_to_scala/)
 - [Best resource to learn Scalia 3 metaprogramming](https://www.reddit.com/r/scala/comments/y3gp54/best_resource_to_learn_scalia_3_metaprogramming/)

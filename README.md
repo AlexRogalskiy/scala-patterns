@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [List of Places to Search for Remote Scala Jobs](https://www.reddit.com/r/scala/comments/y6cinc/list_of_places_to_search_for_remote_scala_jobs/)
 - [Transformadores de mónadas en cats parte 3](https://www.reddit.com/r/scala/comments/y5zb68/transformadores_de_mónadas_en_cats_parte_3/)
 - [New to Scala - Stuck on Scala 2](https://www.reddit.com/r/scala/comments/y5m1kb/new_to_scala_stuck_on_scala_2/)
 - [Well designed scala/spark project](https://www.reddit.com/r/scala/comments/y4qas7/well_designed_scalaspark_project/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala CLI 0.1.16 is out](https://www.reddit.com/r/scala/comments/y3xugq/scala_cli_0116_is_out/)
 - [New to Scala;](https://www.reddit.com/r/scala/comments/y3qf1y/new_to_scala/)
 - [Best resource to learn Scalia 3 metaprogramming](https://www.reddit.com/r/scala/comments/y3gp54/best_resource_to_learn_scalia_3_metaprogramming/)
-- [Project for CV](https://www.reddit.com/r/scala/comments/y3846f/project_for_cv/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

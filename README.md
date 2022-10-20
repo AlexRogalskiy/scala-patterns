@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is your favourite programming language? &lpar;other than Scala&rpar;](https://www.reddit.com/r/scala/comments/y8dk1w/what_is_your_favourite_programming_language_other/)
+- [Cut the Technobabble &lpar;#FP&rpar;](https://www.reddit.com/r/scala/comments/y8c6ze/cut_the_technobabble_fp/)
 - [Is scalastyle still recommended? Or any alternatives recommendation?](https://www.reddit.com/r/scala/comments/y74hhk/is_scalastyle_still_recommended_or_any/)
 - [The case against Effect Systems &lpar;e.g., the IO data type&rpar;](https://www.reddit.com/r/scala/comments/y6zyx9/the_case_against_effect_systems_eg_the_io_data/)
 - [List of Places to Search for Remote Scala Jobs](https://www.reddit.com/r/scala/comments/y6cinc/list_of_places_to_search_for_remote_scala_jobs/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Any good examples of an android app written in Scala?](https://www.reddit.com/r/scala/comments/y47zlz/any_good_examples_of_an_android_app_written_in/)
 - [Package by feature and inter-project binary dependencies](https://www.reddit.com/r/scala/comments/y47l4m/package_by_feature_and_interproject_binary/)
 - [Type mismatch on build](https://www.reddit.com/r/scala/comments/y46bvi/type_mismatch_on_build/)
-- [Scala CLI 0.1.16 is out](https://www.reddit.com/r/scala/comments/y3xugq/scala_cli_0116_is_out/)
-- [New to Scala;](https://www.reddit.com/r/scala/comments/y3qf1y/new_to_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

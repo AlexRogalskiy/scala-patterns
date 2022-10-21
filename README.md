@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [&quot;Monad I Love You Now Get Out Of My Type System&quot; by Gjeta Gjyshinca &lpar;Strange Loop 2022&rpar;](https://www.reddit.com/r/scala/comments/y93d9m/monad_i_love_you_now_get_out_of_my_type_system_by/)
 - [What is your favourite programming language? &lpar;other than Scala&rpar;](https://www.reddit.com/r/scala/comments/y8dk1w/what_is_your_favourite_programming_language_other/)
 - [Cut the Technobabble &lpar;#FP&rpar;](https://www.reddit.com/r/scala/comments/y8c6ze/cut_the_technobabble_fp/)
 - [Is scalastyle still recommended? Or any alternatives recommendation?](https://www.reddit.com/r/scala/comments/y74hhk/is_scalastyle_still_recommended_or_any/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Well designed scala/spark project](https://www.reddit.com/r/scala/comments/y4qas7/well_designed_scalaspark_project/)
 - [Any good examples of an android app written in Scala?](https://www.reddit.com/r/scala/comments/y47zlz/any_good_examples_of_an_android_app_written_in/)
 - [Package by feature and inter-project binary dependencies](https://www.reddit.com/r/scala/comments/y47l4m/package_by_feature_and_interproject_binary/)
-- [Type mismatch on build](https://www.reddit.com/r/scala/comments/y46bvi/type_mismatch_on_build/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

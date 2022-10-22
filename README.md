@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need help to understand fs2 library](https://www.reddit.com/r/scala/comments/ya0alw/need_help_to_understand_fs2_library/)
+- [Transformadores de mónadas en cats parte 5](https://www.reddit.com/r/scala/comments/y9p086/transformadores_de_mónadas_en_cats_parte_5/)
 - [&quot;Monad I Love You Now Get Out Of My Type System&quot; by Gjeta Gjyshinca &lpar;Strange Loop 2022&rpar;](https://www.reddit.com/r/scala/comments/y93d9m/monad_i_love_you_now_get_out_of_my_type_system_by/)
 - [What is your favourite programming language? &lpar;other than Scala&rpar;](https://www.reddit.com/r/scala/comments/y8dk1w/what_is_your_favourite_programming_language_other/)
 - [Cut the Technobabble &lpar;#FP&rpar;](https://www.reddit.com/r/scala/comments/y8c6ze/cut_the_technobabble_fp/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [List of Places to Search for Remote Scala Jobs](https://www.reddit.com/r/scala/comments/y6cinc/list_of_places_to_search_for_remote_scala_jobs/)
 - [New to Scala - Stuck on Scala 2](https://www.reddit.com/r/scala/comments/y5m1kb/new_to_scala_stuck_on_scala_2/)
 - [Well designed scala/spark project](https://www.reddit.com/r/scala/comments/y4qas7/well_designed_scalaspark_project/)
-- [Any good examples of an android app written in Scala?](https://www.reddit.com/r/scala/comments/y47zlz/any_good_examples_of_an_android_app_written_in/)
-- [Package by feature and inter-project binary dependencies](https://www.reddit.com/r/scala/comments/y47l4m/package_by_feature_and_interproject_binary/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

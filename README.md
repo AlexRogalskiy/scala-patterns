@@ -271,10 +271,10 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does ammonite support indent based syntax?](https://www.reddit.com/r/scala/comments/ybe1ol/does_ammonite_support_indent_based_syntax/)
 - [How to do JSON logging in Scala?](https://www.reddit.com/r/scala/comments/yaw608/how_to_do_json_logging_in_scala/)
 - [Why does Scala seem to be slow at benchmark results?](https://www.reddit.com/r/scala/comments/yavpzm/why_does_scala_seem_to_be_slow_at_benchmark/)
 - [Need help to understand fs2 library](https://www.reddit.com/r/scala/comments/ya0alw/need_help_to_understand_fs2_library/)
-- [Transformadores de mónadas en cats parte 5](https://www.reddit.com/r/scala/comments/y9p086/transformadores_de_mónadas_en_cats_parte_5/)
 - [&quot;Monad I Love You Now Get Out Of My Type System&quot; by Gjeta Gjyshinca &lpar;Strange Loop 2022&rpar;](https://www.reddit.com/r/scala/comments/y93d9m/monad_i_love_you_now_get_out_of_my_type_system_by/)
 - [What is your favourite programming language? &lpar;other than Scala&rpar;](https://www.reddit.com/r/scala/comments/y8dk1w/what_is_your_favourite_programming_language_other/)
 - [Cut the Technobabble &lpar;#FP&rpar;](https://www.reddit.com/r/scala/comments/y8c6ze/cut_the_technobabble_fp/)

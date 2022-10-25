@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [On Scala 3&#39;s Optional Braces](https://www.reddit.com/r/scala/comments/ycfihv/on_scala_3s_optional_braces/)
+- [university project - Spark + scala](https://www.reddit.com/r/scala/comments/ycc97j/university_project_spark_scala/)
+- [Pekko &lpar;OS Akka fork&rpar; has been accepted into Apache Incubator](https://www.reddit.com/r/scala/comments/yc5uwb/pekko_os_akka_fork_has_been_accepted_into_apache/)
+- [Switching career from F# to scala](https://www.reddit.com/r/scala/comments/yc5bq0/switching_career_from_f_to_scala/)
 - [Does ammonite support indent based syntax?](https://www.reddit.com/r/scala/comments/ybe1ol/does_ammonite_support_indent_based_syntax/)
 - [How to do JSON logging in Scala?](https://www.reddit.com/r/scala/comments/yaw608/how_to_do_json_logging_in_scala/)
 - [Why does Scala seem to be slow at benchmark results?](https://www.reddit.com/r/scala/comments/yavpzm/why_does_scala_seem_to_be_slow_at_benchmark/)
 - [Need help to understand fs2 library](https://www.reddit.com/r/scala/comments/ya0alw/need_help_to_understand_fs2_library/)
 - [&quot;Monad I Love You Now Get Out Of My Type System&quot; by Gjeta Gjyshinca &lpar;Strange Loop 2022&rpar;](https://www.reddit.com/r/scala/comments/y93d9m/monad_i_love_you_now_get_out_of_my_type_system_by/)
 - [What is your favourite programming language? &lpar;other than Scala&rpar;](https://www.reddit.com/r/scala/comments/y8dk1w/what_is_your_favourite_programming_language_other/)
-- [Cut the Technobabble &lpar;#FP&rpar;](https://www.reddit.com/r/scala/comments/y8c6ze/cut_the_technobabble_fp/)
-- [Is scalastyle still recommended? Or any alternatives recommendation?](https://www.reddit.com/r/scala/comments/y74hhk/is_scalastyle_still_recommended_or_any/)
-- [The case against Effect Systems &lpar;e.g., the IO data type&rpar;](https://www.reddit.com/r/scala/comments/y6zyx9/the_case_against_effect_systems_eg_the_io_data/)
-- [List of Places to Search for Remote Scala Jobs](https://www.reddit.com/r/scala/comments/y6cinc/list_of_places_to_search_for_remote_scala_jobs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

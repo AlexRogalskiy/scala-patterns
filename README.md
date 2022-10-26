@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Sttp: Writing an extensible API client](https://www.reddit.com/r/scala/comments/yd0vq8/sttp_writing_an_extensible_api_client/)
 - [On Scala 3&#39;s Optional Braces](https://www.reddit.com/r/scala/comments/ycfihv/on_scala_3s_optional_braces/)
 - [university project - Spark + scala](https://www.reddit.com/r/scala/comments/ycc97j/university_project_spark_scala/)
 - [Pekko &lpar;OS Akka fork&rpar; has been accepted into Apache Incubator](https://www.reddit.com/r/scala/comments/yc5uwb/pekko_os_akka_fork_has_been_accepted_into_apache/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Why does Scala seem to be slow at benchmark results?](https://www.reddit.com/r/scala/comments/yavpzm/why_does_scala_seem_to_be_slow_at_benchmark/)
 - [Need help to understand fs2 library](https://www.reddit.com/r/scala/comments/ya0alw/need_help_to_understand_fs2_library/)
 - [&quot;Monad I Love You Now Get Out Of My Type System&quot; by Gjeta Gjyshinca &lpar;Strange Loop 2022&rpar;](https://www.reddit.com/r/scala/comments/y93d9m/monad_i_love_you_now_get_out_of_my_type_system_by/)
-- [What is your favourite programming language? &lpar;other than Scala&rpar;](https://www.reddit.com/r/scala/comments/y8dk1w/what_is_your_favourite_programming_language_other/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Endless4s v0.18.0 release adds durable entity support](https://www.reddit.com/r/scala/comments/ydrgyi/endless4s_v0180_release_adds_durable_entity/)
 - [Sttp: Writing an extensible API client](https://www.reddit.com/r/scala/comments/yd0vq8/sttp_writing_an_extensible_api_client/)
 - [On Scala 3&#39;s Optional Braces](https://www.reddit.com/r/scala/comments/ycfihv/on_scala_3s_optional_braces/)
 - [university project - Spark + scala](https://www.reddit.com/r/scala/comments/ycc97j/university_project_spark_scala/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to do JSON logging in Scala?](https://www.reddit.com/r/scala/comments/yaw608/how_to_do_json_logging_in_scala/)
 - [Why does Scala seem to be slow at benchmark results?](https://www.reddit.com/r/scala/comments/yavpzm/why_does_scala_seem_to_be_slow_at_benchmark/)
 - [Need help to understand fs2 library](https://www.reddit.com/r/scala/comments/ya0alw/need_help_to_understand_fs2_library/)
-- [&quot;Monad I Love You Now Get Out Of My Type System&quot; by Gjeta Gjyshinca &lpar;Strange Loop 2022&rpar;](https://www.reddit.com/r/scala/comments/y93d9m/monad_i_love_you_now_get_out_of_my_type_system_by/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

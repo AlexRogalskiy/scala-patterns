@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Should I learn it? If yes then which?](https://www.reddit.com/r/scala/comments/yf3005/should_i_learn_it_if_yes_then_which/)
 - [Endless4s v0.18.0 release adds durable entity support](https://www.reddit.com/r/scala/comments/ydrgyi/endless4s_v0180_release_adds_durable_entity/)
 - [Sttp: Writing an extensible API client](https://www.reddit.com/r/scala/comments/yd0vq8/sttp_writing_an_extensible_api_client/)
 - [On Scala 3&#39;s Optional Braces](https://www.reddit.com/r/scala/comments/ycfihv/on_scala_3s_optional_braces/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Does ammonite support indent based syntax?](https://www.reddit.com/r/scala/comments/ybe1ol/does_ammonite_support_indent_based_syntax/)
 - [How to do JSON logging in Scala?](https://www.reddit.com/r/scala/comments/yaw608/how_to_do_json_logging_in_scala/)
 - [Why does Scala seem to be slow at benchmark results?](https://www.reddit.com/r/scala/comments/yavpzm/why_does_scala_seem_to_be_slow_at_benchmark/)
-- [Need help to understand fs2 library](https://www.reddit.com/r/scala/comments/ya0alw/need_help_to_understand_fs2_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

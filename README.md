@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I cannot used Watermarks for some reason and the documentation of Apache Flink is so bad](https://www.reddit.com/r/scala/comments/yg34m6/i_cannot_used_watermarks_for_some_reason_and_the/)
+- [Flink: no output when using windows](https://www.reddit.com/r/scala/comments/yg220z/flink_no_output_when_using_windows/)
+- [how to setup scala](https://www.reddit.com/r/scala/comments/yfgpn2/how_to_setup_scala/)
 - [Should I learn it? If yes then which?](https://www.reddit.com/r/scala/comments/yf3005/should_i_learn_it_if_yes_then_which/)
 - [Endless4s v0.18.0 release adds durable entity support](https://www.reddit.com/r/scala/comments/ydrgyi/endless4s_v0180_release_adds_durable_entity/)
 - [Sttp: Writing an extensible API client](https://www.reddit.com/r/scala/comments/yd0vq8/sttp_writing_an_extensible_api_client/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [university project - Spark + scala](https://www.reddit.com/r/scala/comments/ycc97j/university_project_spark_scala/)
 - [Pekko &lpar;OS Akka fork&rpar; has been accepted into Apache Incubator](https://www.reddit.com/r/scala/comments/yc5uwb/pekko_os_akka_fork_has_been_accepted_into_apache/)
 - [Switching career from F# to scala](https://www.reddit.com/r/scala/comments/yc5bq0/switching_career_from_f_to_scala/)
-- [Does ammonite support indent based syntax?](https://www.reddit.com/r/scala/comments/ybe1ol/does_ammonite_support_indent_based_syntax/)
-- [How to do JSON logging in Scala?](https://www.reddit.com/r/scala/comments/yaw608/how_to_do_json_logging_in_scala/)
-- [Why does Scala seem to be slow at benchmark results?](https://www.reddit.com/r/scala/comments/yavpzm/why_does_scala_seem_to_be_slow_at_benchmark/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

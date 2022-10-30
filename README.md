@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [how can I make a binary tree of prefix expressions, example ?](https://www.reddit.com/r/scala/comments/ygxuo2/how_can_i_make_a_binary_tree_of_prefix/)
+- [How to update related messages in kafka topic if incoming message has reference to them only inside value?](https://www.reddit.com/r/scala/comments/ygmol1/how_to_update_related_messages_in_kafka_topic_if/)
+- [Flink CEP: What are greedy patterns?](https://www.reddit.com/r/scala/comments/ygju8d/flink_cep_what_are_greedy_patterns/)
 - [I cannot used Watermarks for some reason and the documentation of Apache Flink is so bad](https://www.reddit.com/r/scala/comments/yg34m6/i_cannot_used_watermarks_for_some_reason_and_the/)
 - [Flink: no output when using windows](https://www.reddit.com/r/scala/comments/yg220z/flink_no_output_when_using_windows/)
 - [how to setup scala](https://www.reddit.com/r/scala/comments/yfgpn2/how_to_setup_scala/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Endless4s v0.18.0 release adds durable entity support](https://www.reddit.com/r/scala/comments/ydrgyi/endless4s_v0180_release_adds_durable_entity/)
 - [Sttp: Writing an extensible API client](https://www.reddit.com/r/scala/comments/yd0vq8/sttp_writing_an_extensible_api_client/)
 - [On Scala 3&#39;s Optional Braces](https://www.reddit.com/r/scala/comments/ycfihv/on_scala_3s_optional_braces/)
-- [university project - Spark + scala](https://www.reddit.com/r/scala/comments/ycc97j/university_project_spark_scala/)
-- [Pekko &lpar;OS Akka fork&rpar; has been accepted into Apache Incubator](https://www.reddit.com/r/scala/comments/yc5uwb/pekko_os_akka_fork_has_been_accepted_into_apache/)
-- [Switching career from F# to scala](https://www.reddit.com/r/scala/comments/yc5bq0/switching_career_from_f_to_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

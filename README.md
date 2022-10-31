@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 1.7.3 released](https://www.reddit.com/r/scala/comments/yhyxmq/sbt_173_released/)
+- [Scala 3 version compatibility](https://www.reddit.com/r/scala/comments/yhh60c/scala_3_version_compatibility/)
+- [Recurrence relation as Stream...](https://www.reddit.com/r/scala/comments/yhe0th/recurrence_relation_as_stream/)
+- [Elaborating on the load shedding claims in &quot;effect system&quot; aka IO monad](https://www.reddit.com/r/scala/comments/yhajqa/elaborating_on_the_load_shedding_claims_in_effect/)
+- [Eval and dotty-patched &lpar;how to evaluate trees at compile time hacking multi-staging programming&rpar;](https://www.reddit.com/r/scala/comments/yh6vuc/eval_and_dottypatched_how_to_evaluate_trees_at/)
 - [how can I make a binary tree of prefix expressions, example ?](https://www.reddit.com/r/scala/comments/ygxuo2/how_can_i_make_a_binary_tree_of_prefix/)
 - [How to update related messages in kafka topic if incoming message has reference to them only inside value?](https://www.reddit.com/r/scala/comments/ygmol1/how_to_update_related_messages_in_kafka_topic_if/)
 - [Flink CEP: What are greedy patterns?](https://www.reddit.com/r/scala/comments/ygju8d/flink_cep_what_are_greedy_patterns/)
 - [I cannot used Watermarks for some reason and the documentation of Apache Flink is so bad](https://www.reddit.com/r/scala/comments/yg34m6/i_cannot_used_watermarks_for_some_reason_and_the/)
 - [Flink: no output when using windows](https://www.reddit.com/r/scala/comments/yg220z/flink_no_output_when_using_windows/)
-- [how to setup scala](https://www.reddit.com/r/scala/comments/yfgpn2/how_to_setup_scala/)
-- [Should I learn it? If yes then which?](https://www.reddit.com/r/scala/comments/yf3005/should_i_learn_it_if_yes_then_which/)
-- [Endless4s v0.18.0 release adds durable entity support](https://www.reddit.com/r/scala/comments/ydrgyi/endless4s_v0180_release_adds_durable_entity/)
-- [Sttp: Writing an extensible API client](https://www.reddit.com/r/scala/comments/yd0vq8/sttp_writing_an_extensible_api_client/)
-- [On Scala 3&#39;s Optional Braces](https://www.reddit.com/r/scala/comments/ycfihv/on_scala_3s_optional_braces/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala overriding Java fields and members](https://www.reddit.com/r/scala/comments/yistel/scala_overriding_java_fields_and_members/)
+- [Best immutable priority queue for scala](https://www.reddit.com/r/scala/comments/yi9eix/best_immutable_priority_queue_for_scala/)
+- [Elon&#39;s plans for Twitter](https://www.reddit.com/r/scala/comments/yi5j95/elons_plans_for_twitter/)
+- [Using stacks with linked lists, to resolve an expression in prefix](https://www.reddit.com/r/scala/comments/yhzasc/using_stacks_with_linked_lists_to_resolve_an/)
 - [sbt 1.7.3 released](https://www.reddit.com/r/scala/comments/yhyxmq/sbt_173_released/)
 - [Scala 3 version compatibility](https://www.reddit.com/r/scala/comments/yhh60c/scala_3_version_compatibility/)
 - [Recurrence relation as Stream...](https://www.reddit.com/r/scala/comments/yhe0th/recurrence_relation_as_stream/)
 - [Elaborating on the load shedding claims in &quot;effect system&quot; aka IO monad](https://www.reddit.com/r/scala/comments/yhajqa/elaborating_on_the_load_shedding_claims_in_effect/)
 - [Eval and dotty-patched &lpar;how to evaluate trees at compile time hacking multi-staging programming&rpar;](https://www.reddit.com/r/scala/comments/yh6vuc/eval_and_dottypatched_how_to_evaluate_trees_at/)
 - [how can I make a binary tree of prefix expressions, example ?](https://www.reddit.com/r/scala/comments/ygxuo2/how_can_i_make_a_binary_tree_of_prefix/)
-- [How to update related messages in kafka topic if incoming message has reference to them only inside value?](https://www.reddit.com/r/scala/comments/ygmol1/how_to_update_related_messages_in_kafka_topic_if/)
-- [Flink CEP: What are greedy patterns?](https://www.reddit.com/r/scala/comments/ygju8d/flink_cep_what_are_greedy_patterns/)
-- [I cannot used Watermarks for some reason and the documentation of Apache Flink is so bad](https://www.reddit.com/r/scala/comments/yg34m6/i_cannot_used_watermarks_for_some_reason_and_the/)
-- [Flink: no output when using windows](https://www.reddit.com/r/scala/comments/yg220z/flink_no_output_when_using_windows/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

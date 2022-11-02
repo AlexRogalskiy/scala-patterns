@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Dependency inference: Pants&#39;s special sauce](https://www.reddit.com/r/scala/comments/yjj8tx/dependency_inference_pantss_special_sauce/)
+- [How do I come up with practice projects?](https://www.reddit.com/r/scala/comments/yjcxwz/how_do_i_come_up_with_practice_projects/)
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/yjchfa/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [Replace &quot;&quot; &lpar;empty string&rpar; to null using Spark dataframe.write method while writing to csv](https://www.reddit.com/r/scala/comments/yj2h78/replace_empty_string_to_null_using_spark/)
 - [Scala overriding Java fields and members](https://www.reddit.com/r/scala/comments/yistel/scala_overriding_java_fields_and_members/)
+- [This week in #Scala &lpar;Oct 31, 2022&rpar;](https://www.reddit.com/r/scala/comments/yibvg6/this_week_in_scala_oct_31_2022/)
 - [Best immutable priority queue for scala](https://www.reddit.com/r/scala/comments/yi9eix/best_immutable_priority_queue_for_scala/)
 - [Elon&#39;s plans for Twitter](https://www.reddit.com/r/scala/comments/yi5j95/elons_plans_for_twitter/)
 - [Using stacks with linked lists, to resolve an expression in prefix](https://www.reddit.com/r/scala/comments/yhzasc/using_stacks_with_linked_lists_to_resolve_an/)
 - [sbt 1.7.3 released](https://www.reddit.com/r/scala/comments/yhyxmq/sbt_173_released/)
-- [Scala 3 version compatibility](https://www.reddit.com/r/scala/comments/yhh60c/scala_3_version_compatibility/)
-- [Recurrence relation as Stream...](https://www.reddit.com/r/scala/comments/yhe0th/recurrence_relation_as_stream/)
-- [Elaborating on the load shedding claims in &quot;effect system&quot; aka IO monad](https://www.reddit.com/r/scala/comments/yhajqa/elaborating_on_the_load_shedding_claims_in_effect/)
-- [Eval and dotty-patched &lpar;how to evaluate trees at compile time hacking multi-staging programming&rpar;](https://www.reddit.com/r/scala/comments/yh6vuc/eval_and_dottypatched_how_to_evaluate_trees_at/)
-- [how can I make a binary tree of prefix expressions, example ?](https://www.reddit.com/r/scala/comments/ygxuo2/how_can_i_make_a_binary_tree_of_prefix/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

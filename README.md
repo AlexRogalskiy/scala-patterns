@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3: Custom JIT compilation with Runtime Multi-Stage Programming](https://www.reddit.com/r/scala/comments/ylcs7t/scala_3_custom_jit_compilation_with_runtime/)
+- [HTTP services behind RPC message based gateways with Tapir and ZIO](https://www.reddit.com/r/scala/comments/ylapvj/http_services_behind_rpc_message_based_gateways/)
+- [Case class conversion library?](https://www.reddit.com/r/scala/comments/yl8881/case_class_conversion_library/)
+- [Scala 3 migration: 7 benefits that outweigh the risks](https://www.reddit.com/r/scala/comments/yl65n3/scala_3_migration_7_benefits_that_outweigh_the/)
 - [spaceship-prompt v4.7.0 introduces Scala support. It displays the version of the Scala compiler in the prompt within Scala projects.](https://www.reddit.com/r/scala/comments/yk6bbr/spaceshipprompt_v470_introduces_scala_support_it/)
 - [2.13 Collections .mapValues deprecation](https://www.reddit.com/r/scala/comments/yk4wq5/213_collections_mapvalues_deprecation/)
 - [Scala to Lua transpiler](https://www.reddit.com/r/scala/comments/yk0833/scala_to_lua_transpiler/)
 - [Dependency inference: Pants&#39;s special sauce](https://www.reddit.com/r/scala/comments/yjj8tx/dependency_inference_pantss_special_sauce/)
 - [How do I come up with practice projects?](https://www.reddit.com/r/scala/comments/yjcxwz/how_do_i_come_up_with_practice_projects/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/yjchfa/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [Replace &quot;&quot; &lpar;empty string&rpar; to null using Spark dataframe.write method while writing to csv](https://www.reddit.com/r/scala/comments/yj2h78/replace_empty_string_to_null_using_spark/)
-- [This week in #Scala &lpar;Oct 31, 2022&rpar;](https://www.reddit.com/r/scala/comments/yibvg6/this_week_in_scala_oct_31_2022/)
-- [Best immutable priority queue for scala](https://www.reddit.com/r/scala/comments/yi9eix/best_immutable_priority_queue_for_scala/)
-- [Elon&#39;s plans for Twitter](https://www.reddit.com/r/scala/comments/yi5j95/elons_plans_for_twitter/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Here’s a playlist of 7 hours of music with NO VOCALS I use to focus when I’m coding/developing. Post yours as well if you also have one!](https://www.reddit.com/r/scala/comments/ymf7gy/heres_a_playlist_of_7_hours_of_music_with_no/)
+- [Grasping the concepts and getting them down to earth](https://www.reddit.com/r/scala/comments/ym066t/grasping_the_concepts_and_getting_them_down_to/)
+- [Scala 2 or 3 for new greenfield project](https://www.reddit.com/r/scala/comments/ylydrg/scala_2_or_3_for_new_greenfield_project/)
 - [Scala 3: Custom JIT compilation with Runtime Multi-Stage Programming](https://www.reddit.com/r/scala/comments/ylcs7t/scala_3_custom_jit_compilation_with_runtime/)
 - [HTTP services behind RPC message based gateways with Tapir and ZIO](https://www.reddit.com/r/scala/comments/ylapvj/http_services_behind_rpc_message_based_gateways/)
 - [Case class conversion library?](https://www.reddit.com/r/scala/comments/yl8881/case_class_conversion_library/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [spaceship-prompt v4.7.0 introduces Scala support. It displays the version of the Scala compiler in the prompt within Scala projects.](https://www.reddit.com/r/scala/comments/yk6bbr/spaceshipprompt_v470_introduces_scala_support_it/)
 - [2.13 Collections .mapValues deprecation](https://www.reddit.com/r/scala/comments/yk4wq5/213_collections_mapvalues_deprecation/)
 - [Scala to Lua transpiler](https://www.reddit.com/r/scala/comments/yk0833/scala_to_lua_transpiler/)
-- [Dependency inference: Pants&#39;s special sauce](https://www.reddit.com/r/scala/comments/yjj8tx/dependency_inference_pantss_special_sauce/)
-- [How do I come up with practice projects?](https://www.reddit.com/r/scala/comments/yjcxwz/how_do_i_come_up_with_practice_projects/)
-- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/yjchfa/who_is_hiring_monthly_rscala_job_postings_thread/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

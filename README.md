@@ -271,7 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Here’s a playlist of 7 hours of music with NO VOCALS I use to focus when I’m coding/developing. Post yours as well if you also have one!](https://www.reddit.com/r/scala/comments/ymf7gy/heres_a_playlist_of_7_hours_of_music_with_no/)
+- [Right way to use AWS &amp; Scala](https://www.reddit.com/r/scala/comments/ymwmum/right_way_to_use_aws_scala/)
+- [Data science in Scala](https://www.reddit.com/r/scala/comments/ymr4ih/data_science_in_scala/)
+- [Function reuse is just wishful thinking](https://www.reddit.com/r/scala/comments/ymlbk4/function_reuse_is_just_wishful_thinking/)
 - [Grasping the concepts and getting them down to earth](https://www.reddit.com/r/scala/comments/ym066t/grasping_the_concepts_and_getting_them_down_to/)
 - [Scala 2 or 3 for new greenfield project](https://www.reddit.com/r/scala/comments/ylydrg/scala_2_or_3_for_new_greenfield_project/)
 - [Scala 3: Custom JIT compilation with Runtime Multi-Stage Programming](https://www.reddit.com/r/scala/comments/ylcs7t/scala_3_custom_jit_compilation_with_runtime/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Case class conversion library?](https://www.reddit.com/r/scala/comments/yl8881/case_class_conversion_library/)
 - [Scala 3 migration: 7 benefits that outweigh the risks](https://www.reddit.com/r/scala/comments/yl65n3/scala_3_migration_7_benefits_that_outweigh_the/)
 - [spaceship-prompt v4.7.0 introduces Scala support. It displays the version of the Scala compiler in the prompt within Scala projects.](https://www.reddit.com/r/scala/comments/yk6bbr/spaceshipprompt_v470_introduces_scala_support_it/)
-- [2.13 Collections .mapValues deprecation](https://www.reddit.com/r/scala/comments/yk4wq5/213_collections_mapvalues_deprecation/)
-- [Scala to Lua transpiler](https://www.reddit.com/r/scala/comments/yk0833/scala_to_lua_transpiler/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

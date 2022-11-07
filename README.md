@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Added Classes and Objects to my toy programming language](https://www.reddit.com/r/scala/comments/ynzul7/added_classes_and_objects_to_my_toy_programming/)
 - [Right way to use AWS &amp; Scala](https://www.reddit.com/r/scala/comments/ymwmum/right_way_to_use_aws_scala/)
 - [Data science in Scala](https://www.reddit.com/r/scala/comments/ymr4ih/data_science_in_scala/)
 - [Function reuse is just wishful thinking](https://www.reddit.com/r/scala/comments/ymlbk4/function_reuse_is_just_wishful_thinking/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [HTTP services behind RPC message based gateways with Tapir and ZIO](https://www.reddit.com/r/scala/comments/ylapvj/http_services_behind_rpc_message_based_gateways/)
 - [Case class conversion library?](https://www.reddit.com/r/scala/comments/yl8881/case_class_conversion_library/)
 - [Scala 3 migration: 7 benefits that outweigh the risks](https://www.reddit.com/r/scala/comments/yl65n3/scala_3_migration_7_benefits_that_outweigh_the/)
-- [spaceship-prompt v4.7.0 introduces Scala support. It displays the version of the Scala compiler in the prompt within Scala projects.](https://www.reddit.com/r/scala/comments/yk6bbr/spaceshipprompt_v470_introduces_scala_support_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

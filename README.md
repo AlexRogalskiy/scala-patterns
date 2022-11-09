@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Noob question: How can I upgrade JVM version installed by `cs setup`?](https://www.reddit.com/r/scala/comments/ypzksn/noob_question_how_can_i_upgrade_jvm_version/)
+- [How do you open/index Scala projects &lpar;microservices&rpar; with IntelliJ Ultimate?](https://www.reddit.com/r/scala/comments/yptkje/how_do_you_openindex_scala_projects_microservices/)
 - [Added Classes and Objects to my toy programming language](https://www.reddit.com/r/scala/comments/ynzul7/added_classes_and_objects_to_my_toy_programming/)
+- [This week in #Scala &lpar;Nov 7, 2022&rpar;](https://www.reddit.com/r/scala/comments/ynx6st/this_week_in_scala_nov_7_2022/)
 - [Right way to use AWS &amp; Scala](https://www.reddit.com/r/scala/comments/ymwmum/right_way_to_use_aws_scala/)
 - [Data science in Scala](https://www.reddit.com/r/scala/comments/ymr4ih/data_science_in_scala/)
 - [Function reuse is just wishful thinking](https://www.reddit.com/r/scala/comments/ymlbk4/function_reuse_is_just_wishful_thinking/)
 - [Grasping the concepts and getting them down to earth](https://www.reddit.com/r/scala/comments/ym066t/grasping_the_concepts_and_getting_them_down_to/)
 - [Scala 2 or 3 for new greenfield project](https://www.reddit.com/r/scala/comments/ylydrg/scala_2_or_3_for_new_greenfield_project/)
 - [Scala 3: Custom JIT compilation with Runtime Multi-Stage Programming](https://www.reddit.com/r/scala/comments/ylcs7t/scala_3_custom_jit_compilation_with_runtime/)
-- [HTTP services behind RPC message based gateways with Tapir and ZIO](https://www.reddit.com/r/scala/comments/ylapvj/http_services_behind_rpc_message_based_gateways/)
-- [Case class conversion library?](https://www.reddit.com/r/scala/comments/yl8881/case_class_conversion_library/)
-- [Scala 3 migration: 7 benefits that outweigh the risks](https://www.reddit.com/r/scala/comments/yl65n3/scala_3_migration_7_benefits_that_outweigh_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

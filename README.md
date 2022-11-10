@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Scala community is going to exile me for this](https://www.reddit.com/r/scala/comments/yqog84/the_scala_community_is_going_to_exile_me_for_this/)
+- [Argument against mutation in functional programming.](https://www.reddit.com/r/scala/comments/yqe7y8/argument_against_mutation_in_functional/)
 - [Noob question: How can I upgrade JVM version installed by `cs setup`?](https://www.reddit.com/r/scala/comments/ypzksn/noob_question_how_can_i_upgrade_jvm_version/)
 - [How do you open/index Scala projects &lpar;microservices&rpar; with IntelliJ Ultimate?](https://www.reddit.com/r/scala/comments/yptkje/how_do_you_openindex_scala_projects_microservices/)
 - [Added Classes and Objects to my toy programming language](https://www.reddit.com/r/scala/comments/ynzul7/added_classes_and_objects_to_my_toy_programming/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Data science in Scala](https://www.reddit.com/r/scala/comments/ymr4ih/data_science_in_scala/)
 - [Function reuse is just wishful thinking](https://www.reddit.com/r/scala/comments/ymlbk4/function_reuse_is_just_wishful_thinking/)
 - [Grasping the concepts and getting them down to earth](https://www.reddit.com/r/scala/comments/ym066t/grasping_the_concepts_and_getting_them_down_to/)
-- [Scala 2 or 3 for new greenfield project](https://www.reddit.com/r/scala/comments/ylydrg/scala_2_or_3_for_new_greenfield_project/)
-- [Scala 3: Custom JIT compilation with Runtime Multi-Stage Programming](https://www.reddit.com/r/scala/comments/ylcs7t/scala_3_custom_jit_compilation_with_runtime/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

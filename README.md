@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 1.8.0 released](https://www.reddit.com/r/scala/comments/yruu34/sbt_180_released/)
+- [Output object with Circe with sealed trait + case classes adds sealed trait block](https://www.reddit.com/r/scala/comments/yrjit4/output_object_with_circe_with_sealed_trait_case/)
+- [The Art of Scala conference, Warsaw, Nov 16](https://www.reddit.com/r/scala/comments/yrbwad/the_art_of_scala_conference_warsaw_nov_16/)
+- [Scala 3.2.1 released!](https://www.reddit.com/r/scala/comments/yrbpv8/scala_321_released/)
+- [Scala Toolkit makes Scala powerful straight out of the box](https://www.reddit.com/r/scala/comments/yrbn42/scala_toolkit_makes_scala_powerful_straight_out/)
+- [Seeing through hardware counters: a journey to threefold performance increase by Vadim Filanovsky and Harshad Sane](https://www.reddit.com/r/scala/comments/yr8005/seeing_through_hardware_counters_a_journey_to/)
 - [The Scala community is going to exile me for this](https://www.reddit.com/r/scala/comments/yqog84/the_scala_community_is_going_to_exile_me_for_this/)
 - [Argument against mutation in functional programming.](https://www.reddit.com/r/scala/comments/yqe7y8/argument_against_mutation_in_functional/)
 - [Noob question: How can I upgrade JVM version installed by `cs setup`?](https://www.reddit.com/r/scala/comments/ypzksn/noob_question_how_can_i_upgrade_jvm_version/)
 - [How do you open/index Scala projects &lpar;microservices&rpar; with IntelliJ Ultimate?](https://www.reddit.com/r/scala/comments/yptkje/how_do_you_openindex_scala_projects_microservices/)
-- [Added Classes and Objects to my toy programming language](https://www.reddit.com/r/scala/comments/ynzul7/added_classes_and_objects_to_my_toy_programming/)
-- [This week in #Scala &lpar;Nov 7, 2022&rpar;](https://www.reddit.com/r/scala/comments/ynx6st/this_week_in_scala_nov_7_2022/)
-- [Right way to use AWS &amp; Scala](https://www.reddit.com/r/scala/comments/ymwmum/right_way_to_use_aws_scala/)
-- [Data science in Scala](https://www.reddit.com/r/scala/comments/ymr4ih/data_science_in_scala/)
-- [Function reuse is just wishful thinking](https://www.reddit.com/r/scala/comments/ymlbk4/function_reuse_is_just_wishful_thinking/)
-- [Grasping the concepts and getting them down to earth](https://www.reddit.com/r/scala/comments/ym066t/grasping_the_concepts_and_getting_them_down_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sudori part ;](https://www.reddit.com/r/scala/comments/yt6rgi/sudori_part/)
 - [This list of free scala courses will help you get started with mastering scala. Check it out.](https://www.reddit.com/r/scala/comments/ysdvxp/this_list_of_free_scala_courses_will_help_you_get/)
 - [sbt 1.8.0 released](https://www.reddit.com/r/scala/comments/yruu34/sbt_180_released/)
 - [Output object with Circe with sealed trait + case classes adds sealed trait block](https://www.reddit.com/r/scala/comments/yrjit4/output_object_with_circe_with_sealed_trait_case/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Seeing through hardware counters: a journey to threefold performance increase by Vadim Filanovsky and Harshad Sane](https://www.reddit.com/r/scala/comments/yr8005/seeing_through_hardware_counters_a_journey_to/)
 - [The Scala community is going to exile me for this](https://www.reddit.com/r/scala/comments/yqog84/the_scala_community_is_going_to_exile_me_for_this/)
 - [Argument against mutation in functional programming.](https://www.reddit.com/r/scala/comments/yqe7y8/argument_against_mutation_in_functional/)
-- [Noob question: How can I upgrade JVM version installed by `cs setup`?](https://www.reddit.com/r/scala/comments/ypzksn/noob_question_how_can_i_upgrade_jvm_version/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Nov 14, 2022&rpar;](https://www.reddit.com/r/scala/comments/yuliun/this_week_in_scala_nov_14_2022/)
 - [sudori part ;](https://www.reddit.com/r/scala/comments/yt6rgi/sudori_part/)
 - [This list of free scala courses will help you get started with mastering scala. Check it out.](https://www.reddit.com/r/scala/comments/ysdvxp/this_list_of_free_scala_courses_will_help_you_get/)
 - [sbt 1.8.0 released](https://www.reddit.com/r/scala/comments/yruu34/sbt_180_released/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Toolkit makes Scala powerful straight out of the box](https://www.reddit.com/r/scala/comments/yrbn42/scala_toolkit_makes_scala_powerful_straight_out/)
 - [Seeing through hardware counters: a journey to threefold performance increase by Vadim Filanovsky and Harshad Sane](https://www.reddit.com/r/scala/comments/yr8005/seeing_through_hardware_counters_a_journey_to/)
 - [The Scala community is going to exile me for this](https://www.reddit.com/r/scala/comments/yqog84/the_scala_community_is_going_to_exile_me_for_this/)
-- [Argument against mutation in functional programming.](https://www.reddit.com/r/scala/comments/yqe7y8/argument_against_mutation_in_functional/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

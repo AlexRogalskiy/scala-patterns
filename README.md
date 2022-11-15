@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Rock the JVM Black Friday offer](https://www.reddit.com/r/scala/comments/yv5k8w/rock_the_jvm_black_friday_offer/)
+- [Software Engineering Radio: Scala and Tapir](https://www.reddit.com/r/scala/comments/yuuxj1/software_engineering_radio_scala_and_tapir/)
 - [This week in #Scala &lpar;Nov 14, 2022&rpar;](https://www.reddit.com/r/scala/comments/yuliun/this_week_in_scala_nov_14_2022/)
 - [sudori part ;](https://www.reddit.com/r/scala/comments/yt6rgi/sudori_part/)
 - [This list of free scala courses will help you get started with mastering scala. Check it out.](https://www.reddit.com/r/scala/comments/ysdvxp/this_list_of_free_scala_courses_will_help_you_get/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [The Art of Scala conference, Warsaw, Nov 16](https://www.reddit.com/r/scala/comments/yrbwad/the_art_of_scala_conference_warsaw_nov_16/)
 - [Scala 3.2.1 released!](https://www.reddit.com/r/scala/comments/yrbpv8/scala_321_released/)
 - [Scala Toolkit makes Scala powerful straight out of the box](https://www.reddit.com/r/scala/comments/yrbn42/scala_toolkit_makes_scala_powerful_straight_out/)
-- [Seeing through hardware counters: a journey to threefold performance increase by Vadim Filanovsky and Harshad Sane](https://www.reddit.com/r/scala/comments/yr8005/seeing_through_hardware_counters_a_journey_to/)
-- [The Scala community is going to exile me for this](https://www.reddit.com/r/scala/comments/yqog84/the_scala_community_is_going_to_exile_me_for_this/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

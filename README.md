@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What are the possible ways to connect with MYSQL using scala](https://www.reddit.com/r/scala/comments/yvyncm/what_are_the_possible_ways_to_connect_with_mysql/)
 - [Rock the JVM Black Friday offer](https://www.reddit.com/r/scala/comments/yv5k8w/rock_the_jvm_black_friday_offer/)
 - [Software Engineering Radio: Scala and Tapir](https://www.reddit.com/r/scala/comments/yuuxj1/software_engineering_radio_scala_and_tapir/)
 - [This week in #Scala &lpar;Nov 14, 2022&rpar;](https://www.reddit.com/r/scala/comments/yuliun/this_week_in_scala_nov_14_2022/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Output object with Circe with sealed trait + case classes adds sealed trait block](https://www.reddit.com/r/scala/comments/yrjit4/output_object_with_circe_with_sealed_trait_case/)
 - [The Art of Scala conference, Warsaw, Nov 16](https://www.reddit.com/r/scala/comments/yrbwad/the_art_of_scala_conference_warsaw_nov_16/)
 - [Scala 3.2.1 released!](https://www.reddit.com/r/scala/comments/yrbpv8/scala_321_released/)
-- [Scala Toolkit makes Scala powerful straight out of the box](https://www.reddit.com/r/scala/comments/yrbn42/scala_toolkit_makes_scala_powerful_straight_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

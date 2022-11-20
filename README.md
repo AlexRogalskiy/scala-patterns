@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Convert WrappedArray into an iterable in Scala](https://www.reddit.com/r/scala/comments/yzm1t2/convert_wrappedarray_into_an_iterable_in_scala/)
+- [Error handling for Cats Effect IO](https://www.reddit.com/r/scala/comments/yz9off/error_handling_for_cats_effect_io/)
 - [Automatic parallelisation of for-comprehensions in Scala 3](https://www.reddit.com/r/scala/comments/yymao3/automatic_parallelisation_of_forcomprehensions_in/)
 - [Free scholarships to Functional Scala 2022 for all those in need &lpar;Dec 1 - 2; London, UK&rpar;](https://www.reddit.com/r/scala/comments/yyjqnq/free_scholarships_to_functional_scala_2022_for/)
 - [Flink Scala API deprecated - Another major API bids goodbye](https://www.reddit.com/r/scala/comments/yyitj0/flink_scala_api_deprecated_another_major_api_bids/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Rock the JVM Black Friday offer](https://www.reddit.com/r/scala/comments/yv5k8w/rock_the_jvm_black_friday_offer/)
 - [Software Engineering Radio: Scala and Tapir](https://www.reddit.com/r/scala/comments/yuuxj1/software_engineering_radio_scala_and_tapir/)
 - [This week in #Scala &lpar;Nov 14, 2022&rpar;](https://www.reddit.com/r/scala/comments/yuliun/this_week_in_scala_nov_14_2022/)
-- [sudori part ;](https://www.reddit.com/r/scala/comments/yt6rgi/sudori_part/)
-- [This list of free scala courses will help you get started with mastering scala. Check it out.](https://www.reddit.com/r/scala/comments/ysdvxp/this_list_of_free_scala_courses_will_help_you_get/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

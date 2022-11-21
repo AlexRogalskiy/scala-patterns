@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Nov 21, 2022&rpar;](https://www.reddit.com/r/scala/comments/z0f3oj/this_week_in_scala_nov_21_2022/)
+- [2 years at Twitter · eed3si9n](https://www.reddit.com/r/scala/comments/z0e5ba/2_years_at_twitter_eed3si9n/)
+- [The Journey of a Dotty Diagnostic](https://www.reddit.com/r/scala/comments/z09ceq/the_journey_of_a_dotty_diagnostic/)
+- [Using external libraries in Scala code](https://www.reddit.com/r/scala/comments/z06vdu/using_external_libraries_in_scala_code/)
+- [Looking for companies using Scala.js](https://www.reddit.com/r/scala/comments/z05ay2/looking_for_companies_using_scalajs/)
+- [Scala 3 is not production ready](https://www.reddit.com/r/scala/comments/z057af/scala_3_is_not_production_ready/)
 - [Convert WrappedArray into an iterable in Scala](https://www.reddit.com/r/scala/comments/yzm1t2/convert_wrappedarray_into_an_iterable_in_scala/)
 - [Error handling for Cats Effect IO](https://www.reddit.com/r/scala/comments/yz9off/error_handling_for_cats_effect_io/)
 - [Automatic parallelisation of for-comprehensions in Scala 3](https://www.reddit.com/r/scala/comments/yymao3/automatic_parallelisation_of_forcomprehensions_in/)
 - [Free scholarships to Functional Scala 2022 for all those in need &lpar;Dec 1 - 2; London, UK&rpar;](https://www.reddit.com/r/scala/comments/yyjqnq/free_scholarships_to_functional_scala_2022_for/)
-- [Flink Scala API deprecated - Another major API bids goodbye](https://www.reddit.com/r/scala/comments/yyitj0/flink_scala_api_deprecated_another_major_api_bids/)
-- [Scala vs Kotlin for Stream Processing](https://www.reddit.com/r/scala/comments/ywy1sk/scala_vs_kotlin_for_stream_processing/)
-- [What are the possible ways to connect with MYSQL using scala](https://www.reddit.com/r/scala/comments/yvyncm/what_are_the_possible_ways_to_connect_with_mysql/)
-- [Rock the JVM Black Friday offer](https://www.reddit.com/r/scala/comments/yv5k8w/rock_the_jvm_black_friday_offer/)
-- [Software Engineering Radio: Scala and Tapir](https://www.reddit.com/r/scala/comments/yuuxj1/software_engineering_radio_scala_and_tapir/)
-- [This week in #Scala &lpar;Nov 14, 2022&rpar;](https://www.reddit.com/r/scala/comments/yuliun/this_week_in_scala_nov_14_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

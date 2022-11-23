@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Poll: Best Scala books](https://www.reddit.com/r/scala/comments/z25jm2/poll_best_scala_books/)
+- [Poppet 0.3.0 got Scala 3 support](https://www.reddit.com/r/scala/comments/z1wcc7/poppet_030_got_scala_3_support/)
+- [Please join Mastodon](https://www.reddit.com/r/scala/comments/z1r5lg/please_join_mastodon/)
+- [Scala 3: the missing compiler plugin](https://www.reddit.com/r/scala/comments/z1oe45/scala_3_the_missing_compiler_plugin/)
+- [Using Scalafix to Refactor Logging · Terse Systems](https://www.reddit.com/r/scala/comments/z1iwo6/using_scalafix_to_refactor_logging_terse_systems/)
 - [Scala 3 macros by example: Annotation maps](https://www.reddit.com/r/scala/comments/z1cjv6/scala_3_macros_by_example_annotation_maps/)
 - [Scala hosting services with free tier](https://www.reddit.com/r/scala/comments/z1aasu/scala_hosting_services_with_free_tier/)
 - [Official talk line-up announced for Functional Scala 2022 &lpar;Dec 1 - 2, London &amp; online&rpar; ⬇️](https://www.reddit.com/r/scala/comments/z0u989/official_talk_lineup_announced_for_functional/)
 - [Benchmark results of JSON parsers for Scala 3](https://www.reddit.com/r/scala/comments/z0u4y5/benchmark_results_of_json_parsers_for_scala_3/)
 - [Simulating &amp; troubleshooting StackOverflowError in Scala](https://www.reddit.com/r/scala/comments/z0s6p9/simulating_troubleshooting_stackoverflowerror_in/)
-- [This week in #Scala &lpar;Nov 21, 2022&rpar;](https://www.reddit.com/r/scala/comments/z0f3oj/this_week_in_scala_nov_21_2022/)
-- [2 years at Twitter · eed3si9n](https://www.reddit.com/r/scala/comments/z0e5ba/2_years_at_twitter_eed3si9n/)
-- [The Journey of a Dotty Diagnostic](https://www.reddit.com/r/scala/comments/z09ceq/the_journey_of_a_dotty_diagnostic/)
-- [Using external libraries in Scala code](https://www.reddit.com/r/scala/comments/z06vdu/using_external_libraries_in_scala_code/)
-- [Looking for companies using Scala.js](https://www.reddit.com/r/scala/comments/z05ay2/looking_for_companies_using_scalajs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

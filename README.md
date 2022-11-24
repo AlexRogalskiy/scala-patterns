@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Lichess is running Scala 3 now](https://www.reddit.com/r/scala/comments/z2siur/lichess_is_running_scala_3_now/)
+- [Semigroupal, Parallel y Applicative](https://www.reddit.com/r/scala/comments/z2e9nq/semigroupal_parallel_y_applicative/)
 - [Poll: Best Scala books](https://www.reddit.com/r/scala/comments/z25jm2/poll_best_scala_books/)
 - [Poppet 0.3.0 got Scala 3 support](https://www.reddit.com/r/scala/comments/z1wcc7/poppet_030_got_scala_3_support/)
 - [Please join Mastodon](https://www.reddit.com/r/scala/comments/z1r5lg/please_join_mastodon/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala 3 macros by example: Annotation maps](https://www.reddit.com/r/scala/comments/z1cjv6/scala_3_macros_by_example_annotation_maps/)
 - [Scala hosting services with free tier](https://www.reddit.com/r/scala/comments/z1aasu/scala_hosting_services_with_free_tier/)
 - [Official talk line-up announced for Functional Scala 2022 &lpar;Dec 1 - 2, London &amp; online&rpar; ⬇️](https://www.reddit.com/r/scala/comments/z0u989/official_talk_lineup_announced_for_functional/)
-- [Benchmark results of JSON parsers for Scala 3](https://www.reddit.com/r/scala/comments/z0u4y5/benchmark_results_of_json_parsers_for_scala_3/)
-- [Simulating &amp; troubleshooting StackOverflowError in Scala](https://www.reddit.com/r/scala/comments/z0s6p9/simulating_troubleshooting_stackoverflowerror_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

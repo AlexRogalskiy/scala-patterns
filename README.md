@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I removed sbt-assembly and sbt-buildinfo from my project.](https://www.reddit.com/r/scala/comments/z42n54/i_removed_sbtassembly_and_sbtbuildinfo_from_my/)
 - [Scala3 Macros by Example 2: Package-wide Search](https://www.reddit.com/r/scala/comments/z3shwx/scala3_macros_by_example_2_packagewide_search/)
 - [ENSIME now works with VScode, Vim and more](https://www.reddit.com/r/scala/comments/z3irr7/ensime_now_works_with_vscode_vim_and_more/)
 - [Lichess is running Scala 3 now](https://www.reddit.com/r/scala/comments/z2siur/lichess_is_running_scala_3_now/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Please join Mastodon](https://www.reddit.com/r/scala/comments/z1r5lg/please_join_mastodon/)
 - [Scala 3: the missing compiler plugin](https://www.reddit.com/r/scala/comments/z1oe45/scala_3_the_missing_compiler_plugin/)
 - [Using Scalafix to Refactor Logging · Terse Systems](https://www.reddit.com/r/scala/comments/z1iwo6/using_scalafix_to_refactor_logging_terse_systems/)
-- [Scala 3 macros by example: Annotation maps](https://www.reddit.com/r/scala/comments/z1cjv6/scala_3_macros_by_example_annotation_maps/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

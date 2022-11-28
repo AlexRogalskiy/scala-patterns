@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is Clean Code? by the man who wrote the book on Clean Code](https://www.reddit.com/r/scala/comments/z6d71d/what_is_clean_code_by_the_man_who_wrote_the_book/)
+- [Semigroupal, Parallel y Applicative parte 2](https://www.reddit.com/r/scala/comments/z6aycs/semigroupal_parallel_y_applicative_parte_2/)
+- [This week in #Scala &lpar;Nov 28, 2022&rpar;](https://www.reddit.com/r/scala/comments/z67c6y/this_week_in_scala_nov_28_2022/)
+- [Tickets for Functional Scala 2022](https://www.reddit.com/r/scala/comments/z66xvf/tickets_for_functional_scala_2022/)
+- [What&#39;s the point of opaque type aliases &lpar;and are they actually sound&rpar;?](https://www.reddit.com/r/scala/comments/z5plfd/whats_the_point_of_opaque_type_aliases_and_are/)
 - [I removed sbt-assembly and sbt-buildinfo from my project.](https://www.reddit.com/r/scala/comments/z42n54/i_removed_sbtassembly_and_sbtbuildinfo_from_my/)
 - [Scala3 Macros by Example 2: Package-wide Search](https://www.reddit.com/r/scala/comments/z3shwx/scala3_macros_by_example_2_packagewide_search/)
 - [ENSIME now works with VScode, Vim and more](https://www.reddit.com/r/scala/comments/z3irr7/ensime_now_works_with_vscode_vim_and_more/)
 - [Lichess is running Scala 3 now](https://www.reddit.com/r/scala/comments/z2siur/lichess_is_running_scala_3_now/)
 - [Semigroupal, Parallel y Applicative](https://www.reddit.com/r/scala/comments/z2e9nq/semigroupal_parallel_y_applicative/)
-- [Poll: Best Scala books](https://www.reddit.com/r/scala/comments/z25jm2/poll_best_scala_books/)
-- [Poppet 0.3.0 got Scala 3 support](https://www.reddit.com/r/scala/comments/z1wcc7/poppet_030_got_scala_3_support/)
-- [Please join Mastodon](https://www.reddit.com/r/scala/comments/z1r5lg/please_join_mastodon/)
-- [Scala 3: the missing compiler plugin](https://www.reddit.com/r/scala/comments/z1oe45/scala_3_the_missing_compiler_plugin/)
-- [Using Scalafix to Refactor Logging · Terse Systems](https://www.reddit.com/r/scala/comments/z1iwo6/using_scalafix_to_refactor_logging_terse_systems/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What is Clean Code? by the man who wrote the book on Clean Code](https://www.reddit.com/r/scala/comments/z6d71d/what_is_clean_code_by_the_man_who_wrote_the_book/)
+- [Scala 3 Macros by Example 3: Type-Safe Dictionaries and Matching](https://www.reddit.com/r/scala/comments/z73f6v/scala_3_macros_by_example_3_typesafe_dictionaries/)
+- [Threads at Scale - Daniel Spiewak](https://www.reddit.com/r/scala/comments/z6wp64/threads_at_scale_daniel_spiewak/)
+- [I am extremely new to scala. getting this error...](https://www.reddit.com/r/scala/comments/z6vrpi/i_am_extremely_new_to_scala_getting_this_error/)
+- [Finagle Tutorial - Twitter&#39;s RPC Library for Scala](https://www.reddit.com/r/scala/comments/z6u3zb/finagle_tutorial_twitters_rpc_library_for_scala/)
+- [How to handle multistage, IO heavy validations?](https://www.reddit.com/r/scala/comments/z6tqjm/how_to_handle_multistage_io_heavy_validations/)
 - [Semigroupal, Parallel y Applicative parte 2](https://www.reddit.com/r/scala/comments/z6aycs/semigroupal_parallel_y_applicative_parte_2/)
 - [This week in #Scala &lpar;Nov 28, 2022&rpar;](https://www.reddit.com/r/scala/comments/z67c6y/this_week_in_scala_nov_28_2022/)
 - [Tickets for Functional Scala 2022](https://www.reddit.com/r/scala/comments/z66xvf/tickets_for_functional_scala_2022/)
 - [What&#39;s the point of opaque type aliases &lpar;and are they actually sound&rpar;?](https://www.reddit.com/r/scala/comments/z5plfd/whats_the_point_of_opaque_type_aliases_and_are/)
 - [I removed sbt-assembly and sbt-buildinfo from my project.](https://www.reddit.com/r/scala/comments/z42n54/i_removed_sbtassembly_and_sbtbuildinfo_from_my/)
-- [Scala3 Macros by Example 2: Package-wide Search](https://www.reddit.com/r/scala/comments/z3shwx/scala3_macros_by_example_2_packagewide_search/)
-- [ENSIME now works with VScode, Vim and more](https://www.reddit.com/r/scala/comments/z3irr7/ensime_now_works_with_vscode_vim_and_more/)
-- [Lichess is running Scala 3 now](https://www.reddit.com/r/scala/comments/z2siur/lichess_is_running_scala_3_now/)
-- [Semigroupal, Parallel y Applicative](https://www.reddit.com/r/scala/comments/z2e9nq/semigroupal_parallel_y_applicative/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Zio cache shared in multiple unsafe](https://www.reddit.com/r/scala/comments/za3zya/zio_cache_shared_in_multiple_unsafe/)
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/z9szji/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [Tooling Talks - Krzysztof Romanowski: VirtusLab, a Tooling Powerhouse](https://www.reddit.com/r/scala/comments/z9im1d/tooling_talks_krzysztof_romanowski_virtuslab_a/)
+- [Semigroupal, Parallel y Applicative parte 5](https://www.reddit.com/r/scala/comments/z9elke/semigroupal_parallel_y_applicative_parte_5/)
+- [Semigroupal, Parallel y Applicative parte 4](https://www.reddit.com/r/scala/comments/z9elfu/semigroupal_parallel_y_applicative_parte_4/)
 - [IntelliJ Scala Plugin 2022.3 Is Out!](https://www.reddit.com/r/scala/comments/z902t6/intellij_scala_plugin_20223_is_out/)
 - [Scala CLI v0.1.18 is out!](https://www.reddit.com/r/scala/comments/z8tod7/scala_cli_v0118_is_out/)
 - [I want to process gcp bucket data with scala.](https://www.reddit.com/r/scala/comments/z8gq76/i_want_to_process_gcp_bucket_data_with_scala/)
 - [Semigroupal, Parallel y Applicative parte 3](https://www.reddit.com/r/scala/comments/z8gigg/semigroupal_parallel_y_applicative_parte_3/)
 - [Scala 3 Macros by Example 3: Type-Safe Dictionaries and Matching](https://www.reddit.com/r/scala/comments/z73f6v/scala_3_macros_by_example_3_typesafe_dictionaries/)
-- [Threads at Scale - Daniel Spiewak](https://www.reddit.com/r/scala/comments/z6wp64/threads_at_scale_daniel_spiewak/)
-- [I am extremely new to scala. getting this error...](https://www.reddit.com/r/scala/comments/z6vrpi/i_am_extremely_new_to_scala_getting_this_error/)
-- [Finagle Tutorial - Twitter&#39;s RPC Library for Scala](https://www.reddit.com/r/scala/comments/z6u3zb/finagle_tutorial_twitters_rpc_library_for_scala/)
-- [How to handle multistage, IO heavy validations?](https://www.reddit.com/r/scala/comments/z6tqjm/how_to_handle_multistage_io_heavy_validations/)
-- [Semigroupal, Parallel y Applicative parte 2](https://www.reddit.com/r/scala/comments/z6aycs/semigroupal_parallel_y_applicative_parte_2/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

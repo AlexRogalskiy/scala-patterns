@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Learning Scala 2 or 3 first](https://www.reddit.com/r/scala/comments/zble8t/learning_scala_2_or_3_first/)
 - [A Few Things You Always Wanted to Know About Tagless-Final](https://www.reddit.com/r/scala/comments/zaflvk/a_few_things_you_always_wanted_to_know_about/)
 - [Zio cache shared in multiple unsafe](https://www.reddit.com/r/scala/comments/za3zya/zio_cache_shared_in_multiple_unsafe/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/z9szji/who_is_hiring_monthly_rscala_job_postings_thread/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [IntelliJ Scala Plugin 2022.3 Is Out!](https://www.reddit.com/r/scala/comments/z902t6/intellij_scala_plugin_20223_is_out/)
 - [Scala CLI v0.1.18 is out!](https://www.reddit.com/r/scala/comments/z8tod7/scala_cli_v0118_is_out/)
 - [I want to process gcp bucket data with scala.](https://www.reddit.com/r/scala/comments/z8gq76/i_want_to_process_gcp_bucket_data_with_scala/)
-- [Semigroupal, Parallel y Applicative parte 3](https://www.reddit.com/r/scala/comments/z8gigg/semigroupal_parallel_y_applicative_parte_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

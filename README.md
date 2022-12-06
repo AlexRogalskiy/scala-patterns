@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [How to parse xml file in Scala?](https://www.reddit.com/r/scala/comments/zctnlt/how_to_parse_xml_file_in_scala/)
+- [Lightweight background job runner framework?](https://www.reddit.com/r/scala/comments/zdqux1/lightweight_background_job_runner_framework/)
+- [Twitter turns its back on open-source development](https://www.reddit.com/r/scala/comments/zde9b5/twitter_turns_its_back_on_opensource_development/)
+- [“Deploying a full stack Scala application on fly.io”, by Antoine Doeraene](https://www.reddit.com/r/scala/comments/zdcle0/deploying_a_full_stack_scala_application_on_flyio/)
+- [Lichess on Scala3 / help needed](https://www.reddit.com/r/scala/comments/zd7uvq/lichess_on_scala3_help_needed/)
+- [DI in Play for Scala3 with ZIO](https://www.reddit.com/r/scala/comments/zd7okl/di_in_play_for_scala3_with_zio/)
 - [This week in #Scala &lpar;Dec 5, 2022&rpar;](https://www.reddit.com/r/scala/comments/zcnpzx/this_week_in_scala_dec_5_2022/)
 - [Please help our academic research!](https://www.reddit.com/r/scala/comments/zcld2i/please_help_our_academic_research/)
 - [Learning Scala 2 or 3 first](https://www.reddit.com/r/scala/comments/zble8t/learning_scala_2_or_3_first/)
 - [A Few Things You Always Wanted to Know About Tagless-Final](https://www.reddit.com/r/scala/comments/zaflvk/a_few_things_you_always_wanted_to_know_about/)
 - [Zio cache shared in multiple unsafe](https://www.reddit.com/r/scala/comments/za3zya/zio_cache_shared_in_multiple_unsafe/)
-- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/z9szji/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [Tooling Talks - Krzysztof Romanowski: VirtusLab, a Tooling Powerhouse](https://www.reddit.com/r/scala/comments/z9im1d/tooling_talks_krzysztof_romanowski_virtuslab_a/)
-- [Semigroupal, Parallel y Applicative parte 5](https://www.reddit.com/r/scala/comments/z9elke/semigroupal_parallel_y_applicative_parte_5/)
-- [Semigroupal, Parallel y Applicative parte 4](https://www.reddit.com/r/scala/comments/z9elfu/semigroupal_parallel_y_applicative_parte_4/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

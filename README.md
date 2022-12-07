@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Companies &amp; Industries using Scala in Europe?](https://www.reddit.com/r/scala/comments/zeallr/companies_industries_using_scala_in_europe/)
+- [Seeking input from Metals users about build importing.](https://www.reddit.com/r/scala/comments/ze9z1p/seeking_input_from_metals_users_about_build/)
+- [KEYNOTE Simply Scala Martin Odersky](https://www.reddit.com/r/scala/comments/ze74fm/keynote_simply_scala_martin_odersky/)
+- [Scala eBooks featured in the Pragmatic Programmers Bundle](https://www.reddit.com/r/scala/comments/ze6hya/scala_ebooks_featured_in_the_pragmatic/)
+- [Dropping Scala 2.11 support in Scala.js and Scala Native](https://www.reddit.com/r/scala/comments/ze4zoi/dropping_scala_211_support_in_scalajs_and_scala/)
+- [Issues in parsing JSON in Scala using Jackson library](https://www.reddit.com/r/scala/comments/ze1nhb/issues_in_parsing_json_in_scala_using_jackson/)
 - [Lightweight background job runner framework?](https://www.reddit.com/r/scala/comments/zdqux1/lightweight_background_job_runner_framework/)
 - [Twitter turns its back on open-source development](https://www.reddit.com/r/scala/comments/zde9b5/twitter_turns_its_back_on_opensource_development/)
 - [“Deploying a full stack Scala application on fly.io”, by Antoine Doeraene](https://www.reddit.com/r/scala/comments/zdcle0/deploying_a_full_stack_scala_application_on_flyio/)
 - [Lichess on Scala3 / help needed](https://www.reddit.com/r/scala/comments/zd7uvq/lichess_on_scala3_help_needed/)
-- [DI in Play for Scala3 with ZIO](https://www.reddit.com/r/scala/comments/zd7okl/di_in_play_for_scala3_with_zio/)
-- [This week in #Scala &lpar;Dec 5, 2022&rpar;](https://www.reddit.com/r/scala/comments/zcnpzx/this_week_in_scala_dec_5_2022/)
-- [Please help our academic research!](https://www.reddit.com/r/scala/comments/zcld2i/please_help_our_academic_research/)
-- [Learning Scala 2 or 3 first](https://www.reddit.com/r/scala/comments/zble8t/learning_scala_2_or_3_first/)
-- [A Few Things You Always Wanted to Know About Tagless-Final](https://www.reddit.com/r/scala/comments/zaflvk/a_few_things_you_always_wanted_to_know_about/)
-- [Zio cache shared in multiple unsafe](https://www.reddit.com/r/scala/comments/za3zya/zio_cache_shared_in_multiple_unsafe/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

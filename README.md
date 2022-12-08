@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A Sweet Beginner&#39;s Guide to Scala by Daniel Ciocîrlan @ Func Prog Sweden](https://www.reddit.com/r/scala/comments/zf2nw3/a_sweet_beginners_guide_to_scala_by_daniel/)
+- [Conversion of ListBuffer to spark DataFrame in scala](https://www.reddit.com/r/scala/comments/zf245u/conversion_of_listbuffer_to_spark_dataframe_in/)
+- [Semigroupal, Parallel y Applicative parte 6](https://www.reddit.com/r/scala/comments/zexq3f/semigroupal_parallel_y_applicative_parte_6/)
 - [Companies &amp; Industries using Scala in Europe?](https://www.reddit.com/r/scala/comments/zeallr/companies_industries_using_scala_in_europe/)
 - [Seeking input from Metals users about build importing.](https://www.reddit.com/r/scala/comments/ze9z1p/seeking_input_from_metals_users_about_build/)
 - [KEYNOTE Simply Scala Martin Odersky](https://www.reddit.com/r/scala/comments/ze74fm/keynote_simply_scala_martin_odersky/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Dropping Scala 2.11 support in Scala.js and Scala Native](https://www.reddit.com/r/scala/comments/ze4zoi/dropping_scala_211_support_in_scalajs_and_scala/)
 - [Issues in parsing JSON in Scala using Jackson library](https://www.reddit.com/r/scala/comments/ze1nhb/issues_in_parsing_json_in_scala_using_jackson/)
 - [Lightweight background job runner framework?](https://www.reddit.com/r/scala/comments/zdqux1/lightweight_background_job_runner_framework/)
-- [Twitter turns its back on open-source development](https://www.reddit.com/r/scala/comments/zde9b5/twitter_turns_its_back_on_opensource_development/)
-- [“Deploying a full stack Scala application on fly.io”, by Antoine Doeraene](https://www.reddit.com/r/scala/comments/zdcle0/deploying_a_full_stack_scala_application_on_flyio/)
-- [Lichess on Scala3 / help needed](https://www.reddit.com/r/scala/comments/zd7uvq/lichess_on_scala3_help_needed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Thread per request vs Thread pool per operation | Krzysztof Płachno | Lambda Days 2022](https://www.reddit.com/r/scala/comments/zg1wi8/thread_per_request_vs_thread_pool_per_operation/)
+- [dotty-cps-async 0.9.12 is out](https://www.reddit.com/r/scala/comments/zfx6ys/dottycpsasync_0912_is_out/)
+- [can anyone help me with this? i was trying to use underscore to ignore the 2nd argument.](https://www.reddit.com/r/scala/comments/zftg99/can_anyone_help_me_with_this_i_was_trying_to_use/)
+- [smithy-translate : a CLI tool to turn openapi specs and json-schema specs into smithy specs, written in Scala](https://www.reddit.com/r/scala/comments/zftfwf/smithytranslate_a_cli_tool_to_turn_openapi_specs/)
 - [A Sweet Beginner&#39;s Guide to Scala by Daniel Ciocîrlan @ Func Prog Sweden](https://www.reddit.com/r/scala/comments/zf2nw3/a_sweet_beginners_guide_to_scala_by_daniel/)
 - [Conversion of ListBuffer to spark DataFrame in scala](https://www.reddit.com/r/scala/comments/zf245u/conversion_of_listbuffer_to_spark_dataframe_in/)
 - [Semigroupal, Parallel y Applicative parte 6](https://www.reddit.com/r/scala/comments/zexq3f/semigroupal_parallel_y_applicative_parte_6/)
 - [Companies &amp; Industries using Scala in Europe?](https://www.reddit.com/r/scala/comments/zeallr/companies_industries_using_scala_in_europe/)
 - [Seeking input from Metals users about build importing.](https://www.reddit.com/r/scala/comments/ze9z1p/seeking_input_from_metals_users_about_build/)
 - [KEYNOTE Simply Scala Martin Odersky](https://www.reddit.com/r/scala/comments/ze74fm/keynote_simply_scala_martin_odersky/)
-- [Scala eBooks featured in the Pragmatic Programmers Bundle](https://www.reddit.com/r/scala/comments/ze6hya/scala_ebooks_featured_in_the_pragmatic/)
-- [Dropping Scala 2.11 support in Scala.js and Scala Native](https://www.reddit.com/r/scala/comments/ze4zoi/dropping_scala_211_support_in_scalajs_and_scala/)
-- [Issues in parsing JSON in Scala using Jackson library](https://www.reddit.com/r/scala/comments/ze1nhb/issues_in_parsing_json_in_scala_using_jackson/)
-- [Lightweight background job runner framework?](https://www.reddit.com/r/scala/comments/zdqux1/lightweight_background_job_runner_framework/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

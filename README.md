@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Beautiful text-based user interfaces for Scala](https://www.reddit.com/r/scala/comments/zhejmt/beautiful_textbased_user_interfaces_for_scala/)
+- [The fastest and safest JSON parser and serializer for Scala](https://www.reddit.com/r/scala/comments/zhaocr/the_fastest_and_safest_json_parser_and_serializer/)
+- [Lichess running fine now on Scala 3 &lpar;after JVM parameter tuning&rpar;](https://www.reddit.com/r/scala/comments/zh3o6x/lichess_running_fine_now_on_scala_3_after_jvm/)
+- [import given](https://www.reddit.com/r/scala/comments/zgzaby/import_given/)
+- [Can I use Scala if my teammates are using Java in a project?](https://www.reddit.com/r/scala/comments/zgual7/can_i_use_scala_if_my_teammates_are_using_java_in/)
 - [Thread per request vs Thread pool per operation | Krzysztof Płachno | Lambda Days 2022](https://www.reddit.com/r/scala/comments/zg1wi8/thread_per_request_vs_thread_pool_per_operation/)
 - [dotty-cps-async 0.9.12 is out](https://www.reddit.com/r/scala/comments/zfx6ys/dottycpsasync_0912_is_out/)
 - [can anyone help me with this? i was trying to use underscore to ignore the 2nd argument.](https://www.reddit.com/r/scala/comments/zftg99/can_anyone_help_me_with_this_i_was_trying_to_use/)
 - [smithy-translate : a CLI tool to turn openapi specs and json-schema specs into smithy specs, written in Scala](https://www.reddit.com/r/scala/comments/zftfwf/smithytranslate_a_cli_tool_to_turn_openapi_specs/)
 - [A Sweet Beginner&#39;s Guide to Scala by Daniel Ciocîrlan @ Func Prog Sweden](https://www.reddit.com/r/scala/comments/zf2nw3/a_sweet_beginners_guide_to_scala_by_daniel/)
-- [Conversion of ListBuffer to spark DataFrame in scala](https://www.reddit.com/r/scala/comments/zf245u/conversion_of_listbuffer_to_spark_dataframe_in/)
-- [Semigroupal, Parallel y Applicative parte 6](https://www.reddit.com/r/scala/comments/zexq3f/semigroupal_parallel_y_applicative_parte_6/)
-- [Companies &amp; Industries using Scala in Europe?](https://www.reddit.com/r/scala/comments/zeallr/companies_industries_using_scala_in_europe/)
-- [Seeking input from Metals users about build importing.](https://www.reddit.com/r/scala/comments/ze9z1p/seeking_input_from_metals_users_about_build/)
-- [KEYNOTE Simply Scala Martin Odersky](https://www.reddit.com/r/scala/comments/ze74fm/keynote_simply_scala_martin_odersky/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

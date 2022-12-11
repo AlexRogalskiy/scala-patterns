@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there anyone here working as Scala Front end developer ?](https://www.reddit.com/r/scala/comments/zhoz5n/is_there_anyone_here_working_as_scala_front_end/)
 - [Beautiful text-based user interfaces for Scala](https://www.reddit.com/r/scala/comments/zhejmt/beautiful_textbased_user_interfaces_for_scala/)
 - [The fastest and safest JSON parser and serializer for Scala](https://www.reddit.com/r/scala/comments/zhaocr/the_fastest_and_safest_json_parser_and_serializer/)
 - [Lichess running fine now on Scala 3 &lpar;after JVM parameter tuning&rpar;](https://www.reddit.com/r/scala/comments/zh3o6x/lichess_running_fine_now_on_scala_3_after_jvm/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [dotty-cps-async 0.9.12 is out](https://www.reddit.com/r/scala/comments/zfx6ys/dottycpsasync_0912_is_out/)
 - [can anyone help me with this? i was trying to use underscore to ignore the 2nd argument.](https://www.reddit.com/r/scala/comments/zftg99/can_anyone_help_me_with_this_i_was_trying_to_use/)
 - [smithy-translate : a CLI tool to turn openapi specs and json-schema specs into smithy specs, written in Scala](https://www.reddit.com/r/scala/comments/zftfwf/smithytranslate_a_cli_tool_to_turn_openapi_specs/)
-- [A Sweet Beginner&#39;s Guide to Scala by Daniel Ciocîrlan @ Func Prog Sweden](https://www.reddit.com/r/scala/comments/zf2nw3/a_sweet_beginners_guide_to_scala_by_daniel/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

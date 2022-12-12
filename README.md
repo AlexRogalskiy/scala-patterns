@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Dec 12, 2022&rpar;](https://www.reddit.com/r/scala/comments/zj6v42/this_week_in_scala_dec_12_2022/)
+- [Creating a Test Framework that is run by SBT test with Scala 3.](https://www.reddit.com/r/scala/comments/zimqo9/creating_a_test_framework_that_is_run_by_sbt_test/)
 - [Is there anyone here working as Scala Front end developer ?](https://www.reddit.com/r/scala/comments/zhoz5n/is_there_anyone_here_working_as_scala_front_end/)
 - [Beautiful text-based user interfaces for Scala](https://www.reddit.com/r/scala/comments/zhejmt/beautiful_textbased_user_interfaces_for_scala/)
 - [The fastest and safest JSON parser and serializer for Scala](https://www.reddit.com/r/scala/comments/zhaocr/the_fastest_and_safest_json_parser_and_serializer/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Can I use Scala if my teammates are using Java in a project?](https://www.reddit.com/r/scala/comments/zgual7/can_i_use_scala_if_my_teammates_are_using_java_in/)
 - [Thread per request vs Thread pool per operation | Krzysztof Płachno | Lambda Days 2022](https://www.reddit.com/r/scala/comments/zg1wi8/thread_per_request_vs_thread_pool_per_operation/)
 - [dotty-cps-async 0.9.12 is out](https://www.reddit.com/r/scala/comments/zfx6ys/dottycpsasync_0912_is_out/)
-- [can anyone help me with this? i was trying to use underscore to ignore the 2nd argument.](https://www.reddit.com/r/scala/comments/zftg99/can_anyone_help_me_with_this_i_was_trying_to_use/)
-- [smithy-translate : a CLI tool to turn openapi specs and json-schema specs into smithy specs, written in Scala](https://www.reddit.com/r/scala/comments/zftfwf/smithytranslate_a_cli_tool_to_turn_openapi_specs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

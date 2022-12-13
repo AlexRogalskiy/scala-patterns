@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scamafmt config for removing end markers](https://www.reddit.com/r/scala/comments/zk2ygl/scamafmt_config_for_removing_end_markers/)
+- [Whats the fuzz about Cats and Zio? ELI5](https://www.reddit.com/r/scala/comments/zjeab5/whats_the_fuzz_about_cats_and_zio_eli5/)
 - [This week in #Scala &lpar;Dec 12, 2022&rpar;](https://www.reddit.com/r/scala/comments/zj6v42/this_week_in_scala_dec_12_2022/)
 - [Creating a Test Framework that is run by SBT test with Scala 3.](https://www.reddit.com/r/scala/comments/zimqo9/creating_a_test_framework_that_is_run_by_sbt_test/)
 - [Is there anyone here working as Scala Front end developer ?](https://www.reddit.com/r/scala/comments/zhoz5n/is_there_anyone_here_working_as_scala_front_end/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Lichess running fine now on Scala 3 &lpar;after JVM parameter tuning&rpar;](https://www.reddit.com/r/scala/comments/zh3o6x/lichess_running_fine_now_on_scala_3_after_jvm/)
 - [import given](https://www.reddit.com/r/scala/comments/zgzaby/import_given/)
 - [Can I use Scala if my teammates are using Java in a project?](https://www.reddit.com/r/scala/comments/zgual7/can_i_use_scala_if_my_teammates_are_using_java_in/)
-- [Thread per request vs Thread pool per operation | Krzysztof Płachno | Lambda Days 2022](https://www.reddit.com/r/scala/comments/zg1wi8/thread_per_request_vs_thread_pool_per_operation/)
-- [dotty-cps-async 0.9.12 is out](https://www.reddit.com/r/scala/comments/zfx6ys/dottycpsasync_0912_is_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

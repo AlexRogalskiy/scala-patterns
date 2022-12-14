@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala version guidance for library maintainers](https://www.reddit.com/r/scala/comments/zlamn1/scala_version_guidance_for_library_maintainers/)
+- [How to decouple logic from Scala future?](https://www.reddit.com/r/scala/comments/zl8ygu/how_to_decouple_logic_from_scala_future/)
+- [FS2 actor-like](https://www.reddit.com/r/scala/comments/zl6qc5/fs2_actorlike/)
+- [New library allows you to use ZIO effects without for comprehensions](https://www.reddit.com/r/scala/comments/zkjqc9/new_library_allows_you_to_use_zio_effects_without/)
+- [Reactive db drivers &lpar;r2dbc&rpar;](https://www.reddit.com/r/scala/comments/zk8zj8/reactive_db_drivers_r2dbc/)
 - [Scamafmt config for removing end markers](https://www.reddit.com/r/scala/comments/zk2ygl/scamafmt_config_for_removing_end_markers/)
 - [Whats the fuzz about Cats and Zio? ELI5](https://www.reddit.com/r/scala/comments/zjeab5/whats_the_fuzz_about_cats_and_zio_eli5/)
 - [This week in #Scala &lpar;Dec 12, 2022&rpar;](https://www.reddit.com/r/scala/comments/zj6v42/this_week_in_scala_dec_12_2022/)
 - [Creating a Test Framework that is run by SBT test with Scala 3.](https://www.reddit.com/r/scala/comments/zimqo9/creating_a_test_framework_that_is_run_by_sbt_test/)
 - [Is there anyone here working as Scala Front end developer ?](https://www.reddit.com/r/scala/comments/zhoz5n/is_there_anyone_here_working_as_scala_front_end/)
-- [Beautiful text-based user interfaces for Scala](https://www.reddit.com/r/scala/comments/zhejmt/beautiful_textbased_user_interfaces_for_scala/)
-- [The fastest and safest JSON parser and serializer for Scala](https://www.reddit.com/r/scala/comments/zhaocr/the_fastest_and_safest_json_parser_and_serializer/)
-- [Lichess running fine now on Scala 3 &lpar;after JVM parameter tuning&rpar;](https://www.reddit.com/r/scala/comments/zh3o6x/lichess_running_fine_now_on_scala_3_after_jvm/)
-- [import given](https://www.reddit.com/r/scala/comments/zgzaby/import_given/)
-- [Can I use Scala if my teammates are using Java in a project?](https://www.reddit.com/r/scala/comments/zgual7/can_i_use_scala_if_my_teammates_are_using_java_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

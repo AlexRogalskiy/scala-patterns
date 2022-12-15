@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Developer Survey 2022 Results](https://www.reddit.com/r/scala/comments/zlun9u/scala_developer_survey_2022_results/)
+- [What is the use case of Integral[T] trait in Scala?](https://www.reddit.com/r/scala/comments/zln06b/what_is_the_use_case_of_integralt_trait_in_scala/)
+- [Veautiful and doctacular 0.3-M4 released to Maven Central](https://www.reddit.com/r/scala/comments/zlg4ed/veautiful_and_doctacular_03m4_released_to_maven/)
 - [Scala version guidance for library maintainers](https://www.reddit.com/r/scala/comments/zlamn1/scala_version_guidance_for_library_maintainers/)
 - [How to decouple logic from Scala future?](https://www.reddit.com/r/scala/comments/zl8ygu/how_to_decouple_logic_from_scala_future/)
 - [FS2 actor-like](https://www.reddit.com/r/scala/comments/zl6qc5/fs2_actorlike/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Reactive db drivers &lpar;r2dbc&rpar;](https://www.reddit.com/r/scala/comments/zk8zj8/reactive_db_drivers_r2dbc/)
 - [Scamafmt config for removing end markers](https://www.reddit.com/r/scala/comments/zk2ygl/scamafmt_config_for_removing_end_markers/)
 - [Whats the fuzz about Cats and Zio? ELI5](https://www.reddit.com/r/scala/comments/zjeab5/whats_the_fuzz_about_cats_and_zio_eli5/)
-- [This week in #Scala &lpar;Dec 12, 2022&rpar;](https://www.reddit.com/r/scala/comments/zj6v42/this_week_in_scala_dec_12_2022/)
-- [Creating a Test Framework that is run by SBT test with Scala 3.](https://www.reddit.com/r/scala/comments/zimqo9/creating_a_test_framework_that_is_run_by_sbt_test/)
-- [Is there anyone here working as Scala Front end developer ?](https://www.reddit.com/r/scala/comments/zhoz5n/is_there_anyone_here_working_as_scala_front_end/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ducktape 0.1.1 is out](https://www.reddit.com/r/scala/comments/zmwbg2/ducktape_011_is_out/)
+- [Lichess &amp; Scala 3](https://www.reddit.com/r/scala/comments/zmurmu/lichess_scala_3/)
+- [&quot;Typed Interaction with Session Types &lpar;using Scala and Libretto&rpar;&quot; by Tomas Mikula at Functional Scala Conference 2022](https://www.reddit.com/r/scala/comments/zmlhhh/typed_interaction_with_session_types_using_scala/)
+- [Switch JS job for Scala internship?](https://www.reddit.com/r/scala/comments/zmgbh9/switch_js_job_for_scala_internship/)
+- [Are there plans for WebAssembly as compilation target?](https://www.reddit.com/r/scala/comments/zme3rw/are_there_plans_for_webassembly_as_compilation/)
 - [Scala Developer Survey 2022 Results](https://www.reddit.com/r/scala/comments/zlun9u/scala_developer_survey_2022_results/)
 - [What is the use case of Integral[T] trait in Scala?](https://www.reddit.com/r/scala/comments/zln06b/what_is_the_use_case_of_integralt_trait_in_scala/)
 - [Veautiful and doctacular 0.3-M4 released to Maven Central](https://www.reddit.com/r/scala/comments/zlg4ed/veautiful_and_doctacular_03m4_released_to_maven/)
 - [Scala version guidance for library maintainers](https://www.reddit.com/r/scala/comments/zlamn1/scala_version_guidance_for_library_maintainers/)
 - [How to decouple logic from Scala future?](https://www.reddit.com/r/scala/comments/zl8ygu/how_to_decouple_logic_from_scala_future/)
-- [FS2 actor-like](https://www.reddit.com/r/scala/comments/zl6qc5/fs2_actorlike/)
-- [New library allows you to use ZIO effects without for comprehensions](https://www.reddit.com/r/scala/comments/zkjqc9/new_library_allows_you_to_use_zio_effects_without/)
-- [Reactive db drivers &lpar;r2dbc&rpar;](https://www.reddit.com/r/scala/comments/zk8zj8/reactive_db_drivers_r2dbc/)
-- [Scamafmt config for removing end markers](https://www.reddit.com/r/scala/comments/zk2ygl/scamafmt_config_for_removing_end_markers/)
-- [Whats the fuzz about Cats and Zio? ELI5](https://www.reddit.com/r/scala/comments/zjeab5/whats_the_fuzz_about_cats_and_zio_eli5/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

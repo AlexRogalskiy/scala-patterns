@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Cannot read files when using Zeppelin and Spark containers](https://www.reddit.com/r/scala/comments/zni1dx/cannot_read_files_when_using_zeppelin_and_spark/)
 - [ducktape 0.1.1 is out](https://www.reddit.com/r/scala/comments/zmwbg2/ducktape_011_is_out/)
 - [Lichess &amp; Scala 3](https://www.reddit.com/r/scala/comments/zmurmu/lichess_scala_3/)
 - [&quot;Typed Interaction with Session Types &lpar;using Scala and Libretto&rpar;&quot; by Tomas Mikula at Functional Scala Conference 2022](https://www.reddit.com/r/scala/comments/zmlhhh/typed_interaction_with_session_types_using_scala/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [What is the use case of Integral[T] trait in Scala?](https://www.reddit.com/r/scala/comments/zln06b/what_is_the_use_case_of_integralt_trait_in_scala/)
 - [Veautiful and doctacular 0.3-M4 released to Maven Central](https://www.reddit.com/r/scala/comments/zlg4ed/veautiful_and_doctacular_03m4_released_to_maven/)
 - [Scala version guidance for library maintainers](https://www.reddit.com/r/scala/comments/zlamn1/scala_version_guidance_for_library_maintainers/)
-- [How to decouple logic from Scala future?](https://www.reddit.com/r/scala/comments/zl8ygu/how_to_decouple_logic_from_scala_future/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

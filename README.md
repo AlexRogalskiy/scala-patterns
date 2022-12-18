@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A programming buddy while going through functional programming](https://www.reddit.com/r/scala/comments/zoe5at/a_programming_buddy_while_going_through/)
 - [Cannot read files when using Zeppelin and Spark containers](https://www.reddit.com/r/scala/comments/zni1dx/cannot_read_files_when_using_zeppelin_and_spark/)
 - [ducktape 0.1.1 is out](https://www.reddit.com/r/scala/comments/zmwbg2/ducktape_011_is_out/)
 - [Lichess &amp; Scala 3](https://www.reddit.com/r/scala/comments/zmurmu/lichess_scala_3/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Developer Survey 2022 Results](https://www.reddit.com/r/scala/comments/zlun9u/scala_developer_survey_2022_results/)
 - [What is the use case of Integral[T] trait in Scala?](https://www.reddit.com/r/scala/comments/zln06b/what_is_the_use_case_of_integralt_trait_in_scala/)
 - [Veautiful and doctacular 0.3-M4 released to Maven Central](https://www.reddit.com/r/scala/comments/zlg4ed/veautiful_and_doctacular_03m4_released_to_maven/)
-- [Scala version guidance for library maintainers](https://www.reddit.com/r/scala/comments/zlamn1/scala_version_guidance_for_library_maintainers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

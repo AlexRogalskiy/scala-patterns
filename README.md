@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Sharing my onboarding videos for setting up a local environment to work with Scala/Scala.js](https://www.reddit.com/r/scala/comments/zp75h4/sharing_my_onboarding_videos_for_setting_up_a/)
+- [Open job positions for Scala Developers](https://www.reddit.com/r/scala/comments/zp5gsp/open_job_positions_for_scala_developers/)
+- [KEYNOTE Simply Scala Martin Odersky](https://www.reddit.com/r/scala/comments/zp3fyg/keynote_simply_scala_martin_odersky/)
+- [Tool for automatic auditing of incoming and outgoing requests](https://www.reddit.com/r/scala/comments/zootsi/tool_for_automatic_auditing_of_incoming_and/)
 - [A programming buddy while going through functional programming](https://www.reddit.com/r/scala/comments/zoe5at/a_programming_buddy_while_going_through/)
 - [Cannot read files when using Zeppelin and Spark containers](https://www.reddit.com/r/scala/comments/zni1dx/cannot_read_files_when_using_zeppelin_and_spark/)
 - [ducktape 0.1.1 is out](https://www.reddit.com/r/scala/comments/zmwbg2/ducktape_011_is_out/)
 - [Lichess &amp; Scala 3](https://www.reddit.com/r/scala/comments/zmurmu/lichess_scala_3/)
 - [&quot;Typed Interaction with Session Types &lpar;using Scala and Libretto&rpar;&quot; by Tomas Mikula at Functional Scala Conference 2022](https://www.reddit.com/r/scala/comments/zmlhhh/typed_interaction_with_session_types_using_scala/)
 - [Switch JS job for Scala internship?](https://www.reddit.com/r/scala/comments/zmgbh9/switch_js_job_for_scala_internship/)
-- [Are there plans for WebAssembly as compilation target?](https://www.reddit.com/r/scala/comments/zme3rw/are_there_plans_for_webassembly_as_compilation/)
-- [Scala Developer Survey 2022 Results](https://www.reddit.com/r/scala/comments/zlun9u/scala_developer_survey_2022_results/)
-- [What is the use case of Integral[T] trait in Scala?](https://www.reddit.com/r/scala/comments/zln06b/what_is_the_use_case_of_integralt_trait_in_scala/)
-- [Veautiful and doctacular 0.3-M4 released to Maven Central](https://www.reddit.com/r/scala/comments/zlg4ed/veautiful_and_doctacular_03m4_released_to_maven/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

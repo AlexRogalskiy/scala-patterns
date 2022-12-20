@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A new, reworked ScalaDoc is here!](https://www.reddit.com/r/scala/comments/zptt8t/a_new_reworked_scaladoc_is_here/)
+- [This week in #Scala &lpar;Dec 19, 2022&rpar;](https://www.reddit.com/r/scala/comments/zprp35/this_week_in_scala_dec_19_2022/)
+- [st-material-ui - Material UI 5 for Scala 3](https://www.reddit.com/r/scala/comments/zppii4/stmaterialui_material_ui_5_for_scala_3/)
+- [Dancing with ZIO](https://www.reddit.com/r/scala/comments/zpnpv8/dancing_with_zio/)
+- [&quot;Fixing-up Production with Property-based Testing&quot; by Daniel Beskin at Functional Scala 2022](https://www.reddit.com/r/scala/comments/zpn7y8/fixingup_production_with_propertybased_testing_by/)
+- [Last month jsoniter-scala reached 1M downloads from Maven Central](https://www.reddit.com/r/scala/comments/zpmlra/last_month_jsoniterscala_reached_1m_downloads/)
 - [Sharing my onboarding videos for setting up a local environment to work with Scala/Scala.js](https://www.reddit.com/r/scala/comments/zp75h4/sharing_my_onboarding_videos_for_setting_up_a/)
 - [Open job positions for Scala Developers](https://www.reddit.com/r/scala/comments/zp5gsp/open_job_positions_for_scala_developers/)
 - [KEYNOTE Simply Scala Martin Odersky](https://www.reddit.com/r/scala/comments/zp3fyg/keynote_simply_scala_martin_odersky/)
 - [Tool for automatic auditing of incoming and outgoing requests](https://www.reddit.com/r/scala/comments/zootsi/tool_for_automatic_auditing_of_incoming_and/)
-- [A programming buddy while going through functional programming](https://www.reddit.com/r/scala/comments/zoe5at/a_programming_buddy_while_going_through/)
-- [Cannot read files when using Zeppelin and Spark containers](https://www.reddit.com/r/scala/comments/zni1dx/cannot_read_files_when_using_zeppelin_and_spark/)
-- [ducktape 0.1.1 is out](https://www.reddit.com/r/scala/comments/zmwbg2/ducktape_011_is_out/)
-- [Lichess &amp; Scala 3](https://www.reddit.com/r/scala/comments/zmurmu/lichess_scala_3/)
-- [&quot;Typed Interaction with Session Types &lpar;using Scala and Libretto&rpar;&quot; by Tomas Mikula at Functional Scala Conference 2022](https://www.reddit.com/r/scala/comments/zmlhhh/typed_interaction_with_session_types_using_scala/)
-- [Switch JS job for Scala internship?](https://www.reddit.com/r/scala/comments/zmgbh9/switch_js_job_for_scala_internship/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

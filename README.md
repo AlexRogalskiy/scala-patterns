@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking For A Scala Programmer!](https://www.reddit.com/r/scala/comments/zr23hu/looking_for_a_scala_programmer/)
+- [fast Scala 3 parsing with tree-sitter · eed3si9n](https://www.reddit.com/r/scala/comments/zqxr43/fast_scala_3_parsing_with_treesitter_eed3si9n/)
+- [Does anybody have a use-case for Scala WASM compilation target?](https://www.reddit.com/r/scala/comments/zqo9j5/does_anybody_have_a_usecase_for_scala_wasm/)
+- [Foldable y Traverse](https://www.reddit.com/r/scala/comments/zqe4kl/foldable_y_traverse/)
+- [Leveraging stack traces when doing pure functional error-handling](https://www.reddit.com/r/scala/comments/zqcmjv/leveraging_stack_traces_when_doing_pure/)
 - [A new, reworked ScalaDoc is here!](https://www.reddit.com/r/scala/comments/zptt8t/a_new_reworked_scaladoc_is_here/)
 - [This week in #Scala &lpar;Dec 19, 2022&rpar;](https://www.reddit.com/r/scala/comments/zprp35/this_week_in_scala_dec_19_2022/)
 - [st-material-ui - Material UI 5 for Scala 3](https://www.reddit.com/r/scala/comments/zppii4/stmaterialui_material_ui_5_for_scala_3/)
 - [Dancing with ZIO](https://www.reddit.com/r/scala/comments/zpnpv8/dancing_with_zio/)
 - [&quot;Fixing-up Production with Property-based Testing&quot; by Daniel Beskin at Functional Scala 2022](https://www.reddit.com/r/scala/comments/zpn7y8/fixingup_production_with_propertybased_testing_by/)
-- [Last month jsoniter-scala reached 1M downloads from Maven Central](https://www.reddit.com/r/scala/comments/zpmlra/last_month_jsoniterscala_reached_1m_downloads/)
-- [Sharing my onboarding videos for setting up a local environment to work with Scala/Scala.js](https://www.reddit.com/r/scala/comments/zp75h4/sharing_my_onboarding_videos_for_setting_up_a/)
-- [Open job positions for Scala Developers](https://www.reddit.com/r/scala/comments/zp5gsp/open_job_positions_for_scala_developers/)
-- [KEYNOTE Simply Scala Martin Odersky](https://www.reddit.com/r/scala/comments/zp3fyg/keynote_simply_scala_martin_odersky/)
-- [Tool for automatic auditing of incoming and outgoing requests](https://www.reddit.com/r/scala/comments/zootsi/tool_for_automatic_auditing_of_incoming_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

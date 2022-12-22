@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A Scala 3 Native project template with Mill](https://www.reddit.com/r/scala/comments/zs2bst/a_scala_3_native_project_template_with_mill/)
+- [Is Macbook M1 air is ok for professional scala development?](https://www.reddit.com/r/scala/comments/zrpcip/is_macbook_m1_air_is_ok_for_professional_scala/)
+- [Introducing Morphir&#39;s Integration with Scala by Damian Reeves at Functional Scala 2022](https://www.reddit.com/r/scala/comments/zrkvz5/introducing_morphirs_integration_with_scala_by/)
 - [Looking For A Scala Programmer!](https://www.reddit.com/r/scala/comments/zr23hu/looking_for_a_scala_programmer/)
 - [fast Scala 3 parsing with tree-sitter · eed3si9n](https://www.reddit.com/r/scala/comments/zqxr43/fast_scala_3_parsing_with_treesitter_eed3si9n/)
 - [Does anybody have a use-case for Scala WASM compilation target?](https://www.reddit.com/r/scala/comments/zqo9j5/does_anybody_have_a_usecase_for_scala_wasm/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Leveraging stack traces when doing pure functional error-handling](https://www.reddit.com/r/scala/comments/zqcmjv/leveraging_stack_traces_when_doing_pure/)
 - [A new, reworked ScalaDoc is here!](https://www.reddit.com/r/scala/comments/zptt8t/a_new_reworked_scaladoc_is_here/)
 - [This week in #Scala &lpar;Dec 19, 2022&rpar;](https://www.reddit.com/r/scala/comments/zprp35/this_week_in_scala_dec_19_2022/)
-- [st-material-ui - Material UI 5 for Scala 3](https://www.reddit.com/r/scala/comments/zppii4/stmaterialui_material_ui_5_for_scala_3/)
-- [Dancing with ZIO](https://www.reddit.com/r/scala/comments/zpnpv8/dancing_with_zio/)
-- [&quot;Fixing-up Production with Property-based Testing&quot; by Daniel Beskin at Functional Scala 2022](https://www.reddit.com/r/scala/comments/zpn7y8/fixingup_production_with_propertybased_testing_by/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

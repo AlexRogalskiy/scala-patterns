@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [🎄 support Scala Center 🎄 · eed3si9n](https://www.reddit.com/r/scala/comments/zswe8g/support_scala_center_eed3si9n/)
+- [Failed to load data source for config: &#39;Config&lpar;SimpleConfigObject](https://www.reddit.com/r/scala/comments/zsvo5b/failed_to_load_data_source_for_config/)
+- [Best book to learn Scala as a functional programmer?](https://www.reddit.com/r/scala/comments/zsucun/best_book_to_learn_scala_as_a_functional/)
+- [Switch to scala3 in IntelliJ](https://www.reddit.com/r/scala/comments/zsq0mq/switch_to_scala3_in_intellij/)
+- [Vivisecting the Veil of Variance &lpar;Video Lesson&rpar;](https://www.reddit.com/r/scala/comments/zsodzm/vivisecting_the_veil_of_variance_video_lesson/)
+- [&quot;Behold! The Happy Path To Captivate Your Users With Stunning CLI Apps!&quot; by Jorge Vasquez at Functional Scala 2022.](https://www.reddit.com/r/scala/comments/zsnqca/behold_the_happy_path_to_captivate_your_users/)
 - [A Scala 3 Native project template with Mill](https://www.reddit.com/r/scala/comments/zs2bst/a_scala_3_native_project_template_with_mill/)
 - [Is Macbook M1 air is ok for professional scala development?](https://www.reddit.com/r/scala/comments/zrpcip/is_macbook_m1_air_is_ok_for_professional_scala/)
 - [Introducing Morphir&#39;s Integration with Scala by Damian Reeves at Functional Scala 2022](https://www.reddit.com/r/scala/comments/zrkvz5/introducing_morphirs_integration_with_scala_by/)
 - [Looking For A Scala Programmer!](https://www.reddit.com/r/scala/comments/zr23hu/looking_for_a_scala_programmer/)
-- [fast Scala 3 parsing with tree-sitter · eed3si9n](https://www.reddit.com/r/scala/comments/zqxr43/fast_scala_3_parsing_with_treesitter_eed3si9n/)
-- [Does anybody have a use-case for Scala WASM compilation target?](https://www.reddit.com/r/scala/comments/zqo9j5/does_anybody_have_a_usecase_for_scala_wasm/)
-- [Foldable y Traverse](https://www.reddit.com/r/scala/comments/zqe4kl/foldable_y_traverse/)
-- [Leveraging stack traces when doing pure functional error-handling](https://www.reddit.com/r/scala/comments/zqcmjv/leveraging_stack_traces_when_doing_pure/)
-- [A new, reworked ScalaDoc is here!](https://www.reddit.com/r/scala/comments/zptt8t/a_new_reworked_scaladoc_is_here/)
-- [This week in #Scala &lpar;Dec 19, 2022&rpar;](https://www.reddit.com/r/scala/comments/zprp35/this_week_in_scala_dec_19_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

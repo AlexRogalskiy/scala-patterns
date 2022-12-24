@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [&quot;Build a Scalable Blockchain in Scala&quot; by Cheng Wang at Functional Scala 2022](https://www.reddit.com/r/scala/comments/ztdgff/build_a_scalable_blockchain_in_scala_by_cheng/)
 - [🎄 support Scala Center 🎄 · eed3si9n](https://www.reddit.com/r/scala/comments/zswe8g/support_scala_center_eed3si9n/)
 - [Failed to load data source for config: &#39;Config&lpar;SimpleConfigObject](https://www.reddit.com/r/scala/comments/zsvo5b/failed_to_load_data_source_for_config/)
 - [Best book to learn Scala as a functional programmer?](https://www.reddit.com/r/scala/comments/zsucun/best_book_to_learn_scala_as_a_functional/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [A Scala 3 Native project template with Mill](https://www.reddit.com/r/scala/comments/zs2bst/a_scala_3_native_project_template_with_mill/)
 - [Is Macbook M1 air is ok for professional scala development?](https://www.reddit.com/r/scala/comments/zrpcip/is_macbook_m1_air_is_ok_for_professional_scala/)
 - [Introducing Morphir&#39;s Integration with Scala by Damian Reeves at Functional Scala 2022](https://www.reddit.com/r/scala/comments/zrkvz5/introducing_morphirs_integration_with_scala_by/)
-- [Looking For A Scala Programmer!](https://www.reddit.com/r/scala/comments/zr23hu/looking_for_a_scala_programmer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

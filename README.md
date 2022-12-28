@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Foldable y Traverse parte 3](https://www.reddit.com/r/scala/comments/zw69bi/foldable_y_traverse_parte_3/)
+- [Foldable y Traverse parte 2](https://www.reddit.com/r/scala/comments/zw4643/foldable_y_traverse_parte_2/)
 - [Books available](https://www.reddit.com/r/scala/comments/zvul6i/books_available/)
 - [Is there the equivalent of this in Scala ? &lpar;Maps to Struct&rpar;](https://www.reddit.com/r/scala/comments/zvr4rq/is_there_the_equivalent_of_this_in_scala_maps_to/)
 - [This week in #Scala &lpar;Dec 26, 2022&rpar;](https://www.reddit.com/r/scala/comments/zvolfo/this_week_in_scala_dec_26_2022/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [&quot;Build a Scalable Blockchain in Scala&quot; by Cheng Wang at Functional Scala 2022](https://www.reddit.com/r/scala/comments/ztdgff/build_a_scalable_blockchain_in_scala_by_cheng/)
 - [🎄 support Scala Center 🎄 · eed3si9n](https://www.reddit.com/r/scala/comments/zswe8g/support_scala_center_eed3si9n/)
 - [Failed to load data source for config: &#39;Config&lpar;SimpleConfigObject](https://www.reddit.com/r/scala/comments/zsvo5b/failed_to_load_data_source_for_config/)
-- [Best book to learn Scala as a functional programmer?](https://www.reddit.com/r/scala/comments/zsucun/best_book_to_learn_scala_as_a_functional/)
-- [Switch to scala3 in IntelliJ](https://www.reddit.com/r/scala/comments/zsq0mq/switch_to_scala3_in_intellij/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

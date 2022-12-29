@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [&quot;Declarative Data Access With Composable Relations&quot; by Haemin Yoo at Functional Scala 2022.](https://www.reddit.com/r/scala/comments/zxcv18/declarative_data_access_with_composable_relations/)
 - [Foldable y Traverse parte 3](https://www.reddit.com/r/scala/comments/zw69bi/foldable_y_traverse_parte_3/)
 - [Foldable y Traverse parte 2](https://www.reddit.com/r/scala/comments/zw4643/foldable_y_traverse_parte_2/)
 - [Books available](https://www.reddit.com/r/scala/comments/zvul6i/books_available/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala js prestentation page is ancient :&lpar;](https://www.reddit.com/r/scala/comments/zuop48/scala_js_prestentation_page_is_ancient/)
 - [&quot;Build a Scalable Blockchain in Scala&quot; by Cheng Wang at Functional Scala 2022](https://www.reddit.com/r/scala/comments/ztdgff/build_a_scalable_blockchain_in_scala_by_cheng/)
 - [🎄 support Scala Center 🎄 · eed3si9n](https://www.reddit.com/r/scala/comments/zswe8g/support_scala_center_eed3si9n/)
-- [Failed to load data source for config: &#39;Config&lpar;SimpleConfigObject](https://www.reddit.com/r/scala/comments/zsvo5b/failed_to_load_data_source_for_config/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

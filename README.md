@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Exceptions are never thrown properly for me](https://www.reddit.com/r/scala/comments/zyhb3r/exceptions_are_never_thrown_properly_for_me/)
+- [ZIO Streams And Your Business Logic by Samson Kamau Muiruri](https://www.reddit.com/r/scala/comments/zy3bfb/zio_streams_and_your_business_logic_by_samson/)
+- [dotty-cps-async 0.9.14 with nonlocal returns and probabilistic programming.](https://www.reddit.com/r/scala/comments/zy2l92/dottycpsasync_0914_with_nonlocal_returns_and/)
+- [Build efficient tests for your Spark data pipeline using BDDs with Cucumber](https://www.reddit.com/r/scala/comments/zxzmmp/build_efficient_tests_for_your_spark_data/)
 - [&quot;Declarative Data Access With Composable Relations&quot; by Haemin Yoo at Functional Scala 2022.](https://www.reddit.com/r/scala/comments/zxcv18/declarative_data_access_with_composable_relations/)
 - [Foldable y Traverse parte 3](https://www.reddit.com/r/scala/comments/zw69bi/foldable_y_traverse_parte_3/)
 - [Foldable y Traverse parte 2](https://www.reddit.com/r/scala/comments/zw4643/foldable_y_traverse_parte_2/)
 - [Books available](https://www.reddit.com/r/scala/comments/zvul6i/books_available/)
 - [Is there the equivalent of this in Scala ? &lpar;Maps to Struct&rpar;](https://www.reddit.com/r/scala/comments/zvr4rq/is_there_the_equivalent_of_this_in_scala_maps_to/)
 - [This week in #Scala &lpar;Dec 26, 2022&rpar;](https://www.reddit.com/r/scala/comments/zvolfo/this_week_in_scala_dec_26_2022/)
-- [Tooling: Vercel-like preview environments got into the Scala Webapp Template](https://www.reddit.com/r/scala/comments/zvfzql/tooling_vercellike_preview_environments_got_into/)
-- [Scala js prestentation page is ancient :&lpar;](https://www.reddit.com/r/scala/comments/zuop48/scala_js_prestentation_page_is_ancient/)
-- [&quot;Build a Scalable Blockchain in Scala&quot; by Cheng Wang at Functional Scala 2022](https://www.reddit.com/r/scala/comments/ztdgff/build_a_scalable_blockchain_in_scala_by_cheng/)
-- [🎄 support Scala Center 🎄 · eed3si9n](https://www.reddit.com/r/scala/comments/zswe8g/support_scala_center_eed3si9n/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [&quot;Alice And The Return To The World Of Pods And Higher-Order Functions&quot; by Roksolana Diachuk at Functional Scala 2022](https://www.reddit.com/r/scala/comments/zz08i6/alice_and_the_return_to_the_world_of_pods_and/)
 - [Exceptions are never thrown properly for me](https://www.reddit.com/r/scala/comments/zyhb3r/exceptions_are_never_thrown_properly_for_me/)
 - [ZIO Streams And Your Business Logic by Samson Kamau Muiruri](https://www.reddit.com/r/scala/comments/zy3bfb/zio_streams_and_your_business_logic_by_samson/)
 - [dotty-cps-async 0.9.14 with nonlocal returns and probabilistic programming.](https://www.reddit.com/r/scala/comments/zy2l92/dottycpsasync_0914_with_nonlocal_returns_and/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Foldable y Traverse parte 2](https://www.reddit.com/r/scala/comments/zw4643/foldable_y_traverse_parte_2/)
 - [Books available](https://www.reddit.com/r/scala/comments/zvul6i/books_available/)
 - [Is there the equivalent of this in Scala ? &lpar;Maps to Struct&rpar;](https://www.reddit.com/r/scala/comments/zvr4rq/is_there_the_equivalent_of_this_in_scala_maps_to/)
-- [This week in #Scala &lpar;Dec 26, 2022&rpar;](https://www.reddit.com/r/scala/comments/zvolfo/this_week_in_scala_dec_26_2022/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

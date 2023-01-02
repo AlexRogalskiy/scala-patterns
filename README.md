@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/100nspe/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [This week in #Scala &lpar;Jan 2, 2023&rpar;](https://www.reddit.com/r/scala/comments/100mq2o/this_week_in_scala_jan_2_2023/)
 - [&quot;Alice And The Return To The World Of Pods And Higher-Order Functions&quot; by Roksolana Diachuk at Functional Scala 2022](https://www.reddit.com/r/scala/comments/zz08i6/alice_and_the_return_to_the_world_of_pods_and/)
 - [Exceptions are never thrown properly for me](https://www.reddit.com/r/scala/comments/zyhb3r/exceptions_are_never_thrown_properly_for_me/)
 - [ZIO Streams And Your Business Logic by Samson Kamau Muiruri](https://www.reddit.com/r/scala/comments/zy3bfb/zio_streams_and_your_business_logic_by_samson/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [&quot;Declarative Data Access With Composable Relations&quot; by Haemin Yoo at Functional Scala 2022.](https://www.reddit.com/r/scala/comments/zxcv18/declarative_data_access_with_composable_relations/)
 - [Foldable y Traverse parte 3](https://www.reddit.com/r/scala/comments/zw69bi/foldable_y_traverse_parte_3/)
 - [Foldable y Traverse parte 2](https://www.reddit.com/r/scala/comments/zw4643/foldable_y_traverse_parte_2/)
-- [Books available](https://www.reddit.com/r/scala/comments/zvul6i/books_available/)
-- [Is there the equivalent of this in Scala ? &lpar;Maps to Struct&rpar;](https://www.reddit.com/r/scala/comments/zvr4rq/is_there_the_equivalent_of_this_in_scala_maps_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Functional Event-Driven Architecture: Powered by Scala 3 is now 100% complete](https://www.reddit.com/r/scala/comments/101lqzx/functional_eventdriven_architecture_powered_by/)
+- [&quot;Data Quality at Government Scale using Scala&quot; by Daniel Smith at Functional Scala 2022.](https://www.reddit.com/r/scala/comments/101eovj/data_quality_at_government_scale_using_scala_by/)
+- [Value is not a member](https://www.reddit.com/r/scala/comments/101bq8a/value_is_not_a_member/)
+- [Nix Flake for Scala](https://www.reddit.com/r/scala/comments/101bpn7/nix_flake_for_scala/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/100nspe/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [This week in #Scala &lpar;Jan 2, 2023&rpar;](https://www.reddit.com/r/scala/comments/100mq2o/this_week_in_scala_jan_2_2023/)
 - [&quot;Alice And The Return To The World Of Pods And Higher-Order Functions&quot; by Roksolana Diachuk at Functional Scala 2022](https://www.reddit.com/r/scala/comments/zz08i6/alice_and_the_return_to_the_world_of_pods_and/)
 - [Exceptions are never thrown properly for me](https://www.reddit.com/r/scala/comments/zyhb3r/exceptions_are_never_thrown_properly_for_me/)
 - [ZIO Streams And Your Business Logic by Samson Kamau Muiruri](https://www.reddit.com/r/scala/comments/zy3bfb/zio_streams_and_your_business_logic_by_samson/)
 - [dotty-cps-async 0.9.14 with nonlocal returns and probabilistic programming.](https://www.reddit.com/r/scala/comments/zy2l92/dottycpsasync_0914_with_nonlocal_returns_and/)
-- [Build efficient tests for your Spark data pipeline using BDDs with Cucumber](https://www.reddit.com/r/scala/comments/zxzmmp/build_efficient_tests_for_your_spark_data/)
-- [&quot;Declarative Data Access With Composable Relations&quot; by Haemin Yoo at Functional Scala 2022.](https://www.reddit.com/r/scala/comments/zxcv18/declarative_data_access_with_composable_relations/)
-- [Foldable y Traverse parte 3](https://www.reddit.com/r/scala/comments/zw69bi/foldable_y_traverse_parte_3/)
-- [Foldable y Traverse parte 2](https://www.reddit.com/r/scala/comments/zw4643/foldable_y_traverse_parte_2/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

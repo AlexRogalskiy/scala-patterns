@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 1.8.1 released](https://www.reddit.com/r/scala/comments/102m16s/sbt_181_released/)
+- [Screencast for creating a simple stream-powered background job processor in Scala](https://www.reddit.com/r/scala/comments/102lko2/screencast_for_creating_a_simple_streampowered/)
+- [Scala Fat jar not able to access the jks file inside it...](https://www.reddit.com/r/scala/comments/102emv5/scala_fat_jar_not_able_to_access_the_jks_file/)
+- [Does every good scala developer know how to develop in Java?](https://www.reddit.com/r/scala/comments/102ctzx/does_every_good_scala_developer_know_how_to/)
+- [Scala community now has control over the official Scala grammar for tree-sitter 🎉](https://www.reddit.com/r/scala/comments/102adbm/scala_community_now_has_control_over_the_official/)
+- [2022: My Year of Scala Recap](https://www.reddit.com/r/scala/comments/1029e6i/2022_my_year_of_scala_recap/)
+- [Things I Learned Building a Functional Effect System by Mehmet Akif Tütüncü](https://www.reddit.com/r/scala/comments/1029cpb/things_i_learned_building_a_functional_effect/)
+- [Metals v0.11.10 - Aluminium | Metals](https://www.reddit.com/r/scala/comments/102006a/metals_v01110_aluminium_metals/)
+- [veautiful 0.3-M5 on Maven Central](https://www.reddit.com/r/scala/comments/101za4o/veautiful_03m5_on_maven_central/)
 - [Functional Event-Driven Architecture: Powered by Scala 3 is now 100% complete](https://www.reddit.com/r/scala/comments/101lqzx/functional_eventdriven_architecture_powered_by/)
-- [&quot;Data Quality at Government Scale using Scala&quot; by Daniel Smith at Functional Scala 2022.](https://www.reddit.com/r/scala/comments/101eovj/data_quality_at_government_scale_using_scala_by/)
-- [Value is not a member](https://www.reddit.com/r/scala/comments/101bq8a/value_is_not_a_member/)
-- [Nix Flake for Scala](https://www.reddit.com/r/scala/comments/101bpn7/nix_flake_for_scala/)
-- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/100nspe/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [This week in #Scala &lpar;Jan 2, 2023&rpar;](https://www.reddit.com/r/scala/comments/100mq2o/this_week_in_scala_jan_2_2023/)
-- [&quot;Alice And The Return To The World Of Pods And Higher-Order Functions&quot; by Roksolana Diachuk at Functional Scala 2022](https://www.reddit.com/r/scala/comments/zz08i6/alice_and_the_return_to_the_world_of_pods_and/)
-- [Exceptions are never thrown properly for me](https://www.reddit.com/r/scala/comments/zyhb3r/exceptions_are_never_thrown_properly_for_me/)
-- [ZIO Streams And Your Business Logic by Samson Kamau Muiruri](https://www.reddit.com/r/scala/comments/zy3bfb/zio_streams_and_your_business_logic_by_samson/)
-- [dotty-cps-async 0.9.14 with nonlocal returns and probabilistic programming.](https://www.reddit.com/r/scala/comments/zy2l92/dottycpsasync_0914_with_nonlocal_returns_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

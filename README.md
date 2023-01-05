@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Concurrent cron jobs?](https://www.reddit.com/r/scala/comments/102z3wa/concurrent_cron_jobs/)
+- [Making an HTTP call from Outwatch](https://www.reddit.com/r/scala/comments/102xzgg/making_an_http_call_from_outwatch/)
+- [Why are effects better for retries than Future?](https://www.reddit.com/r/scala/comments/102t7qw/why_are_effects_better_for_retries_than_future/)
 - [sbt 1.8.1 released](https://www.reddit.com/r/scala/comments/102m16s/sbt_181_released/)
 - [Screencast for creating a simple stream-powered background job processor in Scala](https://www.reddit.com/r/scala/comments/102lko2/screencast_for_creating_a_simple_streampowered/)
 - [Scala Fat jar not able to access the jks file inside it...](https://www.reddit.com/r/scala/comments/102emv5/scala_fat_jar_not_able_to_access_the_jks_file/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala community now has control over the official Scala grammar for tree-sitter 🎉](https://www.reddit.com/r/scala/comments/102adbm/scala_community_now_has_control_over_the_official/)
 - [2022: My Year of Scala Recap](https://www.reddit.com/r/scala/comments/1029e6i/2022_my_year_of_scala_recap/)
 - [Things I Learned Building a Functional Effect System by Mehmet Akif Tütüncü](https://www.reddit.com/r/scala/comments/1029cpb/things_i_learned_building_a_functional_effect/)
-- [Metals v0.11.10 - Aluminium | Metals](https://www.reddit.com/r/scala/comments/102006a/metals_v01110_aluminium_metals/)
-- [veautiful 0.3-M5 on Maven Central](https://www.reddit.com/r/scala/comments/101za4o/veautiful_03m5_on_maven_central/)
-- [Functional Event-Driven Architecture: Powered by Scala 3 is now 100% complete](https://www.reddit.com/r/scala/comments/101lqzx/functional_eventdriven_architecture_powered_by/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

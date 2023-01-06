@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [My pasta sauce looks familiar](https://www.reddit.com/r/scala/comments/1043zet/my_pasta_sauce_looks_familiar/)
+- [&quot;Sharding with Pure FP&quot; by Pierre Ricadat at Functional Scala 2022.](https://www.reddit.com/r/scala/comments/1040ts5/sharding_with_pure_fp_by_pierre_ricadat_at/)
+- [Why do we wrap code in Try&lpar;&rpar; and convert it to Option?](https://www.reddit.com/r/scala/comments/103ztxf/why_do_we_wrap_code_in_try_and_convert_it_to/)
+- [Scala books for 2023](https://www.reddit.com/r/scala/comments/103xghs/scala_books_for_2023/)
+- [Scalar 2023 CfP is still open](https://www.reddit.com/r/scala/comments/103v6e5/scalar_2023_cfp_is_still_open/)
+- [sbt 1.8.2 released](https://www.reddit.com/r/scala/comments/103rvkq/sbt_182_released/)
+- [i want to move the gcs bucket folder in another bucket directory .](https://www.reddit.com/r/scala/comments/103qbi3/i_want_to_move_the_gcs_bucket_folder_in_another/)
 - [Concurrent cron jobs?](https://www.reddit.com/r/scala/comments/102z3wa/concurrent_cron_jobs/)
 - [Making an HTTP call from Outwatch](https://www.reddit.com/r/scala/comments/102xzgg/making_an_http_call_from_outwatch/)
 - [Why are effects better for retries than Future?](https://www.reddit.com/r/scala/comments/102t7qw/why_are_effects_better_for_retries_than_future/)
-- [sbt 1.8.1 released](https://www.reddit.com/r/scala/comments/102m16s/sbt_181_released/)
-- [Screencast for creating a simple stream-powered background job processor in Scala](https://www.reddit.com/r/scala/comments/102lko2/screencast_for_creating_a_simple_streampowered/)
-- [Scala Fat jar not able to access the jks file inside it...](https://www.reddit.com/r/scala/comments/102emv5/scala_fat_jar_not_able_to_access_the_jks_file/)
-- [Does every good scala developer know how to develop in Java?](https://www.reddit.com/r/scala/comments/102ctzx/does_every_good_scala_developer_know_how_to/)
-- [Scala community now has control over the official Scala grammar for tree-sitter 🎉](https://www.reddit.com/r/scala/comments/102adbm/scala_community_now_has_control_over_the_official/)
-- [2022: My Year of Scala Recap](https://www.reddit.com/r/scala/comments/1029e6i/2022_my_year_of_scala_recap/)
-- [Things I Learned Building a Functional Effect System by Mehmet Akif Tütüncü](https://www.reddit.com/r/scala/comments/1029cpb/things_i_learned_building_a_functional_effect/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [implement convent &quot;dbg&quot; debug print in scala 3 with macros](https://www.reddit.com/r/scala/comments/104w9j1/implement_convent_dbg_debug_print_in_scala_3_with/)
 - [My pasta sauce looks familiar](https://www.reddit.com/r/scala/comments/1043zet/my_pasta_sauce_looks_familiar/)
 - [&quot;Sharding with Pure FP&quot; by Pierre Ricadat at Functional Scala 2022.](https://www.reddit.com/r/scala/comments/1040ts5/sharding_with_pure_fp_by_pierre_ricadat_at/)
 - [Why do we wrap code in Try&lpar;&rpar; and convert it to Option?](https://www.reddit.com/r/scala/comments/103ztxf/why_do_we_wrap_code_in_try_and_convert_it_to/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [i want to move the gcs bucket folder in another bucket directory .](https://www.reddit.com/r/scala/comments/103qbi3/i_want_to_move_the_gcs_bucket_folder_in_another/)
 - [Concurrent cron jobs?](https://www.reddit.com/r/scala/comments/102z3wa/concurrent_cron_jobs/)
 - [Making an HTTP call from Outwatch](https://www.reddit.com/r/scala/comments/102xzgg/making_an_http_call_from_outwatch/)
-- [Why are effects better for retries than Future?](https://www.reddit.com/r/scala/comments/102t7qw/why_are_effects_better_for_retries_than_future/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

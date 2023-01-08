@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Intuition behind the F in fs2.Stream[F, Int]](https://www.reddit.com/r/scala/comments/1062vb3/intuition_behind_the_f_in_fs2streamf_int/)
+- [Foldable y Traverse parte 4](https://www.reddit.com/r/scala/comments/105wch7/foldable_y_traverse_parte_4/)
+- [lightning fast run in metals](https://www.reddit.com/r/scala/comments/105pcx9/lightning_fast_run_in_metals/)
 - [implement convent &quot;dbg&quot; debug print in scala 3 with macros](https://www.reddit.com/r/scala/comments/104w9j1/implement_convent_dbg_debug_print_in_scala_3_with/)
 - [My pasta sauce looks familiar](https://www.reddit.com/r/scala/comments/1043zet/my_pasta_sauce_looks_familiar/)
 - [&quot;Sharding with Pure FP&quot; by Pierre Ricadat at Functional Scala 2022.](https://www.reddit.com/r/scala/comments/1040ts5/sharding_with_pure_fp_by_pierre_ricadat_at/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala books for 2023](https://www.reddit.com/r/scala/comments/103xghs/scala_books_for_2023/)
 - [Scalar 2023 CfP is still open](https://www.reddit.com/r/scala/comments/103v6e5/scalar_2023_cfp_is_still_open/)
 - [sbt 1.8.2 released](https://www.reddit.com/r/scala/comments/103rvkq/sbt_182_released/)
-- [i want to move the gcs bucket folder in another bucket directory .](https://www.reddit.com/r/scala/comments/103qbi3/i_want_to_move_the_gcs_bucket_folder_in_another/)
-- [Concurrent cron jobs?](https://www.reddit.com/r/scala/comments/102z3wa/concurrent_cron_jobs/)
-- [Making an HTTP call from Outwatch](https://www.reddit.com/r/scala/comments/102xzgg/making_an_http_call_from_outwatch/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

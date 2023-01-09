@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Jan 9, 2023&rpar;](https://www.reddit.com/r/scala/comments/106smug/this_week_in_scala_jan_9_2023/)
+- [Scala cats effect -- IO and generic F](https://www.reddit.com/r/scala/comments/106f4g0/scala_cats_effect_io_and_generic_f/)
 - [Intuition behind the F in fs2.Stream[F, Int]](https://www.reddit.com/r/scala/comments/1062vb3/intuition_behind_the_f_in_fs2streamf_int/)
 - [Foldable y Traverse parte 4](https://www.reddit.com/r/scala/comments/105wch7/foldable_y_traverse_parte_4/)
 - [lightning fast run in metals](https://www.reddit.com/r/scala/comments/105pcx9/lightning_fast_run_in_metals/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [&quot;Sharding with Pure FP&quot; by Pierre Ricadat at Functional Scala 2022.](https://www.reddit.com/r/scala/comments/1040ts5/sharding_with_pure_fp_by_pierre_ricadat_at/)
 - [Why do we wrap code in Try&lpar;&rpar; and convert it to Option?](https://www.reddit.com/r/scala/comments/103ztxf/why_do_we_wrap_code_in_try_and_convert_it_to/)
 - [Scala books for 2023](https://www.reddit.com/r/scala/comments/103xghs/scala_books_for_2023/)
-- [Scalar 2023 CfP is still open](https://www.reddit.com/r/scala/comments/103v6e5/scalar_2023_cfp_is_still_open/)
-- [sbt 1.8.2 released](https://www.reddit.com/r/scala/comments/103rvkq/sbt_182_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

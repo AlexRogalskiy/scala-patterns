@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [&quot;A New Library For Imperative ZIO Programming&quot; by Alexander Ioffe at Functional Scala 2022](https://www.reddit.com/r/scala/comments/107o4bq/a_new_library_for_imperative_zio_programming_by/)
 - [This week in #Scala &lpar;Jan 9, 2023&rpar;](https://www.reddit.com/r/scala/comments/106smug/this_week_in_scala_jan_9_2023/)
 - [Scala cats effect -- IO and generic F](https://www.reddit.com/r/scala/comments/106f4g0/scala_cats_effect_io_and_generic_f/)
 - [Intuition behind the F in fs2.Stream[F, Int]](https://www.reddit.com/r/scala/comments/1062vb3/intuition_behind_the_f_in_fs2streamf_int/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [My pasta sauce looks familiar](https://www.reddit.com/r/scala/comments/1043zet/my_pasta_sauce_looks_familiar/)
 - [&quot;Sharding with Pure FP&quot; by Pierre Ricadat at Functional Scala 2022.](https://www.reddit.com/r/scala/comments/1040ts5/sharding_with_pure_fp_by_pierre_ricadat_at/)
 - [Why do we wrap code in Try&lpar;&rpar; and convert it to Option?](https://www.reddit.com/r/scala/comments/103ztxf/why_do_we_wrap_code_in_try_and_convert_it_to/)
-- [Scala books for 2023](https://www.reddit.com/r/scala/comments/103xghs/scala_books_for_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

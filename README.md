@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Unite imports using scalafmt](https://www.reddit.com/r/scala/comments/108p0kw/unite_imports_using_scalafmt/)
+- [Intuition behind fs2 stream compile&lpar;&rpar; method](https://www.reddit.com/r/scala/comments/108mr9g/intuition_behind_fs2_stream_compile_method/)
 - [&quot;A New Library For Imperative ZIO Programming&quot; by Alexander Ioffe at Functional Scala 2022](https://www.reddit.com/r/scala/comments/107o4bq/a_new_library_for_imperative_zio_programming_by/)
 - [This week in #Scala &lpar;Jan 9, 2023&rpar;](https://www.reddit.com/r/scala/comments/106smug/this_week_in_scala_jan_9_2023/)
 - [Scala cats effect -- IO and generic F](https://www.reddit.com/r/scala/comments/106f4g0/scala_cats_effect_io_and_generic_f/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [lightning fast run in metals](https://www.reddit.com/r/scala/comments/105pcx9/lightning_fast_run_in_metals/)
 - [implement convent &quot;dbg&quot; debug print in scala 3 with macros](https://www.reddit.com/r/scala/comments/104w9j1/implement_convent_dbg_debug_print_in_scala_3_with/)
 - [My pasta sauce looks familiar](https://www.reddit.com/r/scala/comments/1043zet/my_pasta_sauce_looks_familiar/)
-- [&quot;Sharding with Pure FP&quot; by Pierre Ricadat at Functional Scala 2022.](https://www.reddit.com/r/scala/comments/1040ts5/sharding_with_pure_fp_by_pierre_ricadat_at/)
-- [Why do we wrap code in Try&lpar;&rpar; and convert it to Option?](https://www.reddit.com/r/scala/comments/103ztxf/why_do_we_wrap_code_in_try_and_convert_it_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

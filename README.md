@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Good country for Scala jobs for foreigner?](https://www.reddit.com/r/scala/comments/109hyr8/good_country_for_scala_jobs_for_foreigner/)
+- [Eugene Yokota Joins the Scala Center&#39;s Advisory Board as a new Community Representative](https://www.reddit.com/r/scala/comments/1097mwm/eugene_yokota_joins_the_scala_centers_advisory/)
 - [Unite imports using scalafmt](https://www.reddit.com/r/scala/comments/108p0kw/unite_imports_using_scalafmt/)
 - [Intuition behind fs2 stream compile&lpar;&rpar; method](https://www.reddit.com/r/scala/comments/108mr9g/intuition_behind_fs2_stream_compile_method/)
 - [&quot;A New Library For Imperative ZIO Programming&quot; by Alexander Ioffe at Functional Scala 2022](https://www.reddit.com/r/scala/comments/107o4bq/a_new_library_for_imperative_zio_programming_by/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Intuition behind the F in fs2.Stream[F, Int]](https://www.reddit.com/r/scala/comments/1062vb3/intuition_behind_the_f_in_fs2streamf_int/)
 - [Foldable y Traverse parte 4](https://www.reddit.com/r/scala/comments/105wch7/foldable_y_traverse_parte_4/)
 - [lightning fast run in metals](https://www.reddit.com/r/scala/comments/105pcx9/lightning_fast_run_in_metals/)
-- [implement convent &quot;dbg&quot; debug print in scala 3 with macros](https://www.reddit.com/r/scala/comments/104w9j1/implement_convent_dbg_debug_print_in_scala_3_with/)
-- [My pasta sauce looks familiar](https://www.reddit.com/r/scala/comments/1043zet/my_pasta_sauce_looks_familiar/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

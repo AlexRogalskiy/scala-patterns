@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to pass a given into a closure?](https://www.reddit.com/r/scala/comments/10a7oc6/how_to_pass_a_given_into_a_closure/)
+- [Embedding Generic Monadic Transformer into Scala | Ruslan Shevchenko | Lambda Days 2022](https://www.reddit.com/r/scala/comments/10a3zhl/embedding_generic_monadic_transformer_into_scala/)
+- [Suggestions for a distributed job queue lib?](https://www.reddit.com/r/scala/comments/109pzwf/suggestions_for_a_distributed_job_queue_lib/)
+- [Scala&#39;s runtime performance in &quot;1 Problem, 24 Languages&quot;](https://www.reddit.com/r/scala/comments/109pzul/scalas_runtime_performance_in_1_problem_24/)
 - [Good country for Scala jobs for foreigner?](https://www.reddit.com/r/scala/comments/109hyr8/good_country_for_scala_jobs_for_foreigner/)
 - [Eugene Yokota Joins the Scala Center&#39;s Advisory Board as a new Community Representative](https://www.reddit.com/r/scala/comments/1097mwm/eugene_yokota_joins_the_scala_centers_advisory/)
 - [Unite imports using scalafmt](https://www.reddit.com/r/scala/comments/108p0kw/unite_imports_using_scalafmt/)
 - [Intuition behind fs2 stream compile&lpar;&rpar; method](https://www.reddit.com/r/scala/comments/108mr9g/intuition_behind_fs2_stream_compile_method/)
 - [&quot;A New Library For Imperative ZIO Programming&quot; by Alexander Ioffe at Functional Scala 2022](https://www.reddit.com/r/scala/comments/107o4bq/a_new_library_for_imperative_zio_programming_by/)
 - [This week in #Scala &lpar;Jan 9, 2023&rpar;](https://www.reddit.com/r/scala/comments/106smug/this_week_in_scala_jan_9_2023/)
-- [Scala cats effect -- IO and generic F](https://www.reddit.com/r/scala/comments/106f4g0/scala_cats_effect_io_and_generic_f/)
-- [Intuition behind the F in fs2.Stream[F, Int]](https://www.reddit.com/r/scala/comments/1062vb3/intuition_behind_the_f_in_fs2streamf_int/)
-- [Foldable y Traverse parte 4](https://www.reddit.com/r/scala/comments/105wch7/foldable_y_traverse_parte_4/)
-- [lightning fast run in metals](https://www.reddit.com/r/scala/comments/105pcx9/lightning_fast_run_in_metals/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

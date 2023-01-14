@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [&quot;Snow fall&quot; and &quot;The Matrix&quot; effects in terminal -- ASCII-Art](https://www.reddit.com/r/scala/comments/10b07to/snow_fall_and_the_matrix_effects_in_terminal/)
+- [&quot;Machine Learning Pipeline As A Language&quot; by Daniel Berecz](https://www.reddit.com/r/scala/comments/10awd9k/machine_learning_pipeline_as_a_language_by_daniel/)
+- [A large list of Scala-related jobs](https://www.reddit.com/r/scala/comments/10anuqr/a_large_list_of_scalarelated_jobs/)
 - [How to pass a given into a closure?](https://www.reddit.com/r/scala/comments/10a7oc6/how_to_pass_a_given_into_a_closure/)
 - [Embedding Generic Monadic Transformer into Scala | Ruslan Shevchenko | Lambda Days 2022](https://www.reddit.com/r/scala/comments/10a3zhl/embedding_generic_monadic_transformer_into_scala/)
 - [Suggestions for a distributed job queue lib?](https://www.reddit.com/r/scala/comments/109pzwf/suggestions_for_a_distributed_job_queue_lib/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Good country for Scala jobs for foreigner?](https://www.reddit.com/r/scala/comments/109hyr8/good_country_for_scala_jobs_for_foreigner/)
 - [Eugene Yokota Joins the Scala Center&#39;s Advisory Board as a new Community Representative](https://www.reddit.com/r/scala/comments/1097mwm/eugene_yokota_joins_the_scala_centers_advisory/)
 - [Unite imports using scalafmt](https://www.reddit.com/r/scala/comments/108p0kw/unite_imports_using_scalafmt/)
-- [Intuition behind fs2 stream compile&lpar;&rpar; method](https://www.reddit.com/r/scala/comments/108mr9g/intuition_behind_fs2_stream_compile_method/)
-- [&quot;A New Library For Imperative ZIO Programming&quot; by Alexander Ioffe at Functional Scala 2022](https://www.reddit.com/r/scala/comments/107o4bq/a_new_library_for_imperative_zio_programming_by/)
-- [This week in #Scala &lpar;Jan 9, 2023&rpar;](https://www.reddit.com/r/scala/comments/106smug/this_week_in_scala_jan_9_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

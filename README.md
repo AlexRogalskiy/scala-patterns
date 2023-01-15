@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [scala freelancers here in the community](https://www.reddit.com/r/scala/comments/10c1tk0/scala_freelancers_here_in_the_community/)
 - [&quot;Snow fall&quot; and &quot;The Matrix&quot; effects in terminal -- ASCII-Art](https://www.reddit.com/r/scala/comments/10b07to/snow_fall_and_the_matrix_effects_in_terminal/)
 - [&quot;Machine Learning Pipeline As A Language&quot; by Daniel Berecz](https://www.reddit.com/r/scala/comments/10awd9k/machine_learning_pipeline_as_a_language_by_daniel/)
 - [A large list of Scala-related jobs](https://www.reddit.com/r/scala/comments/10anuqr/a_large_list_of_scalarelated_jobs/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala&#39;s runtime performance in &quot;1 Problem, 24 Languages&quot;](https://www.reddit.com/r/scala/comments/109pzul/scalas_runtime_performance_in_1_problem_24/)
 - [Good country for Scala jobs for foreigner?](https://www.reddit.com/r/scala/comments/109hyr8/good_country_for_scala_jobs_for_foreigner/)
 - [Eugene Yokota Joins the Scala Center&#39;s Advisory Board as a new Community Representative](https://www.reddit.com/r/scala/comments/1097mwm/eugene_yokota_joins_the_scala_centers_advisory/)
-- [Unite imports using scalafmt](https://www.reddit.com/r/scala/comments/108p0kw/unite_imports_using_scalafmt/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

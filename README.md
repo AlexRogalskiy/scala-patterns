@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala CLI Tutorial - how to protoype, build, run and package your Scala application](https://www.reddit.com/r/scala/comments/10dsbf0/scala_cli_tutorial_how_to_protoype_build_run_and/)
+- [Java and Scala](https://www.reddit.com/r/scala/comments/10dgjzo/java_and_scala/)
+- [For Beginners - Is FP Really That Easy to Reason About?](https://www.reddit.com/r/scala/comments/10df6ld/for_beginners_is_fp_really_that_easy_to_reason/)
 - [Scala JWT Library](https://www.reddit.com/r/scala/comments/10cz9kt/scala_jwt_library/)
 - [Suggestions](https://www.reddit.com/r/scala/comments/10cto6g/suggestions/)
 - [This week in #Scala &lpar;Jan 16, 2023&rpar;](https://www.reddit.com/r/scala/comments/10ctg4l/this_week_in_scala_jan_16_2023/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [scala freelancers here in the community](https://www.reddit.com/r/scala/comments/10c1tk0/scala_freelancers_here_in_the_community/)
 - [&quot;Machine Learning Pipeline As A Language&quot; by Daniel Berecz](https://www.reddit.com/r/scala/comments/10awd9k/machine_learning_pipeline_as_a_language_by_daniel/)
 - [A large list of Scala-related jobs](https://www.reddit.com/r/scala/comments/10anuqr/a_large_list_of_scalarelated_jobs/)
-- [How to pass a given into a closure?](https://www.reddit.com/r/scala/comments/10a7oc6/how_to_pass_a_given_into_a_closure/)
-- [Embedding Generic Monadic Transformer into Scala | Ruslan Shevchenko | Lambda Days 2022](https://www.reddit.com/r/scala/comments/10a3zhl/embedding_generic_monadic_transformer_into_scala/)
-- [Suggestions for a distributed job queue lib?](https://www.reddit.com/r/scala/comments/109pzwf/suggestions_for_a_distributed_job_queue_lib/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

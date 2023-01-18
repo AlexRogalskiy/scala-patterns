@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Post your problems with Scala 3/2.13 compiler performance!](https://www.reddit.com/r/scala/comments/10efjqf/post_your_problems_with_scala_3213_compiler/)
+- [&quot;State of Scala HTTP&quot; by Marcin Krykowski at Functional Scala 2022](https://www.reddit.com/r/scala/comments/10eeqix/state_of_scala_http_by_marcin_krykowski_at/)
+- [Changing a case class definition in a backwards-compatible manner &lpar;Scala 3&rpar;](https://www.reddit.com/r/scala/comments/10e9q6f/changing_a_case_class_definition_in_a/)
+- [Big news for the Scala community: finally fully open source ! 🎉](https://www.reddit.com/r/scala/comments/10e8qdc/big_news_for_the_scala_community_finally_fully/)
+- [Scala Compiler Benchmark - not updated anymore?](https://www.reddit.com/r/scala/comments/10e7e12/scala_compiler_benchmark_not_updated_anymore/)
+- [Python developers trying out scala - how has it been?](https://www.reddit.com/r/scala/comments/10e1c5s/python_developers_trying_out_scala_how_has_it_been/)
 - [Scala CLI Tutorial - how to protoype, build, run and package your Scala application](https://www.reddit.com/r/scala/comments/10dsbf0/scala_cli_tutorial_how_to_protoype_build_run_and/)
 - [Java and Scala](https://www.reddit.com/r/scala/comments/10dgjzo/java_and_scala/)
 - [For Beginners - Is FP Really That Easy to Reason About?](https://www.reddit.com/r/scala/comments/10df6ld/for_beginners_is_fp_really_that_easy_to_reason/)
 - [Scala JWT Library](https://www.reddit.com/r/scala/comments/10cz9kt/scala_jwt_library/)
-- [Suggestions](https://www.reddit.com/r/scala/comments/10cto6g/suggestions/)
-- [This week in #Scala &lpar;Jan 16, 2023&rpar;](https://www.reddit.com/r/scala/comments/10ctg4l/this_week_in_scala_jan_16_2023/)
-- [Scala DevInTraining looking to contribute to projects](https://www.reddit.com/r/scala/comments/10chvpj/scala_devintraining_looking_to_contribute_to/)
-- [scala freelancers here in the community](https://www.reddit.com/r/scala/comments/10c1tk0/scala_freelancers_here_in_the_community/)
-- [&quot;Machine Learning Pipeline As A Language&quot; by Daniel Berecz](https://www.reddit.com/r/scala/comments/10awd9k/machine_learning_pipeline_as_a_language_by_daniel/)
-- [A large list of Scala-related jobs](https://www.reddit.com/r/scala/comments/10anuqr/a_large_list_of_scalarelated_jobs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Anyone using Clickhouse in Scala? What client do you use?](https://www.reddit.com/r/scala/comments/10fgn6g/anyone_using_clickhouse_in_scala_what_client_do/)
+- [Scala.js As A Simple Entry Point To Get People Into Scala by Alexis Hernandez](https://www.reddit.com/r/scala/comments/10ffev7/scalajs_as_a_simple_entry_point_to_get_people/)
+- [Library for Reinforcement Learning in Scala](https://www.reddit.com/r/scala/comments/10fe8c7/library_for_reinforcement_learning_in_scala/)
+- [Implicit parameters when to use them? Part 1 - by Julien Truffaut](https://www.reddit.com/r/scala/comments/10f3ql8/implicit_parameters_when_to_use_them_part_1_by/)
+- [Library for reading / writing another process memory ?](https://www.reddit.com/r/scala/comments/10f2o5x/library_for_reading_writing_another_process_memory/)
+- [Join the Fight to Revive a Classic: Seeking Skilled Scala Developers for Planetside Infinite Development Team](https://www.reddit.com/r/scala/comments/10ex21y/join_the_fight_to_revive_a_classic_seeking/)
 - [Post your problems with Scala 3/2.13 compiler performance!](https://www.reddit.com/r/scala/comments/10efjqf/post_your_problems_with_scala_3213_compiler/)
 - [&quot;State of Scala HTTP&quot; by Marcin Krykowski at Functional Scala 2022](https://www.reddit.com/r/scala/comments/10eeqix/state_of_scala_http_by_marcin_krykowski_at/)
 - [Changing a case class definition in a backwards-compatible manner &lpar;Scala 3&rpar;](https://www.reddit.com/r/scala/comments/10e9q6f/changing_a_case_class_definition_in_a/)
 - [Big news for the Scala community: finally fully open source ! 🎉](https://www.reddit.com/r/scala/comments/10e8qdc/big_news_for_the_scala_community_finally_fully/)
-- [Scala Compiler Benchmark - not updated anymore?](https://www.reddit.com/r/scala/comments/10e7e12/scala_compiler_benchmark_not_updated_anymore/)
-- [Python developers trying out scala - how has it been?](https://www.reddit.com/r/scala/comments/10e1c5s/python_developers_trying_out_scala_how_has_it_been/)
-- [Scala CLI Tutorial - how to protoype, build, run and package your Scala application](https://www.reddit.com/r/scala/comments/10dsbf0/scala_cli_tutorial_how_to_protoype_build_run_and/)
-- [Java and Scala](https://www.reddit.com/r/scala/comments/10dgjzo/java_and_scala/)
-- [For Beginners - Is FP Really That Easy to Reason About?](https://www.reddit.com/r/scala/comments/10df6ld/for_beginners_is_fp_really_that_easy_to_reason/)
-- [Scala JWT Library](https://www.reddit.com/r/scala/comments/10cz9kt/scala_jwt_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

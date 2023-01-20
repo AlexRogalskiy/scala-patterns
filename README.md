@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Days 2023 - Call for papers](https://www.reddit.com/r/scala/comments/10gitlp/scala_days_2023_call_for_papers/)
+- [HoneyBadger - learning Scala for upcoming job](https://www.reddit.com/r/scala/comments/10g0y59/honeybadger_learning_scala_for_upcoming_job/)
+- [scala developers open to contract work?](https://www.reddit.com/r/scala/comments/10fsp1p/scala_developers_open_to_contract_work/)
 - [Anyone using Clickhouse in Scala? What client do you use?](https://www.reddit.com/r/scala/comments/10fgn6g/anyone_using_clickhouse_in_scala_what_client_do/)
 - [Scala.js As A Simple Entry Point To Get People Into Scala by Alexis Hernandez](https://www.reddit.com/r/scala/comments/10ffev7/scalajs_as_a_simple_entry_point_to_get_people/)
 - [Library for Reinforcement Learning in Scala](https://www.reddit.com/r/scala/comments/10fe8c7/library_for_reinforcement_learning_in_scala/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Library for reading / writing another process memory ?](https://www.reddit.com/r/scala/comments/10f2o5x/library_for_reading_writing_another_process_memory/)
 - [Join the Fight to Revive a Classic: Seeking Skilled Scala Developers for Planetside Infinite Development Team](https://www.reddit.com/r/scala/comments/10ex21y/join_the_fight_to_revive_a_classic_seeking/)
 - [Post your problems with Scala 3/2.13 compiler performance!](https://www.reddit.com/r/scala/comments/10efjqf/post_your_problems_with_scala_3213_compiler/)
-- [&quot;State of Scala HTTP&quot; by Marcin Krykowski at Functional Scala 2022](https://www.reddit.com/r/scala/comments/10eeqix/state_of_scala_http_by_marcin_krykowski_at/)
-- [Changing a case class definition in a backwards-compatible manner &lpar;Scala 3&rpar;](https://www.reddit.com/r/scala/comments/10e9q6f/changing_a_case_class_definition_in_a/)
-- [Big news for the Scala community: finally fully open source ! 🎉](https://www.reddit.com/r/scala/comments/10e8qdc/big_news_for_the_scala_community_finally_fully/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

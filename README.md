@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [fs2-kafka introduction: deserialization with careful error handling](https://www.reddit.com/r/scala/comments/10i7tn2/fs2kafka_introduction_deserialization_with/)
 - [Sequential application of a constructor?](https://www.reddit.com/r/scala/comments/10h4nhf/sequential_application_of_a_constructor/)
 - [&quot;Give Failure A Chance&quot; by Wiem Zine Elabidine](https://www.reddit.com/r/scala/comments/10h174d/give_failure_a_chance_by_wiem_zine_elabidine/)
 - [Database abstraction library which allows a clean domain model](https://www.reddit.com/r/scala/comments/10gt95y/database_abstraction_library_which_allows_a_clean/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [scala developers open to contract work?](https://www.reddit.com/r/scala/comments/10fsp1p/scala_developers_open_to_contract_work/)
 - [Anyone using Clickhouse in Scala? What client do you use?](https://www.reddit.com/r/scala/comments/10fgn6g/anyone_using_clickhouse_in_scala_what_client_do/)
 - [Scala.js As A Simple Entry Point To Get People Into Scala by Alexis Hernandez](https://www.reddit.com/r/scala/comments/10ffev7/scalajs_as_a_simple_entry_point_to_get_people/)
-- [Library for Reinforcement Learning in Scala](https://www.reddit.com/r/scala/comments/10fe8c7/library_for_reinforcement_learning_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [VsCode Metal Project Recommendation](https://www.reddit.com/r/scala/comments/10ixqmi/vscode_metal_project_recommendation/)
+- [Scala JWT Library](https://www.reddit.com/r/scala/comments/10ixhgw/scala_jwt_library/)
+- [This week in #Scala &lpar;Jan 23, 2023&rpar;](https://www.reddit.com/r/scala/comments/10imfi8/this_week_in_scala_jan_23_2023/)
+- [How to define a function to return an object when inserting in Slick?](https://www.reddit.com/r/scala/comments/10il9tb/how_to_define_a_function_to_return_an_object_when/)
+- [How to define generic encoder trait for case class in io.circe?](https://www.reddit.com/r/scala/comments/10iis3w/how_to_define_generic_encoder_trait_for_case/)
+- [for comprehension and some questions](https://www.reddit.com/r/scala/comments/10ihu9f/for_comprehension_and_some_questions/)
 - [fs2-kafka introduction: deserialization with careful error handling](https://www.reddit.com/r/scala/comments/10i7tn2/fs2kafka_introduction_deserialization_with/)
 - [Sequential application of a constructor?](https://www.reddit.com/r/scala/comments/10h4nhf/sequential_application_of_a_constructor/)
 - [&quot;Give Failure A Chance&quot; by Wiem Zine Elabidine](https://www.reddit.com/r/scala/comments/10h174d/give_failure_a_chance_by_wiem_zine_elabidine/)
 - [Database abstraction library which allows a clean domain model](https://www.reddit.com/r/scala/comments/10gt95y/database_abstraction_library_which_allows_a_clean/)
-- [is learning spark still relevant in 2023?](https://www.reddit.com/r/scala/comments/10gl0g2/is_learning_spark_still_relevant_in_2023/)
-- [Scala Days 2023 - Call for papers](https://www.reddit.com/r/scala/comments/10gitlp/scala_days_2023_call_for_papers/)
-- [HoneyBadger - learning Scala for upcoming job](https://www.reddit.com/r/scala/comments/10g0y59/honeybadger_learning_scala_for_upcoming_job/)
-- [scala developers open to contract work?](https://www.reddit.com/r/scala/comments/10fsp1p/scala_developers_open_to_contract_work/)
-- [Anyone using Clickhouse in Scala? What client do you use?](https://www.reddit.com/r/scala/comments/10fgn6g/anyone_using_clickhouse_in_scala_what_client_do/)
-- [Scala.js As A Simple Entry Point To Get People Into Scala by Alexis Hernandez](https://www.reddit.com/r/scala/comments/10ffev7/scalajs_as_a_simple_entry_point_to_get_people/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Deploy http4s on your domain with fly.io | TonioGela&#39;s](https://www.reddit.com/r/scala/comments/10kiwaj/deploy_http4s_on_your_domain_with_flyio_toniogelas/)
+- [Your allocation rate could be hurting vertical scalability](https://www.reddit.com/r/scala/comments/10kdhku/your_allocation_rate_could_be_hurting_vertical/)
+- [How to use a Rust lib inside the Scala app](https://www.reddit.com/r/scala/comments/10k5jhb/how_to_use_a_rust_lib_inside_the_scala_app/)
+- [Scala Resurrection](https://www.reddit.com/r/scala/comments/10k4g9k/scala_resurrection/)
+- [Scala 2 course for Java developers](https://www.reddit.com/r/scala/comments/10k2du4/scala_2_course_for_java_developers/)
+- [Typeclass pattern - probably the best use case for implicit parameter](https://www.reddit.com/r/scala/comments/10k1gzc/typeclass_pattern_probably_the_best_use_case_for/)
+- [Already learned Scala syntax. Should the next book be &quot;SICP&quot; or &quot;Function Programming in Scala&quot;?](https://www.reddit.com/r/scala/comments/10jzf1l/already_learned_scala_syntax_should_the_next_book/)
 - [VsCode Metal Project Recommendation](https://www.reddit.com/r/scala/comments/10ixqmi/vscode_metal_project_recommendation/)
 - [Scala JWT Library](https://www.reddit.com/r/scala/comments/10ixhgw/scala_jwt_library/)
 - [This week in #Scala &lpar;Jan 23, 2023&rpar;](https://www.reddit.com/r/scala/comments/10imfi8/this_week_in_scala_jan_23_2023/)
-- [How to define a function to return an object when inserting in Slick?](https://www.reddit.com/r/scala/comments/10il9tb/how_to_define_a_function_to_return_an_object_when/)
-- [How to define generic encoder trait for case class in io.circe?](https://www.reddit.com/r/scala/comments/10iis3w/how_to_define_generic_encoder_trait_for_case/)
-- [for comprehension and some questions](https://www.reddit.com/r/scala/comments/10ihu9f/for_comprehension_and_some_questions/)
-- [fs2-kafka introduction: deserialization with careful error handling](https://www.reddit.com/r/scala/comments/10i7tn2/fs2kafka_introduction_deserialization_with/)
-- [Sequential application of a constructor?](https://www.reddit.com/r/scala/comments/10h4nhf/sequential_application_of_a_constructor/)
-- [&quot;Give Failure A Chance&quot; by Wiem Zine Elabidine](https://www.reddit.com/r/scala/comments/10h174d/give_failure_a_chance_by_wiem_zine_elabidine/)
-- [Database abstraction library which allows a clean domain model](https://www.reddit.com/r/scala/comments/10gt95y/database_abstraction_library_which_allows_a_clean/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Project ideas](https://www.reddit.com/r/scala/comments/10l0vfd/project_ideas/)
+- [&quot;Implicit Parameters, When to Use Them &lpar;Or Not&rpar;!&quot; by Julien Truffaut at Functional Scala 2022](https://www.reddit.com/r/scala/comments/10kzlud/implicit_parameters_when_to_use_them_or_not_by/)
 - [Deploy http4s on your domain with fly.io | TonioGela&#39;s](https://www.reddit.com/r/scala/comments/10kiwaj/deploy_http4s_on_your_domain_with_flyio_toniogelas/)
 - [Your allocation rate could be hurting vertical scalability](https://www.reddit.com/r/scala/comments/10kdhku/your_allocation_rate_could_be_hurting_vertical/)
 - [How to use a Rust lib inside the Scala app](https://www.reddit.com/r/scala/comments/10k5jhb/how_to_use_a_rust_lib_inside_the_scala_app/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Typeclass pattern - probably the best use case for implicit parameter](https://www.reddit.com/r/scala/comments/10k1gzc/typeclass_pattern_probably_the_best_use_case_for/)
 - [Already learned Scala syntax. Should the next book be &quot;SICP&quot; or &quot;Function Programming in Scala&quot;?](https://www.reddit.com/r/scala/comments/10jzf1l/already_learned_scala_syntax_should_the_next_book/)
 - [VsCode Metal Project Recommendation](https://www.reddit.com/r/scala/comments/10ixqmi/vscode_metal_project_recommendation/)
-- [Scala JWT Library](https://www.reddit.com/r/scala/comments/10ixhgw/scala_jwt_library/)
-- [This week in #Scala &lpar;Jan 23, 2023&rpar;](https://www.reddit.com/r/scala/comments/10imfi8/this_week_in_scala_jan_23_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

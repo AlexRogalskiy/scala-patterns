@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Effect&lpar;s&rpar; Of Effect&lpar;s&rpar; by Flavio Brasil at Functional Scala 2022](https://www.reddit.com/r/scala/comments/10mnr1b/the_effects_of_effects_by_flavio_brasil_at/)
+- [Track the Scala Job Market By Region](https://www.reddit.com/r/scala/comments/10mkf5c/track_the_scala_job_market_by_region/)
+- [Tiny scala util for improved alerting](https://www.reddit.com/r/scala/comments/10me1l7/tiny_scala_util_for_improved_alerting/)
 - [The Magic of Lazy Lists](https://www.reddit.com/r/scala/comments/10m98o7/the_magic_of_lazy_lists/)
 - [sttp client 4: help us to improve the developer experience! What was difficult when learning sttp? What&#39;s a common source of unpleasant surprises?](https://www.reddit.com/r/scala/comments/10m15n6/sttp_client_4_help_us_to_improve_the_developer/)
 - [load csv into map and query like sql possible?](https://www.reddit.com/r/scala/comments/10lsx4e/load_csv_into_map_and_query_like_sql_possible/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [The digital transformation of Santa’s logistical nightmare - Part 3 fs2-kafka](https://www.reddit.com/r/scala/comments/10lnsqw/the_digital_transformation_of_santas_logistical/)
 - [Project ideas](https://www.reddit.com/r/scala/comments/10l0vfd/project_ideas/)
 - [&quot;Implicit Parameters, When to Use Them &lpar;Or Not&rpar;!&quot; by Julien Truffaut at Functional Scala 2022](https://www.reddit.com/r/scala/comments/10kzlud/implicit_parameters_when_to_use_them_or_not_by/)
-- [Deploy http4s on your domain with fly.io | TonioGela&#39;s](https://www.reddit.com/r/scala/comments/10kiwaj/deploy_http4s_on_your_domain_with_flyio_toniogelas/)
-- [Your allocation rate could be hurting vertical scalability](https://www.reddit.com/r/scala/comments/10kdhku/your_allocation_rate_could_be_hurting_vertical/)
-- [How to use a Rust lib inside the Scala app](https://www.reddit.com/r/scala/comments/10k5jhb/how_to_use_a_rust_lib_inside_the_scala_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

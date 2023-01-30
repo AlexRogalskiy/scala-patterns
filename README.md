@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help a Kotlin convert back into Scala world](https://www.reddit.com/r/scala/comments/10ojwia/help_a_kotlin_convert_back_into_scala_world/)
+- [This week in #Scala &lpar;Jan 30, 2023&rpar;](https://www.reddit.com/r/scala/comments/10oj710/this_week_in_scala_jan_30_2023/)
+- [Iron v2.0.0 is out 🎉](https://www.reddit.com/r/scala/comments/10oeuol/iron_v200_is_out/)
+- [Databricks Certified Associate Developer for Apache Spark](https://www.reddit.com/r/scala/comments/10odi0b/databricks_certified_associate_developer_for/)
+- [Announcing LatestEvent.scala - bidirectional data-binding and routing for Scala.js](https://www.reddit.com/r/scala/comments/10oc6p2/announcing_latesteventscala_bidirectional/)
+- [The size of sbt became big](https://www.reddit.com/r/scala/comments/10o50s3/the_size_of_sbt_became_big/)
 - [Binding.scala 12.2 and html.scala 3.0: reactive web framework for Scala 3](https://www.reddit.com/r/scala/comments/10nqw4w/bindingscala_122_and_htmlscala_30_reactive_web/)
 - [Is the Scala Center really working on Scala 4?](https://www.reddit.com/r/scala/comments/10nl15x/is_the_scala_center_really_working_on_scala_4/)
 - [Desktop Applications with Java/Scala, HTML and CSS](https://www.reddit.com/r/scala/comments/10nkdry/desktop_applications_with_javascala_html_and_css/)
 - [Foldable y Traverse parte 5](https://www.reddit.com/r/scala/comments/10nfev5/foldable_y_traverse_parte_5/)
-- [The Effect&lpar;s&rpar; Of Effect&lpar;s&rpar; by Flavio Brasil at Functional Scala 2022](https://www.reddit.com/r/scala/comments/10mnr1b/the_effects_of_effects_by_flavio_brasil_at/)
-- [Track the Scala Job Market By Region](https://www.reddit.com/r/scala/comments/10mkf5c/track_the_scala_job_market_by_region/)
-- [Tiny scala util for improved alerting](https://www.reddit.com/r/scala/comments/10me1l7/tiny_scala_util_for_improved_alerting/)
-- [The Magic of Lazy Lists](https://www.reddit.com/r/scala/comments/10m98o7/the_magic_of_lazy_lists/)
-- [sttp client 4: help us to improve the developer experience! What was difficult when learning sttp? What&#39;s a common source of unpleasant surprises?](https://www.reddit.com/r/scala/comments/10m15n6/sttp_client_4_help_us_to_improve_the_developer/)
-- [load csv into map and query like sql possible?](https://www.reddit.com/r/scala/comments/10lsx4e/load_csv_into_map_and_query_like_sql_possible/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

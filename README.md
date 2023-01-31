@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [AKKA HTTP one rout with multiple paths](https://www.reddit.com/r/scala/comments/10pfnwz/akka_http_one_rout_with_multiple_paths/)
+- [Is There A Benefit Of Using try/finally This Way](https://www.reddit.com/r/scala/comments/10p6a4m/is_there_a_benefit_of_using_tryfinally_this_way/)
+- [Sbt painfully slow to create a new project](https://www.reddit.com/r/scala/comments/10or8i7/sbt_painfully_slow_to_create_a_new_project/)
 - [Help a Kotlin convert back into Scala world](https://www.reddit.com/r/scala/comments/10ojwia/help_a_kotlin_convert_back_into_scala_world/)
 - [This week in #Scala &lpar;Jan 30, 2023&rpar;](https://www.reddit.com/r/scala/comments/10oj710/this_week_in_scala_jan_30_2023/)
 - [Iron v2.0.0 is out 🎉](https://www.reddit.com/r/scala/comments/10oeuol/iron_v200_is_out/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Announcing LatestEvent.scala - bidirectional data-binding and routing for Scala.js](https://www.reddit.com/r/scala/comments/10oc6p2/announcing_latesteventscala_bidirectional/)
 - [The size of sbt became big](https://www.reddit.com/r/scala/comments/10o50s3/the_size_of_sbt_became_big/)
 - [Binding.scala 12.2 and html.scala 3.0: reactive web framework for Scala 3](https://www.reddit.com/r/scala/comments/10nqw4w/bindingscala_122_and_htmlscala_30_reactive_web/)
-- [Is the Scala Center really working on Scala 4?](https://www.reddit.com/r/scala/comments/10nl15x/is_the_scala_center_really_working_on_scala_4/)
-- [Desktop Applications with Java/Scala, HTML and CSS](https://www.reddit.com/r/scala/comments/10nkdry/desktop_applications_with_javascala_html_and_css/)
-- [Foldable y Traverse parte 5](https://www.reddit.com/r/scala/comments/10nfev5/foldable_y_traverse_parte_5/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

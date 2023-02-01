@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Ascension](https://www.reddit.com/r/scala/comments/10qgd5l/scala_ascension/)
+- [Variance in Cons](https://www.reddit.com/r/scala/comments/10qcivw/variance_in_cons/)
+- [Scala Center Roadmap for 2023 and Beyond](https://www.reddit.com/r/scala/comments/10q1qpj/scala_center_roadmap_for_2023_and_beyond/)
+- [veautiful and doctacular 0.3-M6 on Maven Central](https://www.reddit.com/r/scala/comments/10pxd7m/veautiful_and_doctacular_03m6_on_maven_central/)
+- [SCALAJS-React with Azure AD authentication](https://www.reddit.com/r/scala/comments/10pupr3/scalajsreact_with_azure_ad_authentication/)
 - [AKKA HTTP one rout with multiple paths](https://www.reddit.com/r/scala/comments/10pfnwz/akka_http_one_rout_with_multiple_paths/)
 - [Is There A Benefit Of Using try/finally This Way](https://www.reddit.com/r/scala/comments/10p6a4m/is_there_a_benefit_of_using_tryfinally_this_way/)
 - [Sbt painfully slow to create a new project](https://www.reddit.com/r/scala/comments/10or8i7/sbt_painfully_slow_to_create_a_new_project/)
 - [Help a Kotlin convert back into Scala world](https://www.reddit.com/r/scala/comments/10ojwia/help_a_kotlin_convert_back_into_scala_world/)
 - [This week in #Scala &lpar;Jan 30, 2023&rpar;](https://www.reddit.com/r/scala/comments/10oj710/this_week_in_scala_jan_30_2023/)
-- [Iron v2.0.0 is out 🎉](https://www.reddit.com/r/scala/comments/10oeuol/iron_v200_is_out/)
-- [Databricks Certified Associate Developer for Apache Spark](https://www.reddit.com/r/scala/comments/10odi0b/databricks_certified_associate_developer_for/)
-- [Announcing LatestEvent.scala - bidirectional data-binding and routing for Scala.js](https://www.reddit.com/r/scala/comments/10oc6p2/announcing_latesteventscala_bidirectional/)
-- [The size of sbt became big](https://www.reddit.com/r/scala/comments/10o50s3/the_size_of_sbt_became_big/)
-- [Binding.scala 12.2 and html.scala 3.0: reactive web framework for Scala 3](https://www.reddit.com/r/scala/comments/10nqw4w/bindingscala_122_and_htmlscala_30_reactive_web/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

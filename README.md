@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Announcing ReactToBindingHtml.scala: adapters for React / Binding.scala / html.scala interoperability](https://www.reddit.com/r/scala/comments/10r3k0e/announcing_reacttobindinghtmlscala_adapters_for/)
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/10qzpo2/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [Announcing the first release of ZIO OpenAI](https://www.reddit.com/r/scala/comments/10qulw5/announcing_the_first_release_of_zio_openai/)
+- [GC support in WebAssembly in V8 &lpar;Chrome&rpar; is available in developer previews. This brings support for GC based languages such as Scala.](https://www.reddit.com/r/scala/comments/10qrop2/gc_support_in_webassembly_in_v8_chrome_is/)
 - [Scala Ascension](https://www.reddit.com/r/scala/comments/10qgd5l/scala_ascension/)
 - [Variance in Cons](https://www.reddit.com/r/scala/comments/10qcivw/variance_in_cons/)
 - [Scala Center Roadmap for 2023 and Beyond](https://www.reddit.com/r/scala/comments/10q1qpj/scala_center_roadmap_for_2023_and_beyond/)
 - [veautiful and doctacular 0.3-M6 on Maven Central](https://www.reddit.com/r/scala/comments/10pxd7m/veautiful_and_doctacular_03m6_on_maven_central/)
 - [SCALAJS-React with Azure AD authentication](https://www.reddit.com/r/scala/comments/10pupr3/scalajsreact_with_azure_ad_authentication/)
 - [AKKA HTTP one rout with multiple paths](https://www.reddit.com/r/scala/comments/10pfnwz/akka_http_one_rout_with_multiple_paths/)
-- [Is There A Benefit Of Using try/finally This Way](https://www.reddit.com/r/scala/comments/10p6a4m/is_there_a_benefit_of_using_tryfinally_this_way/)
-- [Sbt painfully slow to create a new project](https://www.reddit.com/r/scala/comments/10or8i7/sbt_painfully_slow_to_create_a_new_project/)
-- [Help a Kotlin convert back into Scala world](https://www.reddit.com/r/scala/comments/10ojwia/help_a_kotlin_convert_back_into_scala_world/)
-- [This week in #Scala &lpar;Jan 30, 2023&rpar;](https://www.reddit.com/r/scala/comments/10oj710/this_week_in_scala_jan_30_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

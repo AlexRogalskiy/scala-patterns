@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Prototype Loom-based concurrency API for Scala](https://www.reddit.com/r/scala/comments/10sldbh/prototype_loombased_concurrency_api_for_scala/)
+- [Contextual abstractions](https://www.reddit.com/r/scala/comments/10sjmms/contextual_abstractions/)
+- [Turbolift: Algebraic Effects for Scala 3](https://www.reddit.com/r/scala/comments/10sfqtn/turbolift_algebraic_effects_for_scala_3/)
+- [Only few visa/relocation support jobs in LinkedIn, where to search?](https://www.reddit.com/r/scala/comments/10s8ijt/only_few_visarelocation_support_jobs_in_linkedin/)
 - [Announcing ZIO Elasticsearch](https://www.reddit.com/r/scala/comments/10s3563/announcing_zio_elasticsearch/)
 - [MacBook M2 for Scala?](https://www.reddit.com/r/scala/comments/10rsq2p/macbook_m2_for_scala/)
 - [&quot;Peeking Inside the Engine of ZIO SQL&quot; by Jaroslav Regec](https://www.reddit.com/r/scala/comments/10rodxt/peeking_inside_the_engine_of_zio_sql_by_jaroslav/)
 - [2023 will be when browsers will support GC-based languages in production. Both GC and Exception Handling are already available to various degrees. Being an early adopter could boost Scala&#39;s adoption by being one of the first but also the best language in the browser!](https://www.reddit.com/r/scala/comments/10rjoh1/2023_will_be_when_browsers_will_support_gcbased/)
 - [Announcing ReactToBindingHtml.scala: adapters for React / Binding.scala / html.scala interoperability](https://www.reddit.com/r/scala/comments/10r3k0e/announcing_reacttobindinghtmlscala_adapters_for/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/10qzpo2/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [Announcing the first release of ZIO OpenAI](https://www.reddit.com/r/scala/comments/10qulw5/announcing_the_first_release_of_zio_openai/)
-- [GC support in WebAssembly in V8 &lpar;Chrome&rpar; is available in developer previews. This brings support for GC based languages such as Scala.](https://www.reddit.com/r/scala/comments/10qrop2/gc_support_in_webassembly_in_v8_chrome_is/)
-- [Scala Ascension](https://www.reddit.com/r/scala/comments/10qgd5l/scala_ascension/)
-- [Variance in Cons](https://www.reddit.com/r/scala/comments/10qcivw/variance_in_cons/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

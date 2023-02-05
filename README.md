@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Foldable y Traverse parte 7](https://www.reddit.com/r/scala/comments/10tniaq/foldable_y_traverse_parte_7/)
+- [Foldable y Traverse parte 6](https://www.reddit.com/r/scala/comments/10tna7d/foldable_y_traverse_parte_6/)
+- [Announcing Ultraviolet: WebGL shaders in Scala 3](https://www.reddit.com/r/scala/comments/10td9hu/announcing_ultraviolet_webgl_shaders_in_scala_3/)
 - [Prototype Loom-based concurrency API for Scala](https://www.reddit.com/r/scala/comments/10sldbh/prototype_loombased_concurrency_api_for_scala/)
 - [Contextual abstractions](https://www.reddit.com/r/scala/comments/10sjmms/contextual_abstractions/)
 - [Turbolift: Algebraic Effects for Scala 3](https://www.reddit.com/r/scala/comments/10sfqtn/turbolift_algebraic_effects_for_scala_3/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Announcing ZIO Elasticsearch](https://www.reddit.com/r/scala/comments/10s3563/announcing_zio_elasticsearch/)
 - [MacBook M2 for Scala?](https://www.reddit.com/r/scala/comments/10rsq2p/macbook_m2_for_scala/)
 - [&quot;Peeking Inside the Engine of ZIO SQL&quot; by Jaroslav Regec](https://www.reddit.com/r/scala/comments/10rodxt/peeking_inside_the_engine_of_zio_sql_by_jaroslav/)
-- [2023 will be when browsers will support GC-based languages in production. Both GC and Exception Handling are already available to various degrees. Being an early adopter could boost Scala&#39;s adoption by being one of the first but also the best language in the browser!](https://www.reddit.com/r/scala/comments/10rjoh1/2023_will_be_when_browsers_will_support_gcbased/)
-- [Announcing ReactToBindingHtml.scala: adapters for React / Binding.scala / html.scala interoperability](https://www.reddit.com/r/scala/comments/10r3k0e/announcing_reacttobindinghtmlscala_adapters_for/)
-- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/10qzpo2/who_is_hiring_monthly_rscala_job_postings_thread/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

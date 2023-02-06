@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is scala right for my needs ?](https://www.reddit.com/r/scala/comments/10ur2rj/is_scala_right_for_my_needs/)
+- [Pretty Markdown rendering in the Terminal with Glow! &lpar;3mn&rpar;](https://www.reddit.com/r/scala/comments/10uqzmu/pretty_markdown_rendering_in_the_terminal_with/)
+- [Good personal projects for a Scala portfolio.](https://www.reddit.com/r/scala/comments/10uo94j/good_personal_projects_for_a_scala_portfolio/)
+- [This week in #Scala &lpar;Feb 6, 2023&rpar;](https://www.reddit.com/r/scala/comments/10umeah/this_week_in_scala_feb_6_2023/)
+- [How would you hot reload UI on Scala?](https://www.reddit.com/r/scala/comments/10uccp0/how_would_you_hot_reload_ui_on_scala/)
+- [10 years of Scala.js](https://www.reddit.com/r/scala/comments/10u89zh/10_years_of_scalajs/)
+- [Introducing kinesis4cats, your comprehensive Scala experience towards developing Kinesis applications](https://www.reddit.com/r/scala/comments/10u2kfo/introducing_kinesis4cats_your_comprehensive_scala/)
 - [Foldable y Traverse parte 7](https://www.reddit.com/r/scala/comments/10tniaq/foldable_y_traverse_parte_7/)
 - [Foldable y Traverse parte 6](https://www.reddit.com/r/scala/comments/10tna7d/foldable_y_traverse_parte_6/)
 - [Announcing Ultraviolet: WebGL shaders in Scala 3](https://www.reddit.com/r/scala/comments/10td9hu/announcing_ultraviolet_webgl_shaders_in_scala_3/)
-- [Prototype Loom-based concurrency API for Scala](https://www.reddit.com/r/scala/comments/10sldbh/prototype_loombased_concurrency_api_for_scala/)
-- [Contextual abstractions](https://www.reddit.com/r/scala/comments/10sjmms/contextual_abstractions/)
-- [Turbolift: Algebraic Effects for Scala 3](https://www.reddit.com/r/scala/comments/10sfqtn/turbolift_algebraic_effects_for_scala_3/)
-- [Only few visa/relocation support jobs in LinkedIn, where to search?](https://www.reddit.com/r/scala/comments/10s8ijt/only_few_visarelocation_support_jobs_in_linkedin/)
-- [Announcing ZIO Elasticsearch](https://www.reddit.com/r/scala/comments/10s3563/announcing_zio_elasticsearch/)
-- [MacBook M2 for Scala?](https://www.reddit.com/r/scala/comments/10rsq2p/macbook_m2_for_scala/)
-- [&quot;Peeking Inside the Engine of ZIO SQL&quot; by Jaroslav Regec](https://www.reddit.com/r/scala/comments/10rodxt/peeking_inside_the_engine_of_zio_sql_by_jaroslav/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

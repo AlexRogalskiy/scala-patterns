@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Meta DSL open source using ScalaJS and onsen UI](https://www.reddit.com/r/scala/comments/10wkgwa/meta_dsl_open_source_using_scalajs_and_onsen_ui/)
+- [Revolutionize Your Data Processing with Deequ - The Ultimate Solution for Automated Data Quality Verification in Scala and Spark](https://www.reddit.com/r/scala/comments/10w6aqa/revolutionize_your_data_processing_with_deequ_the/)
 - [Scala Toolkit Update: Mascots, Tutorials, Versioning, and the release is near!](https://www.reddit.com/r/scala/comments/10vbaoh/scala_toolkit_update_mascots_tutorials_versioning/)
 - [Build your apps on top of the shoulders of giants! 💪🏻](https://www.reddit.com/r/scala/comments/10v6fk6/build_your_apps_on_top_of_the_shoulders_of_giants/)
 - [Is &#39;Programming in Scala&#39; book readable from Kindle?](https://www.reddit.com/r/scala/comments/10v2om4/is_programming_in_scala_book_readable_from_kindle/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Good personal projects for a Scala portfolio.](https://www.reddit.com/r/scala/comments/10uo94j/good_personal_projects_for_a_scala_portfolio/)
 - [This week in #Scala &lpar;Feb 6, 2023&rpar;](https://www.reddit.com/r/scala/comments/10umeah/this_week_in_scala_feb_6_2023/)
 - [How would you hot reload UI on Scala?](https://www.reddit.com/r/scala/comments/10uccp0/how_would_you_hot_reload_ui_on_scala/)
-- [10 years of Scala.js](https://www.reddit.com/r/scala/comments/10u89zh/10_years_of_scalajs/)
-- [Introducing kinesis4cats, your comprehensive Scala experience towards developing Kinesis applications](https://www.reddit.com/r/scala/comments/10u2kfo/introducing_kinesis4cats_your_comprehensive_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

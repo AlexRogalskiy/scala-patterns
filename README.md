@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The digital transformation of Santa’s logistical nightmare - Part 4 http4s](https://www.reddit.com/r/scala/comments/10ws9hn/the_digital_transformation_of_santas_logistical/)
 - [Meta DSL open source using ScalaJS and onsen UI](https://www.reddit.com/r/scala/comments/10wkgwa/meta_dsl_open_source_using_scalajs_and_onsen_ui/)
 - [Revolutionize Your Data Processing with Deequ - The Ultimate Solution for Automated Data Quality Verification in Scala and Spark](https://www.reddit.com/r/scala/comments/10w6aqa/revolutionize_your_data_processing_with_deequ_the/)
 - [Scala Toolkit Update: Mascots, Tutorials, Versioning, and the release is near!](https://www.reddit.com/r/scala/comments/10vbaoh/scala_toolkit_update_mascots_tutorials_versioning/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Pretty Markdown rendering in the Terminal with Glow! &lpar;3mn&rpar;](https://www.reddit.com/r/scala/comments/10uqzmu/pretty_markdown_rendering_in_the_terminal_with/)
 - [Good personal projects for a Scala portfolio.](https://www.reddit.com/r/scala/comments/10uo94j/good_personal_projects_for_a_scala_portfolio/)
 - [This week in #Scala &lpar;Feb 6, 2023&rpar;](https://www.reddit.com/r/scala/comments/10umeah/this_week_in_scala_feb_6_2023/)
-- [How would you hot reload UI on Scala?](https://www.reddit.com/r/scala/comments/10uccp0/how_would_you_hot_reload_ui_on_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

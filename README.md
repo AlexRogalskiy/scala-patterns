@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Provide Zio Cache to ZIO http app](https://www.reddit.com/r/scala/comments/10y2ee0/provide_zio_cache_to_zio_http_app/)
+- [Which tutorial to learn functional programming without going in depth ?](https://www.reddit.com/r/scala/comments/10xzbje/which_tutorial_to_learn_functional_programming/)
 - [The digital transformation of Santa’s logistical nightmare - Part 4 http4s](https://www.reddit.com/r/scala/comments/10ws9hn/the_digital_transformation_of_santas_logistical/)
 - [Meta DSL open source using ScalaJS and onsen UI](https://www.reddit.com/r/scala/comments/10wkgwa/meta_dsl_open_source_using_scalajs_and_onsen_ui/)
 - [Revolutionize Your Data Processing with Deequ - The Ultimate Solution for Automated Data Quality Verification in Scala and Spark](https://www.reddit.com/r/scala/comments/10w6aqa/revolutionize_your_data_processing_with_deequ_the/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Is &#39;Programming in Scala&#39; book readable from Kindle?](https://www.reddit.com/r/scala/comments/10v2om4/is_programming_in_scala_book_readable_from_kindle/)
 - [Is scala right for my needs ?](https://www.reddit.com/r/scala/comments/10ur2rj/is_scala_right_for_my_needs/)
 - [Pretty Markdown rendering in the Terminal with Glow! &lpar;3mn&rpar;](https://www.reddit.com/r/scala/comments/10uqzmu/pretty_markdown_rendering_in_the_terminal_with/)
-- [Good personal projects for a Scala portfolio.](https://www.reddit.com/r/scala/comments/10uo94j/good_personal_projects_for_a_scala_portfolio/)
-- [This week in #Scala &lpar;Feb 6, 2023&rpar;](https://www.reddit.com/r/scala/comments/10umeah/this_week_in_scala_feb_6_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

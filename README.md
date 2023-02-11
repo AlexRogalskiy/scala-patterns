@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Release John Snow Labs Spark-NLP 4.3.0: New HuBERT for speech recognition, new Swin Transformer for Image Classification, new Zero-shot annotator for Entity Recognition, CamemBERT for question answering, new Databricks and EMR with support for Spark 3.3, 1000+ state-of-the-art models and many more!](https://www.reddit.com/r/scala/comments/10z0ux8/release_john_snow_labs_sparknlp_430_new_hubert/)
+- [Scala News](https://www.reddit.com/r/scala/comments/10yjerf/scala_news/)
 - [Provide Zio Cache to ZIO http app](https://www.reddit.com/r/scala/comments/10y2ee0/provide_zio_cache_to_zio_http_app/)
 - [Which tutorial to learn functional programming without going in depth ?](https://www.reddit.com/r/scala/comments/10xzbje/which_tutorial_to_learn_functional_programming/)
 - [The digital transformation of Santa’s logistical nightmare - Part 4 http4s](https://www.reddit.com/r/scala/comments/10ws9hn/the_digital_transformation_of_santas_logistical/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Toolkit Update: Mascots, Tutorials, Versioning, and the release is near!](https://www.reddit.com/r/scala/comments/10vbaoh/scala_toolkit_update_mascots_tutorials_versioning/)
 - [Build your apps on top of the shoulders of giants! 💪🏻](https://www.reddit.com/r/scala/comments/10v6fk6/build_your_apps_on_top_of_the_shoulders_of_giants/)
 - [Is &#39;Programming in Scala&#39; book readable from Kindle?](https://www.reddit.com/r/scala/comments/10v2om4/is_programming_in_scala_book_readable_from_kindle/)
-- [Is scala right for my needs ?](https://www.reddit.com/r/scala/comments/10ur2rj/is_scala_right_for_my_needs/)
-- [Pretty Markdown rendering in the Terminal with Glow! &lpar;3mn&rpar;](https://www.reddit.com/r/scala/comments/10uqzmu/pretty_markdown_rendering_in_the_terminal_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

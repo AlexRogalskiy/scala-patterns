@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Leetcode uses Scala 2?](https://www.reddit.com/r/scala/comments/110t0la/leetcode_uses_scala_2/)
+- [This week in #Scala &lpar;Feb 13, 2023&rpar;](https://www.reddit.com/r/scala/comments/110mnc7/this_week_in_scala_feb_13_2023/)
+- [scalaxb 1.9.1 released](https://www.reddit.com/r/scala/comments/1109jwj/scalaxb_191_released/)
+- [Jar Jar Abrams 1.8.2 and sbt-assembly 2.1.1 released](https://www.reddit.com/r/scala/comments/1109jdr/jar_jar_abrams_182_and_sbtassembly_211_released/)
 - [Getting started with scala: a bit lost](https://www.reddit.com/r/scala/comments/1101jl9/getting_started_with_scala_a_bit_lost/)
 - [Simple validator library](https://www.reddit.com/r/scala/comments/10zvlxy/simple_validator_library/)
 - [Release John Snow Labs Spark-NLP 4.3.0: New HuBERT for speech recognition, new Swin Transformer for Image Classification, new Zero-shot annotator for Entity Recognition, CamemBERT for question answering, new Databricks and EMR with support for Spark 3.3, 1000+ state-of-the-art models and many more!](https://www.reddit.com/r/scala/comments/10z0ux8/release_john_snow_labs_sparknlp_430_new_hubert/)
 - [Scala News](https://www.reddit.com/r/scala/comments/10yjerf/scala_news/)
 - [Provide Zio Cache to ZIO http app](https://www.reddit.com/r/scala/comments/10y2ee0/provide_zio_cache_to_zio_http_app/)
 - [Which tutorial to learn functional programming without going in depth ?](https://www.reddit.com/r/scala/comments/10xzbje/which_tutorial_to_learn_functional_programming/)
-- [The digital transformation of Santa’s logistical nightmare - Part 4 http4s](https://www.reddit.com/r/scala/comments/10ws9hn/the_digital_transformation_of_santas_logistical/)
-- [Meta DSL open source using ScalaJS and onsen UI](https://www.reddit.com/r/scala/comments/10wkgwa/meta_dsl_open_source_using_scalajs_and_onsen_ui/)
-- [Revolutionize Your Data Processing with Deequ - The Ultimate Solution for Automated Data Quality Verification in Scala and Spark](https://www.reddit.com/r/scala/comments/10w6aqa/revolutionize_your_data_processing_with_deequ_the/)
-- [Scala Toolkit Update: Mascots, Tutorials, Versioning, and the release is near!](https://www.reddit.com/r/scala/comments/10vbaoh/scala_toolkit_update_mascots_tutorials_versioning/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

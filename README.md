@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Server Stack Options for Scala](https://www.reddit.com/r/scala/comments/111npfe/server_stack_options_for_scala/)
 - [Leetcode uses Scala 2?](https://www.reddit.com/r/scala/comments/110t0la/leetcode_uses_scala_2/)
 - [This week in #Scala &lpar;Feb 13, 2023&rpar;](https://www.reddit.com/r/scala/comments/110mnc7/this_week_in_scala_feb_13_2023/)
 - [scalaxb 1.9.1 released](https://www.reddit.com/r/scala/comments/1109jwj/scalaxb_191_released/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Release John Snow Labs Spark-NLP 4.3.0: New HuBERT for speech recognition, new Swin Transformer for Image Classification, new Zero-shot annotator for Entity Recognition, CamemBERT for question answering, new Databricks and EMR with support for Spark 3.3, 1000+ state-of-the-art models and many more!](https://www.reddit.com/r/scala/comments/10z0ux8/release_john_snow_labs_sparknlp_430_new_hubert/)
 - [Scala News](https://www.reddit.com/r/scala/comments/10yjerf/scala_news/)
 - [Provide Zio Cache to ZIO http app](https://www.reddit.com/r/scala/comments/10y2ee0/provide_zio_cache_to_zio_http_app/)
-- [Which tutorial to learn functional programming without going in depth ?](https://www.reddit.com/r/scala/comments/10xzbje/which_tutorial_to_learn_functional_programming/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

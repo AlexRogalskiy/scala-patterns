@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What do you guys use for password hashing?](https://www.reddit.com/r/scala/comments/113cvfj/what_do_you_guys_use_for_password_hashing/)
+- [Introduction to Bazel for Scala developers](https://www.reddit.com/r/scala/comments/112utwx/introduction_to_bazel_for_scala_developers/)
 - [Code coverage reporting incorrect in InteliJ, is there a solution that can determine code coverage correctly for Scala?](https://www.reddit.com/r/scala/comments/112d85c/code_coverage_reporting_incorrect_in_intelij_is/)
 - [The Streaming Future by Adam Fraser at Functional Scala 2022](https://www.reddit.com/r/scala/comments/1126ohf/the_streaming_future_by_adam_fraser_at_functional/)
 - [Akka Streams, Actor Integration and Custom Components](https://www.reddit.com/r/scala/comments/1122282/akka_streams_actor_integration_and_custom/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Server Stack Options for Scala](https://www.reddit.com/r/scala/comments/111npfe/server_stack_options_for_scala/)
 - [Leetcode uses Scala 2?](https://www.reddit.com/r/scala/comments/110t0la/leetcode_uses_scala_2/)
 - [This week in #Scala &lpar;Feb 13, 2023&rpar;](https://www.reddit.com/r/scala/comments/110mnc7/this_week_in_scala_feb_13_2023/)
-- [scalaxb 1.9.1 released](https://www.reddit.com/r/scala/comments/1109jwj/scalaxb_191_released/)
-- [Jar Jar Abrams 1.8.2 and sbt-assembly 2.1.1 released](https://www.reddit.com/r/scala/comments/1109jdr/jar_jar_abrams_182_and_sbtassembly_211_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What are the best complimentary languages to learn alongside Scala?](https://www.reddit.com/r/scala/comments/114qwia/what_are_the_best_complimentary_languages_to/)
+- [Coming soon: Scala 2.13.11 and 2.12.18, with JDK 20 and Scala 3.3 support](https://www.reddit.com/r/scala/comments/114902w/coming_soon_scala_21311_and_21218_with_jdk_20_and/)
 - [The Great Concurrency Smackdown: ZIO versus JDK by John A. De Goes](https://www.reddit.com/r/scala/comments/113vixw/the_great_concurrency_smackdown_zio_versus_jdk_by/)
 - [Functional World #7](https://www.reddit.com/r/scala/comments/113rm16/functional_world_7/)
 - [Scala, annotations and reflection / macros](https://www.reddit.com/r/scala/comments/113qqzo/scala_annotations_and_reflection_macros/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Introduction to Bazel for Scala developers](https://www.reddit.com/r/scala/comments/112utwx/introduction_to_bazel_for_scala_developers/)
 - [Code coverage reporting incorrect in InteliJ, is there a solution that can determine code coverage correctly for Scala?](https://www.reddit.com/r/scala/comments/112d85c/code_coverage_reporting_incorrect_in_intelij_is/)
 - [The Streaming Future by Adam Fraser at Functional Scala 2022](https://www.reddit.com/r/scala/comments/1126ohf/the_streaming_future_by_adam_fraser_at_functional/)
-- [Akka Streams, Actor Integration and Custom Components](https://www.reddit.com/r/scala/comments/1122282/akka_streams_actor_integration_and_custom/)
-- [Feeling a bit of doubt, career change?](https://www.reddit.com/r/scala/comments/111xgwz/feeling_a_bit_of_doubt_career_change/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

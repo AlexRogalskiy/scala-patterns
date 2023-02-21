@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Restrict uses of annotation in Scala](https://www.reddit.com/r/scala/comments/117m7m3/restrict_uses_of_annotation_in_scala/)
+- [Exploring Binary Search &lpar;in Scala&rpar;](https://www.reddit.com/r/scala/comments/1177c7k/exploring_binary_search_in_scala/)
 - [cross build anything with Bazel](https://www.reddit.com/r/scala/comments/116ol27/cross_build_anything_with_bazel/)
 - [This week in #Scala &lpar;Feb 20, 2023&rpar;](https://www.reddit.com/r/scala/comments/116h9v5/this_week_in_scala_feb_20_2023/)
 - [Using docker plugin with lima/podman to create a scala app container](https://www.reddit.com/r/scala/comments/1168pew/using_docker_plugin_with_limapodman_to_create_a/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Where can I get job as junior Scala dev? I have 7 month of commercial experience. I am based in Ukraine](https://www.reddit.com/r/scala/comments/115je4f/where_can_i_get_job_as_junior_scala_dev_i_have_7/)
 - [Force curly braces using scalafmt](https://www.reddit.com/r/scala/comments/115i5xc/force_curly_braces_using_scalafmt/)
 - [What are the best complimentary languages to learn alongside Scala?](https://www.reddit.com/r/scala/comments/114qwia/what_are_the_best_complimentary_languages_to/)
-- [Coming soon: Scala 2.13.11 and 2.12.18, with JDK 20 and Scala 3.3 support](https://www.reddit.com/r/scala/comments/114902w/coming_soon_scala_21311_and_21218_with_jdk_20_and/)
-- [The Great Concurrency Smackdown: ZIO versus JDK by John A. De Goes](https://www.reddit.com/r/scala/comments/113vixw/the_great_concurrency_smackdown_zio_versus_jdk_by/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

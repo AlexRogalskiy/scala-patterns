@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [scala 3 does not have :javap. Does anyone have any tips how to get around this.](https://www.reddit.com/r/scala/comments/1193iv2/scala_3_does_not_have_javap_does_anyone_have_any/)
+- [Starting with Scala](https://www.reddit.com/r/scala/comments/118vla9/starting_with_scala/)
+- [Scala CLI will soon be the new official runner for Scala!](https://www.reddit.com/r/scala/comments/118us5h/scala_cli_will_soon_be_the_new_official_runner/)
 - [An incomplete guide to Scala 3 macros and Multi-stage programming](https://www.reddit.com/r/scala/comments/118e4up/an_incomplete_guide_to_scala_3_macros_and/)
 - [Probar código asíncrono con cats](https://www.reddit.com/r/scala/comments/118dl7t/probar_código_asíncrono_con_cats/)
 - [Web Scraping with Scala](https://www.reddit.com/r/scala/comments/1185jrs/web_scraping_with_scala/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Restrict uses of annotation in Scala](https://www.reddit.com/r/scala/comments/117m7m3/restrict_uses_of_annotation_in_scala/)
 - [Exploring Binary Search &lpar;in Scala&rpar;](https://www.reddit.com/r/scala/comments/1177c7k/exploring_binary_search_in_scala/)
 - [cross build anything with Bazel](https://www.reddit.com/r/scala/comments/116ol27/cross_build_anything_with_bazel/)
-- [This week in #Scala &lpar;Feb 20, 2023&rpar;](https://www.reddit.com/r/scala/comments/116h9v5/this_week_in_scala_feb_20_2023/)
-- [Using docker plugin with lima/podman to create a scala app container](https://www.reddit.com/r/scala/comments/1168pew/using_docker_plugin_with_limapodman_to_create_a/)
-- [Parse slightly dirty, poorly escaped XML](https://www.reddit.com/r/scala/comments/1165uwz/parse_slightly_dirty_poorly_escaped_xml/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

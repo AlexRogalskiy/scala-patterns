@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What are some of the Scala Conferences you look forward to 2023?](https://www.reddit.com/r/scala/comments/11a5v4b/what_are_some_of_the_scala_conferences_you_look/)
+- [Hey, I am new to coding/programming I wanna Learn Scala to get a job. But I have no experience. I know a little bit of Python, Swift and HTML. Can you guys guide me from where to start to my journey to Learn Scala? Also which to Learn Scala 2 or Scala 3](https://www.reddit.com/r/scala/comments/119z1dr/hey_i_am_new_to_codingprogramming_i_wanna_learn/)
+- [Scala CLI v0.2.0 is out](https://www.reddit.com/r/scala/comments/119tge3/scala_cli_v020_is_out/)
+- [How to combine two HttpService in http4s 0.15.16](https://www.reddit.com/r/scala/comments/119rnxb/how_to_combine_two_httpservice_in_http4s_01516/)
 - [scala 3 does not have :javap. Does anyone have any tips how to get around this.](https://www.reddit.com/r/scala/comments/1193iv2/scala_3_does_not_have_javap_does_anyone_have_any/)
 - [Starting with Scala](https://www.reddit.com/r/scala/comments/118vla9/starting_with_scala/)
 - [Scala CLI will soon be the new official runner for Scala!](https://www.reddit.com/r/scala/comments/118us5h/scala_cli_will_soon_be_the_new_official_runner/)
 - [An incomplete guide to Scala 3 macros and Multi-stage programming](https://www.reddit.com/r/scala/comments/118e4up/an_incomplete_guide_to_scala_3_macros_and/)
 - [Probar código asíncrono con cats](https://www.reddit.com/r/scala/comments/118dl7t/probar_código_asíncrono_con_cats/)
 - [Web Scraping with Scala](https://www.reddit.com/r/scala/comments/1185jrs/web_scraping_with_scala/)
-- [what library/framework should I use for backend development?](https://www.reddit.com/r/scala/comments/117xtg5/what_libraryframework_should_i_use_for_backend/)
-- [Restrict uses of annotation in Scala](https://www.reddit.com/r/scala/comments/117m7m3/restrict_uses_of_annotation_in_scala/)
-- [Exploring Binary Search &lpar;in Scala&rpar;](https://www.reddit.com/r/scala/comments/1177c7k/exploring_binary_search_in_scala/)
-- [cross build anything with Bazel](https://www.reddit.com/r/scala/comments/116ol27/cross_build_anything_with_bazel/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Functional messaging with pass4s - getting started](https://www.reddit.com/r/scala/comments/11bprko/functional_messaging_with_pass4s_getting_started/)
 - [Chimney 0.7.0 released](https://www.reddit.com/r/scala/comments/11b4ly0/chimney_070_released/)
 - [How to apply same parameter in multiple places in SQL in slick](https://www.reddit.com/r/scala/comments/11atcd7/how_to_apply_same_parameter_in_multiple_places_in/)
 - [What are some of the Scala Conferences you look forward to 2023?](https://www.reddit.com/r/scala/comments/11a5v4b/what_are_some_of_the_scala_conferences_you_look/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [scala 3 does not have :javap. Does anyone have any tips how to get around this.](https://www.reddit.com/r/scala/comments/1193iv2/scala_3_does_not_have_javap_does_anyone_have_any/)
 - [Starting with Scala](https://www.reddit.com/r/scala/comments/118vla9/starting_with_scala/)
 - [Scala CLI will soon be the new official runner for Scala!](https://www.reddit.com/r/scala/comments/118us5h/scala_cli_will_soon_be_the_new_official_runner/)
-- [An incomplete guide to Scala 3 macros and Multi-stage programming](https://www.reddit.com/r/scala/comments/118e4up/an_incomplete_guide_to_scala_3_macros_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

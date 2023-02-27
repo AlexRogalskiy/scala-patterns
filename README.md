@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Type Products for ADTs, 2 questions](https://www.reddit.com/r/scala/comments/11cv6yi/type_products_for_adts_2_questions/)
+- [Any recommended design pattern resources?](https://www.reddit.com/r/scala/comments/11csqr9/any_recommended_design_pattern_resources/)
+- [This week in #Scala &lpar;Feb 27, 2023&rpar;](https://www.reddit.com/r/scala/comments/11cjzp0/this_week_in_scala_feb_27_2023/)
+- [about using scala native](https://www.reddit.com/r/scala/comments/11c3kk4/about_using_scala_native/)
 - [Functional messaging with pass4s - getting started](https://www.reddit.com/r/scala/comments/11bprko/functional_messaging_with_pass4s_getting_started/)
 - [Chimney 0.7.0 released](https://www.reddit.com/r/scala/comments/11b4ly0/chimney_070_released/)
 - [How to apply same parameter in multiple places in SQL in slick](https://www.reddit.com/r/scala/comments/11atcd7/how_to_apply_same_parameter_in_multiple_places_in/)
 - [What are some of the Scala Conferences you look forward to 2023?](https://www.reddit.com/r/scala/comments/11a5v4b/what_are_some_of_the_scala_conferences_you_look/)
 - [Hey, I am new to coding/programming I wanna Learn Scala to get a job. But I have no experience. I know a little bit of Python, Swift and HTML. Can you guys guide me from where to start to my journey to Learn Scala? Also which to Learn Scala 2 or Scala 3](https://www.reddit.com/r/scala/comments/119z1dr/hey_i_am_new_to_codingprogramming_i_wanna_learn/)
 - [Scala CLI v0.2.0 is out](https://www.reddit.com/r/scala/comments/119tge3/scala_cli_v020_is_out/)
-- [How to combine two HttpService in http4s 0.15.16](https://www.reddit.com/r/scala/comments/119rnxb/how_to_combine_two_httpservice_in_http4s_01516/)
-- [scala 3 does not have :javap. Does anyone have any tips how to get around this.](https://www.reddit.com/r/scala/comments/1193iv2/scala_3_does_not_have_javap_does_anyone_have_any/)
-- [Starting with Scala](https://www.reddit.com/r/scala/comments/118vla9/starting_with_scala/)
-- [Scala CLI will soon be the new official runner for Scala!](https://www.reddit.com/r/scala/comments/118us5h/scala_cli_will_soon_be_the_new_official_runner/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

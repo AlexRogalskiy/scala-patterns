@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [JSON and XML messaging with pass4s](https://www.reddit.com/r/scala/comments/11dmljx/json_and_xml_messaging_with_pass4s/)
+- [What certificate would help with getting a scala job?](https://www.reddit.com/r/scala/comments/11djyq3/what_certificate_would_help_with_getting_a_scala/)
+- [10% OFF for Scala 3 Metaprogramming &lpar;ALL-NEW&rpar; Course by John A. De Goes](https://www.reddit.com/r/scala/comments/11dil2j/10_off_for_scala_3_metaprogramming_allnew_course/)
+- [fs2-kafka introduction: lib for ADT-events, idempotent writes and batches of offsets](https://www.reddit.com/r/scala/comments/11dd17a/fs2kafka_introduction_lib_for_adtevents/)
+- [Please try my JSON library](https://www.reddit.com/r/scala/comments/11dckzq/please_try_my_json_library/)
+- [VS Code Profile for Scala](https://www.reddit.com/r/scala/comments/11dc0e7/vs_code_profile_for_scala/)
+- [Scala collections benchmark - revisited](https://www.reddit.com/r/scala/comments/11d10ke/scala_collections_benchmark_revisited/)
 - [Type Products for ADTs, 2 questions](https://www.reddit.com/r/scala/comments/11cv6yi/type_products_for_adts_2_questions/)
 - [Any recommended design pattern resources?](https://www.reddit.com/r/scala/comments/11csqr9/any_recommended_design_pattern_resources/)
 - [This week in #Scala &lpar;Feb 27, 2023&rpar;](https://www.reddit.com/r/scala/comments/11cjzp0/this_week_in_scala_feb_27_2023/)
-- [about using scala native](https://www.reddit.com/r/scala/comments/11c3kk4/about_using_scala_native/)
-- [Functional messaging with pass4s - getting started](https://www.reddit.com/r/scala/comments/11bprko/functional_messaging_with_pass4s_getting_started/)
-- [Chimney 0.7.0 released](https://www.reddit.com/r/scala/comments/11b4ly0/chimney_070_released/)
-- [How to apply same parameter in multiple places in SQL in slick](https://www.reddit.com/r/scala/comments/11atcd7/how_to_apply_same_parameter_in_multiple_places_in/)
-- [What are some of the Scala Conferences you look forward to 2023?](https://www.reddit.com/r/scala/comments/11a5v4b/what_are_some_of_the_scala_conferences_you_look/)
-- [Hey, I am new to coding/programming I wanna Learn Scala to get a job. But I have no experience. I know a little bit of Python, Swift and HTML. Can you guys guide me from where to start to my journey to Learn Scala? Also which to Learn Scala 2 or Scala 3](https://www.reddit.com/r/scala/comments/119z1dr/hey_i_am_new_to_codingprogramming_i_wanna_learn/)
-- [Scala CLI v0.2.0 is out](https://www.reddit.com/r/scala/comments/119tge3/scala_cli_v020_is_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

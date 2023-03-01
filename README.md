@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ZIO 2 + Temporal.io platform sample application](https://www.reddit.com/r/scala/comments/11ek23y/zio_2_temporalio_platform_sample_application/)
+- [I failed as software engineer. What other careers I can try? Careers that are not related to software engineering and world of IT.](https://www.reddit.com/r/scala/comments/11e9u1g/i_failed_as_software_engineer_what_other_careers/)
+- [Cannot run Scalatra with Scala 3.2.2 and sbt 1.8.2](https://www.reddit.com/r/scala/comments/11e37sb/cannot_run_scalatra_with_scala_322_and_sbt_182/)
 - [JSON and XML messaging with pass4s](https://www.reddit.com/r/scala/comments/11dmljx/json_and_xml_messaging_with_pass4s/)
 - [What certificate would help with getting a scala job?](https://www.reddit.com/r/scala/comments/11djyq3/what_certificate_would_help_with_getting_a_scala/)
 - [10% OFF for Scala 3 Metaprogramming &lpar;ALL-NEW&rpar; Course by John A. De Goes](https://www.reddit.com/r/scala/comments/11dil2j/10_off_for_scala_3_metaprogramming_allnew_course/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Please try my JSON library](https://www.reddit.com/r/scala/comments/11dckzq/please_try_my_json_library/)
 - [VS Code Profile for Scala](https://www.reddit.com/r/scala/comments/11dc0e7/vs_code_profile_for_scala/)
 - [Scala collections benchmark - revisited](https://www.reddit.com/r/scala/comments/11d10ke/scala_collections_benchmark_revisited/)
-- [Type Products for ADTs, 2 questions](https://www.reddit.com/r/scala/comments/11cv6yi/type_products_for_adts_2_questions/)
-- [Any recommended design pattern resources?](https://www.reddit.com/r/scala/comments/11csqr9/any_recommended_design_pattern_resources/)
-- [This week in #Scala &lpar;Feb 27, 2023&rpar;](https://www.reddit.com/r/scala/comments/11cjzp0/this_week_in_scala_feb_27_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

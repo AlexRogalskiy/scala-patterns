@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I cannot make Scala run on VS Code - please help](https://www.reddit.com/r/scala/comments/11fj8bo/i_cannot_make_scala_run_on_vs_code_please_help/)
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/11f8ywa/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [Veautiful and Doctacular 0.3.0 released to Maven Central](https://www.reddit.com/r/scala/comments/11esb3l/veautiful_and_doctacular_030_released_to_maven/)
 - [ZIO 2 + Temporal.io platform sample application](https://www.reddit.com/r/scala/comments/11ek23y/zio_2_temporalio_platform_sample_application/)
 - [I failed as software engineer. What other careers I can try? Careers that are not related to software engineering and world of IT.](https://www.reddit.com/r/scala/comments/11e9u1g/i_failed_as_software_engineer_what_other_careers/)
 - [Cannot run Scalatra with Scala 3.2.2 and sbt 1.8.2](https://www.reddit.com/r/scala/comments/11e37sb/cannot_run_scalatra_with_scala_322_and_sbt_182/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [What certificate would help with getting a scala job?](https://www.reddit.com/r/scala/comments/11djyq3/what_certificate_would_help_with_getting_a_scala/)
 - [10% OFF for Scala 3 Metaprogramming &lpar;ALL-NEW&rpar; Course by John A. De Goes](https://www.reddit.com/r/scala/comments/11dil2j/10_off_for_scala_3_metaprogramming_allnew_course/)
 - [fs2-kafka introduction: lib for ADT-events, idempotent writes and batches of offsets](https://www.reddit.com/r/scala/comments/11dd17a/fs2kafka_introduction_lib_for_adtevents/)
-- [Please try my JSON library](https://www.reddit.com/r/scala/comments/11dckzq/please_try_my_json_library/)
-- [VS Code Profile for Scala](https://www.reddit.com/r/scala/comments/11dc0e7/vs_code_profile_for_scala/)
-- [Scala collections benchmark - revisited](https://www.reddit.com/r/scala/comments/11d10ke/scala_collections_benchmark_revisited/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

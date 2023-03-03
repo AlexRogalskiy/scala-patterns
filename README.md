@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Design by contract - Preconditions and Postconditions - I&#39;m really amazed with Scala.](https://www.reddit.com/r/scala/comments/11g0l4m/design_by_contract_preconditions_and/)
+- [Scala vs Erlang](https://www.reddit.com/r/scala/comments/11fywof/scala_vs_erlang/)
+- [This company needs a Scala developer....](https://www.reddit.com/r/scala/comments/11fwa07/this_company_needs_a_scala_developer/)
 - [I cannot make Scala run on VS Code - please help](https://www.reddit.com/r/scala/comments/11fj8bo/i_cannot_make_scala_run_on_vs_code_please_help/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/11f8ywa/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Veautiful and Doctacular 0.3.0 released to Maven Central](https://www.reddit.com/r/scala/comments/11esb3l/veautiful_and_doctacular_030_released_to_maven/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [I failed as software engineer. What other careers I can try? Careers that are not related to software engineering and world of IT.](https://www.reddit.com/r/scala/comments/11e9u1g/i_failed_as_software_engineer_what_other_careers/)
 - [Cannot run Scalatra with Scala 3.2.2 and sbt 1.8.2](https://www.reddit.com/r/scala/comments/11e37sb/cannot_run_scalatra_with_scala_322_and_sbt_182/)
 - [JSON and XML messaging with pass4s](https://www.reddit.com/r/scala/comments/11dmljx/json_and_xml_messaging_with_pass4s/)
-- [What certificate would help with getting a scala job?](https://www.reddit.com/r/scala/comments/11djyq3/what_certificate_would_help_with_getting_a_scala/)
-- [10% OFF for Scala 3 Metaprogramming &lpar;ALL-NEW&rpar; Course by John A. De Goes](https://www.reddit.com/r/scala/comments/11dil2j/10_off_for_scala_3_metaprogramming_allnew_course/)
-- [fs2-kafka introduction: lib for ADT-events, idempotent writes and batches of offsets](https://www.reddit.com/r/scala/comments/11dd17a/fs2kafka_introduction_lib_for_adtevents/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

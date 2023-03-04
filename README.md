@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Faucet Friday - Post literally anything here and you&#39;ll get free MayoCoin.](https://www.reddit.com/r/scala/comments/11hj6uo/faucet_friday_post_literally_anything_here_and/)
+- [What makes a language OO + FP and what is the Killer App for Scala](https://www.reddit.com/r/scala/comments/11hglnq/what_makes_a_language_oo_fp_and_what_is_the/)
+- [Is it possible to mix two packages into one import like you can with objects?](https://www.reddit.com/r/scala/comments/11gyrkc/is_it_possible_to_mix_two_packages_into_one/)
+- [What is the current status of Akka in your organisation?](https://www.reddit.com/r/scala/comments/11gxocq/what_is_the_current_status_of_akka_in_your/)
+- [Using Scala to build a BFF?](https://www.reddit.com/r/scala/comments/11grazd/using_scala_to_build_a_bff/)
 - [Design by contract - Preconditions and Postconditions - I&#39;m really amazed with Scala.](https://www.reddit.com/r/scala/comments/11g0l4m/design_by_contract_preconditions_and/)
 - [Scala vs Erlang](https://www.reddit.com/r/scala/comments/11fywof/scala_vs_erlang/)
 - [This company needs a Scala developer....](https://www.reddit.com/r/scala/comments/11fwa07/this_company_needs_a_scala_developer/)
 - [I cannot make Scala run on VS Code - please help](https://www.reddit.com/r/scala/comments/11fj8bo/i_cannot_make_scala_run_on_vs_code_please_help/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/11f8ywa/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [Veautiful and Doctacular 0.3.0 released to Maven Central](https://www.reddit.com/r/scala/comments/11esb3l/veautiful_and_doctacular_030_released_to_maven/)
-- [ZIO 2 + Temporal.io platform sample application](https://www.reddit.com/r/scala/comments/11ek23y/zio_2_temporalio_platform_sample_application/)
-- [I failed as software engineer. What other careers I can try? Careers that are not related to software engineering and world of IT.](https://www.reddit.com/r/scala/comments/11e9u1g/i_failed_as_software_engineer_what_other_careers/)
-- [Cannot run Scalatra with Scala 3.2.2 and sbt 1.8.2](https://www.reddit.com/r/scala/comments/11e37sb/cannot_run_scalatra_with_scala_322_and_sbt_182/)
-- [JSON and XML messaging with pass4s](https://www.reddit.com/r/scala/comments/11dmljx/json_and_xml_messaging_with_pass4s/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

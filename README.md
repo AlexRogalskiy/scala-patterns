@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Proxy large messages via S3 with pass4s](https://www.reddit.com/r/scala/comments/11jd30h/proxy_large_messages_via_s3_with_pass4s/)
+- [This week in #Scala &lpar;Mar 6, 2023&rpar;](https://www.reddit.com/r/scala/comments/11j7121/this_week_in_scala_mar_6_2023/)
+- [Is it a good idea to work in a pure scala role?](https://www.reddit.com/r/scala/comments/11ix6zq/is_it_a_good_idea_to_work_in_a_pure_scala_role/)
 - [Why are FP devs obsessed with Referential Transparency?](https://www.reddit.com/r/scala/comments/11igold/why_are_fp_devs_obsessed_with_referential/)
 - [Need suggestions to learn scala , For a beginner coming from java background](https://www.reddit.com/r/scala/comments/11hqslw/need_suggestions_to_learn_scala_for_a_beginner/)
 - [Help me understand about effects](https://www.reddit.com/r/scala/comments/11hopt1/help_me_understand_about_effects/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Is it possible to mix two packages into one import like you can with objects?](https://www.reddit.com/r/scala/comments/11gyrkc/is_it_possible_to_mix_two_packages_into_one/)
 - [What is the current status of Akka in your organisation?](https://www.reddit.com/r/scala/comments/11gxocq/what_is_the_current_status_of_akka_in_your/)
 - [Using Scala to build a BFF?](https://www.reddit.com/r/scala/comments/11grazd/using_scala_to_build_a_bff/)
-- [Design by contract - Preconditions and Postconditions - I&#39;m really amazed with Scala.](https://www.reddit.com/r/scala/comments/11g0l4m/design_by_contract_preconditions_and/)
-- [Scala vs Erlang](https://www.reddit.com/r/scala/comments/11fywof/scala_vs_erlang/)
-- [This company needs a Scala developer....](https://www.reddit.com/r/scala/comments/11fwa07/this_company_needs_a_scala_developer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

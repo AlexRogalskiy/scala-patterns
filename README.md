@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Center 5 Year Impact Report](https://www.reddit.com/r/scala/comments/11lbi2j/scala_center_5_year_impact_report/)
+- [What is scala&#39;s modern Web API framework?](https://www.reddit.com/r/scala/comments/11l16mw/what_is_scalas_modern_web_api_framework/)
 - [[Question] - Fix Auth middleware for http4s 0.16.6](https://www.reddit.com/r/scala/comments/11k24zd/question_fix_auth_middleware_for_http4s_0166/)
 - [Type-Level Programming in Scala: A Hardcore Tic-Tac-Toe](https://www.reddit.com/r/scala/comments/11jp8o3/typelevel_programming_in_scala_a_hardcore/)
 - [Proxy large messages via S3 with pass4s](https://www.reddit.com/r/scala/comments/11jd30h/proxy_large_messages_via_s3_with_pass4s/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Why are FP devs obsessed with Referential Transparency?](https://www.reddit.com/r/scala/comments/11igold/why_are_fp_devs_obsessed_with_referential/)
 - [Need suggestions to learn scala , For a beginner coming from java background](https://www.reddit.com/r/scala/comments/11hqslw/need_suggestions_to_learn_scala_for_a_beginner/)
 - [Help me understand about effects](https://www.reddit.com/r/scala/comments/11hopt1/help_me_understand_about_effects/)
-- [What makes a language OO + FP and what is the Killer App for Scala](https://www.reddit.com/r/scala/comments/11hglnq/what_makes_a_language_oo_fp_and_what_is_the/)
-- [Is it possible to mix two packages into one import like you can with objects?](https://www.reddit.com/r/scala/comments/11gyrkc/is_it_possible_to_mix_two_packages_into_one/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

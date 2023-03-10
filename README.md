@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I want to pursue a career in Scala but there is so much politics](https://www.reddit.com/r/scala/comments/11mz1hx/i_want_to_pursue_a_career_in_scala_but_there_is/)
+- [[E =&gt; *] Type](https://www.reddit.com/r/scala/comments/11mtc6g/e_type/)
+- [Zymposium - Reimplementing Magnolia: Exploring Scala 3&#39;s Compile-Time Features](https://www.reddit.com/r/scala/comments/11mom1x/zymposium_reimplementing_magnolia_exploring_scala/)
+- [Noob question, can I find a job with knowing Scala only?](https://www.reddit.com/r/scala/comments/11mh4s6/noob_question_can_i_find_a_job_with_knowing_scala/)
 - [Why Scala? YouTube video suggestion](https://www.reddit.com/r/scala/comments/11m9e25/why_scala_youtube_video_suggestion/)
 - [[Dotty] How do we get type metadata?](https://www.reddit.com/r/scala/comments/11m0rwl/dotty_how_do_we_get_type_metadata/)
 - [How to fix the issue?](https://www.reddit.com/r/scala/comments/11lr85s/how_to_fix_the_issue/)
 - [Scala Center 5 Year Impact Report](https://www.reddit.com/r/scala/comments/11lbi2j/scala_center_5_year_impact_report/)
 - [What is scala&#39;s modern Web API framework?](https://www.reddit.com/r/scala/comments/11l16mw/what_is_scalas_modern_web_api_framework/)
 - [[Question] - Fix Auth middleware for http4s 0.16.6](https://www.reddit.com/r/scala/comments/11k24zd/question_fix_auth_middleware_for_http4s_0166/)
-- [Type-Level Programming in Scala: A Hardcore Tic-Tac-Toe](https://www.reddit.com/r/scala/comments/11jp8o3/typelevel_programming_in_scala_a_hardcore/)
-- [Proxy large messages via S3 with pass4s](https://www.reddit.com/r/scala/comments/11jd30h/proxy_large_messages_via_s3_with_pass4s/)
-- [This week in #Scala &lpar;Mar 6, 2023&rpar;](https://www.reddit.com/r/scala/comments/11j7121/this_week_in_scala_mar_6_2023/)
-- [Is it a good idea to work in a pure scala role?](https://www.reddit.com/r/scala/comments/11ix6zq/is_it_a_good_idea_to_work_in_a_pure_scala_role/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

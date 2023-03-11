@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need a project idea for a data processing application](https://www.reddit.com/r/scala/comments/11nq5jw/need_a_project_idea_for_a_data_processing/)
+- [ScalaDays tickets are on sale!](https://www.reddit.com/r/scala/comments/11niohv/scaladays_tickets_are_on_sale/)
 - [I want to pursue a career in Scala but there is so much politics](https://www.reddit.com/r/scala/comments/11mz1hx/i_want_to_pursue_a_career_in_scala_but_there_is/)
 - [[E =&gt; *] Type](https://www.reddit.com/r/scala/comments/11mtc6g/e_type/)
 - [Zymposium - Reimplementing Magnolia: Exploring Scala 3&#39;s Compile-Time Features](https://www.reddit.com/r/scala/comments/11mom1x/zymposium_reimplementing_magnolia_exploring_scala/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [[Dotty] How do we get type metadata?](https://www.reddit.com/r/scala/comments/11m0rwl/dotty_how_do_we_get_type_metadata/)
 - [How to fix the issue?](https://www.reddit.com/r/scala/comments/11lr85s/how_to_fix_the_issue/)
 - [Scala Center 5 Year Impact Report](https://www.reddit.com/r/scala/comments/11lbi2j/scala_center_5_year_impact_report/)
-- [What is scala&#39;s modern Web API framework?](https://www.reddit.com/r/scala/comments/11l16mw/what_is_scalas_modern_web_api_framework/)
-- [[Question] - Fix Auth middleware for http4s 0.16.6](https://www.reddit.com/r/scala/comments/11k24zd/question_fix_auth_middleware_for_http4s_0166/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

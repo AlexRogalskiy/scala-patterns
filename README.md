@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does anyone know when an update for Zionomicon is expected?](https://www.reddit.com/r/scala/comments/11orb8a/does_anyone_know_when_an_update_for_zionomicon_is/)
+- [Ideal Java Container for Scala 2/3?](https://www.reddit.com/r/scala/comments/11onadx/ideal_java_container_for_scala_23/)
+- [Functional Event-Driven Architecture: paper copies are now available!](https://www.reddit.com/r/scala/comments/11oisfg/functional_eventdriven_architecture_paper_copies/)
+- [Android development.](https://www.reddit.com/r/scala/comments/11ob2sx/android_development/)
 - [Need a project idea for a data processing application](https://www.reddit.com/r/scala/comments/11nq5jw/need_a_project_idea_for_a_data_processing/)
 - [ScalaDays tickets are on sale!](https://www.reddit.com/r/scala/comments/11niohv/scaladays_tickets_are_on_sale/)
 - [I want to pursue a career in Scala but there is so much politics](https://www.reddit.com/r/scala/comments/11mz1hx/i_want_to_pursue_a_career_in_scala_but_there_is/)
 - [[E =&gt; *] Type](https://www.reddit.com/r/scala/comments/11mtc6g/e_type/)
 - [Zymposium - Reimplementing Magnolia: Exploring Scala 3&#39;s Compile-Time Features](https://www.reddit.com/r/scala/comments/11mom1x/zymposium_reimplementing_magnolia_exploring_scala/)
 - [Noob question, can I find a job with knowing Scala only?](https://www.reddit.com/r/scala/comments/11mh4s6/noob_question_can_i_find_a_job_with_knowing_scala/)
-- [Why Scala? YouTube video suggestion](https://www.reddit.com/r/scala/comments/11m9e25/why_scala_youtube_video_suggestion/)
-- [[Dotty] How do we get type metadata?](https://www.reddit.com/r/scala/comments/11m0rwl/dotty_how_do_we_get_type_metadata/)
-- [How to fix the issue?](https://www.reddit.com/r/scala/comments/11lr85s/how_to_fix_the_issue/)
-- [Scala Center 5 Year Impact Report](https://www.reddit.com/r/scala/comments/11lbi2j/scala_center_5_year_impact_report/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

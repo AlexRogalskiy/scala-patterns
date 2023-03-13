@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Mar 13, 2023&rpar;](https://www.reddit.com/r/scala/comments/11pisp2/this_week_in_scala_mar_13_2023/)
+- [uPickle 3.0.0 and Fastparse 3.0.0 are out, both with full support for Scala 3](https://www.reddit.com/r/scala/comments/11pewtv/upickle_300_and_fastparse_300_are_out_both_with/)
 - [Does anyone know when an update for Zionomicon is expected?](https://www.reddit.com/r/scala/comments/11orb8a/does_anyone_know_when_an_update_for_zionomicon_is/)
 - [Ideal Java Container for Scala 2/3?](https://www.reddit.com/r/scala/comments/11onadx/ideal_java_container_for_scala_23/)
 - [Functional Event-Driven Architecture: paper copies are now available!](https://www.reddit.com/r/scala/comments/11oisfg/functional_eventdriven_architecture_paper_copies/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ScalaDays tickets are on sale!](https://www.reddit.com/r/scala/comments/11niohv/scaladays_tickets_are_on_sale/)
 - [I want to pursue a career in Scala but there is so much politics](https://www.reddit.com/r/scala/comments/11mz1hx/i_want_to_pursue_a_career_in_scala_but_there_is/)
 - [[E =&gt; *] Type](https://www.reddit.com/r/scala/comments/11mtc6g/e_type/)
-- [Zymposium - Reimplementing Magnolia: Exploring Scala 3&#39;s Compile-Time Features](https://www.reddit.com/r/scala/comments/11mom1x/zymposium_reimplementing_magnolia_exploring_scala/)
-- [Noob question, can I find a job with knowing Scala only?](https://www.reddit.com/r/scala/comments/11mh4s6/noob_question_can_i_find_a_job_with_knowing_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does anyone have a cache library recommendation for scala?](https://www.reddit.com/r/scala/comments/11qmdog/does_anyone_have_a_cache_library_recommendation/)
+- [Writing a Data Transmogrification Macro From Scratch](https://www.reddit.com/r/scala/comments/11q8lan/writing_a_data_transmogrification_macro_from/)
+- [Zymposium - Reimplementing Magnolia: Exploring Scala 3&#39;s Compile-Time Features](https://www.reddit.com/r/scala/comments/11q72da/zymposium_reimplementing_magnolia_exploring_scala/)
+- [Reimplementing gnu utils with Scala Native](https://www.reddit.com/r/scala/comments/11q70eq/reimplementing_gnu_utils_with_scala_native/)
+- [Spring and scala](https://www.reddit.com/r/scala/comments/11q5z2w/spring_and_scala/)
+- [sbt 2.0 ideas](https://www.reddit.com/r/scala/comments/11q3rm8/sbt_20_ideas/)
+- [Vamos a implementar un framework de procesamiento paralelo simple con Cats parte 2](https://www.reddit.com/r/scala/comments/11q0joc/vamos_a_implementar_un_framework_de_procesamiento/)
+- [Vamos a implementar un framework de procesamiento paralelo simple con Cats](https://www.reddit.com/r/scala/comments/11q07d6/vamos_a_implementar_un_framework_de_procesamiento/)
 - [This week in #Scala &lpar;Mar 13, 2023&rpar;](https://www.reddit.com/r/scala/comments/11pisp2/this_week_in_scala_mar_13_2023/)
 - [uPickle 3.0.0 and Fastparse 3.0.0 are out, both with full support for Scala 3](https://www.reddit.com/r/scala/comments/11pewtv/upickle_300_and_fastparse_300_are_out_both_with/)
-- [Does anyone know when an update for Zionomicon is expected?](https://www.reddit.com/r/scala/comments/11orb8a/does_anyone_know_when_an_update_for_zionomicon_is/)
-- [Ideal Java Container for Scala 2/3?](https://www.reddit.com/r/scala/comments/11onadx/ideal_java_container_for_scala_23/)
-- [Functional Event-Driven Architecture: paper copies are now available!](https://www.reddit.com/r/scala/comments/11oisfg/functional_eventdriven_architecture_paper_copies/)
-- [Android development.](https://www.reddit.com/r/scala/comments/11ob2sx/android_development/)
-- [Need a project idea for a data processing application](https://www.reddit.com/r/scala/comments/11nq5jw/need_a_project_idea_for_a_data_processing/)
-- [ScalaDays tickets are on sale!](https://www.reddit.com/r/scala/comments/11niohv/scaladays_tickets_are_on_sale/)
-- [I want to pursue a career in Scala but there is so much politics](https://www.reddit.com/r/scala/comments/11mz1hx/i_want_to_pursue_a_career_in_scala_but_there_is/)
-- [[E =&gt; *] Type](https://www.reddit.com/r/scala/comments/11mtc6g/e_type/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

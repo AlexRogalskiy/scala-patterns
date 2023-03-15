@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Inviting students to participate on Google Summer of Code 2023](https://www.reddit.com/r/scala/comments/11ra0o0/inviting_students_to_participate_on_google_summer/)
+- [Enum serialization in Scala](https://www.reddit.com/r/scala/comments/11qzd5w/enum_serialization_in_scala/)
 - [Does anyone have a cache library recommendation for scala?](https://www.reddit.com/r/scala/comments/11qmdog/does_anyone_have_a_cache_library_recommendation/)
 - [Writing a Data Transmogrification Macro From Scratch](https://www.reddit.com/r/scala/comments/11q8lan/writing_a_data_transmogrification_macro_from/)
 - [Zymposium - Reimplementing Magnolia: Exploring Scala 3&#39;s Compile-Time Features](https://www.reddit.com/r/scala/comments/11q72da/zymposium_reimplementing_magnolia_exploring_scala/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt 2.0 ideas](https://www.reddit.com/r/scala/comments/11q3rm8/sbt_20_ideas/)
 - [Vamos a implementar un framework de procesamiento paralelo simple con Cats parte 2](https://www.reddit.com/r/scala/comments/11q0joc/vamos_a_implementar_un_framework_de_procesamiento/)
 - [Vamos a implementar un framework de procesamiento paralelo simple con Cats](https://www.reddit.com/r/scala/comments/11q07d6/vamos_a_implementar_un_framework_de_procesamiento/)
-- [This week in #Scala &lpar;Mar 13, 2023&rpar;](https://www.reddit.com/r/scala/comments/11pisp2/this_week_in_scala_mar_13_2023/)
-- [uPickle 3.0.0 and Fastparse 3.0.0 are out, both with full support for Scala 3](https://www.reddit.com/r/scala/comments/11pewtv/upickle_300_and_fastparse_300_are_out_both_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

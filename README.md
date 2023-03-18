@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ARB Tokens Airdrop: Experience Arbitrum&#39;s Generosity! 03.17.2023](https://www.reddit.com/r/scala/comments/11u7tp5/arb_tokens_airdrop_experience_arbitrums/)
+- [Latest Scala News: March 17th, 2023 Edition](https://www.reddit.com/r/scala/comments/11tsofx/latest_scala_news_march_17th_2023_edition/)
+- [I&#39;ve started writing a book on Scala 3 Macros](https://www.reddit.com/r/scala/comments/11tqnns/ive_started_writing_a_book_on_scala_3_macros/)
 - [Inviting students to participate on Google Summer of Code 2023](https://www.reddit.com/r/scala/comments/11ra0o0/inviting_students_to_participate_on_google_summer/)
 - [Enum serialization in Scala](https://www.reddit.com/r/scala/comments/11qzd5w/enum_serialization_in_scala/)
 - [Does anyone have a cache library recommendation for scala?](https://www.reddit.com/r/scala/comments/11qmdog/does_anyone_have_a_cache_library_recommendation/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Zymposium - Reimplementing Magnolia: Exploring Scala 3&#39;s Compile-Time Features](https://www.reddit.com/r/scala/comments/11q72da/zymposium_reimplementing_magnolia_exploring_scala/)
 - [Reimplementing gnu utils with Scala Native](https://www.reddit.com/r/scala/comments/11q70eq/reimplementing_gnu_utils_with_scala_native/)
 - [Spring and scala](https://www.reddit.com/r/scala/comments/11q5z2w/spring_and_scala/)
-- [sbt 2.0 ideas](https://www.reddit.com/r/scala/comments/11q3rm8/sbt_20_ideas/)
-- [Vamos a implementar un framework de procesamiento paralelo simple con Cats parte 2](https://www.reddit.com/r/scala/comments/11q0joc/vamos_a_implementar_un_framework_de_procesamiento/)
-- [Vamos a implementar un framework de procesamiento paralelo simple con Cats](https://www.reddit.com/r/scala/comments/11q07d6/vamos_a_implementar_un_framework_de_procesamiento/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

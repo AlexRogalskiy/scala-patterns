@@ -271,7 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [ARB Tokens Airdrop: Experience Arbitrum&#39;s Generosity! 03.17.2023](https://www.reddit.com/r/scala/comments/11u7tp5/arb_tokens_airdrop_experience_arbitrums/)
+- [Udemy vs Rock the JVM for Cats, Cats Effect, and FS2](https://www.reddit.com/r/scala/comments/11v4872/udemy_vs_rock_the_jvm_for_cats_cats_effect_and_fs2/)
+- [sbt-nosbt: an sbt plugin to organize your build using plain Scala files](https://www.reddit.com/r/scala/comments/11uz9mp/sbtnosbt_an_sbt_plugin_to_organize_your_build/)
 - [Latest Scala News: March 17th, 2023 Edition](https://www.reddit.com/r/scala/comments/11tsofx/latest_scala_news_march_17th_2023_edition/)
 - [I&#39;ve started writing a book on Scala 3 Macros](https://www.reddit.com/r/scala/comments/11tqnns/ive_started_writing_a_book_on_scala_3_macros/)
 - [Inviting students to participate on Google Summer of Code 2023](https://www.reddit.com/r/scala/comments/11ra0o0/inviting_students_to_participate_on_google_summer/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Writing a Data Transmogrification Macro From Scratch](https://www.reddit.com/r/scala/comments/11q8lan/writing_a_data_transmogrification_macro_from/)
 - [Zymposium - Reimplementing Magnolia: Exploring Scala 3&#39;s Compile-Time Features](https://www.reddit.com/r/scala/comments/11q72da/zymposium_reimplementing_magnolia_exploring_scala/)
 - [Reimplementing gnu utils with Scala Native](https://www.reddit.com/r/scala/comments/11q70eq/reimplementing_gnu_utils_with_scala_native/)
-- [Spring and scala](https://www.reddit.com/r/scala/comments/11q5z2w/spring_and_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

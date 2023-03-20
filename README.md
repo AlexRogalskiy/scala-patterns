@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [RFC-1: sbt cache ideas](https://www.reddit.com/r/scala/comments/11w4mt7/rfc1_sbt_cache_ideas/)
+- [Mirror Magic ... help!?](https://www.reddit.com/r/scala/comments/11vzbtk/mirror_magic_help/)
+- [Blog post for Scala beginners](https://www.reddit.com/r/scala/comments/11vwd9l/blog_post_for_scala_beginners/)
+- [This week in #Scala &lpar;Mar 20, 2023&rpar;](https://www.reddit.com/r/scala/comments/11vt431/this_week_in_scala_mar_20_2023/)
+- [Functional Programming anti-patterns in Scala](https://www.reddit.com/r/scala/comments/11vngk4/functional_programming_antipatterns_in_scala/)
 - [Udemy vs Rock the JVM for Cats, Cats Effect, and FS2](https://www.reddit.com/r/scala/comments/11v4872/udemy_vs_rock_the_jvm_for_cats_cats_effect_and_fs2/)
 - [sbt-nosbt: an sbt plugin to organize your build using plain Scala files](https://www.reddit.com/r/scala/comments/11uz9mp/sbtnosbt_an_sbt_plugin_to_organize_your_build/)
 - [Latest Scala News: March 17th, 2023 Edition](https://www.reddit.com/r/scala/comments/11tsofx/latest_scala_news_march_17th_2023_edition/)
 - [I&#39;ve started writing a book on Scala 3 Macros](https://www.reddit.com/r/scala/comments/11tqnns/ive_started_writing_a_book_on_scala_3_macros/)
 - [Inviting students to participate on Google Summer of Code 2023](https://www.reddit.com/r/scala/comments/11ra0o0/inviting_students_to_participate_on_google_summer/)
-- [Enum serialization in Scala](https://www.reddit.com/r/scala/comments/11qzd5w/enum_serialization_in_scala/)
-- [Does anyone have a cache library recommendation for scala?](https://www.reddit.com/r/scala/comments/11qmdog/does_anyone_have_a_cache_library_recommendation/)
-- [Writing a Data Transmogrification Macro From Scratch](https://www.reddit.com/r/scala/comments/11q8lan/writing_a_data_transmogrification_macro_from/)
-- [Zymposium - Reimplementing Magnolia: Exploring Scala 3&#39;s Compile-Time Features](https://www.reddit.com/r/scala/comments/11q72da/zymposium_reimplementing_magnolia_exploring_scala/)
-- [Reimplementing gnu utils with Scala Native](https://www.reddit.com/r/scala/comments/11q70eq/reimplementing_gnu_utils_with_scala_native/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

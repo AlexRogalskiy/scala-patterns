@@ -271,7 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Arbitrum Airdrop: Be Part of the Next-Gen DeFi Movement](https://www.reddit.com/r/scala/comments/11wz6kk/arbitrum_airdrop_be_part_of_the_nextgen_defi/)
+- [Finally the debate between FP vs OOP is settled](https://www.reddit.com/r/scala/comments/11xnlai/finally_the_debate_between_fp_vs_oop_is_settled/)
+- [Functional Data Modeling in Scala](https://www.reddit.com/r/scala/comments/11xcrcu/functional_data_modeling_in_scala/)
+- [Scala 3 Full-Stack Project-Based Course from Rock the JVM](https://www.reddit.com/r/scala/comments/11xcavz/scala_3_fullstack_projectbased_course_from_rock/)
 - [I accidentally made a micro Scala Crash Course. I hope you like it!](https://www.reddit.com/r/scala/comments/11wgxth/i_accidentally_made_a_micro_scala_crash_course_i/)
 - [Zymposium - Implementing Generators and Property Based Testing](https://www.reddit.com/r/scala/comments/11wg58w/zymposium_implementing_generators_and_property/)
 - [Using Java annotation processor in Scala](https://www.reddit.com/r/scala/comments/11wb92z/using_java_annotation_processor_in_scala/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Mirror Magic ... help!?](https://www.reddit.com/r/scala/comments/11vzbtk/mirror_magic_help/)
 - [Blog post for Scala beginners](https://www.reddit.com/r/scala/comments/11vwd9l/blog_post_for_scala_beginners/)
 - [This week in #Scala &lpar;Mar 20, 2023&rpar;](https://www.reddit.com/r/scala/comments/11vt431/this_week_in_scala_mar_20_2023/)
-- [Functional Programming anti-patterns in Scala](https://www.reddit.com/r/scala/comments/11vngk4/functional_programming_antipatterns_in_scala/)
-- [Udemy vs Rock the JVM for Cats, Cats Effect, and FS2](https://www.reddit.com/r/scala/comments/11v4872/udemy_vs_rock_the_jvm_for_cats_cats_effect_and_fs2/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

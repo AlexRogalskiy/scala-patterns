@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Don&#39;t Shoot Yourself in Your Foot](https://www.reddit.com/r/scala/comments/11yv8ed/dont_shoot_yourself_in_your_foot/)
+- [scautable : Automagically generate html tables from case classes](https://www.reddit.com/r/scala/comments/11ylvk9/scautable_automagically_generate_html_tables_from/)
+- [Type-level tic tac toe using match types](https://www.reddit.com/r/scala/comments/11yjkpy/typelevel_tic_tac_toe_using_match_types/)
+- [Laminar 15.0.0 – huge release with many new features and Airstream improvements](https://www.reddit.com/r/scala/comments/11ydpgs/laminar_1500_huge_release_with_many_new_features/)
 - [Finally the debate between FP vs OOP is settled](https://www.reddit.com/r/scala/comments/11xnlai/finally_the_debate_between_fp_vs_oop_is_settled/)
 - [Functional Data Modeling in Scala](https://www.reddit.com/r/scala/comments/11xcrcu/functional_data_modeling_in_scala/)
 - [Scala 3 Full-Stack Project-Based Course from Rock the JVM](https://www.reddit.com/r/scala/comments/11xcavz/scala_3_fullstack_projectbased_course_from_rock/)
 - [I accidentally made a micro Scala Crash Course. I hope you like it!](https://www.reddit.com/r/scala/comments/11wgxth/i_accidentally_made_a_micro_scala_crash_course_i/)
 - [Zymposium - Implementing Generators and Property Based Testing](https://www.reddit.com/r/scala/comments/11wg58w/zymposium_implementing_generators_and_property/)
 - [Using Java annotation processor in Scala](https://www.reddit.com/r/scala/comments/11wb92z/using_java_annotation_processor_in_scala/)
-- [RFC-1: sbt cache ideas](https://www.reddit.com/r/scala/comments/11w4mt7/rfc1_sbt_cache_ideas/)
-- [Mirror Magic ... help!?](https://www.reddit.com/r/scala/comments/11vzbtk/mirror_magic_help/)
-- [Blog post for Scala beginners](https://www.reddit.com/r/scala/comments/11vwd9l/blog_post_for_scala_beginners/)
-- [This week in #Scala &lpar;Mar 20, 2023&rpar;](https://www.reddit.com/r/scala/comments/11vt431/this_week_in_scala_mar_20_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

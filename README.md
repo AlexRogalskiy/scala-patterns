@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [FP or OOP](https://www.reddit.com/r/scala/comments/1215jh7/fp_or_oop/)
+- [Please vote for Scala support in Jetbrains Fleet](https://www.reddit.com/r/scala/comments/120pnq8/please_vote_for_scala_support_in_jetbrains_fleet/)
+- [Zymposium - Crafting ChatGPT Plugin with ZIO - Join us today!](https://www.reddit.com/r/scala/comments/120lnde/zymposium_crafting_chatgpt_plugin_with_zio_join/)
 - [Is implicit conversion with implicit parameter considered a bad practice?](https://www.reddit.com/r/scala/comments/11zvlmf/is_implicit_conversion_with_implicit_parameter/)
 - [We switched from Scala 2 to Rust](https://www.reddit.com/r/scala/comments/11zh84o/we_switched_from_scala_2_to_rust/)
 - [Single swagger for multiple akka http microservices](https://www.reddit.com/r/scala/comments/11zfc9n/single_swagger_for_multiple_akka_http/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [scautable : Automagically generate html tables from case classes](https://www.reddit.com/r/scala/comments/11ylvk9/scautable_automagically_generate_html_tables_from/)
 - [Type-level tic tac toe using match types](https://www.reddit.com/r/scala/comments/11yjkpy/typelevel_tic_tac_toe_using_match_types/)
 - [Laminar 15.0.0 – huge release with many new features and Airstream improvements](https://www.reddit.com/r/scala/comments/11ydpgs/laminar_1500_huge_release_with_many_new_features/)
-- [Finally the debate between FP vs OOP is settled](https://www.reddit.com/r/scala/comments/11xnlai/finally_the_debate_between_fp_vs_oop_is_settled/)
-- [Functional Data Modeling in Scala](https://www.reddit.com/r/scala/comments/11xcrcu/functional_data_modeling_in_scala/)
-- [Scala 3 Full-Stack Project-Based Course from Rock the JVM](https://www.reddit.com/r/scala/comments/11xcavz/scala_3_fullstack_projectbased_course_from_rock/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

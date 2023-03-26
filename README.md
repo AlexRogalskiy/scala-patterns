@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What does direct-style Scala mean for Cats Effect and Zio?](https://www.reddit.com/r/scala/comments/121v0at/what_does_directstyle_scala_mean_for_cats_effect/)
+- [Experimenting with actors in ZIO](https://www.reddit.com/r/scala/comments/121b2pd/experimenting_with_actors_in_zio/)
 - [FP or OOP](https://www.reddit.com/r/scala/comments/1215jh7/fp_or_oop/)
 - [Please vote for Scala support in Jetbrains Fleet](https://www.reddit.com/r/scala/comments/120pnq8/please_vote_for_scala_support_in_jetbrains_fleet/)
 - [Zymposium - Crafting ChatGPT Plugin with ZIO - Join us today!](https://www.reddit.com/r/scala/comments/120lnde/zymposium_crafting_chatgpt_plugin_with_zio_join/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Single swagger for multiple akka http microservices](https://www.reddit.com/r/scala/comments/11zfc9n/single_swagger_for_multiple_akka_http/)
 - [Don&#39;t Shoot Yourself in Your Foot](https://www.reddit.com/r/scala/comments/11yv8ed/dont_shoot_yourself_in_your_foot/)
 - [scautable : Automagically generate html tables from case classes](https://www.reddit.com/r/scala/comments/11ylvk9/scautable_automagically_generate_html_tables_from/)
-- [Type-level tic tac toe using match types](https://www.reddit.com/r/scala/comments/11yjkpy/typelevel_tic_tac_toe_using_match_types/)
-- [Laminar 15.0.0 – huge release with many new features and Airstream improvements](https://www.reddit.com/r/scala/comments/11ydpgs/laminar_1500_huge_release_with_many_new_features/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

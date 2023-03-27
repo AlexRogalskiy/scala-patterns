@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Lila Scavenger Hunt: A scenic, guided tour of the Lichess.org codebase](https://www.reddit.com/r/scala/comments/1231dst/lila_scavenger_hunt_a_scenic_guided_tour_of_the/)
+- [This week in #Scala &lpar;Mar 27, 2023&rpar;](https://www.reddit.com/r/scala/comments/122pxdw/this_week_in_scala_mar_27_2023/)
+- [RFC-2: sbt 2.0 RFC process](https://www.reddit.com/r/scala/comments/12292rb/rfc2_sbt_20_rfc_process/)
 - [What does direct-style Scala mean for Cats Effect and Zio?](https://www.reddit.com/r/scala/comments/121v0at/what_does_directstyle_scala_mean_for_cats_effect/)
 - [Experimenting with actors in ZIO](https://www.reddit.com/r/scala/comments/121b2pd/experimenting_with_actors_in_zio/)
 - [FP or OOP](https://www.reddit.com/r/scala/comments/1215jh7/fp_or_oop/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Zymposium - Crafting ChatGPT Plugin with ZIO - Join us today!](https://www.reddit.com/r/scala/comments/120lnde/zymposium_crafting_chatgpt_plugin_with_zio_join/)
 - [Is implicit conversion with implicit parameter considered a bad practice?](https://www.reddit.com/r/scala/comments/11zvlmf/is_implicit_conversion_with_implicit_parameter/)
 - [We switched from Scala 2 to Rust](https://www.reddit.com/r/scala/comments/11zh84o/we_switched_from_scala_2_to_rust/)
-- [Single swagger for multiple akka http microservices](https://www.reddit.com/r/scala/comments/11zfc9n/single_swagger_for_multiple_akka_http/)
-- [Don&#39;t Shoot Yourself in Your Foot](https://www.reddit.com/r/scala/comments/11yv8ed/dont_shoot_yourself_in_your_foot/)
-- [scautable : Automagically generate html tables from case classes](https://www.reddit.com/r/scala/comments/11ylvk9/scautable_automagically_generate_html_tables_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

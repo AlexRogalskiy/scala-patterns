@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to write something will be out of bounds](https://www.reddit.com/r/scala/comments/12406t7/how_to_write_something_will_be_out_of_bounds/)
+- [Zymposium - Crafting ChatGPT Plugin with ZIO is online! 📺](https://www.reddit.com/r/scala/comments/123lu5l/zymposium_crafting_chatgpt_plugin_with_zio_is/)
 - [Lila Scavenger Hunt: A scenic, guided tour of the Lichess.org codebase](https://www.reddit.com/r/scala/comments/1231dst/lila_scavenger_hunt_a_scenic_guided_tour_of_the/)
 - [This week in #Scala &lpar;Mar 27, 2023&rpar;](https://www.reddit.com/r/scala/comments/122pxdw/this_week_in_scala_mar_27_2023/)
 - [RFC-2: sbt 2.0 RFC process](https://www.reddit.com/r/scala/comments/12292rb/rfc2_sbt_20_rfc_process/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [FP or OOP](https://www.reddit.com/r/scala/comments/1215jh7/fp_or_oop/)
 - [Please vote for Scala support in Jetbrains Fleet](https://www.reddit.com/r/scala/comments/120pnq8/please_vote_for_scala_support_in_jetbrains_fleet/)
 - [Zymposium - Crafting ChatGPT Plugin with ZIO - Join us today!](https://www.reddit.com/r/scala/comments/120lnde/zymposium_crafting_chatgpt_plugin_with_zio_join/)
-- [Is implicit conversion with implicit parameter considered a bad practice?](https://www.reddit.com/r/scala/comments/11zvlmf/is_implicit_conversion_with_implicit_parameter/)
-- [We switched from Scala 2 to Rust](https://www.reddit.com/r/scala/comments/11zh84o/we_switched_from_scala_2_to_rust/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

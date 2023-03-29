@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is the main area/focus of Scala? What kind of projects are necessary to demonstrate proficiency in this language?](https://www.reddit.com/r/scala/comments/1253xg1/what_is_the_main_areafocus_of_scala_what_kind_of/)
+- [Scala and chatgpt](https://www.reddit.com/r/scala/comments/124ocqh/scala_and_chatgpt/)
+- [Big news! LambdaConf returns Sept 16-19th and is better than ever! 🔥](https://www.reddit.com/r/scala/comments/124mmc2/big_news_lambdaconf_returns_sept_1619th_and_is/)
 - [How to write something will be out of bounds](https://www.reddit.com/r/scala/comments/12406t7/how_to_write_something_will_be_out_of_bounds/)
 - [Zymposium - Crafting ChatGPT Plugin with ZIO is online! 📺](https://www.reddit.com/r/scala/comments/123lu5l/zymposium_crafting_chatgpt_plugin_with_zio_is/)
 - [Lila Scavenger Hunt: A scenic, guided tour of the Lichess.org codebase](https://www.reddit.com/r/scala/comments/1231dst/lila_scavenger_hunt_a_scenic_guided_tour_of_the/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [RFC-2: sbt 2.0 RFC process](https://www.reddit.com/r/scala/comments/12292rb/rfc2_sbt_20_rfc_process/)
 - [What does direct-style Scala mean for Cats Effect and Zio?](https://www.reddit.com/r/scala/comments/121v0at/what_does_directstyle_scala_mean_for_cats_effect/)
 - [Experimenting with actors in ZIO](https://www.reddit.com/r/scala/comments/121b2pd/experimenting_with_actors_in_zio/)
-- [FP or OOP](https://www.reddit.com/r/scala/comments/1215jh7/fp_or_oop/)
-- [Please vote for Scala support in Jetbrains Fleet](https://www.reddit.com/r/scala/comments/120pnq8/please_vote_for_scala_support_in_jetbrains_fleet/)
-- [Zymposium - Crafting ChatGPT Plugin with ZIO - Join us today!](https://www.reddit.com/r/scala/comments/120lnde/zymposium_crafting_chatgpt_plugin_with_zio_join/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

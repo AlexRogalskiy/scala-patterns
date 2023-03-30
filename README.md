@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why does dotty depend on Scala 2?](https://www.reddit.com/r/scala/comments/125wg5b/why_does_dotty_depend_on_scala_2/)
+- [IntelliJ Scala Plugin 2023.1 Is Out!](https://www.reddit.com/r/scala/comments/125qzyq/intellij_scala_plugin_20231_is_out/)
+- [Cats Effect introduction for total newbies](https://www.reddit.com/r/scala/comments/125gt8c/cats_effect_introduction_for_total_newbies/)
 - [What is the main area/focus of Scala? What kind of projects are necessary to demonstrate proficiency in this language?](https://www.reddit.com/r/scala/comments/1253xg1/what_is_the_main_areafocus_of_scala_what_kind_of/)
 - [Scala and chatgpt](https://www.reddit.com/r/scala/comments/124ocqh/scala_and_chatgpt/)
 - [Big news! LambdaConf returns Sept 16-19th and is better than ever! 🔥](https://www.reddit.com/r/scala/comments/124mmc2/big_news_lambdaconf_returns_sept_1619th_and_is/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Zymposium - Crafting ChatGPT Plugin with ZIO is online! 📺](https://www.reddit.com/r/scala/comments/123lu5l/zymposium_crafting_chatgpt_plugin_with_zio_is/)
 - [Lila Scavenger Hunt: A scenic, guided tour of the Lichess.org codebase](https://www.reddit.com/r/scala/comments/1231dst/lila_scavenger_hunt_a_scenic_guided_tour_of_the/)
 - [This week in #Scala &lpar;Mar 27, 2023&rpar;](https://www.reddit.com/r/scala/comments/122pxdw/this_week_in_scala_mar_27_2023/)
-- [RFC-2: sbt 2.0 RFC process](https://www.reddit.com/r/scala/comments/12292rb/rfc2_sbt_20_rfc_process/)
-- [What does direct-style Scala mean for Cats Effect and Zio?](https://www.reddit.com/r/scala/comments/121v0at/what_does_directstyle_scala_mean_for_cats_effect/)
-- [Experimenting with actors in ZIO](https://www.reddit.com/r/scala/comments/121b2pd/experimenting_with_actors_in_zio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

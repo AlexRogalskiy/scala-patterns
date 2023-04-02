@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/128qh3j/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [Signals3 1.1.0 is out!](https://www.reddit.com/r/scala/comments/128ghnx/signals3_110_is_out/)
+- [Twitter&#39;s Recommendation Algorithm](https://www.reddit.com/r/scala/comments/128anh6/twitters_recommendation_algorithm/)
 - [Akka Streams GraphlDSL Confusion - Deadlock?](https://www.reddit.com/r/scala/comments/126rk7b/akka_streams_graphldsl_confusion_deadlock/)
 - [Returning Array after importing data from CSV](https://www.reddit.com/r/scala/comments/126ljny/returning_array_after_importing_data_from_csv/)
 - [Why does dotty depend on Scala 2?](https://www.reddit.com/r/scala/comments/125wg5b/why_does_dotty_depend_on_scala_2/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Cats Effect introduction for total newbies](https://www.reddit.com/r/scala/comments/125gt8c/cats_effect_introduction_for_total_newbies/)
 - [What is the main area/focus of Scala? What kind of projects are necessary to demonstrate proficiency in this language?](https://www.reddit.com/r/scala/comments/1253xg1/what_is_the_main_areafocus_of_scala_what_kind_of/)
 - [Scala and chatgpt](https://www.reddit.com/r/scala/comments/124ocqh/scala_and_chatgpt/)
-- [Big news! LambdaConf returns Sept 16-19th and is better than ever! 🔥](https://www.reddit.com/r/scala/comments/124mmc2/big_news_lambdaconf_returns_sept_1619th_and_is/)
-- [How to write something will be out of bounds](https://www.reddit.com/r/scala/comments/12406t7/how_to_write_something_will_be_out_of_bounds/)
-- [Zymposium - Crafting ChatGPT Plugin with ZIO is online! 📺](https://www.reddit.com/r/scala/comments/123lu5l/zymposium_crafting_chatgpt_plugin_with_zio_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

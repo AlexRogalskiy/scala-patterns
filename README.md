@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Library for batching requests](https://www.reddit.com/r/scala/comments/129qu0w/library_for_batching_requests/)
+- [This week in #Scala &lpar;Apr 3, 2023&rpar;](https://www.reddit.com/r/scala/comments/129np1r/this_week_in_scala_apr_3_2023/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/128qh3j/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Signals3 1.1.0 is out!](https://www.reddit.com/r/scala/comments/128ghnx/signals3_110_is_out/)
 - [Twitter&#39;s Recommendation Algorithm](https://www.reddit.com/r/scala/comments/128anh6/twitters_recommendation_algorithm/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Why does dotty depend on Scala 2?](https://www.reddit.com/r/scala/comments/125wg5b/why_does_dotty_depend_on_scala_2/)
 - [IntelliJ Scala Plugin 2023.1 Is Out!](https://www.reddit.com/r/scala/comments/125qzyq/intellij_scala_plugin_20231_is_out/)
 - [Cats Effect introduction for total newbies](https://www.reddit.com/r/scala/comments/125gt8c/cats_effect_introduction_for_total_newbies/)
-- [What is the main area/focus of Scala? What kind of projects are necessary to demonstrate proficiency in this language?](https://www.reddit.com/r/scala/comments/1253xg1/what_is_the_main_areafocus_of_scala_what_kind_of/)
-- [Scala and chatgpt](https://www.reddit.com/r/scala/comments/124ocqh/scala_and_chatgpt/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ORM in Scala](https://www.reddit.com/r/scala/comments/12aqusa/orm_in_scala/)
+- [I combined MUnit with Expecty. I hope you like it!](https://www.reddit.com/r/scala/comments/12albwz/i_combined_munit_with_expecty_i_hope_you_like_it/)
+- [Go-like channels using project Loom and Scala](https://www.reddit.com/r/scala/comments/12ajd88/golike_channels_using_project_loom_and_scala/)
+- [Functional Error Handling in Scala](https://www.reddit.com/r/scala/comments/12agds9/functional_error_handling_in_scala/)
 - [Library for batching requests](https://www.reddit.com/r/scala/comments/129qu0w/library_for_batching_requests/)
 - [This week in #Scala &lpar;Apr 3, 2023&rpar;](https://www.reddit.com/r/scala/comments/129np1r/this_week_in_scala_apr_3_2023/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/128qh3j/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Signals3 1.1.0 is out!](https://www.reddit.com/r/scala/comments/128ghnx/signals3_110_is_out/)
 - [Twitter&#39;s Recommendation Algorithm](https://www.reddit.com/r/scala/comments/128anh6/twitters_recommendation_algorithm/)
 - [Akka Streams GraphlDSL Confusion - Deadlock?](https://www.reddit.com/r/scala/comments/126rk7b/akka_streams_graphldsl_confusion_deadlock/)
-- [Returning Array after importing data from CSV](https://www.reddit.com/r/scala/comments/126ljny/returning_array_after_importing_data_from_csv/)
-- [Why does dotty depend on Scala 2?](https://www.reddit.com/r/scala/comments/125wg5b/why_does_dotty_depend_on_scala_2/)
-- [IntelliJ Scala Plugin 2023.1 Is Out!](https://www.reddit.com/r/scala/comments/125qzyq/intellij_scala_plugin_20231_is_out/)
-- [Cats Effect introduction for total newbies](https://www.reddit.com/r/scala/comments/125gt8c/cats_effect_introduction_for_total_newbies/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

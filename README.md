@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala CLI v1.0.0-RC1 is out](https://www.reddit.com/r/scala/comments/12bdn45/scala_cli_v100rc1_is_out/)
+- [Telemetry with Scala, part 2: Kamon](https://www.reddit.com/r/scala/comments/12bbb2p/telemetry_with_scala_part_2_kamon/)
+- [Top 10 pattern matching tips in Scala](https://www.reddit.com/r/scala/comments/12bb1bg/top_10_pattern_matching_tips_in_scala/)
 - [ORM in Scala](https://www.reddit.com/r/scala/comments/12aqusa/orm_in_scala/)
 - [I combined MUnit with Expecty. I hope you like it!](https://www.reddit.com/r/scala/comments/12albwz/i_combined_munit_with_expecty_i_hope_you_like_it/)
 - [Go-like channels using project Loom and Scala](https://www.reddit.com/r/scala/comments/12ajd88/golike_channels_using_project_loom_and_scala/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Library for batching requests](https://www.reddit.com/r/scala/comments/129qu0w/library_for_batching_requests/)
 - [This week in #Scala &lpar;Apr 3, 2023&rpar;](https://www.reddit.com/r/scala/comments/129np1r/this_week_in_scala_apr_3_2023/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/128qh3j/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [Signals3 1.1.0 is out!](https://www.reddit.com/r/scala/comments/128ghnx/signals3_110_is_out/)
-- [Twitter&#39;s Recommendation Algorithm](https://www.reddit.com/r/scala/comments/128anh6/twitters_recommendation_algorithm/)
-- [Akka Streams GraphlDSL Confusion - Deadlock?](https://www.reddit.com/r/scala/comments/126rk7b/akka_streams_graphldsl_confusion_deadlock/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

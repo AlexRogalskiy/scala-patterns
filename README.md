@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Automatic conversion to Java](https://www.reddit.com/r/scala/comments/12dek0k/automatic_conversion_to_java/)
+- [Immutability by Example - Building a Purely Functional Data Validator](https://www.reddit.com/r/scala/comments/12dbxj3/immutability_by_example_building_a_purely/)
 - [Scala CLI v1.0.0-RC1 is out](https://www.reddit.com/r/scala/comments/12bdn45/scala_cli_v100rc1_is_out/)
 - [Telemetry with Scala, part 2: Kamon](https://www.reddit.com/r/scala/comments/12bbb2p/telemetry_with_scala_part_2_kamon/)
 - [Top 10 pattern matching tips in Scala](https://www.reddit.com/r/scala/comments/12bb1bg/top_10_pattern_matching_tips_in_scala/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Go-like channels using project Loom and Scala](https://www.reddit.com/r/scala/comments/12ajd88/golike_channels_using_project_loom_and_scala/)
 - [Functional Error Handling in Scala](https://www.reddit.com/r/scala/comments/12agds9/functional_error_handling_in_scala/)
 - [Library for batching requests](https://www.reddit.com/r/scala/comments/129qu0w/library_for_batching_requests/)
-- [This week in #Scala &lpar;Apr 3, 2023&rpar;](https://www.reddit.com/r/scala/comments/129np1r/this_week_in_scala_apr_3_2023/)
-- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/128qh3j/who_is_hiring_monthly_rscala_job_postings_thread/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

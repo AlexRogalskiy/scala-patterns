@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to implement and use OpenAI API in Scala?](https://www.reddit.com/r/scala/comments/12fseyp/how_to_implement_and_use_openai_api_in_scala/)
+- [How to implement Reader Functor in Scala3?](https://www.reddit.com/r/scala/comments/12forbk/how_to_implement_reader_functor_in_scala3/)
 - [Understanding FP: Overcoming Intuition and Ease Hurdles &lpar;loops vs. recursion&rpar;](https://www.reddit.com/r/scala/comments/12eqnbn/understanding_fp_overcoming_intuition_and_ease/)
 - [Zymposium Today: ZIO From Scratch! &lpar;2 PM Pacific Time&rpar;](https://www.reddit.com/r/scala/comments/12em8ir/zymposium_today_zio_from_scratch_2_pm_pacific_time/)
 - [GPT-4 generated Scala Weather App](https://www.reddit.com/r/scala/comments/12ehsjd/gpt4_generated_scala_weather_app/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala CLI v1.0.0-RC1 is out](https://www.reddit.com/r/scala/comments/12bdn45/scala_cli_v100rc1_is_out/)
 - [Telemetry with Scala, part 2: Kamon](https://www.reddit.com/r/scala/comments/12bbb2p/telemetry_with_scala_part_2_kamon/)
 - [Top 10 pattern matching tips in Scala](https://www.reddit.com/r/scala/comments/12bb1bg/top_10_pattern_matching_tips_in_scala/)
-- [ORM in Scala](https://www.reddit.com/r/scala/comments/12aqusa/orm_in_scala/)
-- [I combined MUnit with Expecty. I hope you like it!](https://www.reddit.com/r/scala/comments/12albwz/i_combined_munit_with_expecty_i_hope_you_like_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

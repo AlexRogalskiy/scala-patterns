@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Apr 10, 2023&rpar;](https://www.reddit.com/r/scala/comments/12gvhl5/this_week_in_scala_apr_10_2023/)
+- [How do I remove the forward reference error in my parser? &lpar;20 lines&rpar;](https://www.reddit.com/r/scala/comments/12ghc6s/how_do_i_remove_the_forward_reference_error_in_my/)
 - [How to implement and use OpenAI API in Scala?](https://www.reddit.com/r/scala/comments/12fseyp/how_to_implement_and_use_openai_api_in_scala/)
 - [How to implement Reader Functor in Scala3?](https://www.reddit.com/r/scala/comments/12forbk/how_to_implement_reader_functor_in_scala3/)
 - [Understanding FP: Overcoming Intuition and Ease Hurdles &lpar;loops vs. recursion&rpar;](https://www.reddit.com/r/scala/comments/12eqnbn/understanding_fp_overcoming_intuition_and_ease/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Automatic conversion to Java](https://www.reddit.com/r/scala/comments/12dek0k/automatic_conversion_to_java/)
 - [Immutability by Example - Building a Purely Functional Data Validator](https://www.reddit.com/r/scala/comments/12dbxj3/immutability_by_example_building_a_purely/)
 - [Scala CLI v1.0.0-RC1 is out](https://www.reddit.com/r/scala/comments/12bdn45/scala_cli_v100rc1_is_out/)
-- [Telemetry with Scala, part 2: Kamon](https://www.reddit.com/r/scala/comments/12bbb2p/telemetry_with_scala_part_2_kamon/)
-- [Top 10 pattern matching tips in Scala](https://www.reddit.com/r/scala/comments/12bb1bg/top_10_pattern_matching_tips_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

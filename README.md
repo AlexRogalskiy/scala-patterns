@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Unable to test methods with default values with ZIO test](https://www.reddit.com/r/scala/comments/12hetx3/unable_to_test_methods_with_default_values_with/)
 - [This week in #Scala &lpar;Apr 10, 2023&rpar;](https://www.reddit.com/r/scala/comments/12gvhl5/this_week_in_scala_apr_10_2023/)
 - [How do I remove the forward reference error in my parser? &lpar;20 lines&rpar;](https://www.reddit.com/r/scala/comments/12ghc6s/how_do_i_remove_the_forward_reference_error_in_my/)
 - [How to implement and use OpenAI API in Scala?](https://www.reddit.com/r/scala/comments/12fseyp/how_to_implement_and_use_openai_api_in_scala/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [GPT-4 generated Scala Weather App](https://www.reddit.com/r/scala/comments/12ehsjd/gpt4_generated_scala_weather_app/)
 - [Automatic conversion to Java](https://www.reddit.com/r/scala/comments/12dek0k/automatic_conversion_to_java/)
 - [Immutability by Example - Building a Purely Functional Data Validator](https://www.reddit.com/r/scala/comments/12dbxj3/immutability_by_example_building_a_purely/)
-- [Scala CLI v1.0.0-RC1 is out](https://www.reddit.com/r/scala/comments/12bdn45/scala_cli_v100rc1_is_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

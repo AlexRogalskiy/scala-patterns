@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Tooling Summit Recap](https://www.reddit.com/r/scala/comments/12ijqng/scala_tooling_summit_recap/)
+- [Conferences are BACK! &lpar;Scalar Conf 2023 recap&rpar;](https://www.reddit.com/r/scala/comments/12iez83/conferences_are_back_scalar_conf_2023_recap/)
+- [Functional World #8](https://www.reddit.com/r/scala/comments/12ieeow/functional_world_8/)
+- [Spark-NLP 4.4.0: New BART for Text Translation &amp; Summarization, new ConvNeXT Transformer for Image Classification, new Zero-Shot Text Classification by BERT, more than 4000+ state-of-the-art models, and many more! · JohnSnowLabs/spark-nlp](https://www.reddit.com/r/scala/comments/12ic52r/sparknlp_440_new_bart_for_text_translation/)
 - [Unable to test methods with default values with ZIO test](https://www.reddit.com/r/scala/comments/12hetx3/unable_to_test_methods_with_default_values_with/)
 - [This week in #Scala &lpar;Apr 10, 2023&rpar;](https://www.reddit.com/r/scala/comments/12gvhl5/this_week_in_scala_apr_10_2023/)
 - [How do I remove the forward reference error in my parser? &lpar;20 lines&rpar;](https://www.reddit.com/r/scala/comments/12ghc6s/how_do_i_remove_the_forward_reference_error_in_my/)
 - [How to implement and use OpenAI API in Scala?](https://www.reddit.com/r/scala/comments/12fseyp/how_to_implement_and_use_openai_api_in_scala/)
 - [How to implement Reader Functor in Scala3?](https://www.reddit.com/r/scala/comments/12forbk/how_to_implement_reader_functor_in_scala3/)
 - [Understanding FP: Overcoming Intuition and Ease Hurdles &lpar;loops vs. recursion&rpar;](https://www.reddit.com/r/scala/comments/12eqnbn/understanding_fp_overcoming_intuition_and_ease/)
-- [Zymposium Today: ZIO From Scratch! &lpar;2 PM Pacific Time&rpar;](https://www.reddit.com/r/scala/comments/12em8ir/zymposium_today_zio_from_scratch_2_pm_pacific_time/)
-- [GPT-4 generated Scala Weather App](https://www.reddit.com/r/scala/comments/12ehsjd/gpt4_generated_scala_weather_app/)
-- [Automatic conversion to Java](https://www.reddit.com/r/scala/comments/12dek0k/automatic_conversion_to_java/)
-- [Immutability by Example - Building a Purely Functional Data Validator](https://www.reddit.com/r/scala/comments/12dbxj3/immutability_by_example_building_a_purely/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

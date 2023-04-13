@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Aggregated Scala Jobs Site](https://www.reddit.com/r/scala/comments/12jyedz/aggregated_scala_jobs_site/)
+- [New Scala Build Tool](https://www.reddit.com/r/scala/comments/12jhud7/new_scala_build_tool/)
+- [📺 Zymposium - ZIO From Scratch &lpar;Concurrency Primitives&rpar;](https://www.reddit.com/r/scala/comments/12jhbfa/zymposium_zio_from_scratch_concurrency_primitives/)
 - [Scala Tooling Summit Recap](https://www.reddit.com/r/scala/comments/12ijqng/scala_tooling_summit_recap/)
 - [Conferences are BACK! &lpar;Scalar Conf 2023 recap&rpar;](https://www.reddit.com/r/scala/comments/12iez83/conferences_are_back_scalar_conf_2023_recap/)
 - [Functional World #8](https://www.reddit.com/r/scala/comments/12ieeow/functional_world_8/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Unable to test methods with default values with ZIO test](https://www.reddit.com/r/scala/comments/12hetx3/unable_to_test_methods_with_default_values_with/)
 - [This week in #Scala &lpar;Apr 10, 2023&rpar;](https://www.reddit.com/r/scala/comments/12gvhl5/this_week_in_scala_apr_10_2023/)
 - [How do I remove the forward reference error in my parser? &lpar;20 lines&rpar;](https://www.reddit.com/r/scala/comments/12ghc6s/how_do_i_remove_the_forward_reference_error_in_my/)
-- [How to implement and use OpenAI API in Scala?](https://www.reddit.com/r/scala/comments/12fseyp/how_to_implement_and_use_openai_api_in_scala/)
-- [How to implement Reader Functor in Scala3?](https://www.reddit.com/r/scala/comments/12forbk/how_to_implement_reader_functor_in_scala3/)
-- [Understanding FP: Overcoming Intuition and Ease Hurdles &lpar;loops vs. recursion&rpar;](https://www.reddit.com/r/scala/comments/12eqnbn/understanding_fp_overcoming_intuition_and_ease/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

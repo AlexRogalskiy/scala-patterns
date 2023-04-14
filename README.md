@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Using Vulcan Codecs with Kafka Java APIs](https://www.reddit.com/r/scala/comments/12l2v18/using_vulcan_codecs_with_kafka_java_apis/)
+- [About Scala-Native](https://www.reddit.com/r/scala/comments/12koizg/about_scalanative/)
 - [Aggregated Scala Jobs Site](https://www.reddit.com/r/scala/comments/12jyedz/aggregated_scala_jobs_site/)
 - [New Scala Build Tool](https://www.reddit.com/r/scala/comments/12jhud7/new_scala_build_tool/)
 - [📺 Zymposium - ZIO From Scratch &lpar;Concurrency Primitives&rpar;](https://www.reddit.com/r/scala/comments/12jhbfa/zymposium_zio_from_scratch_concurrency_primitives/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Functional World #8](https://www.reddit.com/r/scala/comments/12ieeow/functional_world_8/)
 - [Spark-NLP 4.4.0: New BART for Text Translation &amp; Summarization, new ConvNeXT Transformer for Image Classification, new Zero-Shot Text Classification by BERT, more than 4000+ state-of-the-art models, and many more! · JohnSnowLabs/spark-nlp](https://www.reddit.com/r/scala/comments/12ic52r/sparknlp_440_new_bart_for_text_translation/)
 - [Unable to test methods with default values with ZIO test](https://www.reddit.com/r/scala/comments/12hetx3/unable_to_test_methods_with_default_values_with/)
-- [This week in #Scala &lpar;Apr 10, 2023&rpar;](https://www.reddit.com/r/scala/comments/12gvhl5/this_week_in_scala_apr_10_2023/)
-- [How do I remove the forward reference error in my parser? &lpar;20 lines&rpar;](https://www.reddit.com/r/scala/comments/12ghc6s/how_do_i_remove_the_forward_reference_error_in_my/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

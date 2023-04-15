@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Underrated Scala Features and Hidden Gems in the Standard Library](https://www.reddit.com/r/scala/comments/12ln8ju/underrated_scala_features_and_hidden_gems_in_the/)
 - [Using Vulcan Codecs with Kafka Java APIs](https://www.reddit.com/r/scala/comments/12l2v18/using_vulcan_codecs_with_kafka_java_apis/)
 - [About Scala-Native](https://www.reddit.com/r/scala/comments/12koizg/about_scalanative/)
 - [Aggregated Scala Jobs Site](https://www.reddit.com/r/scala/comments/12jyedz/aggregated_scala_jobs_site/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Conferences are BACK! &lpar;Scalar Conf 2023 recap&rpar;](https://www.reddit.com/r/scala/comments/12iez83/conferences_are_back_scalar_conf_2023_recap/)
 - [Functional World #8](https://www.reddit.com/r/scala/comments/12ieeow/functional_world_8/)
 - [Spark-NLP 4.4.0: New BART for Text Translation &amp; Summarization, new ConvNeXT Transformer for Image Classification, new Zero-Shot Text Classification by BERT, more than 4000+ state-of-the-art models, and many more! · JohnSnowLabs/spark-nlp](https://www.reddit.com/r/scala/comments/12ic52r/sparknlp_440_new_bart_for_text_translation/)
-- [Unable to test methods with default values with ZIO test](https://www.reddit.com/r/scala/comments/12hetx3/unable_to_test_methods_with_default_values_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

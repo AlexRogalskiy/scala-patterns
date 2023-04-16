@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tyrian 0.6.2 released](https://www.reddit.com/r/scala/comments/12na9ez/tyrian_062_released/)
+- [How would you call the following approach?](https://www.reddit.com/r/scala/comments/12mzkzi/how_would_you_call_the_following_approach/)
+- [Iron v2.1.0 is out!](https://www.reddit.com/r/scala/comments/12mtyf4/iron_v210_is_out/)
 - [Underrated Scala Features and Hidden Gems in the Standard Library](https://www.reddit.com/r/scala/comments/12ln8ju/underrated_scala_features_and_hidden_gems_in_the/)
 - [Using Vulcan Codecs with Kafka Java APIs](https://www.reddit.com/r/scala/comments/12l2v18/using_vulcan_codecs_with_kafka_java_apis/)
 - [About Scala-Native](https://www.reddit.com/r/scala/comments/12koizg/about_scalanative/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [New Scala Build Tool](https://www.reddit.com/r/scala/comments/12jhud7/new_scala_build_tool/)
 - [📺 Zymposium - ZIO From Scratch &lpar;Concurrency Primitives&rpar;](https://www.reddit.com/r/scala/comments/12jhbfa/zymposium_zio_from_scratch_concurrency_primitives/)
 - [Scala Tooling Summit Recap](https://www.reddit.com/r/scala/comments/12ijqng/scala_tooling_summit_recap/)
-- [Conferences are BACK! &lpar;Scalar Conf 2023 recap&rpar;](https://www.reddit.com/r/scala/comments/12iez83/conferences_are_back_scalar_conf_2023_recap/)
-- [Functional World #8](https://www.reddit.com/r/scala/comments/12ieeow/functional_world_8/)
-- [Spark-NLP 4.4.0: New BART for Text Translation &amp; Summarization, new ConvNeXT Transformer for Image Classification, new Zero-Shot Text Classification by BERT, more than 4000+ state-of-the-art models, and many more! · JohnSnowLabs/spark-nlp](https://www.reddit.com/r/scala/comments/12ic52r/sparknlp_440_new_bart_for_text_translation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

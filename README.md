@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Apr 17, 2023&rpar;](https://www.reddit.com/r/scala/comments/12obxpl/this_week_in_scala_apr_17_2023/)
+- [Scala installer crashes on Windows 11](https://www.reddit.com/r/scala/comments/12o7rxg/scala_installer_crashes_on_windows_11/)
+- [Scala to have fun with RPis and other heterogeneous devices](https://www.reddit.com/r/scala/comments/12o150l/scala_to_have_fun_with_rpis_and_other/)
 - [Tyrian 0.6.2 released](https://www.reddit.com/r/scala/comments/12na9ez/tyrian_062_released/)
 - [How would you call the following approach?](https://www.reddit.com/r/scala/comments/12mzkzi/how_would_you_call_the_following_approach/)
 - [Iron v2.1.0 is out!](https://www.reddit.com/r/scala/comments/12mtyf4/iron_v210_is_out/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Using Vulcan Codecs with Kafka Java APIs](https://www.reddit.com/r/scala/comments/12l2v18/using_vulcan_codecs_with_kafka_java_apis/)
 - [About Scala-Native](https://www.reddit.com/r/scala/comments/12koizg/about_scalanative/)
 - [Aggregated Scala Jobs Site](https://www.reddit.com/r/scala/comments/12jyedz/aggregated_scala_jobs_site/)
-- [New Scala Build Tool](https://www.reddit.com/r/scala/comments/12jhud7/new_scala_build_tool/)
-- [📺 Zymposium - ZIO From Scratch &lpar;Concurrency Primitives&rpar;](https://www.reddit.com/r/scala/comments/12jhbfa/zymposium_zio_from_scratch_concurrency_primitives/)
-- [Scala Tooling Summit Recap](https://www.reddit.com/r/scala/comments/12ijqng/scala_tooling_summit_recap/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

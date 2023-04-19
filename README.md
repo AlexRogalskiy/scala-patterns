@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Faster Scala.js development with front-end tooling and new tutorials](https://www.reddit.com/r/scala/comments/12r2lky/faster_scalajs_development_with_frontend_tooling/)
+- [Indigo 0.15.0-RC1 Released](https://www.reddit.com/r/scala/comments/12qlqjs/indigo_0150rc1_released/)
+- [Changing url without reloading using Tyrian](https://www.reddit.com/r/scala/comments/12qjzeg/changing_url_without_reloading_using_tyrian/)
+- [Integrating Akka with Cats-Effect 3](https://www.reddit.com/r/scala/comments/12qgn6z/integrating_akka_with_catseffect_3/)
+- [How to open a websocket connection using a custom POST request with body as the handshake in ZIO?](https://www.reddit.com/r/scala/comments/12q93c7/how_to_open_a_websocket_connection_using_a_custom/)
 - [VS Code indentation settings guide to help with the significant indentation especially since Scala 3.3.x.](https://www.reddit.com/r/scala/comments/12pgooe/vs_code_indentation_settings_guide_to_help_with/)
 - [Martin Odersky DIRECT STYLE SCALA Scalar Conference 2023](https://www.reddit.com/r/scala/comments/12pe3zx/martin_odersky_direct_style_scala_scalar/)
 - [making of a hybrid ScalaMatsuri · eed3si9n](https://www.reddit.com/r/scala/comments/12p7g52/making_of_a_hybrid_scalamatsuri_eed3si9n/)
 - [This week in #Scala &lpar;Apr 17, 2023&rpar;](https://www.reddit.com/r/scala/comments/12obxpl/this_week_in_scala_apr_17_2023/)
 - [Scala installer crashes on Windows 11](https://www.reddit.com/r/scala/comments/12o7rxg/scala_installer_crashes_on_windows_11/)
-- [Scala to have fun with RPis and other heterogeneous devices](https://www.reddit.com/r/scala/comments/12o150l/scala_to_have_fun_with_rpis_and_other/)
-- [Tyrian 0.6.2 released](https://www.reddit.com/r/scala/comments/12na9ez/tyrian_062_released/)
-- [How would you call the following approach?](https://www.reddit.com/r/scala/comments/12mzkzi/how_would_you_call_the_following_approach/)
-- [Iron v2.1.0 is out!](https://www.reddit.com/r/scala/comments/12mtyf4/iron_v210_is_out/)
-- [Underrated Scala Features and Hidden Gems in the Standard Library](https://www.reddit.com/r/scala/comments/12ln8ju/underrated_scala_features_and_hidden_gems_in_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

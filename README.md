@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why go faster than scala ?](https://www.reddit.com/r/scala/comments/12rq21g/why_go_faster_than_scala/)
 - [Faster Scala.js development with front-end tooling and new tutorials](https://www.reddit.com/r/scala/comments/12r2lky/faster_scalajs_development_with_frontend_tooling/)
 - [Indigo 0.15.0-RC1 Released](https://www.reddit.com/r/scala/comments/12qlqjs/indigo_0150rc1_released/)
 - [Changing url without reloading using Tyrian](https://www.reddit.com/r/scala/comments/12qjzeg/changing_url_without_reloading_using_tyrian/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Martin Odersky DIRECT STYLE SCALA Scalar Conference 2023](https://www.reddit.com/r/scala/comments/12pe3zx/martin_odersky_direct_style_scala_scalar/)
 - [making of a hybrid ScalaMatsuri · eed3si9n](https://www.reddit.com/r/scala/comments/12p7g52/making_of_a_hybrid_scalamatsuri_eed3si9n/)
 - [This week in #Scala &lpar;Apr 17, 2023&rpar;](https://www.reddit.com/r/scala/comments/12obxpl/this_week_in_scala_apr_17_2023/)
-- [Scala installer crashes on Windows 11](https://www.reddit.com/r/scala/comments/12o7rxg/scala_installer_crashes_on_windows_11/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

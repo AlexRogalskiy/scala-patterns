@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [CEffBanX - demo Scala 2.13 app integrating various FP libraries](https://www.reddit.com/r/scala/comments/12vkk9r/ceffbanx_demo_scala_213_app_integrating_various/)
+- [What is the usage of Async[F].async in Cats Effect 3 ?](https://www.reddit.com/r/scala/comments/12v0jwy/what_is_the_usage_of_asyncfasync_in_cats_effect_3/)
 - [Scala.js lenses, frontends, and server side rendering with an AWS JVM Lambda Scala backend](https://www.reddit.com/r/scala/comments/12un8zo/scalajs_lenses_frontends_and_server_side/)
 - [How often is Zionomicon updated?](https://www.reddit.com/r/scala/comments/12u9jcu/how_often_is_zionomicon_updated/)
 - [Proper and Basic Property-Based Testing](https://www.reddit.com/r/scala/comments/12u2jxd/proper_and_basic_propertybased_testing/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Magda Stożek Get more clarity with opaque types in Sala 3 SCALAR CONFERENCE 2023 TALK](https://www.reddit.com/r/scala/comments/12t7rh9/magda_stożek_get_more_clarity_with_opaque_types/)
 - [What are some large open-source Scala projects that aren&#39;t about data processing?](https://www.reddit.com/r/scala/comments/12sra2q/what_are_some_large_opensource_scala_projects/)
 - [Full-Stack Scala 3 with the Typelevel Stack - Conference Talk](https://www.reddit.com/r/scala/comments/12snnnu/fullstack_scala_3_with_the_typelevel_stack/)
-- [Why go faster than scala ?](https://www.reddit.com/r/scala/comments/12rq21g/why_go_faster_than_scala/)
-- [Faster Scala.js development with front-end tooling and new tutorials](https://www.reddit.com/r/scala/comments/12r2lky/faster_scalajs_development_with_frontend_tooling/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

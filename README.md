@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Zio-channel, Go-like channels for your ZIO application](https://www.reddit.com/r/scala/comments/12y2ed7/ziochannel_golike_channels_for_your_zio/)
 - [Beginner&#39;s guide to derivations in Scala](https://www.reddit.com/r/scala/comments/12wqzqk/beginners_guide_to_derivations_in_scala/)
 - [This week in #Scala &lpar;Apr 24, 2023&rpar;](https://www.reddit.com/r/scala/comments/12wdzi6/this_week_in_scala_apr_24_2023/)
 - [CEffBanX - demo Scala 2.13 app integrating various FP libraries](https://www.reddit.com/r/scala/comments/12vkk9r/ceffbanx_demo_scala_213_app_integrating_various/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Proper and Basic Property-Based Testing](https://www.reddit.com/r/scala/comments/12u2jxd/proper_and_basic_propertybased_testing/)
 - [sbt Plugins Community Repository](https://www.reddit.com/r/scala/comments/12ttexv/sbt_plugins_community_repository/)
 - [Daniel Ciocîrlan FULL-STACK SCALA 3 WITH TYPELEVEL STACK Scalar Conference 2023](https://www.reddit.com/r/scala/comments/12tb7uu/daniel_ciocîrlan_fullstack_scala_3_with_typelevel/)
-- [Magda Stożek Get more clarity with opaque types in Sala 3 SCALAR CONFERENCE 2023 TALK](https://www.reddit.com/r/scala/comments/12t7rh9/magda_stożek_get_more_clarity_with_opaque_types/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

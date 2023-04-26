@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Microsoft releases SynapseMl v0.11 with support for ChatGPT, GPT-4, causal learning, and more](https://www.reddit.com/r/scala/comments/12yqnme/microsoft_releases_synapseml_v011_with_support/)
+- [ZIO Elasticsearch 0.1.0 is out!](https://www.reddit.com/r/scala/comments/12yktzk/zio_elasticsearch_010_is_out/)
+- [Jakub Kozłowski PAIN-FREE APIS WITH SMITHY4S Scalar Conference 2023](https://www.reddit.com/r/scala/comments/12ygprp/jakub_kozłowski_painfree_apis_with_smithy4s/)
+- [Jacek Kunicki HAVE WE FOUND THE HOLY ENUM Scalar Conference 2023](https://www.reddit.com/r/scala/comments/12yd8qc/jacek_kunicki_have_we_found_the_holy_enum_scalar/)
+- [A question about Http4s new major version](https://www.reddit.com/r/scala/comments/12ybl6r/a_question_about_http4s_new_major_version/)
 - [Zio-channel, Go-like channels for your ZIO application](https://www.reddit.com/r/scala/comments/12y2ed7/ziochannel_golike_channels_for_your_zio/)
 - [Beginner&#39;s guide to derivations in Scala](https://www.reddit.com/r/scala/comments/12wqzqk/beginners_guide_to_derivations_in_scala/)
 - [This week in #Scala &lpar;Apr 24, 2023&rpar;](https://www.reddit.com/r/scala/comments/12wdzi6/this_week_in_scala_apr_24_2023/)
 - [CEffBanX - demo Scala 2.13 app integrating various FP libraries](https://www.reddit.com/r/scala/comments/12vkk9r/ceffbanx_demo_scala_213_app_integrating_various/)
 - [What is the usage of Async[F].async in Cats Effect 3 ?](https://www.reddit.com/r/scala/comments/12v0jwy/what_is_the_usage_of_asyncfasync_in_cats_effect_3/)
-- [Scala.js lenses, frontends, and server side rendering with an AWS JVM Lambda Scala backend](https://www.reddit.com/r/scala/comments/12un8zo/scalajs_lenses_frontends_and_server_side/)
-- [How often is Zionomicon updated?](https://www.reddit.com/r/scala/comments/12u9jcu/how_often_is_zionomicon_updated/)
-- [Proper and Basic Property-Based Testing](https://www.reddit.com/r/scala/comments/12u2jxd/proper_and_basic_propertybased_testing/)
-- [sbt Plugins Community Repository](https://www.reddit.com/r/scala/comments/12ttexv/sbt_plugins_community_repository/)
-- [Daniel Ciocîrlan FULL-STACK SCALA 3 WITH TYPELEVEL STACK Scalar Conference 2023](https://www.reddit.com/r/scala/comments/12tb7uu/daniel_ciocîrlan_fullstack_scala_3_with_typelevel/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

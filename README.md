@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is Scala Losing Ground in Your Organization?](https://www.reddit.com/r/scala/comments/12zhsoz/is_scala_losing_ground_in_your_organization/)
+- [Dupin 0.6.0 got Parser type](https://www.reddit.com/r/scala/comments/12ze7w0/dupin_060_got_parser_type/)
 - [Microsoft releases SynapseMl v0.11 with support for ChatGPT, GPT-4, causal learning, and more](https://www.reddit.com/r/scala/comments/12yqnme/microsoft_releases_synapseml_v011_with_support/)
 - [ZIO Elasticsearch 0.1.0 is out!](https://www.reddit.com/r/scala/comments/12yktzk/zio_elasticsearch_010_is_out/)
 - [Jakub Kozłowski PAIN-FREE APIS WITH SMITHY4S Scalar Conference 2023](https://www.reddit.com/r/scala/comments/12ygprp/jakub_kozłowski_painfree_apis_with_smithy4s/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Zio-channel, Go-like channels for your ZIO application](https://www.reddit.com/r/scala/comments/12y2ed7/ziochannel_golike_channels_for_your_zio/)
 - [Beginner&#39;s guide to derivations in Scala](https://www.reddit.com/r/scala/comments/12wqzqk/beginners_guide_to_derivations_in_scala/)
 - [This week in #Scala &lpar;Apr 24, 2023&rpar;](https://www.reddit.com/r/scala/comments/12wdzi6/this_week_in_scala_apr_24_2023/)
-- [CEffBanX - demo Scala 2.13 app integrating various FP libraries](https://www.reddit.com/r/scala/comments/12vkk9r/ceffbanx_demo_scala_213_app_integrating_various/)
-- [What is the usage of Async[F].async in Cats Effect 3 ?](https://www.reddit.com/r/scala/comments/12v0jwy/what_is_the_usage_of_asyncfasync_in_cats_effect_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

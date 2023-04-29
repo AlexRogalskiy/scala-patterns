@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Small REScala project for presentation](https://www.reddit.com/r/scala/comments/1329k7e/small_rescala_project_for_presentation/)
+- [Blog on some of the not-so-common SBT Features](https://www.reddit.com/r/scala/comments/1323w1t/blog_on_some_of_the_notsocommon_sbt_features/)
+- [Type erased on implicit evidence check](https://www.reddit.com/r/scala/comments/131og1e/type_erased_on_implicit_evidence_check/)
+- [Setting up CORS &amp; CSRF on Http4s](https://www.reddit.com/r/scala/comments/131jgil/setting_up_cors_csrf_on_http4s/)
 - [Is Li Haoyi libs standard throught scala useres?](https://www.reddit.com/r/scala/comments/130lbgm/is_li_haoyi_libs_standard_throught_scala_useres/)
 - [Is Scala Losing Ground in Your Organization?](https://www.reddit.com/r/scala/comments/12zhsoz/is_scala_losing_ground_in_your_organization/)
 - [Dupin 0.6.0 got Parser type](https://www.reddit.com/r/scala/comments/12ze7w0/dupin_060_got_parser_type/)
 - [Microsoft releases SynapseMl v0.11 with support for ChatGPT, GPT-4, causal learning, and more](https://www.reddit.com/r/scala/comments/12yqnme/microsoft_releases_synapseml_v011_with_support/)
 - [ZIO Elasticsearch 0.1.0 is out!](https://www.reddit.com/r/scala/comments/12yktzk/zio_elasticsearch_010_is_out/)
 - [Jakub Kozłowski PAIN-FREE APIS WITH SMITHY4S Scalar Conference 2023](https://www.reddit.com/r/scala/comments/12ygprp/jakub_kozłowski_painfree_apis_with_smithy4s/)
-- [Jacek Kunicki HAVE WE FOUND THE HOLY ENUM Scalar Conference 2023](https://www.reddit.com/r/scala/comments/12yd8qc/jacek_kunicki_have_we_found_the_holy_enum_scalar/)
-- [A question about Http4s new major version](https://www.reddit.com/r/scala/comments/12ybl6r/a_question_about_http4s_new_major_version/)
-- [Zio-channel, Go-like channels for your ZIO application](https://www.reddit.com/r/scala/comments/12y2ed7/ziochannel_golike_channels_for_your_zio/)
-- [Beginner&#39;s guide to derivations in Scala](https://www.reddit.com/r/scala/comments/12wqzqk/beginners_guide_to_derivations_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

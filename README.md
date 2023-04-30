@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [SBT](https://www.reddit.com/r/scala/comments/13342xw/sbt/)
 - [Small REScala project for presentation](https://www.reddit.com/r/scala/comments/1329k7e/small_rescala_project_for_presentation/)
 - [Blog on some of the not-so-common SBT Features](https://www.reddit.com/r/scala/comments/1323w1t/blog_on_some_of_the_notsocommon_sbt_features/)
 - [Type erased on implicit evidence check](https://www.reddit.com/r/scala/comments/131og1e/type_erased_on_implicit_evidence_check/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Dupin 0.6.0 got Parser type](https://www.reddit.com/r/scala/comments/12ze7w0/dupin_060_got_parser_type/)
 - [Microsoft releases SynapseMl v0.11 with support for ChatGPT, GPT-4, causal learning, and more](https://www.reddit.com/r/scala/comments/12yqnme/microsoft_releases_synapseml_v011_with_support/)
 - [ZIO Elasticsearch 0.1.0 is out!](https://www.reddit.com/r/scala/comments/12yktzk/zio_elasticsearch_010_is_out/)
-- [Jakub Kozłowski PAIN-FREE APIS WITH SMITHY4S Scalar Conference 2023](https://www.reddit.com/r/scala/comments/12ygprp/jakub_kozłowski_painfree_apis_with_smithy4s/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

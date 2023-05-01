@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [B2b scala Job contracts](https://www.reddit.com/r/scala/comments/133zvzj/b2b_scala_job_contracts/)
+- [This week in #Scala &lpar;May 1, 2023&rpar;](https://www.reddit.com/r/scala/comments/133psju/this_week_in_scala_may_1_2023/)
+- [Scala News - April 29, 2023 is published](https://www.reddit.com/r/scala/comments/133dbeb/scala_news_april_29_2023_is_published/)
 - [SBT](https://www.reddit.com/r/scala/comments/13342xw/sbt/)
 - [Small REScala project for presentation](https://www.reddit.com/r/scala/comments/1329k7e/small_rescala_project_for_presentation/)
 - [Blog on some of the not-so-common SBT Features](https://www.reddit.com/r/scala/comments/1323w1t/blog_on_some_of_the_notsocommon_sbt_features/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Setting up CORS &amp; CSRF on Http4s](https://www.reddit.com/r/scala/comments/131jgil/setting_up_cors_csrf_on_http4s/)
 - [Is Li Haoyi libs standard throught scala useres?](https://www.reddit.com/r/scala/comments/130lbgm/is_li_haoyi_libs_standard_throught_scala_useres/)
 - [Is Scala Losing Ground in Your Organization?](https://www.reddit.com/r/scala/comments/12zhsoz/is_scala_losing_ground_in_your_organization/)
-- [Dupin 0.6.0 got Parser type](https://www.reddit.com/r/scala/comments/12ze7w0/dupin_060_got_parser_type/)
-- [Microsoft releases SynapseMl v0.11 with support for ChatGPT, GPT-4, causal learning, and more](https://www.reddit.com/r/scala/comments/12yqnme/microsoft_releases_synapseml_v011_with_support/)
-- [ZIO Elasticsearch 0.1.0 is out!](https://www.reddit.com/r/scala/comments/12yktzk/zio_elasticsearch_010_is_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

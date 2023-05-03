@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [help with abstraction over slick in scala 2.13.10](https://www.reddit.com/r/scala/comments/135t39y/help_with_abstraction_over_slick_in_scala_21310/)
+- [Top Scala Hiring Companies - April 2023](https://www.reddit.com/r/scala/comments/135t2i2/top_scala_hiring_companies_april_2023/)
+- [Daniel Beskin FIXING-UP PRODUCTION WITH PROPERTY-BASED TESTING Scalar Conference 2023](https://www.reddit.com/r/scala/comments/135ilwr/daniel_beskin_fixingup_production_with/)
+- [Is the JVM a upside or downside to Scala?](https://www.reddit.com/r/scala/comments/135huw7/is_the_jvm_a_upside_or_downside_to_scala/)
+- [Accumulate errors with typelevel cats](https://www.reddit.com/r/scala/comments/135f4tt/accumulate_errors_with_typelevel_cats/)
 - [Alex Nedelcu &lpar;Monix&rpar; about Scala 3](https://www.reddit.com/r/scala/comments/1356tz7/alex_nedelcu_monix_about_scala_3/)
 - [ducktape 0.1.6 is out - now with Fallible Transformers and cross-compilation to Scala.js and Native!](https://www.reddit.com/r/scala/comments/1351jid/ducktape_016_is_out_now_with_fallible/)
 - [One and Done: Embrace single-file JVM apps for speedy development](https://www.reddit.com/r/scala/comments/134u4w4/one_and_done_embrace_singlefile_jvm_apps_for/)
 - [sbt 1.9.0-RC1 released](https://www.reddit.com/r/scala/comments/134r4ly/sbt_190rc1_released/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/134qg26/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [What does the future look like?](https://www.reddit.com/r/scala/comments/134pyqa/what_does_the_future_look_like/)
-- [Scala 3.3 LTS is coming](https://www.reddit.com/r/scala/comments/134klrc/scala_33_lts_is_coming/)
-- [Slick 3.5.0-M3 has been released](https://www.reddit.com/r/scala/comments/134czts/slick_350m3_has_been_released/)
-- [B2b scala Job contracts](https://www.reddit.com/r/scala/comments/133zvzj/b2b_scala_job_contracts/)
-- [This week in #Scala &lpar;May 1, 2023&rpar;](https://www.reddit.com/r/scala/comments/133psju/this_week_in_scala_may_1_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

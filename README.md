@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[NEWBIE] Why were `~/project/` and `~/target/` added after running `cs setup`?](https://www.reddit.com/r/scala/comments/13848ul/newbie_why_were_project_and_target_added_after/)
 - [help with abstraction over slick in scala 2.13.10](https://www.reddit.com/r/scala/comments/135t39y/help_with_abstraction_over_slick_in_scala_21310/)
 - [Top Scala Hiring Companies - April 2023](https://www.reddit.com/r/scala/comments/135t2i2/top_scala_hiring_companies_april_2023/)
 - [Daniel Beskin FIXING-UP PRODUCTION WITH PROPERTY-BASED TESTING Scalar Conference 2023](https://www.reddit.com/r/scala/comments/135ilwr/daniel_beskin_fixingup_production_with/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ducktape 0.1.6 is out - now with Fallible Transformers and cross-compilation to Scala.js and Native!](https://www.reddit.com/r/scala/comments/1351jid/ducktape_016_is_out_now_with_fallible/)
 - [One and Done: Embrace single-file JVM apps for speedy development](https://www.reddit.com/r/scala/comments/134u4w4/one_and_done_embrace_singlefile_jvm_apps_for/)
 - [sbt 1.9.0-RC1 released](https://www.reddit.com/r/scala/comments/134r4ly/sbt_190rc1_released/)
-- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/134qg26/who_is_hiring_monthly_rscala_job_postings_thread/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

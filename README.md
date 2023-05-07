@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Refactoring awaits to proper futures](https://www.reddit.com/r/scala/comments/13a922y/refactoring_awaits_to_proper_futures/)
+- [Your thoughts on Zio-direct](https://www.reddit.com/r/scala/comments/139yqhz/your_thoughts_on_ziodirect/)
+- [Scala opensource projects](https://www.reddit.com/r/scala/comments/139teg3/scala_opensource_projects/)
 - [Is Scala dead with Java 21?](https://www.reddit.com/r/scala/comments/138yj6y/is_scala_dead_with_java_21/)
 - [Emacs + Metals + Eglot](https://www.reddit.com/r/scala/comments/138to11/emacs_metals_eglot/)
 - [Another two cents about the current situation with the Scala user base and economics.](https://www.reddit.com/r/scala/comments/138l6id/another_two_cents_about_the_current_situation/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [[NEWBIE] Why were `~/project/` and `~/target/` added after running `cs setup`?](https://www.reddit.com/r/scala/comments/13848ul/newbie_why_were_project_and_target_added_after/)
 - [help with abstraction over slick in scala 2.13.10](https://www.reddit.com/r/scala/comments/135t39y/help_with_abstraction_over_slick_in_scala_21310/)
 - [Top Scala Hiring Companies - April 2023](https://www.reddit.com/r/scala/comments/135t2i2/top_scala_hiring_companies_april_2023/)
-- [Daniel Beskin FIXING-UP PRODUCTION WITH PROPERTY-BASED TESTING Scalar Conference 2023](https://www.reddit.com/r/scala/comments/135ilwr/daniel_beskin_fixingup_production_with/)
-- [Is the JVM a upside or downside to Scala?](https://www.reddit.com/r/scala/comments/135huw7/is_the_jvm_a_upside_or_downside_to_scala/)
-- [Accumulate errors with typelevel cats](https://www.reddit.com/r/scala/comments/135f4tt/accumulate_errors_with_typelevel_cats/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

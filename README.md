@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 1.9.0-RC2 released](https://www.reddit.com/r/scala/comments/13b6yks/sbt_190rc2_released/)
+- [Intermediate&#39;s guide to derivations in Scala: using Magnolia](https://www.reddit.com/r/scala/comments/13auqh7/intermediates_guide_to_derivations_in_scala_using/)
+- [This week in #Scala &lpar;May 8, 2023&rpar;](https://www.reddit.com/r/scala/comments/13atibz/this_week_in_scala_may_8_2023/)
+- [Migrating libraries to scala 3](https://www.reddit.com/r/scala/comments/13anb87/migrating_libraries_to_scala_3/)
+- [Rapid JVM apps development: Industry&#39;s adoption](https://www.reddit.com/r/scala/comments/13ag45s/rapid_jvm_apps_development_industrys_adoption/)
+- [MetaDSL](https://www.reddit.com/r/scala/comments/13af9j1/metadsl/)
 - [Refactoring awaits to proper futures](https://www.reddit.com/r/scala/comments/13a922y/refactoring_awaits_to_proper_futures/)
 - [Your thoughts on Zio-direct](https://www.reddit.com/r/scala/comments/139yqhz/your_thoughts_on_ziodirect/)
 - [Scala opensource projects](https://www.reddit.com/r/scala/comments/139teg3/scala_opensource_projects/)
 - [Is Scala dead with Java 21?](https://www.reddit.com/r/scala/comments/138yj6y/is_scala_dead_with_java_21/)
-- [Emacs + Metals + Eglot](https://www.reddit.com/r/scala/comments/138to11/emacs_metals_eglot/)
-- [Another two cents about the current situation with the Scala user base and economics.](https://www.reddit.com/r/scala/comments/138l6id/another_two_cents_about_the_current_situation/)
-- [Need statistic test library for Spark Scala](https://www.reddit.com/r/scala/comments/138duz1/need_statistic_test_library_for_spark_scala/)
-- [[NEWBIE] Why were `~/project/` and `~/target/` added after running `cs setup`?](https://www.reddit.com/r/scala/comments/13848ul/newbie_why_were_project_and_target_added_after/)
-- [help with abstraction over slick in scala 2.13.10](https://www.reddit.com/r/scala/comments/135t39y/help_with_abstraction_over_slick_in_scala_21310/)
-- [Top Scala Hiring Companies - April 2023](https://www.reddit.com/r/scala/comments/135t2i2/top_scala_hiring_companies_april_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

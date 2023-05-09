@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Stackoverflow Developer Survey 2023 is out](https://www.reddit.com/r/scala/comments/13c469j/stackoverflow_developer_survey_2023_is_out/)
+- [Replacing sbt with scala-cli in a simple project](https://www.reddit.com/r/scala/comments/13bvx5u/replacing_sbt_with_scalacli_in_a_simple_project/)
+- [Is Scala to Java the same relationship as TypeScript has with ECMAScript?](https://www.reddit.com/r/scala/comments/13bop3v/is_scala_to_java_the_same_relationship_as/)
+- [HOF which has parameter function of different in to out types](https://www.reddit.com/r/scala/comments/13bezyz/hof_which_has_parameter_function_of_different_in/)
 - [sbt 1.9.0-RC2 released](https://www.reddit.com/r/scala/comments/13b6yks/sbt_190rc2_released/)
 - [Intermediate&#39;s guide to derivations in Scala: using Magnolia](https://www.reddit.com/r/scala/comments/13auqh7/intermediates_guide_to_derivations_in_scala_using/)
 - [This week in #Scala &lpar;May 8, 2023&rpar;](https://www.reddit.com/r/scala/comments/13atibz/this_week_in_scala_may_8_2023/)
 - [Migrating libraries to scala 3](https://www.reddit.com/r/scala/comments/13anb87/migrating_libraries_to_scala_3/)
 - [Rapid JVM apps development: Industry&#39;s adoption](https://www.reddit.com/r/scala/comments/13ag45s/rapid_jvm_apps_development_industrys_adoption/)
 - [MetaDSL](https://www.reddit.com/r/scala/comments/13af9j1/metadsl/)
-- [Refactoring awaits to proper futures](https://www.reddit.com/r/scala/comments/13a922y/refactoring_awaits_to_proper_futures/)
-- [Your thoughts on Zio-direct](https://www.reddit.com/r/scala/comments/139yqhz/your_thoughts_on_ziodirect/)
-- [Scala opensource projects](https://www.reddit.com/r/scala/comments/139teg3/scala_opensource_projects/)
-- [Is Scala dead with Java 21?](https://www.reddit.com/r/scala/comments/138yj6y/is_scala_dead_with_java_21/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

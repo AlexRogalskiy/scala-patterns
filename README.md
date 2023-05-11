@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why is the Scala community being demoralized on Twitter?](https://www.reddit.com/r/scala/comments/13ds7tt/why_is_the_scala_community_being_demoralized_on/)
 - [Stackoverflow Developer Survey 2023 is out](https://www.reddit.com/r/scala/comments/13c469j/stackoverflow_developer_survey_2023_is_out/)
 - [Replacing sbt with scala-cli in a simple project](https://www.reddit.com/r/scala/comments/13bvx5u/replacing_sbt_with_scalacli_in_a_simple_project/)
 - [Is Scala to Java the same relationship as TypeScript has with ECMAScript?](https://www.reddit.com/r/scala/comments/13bop3v/is_scala_to_java_the_same_relationship_as/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;May 8, 2023&rpar;](https://www.reddit.com/r/scala/comments/13atibz/this_week_in_scala_may_8_2023/)
 - [Migrating libraries to scala 3](https://www.reddit.com/r/scala/comments/13anb87/migrating_libraries_to_scala_3/)
 - [Rapid JVM apps development: Industry&#39;s adoption](https://www.reddit.com/r/scala/comments/13ag45s/rapid_jvm_apps_development_industrys_adoption/)
-- [MetaDSL](https://www.reddit.com/r/scala/comments/13af9j1/metadsl/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

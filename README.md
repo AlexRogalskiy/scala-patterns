@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What would it take to make Scala more popular in industry?](https://www.reddit.com/r/scala/comments/13f4azh/what_would_it_take_to_make_scala_more_popular_in/)
+- [Help with Scala doc in a mixed sbt project using Lombok](https://www.reddit.com/r/scala/comments/13f31hh/help_with_scala_doc_in_a_mixed_sbt_project_using/)
+- [Designing an HTML Component system](https://www.reddit.com/r/scala/comments/13elkbf/designing_an_html_component_system/)
+- [Amdram snapshot. Tiny actors library](https://www.reddit.com/r/scala/comments/13ec5m9/amdram_snapshot_tiny_actors_library/)
 - [Why is the Scala community being demoralized on Twitter?](https://www.reddit.com/r/scala/comments/13ds7tt/why_is_the_scala_community_being_demoralized_on/)
 - [Stackoverflow Developer Survey 2023 is out](https://www.reddit.com/r/scala/comments/13c469j/stackoverflow_developer_survey_2023_is_out/)
 - [Replacing sbt with scala-cli in a simple project](https://www.reddit.com/r/scala/comments/13bvx5u/replacing_sbt_with_scalacli_in_a_simple_project/)
 - [Is Scala to Java the same relationship as TypeScript has with ECMAScript?](https://www.reddit.com/r/scala/comments/13bop3v/is_scala_to_java_the_same_relationship_as/)
 - [HOF which has parameter function of different in to out types](https://www.reddit.com/r/scala/comments/13bezyz/hof_which_has_parameter_function_of_different_in/)
 - [sbt 1.9.0-RC2 released](https://www.reddit.com/r/scala/comments/13b6yks/sbt_190rc2_released/)
-- [Intermediate&#39;s guide to derivations in Scala: using Magnolia](https://www.reddit.com/r/scala/comments/13auqh7/intermediates_guide_to_derivations_in_scala_using/)
-- [This week in #Scala &lpar;May 8, 2023&rpar;](https://www.reddit.com/r/scala/comments/13atibz/this_week_in_scala_may_8_2023/)
-- [Migrating libraries to scala 3](https://www.reddit.com/r/scala/comments/13anb87/migrating_libraries_to_scala_3/)
-- [Rapid JVM apps development: Industry&#39;s adoption](https://www.reddit.com/r/scala/comments/13ag45s/rapid_jvm_apps_development_industrys_adoption/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Debugging Scala3 and ZIO](https://www.reddit.com/r/scala/comments/13fo6vw/debugging_scala3_and_zio/)
+- [Is scala still in demand for Data Engineer role?](https://www.reddit.com/r/scala/comments/13fmzua/is_scala_still_in_demand_for_data_engineer_role/)
+- [Dualingo is written/ported to Scala](https://www.reddit.com/r/scala/comments/13fmhb2/dualingo_is_writtenported_to_scala/)
+- [sbt 1.8.3 is released with security patches](https://www.reddit.com/r/scala/comments/13felqt/sbt_183_is_released_with_security_patches/)
+- [HexTacToe - Simple PoC for Scala.js, Babylon.js &amp; Electron.js interaction](https://www.reddit.com/r/scala/comments/13f9fbv/hextactoe_simple_poc_for_scalajs_babylonjs/)
 - [What would it take to make Scala more popular in industry?](https://www.reddit.com/r/scala/comments/13f4azh/what_would_it_take_to_make_scala_more_popular_in/)
 - [Help with Scala doc in a mixed sbt project using Lombok](https://www.reddit.com/r/scala/comments/13f31hh/help_with_scala_doc_in_a_mixed_sbt_project_using/)
 - [Designing an HTML Component system](https://www.reddit.com/r/scala/comments/13elkbf/designing_an_html_component_system/)
 - [Amdram snapshot. Tiny actors library](https://www.reddit.com/r/scala/comments/13ec5m9/amdram_snapshot_tiny_actors_library/)
 - [Why is the Scala community being demoralized on Twitter?](https://www.reddit.com/r/scala/comments/13ds7tt/why_is_the_scala_community_being_demoralized_on/)
-- [Stackoverflow Developer Survey 2023 is out](https://www.reddit.com/r/scala/comments/13c469j/stackoverflow_developer_survey_2023_is_out/)
-- [Replacing sbt with scala-cli in a simple project](https://www.reddit.com/r/scala/comments/13bvx5u/replacing_sbt_with_scalacli_in_a_simple_project/)
-- [Is Scala to Java the same relationship as TypeScript has with ECMAScript?](https://www.reddit.com/r/scala/comments/13bop3v/is_scala_to_java_the_same_relationship_as/)
-- [HOF which has parameter function of different in to out types](https://www.reddit.com/r/scala/comments/13bezyz/hof_which_has_parameter_function_of_different_in/)
-- [sbt 1.9.0-RC2 released](https://www.reddit.com/r/scala/comments/13b6yks/sbt_190rc2_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

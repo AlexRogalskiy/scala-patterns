@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Should I go with Scala or... ?](https://www.reddit.com/r/scala/comments/13guvo3/should_i_go_with_scala_or/)
+- [Jam 0.4.0 got Reval monad](https://www.reddit.com/r/scala/comments/13gk3kq/jam_040_got_reval_monad/)
 - [Debugging Scala3 and ZIO](https://www.reddit.com/r/scala/comments/13fo6vw/debugging_scala3_and_zio/)
 - [Is scala still in demand for Data Engineer role?](https://www.reddit.com/r/scala/comments/13fmzua/is_scala_still_in_demand_for_data_engineer_role/)
 - [Dualingo is written/ported to Scala](https://www.reddit.com/r/scala/comments/13fmhb2/dualingo_is_writtenported_to_scala/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [What would it take to make Scala more popular in industry?](https://www.reddit.com/r/scala/comments/13f4azh/what_would_it_take_to_make_scala_more_popular_in/)
 - [Help with Scala doc in a mixed sbt project using Lombok](https://www.reddit.com/r/scala/comments/13f31hh/help_with_scala_doc_in_a_mixed_sbt_project_using/)
 - [Designing an HTML Component system](https://www.reddit.com/r/scala/comments/13elkbf/designing_an_html_component_system/)
-- [Amdram snapshot. Tiny actors library](https://www.reddit.com/r/scala/comments/13ec5m9/amdram_snapshot_tiny_actors_library/)
-- [Why is the Scala community being demoralized on Twitter?](https://www.reddit.com/r/scala/comments/13ds7tt/why_is_the_scala_community_being_demoralized_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

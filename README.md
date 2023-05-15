@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Scala 3 compatibility story](https://www.reddit.com/r/scala/comments/13hpkqg/the_scala_3_compatibility_story/)
+- [field report: updating 3 year old scala and zio programs](https://www.reddit.com/r/scala/comments/13hp111/field_report_updating_3_year_old_scala_and_zio/)
+- [Telemetry with Scala, part 3: otel4s](https://www.reddit.com/r/scala/comments/13hlud9/telemetry_with_scala_part_3_otel4s/)
 - [Should I go with Scala or... ?](https://www.reddit.com/r/scala/comments/13guvo3/should_i_go_with_scala_or/)
 - [Jam 0.4.0 got Reval monad](https://www.reddit.com/r/scala/comments/13gk3kq/jam_040_got_reval_monad/)
 - [Debugging Scala3 and ZIO](https://www.reddit.com/r/scala/comments/13fo6vw/debugging_scala3_and_zio/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Dualingo is written/ported to Scala](https://www.reddit.com/r/scala/comments/13fmhb2/dualingo_is_writtenported_to_scala/)
 - [sbt 1.8.3 is released with security patches](https://www.reddit.com/r/scala/comments/13felqt/sbt_183_is_released_with_security_patches/)
 - [HexTacToe - Simple PoC for Scala.js, Babylon.js &amp; Electron.js interaction](https://www.reddit.com/r/scala/comments/13f9fbv/hextactoe_simple_poc_for_scalajs_babylonjs/)
-- [What would it take to make Scala more popular in industry?](https://www.reddit.com/r/scala/comments/13f4azh/what_would_it_take_to_make_scala_more_popular_in/)
-- [Help with Scala doc in a mixed sbt project using Lombok](https://www.reddit.com/r/scala/comments/13f31hh/help_with_scala_doc_in_a_mixed_sbt_project_using/)
-- [Designing an HTML Component system](https://www.reddit.com/r/scala/comments/13elkbf/designing_an_html_component_system/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I got high hopes for sbt 2.0!](https://www.reddit.com/r/scala/comments/13i8fi2/i_got_high_hopes_for_sbt_20/)
+- [Paweł Marks THE FUTURE OF SCALA Scalar Conference 2023](https://www.reddit.com/r/scala/comments/13i6mka/paweł_marks_the_future_of_scala_scalar_conference/)
+- [This week in #Scala &lpar;May 15, 2023&rpar;](https://www.reddit.com/r/scala/comments/13i6bl5/this_week_in_scala_may_15_2023/)
+- [Fully composable JSONPath implementation with an AST running on Circe](https://www.reddit.com/r/scala/comments/13i0y76/fully_composable_jsonpath_implementation_with_an/)
 - [The Scala 3 compatibility story](https://www.reddit.com/r/scala/comments/13hpkqg/the_scala_3_compatibility_story/)
 - [field report: updating 3 year old scala and zio programs](https://www.reddit.com/r/scala/comments/13hp111/field_report_updating_3_year_old_scala_and_zio/)
 - [Telemetry with Scala, part 3: otel4s](https://www.reddit.com/r/scala/comments/13hlud9/telemetry_with_scala_part_3_otel4s/)
 - [Should I go with Scala or... ?](https://www.reddit.com/r/scala/comments/13guvo3/should_i_go_with_scala_or/)
 - [Jam 0.4.0 got Reval monad](https://www.reddit.com/r/scala/comments/13gk3kq/jam_040_got_reval_monad/)
 - [Debugging Scala3 and ZIO](https://www.reddit.com/r/scala/comments/13fo6vw/debugging_scala3_and_zio/)
-- [Is scala still in demand for Data Engineer role?](https://www.reddit.com/r/scala/comments/13fmzua/is_scala_still_in_demand_for_data_engineer_role/)
-- [Dualingo is written/ported to Scala](https://www.reddit.com/r/scala/comments/13fmhb2/dualingo_is_writtenported_to_scala/)
-- [sbt 1.8.3 is released with security patches](https://www.reddit.com/r/scala/comments/13felqt/sbt_183_is_released_with_security_patches/)
-- [HexTacToe - Simple PoC for Scala.js, Babylon.js &amp; Electron.js interaction](https://www.reddit.com/r/scala/comments/13f9fbv/hextactoe_simple_poc_for_scalajs_babylonjs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

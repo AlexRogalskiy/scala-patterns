@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Asking for help to improve codepreview](https://www.reddit.com/r/scala/comments/13jl441/asking_for_help_to_improve_codepreview/)
+- [Scala at 14, Kotlin at 17, Rust at 19](https://www.reddit.com/r/scala/comments/13jbkqg/scala_at_14_kotlin_at_17_rust_at_19/)
+- [Reduce JVM Application Startup and Warmup Times with CRaC](https://www.reddit.com/r/scala/comments/13jal4o/reduce_jvm_application_startup_and_warmup_times/)
+- [How to implement `if-else if -else if -else` with cat effect IO in Scala?](https://www.reddit.com/r/scala/comments/13j8kaj/how_to_implement_ifelse_if_else_if_else_with_cat/)
 - [I got high hopes for sbt 2.0!](https://www.reddit.com/r/scala/comments/13i8fi2/i_got_high_hopes_for_sbt_20/)
 - [Paweł Marks THE FUTURE OF SCALA Scalar Conference 2023](https://www.reddit.com/r/scala/comments/13i6mka/paweł_marks_the_future_of_scala_scalar_conference/)
 - [This week in #Scala &lpar;May 15, 2023&rpar;](https://www.reddit.com/r/scala/comments/13i6bl5/this_week_in_scala_may_15_2023/)
 - [Fully composable JSONPath implementation with an AST running on Circe](https://www.reddit.com/r/scala/comments/13i0y76/fully_composable_jsonpath_implementation_with_an/)
 - [The Scala 3 compatibility story](https://www.reddit.com/r/scala/comments/13hpkqg/the_scala_3_compatibility_story/)
 - [field report: updating 3 year old scala and zio programs](https://www.reddit.com/r/scala/comments/13hp111/field_report_updating_3_year_old_scala_and_zio/)
-- [Telemetry with Scala, part 3: otel4s](https://www.reddit.com/r/scala/comments/13hlud9/telemetry_with_scala_part_3_otel4s/)
-- [Should I go with Scala or... ?](https://www.reddit.com/r/scala/comments/13guvo3/should_i_go_with_scala_or/)
-- [Jam 0.4.0 got Reval monad](https://www.reddit.com/r/scala/comments/13gk3kq/jam_040_got_reval_monad/)
-- [Debugging Scala3 and ZIO](https://www.reddit.com/r/scala/comments/13fo6vw/debugging_scala3_and_zio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

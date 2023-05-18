@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Generic class only allowing types extending trait](https://www.reddit.com/r/scala/comments/13k918a/generic_class_only_allowing_types_extending_trait/)
+- [I am curious how many Scala developers on this sub use Scala to make games.](https://www.reddit.com/r/scala/comments/13k83dh/i_am_curious_how_many_scala_developers_on_this/)
+- [Learning Smithy/Smithy4s - YouTube series](https://www.reddit.com/r/scala/comments/13k1tat/learning_smithysmithy4s_youtube_series/)
+- [Functional Design With Scala 3 Course &lpar;May 29-31, 2023&rpar;](https://www.reddit.com/r/scala/comments/13k1d4v/functional_design_with_scala_3_course_may_2931/)
+- [Publish a Scala Library using Github Actions in No Time](https://www.reddit.com/r/scala/comments/13jyxrf/publish_a_scala_library_using_github_actions_in/)
 - [Asking for help to improve codepreview](https://www.reddit.com/r/scala/comments/13jl441/asking_for_help_to_improve_codepreview/)
 - [Scala at 14, Kotlin at 17, Rust at 19](https://www.reddit.com/r/scala/comments/13jbkqg/scala_at_14_kotlin_at_17_rust_at_19/)
 - [Reduce JVM Application Startup and Warmup Times with CRaC](https://www.reddit.com/r/scala/comments/13jal4o/reduce_jvm_application_startup_and_warmup_times/)
 - [How to implement `if-else if -else if -else` with cat effect IO in Scala?](https://www.reddit.com/r/scala/comments/13j8kaj/how_to_implement_ifelse_if_else_if_else_with_cat/)
 - [I got high hopes for sbt 2.0!](https://www.reddit.com/r/scala/comments/13i8fi2/i_got_high_hopes_for_sbt_20/)
-- [Paweł Marks THE FUTURE OF SCALA Scalar Conference 2023](https://www.reddit.com/r/scala/comments/13i6mka/paweł_marks_the_future_of_scala_scalar_conference/)
-- [This week in #Scala &lpar;May 15, 2023&rpar;](https://www.reddit.com/r/scala/comments/13i6bl5/this_week_in_scala_may_15_2023/)
-- [Fully composable JSONPath implementation with an AST running on Circe](https://www.reddit.com/r/scala/comments/13i0y76/fully_composable_jsonpath_implementation_with_an/)
-- [The Scala 3 compatibility story](https://www.reddit.com/r/scala/comments/13hpkqg/the_scala_3_compatibility_story/)
-- [field report: updating 3 year old scala and zio programs](https://www.reddit.com/r/scala/comments/13hp111/field_report_updating_3_year_old_scala_and_zio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

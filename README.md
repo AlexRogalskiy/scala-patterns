@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Template for Scala development in Codespaces](https://www.reddit.com/r/scala/comments/13lgc3w/template_for_scala_development_in_codespaces/)
+- [Writing a GitHub Action with Scala.js with scala-cli and Typelevel toolkit](https://www.reddit.com/r/scala/comments/13l1u5e/writing_a_github_action_with_scalajs_with/)
 - [Generic class only allowing types extending trait](https://www.reddit.com/r/scala/comments/13k918a/generic_class_only_allowing_types_extending_trait/)
 - [I am curious how many Scala developers on this sub use Scala to make games.](https://www.reddit.com/r/scala/comments/13k83dh/i_am_curious_how_many_scala_developers_on_this/)
 - [Learning Smithy/Smithy4s - YouTube series](https://www.reddit.com/r/scala/comments/13k1tat/learning_smithysmithy4s_youtube_series/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Asking for help to improve codepreview](https://www.reddit.com/r/scala/comments/13jl441/asking_for_help_to_improve_codepreview/)
 - [Scala at 14, Kotlin at 17, Rust at 19](https://www.reddit.com/r/scala/comments/13jbkqg/scala_at_14_kotlin_at_17_rust_at_19/)
 - [Reduce JVM Application Startup and Warmup Times with CRaC](https://www.reddit.com/r/scala/comments/13jal4o/reduce_jvm_application_startup_and_warmup_times/)
-- [How to implement `if-else if -else if -else` with cat effect IO in Scala?](https://www.reddit.com/r/scala/comments/13j8kaj/how_to_implement_ifelse_if_else_if_else_with_cat/)
-- [I got high hopes for sbt 2.0!](https://www.reddit.com/r/scala/comments/13i8fi2/i_got_high_hopes_for_sbt_20/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

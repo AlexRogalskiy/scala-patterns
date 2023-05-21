@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [At long last.. Tyrian &lpar;0.7.0&rpar; get&#39;s frontend routing!](https://www.reddit.com/r/scala/comments/13n91ml/at_long_last_tyrian_070_gets_frontend_routing/)
 - [A reminder on community hazards](https://www.reddit.com/r/scala/comments/13m8wny/a_reminder_on_community_hazards/)
 - [A Splendid Scala Journey](https://www.reddit.com/r/scala/comments/13m0tik/a_splendid_scala_journey/)
 - [Template for Scala development in Codespaces](https://www.reddit.com/r/scala/comments/13lgc3w/template_for_scala_development_in_codespaces/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Learning Smithy/Smithy4s - YouTube series](https://www.reddit.com/r/scala/comments/13k1tat/learning_smithysmithy4s_youtube_series/)
 - [Functional Design With Scala 3 Course &lpar;May 29-31, 2023&rpar;](https://www.reddit.com/r/scala/comments/13k1d4v/functional_design_with_scala_3_course_may_2931/)
 - [Publish a Scala Library using Github Actions in No Time](https://www.reddit.com/r/scala/comments/13jyxrf/publish_a_scala_library_using_github_actions_in/)
-- [Asking for help to improve codepreview](https://www.reddit.com/r/scala/comments/13jl441/asking_for_help_to_improve_codepreview/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

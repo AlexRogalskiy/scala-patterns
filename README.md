@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I have decided to connect my future with Scala &lpar;if possible&rpar;, need little advice](https://www.reddit.com/r/scala/comments/13p4b2w/i_have_decided_to_connect_my_future_with_scala_if/)
 - [This week in #Scala &lpar;May 22, 2023&rpar;](https://www.reddit.com/r/scala/comments/13ny10u/this_week_in_scala_may_22_2023/)
 - [At long last.. Tyrian &lpar;0.7.0&rpar; get&#39;s frontend routing!](https://www.reddit.com/r/scala/comments/13n91ml/at_long_last_tyrian_070_gets_frontend_routing/)
 - [A reminder on community hazards](https://www.reddit.com/r/scala/comments/13m8wny/a_reminder_on_community_hazards/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Generic class only allowing types extending trait](https://www.reddit.com/r/scala/comments/13k918a/generic_class_only_allowing_types_extending_trait/)
 - [I am curious how many Scala developers on this sub use Scala to make games.](https://www.reddit.com/r/scala/comments/13k83dh/i_am_curious_how_many_scala_developers_on_this/)
 - [Learning Smithy/Smithy4s - YouTube series](https://www.reddit.com/r/scala/comments/13k1tat/learning_smithysmithy4s_youtube_series/)
-- [Functional Design With Scala 3 Course &lpar;May 29-31, 2023&rpar;](https://www.reddit.com/r/scala/comments/13k1d4v/functional_design_with_scala_3_course_may_2931/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

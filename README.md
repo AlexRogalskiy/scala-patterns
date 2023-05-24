@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Retiring Dinosaur Languages](https://www.reddit.com/r/scala/comments/13q1mps/retiring_dinosaur_languages/)
+- [Migration to scala 3: what does not work yet for us at rudder.io](https://www.reddit.com/r/scala/comments/13q0uly/migration_to_scala_3_what_does_not_work_yet_for/)
+- [Encoding Base58: Understanding and implementing in Scala](https://www.reddit.com/r/scala/comments/13ps9an/encoding_base58_understanding_and_implementing_in/)
 - [I have decided to connect my future with Scala &lpar;if possible&rpar;, need little advice](https://www.reddit.com/r/scala/comments/13p4b2w/i_have_decided_to_connect_my_future_with_scala_if/)
 - [This week in #Scala &lpar;May 22, 2023&rpar;](https://www.reddit.com/r/scala/comments/13ny10u/this_week_in_scala_may_22_2023/)
 - [At long last.. Tyrian &lpar;0.7.0&rpar; get&#39;s frontend routing!](https://www.reddit.com/r/scala/comments/13n91ml/at_long_last_tyrian_070_gets_frontend_routing/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [A Splendid Scala Journey](https://www.reddit.com/r/scala/comments/13m0tik/a_splendid_scala_journey/)
 - [Template for Scala development in Codespaces](https://www.reddit.com/r/scala/comments/13lgc3w/template_for_scala_development_in_codespaces/)
 - [Writing a GitHub Action with Scala.js with scala-cli and Typelevel toolkit](https://www.reddit.com/r/scala/comments/13l1u5e/writing_a_github_action_with_scalajs_with/)
-- [Generic class only allowing types extending trait](https://www.reddit.com/r/scala/comments/13k918a/generic_class_only_allowing_types_extending_trait/)
-- [I am curious how many Scala developers on this sub use Scala to make games.](https://www.reddit.com/r/scala/comments/13k83dh/i_am_curious_how_many_scala_developers_on_this/)
-- [Learning Smithy/Smithy4s - YouTube series](https://www.reddit.com/r/scala/comments/13k1tat/learning_smithysmithy4s_youtube_series/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Realworld: a ZIO+Quill+tapir+Scala 3 demo app](https://www.reddit.com/r/scala/comments/13qobkp/realworld_a_zioquilltapirscala_3_demo_app/)
+- [tree-sitter-scala 0.20.0 released](https://www.reddit.com/r/scala/comments/13qmwr8/treesitterscala_0200_released/)
+- [Future in on ScalaJVM vs ScalaJS](https://www.reddit.com/r/scala/comments/13qjwut/future_in_on_scalajvm_vs_scalajs/)
 - [Retiring Dinosaur Languages](https://www.reddit.com/r/scala/comments/13q1mps/retiring_dinosaur_languages/)
 - [Migration to scala 3: what does not work yet for us at rudder.io](https://www.reddit.com/r/scala/comments/13q0uly/migration_to_scala_3_what_does_not_work_yet_for/)
 - [Encoding Base58: Understanding and implementing in Scala](https://www.reddit.com/r/scala/comments/13ps9an/encoding_base58_understanding_and_implementing_in/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;May 22, 2023&rpar;](https://www.reddit.com/r/scala/comments/13ny10u/this_week_in_scala_may_22_2023/)
 - [At long last.. Tyrian &lpar;0.7.0&rpar; get&#39;s frontend routing!](https://www.reddit.com/r/scala/comments/13n91ml/at_long_last_tyrian_070_gets_frontend_routing/)
 - [A reminder on community hazards](https://www.reddit.com/r/scala/comments/13m8wny/a_reminder_on_community_hazards/)
-- [A Splendid Scala Journey](https://www.reddit.com/r/scala/comments/13m0tik/a_splendid_scala_journey/)
-- [Template for Scala development in Codespaces](https://www.reddit.com/r/scala/comments/13lgc3w/template_for_scala_development_in_codespaces/)
-- [Writing a GitHub Action with Scala.js with scala-cli and Typelevel toolkit](https://www.reddit.com/r/scala/comments/13l1u5e/writing_a_github_action_with_scalajs_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

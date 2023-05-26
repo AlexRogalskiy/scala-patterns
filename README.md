@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3 Enums](https://www.reddit.com/r/scala/comments/13rgs25/scala_3_enums/)
+- [Join two USA Scala Community Sprees in June - Seattle, WA and San Francisco, CA](https://www.reddit.com/r/scala/comments/13rcxc1/join_two_usa_scala_community_sprees_in_june/)
+- [Reconnecting with Scala. What&#39;s new?](https://www.reddit.com/r/scala/comments/13r5uhp/reconnecting_with_scala_whats_new/)
 - [Realworld: a ZIO+Quill+tapir+Scala 3 demo app](https://www.reddit.com/r/scala/comments/13qobkp/realworld_a_zioquilltapirscala_3_demo_app/)
 - [tree-sitter-scala 0.20.0 released](https://www.reddit.com/r/scala/comments/13qmwr8/treesitterscala_0200_released/)
 - [Future in on ScalaJVM vs ScalaJS](https://www.reddit.com/r/scala/comments/13qjwut/future_in_on_scalajvm_vs_scalajs/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Migration to scala 3: what does not work yet for us at rudder.io](https://www.reddit.com/r/scala/comments/13q0uly/migration_to_scala_3_what_does_not_work_yet_for/)
 - [Encoding Base58: Understanding and implementing in Scala](https://www.reddit.com/r/scala/comments/13ps9an/encoding_base58_understanding_and_implementing_in/)
 - [I have decided to connect my future with Scala &lpar;if possible&rpar;, need little advice](https://www.reddit.com/r/scala/comments/13p4b2w/i_have_decided_to_connect_my_future_with_scala_if/)
-- [This week in #Scala &lpar;May 22, 2023&rpar;](https://www.reddit.com/r/scala/comments/13ny10u/this_week_in_scala_may_22_2023/)
-- [At long last.. Tyrian &lpar;0.7.0&rpar; get&#39;s frontend routing!](https://www.reddit.com/r/scala/comments/13n91ml/at_long_last_tyrian_070_gets_frontend_routing/)
-- [A reminder on community hazards](https://www.reddit.com/r/scala/comments/13m8wny/a_reminder_on_community_hazards/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

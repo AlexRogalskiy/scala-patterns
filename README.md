@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The beginning token distribution of FLOKI](https://www.reddit.com/r/scala/comments/13suvz4/the_beginning_token_distribution_of_floki/)
+- [The primary LayerZero airdrop](https://www.reddit.com/r/scala/comments/13tnjih/the_primary_layerzero_airdrop/)
+- [fs2-kafka: pipes, offset commitment races, and test coverage with Weaver](https://www.reddit.com/r/scala/comments/13tdrs8/fs2kafka_pipes_offset_commitment_races_and_test/)
+- [Is Scala with Apache Spark a top demanded and highest paying tech skill in Data Engineering job market?](https://www.reddit.com/r/scala/comments/13tcsxo/is_scala_with_apache_spark_a_top_demanded_and/)
 - [an template for Scala 3 vscode extension development](https://www.reddit.com/r/scala/comments/13smyau/an_template_for_scala_3_vscode_extension/)
 - [The CFP for Scale by the Bay is open. Share your talks about best practices in Software Engineering, Distributed Systems, Data &lpar;ML/AI&rpar;](https://www.reddit.com/r/scala/comments/13sisja/the_cfp_for_scale_by_the_bay_is_open_share_your/)
 - [Run Sacla jobs ML/NLT/Embedding with Cloud Native stack](https://www.reddit.com/r/scala/comments/13sg83u/run_sacla_jobs_mlnltembedding_with_cloud_native/)
 - [What was the most influential book in your career?](https://www.reddit.com/r/scala/comments/13sf5f7/what_was_the_most_influential_book_in_your_career/)
+- [Scala Meetup in Oakland 🚀](https://www.reddit.com/r/scala/comments/13sdtoo/scala_meetup_in_oakland/)
 - [Scala CLI v1.0.0 is out!](https://www.reddit.com/r/scala/comments/13sao9k/scala_cli_v100_is_out/)
 - [Scala 3 Enums](https://www.reddit.com/r/scala/comments/13rgs25/scala_3_enums/)
-- [Join two USA Scala Community Sprees in June - Seattle, WA and San Francisco, CA](https://www.reddit.com/r/scala/comments/13rcxc1/join_two_usa_scala_community_sprees_in_june/)
-- [Reconnecting with Scala. What&#39;s new?](https://www.reddit.com/r/scala/comments/13r5uhp/reconnecting_with_scala_whats_new/)
-- [Realworld: a ZIO+Quill+tapir+Scala 3 demo app](https://www.reddit.com/r/scala/comments/13qobkp/realworld_a_zioquilltapirscala_3_demo_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

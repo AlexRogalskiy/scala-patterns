@@ -271,7 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The primary LayerZero airdrop](https://www.reddit.com/r/scala/comments/13tnjih/the_primary_layerzero_airdrop/)
+- [This week in #Scala &lpar;May 29, 2023&rpar;](https://www.reddit.com/r/scala/comments/13u40s4/this_week_in_scala_may_29_2023/)
+- [How to test Tagless Final Algebra?](https://www.reddit.com/r/scala/comments/13u3xcm/how_to_test_tagless_final_algebra/)
 - [fs2-kafka: pipes, offset commitment races, and test coverage with Weaver](https://www.reddit.com/r/scala/comments/13tdrs8/fs2kafka_pipes_offset_commitment_races_and_test/)
 - [Is Scala with Apache Spark a top demanded and highest paying tech skill in Data Engineering job market?](https://www.reddit.com/r/scala/comments/13tcsxo/is_scala_with_apache_spark_a_top_demanded_and/)
 - [an template for Scala 3 vscode extension development](https://www.reddit.com/r/scala/comments/13smyau/an_template_for_scala_3_vscode_extension/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [What was the most influential book in your career?](https://www.reddit.com/r/scala/comments/13sf5f7/what_was_the_most_influential_book_in_your_career/)
 - [Scala Meetup in Oakland 🚀](https://www.reddit.com/r/scala/comments/13sdtoo/scala_meetup_in_oakland/)
 - [Scala CLI v1.0.0 is out!](https://www.reddit.com/r/scala/comments/13sao9k/scala_cli_v100_is_out/)
-- [Scala 3 Enums](https://www.reddit.com/r/scala/comments/13rgs25/scala_3_enums/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

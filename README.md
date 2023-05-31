@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Special LLM and AI Meetup at Scala Days in Seattle](https://www.reddit.com/r/scala/comments/13vyp9h/special_llm_and_ai_meetup_at_scala_days_in_seattle/)
+- [Also reconnecting with Scala. Interested in LLMs](https://www.reddit.com/r/scala/comments/13vwf8l/also_reconnecting_with_scala_interested_in_llms/)
+- [Scala Meetup in Bay Area](https://www.reddit.com/r/scala/comments/13vr6f4/scala_meetup_in_bay_area/)
+- [Scala 3.3.0 LTS released!](https://www.reddit.com/r/scala/comments/13vr2sr/scala_330_lts_released/)
 - [ScaLatin 5.0 | Scala y el mercado](https://www.reddit.com/r/scala/comments/13uth5w/scalatin_50_scala_y_el_mercado/)
 - [Primeros pasos con ZIO](https://www.reddit.com/r/scala/comments/13ulynr/primeros_pasos_con_zio/)
 - [This week in #Scala &lpar;May 29, 2023&rpar;](https://www.reddit.com/r/scala/comments/13u40s4/this_week_in_scala_may_29_2023/)
 - [How to test Tagless Final Algebra?](https://www.reddit.com/r/scala/comments/13u3xcm/how_to_test_tagless_final_algebra/)
 - [fs2-kafka: pipes, offset commitment races, and test coverage with Weaver](https://www.reddit.com/r/scala/comments/13tdrs8/fs2kafka_pipes_offset_commitment_races_and_test/)
 - [Is Scala with Apache Spark a top demanded and highest paying tech skill in Data Engineering job market?](https://www.reddit.com/r/scala/comments/13tcsxo/is_scala_with_apache_spark_a_top_demanded_and/)
-- [an template for Scala 3 vscode extension development](https://www.reddit.com/r/scala/comments/13smyau/an_template_for_scala_3_vscode_extension/)
-- [The CFP for Scale by the Bay is open. Share your talks about best practices in Software Engineering, Distributed Systems, Data &lpar;ML/AI&rpar;](https://www.reddit.com/r/scala/comments/13sisja/the_cfp_for_scale_by_the_bay_is_open_share_your/)
-- [Run Sacla jobs ML/NLT/Embedding with Cloud Native stack](https://www.reddit.com/r/scala/comments/13sg83u/run_sacla_jobs_mlnltembedding_with_cloud_native/)
-- [What was the most influential book in your career?](https://www.reddit.com/r/scala/comments/13sf5f7/what_was_the_most_influential_book_in_your_career/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The opening token distribution of LayerZero](https://www.reddit.com/r/scala/comments/13y0b3d/the_opening_token_distribution_of_layerzero/)
+- [Companies with interesting Scala projects](https://www.reddit.com/r/scala/comments/13xz0id/companies_with_interesting_scala_projects/)
+- [My first scala project](https://www.reddit.com/r/scala/comments/13xn2fw/my_first_scala_project/)
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/13xldor/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [Scalendar June](https://www.reddit.com/r/scala/comments/13xgq3c/scalendar_june/)
 - [Primeros pasos con ZIO parte 2](https://www.reddit.com/r/scala/comments/13x3y83/primeros_pasos_con_zio_parte_2/)
 - [Special LLM and AI Meetup at Scala Days in Seattle](https://www.reddit.com/r/scala/comments/13vyp9h/special_llm_and_ai_meetup_at_scala_days_in_seattle/)
 - [Also reconnecting with Scala. Interested in LLMs](https://www.reddit.com/r/scala/comments/13vwf8l/also_reconnecting_with_scala_interested_in_llms/)
 - [Scala Meetup in Bay Area](https://www.reddit.com/r/scala/comments/13vr6f4/scala_meetup_in_bay_area/)
 - [Scala 3.3.0 LTS released!](https://www.reddit.com/r/scala/comments/13vr2sr/scala_330_lts_released/)
-- [ScaLatin 5.0 | Scala y el mercado](https://www.reddit.com/r/scala/comments/13uth5w/scalatin_50_scala_y_el_mercado/)
-- [Primeros pasos con ZIO](https://www.reddit.com/r/scala/comments/13ulynr/primeros_pasos_con_zio/)
-- [This week in #Scala &lpar;May 29, 2023&rpar;](https://www.reddit.com/r/scala/comments/13u40s4/this_week_in_scala_may_29_2023/)
-- [How to test Tagless Final Algebra?](https://www.reddit.com/r/scala/comments/13u3xcm/how_to_test_tagless_final_algebra/)
-- [fs2-kafka: pipes, offset commitment races, and test coverage with Weaver](https://www.reddit.com/r/scala/comments/13tdrs8/fs2kafka_pipes_offset_commitment_races_and_test/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

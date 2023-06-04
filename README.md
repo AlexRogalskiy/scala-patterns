@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Introducing ZIO Clippy - a Scala compiler plugin for better ZIO type mismatch errors](https://www.reddit.com/r/scala/comments/13zcszs/introducing_zio_clippy_a_scala_compiler_plugin/)
 - [sbt 1.9.0 released](https://www.reddit.com/r/scala/comments/13ydtv2/sbt_190_released/)
 - [Using 3.3.0 braceless syntaxt to &quot;pythonyze&quot; Scala](https://www.reddit.com/r/scala/comments/13ybqb9/using_330_braceless_syntaxt_to_pythonyze_scala/)
 - [How to get started?](https://www.reddit.com/r/scala/comments/13y6wc5/how_to_get_started/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/13xldor/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Scalendar June](https://www.reddit.com/r/scala/comments/13xgq3c/scalendar_june/)
 - [Primeros pasos con ZIO parte 2](https://www.reddit.com/r/scala/comments/13x3y83/primeros_pasos_con_zio_parte_2/)
-- [Special LLM and AI Meetup at Scala Days in Seattle](https://www.reddit.com/r/scala/comments/13vyp9h/special_llm_and_ai_meetup_at_scala_days_in_seattle/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

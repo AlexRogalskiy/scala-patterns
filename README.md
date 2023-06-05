@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Jun 5, 2023&rpar;](https://www.reddit.com/r/scala/comments/140shvh/this_week_in_scala_jun_5_2023/)
+- [Primeros pasos con ZIO parte 3](https://www.reddit.com/r/scala/comments/140j88x/primeros_pasos_con_zio_parte_3/)
 - [Introducing ZIO Clippy - a Scala compiler plugin for better ZIO type mismatch errors](https://www.reddit.com/r/scala/comments/13zcszs/introducing_zio_clippy_a_scala_compiler_plugin/)
 - [sbt 1.9.0 released](https://www.reddit.com/r/scala/comments/13ydtv2/sbt_190_released/)
 - [Using 3.3.0 braceless syntaxt to &quot;pythonyze&quot; Scala](https://www.reddit.com/r/scala/comments/13ybqb9/using_330_braceless_syntaxt_to_pythonyze_scala/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Companies with interesting Scala projects](https://www.reddit.com/r/scala/comments/13xz0id/companies_with_interesting_scala_projects/)
 - [My first scala project](https://www.reddit.com/r/scala/comments/13xn2fw/my_first_scala_project/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/13xldor/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [Scalendar June](https://www.reddit.com/r/scala/comments/13xgq3c/scalendar_june/)
-- [Primeros pasos con ZIO parte 2](https://www.reddit.com/r/scala/comments/13x3y83/primeros_pasos_con_zio_parte_2/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

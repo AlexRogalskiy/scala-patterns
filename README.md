@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Iron updates: turning opaque types into value objects](https://www.reddit.com/r/scala/comments/142mpec/iron_updates_turning_opaque_types_into_value/)
+- [Scala 3 macros course?](https://www.reddit.com/r/scala/comments/142mo8v/scala_3_macros_course/)
+- [Scala 3 Significant Indentation Woes: Sample](https://www.reddit.com/r/scala/comments/142ecvf/scala_3_significant_indentation_woes_sample/)
+- [ScaLatin 5.0 | Scala y el mercado](https://www.reddit.com/r/scala/comments/142dcpk/scalatin_50_scala_y_el_mercado/)
 - [Largest Scala Hirers From May 2023](https://www.reddit.com/r/scala/comments/141gld3/largest_scala_hirers_from_may_2023/)
 - [Scala Custom JSON codec Help](https://www.reddit.com/r/scala/comments/141bni8/scala_custom_json_codec_help/)
 - [Pekko: El fork open source de Akka que impulsa la escalabilidad en sistemas concurrentes](https://www.reddit.com/r/scala/comments/14129c0/pekko_el_fork_open_source_de_akka_que_impulsa_la/)
 - [Mi experiencia con la programación funcional en Scala](https://www.reddit.com/r/scala/comments/1411vo9/mi_experiencia_con_la_programación_funcional_en/)
 - [This week in #Scala &lpar;Jun 5, 2023&rpar;](https://www.reddit.com/r/scala/comments/140shvh/this_week_in_scala_jun_5_2023/)
 - [Primeros pasos con ZIO parte 3](https://www.reddit.com/r/scala/comments/140j88x/primeros_pasos_con_zio_parte_3/)
-- [Introducing ZIO Clippy - a Scala compiler plugin for better ZIO type mismatch errors](https://www.reddit.com/r/scala/comments/13zcszs/introducing_zio_clippy_a_scala_compiler_plugin/)
-- [sbt 1.9.0 released](https://www.reddit.com/r/scala/comments/13ydtv2/sbt_190_released/)
-- [Using 3.3.0 braceless syntaxt to &quot;pythonyze&quot; Scala](https://www.reddit.com/r/scala/comments/13ybqb9/using_330_braceless_syntaxt_to_pythonyze_scala/)
-- [How to get started?](https://www.reddit.com/r/scala/comments/13y6wc5/how_to_get_started/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

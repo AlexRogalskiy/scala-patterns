@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 2.13.11 and 2.12.18 are here](https://www.reddit.com/r/scala/comments/143iabq/scala_21311_and_21218_are_here/)
 - [Iron updates: turning opaque types into value objects](https://www.reddit.com/r/scala/comments/142mpec/iron_updates_turning_opaque_types_into_value/)
 - [Scala 3 macros course?](https://www.reddit.com/r/scala/comments/142mo8v/scala_3_macros_course/)
 - [Scala 3 Significant Indentation Woes: Sample](https://www.reddit.com/r/scala/comments/142ecvf/scala_3_significant_indentation_woes_sample/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Pekko: El fork open source de Akka que impulsa la escalabilidad en sistemas concurrentes](https://www.reddit.com/r/scala/comments/14129c0/pekko_el_fork_open_source_de_akka_que_impulsa_la/)
 - [Mi experiencia con la programación funcional en Scala](https://www.reddit.com/r/scala/comments/1411vo9/mi_experiencia_con_la_programación_funcional_en/)
 - [This week in #Scala &lpar;Jun 5, 2023&rpar;](https://www.reddit.com/r/scala/comments/140shvh/this_week_in_scala_jun_5_2023/)
-- [Primeros pasos con ZIO parte 3](https://www.reddit.com/r/scala/comments/140j88x/primeros_pasos_con_zio_parte_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

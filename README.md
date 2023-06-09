@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Supertype constraint on type parameter](https://www.reddit.com/r/scala/comments/144muf3/supertype_constraint_on_type_parameter/)
+- [5 Books For Expert Scala Programmers](https://www.reddit.com/r/scala/comments/144j1tu/5_books_for_expert_scala_programmers/)
+- [Version 0.11.0 of the Mill Scala Build Tool is out](https://www.reddit.com/r/scala/comments/144cxej/version_0110_of_the_mill_scala_build_tool_is_out/)
+- [HTTP Authentication &amp; Authorization with Http4s](https://www.reddit.com/r/scala/comments/144aod3/http_authentication_authorization_with_http4s/)
+- [Primeros pasos con ZIO parte 4](https://www.reddit.com/r/scala/comments/143zy5o/primeros_pasos_con_zio_parte_4/)
+- [Øyvind Berg and John De Goes discuss Bleep, the new config-as-data build tool](https://www.reddit.com/r/scala/comments/143x1l0/øyvind_berg_and_john_de_goes_discuss_bleep_the/)
 - [Scala 2.13.11 and 2.12.18 are here](https://www.reddit.com/r/scala/comments/143iabq/scala_21311_and_21218_are_here/)
 - [Iron updates: turning opaque types into value objects](https://www.reddit.com/r/scala/comments/142mpec/iron_updates_turning_opaque_types_into_value/)
 - [Scala 3 macros course?](https://www.reddit.com/r/scala/comments/142mo8v/scala_3_macros_course/)
 - [Scala 3 Significant Indentation Woes: Sample](https://www.reddit.com/r/scala/comments/142ecvf/scala_3_significant_indentation_woes_sample/)
-- [ScaLatin 5.0 | Scala y el mercado](https://www.reddit.com/r/scala/comments/142dcpk/scalatin_50_scala_y_el_mercado/)
-- [Largest Scala Hirers From May 2023](https://www.reddit.com/r/scala/comments/141gld3/largest_scala_hirers_from_may_2023/)
-- [Scala Custom JSON codec Help](https://www.reddit.com/r/scala/comments/141bni8/scala_custom_json_codec_help/)
-- [Pekko: El fork open source de Akka que impulsa la escalabilidad en sistemas concurrentes](https://www.reddit.com/r/scala/comments/14129c0/pekko_el_fork_open_source_de_akka_que_impulsa_la/)
-- [Mi experiencia con la programación funcional en Scala](https://www.reddit.com/r/scala/comments/1411vo9/mi_experiencia_con_la_programación_funcional_en/)
-- [This week in #Scala &lpar;Jun 5, 2023&rpar;](https://www.reddit.com/r/scala/comments/140shvh/this_week_in_scala_jun_5_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

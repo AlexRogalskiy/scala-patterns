@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt fails with IOException: No such file or directory](https://www.reddit.com/r/scala/comments/144w3z4/sbt_fails_with_ioexception_no_such_file_or/)
 - [Supertype constraint on type parameter](https://www.reddit.com/r/scala/comments/144muf3/supertype_constraint_on_type_parameter/)
 - [5 Books For Expert Scala Programmers](https://www.reddit.com/r/scala/comments/144j1tu/5_books_for_expert_scala_programmers/)
 - [Version 0.11.0 of the Mill Scala Build Tool is out](https://www.reddit.com/r/scala/comments/144cxej/version_0110_of_the_mill_scala_build_tool_is_out/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala 2.13.11 and 2.12.18 are here](https://www.reddit.com/r/scala/comments/143iabq/scala_21311_and_21218_are_here/)
 - [Iron updates: turning opaque types into value objects](https://www.reddit.com/r/scala/comments/142mpec/iron_updates_turning_opaque_types_into_value/)
 - [Scala 3 macros course?](https://www.reddit.com/r/scala/comments/142mo8v/scala_3_macros_course/)
-- [Scala 3 Significant Indentation Woes: Sample](https://www.reddit.com/r/scala/comments/142ecvf/scala_3_significant_indentation_woes_sample/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

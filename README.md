@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [tree-sitter-scala 0.20.1 released](https://www.reddit.com/r/scala/comments/145tlqw/treesitterscala_0201_released/)
 - [sbt fails with IOException: No such file or directory](https://www.reddit.com/r/scala/comments/144w3z4/sbt_fails_with_ioexception_no_such_file_or/)
 - [Supertype constraint on type parameter](https://www.reddit.com/r/scala/comments/144muf3/supertype_constraint_on_type_parameter/)
 - [5 Books For Expert Scala Programmers](https://www.reddit.com/r/scala/comments/144j1tu/5_books_for_expert_scala_programmers/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Øyvind Berg and John De Goes discuss Bleep, the new config-as-data build tool](https://www.reddit.com/r/scala/comments/143x1l0/øyvind_berg_and_john_de_goes_discuss_bleep_the/)
 - [Scala 2.13.11 and 2.12.18 are here](https://www.reddit.com/r/scala/comments/143iabq/scala_21311_and_21218_are_here/)
 - [Iron updates: turning opaque types into value objects](https://www.reddit.com/r/scala/comments/142mpec/iron_updates_turning_opaque_types_into_value/)
-- [Scala 3 macros course?](https://www.reddit.com/r/scala/comments/142mo8v/scala_3_macros_course/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

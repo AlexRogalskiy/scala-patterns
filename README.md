@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala vs Java](https://www.reddit.com/r/scala/comments/147v7v7/scala_vs_java/)
+- [Alternatives to scala FP](https://www.reddit.com/r/scala/comments/147laim/alternatives_to_scala_fp/)
+- [`boundary/break`: do you use it ? what do you do with it ?](https://www.reddit.com/r/scala/comments/147ikux/boundarybreak_do_you_use_it_what_do_you_do_with_it/)
 - [This week in #Scala &lpar;Jun 12, 2023&rpar;](https://www.reddit.com/r/scala/comments/146x6h1/this_week_in_scala_jun_12_2023/)
 - [dotty-cps-async 0.9.17 is on maven central](https://www.reddit.com/r/scala/comments/146tuoe/dottycpsasync_0917_is_on_maven_central/)
 - [com.lihaoyi Scala: Executable Pseudocode that&#39;s Easy, Boring, and Fast](https://www.reddit.com/r/scala/comments/146r48o/comlihaoyi_scala_executable_pseudocode_thats_easy/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [tree-sitter-scala 0.20.1 released](https://www.reddit.com/r/scala/comments/145tlqw/treesitterscala_0201_released/)
 - [sbt fails with IOException: No such file or directory](https://www.reddit.com/r/scala/comments/144w3z4/sbt_fails_with_ioexception_no_such_file_or/)
 - [Supertype constraint on type parameter](https://www.reddit.com/r/scala/comments/144muf3/supertype_constraint_on_type_parameter/)
-- [5 Books For Expert Scala Programmers](https://www.reddit.com/r/scala/comments/144j1tu/5_books_for_expert_scala_programmers/)
-- [Version 0.11.0 of the Mill Scala Build Tool is out](https://www.reddit.com/r/scala/comments/144cxej/version_0110_of_the_mill_scala_build_tool_is_out/)
-- [HTTP Authentication &amp; Authorization with Http4s](https://www.reddit.com/r/scala/comments/144aod3/http_authentication_authorization_with_http4s/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

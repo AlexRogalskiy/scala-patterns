@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Understing the ZIO environment for Effect and ZIO environment constructed by Z Layers.](https://www.reddit.com/r/scala/comments/14c0m8y/understing_the_zio_environment_for_effect_and_zio/)
 - [What are the companies hiring scala developers remotely?](https://www.reddit.com/r/scala/comments/14b256s/what_are_the_companies_hiring_scala_developers/)
 - [Is there any project on langchain with scala](https://www.reddit.com/r/scala/comments/14a71zj/is_there_any_project_on_langchain_with_scala/)
 - [Fx Calculator: A calculator for Android written in Scala 3.3 &lpar;and JavaFX&rpar;](https://www.reddit.com/r/scala/comments/14a5w3g/fx_calculator_a_calculator_for_android_written_in/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Zymposium - ZIO Clippy with Igal Tabachnik, June 16, 11:00 AM &lpar;PT&rpar;](https://www.reddit.com/r/scala/comments/149ym1f/zymposium_zio_clippy_with_igal_tabachnik_june_16/)
 - [Magnum: A new Scala 3 Database Client](https://www.reddit.com/r/scala/comments/149c2su/magnum_a_new_scala_3_database_client/)
 - [Restrict method generic to comparable types](https://www.reddit.com/r/scala/comments/149469d/restrict_method_generic_to_comparable_types/)
-- [Sbt can&#39;t sync a project](https://www.reddit.com/r/scala/comments/148qayb/sbt_cant_sync_a_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

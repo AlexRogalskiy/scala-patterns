@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Building a functional, effectful Distributed System from scratch in Scala 3, just to avoid Leetcode](https://www.reddit.com/r/scala/comments/14do4mk/building_a_functional_effectful_distributed/)
+- [Java Volatiles](https://www.reddit.com/r/scala/comments/14djd5v/java_volatiles/)
+- [metals, no run and debug](https://www.reddit.com/r/scala/comments/14dfbwg/metals_no_run_and_debug/)
 - [This week in #Scala &lpar;Jun 19, 2023&rpar;](https://www.reddit.com/r/scala/comments/14cqwkh/this_week_in_scala_jun_19_2023/)
 - [Is language &quot;instability&quot; really a reason for the lack of Scala adoption in the industry?](https://www.reddit.com/r/scala/comments/14cfh1n/is_language_instability_really_a_reason_for_the/)
 - [Understing the ZIO environment for Effect and ZIO environment constructed by Z Layers.](https://www.reddit.com/r/scala/comments/14c0m8y/understing_the_zio_environment_for_effect_and_zio/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Is there any project on langchain with scala](https://www.reddit.com/r/scala/comments/14a71zj/is_there_any_project_on_langchain_with_scala/)
 - [Fx Calculator: A calculator for Android written in Scala 3.3 &lpar;and JavaFX&rpar;](https://www.reddit.com/r/scala/comments/14a5w3g/fx_calculator_a_calculator_for_android_written_in/)
 - [Functional World | Breaking framework chains with vanilla Scala](https://www.reddit.com/r/scala/comments/14a2sv9/functional_world_breaking_framework_chains_with/)
-- [new lib: fs2-kafka-mock](https://www.reddit.com/r/scala/comments/14a0jwb/new_lib_fs2kafkamock/)
-- [Kreuzberg: Functional Scala &lpar;JS&rpar; Components](https://www.reddit.com/r/scala/comments/149zzry/kreuzberg_functional_scala_js_components/)
-- [Zymposium - ZIO Clippy with Igal Tabachnik, June 16, 11:00 AM &lpar;PT&rpar;](https://www.reddit.com/r/scala/comments/149ym1f/zymposium_zio_clippy_with_igal_tabachnik_june_16/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

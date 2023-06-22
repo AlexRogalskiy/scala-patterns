@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The premiere Curve airdrop](https://www.reddit.com/r/scala/comments/14fi6gz/the_premiere_curve_airdrop/)
+- [Scala&#39;s community looks very pessimistic from the outside looking in](https://www.reddit.com/r/scala/comments/14feo5b/scalas_community_looks_very_pessimistic_from_the/)
+- [JetBrains Developer Ecosystem 2023 survey is out](https://www.reddit.com/r/scala/comments/14f1d0j/jetbrains_developer_ecosystem_2023_survey_is_out/)
 - [Does the fthomas/refined library work differently in Scala 3?](https://www.reddit.com/r/scala/comments/14ertw8/does_the_fthomasrefined_library_work_differently/)
 - [🏆 Top Scala open source projects and contributors](https://www.reddit.com/r/scala/comments/14eq4bd/top_scala_open_source_projects_and_contributors/)
 - [Scala projects](https://www.reddit.com/r/scala/comments/14ek2ns/scala_projects/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Java Volatiles](https://www.reddit.com/r/scala/comments/14djd5v/java_volatiles/)
 - [metals, no run and debug](https://www.reddit.com/r/scala/comments/14dfbwg/metals_no_run_and_debug/)
 - [This week in #Scala &lpar;Jun 19, 2023&rpar;](https://www.reddit.com/r/scala/comments/14cqwkh/this_week_in_scala_jun_19_2023/)
-- [Is language &quot;instability&quot; really a reason for the lack of Scala adoption in the industry?](https://www.reddit.com/r/scala/comments/14cfh1n/is_language_instability_really_a_reason_for_the/)
-- [Understing the ZIO environment for Effect and ZIO environment constructed by Z Layers.](https://www.reddit.com/r/scala/comments/14c0m8y/understing_the_zio_environment_for_effect_and_zio/)
-- [What are the companies hiring scala developers remotely?](https://www.reddit.com/r/scala/comments/14b256s/what_are_the_companies_hiring_scala_developers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The premiere Curve airdrop](https://www.reddit.com/r/scala/comments/14fi6gz/the_premiere_curve_airdrop/)
+- [Beginner looking for learning Sources](https://www.reddit.com/r/scala/comments/14gd87g/beginner_looking_for_learning_sources/)
+- [Two types of futures](https://www.reddit.com/r/scala/comments/14gblhz/two_types_of_futures/)
+- [The Scala Toolkit has been released!](https://www.reddit.com/r/scala/comments/14g70mu/the_scala_toolkit_has_been_released/)
+- [Semantic of a functional app in Scala](https://www.reddit.com/r/scala/comments/14g3uxo/semantic_of_a_functional_app_in_scala/)
 - [Scala&#39;s community looks very pessimistic from the outside looking in](https://www.reddit.com/r/scala/comments/14feo5b/scalas_community_looks_very_pessimistic_from_the/)
 - [JetBrains Developer Ecosystem 2023 survey is out](https://www.reddit.com/r/scala/comments/14f1d0j/jetbrains_developer_ecosystem_2023_survey_is_out/)
 - [Does the fthomas/refined library work differently in Scala 3?](https://www.reddit.com/r/scala/comments/14ertw8/does_the_fthomasrefined_library_work_differently/)
 - [🏆 Top Scala open source projects and contributors](https://www.reddit.com/r/scala/comments/14eq4bd/top_scala_open_source_projects_and_contributors/)
 - [Scala projects](https://www.reddit.com/r/scala/comments/14ek2ns/scala_projects/)
 - [Building a functional, effectful Distributed System from scratch in Scala 3, just to avoid Leetcode](https://www.reddit.com/r/scala/comments/14do4mk/building_a_functional_effectful_distributed/)
-- [Java Volatiles](https://www.reddit.com/r/scala/comments/14djd5v/java_volatiles/)
-- [metals, no run and debug](https://www.reddit.com/r/scala/comments/14dfbwg/metals_no_run_and_debug/)
-- [This week in #Scala &lpar;Jun 19, 2023&rpar;](https://www.reddit.com/r/scala/comments/14cqwkh/this_week_in_scala_jun_19_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

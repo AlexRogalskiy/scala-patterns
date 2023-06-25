@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to select union type branch in a for comprehension?](https://www.reddit.com/r/scala/comments/14i4wub/how_to_select_union_type_branch_in_a_for/)
+- [Discord invite is invalid](https://www.reddit.com/r/scala/comments/14i12zo/discord_invite_is_invalid/)
 - [Mastering ScalaTest - Exploring Tagging, Retry, Runner and More](https://www.reddit.com/r/scala/comments/14h9enu/mastering_scalatest_exploring_tagging_retry/)
 - [5 Scala Libraries That Will Make Your Life Easier](https://www.reddit.com/r/scala/comments/14h1c7a/5_scala_libraries_that_will_make_your_life_easier/)
 - [zio-maelstrom](https://www.reddit.com/r/scala/comments/14h0paz/ziomaelstrom/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Two types of futures](https://www.reddit.com/r/scala/comments/14gblhz/two_types_of_futures/)
 - [The Scala Toolkit has been released!](https://www.reddit.com/r/scala/comments/14g70mu/the_scala_toolkit_has_been_released/)
 - [Semantic of a functional app in Scala](https://www.reddit.com/r/scala/comments/14g3uxo/semantic_of_a_functional_app_in_scala/)
-- [Scala&#39;s community looks very pessimistic from the outside looking in](https://www.reddit.com/r/scala/comments/14feo5b/scalas_community_looks_very_pessimistic_from_the/)
-- [JetBrains Developer Ecosystem 2023 survey is out](https://www.reddit.com/r/scala/comments/14f1d0j/jetbrains_developer_ecosystem_2023_survey_is_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

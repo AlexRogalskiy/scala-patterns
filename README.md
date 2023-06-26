@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3 Macros: How to Read Annotations](https://www.reddit.com/r/scala/comments/14j2yzm/scala_3_macros_how_to_read_annotations/)
+- [This week in #Scala &lpar;Jun 26, 2023&rpar;](https://www.reddit.com/r/scala/comments/14it1jw/this_week_in_scala_jun_26_2023/)
+- [An intro to Flow Fields in Scala](https://www.reddit.com/r/scala/comments/14iktge/an_intro_to_flow_fields_in_scala/)
+- [Simpla - replacing the concept of killer app driven adoption](https://www.reddit.com/r/scala/comments/14ii6mg/simpla_replacing_the_concept_of_killer_app_driven/)
+- [2023-06-25 gRPC benchmark results](https://www.reddit.com/r/scala/comments/14ighwx/20230625_grpc_benchmark_results/)
 - [How to select union type branch in a for comprehension?](https://www.reddit.com/r/scala/comments/14i4wub/how_to_select_union_type_branch_in_a_for/)
 - [Discord invite is invalid](https://www.reddit.com/r/scala/comments/14i12zo/discord_invite_is_invalid/)
 - [Mastering ScalaTest - Exploring Tagging, Retry, Runner and More](https://www.reddit.com/r/scala/comments/14h9enu/mastering_scalatest_exploring_tagging_retry/)
 - [5 Scala Libraries That Will Make Your Life Easier](https://www.reddit.com/r/scala/comments/14h1c7a/5_scala_libraries_that_will_make_your_life_easier/)
 - [zio-maelstrom](https://www.reddit.com/r/scala/comments/14h0paz/ziomaelstrom/)
-- [Job for Scala beginner](https://www.reddit.com/r/scala/comments/14grl56/job_for_scala_beginner/)
-- [Beginner looking for learning Sources](https://www.reddit.com/r/scala/comments/14gd87g/beginner_looking_for_learning_sources/)
-- [Two types of futures](https://www.reddit.com/r/scala/comments/14gblhz/two_types_of_futures/)
-- [The Scala Toolkit has been released!](https://www.reddit.com/r/scala/comments/14g70mu/the_scala_toolkit_has_been_released/)
-- [Semantic of a functional app in Scala](https://www.reddit.com/r/scala/comments/14g3uxo/semantic_of_a_functional_app_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

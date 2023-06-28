@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Interesting patterns to consume ZIO Streams](https://www.reddit.com/r/scala/comments/14kb8yh/interesting_patterns_to_consume_zio_streams/)
+- [Functional World | Breaking framework chains with vanilla Scala](https://www.reddit.com/r/scala/comments/14ka4f0/functional_world_breaking_framework_chains_with/)
 - [Easy Code Preview Environments for Scala](https://www.reddit.com/r/scala/comments/14jie5j/easy_code_preview_environments_for_scala/)
 - [Chatbot Showdown: LLMs to write Scala applications with Typelevel stack](https://www.reddit.com/r/scala/comments/14j9zzc/chatbot_showdown_llms_to_write_scala_applications/)
 - [sbt 1.9.1 released](https://www.reddit.com/r/scala/comments/14j92kr/sbt_191_released/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [An intro to Flow Fields in Scala](https://www.reddit.com/r/scala/comments/14iktge/an_intro_to_flow_fields_in_scala/)
 - [Simpla - replacing the concept of killer app driven adoption](https://www.reddit.com/r/scala/comments/14ii6mg/simpla_replacing_the_concept_of_killer_app_driven/)
 - [2023-06-25 gRPC benchmark results](https://www.reddit.com/r/scala/comments/14ighwx/20230625_grpc_benchmark_results/)
-- [How to select union type branch in a for comprehension?](https://www.reddit.com/r/scala/comments/14i4wub/how_to_select_union_type_branch_in_a_for/)
-- [Discord invite is invalid](https://www.reddit.com/r/scala/comments/14i12zo/discord_invite_is_invalid/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

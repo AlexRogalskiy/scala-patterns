@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Trait parameter overriding question &lpar;Scala 3&rpar;](https://www.reddit.com/r/scala/comments/14nhxqt/trait_parameter_overriding_question_scala_3/)
+- [Scalendar - July 2023](https://www.reddit.com/r/scala/comments/14mxkrv/scalendar_july_2023/)
 - [Is Scala worth learning in 2023?](https://www.reddit.com/r/scala/comments/14mbfbp/is_scala_worth_learning_in_2023/)
 - [Am I wrong to think Liskov Substitution Principle is basically Covariance in Generics?](https://www.reddit.com/r/scala/comments/14m0wpt/am_i_wrong_to_think_liskov_substitution_principle/)
 - [Are there examples of using Smithy with GRPC?](https://www.reddit.com/r/scala/comments/14lqigm/are_there_examples_of_using_smithy_with_grpc/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Easy Code Preview Environments for Scala](https://www.reddit.com/r/scala/comments/14jie5j/easy_code_preview_environments_for_scala/)
 - [Chatbot Showdown: LLMs to write Scala applications with Typelevel stack](https://www.reddit.com/r/scala/comments/14j9zzc/chatbot_showdown_llms_to_write_scala_applications/)
 - [sbt 1.9.1 released](https://www.reddit.com/r/scala/comments/14j92kr/sbt_191_released/)
-- [Scala 3 Macros: How to Read Annotations](https://www.reddit.com/r/scala/comments/14j2yzm/scala_3_macros_how_to_read_annotations/)
-- [This week in #Scala &lpar;Jun 26, 2023&rpar;](https://www.reddit.com/r/scala/comments/14it1jw/this_week_in_scala_jun_26_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

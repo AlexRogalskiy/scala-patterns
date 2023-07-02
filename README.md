@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/14nyloj/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Trait parameter overriding question &lpar;Scala 3&rpar;](https://www.reddit.com/r/scala/comments/14nhxqt/trait_parameter_overriding_question_scala_3/)
 - [Scalendar - July 2023](https://www.reddit.com/r/scala/comments/14mxkrv/scalendar_july_2023/)
 - [Is Scala worth learning in 2023?](https://www.reddit.com/r/scala/comments/14mbfbp/is_scala_worth_learning_in_2023/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Functional World | Breaking framework chains with vanilla Scala](https://www.reddit.com/r/scala/comments/14ka4f0/functional_world_breaking_framework_chains_with/)
 - [Easy Code Preview Environments for Scala](https://www.reddit.com/r/scala/comments/14jie5j/easy_code_preview_environments_for_scala/)
 - [Chatbot Showdown: LLMs to write Scala applications with Typelevel stack](https://www.reddit.com/r/scala/comments/14j9zzc/chatbot_showdown_llms_to_write_scala_applications/)
-- [sbt 1.9.1 released](https://www.reddit.com/r/scala/comments/14j92kr/sbt_191_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

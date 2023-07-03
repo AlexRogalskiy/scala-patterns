@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Jul 3, 2023&rpar;](https://www.reddit.com/r/scala/comments/14ovemp/this_week_in_scala_jul_3_2023/)
+- [ZIO and ScalaFX / Swing integration](https://www.reddit.com/r/scala/comments/14olrv1/zio_and_scalafx_swing_integration/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/14nyloj/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Trait parameter overriding question &lpar;Scala 3&rpar;](https://www.reddit.com/r/scala/comments/14nhxqt/trait_parameter_overriding_question_scala_3/)
 - [Scalendar - July 2023](https://www.reddit.com/r/scala/comments/14mxkrv/scalendar_july_2023/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Are there examples of using Smithy with GRPC?](https://www.reddit.com/r/scala/comments/14lqigm/are_there_examples_of_using_smithy_with_grpc/)
 - [Interesting patterns to consume ZIO Streams](https://www.reddit.com/r/scala/comments/14kb8yh/interesting_patterns_to_consume_zio_streams/)
 - [Functional World | Breaking framework chains with vanilla Scala](https://www.reddit.com/r/scala/comments/14ka4f0/functional_world_breaking_framework_chains_with/)
-- [Easy Code Preview Environments for Scala](https://www.reddit.com/r/scala/comments/14jie5j/easy_code_preview_environments_for_scala/)
-- [Chatbot Showdown: LLMs to write Scala applications with Typelevel stack](https://www.reddit.com/r/scala/comments/14j9zzc/chatbot_showdown_llms_to_write_scala_applications/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

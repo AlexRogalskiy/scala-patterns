@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Top Scala Hirers From June 2023](https://www.reddit.com/r/scala/comments/14promu/top_scala_hirers_from_june_2023/)
+- [Why I keep choosing ZIO!](https://www.reddit.com/r/scala/comments/14pjyfd/why_i_keep_choosing_zio/)
+- [Scala real world projects](https://www.reddit.com/r/scala/comments/14pbdv3/scala_real_world_projects/)
+- [What makes library docs great [Library review: Iron]](https://www.reddit.com/r/scala/comments/14p6kul/what_makes_library_docs_great_library_review_iron/)
 - [This week in #Scala &lpar;Jul 3, 2023&rpar;](https://www.reddit.com/r/scala/comments/14ovemp/this_week_in_scala_jul_3_2023/)
 - [ZIO and ScalaFX / Swing integration](https://www.reddit.com/r/scala/comments/14olrv1/zio_and_scalafx_swing_integration/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/14nyloj/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Trait parameter overriding question &lpar;Scala 3&rpar;](https://www.reddit.com/r/scala/comments/14nhxqt/trait_parameter_overriding_question_scala_3/)
 - [Scalendar - July 2023](https://www.reddit.com/r/scala/comments/14mxkrv/scalendar_july_2023/)
 - [Is Scala worth learning in 2023?](https://www.reddit.com/r/scala/comments/14mbfbp/is_scala_worth_learning_in_2023/)
-- [Am I wrong to think Liskov Substitution Principle is basically Covariance in Generics?](https://www.reddit.com/r/scala/comments/14m0wpt/am_i_wrong_to_think_liskov_substitution_principle/)
-- [Are there examples of using Smithy with GRPC?](https://www.reddit.com/r/scala/comments/14lqigm/are_there_examples_of_using_smithy_with_grpc/)
-- [Interesting patterns to consume ZIO Streams](https://www.reddit.com/r/scala/comments/14kb8yh/interesting_patterns_to_consume_zio_streams/)
-- [Functional World | Breaking framework chains with vanilla Scala](https://www.reddit.com/r/scala/comments/14ka4f0/functional_world_breaking_framework_chains_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

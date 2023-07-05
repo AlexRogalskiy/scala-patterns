@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How much reason is there to be multi-threaded in the k8s environment](https://www.reddit.com/r/scala/comments/14qjty9/how_much_reason_is_there_to_be_multithreaded_in/)
 - [Top Scala Hirers From June 2023](https://www.reddit.com/r/scala/comments/14promu/top_scala_hirers_from_june_2023/)
 - [Why I keep choosing ZIO!](https://www.reddit.com/r/scala/comments/14pjyfd/why_i_keep_choosing_zio/)
 - [Scala real world projects](https://www.reddit.com/r/scala/comments/14pbdv3/scala_real_world_projects/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/14nyloj/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Trait parameter overriding question &lpar;Scala 3&rpar;](https://www.reddit.com/r/scala/comments/14nhxqt/trait_parameter_overriding_question_scala_3/)
 - [Scalendar - July 2023](https://www.reddit.com/r/scala/comments/14mxkrv/scalendar_july_2023/)
-- [Is Scala worth learning in 2023?](https://www.reddit.com/r/scala/comments/14mbfbp/is_scala_worth_learning_in_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

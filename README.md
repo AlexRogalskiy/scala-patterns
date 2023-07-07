@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Question regarding Recursive datatypes and cats typeclasses &lpar;Haskell to Scala&rpar;](https://www.reddit.com/r/scala/comments/14sf7rg/question_regarding_recursive_datatypes_and_cats/)
 - [ZIO 2 Runtime Improvements](https://www.reddit.com/r/scala/comments/14rcl6k/zio_2_runtime_improvements/)
 - [6 Common Misconceptions Around Akka-HTTP / Pekko-HTTP](https://www.reddit.com/r/scala/comments/14r4d0c/6_common_misconceptions_around_akkahttp_pekkohttp/)
 - [How much reason is there to be multi-threaded in the k8s environment](https://www.reddit.com/r/scala/comments/14qjty9/how_much_reason_is_there_to_be_multithreaded_in/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [What makes library docs great [Library review: Iron]](https://www.reddit.com/r/scala/comments/14p6kul/what_makes_library_docs_great_library_review_iron/)
 - [This week in #Scala &lpar;Jul 3, 2023&rpar;](https://www.reddit.com/r/scala/comments/14ovemp/this_week_in_scala_jul_3_2023/)
 - [ZIO and ScalaFX / Swing integration](https://www.reddit.com/r/scala/comments/14olrv1/zio_and_scalafx_swing_integration/)
-- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/14nyloj/who_is_hiring_monthly_rscala_job_postings_thread/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [healthful: A low-dependency Scala lib for serving HTTP health checks](https://www.reddit.com/r/scala/comments/14tqlhj/healthful_a_lowdependency_scala_lib_for_serving/)
+- [What Is An Effect In Functional Programming](https://www.reddit.com/r/scala/comments/14telve/what_is_an_effect_in_functional_programming/)
+- [What library to use for creating a game?](https://www.reddit.com/r/scala/comments/14sy5yc/what_library_to_use_for_creating_a_game/)
 - [Question regarding Recursive datatypes and cats typeclasses &lpar;Haskell to Scala&rpar;](https://www.reddit.com/r/scala/comments/14sf7rg/question_regarding_recursive_datatypes_and_cats/)
 - [ZIO 2 Runtime Improvements](https://www.reddit.com/r/scala/comments/14rcl6k/zio_2_runtime_improvements/)
 - [6 Common Misconceptions Around Akka-HTTP / Pekko-HTTP](https://www.reddit.com/r/scala/comments/14r4d0c/6_common_misconceptions_around_akkahttp_pekkohttp/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Top Scala Hirers From June 2023](https://www.reddit.com/r/scala/comments/14promu/top_scala_hirers_from_june_2023/)
 - [Why I keep choosing ZIO!](https://www.reddit.com/r/scala/comments/14pjyfd/why_i_keep_choosing_zio/)
 - [Scala real world projects](https://www.reddit.com/r/scala/comments/14pbdv3/scala_real_world_projects/)
-- [What makes library docs great [Library review: Iron]](https://www.reddit.com/r/scala/comments/14p6kul/what_makes_library_docs_great_library_review_iron/)
-- [This week in #Scala &lpar;Jul 3, 2023&rpar;](https://www.reddit.com/r/scala/comments/14ovemp/this_week_in_scala_jul_3_2023/)
-- [ZIO and ScalaFX / Swing integration](https://www.reddit.com/r/scala/comments/14olrv1/zio_and_scalafx_swing_integration/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

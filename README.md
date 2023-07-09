@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [In Akka, how to make an actor accept different subsets of messages at different times?](https://www.reddit.com/r/scala/comments/14ugxn3/in_akka_how_to_make_an_actor_accept_different/)
 - [healthful: A low-dependency Scala lib for serving HTTP health checks](https://www.reddit.com/r/scala/comments/14tqlhj/healthful_a_lowdependency_scala_lib_for_serving/)
 - [What Is An Effect In Functional Programming](https://www.reddit.com/r/scala/comments/14telve/what_is_an_effect_in_functional_programming/)
 - [What library to use for creating a game?](https://www.reddit.com/r/scala/comments/14sy5yc/what_library_to_use_for_creating_a_game/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How much reason is there to be multi-threaded in the k8s environment](https://www.reddit.com/r/scala/comments/14qjty9/how_much_reason_is_there_to_be_multithreaded_in/)
 - [Top Scala Hirers From June 2023](https://www.reddit.com/r/scala/comments/14promu/top_scala_hirers_from_june_2023/)
 - [Why I keep choosing ZIO!](https://www.reddit.com/r/scala/comments/14pjyfd/why_i_keep_choosing_zio/)
-- [Scala real world projects](https://www.reddit.com/r/scala/comments/14pbdv3/scala_real_world_projects/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

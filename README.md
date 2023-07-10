@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need to learn Scala for Spark can I learn Scala 3 even though Spark uses 2.13 or is it too different and I should find Scala 2 resources?](https://www.reddit.com/r/scala/comments/14vh2ye/need_to_learn_scala_for_spark_can_i_learn_scala_3/)
+- [This week in #Scala &lpar;Jul 10, 2023&rpar;](https://www.reddit.com/r/scala/comments/14uzhpj/this_week_in_scala_jul_10_2023/)
 - [In Akka, how to make an actor accept different subsets of messages at different times?](https://www.reddit.com/r/scala/comments/14ugxn3/in_akka_how_to_make_an_actor_accept_different/)
 - [healthful: A low-dependency Scala lib for serving HTTP health checks](https://www.reddit.com/r/scala/comments/14tqlhj/healthful_a_lowdependency_scala_lib_for_serving/)
 - [What Is An Effect In Functional Programming](https://www.reddit.com/r/scala/comments/14telve/what_is_an_effect_in_functional_programming/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ZIO 2 Runtime Improvements](https://www.reddit.com/r/scala/comments/14rcl6k/zio_2_runtime_improvements/)
 - [6 Common Misconceptions Around Akka-HTTP / Pekko-HTTP](https://www.reddit.com/r/scala/comments/14r4d0c/6_common_misconceptions_around_akkahttp_pekkohttp/)
 - [How much reason is there to be multi-threaded in the k8s environment](https://www.reddit.com/r/scala/comments/14qjty9/how_much_reason_is_there_to_be_multithreaded_in/)
-- [Top Scala Hirers From June 2023](https://www.reddit.com/r/scala/comments/14promu/top_scala_hirers_from_june_2023/)
-- [Why I keep choosing ZIO!](https://www.reddit.com/r/scala/comments/14pjyfd/why_i_keep_choosing_zio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

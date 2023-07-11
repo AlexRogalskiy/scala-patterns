@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How is it called the feature when the actual type of a type parameter can be known in certain branches of the code, due to matching over a type with a closed hierarchy?](https://www.reddit.com/r/scala/comments/14wavcq/how_is_it_called_the_feature_when_the_actual_type/)
+- [Help implementing a `select` method to my zio-channel library which adds Go-like channels to ZIO.](https://www.reddit.com/r/scala/comments/14w03mp/help_implementing_a_select_method_to_my/)
+- [First Slick prerelease for Scala 3!](https://www.reddit.com/r/scala/comments/14vlz8a/first_slick_prerelease_for_scala_3/)
+- [sbt 1.9.2 released](https://www.reddit.com/r/scala/comments/14vjnpb/sbt_192_released/)
 - [Need to learn Scala for Spark can I learn Scala 3 even though Spark uses 2.13 or is it too different and I should find Scala 2 resources?](https://www.reddit.com/r/scala/comments/14vh2ye/need_to_learn_scala_for_spark_can_i_learn_scala_3/)
 - [This week in #Scala &lpar;Jul 10, 2023&rpar;](https://www.reddit.com/r/scala/comments/14uzhpj/this_week_in_scala_jul_10_2023/)
 - [In Akka, how to make an actor accept different subsets of messages at different times?](https://www.reddit.com/r/scala/comments/14ugxn3/in_akka_how_to_make_an_actor_accept_different/)
 - [healthful: A low-dependency Scala lib for serving HTTP health checks](https://www.reddit.com/r/scala/comments/14tqlhj/healthful_a_lowdependency_scala_lib_for_serving/)
 - [What Is An Effect In Functional Programming](https://www.reddit.com/r/scala/comments/14telve/what_is_an_effect_in_functional_programming/)
-- [What library to use for creating a game?](https://www.reddit.com/r/scala/comments/14sy5yc/what_library_to_use_for_creating_a_game/)
 - [Question regarding Recursive datatypes and cats typeclasses &lpar;Haskell to Scala&rpar;](https://www.reddit.com/r/scala/comments/14sf7rg/question_regarding_recursive_datatypes_and_cats/)
-- [ZIO 2 Runtime Improvements](https://www.reddit.com/r/scala/comments/14rcl6k/zio_2_runtime_improvements/)
-- [6 Common Misconceptions Around Akka-HTTP / Pekko-HTTP](https://www.reddit.com/r/scala/comments/14r4d0c/6_common_misconceptions_around_akkahttp_pekkohttp/)
-- [How much reason is there to be multi-threaded in the k8s environment](https://www.reddit.com/r/scala/comments/14qjty9/how_much_reason_is_there_to_be_multithreaded_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

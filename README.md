@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [General question about atomicity and Kafka](https://www.reddit.com/r/scala/comments/14x54xo/general_question_about_atomicity_and_kafka/)
+- [I had a great experience with Scala and hopefully it will get more popular](https://www.reddit.com/r/scala/comments/14x2edb/i_had_a_great_experience_with_scala_and_hopefully/)
+- [How many people/companies are fully on Scala 3?](https://www.reddit.com/r/scala/comments/14x0vhz/how_many_peoplecompanies_are_fully_on_scala_3/)
+- [GitHub - stkeky/best-of-scala: 🏆 A ranked list of awesome Scala libraries. Updated weekly.](https://www.reddit.com/r/scala/comments/14wuzvy/github_stkekybestofscala_a_ranked_list_of_awesome/)
 - [How is it called the feature when the actual type of a type parameter can be known in certain branches of the code, due to matching over a type with a closed hierarchy?](https://www.reddit.com/r/scala/comments/14wavcq/how_is_it_called_the_feature_when_the_actual_type/)
 - [Help implementing a `select` method to my zio-channel library which adds Go-like channels to ZIO.](https://www.reddit.com/r/scala/comments/14w03mp/help_implementing_a_select_method_to_my/)
 - [First Slick prerelease for Scala 3!](https://www.reddit.com/r/scala/comments/14vlz8a/first_slick_prerelease_for_scala_3/)
 - [sbt 1.9.2 released](https://www.reddit.com/r/scala/comments/14vjnpb/sbt_192_released/)
 - [Need to learn Scala for Spark can I learn Scala 3 even though Spark uses 2.13 or is it too different and I should find Scala 2 resources?](https://www.reddit.com/r/scala/comments/14vh2ye/need_to_learn_scala_for_spark_can_i_learn_scala_3/)
 - [This week in #Scala &lpar;Jul 10, 2023&rpar;](https://www.reddit.com/r/scala/comments/14uzhpj/this_week_in_scala_jul_10_2023/)
-- [In Akka, how to make an actor accept different subsets of messages at different times?](https://www.reddit.com/r/scala/comments/14ugxn3/in_akka_how_to_make_an_actor_accept_different/)
-- [healthful: A low-dependency Scala lib for serving HTTP health checks](https://www.reddit.com/r/scala/comments/14tqlhj/healthful_a_lowdependency_scala_lib_for_serving/)
-- [What Is An Effect In Functional Programming](https://www.reddit.com/r/scala/comments/14telve/what_is_an_effect_in_functional_programming/)
-- [Question regarding Recursive datatypes and cats typeclasses &lpar;Haskell to Scala&rpar;](https://www.reddit.com/r/scala/comments/14sf7rg/question_regarding_recursive_datatypes_and_cats/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

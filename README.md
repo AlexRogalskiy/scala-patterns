@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Pekko 1.0.0 has been released](https://www.reddit.com/r/scala/comments/14yxvup/pekko_100_has_been_released/)
 - [Getting started with Scala Meta Programming](https://www.reddit.com/r/scala/comments/14xq4m1/getting_started_with_scala_meta_programming/)
 - [Introduction to optics in Scala with Monocle](https://www.reddit.com/r/scala/comments/14xkd1g/introduction_to_optics_in_scala_with_monocle/)
 - [General question about atomicity and Kafka](https://www.reddit.com/r/scala/comments/14x54xo/general_question_about_atomicity_and_kafka/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How is it called the feature when the actual type of a type parameter can be known in certain branches of the code, due to matching over a type with a closed hierarchy?](https://www.reddit.com/r/scala/comments/14wavcq/how_is_it_called_the_feature_when_the_actual_type/)
 - [Help implementing a `select` method to my zio-channel library which adds Go-like channels to ZIO.](https://www.reddit.com/r/scala/comments/14w03mp/help_implementing_a_select_method_to_my/)
 - [First Slick prerelease for Scala 3!](https://www.reddit.com/r/scala/comments/14vlz8a/first_slick_prerelease_for_scala_3/)
-- [sbt 1.9.2 released](https://www.reddit.com/r/scala/comments/14vjnpb/sbt_192_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

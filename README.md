@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [matching string patterns](https://www.reddit.com/r/scala/comments/14ziqyj/matching_string_patterns/)
+- [Pekko runtime for endless4s](https://www.reddit.com/r/scala/comments/14zie1e/pekko_runtime_for_endless4s/)
+- [Master Performance Optimization on JVM with John A. De Goes &lpar;Sept 11-15, Online Workshop&rpar;](https://www.reddit.com/r/scala/comments/14zahia/master_performance_optimization_on_jvm_with_john/)
 - [Pekko 1.0.0 has been released](https://www.reddit.com/r/scala/comments/14yxvup/pekko_100_has_been_released/)
 - [Getting started with Scala Meta Programming](https://www.reddit.com/r/scala/comments/14xq4m1/getting_started_with_scala_meta_programming/)
 - [Introduction to optics in Scala with Monocle](https://www.reddit.com/r/scala/comments/14xkd1g/introduction_to_optics_in_scala_with_monocle/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [I had a great experience with Scala and hopefully it will get more popular](https://www.reddit.com/r/scala/comments/14x2edb/i_had_a_great_experience_with_scala_and_hopefully/)
 - [How many people/companies are fully on Scala 3?](https://www.reddit.com/r/scala/comments/14x0vhz/how_many_peoplecompanies_are_fully_on_scala_3/)
 - [GitHub - stkeky/best-of-scala: 🏆 A ranked list of awesome Scala libraries. Updated weekly.](https://www.reddit.com/r/scala/comments/14wuzvy/github_stkekybestofscala_a_ranked_list_of_awesome/)
-- [How is it called the feature when the actual type of a type parameter can be known in certain branches of the code, due to matching over a type with a closed hierarchy?](https://www.reddit.com/r/scala/comments/14wavcq/how_is_it_called_the_feature_when_the_actual_type/)
-- [Help implementing a `select` method to my zio-channel library which adds Go-like channels to ZIO.](https://www.reddit.com/r/scala/comments/14w03mp/help_implementing_a_select_method_to_my/)
-- [First Slick prerelease for Scala 3!](https://www.reddit.com/r/scala/comments/14vlz8a/first_slick_prerelease_for_scala_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

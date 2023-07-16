@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ducktape 0.1.10 is out - now with coproduct derivation support for FallibleTransformers!](https://www.reddit.com/r/scala/comments/150hovt/ducktape_0110_is_out_now_with_coproduct/)
 - [matching string patterns](https://www.reddit.com/r/scala/comments/14ziqyj/matching_string_patterns/)
 - [Pekko runtime for endless4s](https://www.reddit.com/r/scala/comments/14zie1e/pekko_runtime_for_endless4s/)
 - [Master Performance Optimization on JVM with John A. De Goes &lpar;Sept 11-15, Online Workshop&rpar;](https://www.reddit.com/r/scala/comments/14zahia/master_performance_optimization_on_jvm_with_john/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [General question about atomicity and Kafka](https://www.reddit.com/r/scala/comments/14x54xo/general_question_about_atomicity_and_kafka/)
 - [I had a great experience with Scala and hopefully it will get more popular](https://www.reddit.com/r/scala/comments/14x2edb/i_had_a_great_experience_with_scala_and_hopefully/)
 - [How many people/companies are fully on Scala 3?](https://www.reddit.com/r/scala/comments/14x0vhz/how_many_peoplecompanies_are_fully_on_scala_3/)
-- [GitHub - stkeky/best-of-scala: 🏆 A ranked list of awesome Scala libraries. Updated weekly.](https://www.reddit.com/r/scala/comments/14wuzvy/github_stkekybestofscala_a_ranked_list_of_awesome/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

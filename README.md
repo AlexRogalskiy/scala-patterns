@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Indigo games get physical, 0.15.0-RC3 released!](https://www.reddit.com/r/scala/comments/151hsa5/indigo_games_get_physical_0150rc3_released/)
+- [This week in #Scala &lpar;Jul 17, 2023&rpar;](https://www.reddit.com/r/scala/comments/1516wzp/this_week_in_scala_jul_17_2023/)
+- [automate refactoring with Bazel + Scalafix](https://www.reddit.com/r/scala/comments/150uuxi/automate_refactoring_with_bazel_scalafix/)
 - [ducktape 0.1.10 is out - now with coproduct derivation support for FallibleTransformers!](https://www.reddit.com/r/scala/comments/150hovt/ducktape_0110_is_out_now_with_coproduct/)
 - [matching string patterns](https://www.reddit.com/r/scala/comments/14ziqyj/matching_string_patterns/)
 - [Pekko runtime for endless4s](https://www.reddit.com/r/scala/comments/14zie1e/pekko_runtime_for_endless4s/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Pekko 1.0.0 has been released](https://www.reddit.com/r/scala/comments/14yxvup/pekko_100_has_been_released/)
 - [Getting started with Scala Meta Programming](https://www.reddit.com/r/scala/comments/14xq4m1/getting_started_with_scala_meta_programming/)
 - [Introduction to optics in Scala with Monocle](https://www.reddit.com/r/scala/comments/14xkd1g/introduction_to_optics_in_scala_with_monocle/)
-- [General question about atomicity and Kafka](https://www.reddit.com/r/scala/comments/14x54xo/general_question_about_atomicity_and_kafka/)
-- [I had a great experience with Scala and hopefully it will get more popular](https://www.reddit.com/r/scala/comments/14x2edb/i_had_a_great_experience_with_scala_and_hopefully/)
-- [How many people/companies are fully on Scala 3?](https://www.reddit.com/r/scala/comments/14x0vhz/how_many_peoplecompanies_are_fully_on_scala_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

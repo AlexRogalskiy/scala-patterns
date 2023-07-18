@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala and Neural Networks](https://www.reddit.com/r/scala/comments/152fbre/scala_and_neural_networks/)
+- [Signature polymorphic methods in Scala](https://www.reddit.com/r/scala/comments/1522vqu/signature_polymorphic_methods_in_scala/)
 - [Indigo games get physical, 0.15.0-RC3 released!](https://www.reddit.com/r/scala/comments/151hsa5/indigo_games_get_physical_0150rc3_released/)
 - [This week in #Scala &lpar;Jul 17, 2023&rpar;](https://www.reddit.com/r/scala/comments/1516wzp/this_week_in_scala_jul_17_2023/)
 - [automate refactoring with Bazel + Scalafix](https://www.reddit.com/r/scala/comments/150uuxi/automate_refactoring_with_bazel_scalafix/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Pekko runtime for endless4s](https://www.reddit.com/r/scala/comments/14zie1e/pekko_runtime_for_endless4s/)
 - [Master Performance Optimization on JVM with John A. De Goes &lpar;Sept 11-15, Online Workshop&rpar;](https://www.reddit.com/r/scala/comments/14zahia/master_performance_optimization_on_jvm_with_john/)
 - [Pekko 1.0.0 has been released](https://www.reddit.com/r/scala/comments/14yxvup/pekko_100_has_been_released/)
-- [Getting started with Scala Meta Programming](https://www.reddit.com/r/scala/comments/14xq4m1/getting_started_with_scala_meta_programming/)
-- [Introduction to optics in Scala with Monocle](https://www.reddit.com/r/scala/comments/14xkd1g/introduction_to_optics_in_scala_with_monocle/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

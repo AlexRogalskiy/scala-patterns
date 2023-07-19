@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ISO: Example scala project codebase to look at?](https://www.reddit.com/r/scala/comments/153frof/iso_example_scala_project_codebase_to_look_at/)
+- [Una lista clasificada de increíbles bibliotecas y herramientas de open source de Scala.](https://www.reddit.com/r/scala/comments/152n4n5/una_lista_clasificada_de_increíbles_bibliotecas_y/)
 - [Scala and Neural Networks](https://www.reddit.com/r/scala/comments/152fbre/scala_and_neural_networks/)
 - [Signature polymorphic methods in Scala](https://www.reddit.com/r/scala/comments/1522vqu/signature_polymorphic_methods_in_scala/)
 - [Indigo games get physical, 0.15.0-RC3 released!](https://www.reddit.com/r/scala/comments/151hsa5/indigo_games_get_physical_0150rc3_released/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ducktape 0.1.10 is out - now with coproduct derivation support for FallibleTransformers!](https://www.reddit.com/r/scala/comments/150hovt/ducktape_0110_is_out_now_with_coproduct/)
 - [matching string patterns](https://www.reddit.com/r/scala/comments/14ziqyj/matching_string_patterns/)
 - [Pekko runtime for endless4s](https://www.reddit.com/r/scala/comments/14zie1e/pekko_runtime_for_endless4s/)
-- [Master Performance Optimization on JVM with John A. De Goes &lpar;Sept 11-15, Online Workshop&rpar;](https://www.reddit.com/r/scala/comments/14zahia/master_performance_optimization_on_jvm_with_john/)
-- [Pekko 1.0.0 has been released](https://www.reddit.com/r/scala/comments/14yxvup/pekko_100_has_been_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Metals v1.0.0](https://www.reddit.com/r/scala/comments/154d8vo/metals_v100/)
+- [Scala 3 Mapping tool for ADTs](https://www.reddit.com/r/scala/comments/1541iln/scala_3_mapping_tool_for_adts/)
+- [Opaque types/Value classes](https://www.reddit.com/r/scala/comments/153uzqu/opaque_typesvalue_classes/)
 - [ISO: Example scala project codebase to look at?](https://www.reddit.com/r/scala/comments/153frof/iso_example_scala_project_codebase_to_look_at/)
 - [Una lista clasificada de increíbles bibliotecas y herramientas de open source de Scala.](https://www.reddit.com/r/scala/comments/152n4n5/una_lista_clasificada_de_increíbles_bibliotecas_y/)
 - [Scala and Neural Networks](https://www.reddit.com/r/scala/comments/152fbre/scala_and_neural_networks/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Indigo games get physical, 0.15.0-RC3 released!](https://www.reddit.com/r/scala/comments/151hsa5/indigo_games_get_physical_0150rc3_released/)
 - [This week in #Scala &lpar;Jul 17, 2023&rpar;](https://www.reddit.com/r/scala/comments/1516wzp/this_week_in_scala_jul_17_2023/)
 - [automate refactoring with Bazel + Scalafix](https://www.reddit.com/r/scala/comments/150uuxi/automate_refactoring_with_bazel_scalafix/)
-- [ducktape 0.1.10 is out - now with coproduct derivation support for FallibleTransformers!](https://www.reddit.com/r/scala/comments/150hovt/ducktape_0110_is_out_now_with_coproduct/)
-- [matching string patterns](https://www.reddit.com/r/scala/comments/14ziqyj/matching_string_patterns/)
-- [Pekko runtime for endless4s](https://www.reddit.com/r/scala/comments/14zie1e/pekko_runtime_for_endless4s/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

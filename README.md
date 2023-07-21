@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Template for simple Spark projects with unit tests](https://www.reddit.com/r/scala/comments/154svax/template_for_simple_spark_projects_with_unit_tests/)
 - [Metals v1.0.0](https://www.reddit.com/r/scala/comments/154d8vo/metals_v100/)
 - [Scala 3 Mapping tool for ADTs](https://www.reddit.com/r/scala/comments/1541iln/scala_3_mapping_tool_for_adts/)
 - [Opaque types/Value classes](https://www.reddit.com/r/scala/comments/153uzqu/opaque_typesvalue_classes/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Signature polymorphic methods in Scala](https://www.reddit.com/r/scala/comments/1522vqu/signature_polymorphic_methods_in_scala/)
 - [Indigo games get physical, 0.15.0-RC3 released!](https://www.reddit.com/r/scala/comments/151hsa5/indigo_games_get_physical_0150rc3_released/)
 - [This week in #Scala &lpar;Jul 17, 2023&rpar;](https://www.reddit.com/r/scala/comments/1516wzp/this_week_in_scala_jul_17_2023/)
-- [automate refactoring with Bazel + Scalafix](https://www.reddit.com/r/scala/comments/150uuxi/automate_refactoring_with_bazel_scalafix/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

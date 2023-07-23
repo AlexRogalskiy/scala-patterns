@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Type class and dependency injection question](https://www.reddit.com/r/scala/comments/156ujjm/type_class_and_dependency_injection_question/)
 - [scala-cli-repl: a mode to open a Scala REPL based on scala-cli &lpar;with org-babel extension&rpar;](https://www.reddit.com/r/scala/comments/156496o/scalaclirepl_a_mode_to_open_a_scala_repl_based_on/)
 - [Go-like channels in Scala: receive, send, and default clauses](https://www.reddit.com/r/scala/comments/155i5bn/golike_channels_in_scala_receive_send_and_default/)
 - [Template for simple Spark projects with unit tests](https://www.reddit.com/r/scala/comments/154svax/template_for_simple_spark_projects_with_unit_tests/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ISO: Example scala project codebase to look at?](https://www.reddit.com/r/scala/comments/153frof/iso_example_scala_project_codebase_to_look_at/)
 - [Una lista clasificada de increíbles bibliotecas y herramientas de open source de Scala.](https://www.reddit.com/r/scala/comments/152n4n5/una_lista_clasificada_de_increíbles_bibliotecas_y/)
 - [Scala and Neural Networks](https://www.reddit.com/r/scala/comments/152fbre/scala_and_neural_networks/)
-- [Signature polymorphic methods in Scala](https://www.reddit.com/r/scala/comments/1522vqu/signature_polymorphic_methods_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

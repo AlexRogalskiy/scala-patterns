@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Jul 24, 2023&rpar;](https://www.reddit.com/r/scala/comments/157hzoc/this_week_in_scala_jul_24_2023/)
 - [Type class and dependency injection question](https://www.reddit.com/r/scala/comments/156ujjm/type_class_and_dependency_injection_question/)
 - [scala-cli-repl: a mode to open a Scala REPL based on scala-cli &lpar;with org-babel extension&rpar;](https://www.reddit.com/r/scala/comments/156496o/scalaclirepl_a_mode_to_open_a_scala_repl_based_on/)
 - [Go-like channels in Scala: receive, send, and default clauses](https://www.reddit.com/r/scala/comments/155i5bn/golike_channels_in_scala_receive_send_and_default/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Opaque types/Value classes](https://www.reddit.com/r/scala/comments/153uzqu/opaque_typesvalue_classes/)
 - [ISO: Example scala project codebase to look at?](https://www.reddit.com/r/scala/comments/153frof/iso_example_scala_project_codebase_to_look_at/)
 - [Una lista clasificada de increíbles bibliotecas y herramientas de open source de Scala.](https://www.reddit.com/r/scala/comments/152n4n5/una_lista_clasificada_de_increíbles_bibliotecas_y/)
-- [Scala and Neural Networks](https://www.reddit.com/r/scala/comments/152fbre/scala_and_neural_networks/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

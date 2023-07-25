@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [compileScala is taking too long](https://www.reddit.com/r/scala/comments/158nb6j/compilescala_is_taking_too_long/)
+- [What should I learn?](https://www.reddit.com/r/scala/comments/158kihc/what_should_i_learn/)
+- [Scala projects crossroad](https://www.reddit.com/r/scala/comments/158i5tk/scala_projects_crossroad/)
+- [Anyone on here use Micronaut with Scala](https://www.reddit.com/r/scala/comments/158f48v/anyone_on_here_use_micronaut_with_scala/)
+- [sbt 1.9.3 released](https://www.reddit.com/r/scala/comments/1582kwu/sbt_193_released/)
 - [This week in #Scala &lpar;Jul 24, 2023&rpar;](https://www.reddit.com/r/scala/comments/157hzoc/this_week_in_scala_jul_24_2023/)
 - [Type class and dependency injection question](https://www.reddit.com/r/scala/comments/156ujjm/type_class_and_dependency_injection_question/)
 - [scala-cli-repl: a mode to open a Scala REPL based on scala-cli &lpar;with org-babel extension&rpar;](https://www.reddit.com/r/scala/comments/156496o/scalaclirepl_a_mode_to_open_a_scala_repl_based_on/)
 - [Go-like channels in Scala: receive, send, and default clauses](https://www.reddit.com/r/scala/comments/155i5bn/golike_channels_in_scala_receive_send_and_default/)
 - [Template for simple Spark projects with unit tests](https://www.reddit.com/r/scala/comments/154svax/template_for_simple_spark_projects_with_unit_tests/)
-- [Metals v1.0.0](https://www.reddit.com/r/scala/comments/154d8vo/metals_v100/)
-- [Scala 3 Mapping tool for ADTs](https://www.reddit.com/r/scala/comments/1541iln/scala_3_mapping_tool_for_adts/)
-- [Opaque types/Value classes](https://www.reddit.com/r/scala/comments/153uzqu/opaque_typesvalue_classes/)
-- [ISO: Example scala project codebase to look at?](https://www.reddit.com/r/scala/comments/153frof/iso_example_scala_project_codebase_to_look_at/)
-- [Una lista clasificada de increíbles bibliotecas y herramientas de open source de Scala.](https://www.reddit.com/r/scala/comments/152n4n5/una_lista_clasificada_de_increíbles_bibliotecas_y/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala way to check for null in get chain](https://www.reddit.com/r/scala/comments/15acc0q/scala_way_to_check_for_null_in_get_chain/)
+- [Iron v2.2.0 is out!](https://www.reddit.com/r/scala/comments/15a4lr9/iron_v220_is_out/)
+- [The Business of Domain Modeling with Scott Wlaschin](https://www.reddit.com/r/scala/comments/15a4bxp/the_business_of_domain_modeling_with_scott/)
 - [compileScala is taking too long](https://www.reddit.com/r/scala/comments/158nb6j/compilescala_is_taking_too_long/)
 - [What should I learn?](https://www.reddit.com/r/scala/comments/158kihc/what_should_i_learn/)
 - [Scala projects crossroad](https://www.reddit.com/r/scala/comments/158i5tk/scala_projects_crossroad/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt 1.9.3 released](https://www.reddit.com/r/scala/comments/1582kwu/sbt_193_released/)
 - [This week in #Scala &lpar;Jul 24, 2023&rpar;](https://www.reddit.com/r/scala/comments/157hzoc/this_week_in_scala_jul_24_2023/)
 - [Type class and dependency injection question](https://www.reddit.com/r/scala/comments/156ujjm/type_class_and_dependency_injection_question/)
-- [scala-cli-repl: a mode to open a Scala REPL based on scala-cli &lpar;with org-babel extension&rpar;](https://www.reddit.com/r/scala/comments/156496o/scalaclirepl_a_mode_to_open_a_scala_repl_based_on/)
-- [Go-like channels in Scala: receive, send, and default clauses](https://www.reddit.com/r/scala/comments/155i5bn/golike_channels_in_scala_receive_send_and_default/)
-- [Template for simple Spark projects with unit tests](https://www.reddit.com/r/scala/comments/154svax/template_for_simple_spark_projects_with_unit_tests/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Two-Factor Authentication in Scala with Http4s](https://www.reddit.com/r/scala/comments/15bg2fa/twofactor_authentication_in_scala_with_http4s/)
+- [Online Courses &lpar;MOOCs&rpar; from The Scala Center](https://www.reddit.com/r/scala/comments/15bg22b/online_courses_moocs_from_the_scala_center/)
+- [Create a game with ScalaFX](https://www.reddit.com/r/scala/comments/15b3hmq/create_a_game_with_scalafx/)
 - [Scala way to check for null in get chain](https://www.reddit.com/r/scala/comments/15acc0q/scala_way_to_check_for_null_in_get_chain/)
 - [Iron v2.2.0 is out!](https://www.reddit.com/r/scala/comments/15a4lr9/iron_v220_is_out/)
 - [The Business of Domain Modeling with Scott Wlaschin](https://www.reddit.com/r/scala/comments/15a4bxp/the_business_of_domain_modeling_with_scott/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [What should I learn?](https://www.reddit.com/r/scala/comments/158kihc/what_should_i_learn/)
 - [Scala projects crossroad](https://www.reddit.com/r/scala/comments/158i5tk/scala_projects_crossroad/)
 - [Anyone on here use Micronaut with Scala](https://www.reddit.com/r/scala/comments/158f48v/anyone_on_here_use_micronaut_with_scala/)
-- [sbt 1.9.3 released](https://www.reddit.com/r/scala/comments/1582kwu/sbt_193_released/)
-- [This week in #Scala &lpar;Jul 24, 2023&rpar;](https://www.reddit.com/r/scala/comments/157hzoc/this_week_in_scala_jul_24_2023/)
-- [Type class and dependency injection question](https://www.reddit.com/r/scala/comments/156ujjm/type_class_and_dependency_injection_question/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

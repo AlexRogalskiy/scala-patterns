@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The initial offering of Convex airdrop](https://www.reddit.com/r/scala/comments/15cch5n/the_initial_offering_of_convex_airdrop/)
 - [Two-Factor Authentication in Scala with Http4s](https://www.reddit.com/r/scala/comments/15bg2fa/twofactor_authentication_in_scala_with_http4s/)
 - [Online Courses &lpar;MOOCs&rpar; from The Scala Center](https://www.reddit.com/r/scala/comments/15bg22b/online_courses_moocs_from_the_scala_center/)
 - [Create a game with ScalaFX](https://www.reddit.com/r/scala/comments/15b3hmq/create_a_game_with_scalafx/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [compileScala is taking too long](https://www.reddit.com/r/scala/comments/158nb6j/compilescala_is_taking_too_long/)
 - [What should I learn?](https://www.reddit.com/r/scala/comments/158kihc/what_should_i_learn/)
 - [Scala projects crossroad](https://www.reddit.com/r/scala/comments/158i5tk/scala_projects_crossroad/)
-- [Anyone on here use Micronaut with Scala](https://www.reddit.com/r/scala/comments/158f48v/anyone_on_here_use_micronaut_with_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

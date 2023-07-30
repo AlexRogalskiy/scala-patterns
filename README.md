@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The initial offering of Convex airdrop](https://www.reddit.com/r/scala/comments/15cch5n/the_initial_offering_of_convex_airdrop/)
+- [sbt-license-report 1.6.0 released](https://www.reddit.com/r/scala/comments/15cygxx/sbtlicensereport_160_released/)
+- [Scala Ecosystem Catchup!](https://www.reddit.com/r/scala/comments/15cvb5r/scala_ecosystem_catchup/)
+- [[Survey] Advantages of using functional programming for commercial software development](https://www.reddit.com/r/scala/comments/15cqxh1/survey_advantages_of_using_functional_programming/)
+- [Inject: a dependency injection micro-library](https://www.reddit.com/r/scala/comments/15cokth/inject_a_dependency_injection_microlibrary/)
 - [Two-Factor Authentication in Scala with Http4s](https://www.reddit.com/r/scala/comments/15bg2fa/twofactor_authentication_in_scala_with_http4s/)
 - [Online Courses &lpar;MOOCs&rpar; from The Scala Center](https://www.reddit.com/r/scala/comments/15bg22b/online_courses_moocs_from_the_scala_center/)
-- [Create a game with ScalaFX](https://www.reddit.com/r/scala/comments/15b3hmq/create_a_game_with_scalafx/)
 - [Scala way to check for null in get chain](https://www.reddit.com/r/scala/comments/15acc0q/scala_way_to_check_for_null_in_get_chain/)
 - [Iron v2.2.0 is out!](https://www.reddit.com/r/scala/comments/15a4lr9/iron_v220_is_out/)
 - [The Business of Domain Modeling with Scott Wlaschin](https://www.reddit.com/r/scala/comments/15a4bxp/the_business_of_domain_modeling_with_scott/)
 - [compileScala is taking too long](https://www.reddit.com/r/scala/comments/158nb6j/compilescala_is_taking_too_long/)
-- [What should I learn?](https://www.reddit.com/r/scala/comments/158kihc/what_should_i_learn/)
-- [Scala projects crossroad](https://www.reddit.com/r/scala/comments/158i5tk/scala_projects_crossroad/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

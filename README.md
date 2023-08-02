@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/15fgn03/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [How to handle yield returning no value](https://www.reddit.com/r/scala/comments/15f718y/how_to_handle_yield_returning_no_value/)
 - [Concurrency Diagram Overview JVM](https://www.reddit.com/r/scala/comments/15dr2gq/concurrency_diagram_overview_jvm/)
 - [This week in #Scala &lpar;Jul 31, 2023&rpar;](https://www.reddit.com/r/scala/comments/15dppgz/this_week_in_scala_jul_31_2023/)
 - [Scala or Kotlin?](https://www.reddit.com/r/scala/comments/15dohbl/scala_or_kotlin/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [[Survey] Advantages of using functional programming for commercial software development](https://www.reddit.com/r/scala/comments/15cqxh1/survey_advantages_of_using_functional_programming/)
 - [Inject: a dependency injection micro-library](https://www.reddit.com/r/scala/comments/15cokth/inject_a_dependency_injection_microlibrary/)
 - [Two-Factor Authentication in Scala with Http4s](https://www.reddit.com/r/scala/comments/15bg2fa/twofactor_authentication_in_scala_with_http4s/)
-- [Online Courses &lpar;MOOCs&rpar; from The Scala Center](https://www.reddit.com/r/scala/comments/15bg22b/online_courses_moocs_from_the_scala_center/)
-- [Scala way to check for null in get chain](https://www.reddit.com/r/scala/comments/15acc0q/scala_way_to_check_for_null_in_get_chain/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

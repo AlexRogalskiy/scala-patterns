@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Chimney 0.8.0-M1 with the initial support for Scala 3](https://www.reddit.com/r/scala/comments/15hihf1/chimney_080m1_with_the_initial_support_for_scala_3/)
+- [Scalendar | August 2023](https://www.reddit.com/r/scala/comments/15h886k/scalendar_august_2023/)
+- [Help me assess the risks of a &quot;legacy&quot; scala codebase](https://www.reddit.com/r/scala/comments/15h4z3a/help_me_assess_the_risks_of_a_legacy_scala/)
+- [LinkedIn is dead long life r/scala](https://www.reddit.com/r/scala/comments/15h44mv/linkedin_is_dead_long_life_rscala/)
+- [Which lisp is like scala?](https://www.reddit.com/r/scala/comments/15h0svq/which_lisp_is_like_scala/)
 - [Top Scala Hirers From July 2023](https://www.reddit.com/r/scala/comments/15gjpqs/top_scala_hirers_from_july_2023/)
 - [Anyone knows why Scala&#39;s closures interacts with variable binding and resolution the way it does?](https://www.reddit.com/r/scala/comments/15ghqs4/anyone_knows_why_scalas_closures_interacts_with/)
 - [Apache Pekko Http 1.0.0 has been released](https://www.reddit.com/r/scala/comments/15g8qph/apache_pekko_http_100_has_been_released/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/15fgn03/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [How to handle yield returning no value](https://www.reddit.com/r/scala/comments/15f718y/how_to_handle_yield_returning_no_value/)
-- [Concurrency Diagram Overview JVM](https://www.reddit.com/r/scala/comments/15dr2gq/concurrency_diagram_overview_jvm/)
-- [This week in #Scala &lpar;Jul 31, 2023&rpar;](https://www.reddit.com/r/scala/comments/15dppgz/this_week_in_scala_jul_31_2023/)
-- [Scala or Kotlin?](https://www.reddit.com/r/scala/comments/15dohbl/scala_or_kotlin/)
-- [sbt-license-report 1.6.0 released](https://www.reddit.com/r/scala/comments/15cygxx/sbtlicensereport_160_released/)
-- [Scala Ecosystem Catchup!](https://www.reddit.com/r/scala/comments/15cvb5r/scala_ecosystem_catchup/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [N-Queens Combinatorial Puzzle meets Cats](https://www.reddit.com/r/scala/comments/15isl9s/nqueens_combinatorial_puzzle_meets_cats/)
+- [Match types: how to express &quot;type of the first field of a case class&quot;?](https://www.reddit.com/r/scala/comments/15inpja/match_types_how_to_express_type_of_the_first/)
 - [library for Postgres?](https://www.reddit.com/r/scala/comments/15i5p8d/library_for_postgres/)
 - [Apache Pekko Connectors Kafka 1.0.0 has been released](https://www.reddit.com/r/scala/comments/15hxv25/apache_pekko_connectors_kafka_100_has_been/)
 - [Web libraries - yes I know...](https://www.reddit.com/r/scala/comments/15hscdu/web_libraries_yes_i_know/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Help me assess the risks of a &quot;legacy&quot; scala codebase](https://www.reddit.com/r/scala/comments/15h4z3a/help_me_assess_the_risks_of_a_legacy_scala/)
 - [LinkedIn is dead long life r/scala](https://www.reddit.com/r/scala/comments/15h44mv/linkedin_is_dead_long_life_rscala/)
 - [Which lisp is like scala?](https://www.reddit.com/r/scala/comments/15h0svq/which_lisp_is_like_scala/)
-- [Top Scala Hirers From July 2023](https://www.reddit.com/r/scala/comments/15gjpqs/top_scala_hirers_from_july_2023/)
-- [Anyone knows why Scala&#39;s closures interacts with variable binding and resolution the way it does?](https://www.reddit.com/r/scala/comments/15ghqs4/anyone_knows_why_scalas_closures_interacts_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

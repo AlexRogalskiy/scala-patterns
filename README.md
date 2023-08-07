@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Formify: Easily call Stripe API](https://www.reddit.com/r/scala/comments/15k5xtk/formify_easily_call_stripe_api/)
+- [Are you using the Akka/Pekko&#39;s Aeron transport?](https://www.reddit.com/r/scala/comments/15jsolw/are_you_using_the_akkapekkos_aeron_transport/)
+- [This week in #Scala &lpar;Aug 7, 2023&rpar;](https://www.reddit.com/r/scala/comments/15jslx7/this_week_in_scala_aug_7_2023/)
+- [What&#39;s operator do you want the Akka/Pekko（in alphabetical order） stream to add？](https://www.reddit.com/r/scala/comments/15jr9q9/whats_operator_do_you_want_the_akkapekkoin/)
+- [Should Pekko remove the classic remoting or upgrade to Netty 4 before remove it.](https://www.reddit.com/r/scala/comments/15jihfd/should_pekko_remove_the_classic_remoting_or/)
 - [N-Queens Combinatorial Puzzle meets Cats](https://www.reddit.com/r/scala/comments/15isl9s/nqueens_combinatorial_puzzle_meets_cats/)
 - [Match types: how to express &quot;type of the first field of a case class&quot;?](https://www.reddit.com/r/scala/comments/15inpja/match_types_how_to_express_type_of_the_first/)
 - [library for Postgres?](https://www.reddit.com/r/scala/comments/15i5p8d/library_for_postgres/)
 - [Apache Pekko Connectors Kafka 1.0.0 has been released](https://www.reddit.com/r/scala/comments/15hxv25/apache_pekko_connectors_kafka_100_has_been/)
 - [Web libraries - yes I know...](https://www.reddit.com/r/scala/comments/15hscdu/web_libraries_yes_i_know/)
-- [Chimney 0.8.0-M1 with the initial support for Scala 3](https://www.reddit.com/r/scala/comments/15hihf1/chimney_080m1_with_the_initial_support_for_scala_3/)
-- [Scalendar | August 2023](https://www.reddit.com/r/scala/comments/15h886k/scalendar_august_2023/)
-- [Help me assess the risks of a &quot;legacy&quot; scala codebase](https://www.reddit.com/r/scala/comments/15h4z3a/help_me_assess_the_risks_of_a_legacy_scala/)
-- [LinkedIn is dead long life r/scala](https://www.reddit.com/r/scala/comments/15h44mv/linkedin_is_dead_long_life_rscala/)
-- [Which lisp is like scala?](https://www.reddit.com/r/scala/comments/15h0svq/which_lisp_is_like_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

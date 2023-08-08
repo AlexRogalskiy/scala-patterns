@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [what language should I learn for interviews?](https://www.reddit.com/r/scala/comments/15kq14c/what_language_should_i_learn_for_interviews/)
+- [Metaprogramming question](https://www.reddit.com/r/scala/comments/15k7fza/metaprogramming_question/)
 - [Formify: Easily call Stripe API](https://www.reddit.com/r/scala/comments/15k5xtk/formify_easily_call_stripe_api/)
 - [Are you using the Akka/Pekko&#39;s Aeron transport?](https://www.reddit.com/r/scala/comments/15jsolw/are_you_using_the_akkapekkos_aeron_transport/)
 - [This week in #Scala &lpar;Aug 7, 2023&rpar;](https://www.reddit.com/r/scala/comments/15jslx7/this_week_in_scala_aug_7_2023/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [N-Queens Combinatorial Puzzle meets Cats](https://www.reddit.com/r/scala/comments/15isl9s/nqueens_combinatorial_puzzle_meets_cats/)
 - [Match types: how to express &quot;type of the first field of a case class&quot;?](https://www.reddit.com/r/scala/comments/15inpja/match_types_how_to_express_type_of_the_first/)
 - [library for Postgres?](https://www.reddit.com/r/scala/comments/15i5p8d/library_for_postgres/)
-- [Apache Pekko Connectors Kafka 1.0.0 has been released](https://www.reddit.com/r/scala/comments/15hxv25/apache_pekko_connectors_kafka_100_has_been/)
-- [Web libraries - yes I know...](https://www.reddit.com/r/scala/comments/15hscdu/web_libraries_yes_i_know/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

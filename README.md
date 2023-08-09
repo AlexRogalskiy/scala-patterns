@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [OAuth in Scala with Http4s](https://www.reddit.com/r/scala/comments/15ll87l/oauth_in_scala_with_http4s/)
+- [Exploring Scala 3 Macros: A Toy Quoted Domain Specific Language](https://www.reddit.com/r/scala/comments/15lgmxh/exploring_scala_3_macros_a_toy_quoted_domain/)
+- [Is there any company using Premium Akka version ?](https://www.reddit.com/r/scala/comments/15ld645/is_there_any_company_using_premium_akka_version/)
 - [what language should I learn for interviews?](https://www.reddit.com/r/scala/comments/15kq14c/what_language_should_i_learn_for_interviews/)
 - [Metaprogramming question](https://www.reddit.com/r/scala/comments/15k7fza/metaprogramming_question/)
 - [Formify: Easily call Stripe API](https://www.reddit.com/r/scala/comments/15k5xtk/formify_easily_call_stripe_api/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Aug 7, 2023&rpar;](https://www.reddit.com/r/scala/comments/15jslx7/this_week_in_scala_aug_7_2023/)
 - [What&#39;s operator do you want the Akka/Pekko（in alphabetical order） stream to add？](https://www.reddit.com/r/scala/comments/15jr9q9/whats_operator_do_you_want_the_akkapekkoin/)
 - [Should Pekko remove the classic remoting or upgrade to Netty 4 before remove it.](https://www.reddit.com/r/scala/comments/15jihfd/should_pekko_remove_the_classic_remoting_or/)
-- [N-Queens Combinatorial Puzzle meets Cats](https://www.reddit.com/r/scala/comments/15isl9s/nqueens_combinatorial_puzzle_meets_cats/)
-- [Match types: how to express &quot;type of the first field of a case class&quot;?](https://www.reddit.com/r/scala/comments/15inpja/match_types_how_to_express_type_of_the_first/)
-- [library for Postgres?](https://www.reddit.com/r/scala/comments/15i5p8d/library_for_postgres/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

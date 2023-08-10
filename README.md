@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Avoiding var](https://www.reddit.com/r/scala/comments/15mxjl3/avoiding_var/)
+- [Scala in the web?](https://www.reddit.com/r/scala/comments/15md853/scala_in_the_web/)
+- [Cats Effect vs ZIO](https://www.reddit.com/r/scala/comments/15m8gb3/cats_effect_vs_zio/)
 - [OAuth in Scala with Http4s](https://www.reddit.com/r/scala/comments/15ll87l/oauth_in_scala_with_http4s/)
 - [Exploring Scala 3 Macros: A Toy Quoted Domain Specific Language](https://www.reddit.com/r/scala/comments/15lgmxh/exploring_scala_3_macros_a_toy_quoted_domain/)
 - [Is there any company using Premium Akka version ?](https://www.reddit.com/r/scala/comments/15ld645/is_there_any_company_using_premium_akka_version/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Metaprogramming question](https://www.reddit.com/r/scala/comments/15k7fza/metaprogramming_question/)
 - [Formify: Easily call Stripe API](https://www.reddit.com/r/scala/comments/15k5xtk/formify_easily_call_stripe_api/)
 - [Are you using the Akka/Pekko&#39;s Aeron transport?](https://www.reddit.com/r/scala/comments/15jsolw/are_you_using_the_akkapekkos_aeron_transport/)
-- [This week in #Scala &lpar;Aug 7, 2023&rpar;](https://www.reddit.com/r/scala/comments/15jslx7/this_week_in_scala_aug_7_2023/)
-- [What&#39;s operator do you want the Akka/Pekko（in alphabetical order） stream to add？](https://www.reddit.com/r/scala/comments/15jr9q9/whats_operator_do_you_want_the_akkapekkoin/)
-- [Should Pekko remove the classic remoting or upgrade to Netty 4 before remove it.](https://www.reddit.com/r/scala/comments/15jihfd/should_pekko_remove_the_classic_remoting_or/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is Scala 2 the most widely adopted version of Scala?](https://www.reddit.com/r/scala/comments/15ntdoy/is_scala_2_the_most_widely_adopted_version_of/)
+- [Any best practices on passing dependencies to function as implicits?](https://www.reddit.com/r/scala/comments/15nkj3i/any_best_practices_on_passing_dependencies_to/)
 - [Avoiding var](https://www.reddit.com/r/scala/comments/15mxjl3/avoiding_var/)
 - [Scala in the web?](https://www.reddit.com/r/scala/comments/15md853/scala_in_the_web/)
 - [Cats Effect vs ZIO](https://www.reddit.com/r/scala/comments/15m8gb3/cats_effect_vs_zio/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Is there any company using Premium Akka version ?](https://www.reddit.com/r/scala/comments/15ld645/is_there_any_company_using_premium_akka_version/)
 - [what language should I learn for interviews?](https://www.reddit.com/r/scala/comments/15kq14c/what_language_should_i_learn_for_interviews/)
 - [Metaprogramming question](https://www.reddit.com/r/scala/comments/15k7fza/metaprogramming_question/)
-- [Formify: Easily call Stripe API](https://www.reddit.com/r/scala/comments/15k5xtk/formify_easily_call_stripe_api/)
-- [Are you using the Akka/Pekko&#39;s Aeron transport?](https://www.reddit.com/r/scala/comments/15jsolw/are_you_using_the_akkapekkos_aeron_transport/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

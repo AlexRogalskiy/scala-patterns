@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The opening token drop of Lido](https://www.reddit.com/r/scala/comments/15opx9s/the_opening_token_drop_of_lido/)
+- [RFC: http4s-stir - Pekko &lpar;Akka&rpar; HTTP-style DSL directives for http4s with cats-effect&#39;s IO](https://www.reddit.com/r/scala/comments/15ol266/rfc_http4sstir_pekko_akka_httpstyle_dsl/)
+- [Looking for kafka course or book](https://www.reddit.com/r/scala/comments/15o2h1z/looking_for_kafka_course_or_book/)
+- [Is cats-effect or ZIO for a simple CRUD app overkill?](https://www.reddit.com/r/scala/comments/15nyubn/is_catseffect_or_zio_for_a_simple_crud_app/)
 - [Is Scala 2 the most widely adopted version of Scala?](https://www.reddit.com/r/scala/comments/15ntdoy/is_scala_2_the_most_widely_adopted_version_of/)
 - [Any best practices on passing dependencies to function as implicits?](https://www.reddit.com/r/scala/comments/15nkj3i/any_best_practices_on_passing_dependencies_to/)
 - [Avoiding var](https://www.reddit.com/r/scala/comments/15mxjl3/avoiding_var/)
 - [Scala in the web?](https://www.reddit.com/r/scala/comments/15md853/scala_in_the_web/)
 - [Cats Effect vs ZIO](https://www.reddit.com/r/scala/comments/15m8gb3/cats_effect_vs_zio/)
 - [OAuth in Scala with Http4s](https://www.reddit.com/r/scala/comments/15ll87l/oauth_in_scala_with_http4s/)
-- [Exploring Scala 3 Macros: A Toy Quoted Domain Specific Language](https://www.reddit.com/r/scala/comments/15lgmxh/exploring_scala_3_macros_a_toy_quoted_domain/)
-- [Is there any company using Premium Akka version ?](https://www.reddit.com/r/scala/comments/15ld645/is_there_any_company_using_premium_akka_version/)
-- [what language should I learn for interviews?](https://www.reddit.com/r/scala/comments/15kq14c/what_language_should_i_learn_for_interviews/)
-- [Metaprogramming question](https://www.reddit.com/r/scala/comments/15k7fza/metaprogramming_question/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

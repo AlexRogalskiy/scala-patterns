@@ -271,7 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The opening token drop of Lido](https://www.reddit.com/r/scala/comments/15opx9s/the_opening_token_drop_of_lido/)
+- [Is this a pure function ?](https://www.reddit.com/r/scala/comments/15p6854/is_this_a_pure_function/)
 - [RFC: http4s-stir - Pekko &lpar;Akka&rpar; HTTP-style DSL directives for http4s with cats-effect&#39;s IO](https://www.reddit.com/r/scala/comments/15ol266/rfc_http4sstir_pekko_akka_httpstyle_dsl/)
 - [Looking for kafka course or book](https://www.reddit.com/r/scala/comments/15o2h1z/looking_for_kafka_course_or_book/)
 - [Is cats-effect or ZIO for a simple CRUD app overkill?](https://www.reddit.com/r/scala/comments/15nyubn/is_catseffect_or_zio_for_a_simple_crud_app/)

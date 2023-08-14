@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Advice on Monads and other FP concepts](https://www.reddit.com/r/scala/comments/15qentu/advice_on_monads_and_other_fp_concepts/)
+- [This week in #Scala &lpar;Aug 14, 2023&rpar;](https://www.reddit.com/r/scala/comments/15q7q0x/this_week_in_scala_aug_14_2023/)
+- [Advice on backend stack](https://www.reddit.com/r/scala/comments/15q3c2h/advice_on_backend_stack/)
 - [Is this a pure function ?](https://www.reddit.com/r/scala/comments/15p6854/is_this_a_pure_function/)
 - [RFC: http4s-stir - Pekko &lpar;Akka&rpar; HTTP-style DSL directives for http4s with cats-effect&#39;s IO](https://www.reddit.com/r/scala/comments/15ol266/rfc_http4sstir_pekko_akka_httpstyle_dsl/)
 - [Looking for kafka course or book](https://www.reddit.com/r/scala/comments/15o2h1z/looking_for_kafka_course_or_book/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Is Scala 2 the most widely adopted version of Scala?](https://www.reddit.com/r/scala/comments/15ntdoy/is_scala_2_the_most_widely_adopted_version_of/)
 - [Any best practices on passing dependencies to function as implicits?](https://www.reddit.com/r/scala/comments/15nkj3i/any_best_practices_on_passing_dependencies_to/)
 - [Avoiding var](https://www.reddit.com/r/scala/comments/15mxjl3/avoiding_var/)
-- [Scala in the web?](https://www.reddit.com/r/scala/comments/15md853/scala_in_the_web/)
-- [Cats Effect vs ZIO](https://www.reddit.com/r/scala/comments/15m8gb3/cats_effect_vs_zio/)
-- [OAuth in Scala with Http4s](https://www.reddit.com/r/scala/comments/15ll87l/oauth_in_scala_with_http4s/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to access Monix task data](https://www.reddit.com/r/scala/comments/15ramvv/how_to_access_monix_task_data/)
+- [Apache Pekko Management has been released](https://www.reddit.com/r/scala/comments/15qnv05/apache_pekko_management_has_been_released/)
 - [Advice on Monads and other FP concepts](https://www.reddit.com/r/scala/comments/15qentu/advice_on_monads_and_other_fp_concepts/)
 - [This week in #Scala &lpar;Aug 14, 2023&rpar;](https://www.reddit.com/r/scala/comments/15q7q0x/this_week_in_scala_aug_14_2023/)
 - [Advice on backend stack](https://www.reddit.com/r/scala/comments/15q3c2h/advice_on_backend_stack/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Looking for kafka course or book](https://www.reddit.com/r/scala/comments/15o2h1z/looking_for_kafka_course_or_book/)
 - [Is cats-effect or ZIO for a simple CRUD app overkill?](https://www.reddit.com/r/scala/comments/15nyubn/is_catseffect_or_zio_for_a_simple_crud_app/)
 - [Is Scala 2 the most widely adopted version of Scala?](https://www.reddit.com/r/scala/comments/15ntdoy/is_scala_2_the_most_widely_adopted_version_of/)
-- [Any best practices on passing dependencies to function as implicits?](https://www.reddit.com/r/scala/comments/15nkj3i/any_best_practices_on_passing_dependencies_to/)
-- [Avoiding var](https://www.reddit.com/r/scala/comments/15mxjl3/avoiding_var/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

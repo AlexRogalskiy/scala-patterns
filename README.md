@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Slack Bot in Scala and 12 Ways to Run It](https://www.reddit.com/r/scala/comments/15tzg10/slack_bot_in_scala_and_12_ways_to_run_it/)
 - [Principles of developing applications in Scala](https://www.reddit.com/r/scala/comments/15sqhua/principles_of_developing_applications_in_scala/)
 - [Scala coding interviews](https://www.reddit.com/r/scala/comments/15rtkym/scala_coding_interviews/)
 - [[Video] The Making of the com.lihaoyi Ecosystem | Scala Days 2023 Seattle](https://www.reddit.com/r/scala/comments/15rezwr/video_the_making_of_the_comlihaoyi_ecosystem/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Aug 14, 2023&rpar;](https://www.reddit.com/r/scala/comments/15q7q0x/this_week_in_scala_aug_14_2023/)
 - [Advice on backend stack](https://www.reddit.com/r/scala/comments/15q3c2h/advice_on_backend_stack/)
 - [Is this a pure function ?](https://www.reddit.com/r/scala/comments/15p6854/is_this_a_pure_function/)
-- [RFC: http4s-stir - Pekko &lpar;Akka&rpar; HTTP-style DSL directives for http4s with cats-effect&#39;s IO](https://www.reddit.com/r/scala/comments/15ol266/rfc_http4sstir_pekko_akka_httpstyle_dsl/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

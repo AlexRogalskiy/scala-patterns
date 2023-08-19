@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Do your Values align with FP Values?](https://www.reddit.com/r/scala/comments/15umpn0/do_your_values_align_with_fp_values/)
+- [Cost of Boxing](https://www.reddit.com/r/scala/comments/15ujzyp/cost_of_boxing/)
 - [Slack Bot in Scala and 12 Ways to Run It](https://www.reddit.com/r/scala/comments/15tzg10/slack_bot_in_scala_and_12_ways_to_run_it/)
 - [Principles of developing applications in Scala](https://www.reddit.com/r/scala/comments/15sqhua/principles_of_developing_applications_in_scala/)
 - [Scala coding interviews](https://www.reddit.com/r/scala/comments/15rtkym/scala_coding_interviews/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Apache Pekko Management has been released](https://www.reddit.com/r/scala/comments/15qnv05/apache_pekko_management_has_been_released/)
 - [Advice on Monads and other FP concepts](https://www.reddit.com/r/scala/comments/15qentu/advice_on_monads_and_other_fp_concepts/)
 - [This week in #Scala &lpar;Aug 14, 2023&rpar;](https://www.reddit.com/r/scala/comments/15q7q0x/this_week_in_scala_aug_14_2023/)
-- [Advice on backend stack](https://www.reddit.com/r/scala/comments/15q3c2h/advice_on_backend_stack/)
-- [Is this a pure function ?](https://www.reddit.com/r/scala/comments/15p6854/is_this_a_pure_function/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Aug 21, 2023&rpar;](https://www.reddit.com/r/scala/comments/15vp91w/this_week_in_scala_aug_21_2023/)
+- [Advice on TDD with ScalaTest](https://www.reddit.com/r/scala/comments/15vihzc/advice_on_tdd_with_scalatest/)
+- [sbt-svelte: the best way to use Svelte with Playframework](https://www.reddit.com/r/scala/comments/15v96fz/sbtsvelte_the_best_way_to_use_svelte_with/)
 - [Do your Values align with FP Values?](https://www.reddit.com/r/scala/comments/15umpn0/do_your_values_align_with_fp_values/)
 - [Cost of Boxing](https://www.reddit.com/r/scala/comments/15ujzyp/cost_of_boxing/)
 - [Slack Bot in Scala and 12 Ways to Run It](https://www.reddit.com/r/scala/comments/15tzg10/slack_bot_in_scala_and_12_ways_to_run_it/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala coding interviews](https://www.reddit.com/r/scala/comments/15rtkym/scala_coding_interviews/)
 - [[Video] The Making of the com.lihaoyi Ecosystem | Scala Days 2023 Seattle](https://www.reddit.com/r/scala/comments/15rezwr/video_the_making_of_the_comlihaoyi_ecosystem/)
 - [How to access Monix task data](https://www.reddit.com/r/scala/comments/15ramvv/how_to_access_monix_task_data/)
-- [Apache Pekko Management has been released](https://www.reddit.com/r/scala/comments/15qnv05/apache_pekko_management_has_been_released/)
-- [Advice on Monads and other FP concepts](https://www.reddit.com/r/scala/comments/15qentu/advice_on_monads_and_other_fp_concepts/)
-- [This week in #Scala &lpar;Aug 14, 2023&rpar;](https://www.reddit.com/r/scala/comments/15q7q0x/this_week_in_scala_aug_14_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

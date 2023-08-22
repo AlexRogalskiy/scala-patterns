@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [dotty-cps-async 0.9.18: Automating coloring is deprecated. Long live direct context encoding.](https://www.reddit.com/r/scala/comments/15x763y/dottycpsasync_0918_automating_coloring_is/)
+- [Apache Pekko gRPC has been released](https://www.reddit.com/r/scala/comments/15x0ke6/apache_pekko_grpc_has_been_released/)
 - [doobie-typesafe &lpar;scala 3&rpar;: typesafe table and column definitions for doobie](https://www.reddit.com/r/scala/comments/15wm6ii/doobietypesafe_scala_3_typesafe_table_and_column/)
 - [tree-sitter-scala 0.20.2 released](https://www.reddit.com/r/scala/comments/15wisrz/treesitterscala_0202_released/)
 - [Scala 3 Macro macro println&lpar;...&rpar;&#39;s missing in IntelliJ compile build output console](https://www.reddit.com/r/scala/comments/15wa5k2/scala_3_macro_macro_printlns_missing_in_intellij/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Aug 21, 2023&rpar;](https://www.reddit.com/r/scala/comments/15vp91w/this_week_in_scala_aug_21_2023/)
 - [Advice on TDD with ScalaTest](https://www.reddit.com/r/scala/comments/15vihzc/advice_on_tdd_with_scalatest/)
 - [sbt-svelte: the best way to use Svelte with Playframework](https://www.reddit.com/r/scala/comments/15v96fz/sbtsvelte_the_best_way_to_use_svelte_with/)
-- [Do your Values align with FP Values?](https://www.reddit.com/r/scala/comments/15umpn0/do_your_values_align_with_fp_values/)
-- [Cost of Boxing](https://www.reddit.com/r/scala/comments/15ujzyp/cost_of_boxing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

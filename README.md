@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Current status of Caprese?](https://www.reddit.com/r/scala/comments/15xxapi/current_status_of_caprese/)
 - [dotty-cps-async 0.9.18: Automating coloring is deprecated. Long live direct context encoding.](https://www.reddit.com/r/scala/comments/15x763y/dottycpsasync_0918_automating_coloring_is/)
 - [Apache Pekko gRPC has been released](https://www.reddit.com/r/scala/comments/15x0ke6/apache_pekko_grpc_has_been_released/)
 - [doobie-typesafe &lpar;scala 3&rpar;: typesafe table and column definitions for doobie](https://www.reddit.com/r/scala/comments/15wm6ii/doobietypesafe_scala_3_typesafe_table_and_column/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [New blog on ZIO Test Aspects](https://www.reddit.com/r/scala/comments/15w3lcq/new_blog_on_zio_test_aspects/)
 - [This week in #Scala &lpar;Aug 21, 2023&rpar;](https://www.reddit.com/r/scala/comments/15vp91w/this_week_in_scala_aug_21_2023/)
 - [Advice on TDD with ScalaTest](https://www.reddit.com/r/scala/comments/15vihzc/advice_on_tdd_with_scalatest/)
-- [sbt-svelte: the best way to use Svelte with Playframework](https://www.reddit.com/r/scala/comments/15v96fz/sbtsvelte_the_best_way_to_use_svelte_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

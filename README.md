@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to implement generic FlatMap in Free Monad?](https://www.reddit.com/r/scala/comments/15zfywk/how_to_implement_generic_flatmap_in_free_monad/)
+- [Learning Scala, Scala 2 vs Scala 3?](https://www.reddit.com/r/scala/comments/15z6g7g/learning_scala_scala_2_vs_scala_3/)
+- [I need help with my scalafx app, &lpar;it&#39;s just a simple to do list&rpar;](https://www.reddit.com/r/scala/comments/15z24l1/i_need_help_with_my_scalafx_app_its_just_a_simple/)
+- [Is scala good on its own for back end web or is there a particular framework I should focus on?](https://www.reddit.com/r/scala/comments/15yr40z/is_scala_good_on_its_own_for_back_end_web_or_is/)
 - [Current status of Caprese?](https://www.reddit.com/r/scala/comments/15xxapi/current_status_of_caprese/)
 - [dotty-cps-async 0.9.18: Automating coloring is deprecated. Long live direct context encoding.](https://www.reddit.com/r/scala/comments/15x763y/dottycpsasync_0918_automating_coloring_is/)
 - [Apache Pekko gRPC has been released](https://www.reddit.com/r/scala/comments/15x0ke6/apache_pekko_grpc_has_been_released/)
 - [doobie-typesafe &lpar;scala 3&rpar;: typesafe table and column definitions for doobie](https://www.reddit.com/r/scala/comments/15wm6ii/doobietypesafe_scala_3_typesafe_table_and_column/)
 - [tree-sitter-scala 0.20.2 released](https://www.reddit.com/r/scala/comments/15wisrz/treesitterscala_0202_released/)
 - [Scala 3 Macro macro println&lpar;...&rpar;&#39;s missing in IntelliJ compile build output console](https://www.reddit.com/r/scala/comments/15wa5k2/scala_3_macro_macro_printlns_missing_in_intellij/)
-- [Generic programming streamlined with no implicits: why doesn&#39;t this mirror &amp; inline solution compile?](https://www.reddit.com/r/scala/comments/15w98we/generic_programming_streamlined_with_no_implicits/)
-- [New blog on ZIO Test Aspects](https://www.reddit.com/r/scala/comments/15w3lcq/new_blog_on_zio_test_aspects/)
-- [This week in #Scala &lpar;Aug 21, 2023&rpar;](https://www.reddit.com/r/scala/comments/15vp91w/this_week_in_scala_aug_21_2023/)
-- [Advice on TDD with ScalaTest](https://www.reddit.com/r/scala/comments/15vihzc/advice_on_tdd_with_scalatest/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

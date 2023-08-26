@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Type safety with Iron - introduction and comparison to Refined](https://www.reddit.com/r/scala/comments/161ayp1/type_safety_with_iron_introduction_and_comparison/)
+- [Lightbend transfers ownership of sbt to the Scala Center](https://www.reddit.com/r/scala/comments/1614urc/lightbend_transfers_ownership_of_sbt_to_the_scala/)
+- [Fx Calculator, a calculator app in Scala 3, is available at Google Play Store](https://www.reddit.com/r/scala/comments/16147cp/fx_calculator_a_calculator_app_in_scala_3_is/)
+- [Anything else to look out for while following Practical FP In Scala using Scala 3?](https://www.reddit.com/r/scala/comments/160yj5d/anything_else_to_look_out_for_while_following/)
+- [Upgrade Pekko&#39;s classical transport to Netty 4 or Complete remove it in 1.1.x?](https://www.reddit.com/r/scala/comments/160pvne/upgrade_pekkos_classical_transport_to_netty_4_or/)
 - [sbt 1.9.4 released](https://www.reddit.com/r/scala/comments/160l68h/sbt_194_released/)
 - [Variance explained &lpar;in different terms&rpar;](https://www.reddit.com/r/scala/comments/160evua/variance_explained_in_different_terms/)
 - [Progress on Scala 3 Adoption in Akka, Spark, Play, Pekko?](https://www.reddit.com/r/scala/comments/160cmj8/progress_on_scala_3_adoption_in_akka_spark_play/)
 - [Native app development with sttp and Scala Toolkit](https://www.reddit.com/r/scala/comments/15zu5gv/native_app_development_with_sttp_and_scala_toolkit/)
 - [How to implement generic FlatMap in Free Monad?](https://www.reddit.com/r/scala/comments/15zfywk/how_to_implement_generic_flatmap_in_free_monad/)
-- [Learning Scala, Scala 2 vs Scala 3?](https://www.reddit.com/r/scala/comments/15z6g7g/learning_scala_scala_2_vs_scala_3/)
-- [I need help with my scalafx app, &lpar;it&#39;s just a simple to do list&rpar;](https://www.reddit.com/r/scala/comments/15z24l1/i_need_help_with_my_scalafx_app_its_just_a_simple/)
-- [Is scala good on its own for back end web or is there a particular framework I should focus on?](https://www.reddit.com/r/scala/comments/15yr40z/is_scala_good_on_its_own_for_back_end_web_or_is/)
-- [Current status of Caprese?](https://www.reddit.com/r/scala/comments/15xxapi/current_status_of_caprese/)
-- [dotty-cps-async 0.9.18: Automating coloring is deprecated. Long live direct context encoding.](https://www.reddit.com/r/scala/comments/15x763y/dottycpsasync_0918_automating_coloring_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

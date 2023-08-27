@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Out of the loop for a couple of years, what&#39;s changed?](https://www.reddit.com/r/scala/comments/161yam6/out_of_the_loop_for_a_couple_of_years_whats/)
 - [Type safety with Iron - introduction and comparison to Refined](https://www.reddit.com/r/scala/comments/161ayp1/type_safety_with_iron_introduction_and_comparison/)
 - [Lightbend transfers ownership of sbt to the Scala Center](https://www.reddit.com/r/scala/comments/1614urc/lightbend_transfers_ownership_of_sbt_to_the_scala/)
 - [Fx Calculator, a calculator app in Scala 3, is available at Google Play Store](https://www.reddit.com/r/scala/comments/16147cp/fx_calculator_a_calculator_app_in_scala_3_is/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Variance explained &lpar;in different terms&rpar;](https://www.reddit.com/r/scala/comments/160evua/variance_explained_in_different_terms/)
 - [Progress on Scala 3 Adoption in Akka, Spark, Play, Pekko?](https://www.reddit.com/r/scala/comments/160cmj8/progress_on_scala_3_adoption_in_akka_spark_play/)
 - [Native app development with sttp and Scala Toolkit](https://www.reddit.com/r/scala/comments/15zu5gv/native_app_development_with_sttp_and_scala_toolkit/)
-- [How to implement generic FlatMap in Free Monad?](https://www.reddit.com/r/scala/comments/15zfywk/how_to_implement_generic_flatmap_in_free_monad/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

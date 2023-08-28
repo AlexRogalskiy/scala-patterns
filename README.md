@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Aug 28, 2023&rpar;](https://www.reddit.com/r/scala/comments/162qgxd/this_week_in_scala_aug_28_2023/)
 - [Out of the loop for a couple of years, what&#39;s changed?](https://www.reddit.com/r/scala/comments/161yam6/out_of_the_loop_for_a_couple_of_years_whats/)
 - [Type safety with Iron - introduction and comparison to Refined](https://www.reddit.com/r/scala/comments/161ayp1/type_safety_with_iron_introduction_and_comparison/)
 - [Lightbend transfers ownership of sbt to the Scala Center](https://www.reddit.com/r/scala/comments/1614urc/lightbend_transfers_ownership_of_sbt_to_the_scala/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt 1.9.4 released](https://www.reddit.com/r/scala/comments/160l68h/sbt_194_released/)
 - [Variance explained &lpar;in different terms&rpar;](https://www.reddit.com/r/scala/comments/160evua/variance_explained_in_different_terms/)
 - [Progress on Scala 3 Adoption in Akka, Spark, Play, Pekko?](https://www.reddit.com/r/scala/comments/160cmj8/progress_on_scala_3_adoption_in_akka_spark_play/)
-- [Native app development with sttp and Scala Toolkit](https://www.reddit.com/r/scala/comments/15zu5gv/native_app_development_with_sttp_and_scala_toolkit/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

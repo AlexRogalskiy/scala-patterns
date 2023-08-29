@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Code Quality tools](https://www.reddit.com/r/scala/comments/163uyjk/code_quality_tools/)
+- [Creating a CLI app with scala and Graal VM: should I switch to Rust?](https://www.reddit.com/r/scala/comments/163ot37/creating_a_cli_app_with_scala_and_graal_vm_should/)
 - [This week in #Scala &lpar;Aug 28, 2023&rpar;](https://www.reddit.com/r/scala/comments/162qgxd/this_week_in_scala_aug_28_2023/)
 - [Out of the loop for a couple of years, what&#39;s changed?](https://www.reddit.com/r/scala/comments/161yam6/out_of_the_loop_for_a_couple_of_years_whats/)
 - [Type safety with Iron - introduction and comparison to Refined](https://www.reddit.com/r/scala/comments/161ayp1/type_safety_with_iron_introduction_and_comparison/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Anything else to look out for while following Practical FP In Scala using Scala 3?](https://www.reddit.com/r/scala/comments/160yj5d/anything_else_to_look_out_for_while_following/)
 - [Upgrade Pekko&#39;s classical transport to Netty 4 or Complete remove it in 1.1.x?](https://www.reddit.com/r/scala/comments/160pvne/upgrade_pekkos_classical_transport_to_netty_4_or/)
 - [sbt 1.9.4 released](https://www.reddit.com/r/scala/comments/160l68h/sbt_194_released/)
-- [Variance explained &lpar;in different terms&rpar;](https://www.reddit.com/r/scala/comments/160evua/variance_explained_in_different_terms/)
-- [Progress on Scala 3 Adoption in Akka, Spark, Play, Pekko?](https://www.reddit.com/r/scala/comments/160cmj8/progress_on_scala_3_adoption_in_akka_spark_play/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ScaLatin #6 | Creando una aplicación con ZIO y Temporal con Carlos Eduardo de Paula](https://www.reddit.com/r/scala/comments/164fd4o/scalatin_6_creando_una_aplicación_con_zio_y/)
 - [Code Quality tools](https://www.reddit.com/r/scala/comments/163uyjk/code_quality_tools/)
 - [Creating a CLI app with scala and Graal VM: should I switch to Rust?](https://www.reddit.com/r/scala/comments/163ot37/creating_a_cli_app_with_scala_and_graal_vm_should/)
 - [This week in #Scala &lpar;Aug 28, 2023&rpar;](https://www.reddit.com/r/scala/comments/162qgxd/this_week_in_scala_aug_28_2023/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Fx Calculator, a calculator app in Scala 3, is available at Google Play Store](https://www.reddit.com/r/scala/comments/16147cp/fx_calculator_a_calculator_app_in_scala_3_is/)
 - [Anything else to look out for while following Practical FP In Scala using Scala 3?](https://www.reddit.com/r/scala/comments/160yj5d/anything_else_to_look_out_for_while_following/)
 - [Upgrade Pekko&#39;s classical transport to Netty 4 or Complete remove it in 1.1.x?](https://www.reddit.com/r/scala/comments/160pvne/upgrade_pekkos_classical_transport_to_netty_4_or/)
-- [sbt 1.9.4 released](https://www.reddit.com/r/scala/comments/160l68h/sbt_194_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

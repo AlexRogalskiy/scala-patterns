@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Modelling two-way parsing](https://www.reddit.com/r/scala/comments/165qwik/modelling_twoway_parsing/)
+- [Supervision, Kafka and Java 21: what&#39;s new in Ox](https://www.reddit.com/r/scala/comments/165a1bs/supervision_kafka_and_java_21_whats_new_in_ox/)
 - [ScaLatin #6 | Creando una aplicación con ZIO y Temporal con Carlos Eduardo de Paula](https://www.reddit.com/r/scala/comments/164fd4o/scalatin_6_creando_una_aplicación_con_zio_y/)
 - [Code Quality tools](https://www.reddit.com/r/scala/comments/163uyjk/code_quality_tools/)
 - [Creating a CLI app with scala and Graal VM: should I switch to Rust?](https://www.reddit.com/r/scala/comments/163ot37/creating_a_cli_app_with_scala_and_graal_vm_should/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Type safety with Iron - introduction and comparison to Refined](https://www.reddit.com/r/scala/comments/161ayp1/type_safety_with_iron_introduction_and_comparison/)
 - [Lightbend transfers ownership of sbt to the Scala Center](https://www.reddit.com/r/scala/comments/1614urc/lightbend_transfers_ownership_of_sbt_to_the_scala/)
 - [Fx Calculator, a calculator app in Scala 3, is available at Google Play Store](https://www.reddit.com/r/scala/comments/16147cp/fx_calculator_a_calculator_app_in_scala_3_is/)
-- [Anything else to look out for while following Practical FP In Scala using Scala 3?](https://www.reddit.com/r/scala/comments/160yj5d/anything_else_to_look_out_for_while_following/)
-- [Upgrade Pekko&#39;s classical transport to Netty 4 or Complete remove it in 1.1.x?](https://www.reddit.com/r/scala/comments/160pvne/upgrade_pekkos_classical_transport_to_netty_4_or/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

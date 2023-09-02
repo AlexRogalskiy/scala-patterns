@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Compare Task Processing Approaches in Scala](https://www.reddit.com/r/scala/comments/167b6v5/compare_task_processing_approaches_in_scala/)
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/167b3cr/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Modelling two-way parsing](https://www.reddit.com/r/scala/comments/165qwik/modelling_twoway_parsing/)
 - [Supervision, Kafka and Java 21: what&#39;s new in Ox](https://www.reddit.com/r/scala/comments/165a1bs/supervision_kafka_and_java_21_whats_new_in_ox/)
 - [ScaLatin #6 | Creando una aplicación con ZIO y Temporal con Carlos Eduardo de Paula](https://www.reddit.com/r/scala/comments/164fd4o/scalatin_6_creando_una_aplicación_con_zio_y/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Aug 28, 2023&rpar;](https://www.reddit.com/r/scala/comments/162qgxd/this_week_in_scala_aug_28_2023/)
 - [Out of the loop for a couple of years, what&#39;s changed?](https://www.reddit.com/r/scala/comments/161yam6/out_of_the_loop_for_a_couple_of_years_whats/)
 - [Type safety with Iron - introduction and comparison to Refined](https://www.reddit.com/r/scala/comments/161ayp1/type_safety_with_iron_introduction_and_comparison/)
-- [Lightbend transfers ownership of sbt to the Scala Center](https://www.reddit.com/r/scala/comments/1614urc/lightbend_transfers_ownership_of_sbt_to_the_scala/)
-- [Fx Calculator, a calculator app in Scala 3, is available at Google Play Store](https://www.reddit.com/r/scala/comments/16147cp/fx_calculator_a_calculator_app_in_scala_3_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

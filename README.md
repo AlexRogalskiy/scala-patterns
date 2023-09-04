@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Sep 4, 2023&rpar;](https://www.reddit.com/r/scala/comments/169dd88/this_week_in_scala_sep_4_2023/)
+- [Scala Implicits Revisited • Martin Odersky • YOW! 2020](https://www.reddit.com/r/scala/comments/168w3co/scala_implicits_revisited_martin_odersky_yow_2020/)
 - [Cellular Automata for video games](https://www.reddit.com/r/scala/comments/1684nh7/cellular_automata_for_video_games/)
 - [RFC: A Path Forward for Ammonite REPL and Scripts in 2023 and Beyond](https://www.reddit.com/r/scala/comments/167xhid/rfc_a_path_forward_for_ammonite_repl_and_scripts/)
 - [Compare Task Processing Approaches in Scala](https://www.reddit.com/r/scala/comments/167b6v5/compare_task_processing_approaches_in_scala/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Supervision, Kafka and Java 21: what&#39;s new in Ox](https://www.reddit.com/r/scala/comments/165a1bs/supervision_kafka_and_java_21_whats_new_in_ox/)
 - [ScaLatin #6 | Creando una aplicación con ZIO y Temporal con Carlos Eduardo de Paula](https://www.reddit.com/r/scala/comments/164fd4o/scalatin_6_creando_una_aplicación_con_zio_y/)
 - [Code Quality tools](https://www.reddit.com/r/scala/comments/163uyjk/code_quality_tools/)
-- [Creating a CLI app with scala and Graal VM: should I switch to Rust?](https://www.reddit.com/r/scala/comments/163ot37/creating_a_cli_app_with_scala_and_graal_vm_should/)
-- [This week in #Scala &lpar;Aug 28, 2023&rpar;](https://www.reddit.com/r/scala/comments/162qgxd/this_week_in_scala_aug_28_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

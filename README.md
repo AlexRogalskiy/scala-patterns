@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Apache Pekko Connectors and Apache Pekko Persistence JDBC has been released](https://www.reddit.com/r/scala/comments/16beol8/apache_pekko_connectors_and_apache_pekko/)
 - [Spark NLP 5.1.0: Introducing state-of-the-art OpenAI Whisper speech-to-text, OpenAI Embeddings and Completion transformers, MPNet text embeddings, ONNX support for E5 text embeddings, new multi-lingual BART Zero-Shot text classification, and much more!](https://www.reddit.com/r/scala/comments/169zcla/spark_nlp_510_introducing_stateoftheart_openai/)
 - [September Edition of Scalendar is Out Now!](https://www.reddit.com/r/scala/comments/169s5mx/september_edition_of_scalendar_is_out_now/)
 - [This week in #Scala &lpar;Sep 4, 2023&rpar;](https://www.reddit.com/r/scala/comments/169dd88/this_week_in_scala_sep_4_2023/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Compare Task Processing Approaches in Scala](https://www.reddit.com/r/scala/comments/167b6v5/compare_task_processing_approaches_in_scala/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/167b3cr/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Modelling two-way parsing](https://www.reddit.com/r/scala/comments/165qwik/modelling_twoway_parsing/)
-- [Supervision, Kafka and Java 21: what&#39;s new in Ox](https://www.reddit.com/r/scala/comments/165a1bs/supervision_kafka_and_java_21_whats_new_in_ox/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

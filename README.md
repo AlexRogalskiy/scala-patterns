@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is using Doobie for Database Access a good idea?](https://www.reddit.com/r/scala/comments/16cpgpw/is_using_doobie_for_database_access_a_good_idea/)
+- [How to make a text appear letter by letter?](https://www.reddit.com/r/scala/comments/16cnyhh/how_to_make_a_text_appear_letter_by_letter/)
+- [Help Needed With Scala fs2 Stream Implementation](https://www.reddit.com/r/scala/comments/16cd3ji/help_needed_with_scala_fs2_stream_implementation/)
+- [Why choose Scala for large scale software development in 2023 over Java or Kotlin?](https://www.reddit.com/r/scala/comments/16cc4uu/why_choose_scala_for_large_scale_software/)
+- [Can&#39;t find a Scala job, because there are none](https://www.reddit.com/r/scala/comments/16cb0no/cant_find_a_scala_job_because_there_are_none/)
+- [Monix Support for Cats Effect 3?](https://www.reddit.com/r/scala/comments/16c6ry1/monix_support_for_cats_effect_3/)
 - [Apache Pekko Connectors and Apache Pekko Persistence JDBC has been released](https://www.reddit.com/r/scala/comments/16beol8/apache_pekko_connectors_and_apache_pekko/)
 - [Spark NLP 5.1.0: Introducing state-of-the-art OpenAI Whisper speech-to-text, OpenAI Embeddings and Completion transformers, MPNet text embeddings, ONNX support for E5 text embeddings, new multi-lingual BART Zero-Shot text classification, and much more!](https://www.reddit.com/r/scala/comments/169zcla/spark_nlp_510_introducing_stateoftheart_openai/)
 - [September Edition of Scalendar is Out Now!](https://www.reddit.com/r/scala/comments/169s5mx/september_edition_of_scalendar_is_out_now/)
 - [This week in #Scala &lpar;Sep 4, 2023&rpar;](https://www.reddit.com/r/scala/comments/169dd88/this_week_in_scala_sep_4_2023/)
-- [Scala Implicits Revisited • Martin Odersky • YOW! 2020](https://www.reddit.com/r/scala/comments/168w3co/scala_implicits_revisited_martin_odersky_yow_2020/)
-- [Cellular Automata for video games](https://www.reddit.com/r/scala/comments/1684nh7/cellular_automata_for_video_games/)
-- [RFC: A Path Forward for Ammonite REPL and Scripts in 2023 and Beyond](https://www.reddit.com/r/scala/comments/167xhid/rfc_a_path_forward_for_ammonite_repl_and_scripts/)
-- [Compare Task Processing Approaches in Scala](https://www.reddit.com/r/scala/comments/167b6v5/compare_task_processing_approaches_in_scala/)
-- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/167b3cr/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [Modelling two-way parsing](https://www.reddit.com/r/scala/comments/165qwik/modelling_twoway_parsing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3.3.1 is released!](https://www.reddit.com/r/scala/comments/16dgx1o/scala_331_is_released/)
+- [Any news on ZIO 2.1.0?](https://www.reddit.com/r/scala/comments/16dg47q/any_news_on_zio_210/)
 - [Is using Doobie for Database Access a good idea?](https://www.reddit.com/r/scala/comments/16cpgpw/is_using_doobie_for_database_access_a_good_idea/)
 - [How to make a text appear letter by letter?](https://www.reddit.com/r/scala/comments/16cnyhh/how_to_make_a_text_appear_letter_by_letter/)
 - [Help Needed With Scala fs2 Stream Implementation](https://www.reddit.com/r/scala/comments/16cd3ji/help_needed_with_scala_fs2_stream_implementation/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Monix Support for Cats Effect 3?](https://www.reddit.com/r/scala/comments/16c6ry1/monix_support_for_cats_effect_3/)
 - [Apache Pekko Connectors and Apache Pekko Persistence JDBC has been released](https://www.reddit.com/r/scala/comments/16beol8/apache_pekko_connectors_and_apache_pekko/)
 - [Spark NLP 5.1.0: Introducing state-of-the-art OpenAI Whisper speech-to-text, OpenAI Embeddings and Completion transformers, MPNet text embeddings, ONNX support for E5 text embeddings, new multi-lingual BART Zero-Shot text classification, and much more!](https://www.reddit.com/r/scala/comments/169zcla/spark_nlp_510_introducing_stateoftheart_openai/)
-- [September Edition of Scalendar is Out Now!](https://www.reddit.com/r/scala/comments/169s5mx/september_edition_of_scalendar_is_out_now/)
-- [This week in #Scala &lpar;Sep 4, 2023&rpar;](https://www.reddit.com/r/scala/comments/169dd88/this_week_in_scala_sep_4_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

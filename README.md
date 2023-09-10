@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Developer interview preparation help!](https://www.reddit.com/r/scala/comments/16dzljq/scala_developer_interview_preparation_help/)
+- [Multiple languages have some sort of syntax to accommodate monadic chaining. Yet NONE in which there&#39;s first class support for applicative zipping... or there is?](https://www.reddit.com/r/scala/comments/16dv24h/multiple_languages_have_some_sort_of_syntax_to/)
 - [Scala 3.3.1 is released!](https://www.reddit.com/r/scala/comments/16dgx1o/scala_331_is_released/)
 - [Any news on ZIO 2.1.0?](https://www.reddit.com/r/scala/comments/16dg47q/any_news_on_zio_210/)
 - [Is using Doobie for Database Access a good idea?](https://www.reddit.com/r/scala/comments/16cpgpw/is_using_doobie_for_database_access_a_good_idea/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Why choose Scala for large scale software development in 2023 over Java or Kotlin?](https://www.reddit.com/r/scala/comments/16cc4uu/why_choose_scala_for_large_scale_software/)
 - [Can&#39;t find a Scala job, because there are none](https://www.reddit.com/r/scala/comments/16cb0no/cant_find_a_scala_job_because_there_are_none/)
 - [Monix Support for Cats Effect 3?](https://www.reddit.com/r/scala/comments/16c6ry1/monix_support_for_cats_effect_3/)
-- [Apache Pekko Connectors and Apache Pekko Persistence JDBC has been released](https://www.reddit.com/r/scala/comments/16beol8/apache_pekko_connectors_and_apache_pekko/)
-- [Spark NLP 5.1.0: Introducing state-of-the-art OpenAI Whisper speech-to-text, OpenAI Embeddings and Completion transformers, MPNet text embeddings, ONNX support for E5 text embeddings, new multi-lingual BART Zero-Shot text classification, and much more!](https://www.reddit.com/r/scala/comments/169zcla/spark_nlp_510_introducing_stateoftheart_openai/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

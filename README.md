@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Sep 11, 2023&rpar;](https://www.reddit.com/r/scala/comments/16f3005/this_week_in_scala_sep_11_2023/)
+- [What APIs is Scala still missing to be multiplatform?](https://www.reddit.com/r/scala/comments/16f1rvp/what_apis_is_scala_still_missing_to_be/)
 - [Scala Developer interview preparation help!](https://www.reddit.com/r/scala/comments/16dzljq/scala_developer_interview_preparation_help/)
 - [Multiple languages have some sort of syntax to accommodate monadic chaining. Yet NONE in which there&#39;s first class support for applicative zipping... or there is?](https://www.reddit.com/r/scala/comments/16dv24h/multiple_languages_have_some_sort_of_syntax_to/)
 - [Scala 3.3.1 is released!](https://www.reddit.com/r/scala/comments/16dgx1o/scala_331_is_released/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to make a text appear letter by letter?](https://www.reddit.com/r/scala/comments/16cnyhh/how_to_make_a_text_appear_letter_by_letter/)
 - [Help Needed With Scala fs2 Stream Implementation](https://www.reddit.com/r/scala/comments/16cd3ji/help_needed_with_scala_fs2_stream_implementation/)
 - [Why choose Scala for large scale software development in 2023 over Java or Kotlin?](https://www.reddit.com/r/scala/comments/16cc4uu/why_choose_scala_for_large_scale_software/)
-- [Can&#39;t find a Scala job, because there are none](https://www.reddit.com/r/scala/comments/16cb0no/cant_find_a_scala_job_because_there_are_none/)
-- [Monix Support for Cats Effect 3?](https://www.reddit.com/r/scala/comments/16c6ry1/monix_support_for_cats_effect_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

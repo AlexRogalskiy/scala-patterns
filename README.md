@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ZIO Clippy with compatibility for Scala 2.13.12 was released!](https://www.reddit.com/r/scala/comments/16g3gou/zio_clippy_with_compatibility_for_scala_21312_was/)
+- [Scala 2.13.12 is here](https://www.reddit.com/r/scala/comments/16frax0/scala_21312_is_here/)
+- [Can this Cache Implementation Made Even More Generic?](https://www.reddit.com/r/scala/comments/16fqdww/can_this_cache_implementation_made_even_more/)
+- [Migrate the classic transport of pekko to Netty 4 without CVEs](https://www.reddit.com/r/scala/comments/16fk1b6/migrate_the_classic_transport_of_pekko_to_netty_4/)
 - [This week in #Scala &lpar;Sep 11, 2023&rpar;](https://www.reddit.com/r/scala/comments/16f3005/this_week_in_scala_sep_11_2023/)
 - [What APIs is Scala still missing to be multiplatform?](https://www.reddit.com/r/scala/comments/16f1rvp/what_apis_is_scala_still_missing_to_be/)
 - [Scala Developer interview preparation help!](https://www.reddit.com/r/scala/comments/16dzljq/scala_developer_interview_preparation_help/)
 - [Multiple languages have some sort of syntax to accommodate monadic chaining. Yet NONE in which there&#39;s first class support for applicative zipping... or there is?](https://www.reddit.com/r/scala/comments/16dv24h/multiple_languages_have_some_sort_of_syntax_to/)
 - [Scala 3.3.1 is released!](https://www.reddit.com/r/scala/comments/16dgx1o/scala_331_is_released/)
 - [Any news on ZIO 2.1.0?](https://www.reddit.com/r/scala/comments/16dg47q/any_news_on_zio_210/)
-- [Is using Doobie for Database Access a good idea?](https://www.reddit.com/r/scala/comments/16cpgpw/is_using_doobie_for_database_access_a_good_idea/)
-- [How to make a text appear letter by letter?](https://www.reddit.com/r/scala/comments/16cnyhh/how_to_make_a_text_appear_letter_by_letter/)
-- [Help Needed With Scala fs2 Stream Implementation](https://www.reddit.com/r/scala/comments/16cd3ji/help_needed_with_scala_fs2_stream_implementation/)
-- [Why choose Scala for large scale software development in 2023 over Java or Kotlin?](https://www.reddit.com/r/scala/comments/16cc4uu/why_choose_scala_for_large_scale_software/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

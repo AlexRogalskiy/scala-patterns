@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 1.9.6 released &lpar;with Zinc fix&rpar;](https://www.reddit.com/r/scala/comments/16ji6g9/sbt_196_released_with_zinc_fix/)
 - [help scala web](https://www.reddit.com/r/scala/comments/16irgrx/help_scala_web/)
 - [Urgently need help finding GF a new position](https://www.reddit.com/r/scala/comments/16iqu4q/urgently_need_help_finding_gf_a_new_position/)
 - [Software Houses in LATAM](https://www.reddit.com/r/scala/comments/16iep74/software_houses_in_latam/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Magnum Database Client 1.1.0 Released](https://www.reddit.com/r/scala/comments/16gvtja/magnum_database_client_110_released/)
 - [State of Scala 2023 survey is live!](https://www.reddit.com/r/scala/comments/16gvifb/state_of_scala_2023_survey_is_live/)
 - [secure-logging-4s](https://www.reddit.com/r/scala/comments/16ges8r/securelogging4s/)
-- [ZIO Clippy with compatibility for Scala 2.13.12 was released!](https://www.reddit.com/r/scala/comments/16g3gou/zio_clippy_with_compatibility_for_scala_21312_was/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

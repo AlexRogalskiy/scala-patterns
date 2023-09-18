@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Jar Jar Abrams 1.9.0 and sbt-assembly 2.1.3 released](https://www.reddit.com/r/scala/comments/16lieko/jar_jar_abrams_190_and_sbtassembly_213_released/)
+- [This week in #Scala &lpar;Sep 18, 2023&rpar;](https://www.reddit.com/r/scala/comments/16l3gya/this_week_in_scala_sep_18_2023/)
 - [sbt 1.9.6 released &lpar;with Zinc fix&rpar;](https://www.reddit.com/r/scala/comments/16ji6g9/sbt_196_released_with_zinc_fix/)
 - [help scala web](https://www.reddit.com/r/scala/comments/16irgrx/help_scala_web/)
 - [Urgently need help finding GF a new position](https://www.reddit.com/r/scala/comments/16iqu4q/urgently_need_help_finding_gf_a_new_position/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Optimizing Performance of Simple Version Parsing in Scala](https://www.reddit.com/r/scala/comments/16h52c0/optimizing_performance_of_simple_version_parsing/)
 - [Trying to understand a line in Grokking Functional Programming](https://www.reddit.com/r/scala/comments/16h03pv/trying_to_understand_a_line_in_grokking/)
 - [Magnum Database Client 1.1.0 Released](https://www.reddit.com/r/scala/comments/16gvtja/magnum_database_client_110_released/)
-- [State of Scala 2023 survey is live!](https://www.reddit.com/r/scala/comments/16gvifb/state_of_scala_2023_survey_is_live/)
-- [secure-logging-4s](https://www.reddit.com/r/scala/comments/16ges8r/securelogging4s/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

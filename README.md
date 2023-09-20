@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Play 2.9.0 Release Candidate available](https://www.reddit.com/r/scala/comments/16n4f89/play_290_release_candidate_available/)
+- [Developing on AWS](https://www.reddit.com/r/scala/comments/16n2nkl/developing_on_aws/)
+- [JDK 21 LTS - All Features Explained](https://www.reddit.com/r/scala/comments/16mq9b6/jdk_21_lts_all_features_explained/)
+- [is working in software industry so stressfull or does it depend on a company ?](https://www.reddit.com/r/scala/comments/16mq36j/is_working_in_software_industry_so_stressfull_or/)
 - [Publish your Scala sbt Project to Maven in 5 Minutes with Sonatype](https://www.reddit.com/r/scala/comments/16lvoli/publish_your_scala_sbt_project_to_maven_in_5/)
 - [So, What&#39;s So Special About The Mill Scala Build Tool?](https://www.reddit.com/r/scala/comments/16lni3t/so_whats_so_special_about_the_mill_scala_build/)
 - [Jar Jar Abrams 1.9.0 and sbt-assembly 2.1.3 released](https://www.reddit.com/r/scala/comments/16lieko/jar_jar_abrams_190_and_sbtassembly_213_released/)
 - [This week in #Scala &lpar;Sep 18, 2023&rpar;](https://www.reddit.com/r/scala/comments/16l3gya/this_week_in_scala_sep_18_2023/)
 - [sbt 1.9.6 released &lpar;with Zinc fix&rpar;](https://www.reddit.com/r/scala/comments/16ji6g9/sbt_196_released_with_zinc_fix/)
 - [help scala web](https://www.reddit.com/r/scala/comments/16irgrx/help_scala_web/)
-- [Urgently need help finding GF a new position](https://www.reddit.com/r/scala/comments/16iqu4q/urgently_need_help_finding_gf_a_new_position/)
-- [Software Houses in LATAM](https://www.reddit.com/r/scala/comments/16iep74/software_houses_in_latam/)
-- [sbt 1.9.5 released](https://www.reddit.com/r/scala/comments/16i9taa/sbt_195_released/)
-- [Optimizing Performance of Simple Version Parsing in Scala](https://www.reddit.com/r/scala/comments/16h52c0/optimizing_performance_of_simple_version_parsing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

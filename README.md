@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Which version of Scala are you using at work?](https://www.reddit.com/r/scala/comments/16omacm/which_version_of_scala_are_you_using_at_work/)
 - [How would you parse a recursive JSON like this?](https://www.reddit.com/r/scala/comments/16nlhpv/how_would_you_parse_a_recursive_json_like_this/)
 - [Play 2.9.0 Release Candidate available](https://www.reddit.com/r/scala/comments/16n4f89/play_290_release_candidate_available/)
 - [Developing on AWS](https://www.reddit.com/r/scala/comments/16n2nkl/developing_on_aws/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [So, What&#39;s So Special About The Mill Scala Build Tool?](https://www.reddit.com/r/scala/comments/16lni3t/so_whats_so_special_about_the_mill_scala_build/)
 - [Jar Jar Abrams 1.9.0 and sbt-assembly 2.1.3 released](https://www.reddit.com/r/scala/comments/16lieko/jar_jar_abrams_190_and_sbtassembly_213_released/)
 - [This week in #Scala &lpar;Sep 18, 2023&rpar;](https://www.reddit.com/r/scala/comments/16l3gya/this_week_in_scala_sep_18_2023/)
-- [sbt 1.9.6 released &lpar;with Zinc fix&rpar;](https://www.reddit.com/r/scala/comments/16ji6g9/sbt_196_released_with_zinc_fix/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

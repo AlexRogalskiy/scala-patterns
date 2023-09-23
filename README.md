@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Java21/Virtual threads, simplest the most boring scala http server stack ?](https://www.reddit.com/r/scala/comments/16pkvzv/java21virtual_threads_simplest_the_most_boring/)
+- [Failing to maintain state in React context using Slinky](https://www.reddit.com/r/scala/comments/16pbtnt/failing_to_maintain_state_in_react_context_using/)
+- [ScaLatin #6 | Creando una aplicación con ZIO y Temporal, una plataforma de orquestación de servicios](https://www.reddit.com/r/scala/comments/16p597m/scalatin_6_creando_una_aplicación_con_zio_y/)
 - [Which version of Scala are you using at work?](https://www.reddit.com/r/scala/comments/16omacm/which_version_of_scala_are_you_using_at_work/)
 - [How would you parse a recursive JSON like this?](https://www.reddit.com/r/scala/comments/16nlhpv/how_would_you_parse_a_recursive_json_like_this/)
 - [Play 2.9.0 Release Candidate available](https://www.reddit.com/r/scala/comments/16n4f89/play_290_release_candidate_available/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [JDK 21 LTS - All Features Explained](https://www.reddit.com/r/scala/comments/16mq9b6/jdk_21_lts_all_features_explained/)
 - [is working in software industry so stressfull or does it depend on a company ?](https://www.reddit.com/r/scala/comments/16mq36j/is_working_in_software_industry_so_stressfull_or/)
 - [Publish your Scala sbt Project to Maven in 5 Minutes with Sonatype](https://www.reddit.com/r/scala/comments/16lvoli/publish_your_scala_sbt_project_to_maven_in_5/)
-- [So, What&#39;s So Special About The Mill Scala Build Tool?](https://www.reddit.com/r/scala/comments/16lni3t/so_whats_so_special_about_the_mill_scala_build/)
-- [Jar Jar Abrams 1.9.0 and sbt-assembly 2.1.3 released](https://www.reddit.com/r/scala/comments/16lieko/jar_jar_abrams_190_and_sbtassembly_213_released/)
-- [This week in #Scala &lpar;Sep 18, 2023&rpar;](https://www.reddit.com/r/scala/comments/16l3gya/this_week_in_scala_sep_18_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

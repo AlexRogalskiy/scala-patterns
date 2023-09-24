@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is Scala supposed to be this slow?](https://www.reddit.com/r/scala/comments/16q9lnl/is_scala_supposed_to_be_this_slow/)
+- [Cats as a Scala beginner](https://www.reddit.com/r/scala/comments/16q0qgy/cats_as_a_scala_beginner/)
+- [Type safe raw SQL with scala?](https://www.reddit.com/r/scala/comments/16pzxy7/type_safe_raw_sql_with_scala/)
 - [Java21/Virtual threads, simplest the most boring scala http server stack ?](https://www.reddit.com/r/scala/comments/16pkvzv/java21virtual_threads_simplest_the_most_boring/)
 - [Failing to maintain state in React context using Slinky](https://www.reddit.com/r/scala/comments/16pbtnt/failing_to_maintain_state_in_react_context_using/)
 - [ScaLatin #6 | Creando una aplicación con ZIO y Temporal, una plataforma de orquestación de servicios](https://www.reddit.com/r/scala/comments/16p597m/scalatin_6_creando_una_aplicación_con_zio_y/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How would you parse a recursive JSON like this?](https://www.reddit.com/r/scala/comments/16nlhpv/how_would_you_parse_a_recursive_json_like_this/)
 - [Play 2.9.0 Release Candidate available](https://www.reddit.com/r/scala/comments/16n4f89/play_290_release_candidate_available/)
 - [Developing on AWS](https://www.reddit.com/r/scala/comments/16n2nkl/developing_on_aws/)
-- [JDK 21 LTS - All Features Explained](https://www.reddit.com/r/scala/comments/16mq9b6/jdk_21_lts_all_features_explained/)
-- [is working in software industry so stressfull or does it depend on a company ?](https://www.reddit.com/r/scala/comments/16mq36j/is_working_in_software_industry_so_stressfull_or/)
-- [Publish your Scala sbt Project to Maven in 5 Minutes with Sonatype](https://www.reddit.com/r/scala/comments/16lvoli/publish_your_scala_sbt_project_to_maven_in_5/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

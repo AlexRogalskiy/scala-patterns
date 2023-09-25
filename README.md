@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [why Scala ?](https://www.reddit.com/r/scala/comments/16rdykr/why_scala/)
+- [A sighting of sequence function in Practical FP in Scala](https://www.reddit.com/r/scala/comments/16r8kcz/a_sighting_of_sequence_function_in_practical_fp/)
+- [Recommended Scala 3 compilation flags](https://www.reddit.com/r/scala/comments/16r2ek6/recommended_scala_3_compilation_flags/)
+- [This week in #Scala &lpar;Sep 25, 2023&rpar;](https://www.reddit.com/r/scala/comments/16qzifx/this_week_in_scala_sep_25_2023/)
+- [Learning Scala as a C++ dev](https://www.reddit.com/r/scala/comments/16qw578/learning_scala_as_a_c_dev/)
+- [Scala job market in Data Engineering 😲](https://www.reddit.com/r/scala/comments/16qurix/scala_job_market_in_data_engineering/)
 - [Is Scala supposed to be this slow?](https://www.reddit.com/r/scala/comments/16q9lnl/is_scala_supposed_to_be_this_slow/)
 - [Cats as a Scala beginner](https://www.reddit.com/r/scala/comments/16q0qgy/cats_as_a_scala_beginner/)
 - [Type safe raw SQL with scala?](https://www.reddit.com/r/scala/comments/16pzxy7/type_safe_raw_sql_with_scala/)
 - [Java21/Virtual threads, simplest the most boring scala http server stack ?](https://www.reddit.com/r/scala/comments/16pkvzv/java21virtual_threads_simplest_the_most_boring/)
-- [Failing to maintain state in React context using Slinky](https://www.reddit.com/r/scala/comments/16pbtnt/failing_to_maintain_state_in_react_context_using/)
-- [ScaLatin #6 | Creando una aplicación con ZIO y Temporal, una plataforma de orquestación de servicios](https://www.reddit.com/r/scala/comments/16p597m/scalatin_6_creando_una_aplicación_con_zio_y/)
-- [Which version of Scala are you using at work?](https://www.reddit.com/r/scala/comments/16omacm/which_version_of_scala_are_you_using_at_work/)
-- [How would you parse a recursive JSON like this?](https://www.reddit.com/r/scala/comments/16nlhpv/how_would_you_parse_a_recursive_json_like_this/)
-- [Play 2.9.0 Release Candidate available](https://www.reddit.com/r/scala/comments/16n4f89/play_290_release_candidate_available/)
-- [Developing on AWS](https://www.reddit.com/r/scala/comments/16n2nkl/developing_on_aws/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

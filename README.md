@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scalatra 3.0.0 GA](https://www.reddit.com/r/scala/comments/16rthsr/scalatra_300_ga/)
+- [Any ZIO 2.0 tutorials on youtube?](https://www.reddit.com/r/scala/comments/16rrnr0/any_zio_20_tutorials_on_youtube/)
+- [Mock Senior Scala Engineer interview](https://www.reddit.com/r/scala/comments/16rqtp2/mock_senior_scala_engineer_interview/)
 - [why Scala ?](https://www.reddit.com/r/scala/comments/16rdykr/why_scala/)
 - [A sighting of sequence function in Practical FP in Scala](https://www.reddit.com/r/scala/comments/16r8kcz/a_sighting_of_sequence_function_in_practical_fp/)
 - [Recommended Scala 3 compilation flags](https://www.reddit.com/r/scala/comments/16r2ek6/recommended_scala_3_compilation_flags/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Learning Scala as a C++ dev](https://www.reddit.com/r/scala/comments/16qw578/learning_scala_as_a_c_dev/)
 - [Scala job market in Data Engineering 😲](https://www.reddit.com/r/scala/comments/16qurix/scala_job_market_in_data_engineering/)
 - [Is Scala supposed to be this slow?](https://www.reddit.com/r/scala/comments/16q9lnl/is_scala_supposed_to_be_this_slow/)
-- [Cats as a Scala beginner](https://www.reddit.com/r/scala/comments/16q0qgy/cats_as_a_scala_beginner/)
-- [Type safe raw SQL with scala?](https://www.reddit.com/r/scala/comments/16pzxy7/type_safe_raw_sql_with_scala/)
-- [Java21/Virtual threads, simplest the most boring scala http server stack ?](https://www.reddit.com/r/scala/comments/16pkvzv/java21virtual_threads_simplest_the_most_boring/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

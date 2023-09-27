@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Work-in-progress Scala 3 language specification published](https://www.reddit.com/r/scala/comments/16sxgnx/workinprogress_scala_3_language_specification/)
+- [How difficult would this project be?](https://www.reddit.com/r/scala/comments/16sjnhx/how_difficult_would_this_project_be/)
 - [Scalatra 3.0.0 GA](https://www.reddit.com/r/scala/comments/16rthsr/scalatra_300_ga/)
 - [Any ZIO 2.0 tutorials on youtube?](https://www.reddit.com/r/scala/comments/16rrnr0/any_zio_20_tutorials_on_youtube/)
 - [Mock Senior Scala Engineer interview](https://www.reddit.com/r/scala/comments/16rqtp2/mock_senior_scala_engineer_interview/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Recommended Scala 3 compilation flags](https://www.reddit.com/r/scala/comments/16r2ek6/recommended_scala_3_compilation_flags/)
 - [This week in #Scala &lpar;Sep 25, 2023&rpar;](https://www.reddit.com/r/scala/comments/16qzifx/this_week_in_scala_sep_25_2023/)
 - [Learning Scala as a C++ dev](https://www.reddit.com/r/scala/comments/16qw578/learning_scala_as_a_c_dev/)
-- [Scala job market in Data Engineering 😲](https://www.reddit.com/r/scala/comments/16qurix/scala_job_market_in_data_engineering/)
-- [Is Scala supposed to be this slow?](https://www.reddit.com/r/scala/comments/16q9lnl/is_scala_supposed_to_be_this_slow/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

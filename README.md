@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is it possible to have a trait that can only be extended by case classes?](https://www.reddit.com/r/scala/comments/16vriub/is_it_possible_to_have_a_trait_that_can_only_be/)
 - [Besom - Scala SDK for Pulumi - released!](https://www.reddit.com/r/scala/comments/16uf5b4/besom_scala_sdk_for_pulumi_released/)
 - [Work-in-progress Scala 3 language specification published](https://www.reddit.com/r/scala/comments/16sxgnx/workinprogress_scala_3_language_specification/)
 - [How difficult would this project be?](https://www.reddit.com/r/scala/comments/16sjnhx/how_difficult_would_this_project_be/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [why Scala ?](https://www.reddit.com/r/scala/comments/16rdykr/why_scala/)
 - [A sighting of sequence function in Practical FP in Scala](https://www.reddit.com/r/scala/comments/16r8kcz/a_sighting_of_sequence_function_in_practical_fp/)
 - [Recommended Scala 3 compilation flags](https://www.reddit.com/r/scala/comments/16r2ek6/recommended_scala_3_compilation_flags/)
-- [This week in #Scala &lpar;Sep 25, 2023&rpar;](https://www.reddit.com/r/scala/comments/16qzifx/this_week_in_scala_sep_25_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

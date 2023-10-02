@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Oct 2, 2023&rpar;](https://www.reddit.com/r/scala/comments/16xe06n/this_week_in_scala_oct_2_2023/)
+- [Blog: Start the Scala journey with ease using Scala-CLI, Toolkit and Scastie](https://www.reddit.com/r/scala/comments/16x9lxy/blog_start_the_scala_journey_with_ease_using/)
+- [A sighting of traverseFilter and foldMap in Practical FP in Scala](https://www.reddit.com/r/scala/comments/16x5tzb/a_sighting_of_traversefilter_and_foldmap_in/)
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/16x4xsv/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [New to Scala. One question though.](https://www.reddit.com/r/scala/comments/16wezeg/new_to_scala_one_question_though/)
 - [Is it possible to have a trait that can only be extended by case classes?](https://www.reddit.com/r/scala/comments/16vriub/is_it_possible_to_have_a_trait_that_can_only_be/)
 - [Besom - Scala SDK for Pulumi - released!](https://www.reddit.com/r/scala/comments/16uf5b4/besom_scala_sdk_for_pulumi_released/)
 - [Work-in-progress Scala 3 language specification published](https://www.reddit.com/r/scala/comments/16sxgnx/workinprogress_scala_3_language_specification/)
 - [How difficult would this project be?](https://www.reddit.com/r/scala/comments/16sjnhx/how_difficult_would_this_project_be/)
 - [Scalatra 3.0.0 GA](https://www.reddit.com/r/scala/comments/16rthsr/scalatra_300_ga/)
-- [Any ZIO 2.0 tutorials on youtube?](https://www.reddit.com/r/scala/comments/16rrnr0/any_zio_20_tutorials_on_youtube/)
-- [Mock Senior Scala Engineer interview](https://www.reddit.com/r/scala/comments/16rqtp2/mock_senior_scala_engineer_interview/)
-- [why Scala ?](https://www.reddit.com/r/scala/comments/16rdykr/why_scala/)
-- [A sighting of sequence function in Practical FP in Scala](https://www.reddit.com/r/scala/comments/16r8kcz/a_sighting_of_sequence_function_in_practical_fp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

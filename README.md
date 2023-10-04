@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Metals doesn&#39;t indent correctly in VSCode &lpar;tried Idea it was even worse&rpar;, Trying to work through FP in Scala 2 but Scala 3 isn;t recognized by editors.](https://www.reddit.com/r/scala/comments/16z5d4d/metals_doesnt_indent_correctly_in_vscode_tried/)
+- [**question** what is the actual state of scala native? performance, production-readiness, etc.](https://www.reddit.com/r/scala/comments/16yl4cj/question_what_is_the_actual_state_of_scala_native/)
 - [Top Scala Hirers From September 2023](https://www.reddit.com/r/scala/comments/16xxdps/top_scala_hirers_from_september_2023/)
 - [Source of null pointers in Scala 3](https://www.reddit.com/r/scala/comments/16xt70l/source_of_null_pointers_in_scala_3/)
 - [Dotty-cps-async 0.9.19 with loom support for effect monads.](https://www.reddit.com/r/scala/comments/16xqkdl/dottycpsasync_0919_with_loom_support_for_effect/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [A sighting of traverseFilter and foldMap in Practical FP in Scala](https://www.reddit.com/r/scala/comments/16x5tzb/a_sighting_of_traversefilter_and_foldmap_in/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/16x4xsv/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [New to Scala. One question though.](https://www.reddit.com/r/scala/comments/16wezeg/new_to_scala_one_question_though/)
-- [Is it possible to have a trait that can only be extended by case classes?](https://www.reddit.com/r/scala/comments/16vriub/is_it_possible_to_have_a_trait_that_can_only_be/)
-- [Besom - Scala SDK for Pulumi - released!](https://www.reddit.com/r/scala/comments/16uf5b4/besom_scala_sdk_for_pulumi_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

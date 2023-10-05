@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Testing the typelevel toolkit | TonioGela&#39;s](https://www.reddit.com/r/scala/comments/16zr91k/testing_the_typelevel_toolkit_toniogelas/)
+- [TestContainers in Scala blogpost](https://www.reddit.com/r/scala/comments/16zoq31/testcontainers_in_scala_blogpost/)
 - [Metals doesn&#39;t indent correctly in VSCode &lpar;tried Idea it was even worse&rpar;, Trying to work through FP in Scala 2 but Scala 3 isn;t recognized by editors.](https://www.reddit.com/r/scala/comments/16z5d4d/metals_doesnt_indent_correctly_in_vscode_tried/)
 - [**question** what is the actual state of scala native? performance, production-readiness, etc.](https://www.reddit.com/r/scala/comments/16yl4cj/question_what_is_the_actual_state_of_scala_native/)
 - [Top Scala Hirers From September 2023](https://www.reddit.com/r/scala/comments/16xxdps/top_scala_hirers_from_september_2023/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Oct 2, 2023&rpar;](https://www.reddit.com/r/scala/comments/16xe06n/this_week_in_scala_oct_2_2023/)
 - [Blog: Start the Scala journey with ease using Scala-CLI, Toolkit and Scastie](https://www.reddit.com/r/scala/comments/16x9lxy/blog_start_the_scala_journey_with_ease_using/)
 - [A sighting of traverseFilter and foldMap in Practical FP in Scala](https://www.reddit.com/r/scala/comments/16x5tzb/a_sighting_of_traversefilter_and_foldmap_in/)
-- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/16x4xsv/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [New to Scala. One question though.](https://www.reddit.com/r/scala/comments/16wezeg/new_to_scala_one_question_though/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

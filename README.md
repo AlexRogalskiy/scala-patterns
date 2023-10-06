@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How can I make IntelliJ formatter keep classes and their respective companion objects together?](https://www.reddit.com/r/scala/comments/170gb68/how_can_i_make_intellij_formatter_keep_classes/)
+- [gRPC in Scala with FS2 and Scalapb](https://www.reddit.com/r/scala/comments/170bapy/grpc_in_scala_with_fs2_and_scalapb/)
 - [Testing the typelevel toolkit | TonioGela&#39;s](https://www.reddit.com/r/scala/comments/16zr91k/testing_the_typelevel_toolkit_toniogelas/)
 - [TestContainers in Scala blogpost](https://www.reddit.com/r/scala/comments/16zoq31/testcontainers_in_scala_blogpost/)
 - [Metals doesn&#39;t indent correctly in VSCode &lpar;tried Idea it was even worse&rpar;, Trying to work through FP in Scala 2 but Scala 3 isn;t recognized by editors.](https://www.reddit.com/r/scala/comments/16z5d4d/metals_doesnt_indent_correctly_in_vscode_tried/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Source of null pointers in Scala 3](https://www.reddit.com/r/scala/comments/16xt70l/source_of_null_pointers_in_scala_3/)
 - [Dotty-cps-async 0.9.19 with loom support for effect monads.](https://www.reddit.com/r/scala/comments/16xqkdl/dottycpsasync_0919_with_loom_support_for_effect/)
 - [This week in #Scala &lpar;Oct 2, 2023&rpar;](https://www.reddit.com/r/scala/comments/16xe06n/this_week_in_scala_oct_2_2023/)
-- [Blog: Start the Scala journey with ease using Scala-CLI, Toolkit and Scastie](https://www.reddit.com/r/scala/comments/16x9lxy/blog_start_the_scala_journey_with_ease_using/)
-- [A sighting of traverseFilter and foldMap in Practical FP in Scala](https://www.reddit.com/r/scala/comments/16x5tzb/a_sighting_of_traversefilter_and_foldmap_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

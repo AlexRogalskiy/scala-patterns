@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Just Released the First Version of the Dry Programming Language](https://www.reddit.com/r/scala/comments/171mcbv/just_released_the_first_version_of_the_dry/)
+- [Concurrent cancellation protocol, Scala&#39;s Cats-Effect vs Kotlin Coroutines &lpar;sample&rpar;](https://www.reddit.com/r/scala/comments/171hrgp/concurrent_cancellation_protocol_scalas/)
 - [How can I make IntelliJ formatter keep classes and their respective companion objects together?](https://www.reddit.com/r/scala/comments/170gb68/how_can_i_make_intellij_formatter_keep_classes/)
 - [gRPC in Scala with FS2 and Scalapb](https://www.reddit.com/r/scala/comments/170bapy/grpc_in_scala_with_fs2_and_scalapb/)
 - [Testing the typelevel toolkit | TonioGela&#39;s](https://www.reddit.com/r/scala/comments/16zr91k/testing_the_typelevel_toolkit_toniogelas/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [**question** what is the actual state of scala native? performance, production-readiness, etc.](https://www.reddit.com/r/scala/comments/16yl4cj/question_what_is_the_actual_state_of_scala_native/)
 - [Top Scala Hirers From September 2023](https://www.reddit.com/r/scala/comments/16xxdps/top_scala_hirers_from_september_2023/)
 - [Source of null pointers in Scala 3](https://www.reddit.com/r/scala/comments/16xt70l/source_of_null_pointers_in_scala_3/)
-- [Dotty-cps-async 0.9.19 with loom support for effect monads.](https://www.reddit.com/r/scala/comments/16xqkdl/dottycpsasync_0919_with_loom_support_for_effect/)
-- [This week in #Scala &lpar;Oct 2, 2023&rpar;](https://www.reddit.com/r/scala/comments/16xe06n/this_week_in_scala_oct_2_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Would it be feasible to plug MetaLS into IntelliJ](https://www.reddit.com/r/scala/comments/173ylbr/would_it_be_feasible_to_plug_metals_into_intellij/)
+- [Scalendar October 2023](https://www.reddit.com/r/scala/comments/173qcim/scalendar_october_2023/)
+- [What does sbt download when it&#39;s run the first time?](https://www.reddit.com/r/scala/comments/173pbzx/what_does_sbt_download_when_its_run_the_first_time/)
+- [Scala in the City, Dublin, Ireland](https://www.reddit.com/r/scala/comments/173naxj/scala_in_the_city_dublin_ireland/)
+- [Does `scalac` depend on `javac` executable?](https://www.reddit.com/r/scala/comments/173m94n/does_scalac_depend_on_javac_executable/)
+- [Is there any book or course about Scala front-end development?](https://www.reddit.com/r/scala/comments/173jznv/is_there_any_book_or_course_about_scala_frontend/)
 - [This week in #Scala &lpar;Oct 9, 2023&rpar;](https://www.reddit.com/r/scala/comments/1738zll/this_week_in_scala_oct_9_2023/)
 - [Seeking Scala Summer Internship | Ex-CNHI Scala Intern | Ready to relocate | Help required](https://www.reddit.com/r/scala/comments/1734xdd/seeking_scala_summer_internship_excnhi_scala/)
 - [In Defence of Mocks](https://www.reddit.com/r/scala/comments/1731q80/in_defence_of_mocks/)
 - [A sighting of traverse_ in Practical FP in Scala](https://www.reddit.com/r/scala/comments/172wm92/a_sighting_of_traverse_in_practical_fp_in_scala/)
-- [using Scala in neovim](https://www.reddit.com/r/scala/comments/172k4k1/using_scala_in_neovim/)
-- [Scala/Akka for turn based game](https://www.reddit.com/r/scala/comments/172ez8n/scalaakka_for_turn_based_game/)
-- [Why doesn&#39;t Scala&#39;s Extension Method Syntax Use Colons?](https://www.reddit.com/r/scala/comments/172874d/why_doesnt_scalas_extension_method_syntax_use/)
-- [Apache Pekko Persistence Cassandra has been released](https://www.reddit.com/r/scala/comments/1722jyt/apache_pekko_persistence_cassandra_has_been/)
-- [Issues with build.sbt dependencies](https://www.reddit.com/r/scala/comments/171xdct/issues_with_buildsbt_dependencies/)
-- [Just Released the First Version of the Dry Programming Language](https://www.reddit.com/r/scala/comments/171mcbv/just_released_the_first_version_of_the_dry/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

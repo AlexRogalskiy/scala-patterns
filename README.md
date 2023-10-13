@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [LunarVim / nvim-metals LSP Issues](https://www.reddit.com/r/scala/comments/1769n6c/lunarvim_nvimmetals_lsp_issues/)
+- [What the hell happened?](https://www.reddit.com/r/scala/comments/17697x2/what_the_hell_happened/)
+- [Chimney 0.8.0 &lpar;stable&rpar; released](https://www.reddit.com/r/scala/comments/1763xgl/chimney_080_stable_released/)
+- [ifdef macro in Scala](https://www.reddit.com/r/scala/comments/17608g1/ifdef_macro_in_scala/)
 - [Schema management with Scalameta by Lars Albertsson @FuncProgSweden](https://www.reddit.com/r/scala/comments/175panu/schema_management_with_scalameta_by_lars/)
 - [Tapir: Optional header, if Yes then A otherwise B](https://www.reddit.com/r/scala/comments/175e9ov/tapir_optional_header_if_yes_then_a_otherwise_b/)
 - [Looking for a working example of import from Github Packages in with scala-cli](https://www.reddit.com/r/scala/comments/175cm36/looking_for_a_working_example_of_import_from/)
 - [So... what is an effect?](https://www.reddit.com/r/scala/comments/174u2gj/so_what_is_an_effect/)
 - [Blogpost: Scala 3 Data Transformation Library: Automating Data Transformations with ducktape](https://www.reddit.com/r/scala/comments/174hj5p/blogpost_scala_3_data_transformation_library/)
 - [Would it be feasible to plug MetaLS into IntelliJ](https://www.reddit.com/r/scala/comments/173ylbr/would_it_be_feasible_to_plug_metals_into_intellij/)
-- [Scalendar October 2023](https://www.reddit.com/r/scala/comments/173qcim/scalendar_october_2023/)
-- [What does sbt download when it&#39;s run the first time?](https://www.reddit.com/r/scala/comments/173pbzx/what_does_sbt_download_when_its_run_the_first_time/)
-- [Scala in the City, Dublin, Ireland](https://www.reddit.com/r/scala/comments/173naxj/scala_in_the_city_dublin_ireland/)
-- [Does `scalac` depend on `javac` executable?](https://www.reddit.com/r/scala/comments/173m94n/does_scalac_depend_on_javac_executable/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

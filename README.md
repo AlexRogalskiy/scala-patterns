@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ScaLatin #7 | Exploring Functional Programming in Scala: Lambda Functions, Pattern Matching and Monads](https://www.reddit.com/r/scala/comments/176ulqx/scalatin_7_exploring_functional_programming_in/)
 - [LunarVim / nvim-metals LSP Issues](https://www.reddit.com/r/scala/comments/1769n6c/lunarvim_nvimmetals_lsp_issues/)
 - [What the hell happened?](https://www.reddit.com/r/scala/comments/17697x2/what_the_hell_happened/)
 - [Chimney 0.8.0 &lpar;stable&rpar; released](https://www.reddit.com/r/scala/comments/1763xgl/chimney_080_stable_released/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Looking for a working example of import from Github Packages in with scala-cli](https://www.reddit.com/r/scala/comments/175cm36/looking_for_a_working_example_of_import_from/)
 - [So... what is an effect?](https://www.reddit.com/r/scala/comments/174u2gj/so_what_is_an_effect/)
 - [Blogpost: Scala 3 Data Transformation Library: Automating Data Transformations with ducktape](https://www.reddit.com/r/scala/comments/174hj5p/blogpost_scala_3_data_transformation_library/)
-- [Would it be feasible to plug MetaLS into IntelliJ](https://www.reddit.com/r/scala/comments/173ylbr/would_it_be_feasible_to_plug_metals_into_intellij/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

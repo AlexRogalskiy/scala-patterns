@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ifdef in Scala via pre-typer processing](https://www.reddit.com/r/scala/comments/178ryma/ifdef_in_scala_via_pretyper_processing/)
+- [What data structure should I use for a continuously growing string?](https://www.reddit.com/r/scala/comments/178kj60/what_data_structure_should_i_use_for_a/)
+- [This week in #Scala &lpar;Oct 16, 2023&rpar;](https://www.reddit.com/r/scala/comments/178itr7/this_week_in_scala_oct_16_2023/)
+- [Contextual functions are lazy](https://www.reddit.com/r/scala/comments/1789qse/contextual_functions_are_lazy/)
 - [ScaLatin #7 | Exploring Functional Programming in Scala: Lambda Functions, Pattern Matching and Monads](https://www.reddit.com/r/scala/comments/176ulqx/scalatin_7_exploring_functional_programming_in/)
 - [LunarVim / nvim-metals LSP Issues](https://www.reddit.com/r/scala/comments/1769n6c/lunarvim_nvimmetals_lsp_issues/)
 - [What the hell happened?](https://www.reddit.com/r/scala/comments/17697x2/what_the_hell_happened/)
 - [Chimney 0.8.0 &lpar;stable&rpar; released](https://www.reddit.com/r/scala/comments/1763xgl/chimney_080_stable_released/)
 - [ifdef macro in Scala](https://www.reddit.com/r/scala/comments/17608g1/ifdef_macro_in_scala/)
 - [Schema management with Scalameta by Lars Albertsson @FuncProgSweden](https://www.reddit.com/r/scala/comments/175panu/schema_management_with_scalameta_by_lars/)
-- [Tapir: Optional header, if Yes then A otherwise B](https://www.reddit.com/r/scala/comments/175e9ov/tapir_optional_header_if_yes_then_a_otherwise_b/)
-- [Looking for a working example of import from Github Packages in with scala-cli](https://www.reddit.com/r/scala/comments/175cm36/looking_for_a_working_example_of_import_from/)
-- [So... what is an effect?](https://www.reddit.com/r/scala/comments/174u2gj/so_what_is_an_effect/)
-- [Blogpost: Scala 3 Data Transformation Library: Automating Data Transformations with ducktape](https://www.reddit.com/r/scala/comments/174hj5p/blogpost_scala_3_data_transformation_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

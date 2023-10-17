@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Fusing Transformations of Strict Scala Collections with Views](https://www.reddit.com/r/scala/comments/179cg2k/fusing_transformations_of_strict_scala/)
 - [ifdef in Scala via pre-typer processing](https://www.reddit.com/r/scala/comments/178ryma/ifdef_in_scala_via_pretyper_processing/)
 - [What data structure should I use for a continuously growing string?](https://www.reddit.com/r/scala/comments/178kj60/what_data_structure_should_i_use_for_a/)
 - [This week in #Scala &lpar;Oct 16, 2023&rpar;](https://www.reddit.com/r/scala/comments/178itr7/this_week_in_scala_oct_16_2023/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [What the hell happened?](https://www.reddit.com/r/scala/comments/17697x2/what_the_hell_happened/)
 - [Chimney 0.8.0 &lpar;stable&rpar; released](https://www.reddit.com/r/scala/comments/1763xgl/chimney_080_stable_released/)
 - [ifdef macro in Scala](https://www.reddit.com/r/scala/comments/17608g1/ifdef_macro_in_scala/)
-- [Schema management with Scalameta by Lars Albertsson @FuncProgSweden](https://www.reddit.com/r/scala/comments/175panu/schema_management_with_scalameta_by_lars/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

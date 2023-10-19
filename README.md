@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Stryker4s 0.15 is Here with Exciting New Features! | Stryker Mutator](https://www.reddit.com/r/scala/comments/17b0uvz/stryker4s_015_is_here_with_exciting_new_features/)
+- [Scala Center 2023 Q3 Activity Report](https://www.reddit.com/r/scala/comments/17akubj/scala_center_2023_q3_activity_report/)
 - [Announcing Typo - Typed PostgreSQL integration for Scala](https://www.reddit.com/r/scala/comments/17ac10z/announcing_typo_typed_postgresql_integration_for/)
 - [Fusing Transformations of Strict Scala Collections with Views](https://www.reddit.com/r/scala/comments/179cg2k/fusing_transformations_of_strict_scala/)
 - [ifdef in Scala via pre-typer processing](https://www.reddit.com/r/scala/comments/178ryma/ifdef_in_scala_via_pretyper_processing/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Contextual functions are lazy](https://www.reddit.com/r/scala/comments/1789qse/contextual_functions_are_lazy/)
 - [ScaLatin #7 | Exploring Functional Programming in Scala: Lambda Functions, Pattern Matching and Monads](https://www.reddit.com/r/scala/comments/176ulqx/scalatin_7_exploring_functional_programming_in/)
 - [LunarVim / nvim-metals LSP Issues](https://www.reddit.com/r/scala/comments/1769n6c/lunarvim_nvimmetals_lsp_issues/)
-- [What the hell happened?](https://www.reddit.com/r/scala/comments/17697x2/what_the_hell_happened/)
-- [Chimney 0.8.0 &lpar;stable&rpar; released](https://www.reddit.com/r/scala/comments/1763xgl/chimney_080_stable_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

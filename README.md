@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Leetcode Scala 3](https://www.reddit.com/r/scala/comments/17cpaan/leetcode_scala_3/)
+- [measuring app performance](https://www.reddit.com/r/scala/comments/17cnthb/measuring_app_performance/)
+- [Scala Center: Tell us which errors bug you the most](https://www.reddit.com/r/scala/comments/17ci8ke/scala_center_tell_us_which_errors_bug_you_the_most/)
+- [Any reason NOT to use Tapir these days?](https://www.reddit.com/r/scala/comments/17c9lpg/any_reason_not_to_use_tapir_these_days/)
+- [What is the state of zio-http ?](https://www.reddit.com/r/scala/comments/17c560k/what_is_the_state_of_ziohttp/)
 - [Scala Days Madrid 2023 videos are online](https://www.reddit.com/r/scala/comments/17bgbzd/scala_days_madrid_2023_videos_are_online/)
 - [Stryker4s 0.15 is Here with Exciting New Features! | Stryker Mutator](https://www.reddit.com/r/scala/comments/17b0uvz/stryker4s_015_is_here_with_exciting_new_features/)
 - [Scala Center 2023 Q3 Activity Report](https://www.reddit.com/r/scala/comments/17akubj/scala_center_2023_q3_activity_report/)
 - [Announcing Typo - Typed PostgreSQL integration for Scala](https://www.reddit.com/r/scala/comments/17ac10z/announcing_typo_typed_postgresql_integration_for/)
 - [Fusing Transformations of Strict Scala Collections with Views](https://www.reddit.com/r/scala/comments/179cg2k/fusing_transformations_of_strict_scala/)
-- [ifdef in Scala via pre-typer processing](https://www.reddit.com/r/scala/comments/178ryma/ifdef_in_scala_via_pretyper_processing/)
-- [What data structure should I use for a continuously growing string?](https://www.reddit.com/r/scala/comments/178kj60/what_data_structure_should_i_use_for_a/)
-- [This week in #Scala &lpar;Oct 16, 2023&rpar;](https://www.reddit.com/r/scala/comments/178itr7/this_week_in_scala_oct_16_2023/)
-- [Contextual functions are lazy](https://www.reddit.com/r/scala/comments/1789qse/contextual_functions_are_lazy/)
-- [ScaLatin #7 | Exploring Functional Programming in Scala: Lambda Functions, Pattern Matching and Monads](https://www.reddit.com/r/scala/comments/176ulqx/scalatin_7_exploring_functional_programming_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

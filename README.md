@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tagless Final Encoding - Algebras, and Interpreters, and also Programs](https://www.reddit.com/r/scala/comments/17eqbmr/tagless_final_encoding_algebras_and_interpreters/)
+- [Full stack simple architecture recommendation](https://www.reddit.com/r/scala/comments/17ekqp8/full_stack_simple_architecture_recommendation/)
 - [released sbt 1.9.7 with a security fix](https://www.reddit.com/r/scala/comments/17e77fo/released_sbt_197_with_a_security_fix/)
 - [Scalafication.](https://www.reddit.com/r/scala/comments/17e4ix3/scalafication/)
 - [This week in #Scala &lpar;Oct 23, 2023&rpar;](https://www.reddit.com/r/scala/comments/17dttdx/this_week_in_scala_oct_23_2023/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Center: Tell us which errors bug you the most](https://www.reddit.com/r/scala/comments/17ci8ke/scala_center_tell_us_which_errors_bug_you_the_most/)
 - [Any reason NOT to use Tapir these days?](https://www.reddit.com/r/scala/comments/17c9lpg/any_reason_not_to_use_tapir_these_days/)
 - [What is the state of zio-http ?](https://www.reddit.com/r/scala/comments/17c560k/what_is_the_state_of_ziohttp/)
-- [Scala Days Madrid 2023 videos are online](https://www.reddit.com/r/scala/comments/17bgbzd/scala_days_madrid_2023_videos_are_online/)
-- [Stryker4s 0.15 is Here with Exciting New Features! | Stryker Mutator](https://www.reddit.com/r/scala/comments/17b0uvz/stryker4s_015_is_here_with_exciting_new_features/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

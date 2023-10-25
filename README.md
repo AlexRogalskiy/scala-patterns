@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Sharing my results from GSoC 2023](https://www.reddit.com/r/scala/comments/17feq3w/sharing_my_results_from_gsoc_2023/)
+- [NEScala this Thurs-Sat](https://www.reddit.com/r/scala/comments/17f1i9r/nescala_this_thurssat/)
 - [Tagless Final Encoding - Algebras, and Interpreters, and also Programs](https://www.reddit.com/r/scala/comments/17eqbmr/tagless_final_encoding_algebras_and_interpreters/)
 - [Full stack simple architecture recommendation](https://www.reddit.com/r/scala/comments/17ekqp8/full_stack_simple_architecture_recommendation/)
 - [released sbt 1.9.7 with a security fix](https://www.reddit.com/r/scala/comments/17e77fo/released_sbt_197_with_a_security_fix/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Leetcode Scala 3](https://www.reddit.com/r/scala/comments/17cpaan/leetcode_scala_3/)
 - [measuring app performance](https://www.reddit.com/r/scala/comments/17cnthb/measuring_app_performance/)
 - [Scala Center: Tell us which errors bug you the most](https://www.reddit.com/r/scala/comments/17ci8ke/scala_center_tell_us_which_errors_bug_you_the_most/)
-- [Any reason NOT to use Tapir these days?](https://www.reddit.com/r/scala/comments/17c9lpg/any_reason_not_to_use_tapir_these_days/)
-- [What is the state of zio-http ?](https://www.reddit.com/r/scala/comments/17c560k/what_is_the_state_of_ziohttp/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Am I Learning the Right Way?](https://www.reddit.com/r/scala/comments/17gjwx1/am_i_learning_the_right_way/)
+- [Web Scraping with Scala &amp; ChatGPT](https://www.reddit.com/r/scala/comments/17g35ay/web_scraping_with_scala_chatgpt/)
 - [Sharing my results from GSoC 2023](https://www.reddit.com/r/scala/comments/17feq3w/sharing_my_results_from_gsoc_2023/)
 - [NEScala this Thurs-Sat](https://www.reddit.com/r/scala/comments/17f1i9r/nescala_this_thurssat/)
 - [Tagless Final Encoding - Algebras, and Interpreters, and also Programs](https://www.reddit.com/r/scala/comments/17eqbmr/tagless_final_encoding_algebras_and_interpreters/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scalafication.](https://www.reddit.com/r/scala/comments/17e4ix3/scalafication/)
 - [This week in #Scala &lpar;Oct 23, 2023&rpar;](https://www.reddit.com/r/scala/comments/17dttdx/this_week_in_scala_oct_23_2023/)
 - [Leetcode Scala 3](https://www.reddit.com/r/scala/comments/17cpaan/leetcode_scala_3/)
-- [measuring app performance](https://www.reddit.com/r/scala/comments/17cnthb/measuring_app_performance/)
-- [Scala Center: Tell us which errors bug you the most](https://www.reddit.com/r/scala/comments/17ci8ke/scala_center_tell_us_which_errors_bug_you_the_most/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

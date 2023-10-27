@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Questions for the Typelevel panel](https://www.reddit.com/r/scala/comments/17gwaqj/questions_for_the_typelevel_panel/)
+- [How does datadog agent instrument zio framework?](https://www.reddit.com/r/scala/comments/17gmx8e/how_does_datadog_agent_instrument_zio_framework/)
 - [Am I Learning the Right Way?](https://www.reddit.com/r/scala/comments/17gjwx1/am_i_learning_the_right_way/)
 - [Web Scraping with Scala &amp; ChatGPT](https://www.reddit.com/r/scala/comments/17g35ay/web_scraping_with_scala_chatgpt/)
 - [Sharing my results from GSoC 2023](https://www.reddit.com/r/scala/comments/17feq3w/sharing_my_results_from_gsoc_2023/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Full stack simple architecture recommendation](https://www.reddit.com/r/scala/comments/17ekqp8/full_stack_simple_architecture_recommendation/)
 - [released sbt 1.9.7 with a security fix](https://www.reddit.com/r/scala/comments/17e77fo/released_sbt_197_with_a_security_fix/)
 - [Scalafication.](https://www.reddit.com/r/scala/comments/17e4ix3/scalafication/)
-- [This week in #Scala &lpar;Oct 23, 2023&rpar;](https://www.reddit.com/r/scala/comments/17dttdx/this_week_in_scala_oct_23_2023/)
-- [Leetcode Scala 3](https://www.reddit.com/r/scala/comments/17cpaan/leetcode_scala_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why is my sorting algorithm running faster on subsequent tests](https://www.reddit.com/r/scala/comments/17hswzi/why_is_my_sorting_algorithm_running_faster_on/)
+- [Scala Salary Survery](https://www.reddit.com/r/scala/comments/17hnkr4/scala_salary_survery/)
+- [ScaLatin #7 | Explorando la Programación Funcional en Scala](https://www.reddit.com/r/scala/comments/17hk1fo/scalatin_7_explorando_la_programación_funcional/)
+- [Scala CLI v1.0.5 is out!](https://www.reddit.com/r/scala/comments/17hini1/scala_cli_v105_is_out/)
 - [Questions for the Typelevel panel](https://www.reddit.com/r/scala/comments/17gwaqj/questions_for_the_typelevel_panel/)
 - [How does datadog agent instrument zio framework?](https://www.reddit.com/r/scala/comments/17gmx8e/how_does_datadog_agent_instrument_zio_framework/)
 - [Am I Learning the Right Way?](https://www.reddit.com/r/scala/comments/17gjwx1/am_i_learning_the_right_way/)
 - [Web Scraping with Scala &amp; ChatGPT](https://www.reddit.com/r/scala/comments/17g35ay/web_scraping_with_scala_chatgpt/)
 - [Sharing my results from GSoC 2023](https://www.reddit.com/r/scala/comments/17feq3w/sharing_my_results_from_gsoc_2023/)
 - [NEScala this Thurs-Sat](https://www.reddit.com/r/scala/comments/17f1i9r/nescala_this_thurssat/)
-- [Tagless Final Encoding - Algebras, and Interpreters, and also Programs](https://www.reddit.com/r/scala/comments/17eqbmr/tagless_final_encoding_algebras_and_interpreters/)
-- [Full stack simple architecture recommendation](https://www.reddit.com/r/scala/comments/17ekqp8/full_stack_simple_architecture_recommendation/)
-- [released sbt 1.9.7 with a security fix](https://www.reddit.com/r/scala/comments/17e77fo/released_sbt_197_with_a_security_fix/)
-- [Scalafication.](https://www.reddit.com/r/scala/comments/17e4ix3/scalafication/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Rate my first ever Scala code!](https://www.reddit.com/r/scala/comments/17irfm5/rate_my_first_ever_scala_code/)
 - [Why is my sorting algorithm running faster on subsequent tests](https://www.reddit.com/r/scala/comments/17hswzi/why_is_my_sorting_algorithm_running_faster_on/)
 - [Scala Salary Survery](https://www.reddit.com/r/scala/comments/17hnkr4/scala_salary_survery/)
 - [ScaLatin #7 | Explorando la Programación Funcional en Scala](https://www.reddit.com/r/scala/comments/17hk1fo/scalatin_7_explorando_la_programación_funcional/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Am I Learning the Right Way?](https://www.reddit.com/r/scala/comments/17gjwx1/am_i_learning_the_right_way/)
 - [Web Scraping with Scala &amp; ChatGPT](https://www.reddit.com/r/scala/comments/17g35ay/web_scraping_with_scala_chatgpt/)
 - [Sharing my results from GSoC 2023](https://www.reddit.com/r/scala/comments/17feq3w/sharing_my_results_from_gsoc_2023/)
-- [NEScala this Thurs-Sat](https://www.reddit.com/r/scala/comments/17f1i9r/nescala_this_thurssat/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

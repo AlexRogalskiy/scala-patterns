@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Project ideas for learning Scala](https://www.reddit.com/r/scala/comments/17jeepf/project_ideas_for_learning_scala/)
+- [This week in #Scala &lpar;Oct 30, 2023&rpar;](https://www.reddit.com/r/scala/comments/17j5hrw/this_week_in_scala_oct_30_2023/)
+- [I refactored my first ever Scala code](https://www.reddit.com/r/scala/comments/17j2wft/i_refactored_my_first_ever_scala_code/)
+- [Functional Programming for Absolute Beginners](https://www.reddit.com/r/scala/comments/17iy6jh/functional_programming_for_absolute_beginners/)
+- [Northeast Scala Symposium](https://www.reddit.com/r/scala/comments/17itkey/northeast_scala_symposium/)
 - [Rate my first ever Scala code!](https://www.reddit.com/r/scala/comments/17irfm5/rate_my_first_ever_scala_code/)
 - [Why is my sorting algorithm running faster on subsequent tests](https://www.reddit.com/r/scala/comments/17hswzi/why_is_my_sorting_algorithm_running_faster_on/)
 - [Scala Salary Survery](https://www.reddit.com/r/scala/comments/17hnkr4/scala_salary_survery/)
 - [ScaLatin #7 | Explorando la Programación Funcional en Scala](https://www.reddit.com/r/scala/comments/17hk1fo/scalatin_7_explorando_la_programación_funcional/)
 - [Scala CLI v1.0.5 is out!](https://www.reddit.com/r/scala/comments/17hini1/scala_cli_v105_is_out/)
-- [Questions for the Typelevel panel](https://www.reddit.com/r/scala/comments/17gwaqj/questions_for_the_typelevel_panel/)
-- [How does datadog agent instrument zio framework?](https://www.reddit.com/r/scala/comments/17gmx8e/how_does_datadog_agent_instrument_zio_framework/)
-- [Am I Learning the Right Way?](https://www.reddit.com/r/scala/comments/17gjwx1/am_i_learning_the_right_way/)
-- [Web Scraping with Scala &amp; ChatGPT](https://www.reddit.com/r/scala/comments/17g35ay/web_scraping_with_scala_chatgpt/)
-- [Sharing my results from GSoC 2023](https://www.reddit.com/r/scala/comments/17feq3w/sharing_my_results_from_gsoc_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

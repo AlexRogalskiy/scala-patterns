@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Mouse 0.4.2 - Early release](https://www.reddit.com/r/scala/comments/17k0yml/mouse_042_early_release/)
+- [How we use sbt-buildinfo in production](https://www.reddit.com/r/scala/comments/17juheu/how_we_use_sbtbuildinfo_in_production/)
+- [NEScala 2023 Videos Available](https://www.reddit.com/r/scala/comments/17jt830/nescala_2023_videos_available/)
+- [Scalendar | November 2023](https://www.reddit.com/r/scala/comments/17jq07o/scalendar_november_2023/)
+- [Why is scala considered niche / not popular when so many apache projects use it?](https://www.reddit.com/r/scala/comments/17jjkgk/why_is_scala_considered_niche_not_popular_when_so/)
 - [Project ideas for learning Scala](https://www.reddit.com/r/scala/comments/17jeepf/project_ideas_for_learning_scala/)
 - [This week in #Scala &lpar;Oct 30, 2023&rpar;](https://www.reddit.com/r/scala/comments/17j5hrw/this_week_in_scala_oct_30_2023/)
 - [I refactored my first ever Scala code](https://www.reddit.com/r/scala/comments/17j2wft/i_refactored_my_first_ever_scala_code/)
 - [Functional Programming for Absolute Beginners](https://www.reddit.com/r/scala/comments/17iy6jh/functional_programming_for_absolute_beginners/)
 - [Northeast Scala Symposium](https://www.reddit.com/r/scala/comments/17itkey/northeast_scala_symposium/)
-- [Rate my first ever Scala code!](https://www.reddit.com/r/scala/comments/17irfm5/rate_my_first_ever_scala_code/)
-- [Why is my sorting algorithm running faster on subsequent tests](https://www.reddit.com/r/scala/comments/17hswzi/why_is_my_sorting_algorithm_running_faster_on/)
-- [Scala Salary Survery](https://www.reddit.com/r/scala/comments/17hnkr4/scala_salary_survery/)
-- [ScaLatin #7 | Explorando la Programación Funcional en Scala](https://www.reddit.com/r/scala/comments/17hk1fo/scalatin_7_explorando_la_programación_funcional/)
-- [Scala CLI v1.0.5 is out!](https://www.reddit.com/r/scala/comments/17hini1/scala_cli_v105_is_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala job in Virginia &lpar;beginner to Mid Level&rpar;](https://www.reddit.com/r/scala/comments/17kzcyv/scala_job_in_virginia_beginner_to_mid_level/)
+- [New learner - help understanding where I am returning Unit](https://www.reddit.com/r/scala/comments/17ktqve/new_learner_help_understanding_where_i_am/)
+- [How to make a trait for a generalized primary key in Slick tables?](https://www.reddit.com/r/scala/comments/17kjfh0/how_to_make_a_trait_for_a_generalized_primary_key/)
+- [How to make a trait for a generalized primary key in Slick tables?](https://www.reddit.com/r/scala/comments/17kjfgf/how_to_make_a_trait_for_a_generalized_primary_key/)
+- [Load Balancer in Scala with Cats Effect and Http4s](https://www.reddit.com/r/scala/comments/17khndh/load_balancer_in_scala_with_cats_effect_and_http4s/)
+- [Martin Odersky - Scala&#39;s Role in the Programming Languages Ecosystem](https://www.reddit.com/r/scala/comments/17kdi05/martin_odersky_scalas_role_in_the_programming/)
 - [Mouse 0.4.2 - Early release](https://www.reddit.com/r/scala/comments/17k0yml/mouse_042_early_release/)
 - [How we use sbt-buildinfo in production](https://www.reddit.com/r/scala/comments/17juheu/how_we_use_sbtbuildinfo_in_production/)
 - [NEScala 2023 Videos Available](https://www.reddit.com/r/scala/comments/17jt830/nescala_2023_videos_available/)
 - [Scalendar | November 2023](https://www.reddit.com/r/scala/comments/17jq07o/scalendar_november_2023/)
-- [Why is scala considered niche / not popular when so many apache projects use it?](https://www.reddit.com/r/scala/comments/17jjkgk/why_is_scala_considered_niche_not_popular_when_so/)
-- [Project ideas for learning Scala](https://www.reddit.com/r/scala/comments/17jeepf/project_ideas_for_learning_scala/)
-- [This week in #Scala &lpar;Oct 30, 2023&rpar;](https://www.reddit.com/r/scala/comments/17j5hrw/this_week_in_scala_oct_30_2023/)
-- [I refactored my first ever Scala code](https://www.reddit.com/r/scala/comments/17j2wft/i_refactored_my_first_ever_scala_code/)
-- [Functional Programming for Absolute Beginners](https://www.reddit.com/r/scala/comments/17iy6jh/functional_programming_for_absolute_beginners/)
-- [Northeast Scala Symposium](https://www.reddit.com/r/scala/comments/17itkey/northeast_scala_symposium/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

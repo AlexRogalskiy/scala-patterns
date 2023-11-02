@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Apache Pekko Projection has been released](https://www.reddit.com/r/scala/comments/17lij13/apache_pekko_projection_has_been_released/)
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/17lfe1a/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [ADTs in Scala 3 &lpar;Youtube Tutorial&rpar;](https://www.reddit.com/r/scala/comments/17lekhs/adts_in_scala_3_youtube_tutorial/)
+- [The Ultimate JSoup Scala Cheatsheet](https://www.reddit.com/r/scala/comments/17lc6zd/the_ultimate_jsoup_scala_cheatsheet/)
+- [Project with Scala/Maven in VScode](https://www.reddit.com/r/scala/comments/17lbl5i/project_with_scalamaven_in_vscode/)
+- [Iron v2.3.0 is out!](https://www.reddit.com/r/scala/comments/17l7xww/iron_v230_is_out/)
 - [Scala job in Virginia &lpar;beginner to Mid Level&rpar;](https://www.reddit.com/r/scala/comments/17kzcyv/scala_job_in_virginia_beginner_to_mid_level/)
 - [New learner - help understanding where I am returning Unit](https://www.reddit.com/r/scala/comments/17ktqve/new_learner_help_understanding_where_i_am/)
 - [How to make a trait for a generalized primary key in Slick tables?](https://www.reddit.com/r/scala/comments/17kjfh0/how_to_make_a_trait_for_a_generalized_primary_key/)
 - [How to make a trait for a generalized primary key in Slick tables?](https://www.reddit.com/r/scala/comments/17kjfgf/how_to_make_a_trait_for_a_generalized_primary_key/)
-- [Load Balancer in Scala with Cats Effect and Http4s](https://www.reddit.com/r/scala/comments/17khndh/load_balancer_in_scala_with_cats_effect_and_http4s/)
-- [Martin Odersky - Scala&#39;s Role in the Programming Languages Ecosystem](https://www.reddit.com/r/scala/comments/17kdi05/martin_odersky_scalas_role_in_the_programming/)
-- [Mouse 0.4.2 - Early release](https://www.reddit.com/r/scala/comments/17k0yml/mouse_042_early_release/)
-- [How we use sbt-buildinfo in production](https://www.reddit.com/r/scala/comments/17juheu/how_we_use_sbtbuildinfo_in_production/)
-- [NEScala 2023 Videos Available](https://www.reddit.com/r/scala/comments/17jt830/nescala_2023_videos_available/)
-- [Scalendar | November 2023](https://www.reddit.com/r/scala/comments/17jq07o/scalendar_november_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

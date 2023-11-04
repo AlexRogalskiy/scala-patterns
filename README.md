@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Apache Pekko Projection has been released](https://www.reddit.com/r/scala/comments/17lij13/apache_pekko_projection_has_been_released/)
-- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/17lfe1a/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [ADTs in Scala 3 &lpar;Youtube Tutorial&rpar;](https://www.reddit.com/r/scala/comments/17lekhs/adts_in_scala_3_youtube_tutorial/)
-- [The Ultimate JSoup Scala Cheatsheet](https://www.reddit.com/r/scala/comments/17lc6zd/the_ultimate_jsoup_scala_cheatsheet/)
-- [Project with Scala/Maven in VScode](https://www.reddit.com/r/scala/comments/17lbl5i/project_with_scalamaven_in_vscode/)
-- [Iron v2.3.0 is out!](https://www.reddit.com/r/scala/comments/17l7xww/iron_v230_is_out/)
-- [Scala job in Virginia &lpar;beginner to Mid Level&rpar;](https://www.reddit.com/r/scala/comments/17kzcyv/scala_job_in_virginia_beginner_to_mid_level/)
-- [New learner - help understanding where I am returning Unit](https://www.reddit.com/r/scala/comments/17ktqve/new_learner_help_understanding_where_i_am/)
-- [How to make a trait for a generalized primary key in Slick tables?](https://www.reddit.com/r/scala/comments/17kjfh0/how_to_make_a_trait_for_a_generalized_primary_key/)
-- [How to make a trait for a generalized primary key in Slick tables?](https://www.reddit.com/r/scala/comments/17kjfgf/how_to_make_a_trait_for_a_generalized_primary_key/)
+- [Fury scala: a fast serialization framework by runtime-codegen for any Scala 2/3 objects](https://www.reddit.com/r/scala/comments/17na10s/fury_scala_a_fast_serialization_framework_by/)
+- [Added Support for Common Data Structures to the toy language I&#39;m writing in Scala](https://www.reddit.com/r/scala/comments/17n3bhp/added_support_for_common_data_structures_to_the/)
+- [A question about some code in Scala with Cats](https://www.reddit.com/r/scala/comments/17n0stu/a_question_about_some_code_in_scala_with_cats/)
+- [Fury scala: a fast serialization framework by JIT for any Scala 2/3 objects](https://www.reddit.com/r/scala/comments/17mzexu/fury_scala_a_fast_serialization_framework_by_jit/)
+- [Laminar &amp; Scala.js Full Stack Demo Project &amp; More](https://www.reddit.com/r/scala/comments/17mqid8/laminar_scalajs_full_stack_demo_project_more/)
+- [Advanced Scala Workshop With John A. De Goes at Functional Scala 2023! &lpar;Included in the conference ticket&rpar;](https://www.reddit.com/r/scala/comments/17mq0wz/advanced_scala_workshop_with_john_a_de_goes_at/)
+- [GitHub - stkeky/best-of-scala: 🏆 A ranked list of awesome Scala projects. Updated weekly.](https://www.reddit.com/r/scala/comments/17mau9f/github_stkekybestofscala_a_ranked_list_of_awesome/)
+- [Top Scala Hirers From October 2023](https://www.reddit.com/r/scala/comments/17masmu/top_scala_hirers_from_october_2023/)
+- [Parallel processing with FS2 Stream &lpar;broadcasting&rpar;](https://www.reddit.com/r/scala/comments/17m7dps/parallel_processing_with_fs2_stream_broadcasting/)
+- [How is Scala3 syntax received in the community?](https://www.reddit.com/r/scala/comments/17m1amk/how_is_scala3_syntax_received_in_the_community/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

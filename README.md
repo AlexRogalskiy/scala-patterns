@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How Do Scala Files Interact In This Project?](https://www.reddit.com/r/scala/comments/17opbe9/how_do_scala_files_interact_in_this_project/)
+- [This week in #Scala &lpar;Nov 6, 2023&rpar;](https://www.reddit.com/r/scala/comments/17okqq5/this_week_in_scala_nov_6_2023/)
+- [Any refinement library that uses plain old &amp; &lpar;intersection types&rpar; ?](https://www.reddit.com/r/scala/comments/17oi0r2/any_refinement_library_that_uses_plain_old/)
 - [Fury scala: a fast serialization framework by runtime-codegen for any Scala 2/3 objects](https://www.reddit.com/r/scala/comments/17na10s/fury_scala_a_fast_serialization_framework_by/)
 - [Added Support for Common Data Structures to the toy language I&#39;m writing in Scala](https://www.reddit.com/r/scala/comments/17n3bhp/added_support_for_common_data_structures_to_the/)
 - [A question about some code in Scala with Cats](https://www.reddit.com/r/scala/comments/17n0stu/a_question_about_some_code_in_scala_with_cats/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Laminar &amp; Scala.js Full Stack Demo Project &amp; More](https://www.reddit.com/r/scala/comments/17mqid8/laminar_scalajs_full_stack_demo_project_more/)
 - [Advanced Scala Workshop With John A. De Goes at Functional Scala 2023! &lpar;Included in the conference ticket&rpar;](https://www.reddit.com/r/scala/comments/17mq0wz/advanced_scala_workshop_with_john_a_de_goes_at/)
 - [GitHub - stkeky/best-of-scala: 🏆 A ranked list of awesome Scala projects. Updated weekly.](https://www.reddit.com/r/scala/comments/17mau9f/github_stkekybestofscala_a_ranked_list_of_awesome/)
-- [Top Scala Hirers From October 2023](https://www.reddit.com/r/scala/comments/17masmu/top_scala_hirers_from_october_2023/)
-- [Parallel processing with FS2 Stream &lpar;broadcasting&rpar;](https://www.reddit.com/r/scala/comments/17m7dps/parallel_processing_with_fs2_stream_broadcasting/)
-- [How is Scala3 syntax received in the community?](https://www.reddit.com/r/scala/comments/17m1amk/how_is_scala3_syntax_received_in_the_community/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

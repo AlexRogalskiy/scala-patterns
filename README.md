@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How helpful are LLMs with Scala?](https://www.reddit.com/r/scala/comments/17q2ehk/how_helpful_are_llms_with_scala/)
+- [ADTs in Scala &lpar;Part 2: ADTs vs OO-Classes&rpar;](https://www.reddit.com/r/scala/comments/17pzuoc/adts_in_scala_part_2_adts_vs_ooclasses/)
+- [Functional World #10 | Full-Stack ZIO by Daniel Ciocirlan](https://www.reddit.com/r/scala/comments/17praxt/functional_world_10_fullstack_zio_by_daniel/)
+- [Are nullable types done better in kotlin ?](https://www.reddit.com/r/scala/comments/17pppru/are_nullable_types_done_better_in_kotlin/)
 - [Have you used Mill?](https://www.reddit.com/r/scala/comments/17pbnln/have_you_used_mill/)
 - [How scala-cli Shines in Automation](https://www.reddit.com/r/scala/comments/17pa1fi/how_scalacli_shines_in_automation/)
 - [Play 2.9 and 3.0 released](https://www.reddit.com/r/scala/comments/17p7szb/play_29_and_30_released/)
 - [Introducing periodic, a low-dependency Scala lib providing a cached variable that self-updates periodically, and a periodic function runner](https://www.reddit.com/r/scala/comments/17os1pk/introducing_periodic_a_lowdependency_scala_lib/)
 - [How Do Scala Files Interact In This Project?](https://www.reddit.com/r/scala/comments/17opbe9/how_do_scala_files_interact_in_this_project/)
 - [This week in #Scala &lpar;Nov 6, 2023&rpar;](https://www.reddit.com/r/scala/comments/17okqq5/this_week_in_scala_nov_6_2023/)
-- [Any refinement library that uses plain old &amp; &lpar;intersection types&rpar; ?](https://www.reddit.com/r/scala/comments/17oi0r2/any_refinement_library_that_uses_plain_old/)
-- [Fury scala: a fast serialization framework by runtime-codegen for any Scala 2/3 objects](https://www.reddit.com/r/scala/comments/17na10s/fury_scala_a_fast_serialization_framework_by/)
-- [Added Support for Common Data Structures to the toy language I&#39;m writing in Scala](https://www.reddit.com/r/scala/comments/17n3bhp/added_support_for_common_data_structures_to_the/)
-- [A question about some code in Scala with Cats](https://www.reddit.com/r/scala/comments/17n0stu/a_question_about_some_code_in_scala_with_cats/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

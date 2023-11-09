@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Help] apply required for ZIO test?](https://www.reddit.com/r/scala/comments/17r0nrr/help_apply_required_for_zio_test/)
+- [What is scala&#39;s answer to python-flask.](https://www.reddit.com/r/scala/comments/17qve34/what_is_scalas_answer_to_pythonflask/)
+- [In Scala 3, Use 4 Spaces for Indentation](https://www.reddit.com/r/scala/comments/17qukov/in_scala_3_use_4_spaces_for_indentation/)
 - [How helpful are LLMs with Scala?](https://www.reddit.com/r/scala/comments/17q2ehk/how_helpful_are_llms_with_scala/)
 - [ADTs in Scala &lpar;Part 2: ADTs vs OO-Classes&rpar;](https://www.reddit.com/r/scala/comments/17pzuoc/adts_in_scala_part_2_adts_vs_ooclasses/)
 - [Functional World #10 | Full-Stack ZIO by Daniel Ciocirlan](https://www.reddit.com/r/scala/comments/17praxt/functional_world_10_fullstack_zio_by_daniel/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Have you used Mill?](https://www.reddit.com/r/scala/comments/17pbnln/have_you_used_mill/)
 - [How scala-cli Shines in Automation](https://www.reddit.com/r/scala/comments/17pa1fi/how_scalacli_shines_in_automation/)
 - [Play 2.9 and 3.0 released](https://www.reddit.com/r/scala/comments/17p7szb/play_29_and_30_released/)
-- [Introducing periodic, a low-dependency Scala lib providing a cached variable that self-updates periodically, and a periodic function runner](https://www.reddit.com/r/scala/comments/17os1pk/introducing_periodic_a_lowdependency_scala_lib/)
-- [How Do Scala Files Interact In This Project?](https://www.reddit.com/r/scala/comments/17opbe9/how_do_scala_files_interact_in_this_project/)
-- [This week in #Scala &lpar;Nov 6, 2023&rpar;](https://www.reddit.com/r/scala/comments/17okqq5/this_week_in_scala_nov_6_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

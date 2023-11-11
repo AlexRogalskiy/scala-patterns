@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kotlin/TypeScript -like syntax to access nested, optional values](https://www.reddit.com/r/scala/comments/17sb53c/kotlintypescript_like_syntax_to_access_nested/)
+- [Play Framework 2.8.21 bug fix release](https://www.reddit.com/r/scala/comments/17s6q7k/play_framework_2821_bug_fix_release/)
 - [Elm-like ScalaJS Calculator App](https://www.reddit.com/r/scala/comments/17rbnce/elmlike_scalajs_calculator_app/)
 - [ScalaJS Calculator](https://www.reddit.com/r/scala/comments/17rbjb4/scalajs_calculator/)
 - [Is there anyone going to the Web Summit in Lisbon?](https://www.reddit.com/r/scala/comments/17r9zq0/is_there_anyone_going_to_the_web_summit_in_lisbon/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [What is scala&#39;s answer to python-flask.](https://www.reddit.com/r/scala/comments/17qve34/what_is_scalas_answer_to_pythonflask/)
 - [In Scala 3, Use 4 Spaces for Indentation](https://www.reddit.com/r/scala/comments/17qukov/in_scala_3_use_4_spaces_for_indentation/)
 - [How helpful are LLMs with Scala?](https://www.reddit.com/r/scala/comments/17q2ehk/how_helpful_are_llms_with_scala/)
-- [ADTs in Scala &lpar;Part 2: ADTs vs OO-Classes&rpar;](https://www.reddit.com/r/scala/comments/17pzuoc/adts_in_scala_part_2_adts_vs_ooclasses/)
-- [Functional World #10 | Full-Stack ZIO by Daniel Ciocirlan](https://www.reddit.com/r/scala/comments/17praxt/functional_world_10_fullstack_zio_by_daniel/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

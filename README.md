@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How often do you need to define your own monad?](https://www.reddit.com/r/scala/comments/17t814k/how_often_do_you_need_to_define_your_own_monad/)
 - [Kotlin/TypeScript -like syntax to access nested, optional values](https://www.reddit.com/r/scala/comments/17sb53c/kotlintypescript_like_syntax_to_access_nested/)
 - [Play Framework 2.8.21 bug fix release](https://www.reddit.com/r/scala/comments/17s6q7k/play_framework_2821_bug_fix_release/)
 - [Elm-like ScalaJS Calculator App](https://www.reddit.com/r/scala/comments/17rbnce/elmlike_scalajs_calculator_app/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [[Help] apply required for ZIO test?](https://www.reddit.com/r/scala/comments/17r0nrr/help_apply_required_for_zio_test/)
 - [What is scala&#39;s answer to python-flask.](https://www.reddit.com/r/scala/comments/17qve34/what_is_scalas_answer_to_pythonflask/)
 - [In Scala 3, Use 4 Spaces for Indentation](https://www.reddit.com/r/scala/comments/17qukov/in_scala_3_use_4_spaces_for_indentation/)
-- [How helpful are LLMs with Scala?](https://www.reddit.com/r/scala/comments/17q2ehk/how_helpful_are_llms_with_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

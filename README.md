@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Native vs Go vs Zig vs Rust vs Graal for data processing](https://www.reddit.com/r/scala/comments/17uqe8g/scala_native_vs_go_vs_zig_vs_rust_vs_graal_for/)
+- [Data processing library for scala?](https://www.reddit.com/r/scala/comments/17uhvh0/data_processing_library_for_scala/)
+- [ZIO hello-world and scala-cli](https://www.reddit.com/r/scala/comments/17ubwbt/zio_helloworld_and_scalacli/)
+- [Rules evaluation in Scala with Erules and Cats](https://www.reddit.com/r/scala/comments/17u8hbx/rules_evaluation_in_scala_with_erules_and_cats/)
+- [Have you thought about giving ZIO a try?](https://www.reddit.com/r/scala/comments/17u7i61/have_you_thought_about_giving_zio_a_try/)
+- [Helix and Scala](https://www.reddit.com/r/scala/comments/17u4spg/helix_and_scala/)
 - [This week in #Scala &lpar;Nov 13, 2023&rpar;](https://www.reddit.com/r/scala/comments/17triqp/this_week_in_scala_nov_13_2023/)
 - [How often do you need to define your own monad?](https://www.reddit.com/r/scala/comments/17t814k/how_often_do_you_need_to_define_your_own_monad/)
 - [Kotlin/TypeScript -like syntax to access nested, optional values](https://www.reddit.com/r/scala/comments/17sb53c/kotlintypescript_like_syntax_to_access_nested/)
 - [Play Framework 2.8.21 bug fix release](https://www.reddit.com/r/scala/comments/17s6q7k/play_framework_2821_bug_fix_release/)
-- [Elm-like ScalaJS Calculator App](https://www.reddit.com/r/scala/comments/17rbnce/elmlike_scalajs_calculator_app/)
-- [ScalaJS Calculator](https://www.reddit.com/r/scala/comments/17rbjb4/scalajs_calculator/)
-- [Is there anyone going to the Web Summit in Lisbon?](https://www.reddit.com/r/scala/comments/17r9zq0/is_there_anyone_going_to_the_web_summit_in_lisbon/)
-- [Play Framework is reborn like a phoenix from the ashes.... and gets rid of Akka](https://www.reddit.com/r/scala/comments/17r7lvi/play_framework_is_reborn_like_a_phoenix_from_the/)
-- [[Help] apply required for ZIO test?](https://www.reddit.com/r/scala/comments/17r0nrr/help_apply_required_for_zio_test/)
-- [What is scala&#39;s answer to python-flask.](https://www.reddit.com/r/scala/comments/17qve34/what_is_scalas_answer_to_pythonflask/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

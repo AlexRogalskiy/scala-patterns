@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Handling dependencies for the impatient](https://www.reddit.com/r/scala/comments/17w9zar/handling_dependencies_for_the_impatient/)
+- [Writing a simple pubsub server with the Typelevel toolkit and http4s ember server](https://www.reddit.com/r/scala/comments/17vx1cn/writing_a_simple_pubsub_server_with_the_typelevel/)
+- [How to learn highly functional fault tolerant and concurrent coding?](https://www.reddit.com/r/scala/comments/17vusqe/how_to_learn_highly_functional_fault_tolerant_and/)
+- [Tree sitter with Scala](https://www.reddit.com/r/scala/comments/17vmvfb/tree_sitter_with_scala/)
 - [Scala Native vs Go vs Zig vs Rust vs Graal for data processing](https://www.reddit.com/r/scala/comments/17uqe8g/scala_native_vs_go_vs_zig_vs_rust_vs_graal_for/)
 - [Data processing library for scala?](https://www.reddit.com/r/scala/comments/17uhvh0/data_processing_library_for_scala/)
 - [ZIO hello-world and scala-cli](https://www.reddit.com/r/scala/comments/17ubwbt/zio_helloworld_and_scalacli/)
 - [Rules evaluation in Scala with Erules and Cats](https://www.reddit.com/r/scala/comments/17u8hbx/rules_evaluation_in_scala_with_erules_and_cats/)
 - [Have you thought about giving ZIO a try?](https://www.reddit.com/r/scala/comments/17u7i61/have_you_thought_about_giving_zio_a_try/)
 - [Helix and Scala](https://www.reddit.com/r/scala/comments/17u4spg/helix_and_scala/)
-- [This week in #Scala &lpar;Nov 13, 2023&rpar;](https://www.reddit.com/r/scala/comments/17triqp/this_week_in_scala_nov_13_2023/)
-- [How often do you need to define your own monad?](https://www.reddit.com/r/scala/comments/17t814k/how_often_do_you_need_to_define_your_own_monad/)
-- [Kotlin/TypeScript -like syntax to access nested, optional values](https://www.reddit.com/r/scala/comments/17sb53c/kotlintypescript_like_syntax_to_access_nested/)
-- [Play Framework 2.8.21 bug fix release](https://www.reddit.com/r/scala/comments/17s6q7k/play_framework_2821_bug_fix_release/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Microsoft Releases SynapseML v1.0: Open-source Scala Native library for Massive ML](https://www.reddit.com/r/scala/comments/17wuji8/microsoft_releases_synapseml_v10_opensource_scala/)
 - [Handling dependencies for the impatient](https://www.reddit.com/r/scala/comments/17w9zar/handling_dependencies_for_the_impatient/)
 - [Writing a simple pubsub server with the Typelevel toolkit and http4s ember server](https://www.reddit.com/r/scala/comments/17vx1cn/writing_a_simple_pubsub_server_with_the_typelevel/)
 - [How to learn highly functional fault tolerant and concurrent coding?](https://www.reddit.com/r/scala/comments/17vusqe/how_to_learn_highly_functional_fault_tolerant_and/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ZIO hello-world and scala-cli](https://www.reddit.com/r/scala/comments/17ubwbt/zio_helloworld_and_scalacli/)
 - [Rules evaluation in Scala with Erules and Cats](https://www.reddit.com/r/scala/comments/17u8hbx/rules_evaluation_in_scala_with_erules_and_cats/)
 - [Have you thought about giving ZIO a try?](https://www.reddit.com/r/scala/comments/17u7i61/have_you_thought_about_giving_zio_a_try/)
-- [Helix and Scala](https://www.reddit.com/r/scala/comments/17u4spg/helix_and_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

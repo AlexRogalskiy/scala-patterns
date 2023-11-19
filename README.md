@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to proof that S[N] &gt;= 0 based on N &gt;= 0?](https://www.reddit.com/r/scala/comments/17yknng/how_to_proof_that_sn_0_based_on_n_0/)
+- [Added Exception Handling Support to My Programming Language](https://www.reddit.com/r/scala/comments/17y6hzk/added_exception_handling_support_to_my/)
 - [Microsoft Releases SynapseML v1.0: Open-source Scala Native library for Massive ML](https://www.reddit.com/r/scala/comments/17wuji8/microsoft_releases_synapseml_v10_opensource_scala/)
 - [Handling dependencies for the impatient](https://www.reddit.com/r/scala/comments/17w9zar/handling_dependencies_for_the_impatient/)
 - [Writing a simple pubsub server with the Typelevel toolkit and http4s ember server](https://www.reddit.com/r/scala/comments/17vx1cn/writing_a_simple_pubsub_server_with_the_typelevel/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Native vs Go vs Zig vs Rust vs Graal for data processing](https://www.reddit.com/r/scala/comments/17uqe8g/scala_native_vs_go_vs_zig_vs_rust_vs_graal_for/)
 - [Data processing library for scala?](https://www.reddit.com/r/scala/comments/17uhvh0/data_processing_library_for_scala/)
 - [ZIO hello-world and scala-cli](https://www.reddit.com/r/scala/comments/17ubwbt/zio_helloworld_and_scalacli/)
-- [Rules evaluation in Scala with Erules and Cats](https://www.reddit.com/r/scala/comments/17u8hbx/rules_evaluation_in_scala_with_erules_and_cats/)
-- [Have you thought about giving ZIO a try?](https://www.reddit.com/r/scala/comments/17u7i61/have_you_thought_about_giving_zio_a_try/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

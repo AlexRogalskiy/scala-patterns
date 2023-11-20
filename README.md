@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Metals](https://www.reddit.com/r/scala/comments/17zb6h7/metals/)
+- [Please help - wanted to try out Scala 3, fighting the tooling instead &lpar;IntelliJ + SBT BSP&rpar;](https://www.reddit.com/r/scala/comments/17yzgq8/please_help_wanted_to_try_out_scala_3_fighting/)
+- [This week in #Scala &lpar;Nov 20, 2023&rpar;](https://www.reddit.com/r/scala/comments/17yys61/this_week_in_scala_nov_20_2023/)
 - [How to proof that S[N] &gt;= 0 based on N &gt;= 0?](https://www.reddit.com/r/scala/comments/17yknng/how_to_proof_that_sn_0_based_on_n_0/)
 - [Added Exception Handling Support to My Programming Language](https://www.reddit.com/r/scala/comments/17y6hzk/added_exception_handling_support_to_my/)
 - [Microsoft Releases SynapseML v1.0: Open-source Scala Native library for Massive ML](https://www.reddit.com/r/scala/comments/17wuji8/microsoft_releases_synapseml_v10_opensource_scala/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Writing a simple pubsub server with the Typelevel toolkit and http4s ember server](https://www.reddit.com/r/scala/comments/17vx1cn/writing_a_simple_pubsub_server_with_the_typelevel/)
 - [How to learn highly functional fault tolerant and concurrent coding?](https://www.reddit.com/r/scala/comments/17vusqe/how_to_learn_highly_functional_fault_tolerant_and/)
 - [Tree sitter with Scala](https://www.reddit.com/r/scala/comments/17vmvfb/tree_sitter_with_scala/)
-- [Scala Native vs Go vs Zig vs Rust vs Graal for data processing](https://www.reddit.com/r/scala/comments/17uqe8g/scala_native_vs_go_vs_zig_vs_rust_vs_graal_for/)
-- [Data processing library for scala?](https://www.reddit.com/r/scala/comments/17uhvh0/data_processing_library_for_scala/)
-- [ZIO hello-world and scala-cli](https://www.reddit.com/r/scala/comments/17ubwbt/zio_helloworld_and_scalacli/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

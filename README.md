@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Left Fold Parallelisation - Three Approaches](https://www.reddit.com/r/scala/comments/17zvy2p/scala_left_fold_parallelisation_three_approaches/)
+- [Breaking Down IT Salaries: Explore Our Latest Job Market Reports for Germany and Switzerland!](https://www.reddit.com/r/scala/comments/17zv5l2/breaking_down_it_salaries_explore_our_latest_job/)
+- [Functional Scala 2023: First Presentations Now Live On The Agenda](https://www.reddit.com/r/scala/comments/17zpfxe/functional_scala_2023_first_presentations_now/)
+- [Scala, cats-effect 3 and memoizing the output of an effect](https://www.reddit.com/r/scala/comments/17zlsh9/scala_catseffect_3_and_memoizing_the_output_of_an/)
+- [Apache Pekko Persistence DynamoDB has been released](https://www.reddit.com/r/scala/comments/17zjeh0/apache_pekko_persistence_dynamodb_has_been/)
 - [Metals](https://www.reddit.com/r/scala/comments/17zb6h7/metals/)
 - [Please help - wanted to try out Scala 3, fighting the tooling instead &lpar;IntelliJ + SBT BSP&rpar;](https://www.reddit.com/r/scala/comments/17yzgq8/please_help_wanted_to_try_out_scala_3_fighting/)
 - [This week in #Scala &lpar;Nov 20, 2023&rpar;](https://www.reddit.com/r/scala/comments/17yys61/this_week_in_scala_nov_20_2023/)
 - [How to proof that S[N] &gt;= 0 based on N &gt;= 0?](https://www.reddit.com/r/scala/comments/17yknng/how_to_proof_that_sn_0_based_on_n_0/)
 - [Added Exception Handling Support to My Programming Language](https://www.reddit.com/r/scala/comments/17y6hzk/added_exception_handling_support_to_my/)
-- [Microsoft Releases SynapseML v1.0: Open-source Scala Native library for Massive ML](https://www.reddit.com/r/scala/comments/17wuji8/microsoft_releases_synapseml_v10_opensource_scala/)
-- [Handling dependencies for the impatient](https://www.reddit.com/r/scala/comments/17w9zar/handling_dependencies_for_the_impatient/)
-- [Writing a simple pubsub server with the Typelevel toolkit and http4s ember server](https://www.reddit.com/r/scala/comments/17vx1cn/writing_a_simple_pubsub_server_with_the_typelevel/)
-- [How to learn highly functional fault tolerant and concurrent coding?](https://www.reddit.com/r/scala/comments/17vusqe/how_to_learn_highly_functional_fault_tolerant_and/)
-- [Tree sitter with Scala](https://www.reddit.com/r/scala/comments/17vmvfb/tree_sitter_with_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

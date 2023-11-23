@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Complex fixtures in munit](https://www.reddit.com/r/scala/comments/181kuj2/complex_fixtures_in_munit/)
+- [Gatling + Scala issue](https://www.reddit.com/r/scala/comments/181fi8y/gatling_scala_issue/)
+- [Gatling + Scala issue](https://www.reddit.com/r/scala/comments/181fi8s/gatling_scala_issue/)
 - [Fury Serialization Framework 0.3.1 Released: better runtime-codegen support for scala serialization](https://www.reddit.com/r/scala/comments/180in19/fury_serialization_framework_031_released_better/)
 - [How to do &quot;select * from&lpar;subQuery&rpar;&quot; with composite primary key?](https://www.reddit.com/r/scala/comments/180h5fa/how_to_do_select_fromsubquery_with_composite/)
 - [Rock the JVM Black Friday offer](https://www.reddit.com/r/scala/comments/180cr9w/rock_the_jvm_black_friday_offer/)
 - [Scala Left Fold Parallelisation - Three Approaches](https://www.reddit.com/r/scala/comments/17zvy2p/scala_left_fold_parallelisation_three_approaches/)
-- [Breaking Down IT Salaries: Explore Our Latest Job Market Reports for Germany and Switzerland!](https://www.reddit.com/r/scala/comments/17zv5l2/breaking_down_it_salaries_explore_our_latest_job/)
 - [Functional Scala 2023: First Presentations Now Live On The Agenda](https://www.reddit.com/r/scala/comments/17zpfxe/functional_scala_2023_first_presentations_now/)
 - [Scala, cats-effect 3 and memoizing the output of an effect](https://www.reddit.com/r/scala/comments/17zlsh9/scala_catseffect_3_and_memoizing_the_output_of_an/)
 - [Apache Pekko Persistence DynamoDB has been released](https://www.reddit.com/r/scala/comments/17zjeh0/apache_pekko_persistence_dynamodb_has_been/)
-- [Metals](https://www.reddit.com/r/scala/comments/17zb6h7/metals/)
-- [Please help - wanted to try out Scala 3, fighting the tooling instead &lpar;IntelliJ + SBT BSP&rpar;](https://www.reddit.com/r/scala/comments/17yzgq8/please_help_wanted_to_try_out_scala_3_fighting/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

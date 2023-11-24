@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Blog: Simplifying Tests with ScalaTest Tables for Readability and Maintainability](https://www.reddit.com/r/scala/comments/182b2ek/blog_simplifying_tests_with_scalatest_tables_for/)
+- [Comprehensions revisited: Polish notation](https://www.reddit.com/r/scala/comments/1827r0c/comprehensions_revisited_polish_notation/)
+- [Announcing Kojo 2.9.27: A Scala based programming and learning environment for kids](https://www.reddit.com/r/scala/comments/1820wbx/announcing_kojo_2927_a_scala_based_programming/)
 - [Complex fixtures in munit](https://www.reddit.com/r/scala/comments/181kuj2/complex_fixtures_in_munit/)
 - [Gatling + Scala issue](https://www.reddit.com/r/scala/comments/181fi8y/gatling_scala_issue/)
 - [Gatling + Scala issue](https://www.reddit.com/r/scala/comments/181fi8s/gatling_scala_issue/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to do &quot;select * from&lpar;subQuery&rpar;&quot; with composite primary key?](https://www.reddit.com/r/scala/comments/180h5fa/how_to_do_select_fromsubquery_with_composite/)
 - [Rock the JVM Black Friday offer](https://www.reddit.com/r/scala/comments/180cr9w/rock_the_jvm_black_friday_offer/)
 - [Scala Left Fold Parallelisation - Three Approaches](https://www.reddit.com/r/scala/comments/17zvy2p/scala_left_fold_parallelisation_three_approaches/)
-- [Functional Scala 2023: First Presentations Now Live On The Agenda](https://www.reddit.com/r/scala/comments/17zpfxe/functional_scala_2023_first_presentations_now/)
-- [Scala, cats-effect 3 and memoizing the output of an effect](https://www.reddit.com/r/scala/comments/17zlsh9/scala_catseffect_3_and_memoizing_the_output_of_an/)
-- [Apache Pekko Persistence DynamoDB has been released](https://www.reddit.com/r/scala/comments/17zjeh0/apache_pekko_persistence_dynamodb_has_been/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

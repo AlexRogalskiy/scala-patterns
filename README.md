@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Am I missing something by not using Scala for Kafka-based services?](https://www.reddit.com/r/scala/comments/182vutn/am_i_missing_something_by_not_using_scala_for/)
+- [Typo, the new Postgres boilerplate generator and query builder, adds support for zio-jdbc](https://www.reddit.com/r/scala/comments/182p9th/typo_the_new_postgres_boilerplate_generator_and/)
+- [Black Friday offer: Functional Event-Driven Architecture](https://www.reddit.com/r/scala/comments/182nnhx/black_friday_offer_functional_eventdriven/)
 - [Blog: Simplifying Tests with ScalaTest Tables for Readability and Maintainability](https://www.reddit.com/r/scala/comments/182b2ek/blog_simplifying_tests_with_scalatest_tables_for/)
 - [Comprehensions revisited: Polish notation](https://www.reddit.com/r/scala/comments/1827r0c/comprehensions_revisited_polish_notation/)
 - [Announcing Kojo 2.9.27: A Scala based programming and learning environment for kids](https://www.reddit.com/r/scala/comments/1820wbx/announcing_kojo_2927_a_scala_based_programming/)
 - [Complex fixtures in munit](https://www.reddit.com/r/scala/comments/181kuj2/complex_fixtures_in_munit/)
 - [Gatling + Scala issue](https://www.reddit.com/r/scala/comments/181fi8y/gatling_scala_issue/)
-- [Gatling + Scala issue](https://www.reddit.com/r/scala/comments/181fi8s/gatling_scala_issue/)
 - [Fury Serialization Framework 0.3.1 Released: better runtime-codegen support for scala serialization](https://www.reddit.com/r/scala/comments/180in19/fury_serialization_framework_031_released_better/)
 - [How to do &quot;select * from&lpar;subQuery&rpar;&quot; with composite primary key?](https://www.reddit.com/r/scala/comments/180h5fa/how_to_do_select_fromsubquery_with_composite/)
-- [Rock the JVM Black Friday offer](https://www.reddit.com/r/scala/comments/180cr9w/rock_the_jvm_black_friday_offer/)
-- [Scala Left Fold Parallelisation - Three Approaches](https://www.reddit.com/r/scala/comments/17zvy2p/scala_left_fold_parallelisation_three_approaches/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

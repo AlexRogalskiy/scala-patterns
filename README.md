@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does Anyone Want a Laminar Version of Material UI 5?](https://www.reddit.com/r/scala/comments/183yyc1/does_anyone_want_a_laminar_version_of_material_ui/)
+- [Indoor Vivants: Scala Native and Swift: building Twotm8 MacOS app](https://www.reddit.com/r/scala/comments/183ikeu/indoor_vivants_scala_native_and_swift_building/)
+- [Scala 3 Release Cadence](https://www.reddit.com/r/scala/comments/18392ar/scala_3_release_cadence/)
 - [Am I missing something by not using Scala for Kafka-based services?](https://www.reddit.com/r/scala/comments/182vutn/am_i_missing_something_by_not_using_scala_for/)
 - [Typo, the new Postgres boilerplate generator and query builder, adds support for zio-jdbc](https://www.reddit.com/r/scala/comments/182p9th/typo_the_new_postgres_boilerplate_generator_and/)
 - [Black Friday offer: Functional Event-Driven Architecture](https://www.reddit.com/r/scala/comments/182nnhx/black_friday_offer_functional_eventdriven/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Comprehensions revisited: Polish notation](https://www.reddit.com/r/scala/comments/1827r0c/comprehensions_revisited_polish_notation/)
 - [Announcing Kojo 2.9.27: A Scala based programming and learning environment for kids](https://www.reddit.com/r/scala/comments/1820wbx/announcing_kojo_2927_a_scala_based_programming/)
 - [Complex fixtures in munit](https://www.reddit.com/r/scala/comments/181kuj2/complex_fixtures_in_munit/)
-- [Gatling + Scala issue](https://www.reddit.com/r/scala/comments/181fi8y/gatling_scala_issue/)
-- [Fury Serialization Framework 0.3.1 Released: better runtime-codegen support for scala serialization](https://www.reddit.com/r/scala/comments/180in19/fury_serialization_framework_031_released_better/)
-- [How to do &quot;select * from&lpar;subQuery&rpar;&quot; with composite primary key?](https://www.reddit.com/r/scala/comments/180h5fa/how_to_do_select_fromsubquery_with_composite/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tutorial gRPC, fs2 and Nvidia Triton](https://www.reddit.com/r/scala/comments/185d51n/tutorial_grpc_fs2_and_nvidia_triton/)
+- [Poll: How should semiauto derivation should work in circe for Scala 3?](https://www.reddit.com/r/scala/comments/1854w7t/poll_how_should_semiauto_derivation_should_work/)
+- [I frankensteined &lpar;which is totally a verb&rpar; a Play app. Enjoy!](https://www.reddit.com/r/scala/comments/1853dh0/i_frankensteined_which_is_totally_a_verb_a_play/)
+- [Scala 3 support for endless4s](https://www.reddit.com/r/scala/comments/18527cz/scala_3_support_for_endless4s/)
 - [This week in #Scala &lpar;Nov 27, 2023&rpar;](https://www.reddit.com/r/scala/comments/184g1j1/this_week_in_scala_nov_27_2023/)
 - [Does Anyone Want a Laminar Version of Material UI 5?](https://www.reddit.com/r/scala/comments/183yyc1/does_anyone_want_a_laminar_version_of_material_ui/)
 - [Indoor Vivants: Scala Native and Swift: building Twotm8 MacOS app](https://www.reddit.com/r/scala/comments/183ikeu/indoor_vivants_scala_native_and_swift_building/)
 - [Scala 3 Release Cadence](https://www.reddit.com/r/scala/comments/18392ar/scala_3_release_cadence/)
 - [Am I missing something by not using Scala for Kafka-based services?](https://www.reddit.com/r/scala/comments/182vutn/am_i_missing_something_by_not_using_scala_for/)
 - [Typo, the new Postgres boilerplate generator and query builder, adds support for zio-jdbc](https://www.reddit.com/r/scala/comments/182p9th/typo_the_new_postgres_boilerplate_generator_and/)
-- [Black Friday offer: Functional Event-Driven Architecture](https://www.reddit.com/r/scala/comments/182nnhx/black_friday_offer_functional_eventdriven/)
-- [Blog: Simplifying Tests with ScalaTest Tables for Readability and Maintainability](https://www.reddit.com/r/scala/comments/182b2ek/blog_simplifying_tests_with_scalatest_tables_for/)
-- [Comprehensions revisited: Polish notation](https://www.reddit.com/r/scala/comments/1827r0c/comprehensions_revisited_polish_notation/)
-- [Announcing Kojo 2.9.27: A Scala based programming and learning environment for kids](https://www.reddit.com/r/scala/comments/1820wbx/announcing_kojo_2927_a_scala_based_programming/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

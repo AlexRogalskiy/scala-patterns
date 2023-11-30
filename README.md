@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3 book question](https://www.reddit.com/r/scala/comments/186pevf/scala_3_book_question/)
 - [Introduction to Functors With Scala 3](https://www.reddit.com/r/scala/comments/185xatz/introduction_to_functors_with_scala_3/)
 - [Tutorial gRPC, fs2 and Nvidia Triton](https://www.reddit.com/r/scala/comments/185d51n/tutorial_grpc_fs2_and_nvidia_triton/)
 - [Poll: How should semiauto derivation should work in circe for Scala 3?](https://www.reddit.com/r/scala/comments/1854w7t/poll_how_should_semiauto_derivation_should_work/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Does Anyone Want a Laminar Version of Material UI 5?](https://www.reddit.com/r/scala/comments/183yyc1/does_anyone_want_a_laminar_version_of_material_ui/)
 - [Indoor Vivants: Scala Native and Swift: building Twotm8 MacOS app](https://www.reddit.com/r/scala/comments/183ikeu/indoor_vivants_scala_native_and_swift_building/)
 - [Scala 3 Release Cadence](https://www.reddit.com/r/scala/comments/18392ar/scala_3_release_cadence/)
-- [Am I missing something by not using Scala for Kafka-based services?](https://www.reddit.com/r/scala/comments/182vutn/am_i_missing_something_by_not_using_scala_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala CLI v1.1.0 is out!](https://www.reddit.com/r/scala/comments/187g1hn/scala_cli_v110_is_out/)
+- [Scalendar - Event-driven Newsletter - December edition](https://www.reddit.com/r/scala/comments/187fh9n/scalendar_eventdriven_newsletter_december_edition/)
 - [Scala 3 book question](https://www.reddit.com/r/scala/comments/186pevf/scala_3_book_question/)
 - [Introduction to Functors With Scala 3](https://www.reddit.com/r/scala/comments/185xatz/introduction_to_functors_with_scala_3/)
 - [Tutorial gRPC, fs2 and Nvidia Triton](https://www.reddit.com/r/scala/comments/185d51n/tutorial_grpc_fs2_and_nvidia_triton/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala 3 support for endless4s](https://www.reddit.com/r/scala/comments/18527cz/scala_3_support_for_endless4s/)
 - [This week in #Scala &lpar;Nov 27, 2023&rpar;](https://www.reddit.com/r/scala/comments/184g1j1/this_week_in_scala_nov_27_2023/)
 - [Does Anyone Want a Laminar Version of Material UI 5?](https://www.reddit.com/r/scala/comments/183yyc1/does_anyone_want_a_laminar_version_of_material_ui/)
-- [Indoor Vivants: Scala Native and Swift: building Twotm8 MacOS app](https://www.reddit.com/r/scala/comments/183ikeu/indoor_vivants_scala_native_and_swift_building/)
-- [Scala 3 Release Cadence](https://www.reddit.com/r/scala/comments/18392ar/scala_3_release_cadence/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

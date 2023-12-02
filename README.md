@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/188grco/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [Blazing Fast Native JVM Serialization: Putting Fury JIT and GraalVM Native Image AOT together](https://www.reddit.com/r/scala/comments/188gpgz/blazing_fast_native_jvm_serialization_putting/)
+- [Considering Learning Scala: What Are the Pros and Cons?](https://www.reddit.com/r/scala/comments/188ghpg/considering_learning_scala_what_are_the_pros_and/)
+- [Functional World #10 | Full-Stack ZIO by Daniel Ciocirlan](https://www.reddit.com/r/scala/comments/188a5ju/functional_world_10_fullstack_zio_by_daniel/)
+- [Scala Center Advent of Code 2023](https://www.reddit.com/r/scala/comments/1888n5c/scala_center_advent_of_code_2023/)
+- [How to change the \t space?](https://www.reddit.com/r/scala/comments/1887l4v/how_to_change_the_t_space/)
+- [F-bounded polymorphism article](https://www.reddit.com/r/scala/comments/1887663/fbounded_polymorphism_article/)
+- [Scala - The State of Developer Ecosystem in 2023 Infographic](https://www.reddit.com/r/scala/comments/1886fl6/scala_the_state_of_developer_ecosystem_in_2023/)
 - [Scala CLI v1.1.0 is out!](https://www.reddit.com/r/scala/comments/187g1hn/scala_cli_v110_is_out/)
 - [Scalendar - Event-driven Newsletter - December edition](https://www.reddit.com/r/scala/comments/187fh9n/scalendar_eventdriven_newsletter_december_edition/)
-- [Scala 3 book question](https://www.reddit.com/r/scala/comments/186pevf/scala_3_book_question/)
-- [Introduction to Functors With Scala 3](https://www.reddit.com/r/scala/comments/185xatz/introduction_to_functors_with_scala_3/)
-- [Tutorial gRPC, fs2 and Nvidia Triton](https://www.reddit.com/r/scala/comments/185d51n/tutorial_grpc_fs2_and_nvidia_triton/)
-- [Poll: How should semiauto derivation should work in circe for Scala 3?](https://www.reddit.com/r/scala/comments/1854w7t/poll_how_should_semiauto_derivation_should_work/)
-- [I frankensteined &lpar;which is totally a verb&rpar; a Play app. Enjoy!](https://www.reddit.com/r/scala/comments/1853dh0/i_frankensteined_which_is_totally_a_verb_a_play/)
-- [Scala 3 support for endless4s](https://www.reddit.com/r/scala/comments/18527cz/scala_3_support_for_endless4s/)
-- [This week in #Scala &lpar;Nov 27, 2023&rpar;](https://www.reddit.com/r/scala/comments/184g1j1/this_week_in_scala_nov_27_2023/)
-- [Does Anyone Want a Laminar Version of Material UI 5?](https://www.reddit.com/r/scala/comments/183yyc1/does_anyone_want_a_laminar_version_of_material_ui/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

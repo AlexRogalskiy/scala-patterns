@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Could you give some snippets of syntax incorrect programs when compiler refers to line without any error?](https://www.reddit.com/r/scala/comments/1895imc/could_you_give_some_snippets_of_syntax_incorrect/)
+- [Kyo released at Functional Scala! 🚀](https://www.reddit.com/r/scala/comments/188qacv/kyo_released_at_functional_scala/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/188grco/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Blazing Fast Native JVM Serialization: Putting Fury JIT and GraalVM Native Image AOT together](https://www.reddit.com/r/scala/comments/188gpgz/blazing_fast_native_jvm_serialization_putting/)
 - [Considering Learning Scala: What Are the Pros and Cons?](https://www.reddit.com/r/scala/comments/188ghpg/considering_learning_scala_what_are_the_pros_and/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to change the \t space?](https://www.reddit.com/r/scala/comments/1887l4v/how_to_change_the_t_space/)
 - [F-bounded polymorphism article](https://www.reddit.com/r/scala/comments/1887663/fbounded_polymorphism_article/)
 - [Scala - The State of Developer Ecosystem in 2023 Infographic](https://www.reddit.com/r/scala/comments/1886fl6/scala_the_state_of_developer_ecosystem_in_2023/)
-- [Scala CLI v1.1.0 is out!](https://www.reddit.com/r/scala/comments/187g1hn/scala_cli_v110_is_out/)
-- [Scalendar - Event-driven Newsletter - December edition](https://www.reddit.com/r/scala/comments/187fh9n/scalendar_eventdriven_newsletter_december_edition/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

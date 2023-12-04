@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Dec 4, 2023&rpar;](https://www.reddit.com/r/scala/comments/189xqzf/this_week_in_scala_dec_4_2023/)
+- [http4s cats effect app structure](https://www.reddit.com/r/scala/comments/189otbw/http4s_cats_effect_app_structure/)
 - [Could you give some snippets of syntax incorrect programs when compiler refers to line without any error?](https://www.reddit.com/r/scala/comments/1895imc/could_you_give_some_snippets_of_syntax_incorrect/)
 - [Kyo released at Functional Scala! 🚀](https://www.reddit.com/r/scala/comments/188qacv/kyo_released_at_functional_scala/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/188grco/who_is_hiring_monthly_rscala_job_postings_thread/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Functional World #10 | Full-Stack ZIO by Daniel Ciocirlan](https://www.reddit.com/r/scala/comments/188a5ju/functional_world_10_fullstack_zio_by_daniel/)
 - [Scala Center Advent of Code 2023](https://www.reddit.com/r/scala/comments/1888n5c/scala_center_advent_of_code_2023/)
 - [How to change the \t space?](https://www.reddit.com/r/scala/comments/1887l4v/how_to_change_the_t_space/)
-- [F-bounded polymorphism article](https://www.reddit.com/r/scala/comments/1887663/fbounded_polymorphism_article/)
-- [Scala - The State of Developer Ecosystem in 2023 Infographic](https://www.reddit.com/r/scala/comments/1886fl6/scala_the_state_of_developer_ecosystem_in_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

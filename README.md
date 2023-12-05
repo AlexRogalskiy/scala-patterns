@@ -271,9 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why would users avoid a library that makes heavy use of macros in Scala 3?](https://www.reddit.com/r/scala/comments/18aadkw/why_would_users_avoid_a_library_that_makes_heavy/)
 - [This week in #Scala &lpar;Dec 4, 2023&rpar;](https://www.reddit.com/r/scala/comments/189xqzf/this_week_in_scala_dec_4_2023/)
 - [http4s cats effect app structure](https://www.reddit.com/r/scala/comments/189otbw/http4s_cats_effect_app_structure/)
-- [Could you give some snippets of syntax incorrect programs when compiler refers to line without any error?](https://www.reddit.com/r/scala/comments/1895imc/could_you_give_some_snippets_of_syntax_incorrect/)
 - [Kyo released at Functional Scala! 🚀](https://www.reddit.com/r/scala/comments/188qacv/kyo_released_at_functional_scala/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/188grco/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Blazing Fast Native JVM Serialization: Putting Fury JIT and GraalVM Native Image AOT together](https://www.reddit.com/r/scala/comments/188gpgz/blazing_fast_native_jvm_serialization_putting/)

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Q: Scala-based app to access ChatGPT-3 ?](https://www.reddit.com/r/scala/comments/18bmx9l/q_scalabased_app_to_access_chatgpt3/)
+- [ZIO full-stack course from Rock the JVM](https://www.reddit.com/r/scala/comments/18biqgz/zio_fullstack_course_from_rock_the_jvm/)
 - [Why would users avoid a library that makes heavy use of macros in Scala 3?](https://www.reddit.com/r/scala/comments/18aadkw/why_would_users_avoid_a_library_that_makes_heavy/)
 - [This week in #Scala &lpar;Dec 4, 2023&rpar;](https://www.reddit.com/r/scala/comments/189xqzf/this_week_in_scala_dec_4_2023/)
 - [http4s cats effect app structure](https://www.reddit.com/r/scala/comments/189otbw/http4s_cats_effect_app_structure/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Blazing Fast Native JVM Serialization: Putting Fury JIT and GraalVM Native Image AOT together](https://www.reddit.com/r/scala/comments/188gpgz/blazing_fast_native_jvm_serialization_putting/)
 - [Considering Learning Scala: What Are the Pros and Cons?](https://www.reddit.com/r/scala/comments/188ghpg/considering_learning_scala_what_are_the_pros_and/)
 - [Functional World #10 | Full-Stack ZIO by Daniel Ciocirlan](https://www.reddit.com/r/scala/comments/188a5ju/functional_world_10_fullstack_zio_by_daniel/)
-- [Scala Center Advent of Code 2023](https://www.reddit.com/r/scala/comments/1888n5c/scala_center_advent_of_code_2023/)
-- [How to change the \t space?](https://www.reddit.com/r/scala/comments/1887l4v/how_to_change_the_t_space/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

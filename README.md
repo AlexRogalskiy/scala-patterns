@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Trouble with sbt-native-packager](https://www.reddit.com/r/scala/comments/18chgr5/trouble_with_sbtnativepackager/)
+- [Getting time out in scala sttp async client](https://www.reddit.com/r/scala/comments/18cav1b/getting_time_out_in_scala_sttp_async_client/)
+- [Scalar 2024: March 21-22 in Warsaw, Call for Papers open!](https://www.reddit.com/r/scala/comments/18c58en/scalar_2024_march_2122_in_warsaw_call_for_papers/)
 - [Q: Scala-based app to access ChatGPT-3 ?](https://www.reddit.com/r/scala/comments/18bmx9l/q_scalabased_app_to_access_chatgpt3/)
 - [ZIO full-stack course from Rock the JVM](https://www.reddit.com/r/scala/comments/18biqgz/zio_fullstack_course_from_rock_the_jvm/)
 - [Why would users avoid a library that makes heavy use of macros in Scala 3?](https://www.reddit.com/r/scala/comments/18aadkw/why_would_users_avoid_a_library_that_makes_heavy/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [http4s cats effect app structure](https://www.reddit.com/r/scala/comments/189otbw/http4s_cats_effect_app_structure/)
 - [Kyo released at Functional Scala! 🚀](https://www.reddit.com/r/scala/comments/188qacv/kyo_released_at_functional_scala/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/188grco/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [Blazing Fast Native JVM Serialization: Putting Fury JIT and GraalVM Native Image AOT together](https://www.reddit.com/r/scala/comments/188gpgz/blazing_fast_native_jvm_serialization_putting/)
-- [Considering Learning Scala: What Are the Pros and Cons?](https://www.reddit.com/r/scala/comments/188ghpg/considering_learning_scala_what_are_the_pros_and/)
-- [Functional World #10 | Full-Stack ZIO by Daniel Ciocirlan](https://www.reddit.com/r/scala/comments/188a5ju/functional_world_10_fullstack_zio_by_daniel/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

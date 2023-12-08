@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Mill project structure](https://www.reddit.com/r/scala/comments/18db51p/mill_project_structure/)
+- [Is akka still worth learning to be employable?](https://www.reddit.com/r/scala/comments/18csgpt/is_akka_still_worth_learning_to_be_employable/)
+- [opengraph4s, small library for fetching open-graph tags](https://www.reddit.com/r/scala/comments/18crnxy/opengraph4s_small_library_for_fetching_opengraph/)
 - [Trouble with sbt-native-packager](https://www.reddit.com/r/scala/comments/18chgr5/trouble_with_sbtnativepackager/)
 - [Getting time out in scala sttp async client](https://www.reddit.com/r/scala/comments/18cav1b/getting_time_out_in_scala_sttp_async_client/)
 - [Scalar 2024: March 21-22 in Warsaw, Call for Papers open!](https://www.reddit.com/r/scala/comments/18c58en/scalar_2024_march_2122_in_warsaw_call_for_papers/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ZIO full-stack course from Rock the JVM](https://www.reddit.com/r/scala/comments/18biqgz/zio_fullstack_course_from_rock_the_jvm/)
 - [Why would users avoid a library that makes heavy use of macros in Scala 3?](https://www.reddit.com/r/scala/comments/18aadkw/why_would_users_avoid_a_library_that_makes_heavy/)
 - [This week in #Scala &lpar;Dec 4, 2023&rpar;](https://www.reddit.com/r/scala/comments/189xqzf/this_week_in_scala_dec_4_2023/)
-- [http4s cats effect app structure](https://www.reddit.com/r/scala/comments/189otbw/http4s_cats_effect_app_structure/)
-- [Kyo released at Functional Scala! 🚀](https://www.reddit.com/r/scala/comments/188qacv/kyo_released_at_functional_scala/)
-- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/188grco/who_is_hiring_monthly_rscala_job_postings_thread/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

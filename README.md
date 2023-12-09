@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Monad Conversation with ChatGPT](https://www.reddit.com/r/scala/comments/18e2kjj/monad_conversation_with_chatgpt/)
+- [IntelliJ IDEA Scala Plugin 2023.3 is out!](https://www.reddit.com/r/scala/comments/18dnkm0/intellij_idea_scala_plugin_20233_is_out/)
 - [Mill project structure](https://www.reddit.com/r/scala/comments/18db51p/mill_project_structure/)
 - [Is akka still worth learning to be employable?](https://www.reddit.com/r/scala/comments/18csgpt/is_akka_still_worth_learning_to_be_employable/)
 - [opengraph4s, small library for fetching open-graph tags](https://www.reddit.com/r/scala/comments/18crnxy/opengraph4s_small_library_for_fetching_opengraph/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scalar 2024: March 21-22 in Warsaw, Call for Papers open!](https://www.reddit.com/r/scala/comments/18c58en/scalar_2024_march_2122_in_warsaw_call_for_papers/)
 - [Q: Scala-based app to access ChatGPT-3 ?](https://www.reddit.com/r/scala/comments/18bmx9l/q_scalabased_app_to_access_chatgpt3/)
 - [ZIO full-stack course from Rock the JVM](https://www.reddit.com/r/scala/comments/18biqgz/zio_fullstack_course_from_rock_the_jvm/)
-- [Why would users avoid a library that makes heavy use of macros in Scala 3?](https://www.reddit.com/r/scala/comments/18aadkw/why_would_users_avoid_a_library_that_makes_heavy/)
-- [This week in #Scala &lpar;Dec 4, 2023&rpar;](https://www.reddit.com/r/scala/comments/189xqzf/this_week_in_scala_dec_4_2023/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Want to share my journey from Scala 2 to Scala 3 and discuss migration to Scala 3](https://www.reddit.com/r/scala/comments/18ek8vb/want_to_share_my_journey_from_scala_2_to_scala_3/)
+- [Happy Path Podcast: Algebraic Effects with Kyo](https://www.reddit.com/r/scala/comments/18ei7f3/happy_path_podcast_algebraic_effects_with_kyo/)
 - [Monad Conversation with ChatGPT](https://www.reddit.com/r/scala/comments/18e2kjj/monad_conversation_with_chatgpt/)
 - [IntelliJ IDEA Scala Plugin 2023.3 is out!](https://www.reddit.com/r/scala/comments/18dnkm0/intellij_idea_scala_plugin_20233_is_out/)
 - [Mill project structure](https://www.reddit.com/r/scala/comments/18db51p/mill_project_structure/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Trouble with sbt-native-packager](https://www.reddit.com/r/scala/comments/18chgr5/trouble_with_sbtnativepackager/)
 - [Getting time out in scala sttp async client](https://www.reddit.com/r/scala/comments/18cav1b/getting_time_out_in_scala_sttp_async_client/)
 - [Scalar 2024: March 21-22 in Warsaw, Call for Papers open!](https://www.reddit.com/r/scala/comments/18c58en/scalar_2024_march_2122_in_warsaw_call_for_papers/)
-- [Q: Scala-based app to access ChatGPT-3 ?](https://www.reddit.com/r/scala/comments/18bmx9l/q_scalabased_app_to_access_chatgpt3/)
-- [ZIO full-stack course from Rock the JVM](https://www.reddit.com/r/scala/comments/18biqgz/zio_fullstack_course_from_rock_the_jvm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

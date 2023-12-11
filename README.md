@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Where can I find a Typelevel code example?](https://www.reddit.com/r/scala/comments/18fj1qs/where_can_i_find_a_typelevel_code_example/)
+- [This week in #Scala &lpar;Dec 11, 2023&rpar;](https://www.reddit.com/r/scala/comments/18f5lqr/this_week_in_scala_dec_11_2023/)
 - [Want to share my journey from Scala 2 to Scala 3 and discuss migration to Scala 3](https://www.reddit.com/r/scala/comments/18ek8vb/want_to_share_my_journey_from_scala_2_to_scala_3/)
 - [Happy Path Podcast: Algebraic Effects with Kyo](https://www.reddit.com/r/scala/comments/18ei7f3/happy_path_podcast_algebraic_effects_with_kyo/)
 - [Monad Conversation with ChatGPT](https://www.reddit.com/r/scala/comments/18e2kjj/monad_conversation_with_chatgpt/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Is akka still worth learning to be employable?](https://www.reddit.com/r/scala/comments/18csgpt/is_akka_still_worth_learning_to_be_employable/)
 - [opengraph4s, small library for fetching open-graph tags](https://www.reddit.com/r/scala/comments/18crnxy/opengraph4s_small_library_for_fetching_opengraph/)
 - [Trouble with sbt-native-packager](https://www.reddit.com/r/scala/comments/18chgr5/trouble_with_sbtnativepackager/)
-- [Getting time out in scala sttp async client](https://www.reddit.com/r/scala/comments/18cav1b/getting_time_out_in_scala_sttp_async_client/)
-- [Scalar 2024: March 21-22 in Warsaw, Call for Papers open!](https://www.reddit.com/r/scala/comments/18c58en/scalar_2024_march_2122_in_warsaw_call_for_papers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

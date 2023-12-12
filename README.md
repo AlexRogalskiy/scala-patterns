@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Make Emacs help in creating an example of Scala classes](https://www.reddit.com/r/scala/comments/18g7s18/make_emacs_help_in_creating_an_example_of_scala/)
 - [Where can I find a Typelevel code example?](https://www.reddit.com/r/scala/comments/18fj1qs/where_can_i_find_a_typelevel_code_example/)
 - [This week in #Scala &lpar;Dec 11, 2023&rpar;](https://www.reddit.com/r/scala/comments/18f5lqr/this_week_in_scala_dec_11_2023/)
 - [Want to share my journey from Scala 2 to Scala 3 and discuss migration to Scala 3](https://www.reddit.com/r/scala/comments/18ek8vb/want_to_share_my_journey_from_scala_2_to_scala_3/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Mill project structure](https://www.reddit.com/r/scala/comments/18db51p/mill_project_structure/)
 - [Is akka still worth learning to be employable?](https://www.reddit.com/r/scala/comments/18csgpt/is_akka_still_worth_learning_to_be_employable/)
 - [opengraph4s, small library for fetching open-graph tags](https://www.reddit.com/r/scala/comments/18crnxy/opengraph4s_small_library_for_fetching_opengraph/)
-- [Trouble with sbt-native-packager](https://www.reddit.com/r/scala/comments/18chgr5/trouble_with_sbtnativepackager/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Make Emacs help in creating an example of Scala classes](https://www.reddit.com/r/scala/comments/18g7s18/make_emacs_help_in_creating_an_example_of_scala/)
-- [Where can I find a Typelevel code example?](https://www.reddit.com/r/scala/comments/18fj1qs/where_can_i_find_a_typelevel_code_example/)
-- [This week in #Scala &lpar;Dec 11, 2023&rpar;](https://www.reddit.com/r/scala/comments/18f5lqr/this_week_in_scala_dec_11_2023/)
-- [Want to share my journey from Scala 2 to Scala 3 and discuss migration to Scala 3](https://www.reddit.com/r/scala/comments/18ek8vb/want_to_share_my_journey_from_scala_2_to_scala_3/)
-- [Happy Path Podcast: Algebraic Effects with Kyo](https://www.reddit.com/r/scala/comments/18ei7f3/happy_path_podcast_algebraic_effects_with_kyo/)
-- [Monad Conversation with ChatGPT](https://www.reddit.com/r/scala/comments/18e2kjj/monad_conversation_with_chatgpt/)
-- [IntelliJ IDEA Scala Plugin 2023.3 is out!](https://www.reddit.com/r/scala/comments/18dnkm0/intellij_idea_scala_plugin_20233_is_out/)
-- [Mill project structure](https://www.reddit.com/r/scala/comments/18db51p/mill_project_structure/)
-- [Is akka still worth learning to be employable?](https://www.reddit.com/r/scala/comments/18csgpt/is_akka_still_worth_learning_to_be_employable/)
-- [opengraph4s, small library for fetching open-graph tags](https://www.reddit.com/r/scala/comments/18crnxy/opengraph4s_small_library_for_fetching_opengraph/)
+- [I&#39;ve made a Quarkus Scala 3 quickstart application based on Greet sample](https://www.reddit.com/r/scala/comments/18nrq9g/ive_made_a_quarkus_scala_3_quickstart_application/)
+- [The X-Ray editor mode &lpar;IntelliJ Scala Plugin&rpar;](https://www.reddit.com/r/scala/comments/18no8z9/the_xray_editor_mode_intellij_scala_plugin/)
+- [Seriously: What is the best explanation of Monads for people who can&#39;t grasp it?](https://www.reddit.com/r/scala/comments/18njy4v/seriously_what_is_the_best_explanation_of_monads/)
+- [FP Beginner question: is type class a functional programming paradigm, per se?](https://www.reddit.com/r/scala/comments/18njrp6/fp_beginner_question_is_type_class_a_functional/)
+- [Scala Job with lots of parameters](https://www.reddit.com/r/scala/comments/18mtubz/scala_job_with_lots_of_parameters/)
+- [IntelliJ Scala Help pages got an update](https://www.reddit.com/r/scala/comments/18msyb1/intellij_scala_help_pages_got_an_update/)
+- [Method signature for testing Monad laws](https://www.reddit.com/r/scala/comments/18ml18s/method_signature_for_testing_monad_laws/)
+- [How to learn scala from ground up?](https://www.reddit.com/r/scala/comments/18mjvza/how_to_learn_scala_from_ground_up/)
+- [Is Data Engineer to Scala Engineer a worthwhile transition?](https://www.reddit.com/r/scala/comments/18m6sr6/is_data_engineer_to_scala_engineer_a_worthwhile/)
+- [Does anyone know why the indentation breaks when I write scala pattern matching in Neovim?](https://www.reddit.com/r/scala/comments/18m3upf/does_anyone_know_why_the_indentation_breaks_when/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

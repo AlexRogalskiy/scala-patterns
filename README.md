@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ScalaMatsuri 2024 is coming / Submit your talks!](https://www.reddit.com/r/scala/comments/18rbe71/scalamatsuri_2024_is_coming_submit_your_talks/)
+- [This week in #Scala &lpar;Dec 25, 2023&rpar;](https://www.reddit.com/r/scala/comments/18r8v9h/this_week_in_scala_dec_25_2023/)
+- [What Can Scala Learn from Rust? by John A. De Goes](https://www.reddit.com/r/scala/comments/18r74o0/what_can_scala_learn_from_rust_by_john_a_de_goes/)
+- [Need help connecting to google cloud sql &lpar;Mysql&rpar;](https://www.reddit.com/r/scala/comments/18r30qq/need_help_connecting_to_google_cloud_sql_mysql/)
 - [Spark NLP 5.2.0: Introducing a Zero-Shot Image Classification by CLIP, ONNX support for T5, Marian, and CamemBERT, a new Text Splitter annotator, Over 8000 state-of-the-art Transformer Models in ONNX, bug fixes, and more!](https://www.reddit.com/r/scala/comments/18of9ry/spark_nlp_520_introducing_a_zeroshot_image/)
 - [Spark NLP 5.2.0: Introducing a Zero-Shot Image Classification by CLIP, ONNX support for T5, Marian, and CamemBERT, a new Text Splitter annotator, Over 8000 state-of-the-art Transformer Models in ONNX, bug fixes, and more!](https://www.reddit.com/r/scala/comments/18of9ln/spark_nlp_520_introducing_a_zeroshot_image/)
 - [Just sharing some happy dev experience with http4s, ZIO and caliban](https://www.reddit.com/r/scala/comments/18oelnv/just_sharing_some_happy_dev_experience_with/)
 - [Experience developing in Scala](https://www.reddit.com/r/scala/comments/18oaac5/experience_developing_in_scala/)
 - [The debatably Free monad](https://www.reddit.com/r/scala/comments/18o75tf/the_debatably_free_monad/)
 - [Only understood monads and type classes. Can I jump to cats effect or zio right away?](https://www.reddit.com/r/scala/comments/18o6q7g/only_understood_monads_and_type_classes_can_i/)
-- [I&#39;ve made a Quarkus Scala 3 quickstart application based on Greet sample](https://www.reddit.com/r/scala/comments/18nrq9g/ive_made_a_quarkus_scala_3_quickstart_application/)
-- [The X-Ray editor mode &lpar;IntelliJ Scala Plugin&rpar;](https://www.reddit.com/r/scala/comments/18no8z9/the_xray_editor_mode_intellij_scala_plugin/)
-- [Seriously: What is the best explanation of Monads for people who can&#39;t grasp it?](https://www.reddit.com/r/scala/comments/18njy4v/seriously_what_is_the_best_explanation_of_monads/)
-- [FP Beginner question: is type class a functional programming paradigm, per se?](https://www.reddit.com/r/scala/comments/18njrp6/fp_beginner_question_is_type_class_a_functional/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

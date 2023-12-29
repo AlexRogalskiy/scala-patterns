@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala global job opportunities](https://www.reddit.com/r/scala/comments/18tam5h/scala_global_job_opportunities/)
+- [Sharaf, minimalistic Scala 3 web framework](https://www.reddit.com/r/scala/comments/18t3jxg/sharaf_minimalistic_scala_3_web_framework/)
 - [ScalaMatsuri 2024 is coming / Submit your talks!](https://www.reddit.com/r/scala/comments/18rbe71/scalamatsuri_2024_is_coming_submit_your_talks/)
 - [This week in #Scala &lpar;Dec 25, 2023&rpar;](https://www.reddit.com/r/scala/comments/18r8v9h/this_week_in_scala_dec_25_2023/)
 - [What Can Scala Learn from Rust? by John A. De Goes](https://www.reddit.com/r/scala/comments/18r74o0/what_can_scala_learn_from_rust_by_john_a_de_goes/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Spark NLP 5.2.0: Introducing a Zero-Shot Image Classification by CLIP, ONNX support for T5, Marian, and CamemBERT, a new Text Splitter annotator, Over 8000 state-of-the-art Transformer Models in ONNX, bug fixes, and more!](https://www.reddit.com/r/scala/comments/18of9ln/spark_nlp_520_introducing_a_zeroshot_image/)
 - [Just sharing some happy dev experience with http4s, ZIO and caliban](https://www.reddit.com/r/scala/comments/18oelnv/just_sharing_some_happy_dev_experience_with/)
 - [Experience developing in Scala](https://www.reddit.com/r/scala/comments/18oaac5/experience_developing_in_scala/)
-- [The debatably Free monad](https://www.reddit.com/r/scala/comments/18o75tf/the_debatably_free_monad/)
-- [Only understood monads and type classes. Can I jump to cats effect or zio right away?](https://www.reddit.com/r/scala/comments/18o6q7g/only_understood_monads_and_type_classes_can_i/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

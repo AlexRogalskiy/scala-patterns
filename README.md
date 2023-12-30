@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 2 Macro Tutorial](https://www.reddit.com/r/scala/comments/18tw7qa/scala_2_macro_tutorial/)
+- [Apache Pekko Persistence R2DBC has been released](https://www.reddit.com/r/scala/comments/18te71u/apache_pekko_persistence_r2dbc_has_been_released/)
 - [Scala global job opportunities](https://www.reddit.com/r/scala/comments/18tam5h/scala_global_job_opportunities/)
 - [Sharaf, minimalistic Scala 3 web framework](https://www.reddit.com/r/scala/comments/18t3jxg/sharaf_minimalistic_scala_3_web_framework/)
 - [ScalaMatsuri 2024 is coming / Submit your talks!](https://www.reddit.com/r/scala/comments/18rbe71/scalamatsuri_2024_is_coming_submit_your_talks/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Need help connecting to google cloud sql &lpar;Mysql&rpar;](https://www.reddit.com/r/scala/comments/18r30qq/need_help_connecting_to_google_cloud_sql_mysql/)
 - [Spark NLP 5.2.0: Introducing a Zero-Shot Image Classification by CLIP, ONNX support for T5, Marian, and CamemBERT, a new Text Splitter annotator, Over 8000 state-of-the-art Transformer Models in ONNX, bug fixes, and more!](https://www.reddit.com/r/scala/comments/18of9ry/spark_nlp_520_introducing_a_zeroshot_image/)
 - [Spark NLP 5.2.0: Introducing a Zero-Shot Image Classification by CLIP, ONNX support for T5, Marian, and CamemBERT, a new Text Splitter annotator, Over 8000 state-of-the-art Transformer Models in ONNX, bug fixes, and more!](https://www.reddit.com/r/scala/comments/18of9ln/spark_nlp_520_introducing_a_zeroshot_image/)
-- [Just sharing some happy dev experience with http4s, ZIO and caliban](https://www.reddit.com/r/scala/comments/18oelnv/just_sharing_some_happy_dev_experience_with/)
-- [Experience developing in Scala](https://www.reddit.com/r/scala/comments/18oaac5/experience_developing_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

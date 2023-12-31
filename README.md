@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Iron v2.4.0 is out!](https://www.reddit.com/r/scala/comments/18uczpd/iron_v240_is_out/)
+- [what does scala job market looks like going into 2024?](https://www.reddit.com/r/scala/comments/18u67vg/what_does_scala_job_market_looks_like_going_into/)
+- [A Beginner&#39;s Guide to GraphQL in Scala](https://www.reddit.com/r/scala/comments/18u5fhv/a_beginners_guide_to_graphql_in_scala/)
 - [Scala 2 Macro Tutorial](https://www.reddit.com/r/scala/comments/18tw7qa/scala_2_macro_tutorial/)
 - [Apache Pekko Persistence R2DBC has been released](https://www.reddit.com/r/scala/comments/18te71u/apache_pekko_persistence_r2dbc_has_been_released/)
 - [Scala global job opportunities](https://www.reddit.com/r/scala/comments/18tam5h/scala_global_job_opportunities/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ScalaMatsuri 2024 is coming / Submit your talks!](https://www.reddit.com/r/scala/comments/18rbe71/scalamatsuri_2024_is_coming_submit_your_talks/)
 - [This week in #Scala &lpar;Dec 25, 2023&rpar;](https://www.reddit.com/r/scala/comments/18r8v9h/this_week_in_scala_dec_25_2023/)
 - [What Can Scala Learn from Rust? by John A. De Goes](https://www.reddit.com/r/scala/comments/18r74o0/what_can_scala_learn_from_rust_by_john_a_de_goes/)
-- [Need help connecting to google cloud sql &lpar;Mysql&rpar;](https://www.reddit.com/r/scala/comments/18r30qq/need_help_connecting_to_google_cloud_sql_mysql/)
-- [Spark NLP 5.2.0: Introducing a Zero-Shot Image Classification by CLIP, ONNX support for T5, Marian, and CamemBERT, a new Text Splitter annotator, Over 8000 state-of-the-art Transformer Models in ONNX, bug fixes, and more!](https://www.reddit.com/r/scala/comments/18of9ry/spark_nlp_520_introducing_a_zeroshot_image/)
-- [Spark NLP 5.2.0: Introducing a Zero-Shot Image Classification by CLIP, ONNX support for T5, Marian, and CamemBERT, a new Text Splitter annotator, Over 8000 state-of-the-art Transformer Models in ONNX, bug fixes, and more!](https://www.reddit.com/r/scala/comments/18of9ln/spark_nlp_520_introducing_a_zeroshot_image/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

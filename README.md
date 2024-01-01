@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ScalaSql: query SQL databases via concise, type-safe, and familiar case classes and collection operations](https://www.reddit.com/r/scala/comments/18vmfsd/scalasql_query_sql_databases_via_concise_typesafe/)
+- [Backend with FP + side effects](https://www.reddit.com/r/scala/comments/18veenl/backend_with_fp_side_effects/)
+- [This week in #Scala &lpar;Jan 1, 2024&rpar;](https://www.reddit.com/r/scala/comments/18vamgx/this_week_in_scala_jan_1_2024/)
 - [Iron v2.4.0 is out!](https://www.reddit.com/r/scala/comments/18uczpd/iron_v240_is_out/)
 - [what does scala job market looks like going into 2024?](https://www.reddit.com/r/scala/comments/18u67vg/what_does_scala_job_market_looks_like_going_into/)
 - [A Beginner&#39;s Guide to GraphQL in Scala](https://www.reddit.com/r/scala/comments/18u5fhv/a_beginners_guide_to_graphql_in_scala/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Apache Pekko Persistence R2DBC has been released](https://www.reddit.com/r/scala/comments/18te71u/apache_pekko_persistence_r2dbc_has_been_released/)
 - [Scala global job opportunities](https://www.reddit.com/r/scala/comments/18tam5h/scala_global_job_opportunities/)
 - [Sharaf, minimalistic Scala 3 web framework](https://www.reddit.com/r/scala/comments/18t3jxg/sharaf_minimalistic_scala_3_web_framework/)
-- [ScalaMatsuri 2024 is coming / Submit your talks!](https://www.reddit.com/r/scala/comments/18rbe71/scalamatsuri_2024_is_coming_submit_your_talks/)
-- [This week in #Scala &lpar;Dec 25, 2023&rpar;](https://www.reddit.com/r/scala/comments/18r8v9h/this_week_in_scala_dec_25_2023/)
-- [What Can Scala Learn from Rust? by John A. De Goes](https://www.reddit.com/r/scala/comments/18r74o0/what_can_scala_learn_from_rust_by_john_a_de_goes/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

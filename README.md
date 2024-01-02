@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/18w0y1b/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [Advancing Scala knowledge](https://www.reddit.com/r/scala/comments/18vtsfh/advancing_scala_knowledge/)
 - [ScalaSql: query SQL databases via concise, type-safe, and familiar case classes and collection operations](https://www.reddit.com/r/scala/comments/18vmfsd/scalasql_query_sql_databases_via_concise_typesafe/)
 - [Backend with FP + side effects](https://www.reddit.com/r/scala/comments/18veenl/backend_with_fp_side_effects/)
 - [This week in #Scala &lpar;Jan 1, 2024&rpar;](https://www.reddit.com/r/scala/comments/18vamgx/this_week_in_scala_jan_1_2024/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [A Beginner&#39;s Guide to GraphQL in Scala](https://www.reddit.com/r/scala/comments/18u5fhv/a_beginners_guide_to_graphql_in_scala/)
 - [Scala 2 Macro Tutorial](https://www.reddit.com/r/scala/comments/18tw7qa/scala_2_macro_tutorial/)
 - [Apache Pekko Persistence R2DBC has been released](https://www.reddit.com/r/scala/comments/18te71u/apache_pekko_persistence_r2dbc_has_been_released/)
-- [Scala global job opportunities](https://www.reddit.com/r/scala/comments/18tam5h/scala_global_job_opportunities/)
-- [Sharaf, minimalistic Scala 3 web framework](https://www.reddit.com/r/scala/comments/18t3jxg/sharaf_minimalistic_scala_3_web_framework/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

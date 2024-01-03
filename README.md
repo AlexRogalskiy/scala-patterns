@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3 - view macro expansions](https://www.reddit.com/r/scala/comments/18wwi5u/scala_3_view_macro_expansions/)
+- [Chimney 0.8.5 release and the announcement regarding plans for 1.0.0](https://www.reddit.com/r/scala/comments/18wqeco/chimney_085_release_and_the_announcement/)
+- [What are Effect System and Why Do We care? [Blog post]](https://www.reddit.com/r/scala/comments/18wq4d3/what_are_effect_system_and_why_do_we_care_blog/)
+- [Scalendar January 2024](https://www.reddit.com/r/scala/comments/18wpq78/scalendar_january_2024/)
+- [Google Summer of Code 2023 Report](https://www.reddit.com/r/scala/comments/18wmzbh/google_summer_of_code_2023_report/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/18w0y1b/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Advancing Scala knowledge](https://www.reddit.com/r/scala/comments/18vtsfh/advancing_scala_knowledge/)
 - [ScalaSql: query SQL databases via concise, type-safe, and familiar case classes and collection operations](https://www.reddit.com/r/scala/comments/18vmfsd/scalasql_query_sql_databases_via_concise_typesafe/)
 - [Backend with FP + side effects](https://www.reddit.com/r/scala/comments/18veenl/backend_with_fp_side_effects/)
 - [This week in #Scala &lpar;Jan 1, 2024&rpar;](https://www.reddit.com/r/scala/comments/18vamgx/this_week_in_scala_jan_1_2024/)
-- [Iron v2.4.0 is out!](https://www.reddit.com/r/scala/comments/18uczpd/iron_v240_is_out/)
-- [what does scala job market looks like going into 2024?](https://www.reddit.com/r/scala/comments/18u67vg/what_does_scala_job_market_looks_like_going_into/)
-- [A Beginner&#39;s Guide to GraphQL in Scala](https://www.reddit.com/r/scala/comments/18u5fhv/a_beginners_guide_to_graphql_in_scala/)
-- [Scala 2 Macro Tutorial](https://www.reddit.com/r/scala/comments/18tw7qa/scala_2_macro_tutorial/)
-- [Apache Pekko Persistence R2DBC has been released](https://www.reddit.com/r/scala/comments/18te71u/apache_pekko_persistence_r2dbc_has_been_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

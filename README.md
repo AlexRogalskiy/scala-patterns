@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala with Cats - Why?](https://www.reddit.com/r/scala/comments/18xkyyc/scala_with_cats_why/)
+- [Integration testing with Weaver and Localstack](https://www.reddit.com/r/scala/comments/18xgiim/integration_testing_with_weaver_and_localstack/)
 - [Scala 3 - view macro expansions](https://www.reddit.com/r/scala/comments/18wwi5u/scala_3_view_macro_expansions/)
 - [Chimney 0.8.5 release and the announcement regarding plans for 1.0.0](https://www.reddit.com/r/scala/comments/18wqeco/chimney_085_release_and_the_announcement/)
 - [What are Effect System and Why Do We care? [Blog post]](https://www.reddit.com/r/scala/comments/18wq4d3/what_are_effect_system_and_why_do_we_care_blog/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/18w0y1b/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Advancing Scala knowledge](https://www.reddit.com/r/scala/comments/18vtsfh/advancing_scala_knowledge/)
 - [ScalaSql: query SQL databases via concise, type-safe, and familiar case classes and collection operations](https://www.reddit.com/r/scala/comments/18vmfsd/scalasql_query_sql_databases_via_concise_typesafe/)
-- [Backend with FP + side effects](https://www.reddit.com/r/scala/comments/18veenl/backend_with_fp_side_effects/)
-- [This week in #Scala &lpar;Jan 1, 2024&rpar;](https://www.reddit.com/r/scala/comments/18vamgx/this_week_in_scala_jan_1_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

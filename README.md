@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Writing Modular Applications Using The Kyo Library](https://www.reddit.com/r/scala/comments/18yqw7k/writing_modular_applications_using_the_kyo_library/)
+- [The State of IntelliJ Scala Plugin](https://www.reddit.com/r/scala/comments/18yjn8l/the_state_of_intellij_scala_plugin/)
 - [Scala with Cats - Why?](https://www.reddit.com/r/scala/comments/18xkyyc/scala_with_cats_why/)
 - [Integration testing with Weaver and Localstack](https://www.reddit.com/r/scala/comments/18xgiim/integration_testing_with_weaver_and_localstack/)
 - [Scala 3 - view macro expansions](https://www.reddit.com/r/scala/comments/18wwi5u/scala_3_view_macro_expansions/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scalendar January 2024](https://www.reddit.com/r/scala/comments/18wpq78/scalendar_january_2024/)
 - [Google Summer of Code 2023 Report](https://www.reddit.com/r/scala/comments/18wmzbh/google_summer_of_code_2023_report/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/18w0y1b/who_is_hiring_monthly_rscala_job_postings_thread/)
-- [Advancing Scala knowledge](https://www.reddit.com/r/scala/comments/18vtsfh/advancing_scala_knowledge/)
-- [ScalaSql: query SQL databases via concise, type-safe, and familiar case classes and collection operations](https://www.reddit.com/r/scala/comments/18vmfsd/scalasql_query_sql_databases_via_concise_typesafe/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

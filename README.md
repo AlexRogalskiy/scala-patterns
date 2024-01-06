@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Project manager going into Scala](https://www.reddit.com/r/scala/comments/18zhuno/project_manager_going_into_scala/)
+- [Publish to GitHub packages using mill?](https://www.reddit.com/r/scala/comments/18zhfpq/publish_to_github_packages_using_mill/)
+- [How to make Scala community more inclusive ?](https://www.reddit.com/r/scala/comments/18z65cy/how_to_make_scala_community_more_inclusive/)
+- [TIL: In 1989, Martin Odersky received his Ph.D. from ETH Zurich under the supervision of Niklaus Wirth, who is best known as the designer of several programming languages, including Pascal.](https://www.reddit.com/r/scala/comments/18z5t5p/til_in_1989_martin_odersky_received_his_phd_from/)
+- [How to learn scala in 21 days?](https://www.reddit.com/r/scala/comments/18z166n/how_to_learn_scala_in_21_days/)
 - [Writing Modular Applications Using The Kyo Library](https://www.reddit.com/r/scala/comments/18yqw7k/writing_modular_applications_using_the_kyo_library/)
 - [The State of IntelliJ Scala Plugin](https://www.reddit.com/r/scala/comments/18yjn8l/the_state_of_intellij_scala_plugin/)
 - [Scala with Cats - Why?](https://www.reddit.com/r/scala/comments/18xkyyc/scala_with_cats_why/)
 - [Integration testing with Weaver and Localstack](https://www.reddit.com/r/scala/comments/18xgiim/integration_testing_with_weaver_and_localstack/)
 - [Scala 3 - view macro expansions](https://www.reddit.com/r/scala/comments/18wwi5u/scala_3_view_macro_expansions/)
-- [Chimney 0.8.5 release and the announcement regarding plans for 1.0.0](https://www.reddit.com/r/scala/comments/18wqeco/chimney_085_release_and_the_announcement/)
-- [What are Effect System and Why Do We care? [Blog post]](https://www.reddit.com/r/scala/comments/18wq4d3/what_are_effect_system_and_why_do_we_care_blog/)
-- [Scalendar January 2024](https://www.reddit.com/r/scala/comments/18wpq78/scalendar_january_2024/)
-- [Google Summer of Code 2023 Report](https://www.reddit.com/r/scala/comments/18wmzbh/google_summer_of_code_2023_report/)
-- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/18w0y1b/who_is_hiring_monthly_rscala_job_postings_thread/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

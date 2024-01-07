@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How is Scala used for business apps in aws.](https://www.reddit.com/r/scala/comments/190c87v/how_is_scala_used_for_business_apps_in_aws/)
+- [Kotlin from Scala perspective: Advent Of Code 2023](https://www.reddit.com/r/scala/comments/18zze28/kotlin_from_scala_perspective_advent_of_code_2023/)
 - [Project manager going into Scala](https://www.reddit.com/r/scala/comments/18zhuno/project_manager_going_into_scala/)
 - [Publish to GitHub packages using mill?](https://www.reddit.com/r/scala/comments/18zhfpq/publish_to_github_packages_using_mill/)
 - [How to make Scala community more inclusive ?](https://www.reddit.com/r/scala/comments/18z65cy/how_to_make_scala_community_more_inclusive/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Writing Modular Applications Using The Kyo Library](https://www.reddit.com/r/scala/comments/18yqw7k/writing_modular_applications_using_the_kyo_library/)
 - [The State of IntelliJ Scala Plugin](https://www.reddit.com/r/scala/comments/18yjn8l/the_state_of_intellij_scala_plugin/)
 - [Scala with Cats - Why?](https://www.reddit.com/r/scala/comments/18xkyyc/scala_with_cats_why/)
-- [Integration testing with Weaver and Localstack](https://www.reddit.com/r/scala/comments/18xgiim/integration_testing_with_weaver_and_localstack/)
-- [Scala 3 - view macro expansions](https://www.reddit.com/r/scala/comments/18wwi5u/scala_3_view_macro_expansions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

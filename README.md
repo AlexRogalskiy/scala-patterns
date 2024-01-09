@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What techstack did you have the best developer experience with?](https://www.reddit.com/r/scala/comments/1922oj9/what_techstack_did_you_have_the_best_developer/)
+- [New releases! Indigo 0.16.0, Tyrian 0.9.0, and more! 👾](https://www.reddit.com/r/scala/comments/191gq4d/new_releases_indigo_0160_tyrian_090_and_more/)
 - [This week in #Scala &lpar;Jan 8, 2024&rpar;](https://www.reddit.com/r/scala/comments/1911mv3/this_week_in_scala_jan_8_2024/)
 - [ISO Language and Country](https://www.reddit.com/r/scala/comments/190zjwi/iso_language_and_country/)
 - [IntelliJ Idea, Scala plugin on Macbook Pro 2019 Intel bad performance](https://www.reddit.com/r/scala/comments/190n7e5/intellij_idea_scala_plugin_on_macbook_pro_2019/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Project manager going into Scala](https://www.reddit.com/r/scala/comments/18zhuno/project_manager_going_into_scala/)
 - [Publish to GitHub packages using mill?](https://www.reddit.com/r/scala/comments/18zhfpq/publish_to_github_packages_using_mill/)
 - [How to make Scala community more inclusive ?](https://www.reddit.com/r/scala/comments/18z65cy/how_to_make_scala_community_more_inclusive/)
-- [TIL: In 1989, Martin Odersky received his Ph.D. from ETH Zurich under the supervision of Niklaus Wirth, who is best known as the designer of several programming languages, including Pascal.](https://www.reddit.com/r/scala/comments/18z5t5p/til_in_1989_martin_odersky_received_his_phd_from/)
-- [How to learn scala in 21 days?](https://www.reddit.com/r/scala/comments/18z166n/how_to_learn_scala_in_21_days/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Which Scala version would you use for a new project?](https://www.reddit.com/r/scala/comments/192izgl/which_scala_version_would_you_use_for_a_new/)
+- [What Is The Future Of Scala? Community Thoughts At Functional Scala 2023](https://www.reddit.com/r/scala/comments/192i0vc/what_is_the_future_of_scala_community_thoughts_at/)
 - [What techstack did you have the best developer experience with?](https://www.reddit.com/r/scala/comments/1922oj9/what_techstack_did_you_have_the_best_developer/)
 - [New releases! Indigo 0.16.0, Tyrian 0.9.0, and more! 👾](https://www.reddit.com/r/scala/comments/191gq4d/new_releases_indigo_0160_tyrian_090_and_more/)
 - [This week in #Scala &lpar;Jan 8, 2024&rpar;](https://www.reddit.com/r/scala/comments/1911mv3/this_week_in_scala_jan_8_2024/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How is Scala used for business apps in aws.](https://www.reddit.com/r/scala/comments/190c87v/how_is_scala_used_for_business_apps_in_aws/)
 - [Kotlin from Scala perspective: Advent Of Code 2023](https://www.reddit.com/r/scala/comments/18zze28/kotlin_from_scala_perspective_advent_of_code_2023/)
 - [Project manager going into Scala](https://www.reddit.com/r/scala/comments/18zhuno/project_manager_going_into_scala/)
-- [Publish to GitHub packages using mill?](https://www.reddit.com/r/scala/comments/18zhfpq/publish_to_github_packages_using_mill/)
-- [How to make Scala community more inclusive ?](https://www.reddit.com/r/scala/comments/18z65cy/how_to_make_scala_community_more_inclusive/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

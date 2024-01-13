@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Using Scala refined to check for divisibility between lists](https://www.reddit.com/r/scala/comments/1952ums/using_scala_refined_to_check_for_divisibility/)
+- [Impersonation with play framework and silhouette?](https://www.reddit.com/r/scala/comments/194ryhs/impersonation_with_play_framework_and_silhouette/)
 - [From Scala Backend to Data Engineer](https://www.reddit.com/r/scala/comments/1947rld/from_scala_backend_to_data_engineer/)
 - [Starting with ZIO Http, kind of confused about different versions ...](https://www.reddit.com/r/scala/comments/1944vrk/starting_with_zio_http_kind_of_confused_about/)
 - [Comparing lambdas in various languages](https://www.reddit.com/r/scala/comments/1944a00/comparing_lambdas_in_various_languages/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [I encountered an error related to SBT](https://www.reddit.com/r/scala/comments/193su3z/i_encountered_an_error_related_to_sbt/)
 - [Struggling to make Scala 3 opaque types work with Doobie](https://www.reddit.com/r/scala/comments/193ofex/struggling_to_make_scala_3_opaque_types_work_with/)
 - [Gradle changes to run Integration Tests](https://www.reddit.com/r/scala/comments/193gnd9/gradle_changes_to_run_integration_tests/)
-- [Scala integration testing](https://www.reddit.com/r/scala/comments/193edgm/scala_integration_testing/)
-- [Play 2.9.1 and 3.0.1 released](https://www.reddit.com/r/scala/comments/19356pq/play_291_and_301_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

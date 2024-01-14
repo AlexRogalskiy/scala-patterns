@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Survey: Why have you stopped using Scala or Are considering stopping soon?](https://www.reddit.com/r/scala/comments/195qk4u/survey_why_have_you_stopped_using_scala_or_are/)
+- [Easiest way to start a scala js project?](https://www.reddit.com/r/scala/comments/195o0u3/easiest_way_to_start_a_scala_js_project/)
+- [Proposed new syntax to support Type Classes, by Martin Odersky](https://www.reddit.com/r/scala/comments/195n4v8/proposed_new_syntax_to_support_type_classes_by/)
 - [Using Scala refined to check for divisibility between lists](https://www.reddit.com/r/scala/comments/1952ums/using_scala_refined_to_check_for_divisibility/)
 - [Impersonation with play framework and silhouette?](https://www.reddit.com/r/scala/comments/194ryhs/impersonation_with_play_framework_and_silhouette/)
 - [From Scala Backend to Data Engineer](https://www.reddit.com/r/scala/comments/1947rld/from_scala_backend_to_data_engineer/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Comparing lambdas in various languages](https://www.reddit.com/r/scala/comments/1944a00/comparing_lambdas_in_various_languages/)
 - [Scala&#39;s Future](https://www.reddit.com/r/scala/comments/193tuhb/scalas_future/)
 - [Update NextDNS with a Scala CLI script](https://www.reddit.com/r/scala/comments/193tu7l/update_nextdns_with_a_scala_cli_script/)
-- [I encountered an error related to SBT](https://www.reddit.com/r/scala/comments/193su3z/i_encountered_an_error_related_to_sbt/)
-- [Struggling to make Scala 3 opaque types work with Doobie](https://www.reddit.com/r/scala/comments/193ofex/struggling_to_make_scala_3_opaque_types_work_with/)
-- [Gradle changes to run Integration Tests](https://www.reddit.com/r/scala/comments/193gnd9/gradle_changes_to_run_integration_tests/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

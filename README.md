@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ScalaSql: a New SQL Database Query Library for the com-lihaoyi Scala Ecosystem](https://www.reddit.com/r/scala/comments/1974olb/scalasql_a_new_sql_database_query_library_for_the/)
 - [This week in #Scala &lpar;Jan 15, 2024&rpar;](https://www.reddit.com/r/scala/comments/196gyq3/this_week_in_scala_jan_15_2024/)
 - [#92 Virtual Threads Looming with Adam Warski by Happy Path Programming](https://www.reddit.com/r/scala/comments/196gr1c/92_virtual_threads_looming_with_adam_warski_by/)
 - [Survey: Why have you stopped using Scala or Are considering stopping soon?](https://www.reddit.com/r/scala/comments/195qk4u/survey_why_have_you_stopped_using_scala_or_are/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Impersonation with play framework and silhouette?](https://www.reddit.com/r/scala/comments/194ryhs/impersonation_with_play_framework_and_silhouette/)
 - [From Scala Backend to Data Engineer](https://www.reddit.com/r/scala/comments/1947rld/from_scala_backend_to_data_engineer/)
 - [Starting with ZIO Http, kind of confused about different versions ...](https://www.reddit.com/r/scala/comments/1944vrk/starting_with_zio_http_kind_of_confused_about/)
-- [Comparing lambdas in various languages](https://www.reddit.com/r/scala/comments/1944a00/comparing_lambdas_in_various_languages/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

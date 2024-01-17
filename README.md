@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A method that reads class&#39;s constant member - still pure function?](https://www.reddit.com/r/scala/comments/198kigb/a_method_that_reads_classs_constant_member_still/)
+- [Introduction to Monads With Scala 3](https://www.reddit.com/r/scala/comments/1987gug/introduction_to_monads_with_scala_3/)
+- [Scala Meetups in Hamburg &lpar;Jan 31&rpar; &amp; Berlin &lpar;Feb 1&rpar;, Germany](https://www.reddit.com/r/scala/comments/1984g90/scala_meetups_in_hamburg_jan_31_berlin_feb_1/)
 - [ScalaSql: a New SQL Database Query Library for the com-lihaoyi Scala Ecosystem](https://www.reddit.com/r/scala/comments/1974olb/scalasql_a_new_sql_database_query_library_for_the/)
 - [This week in #Scala &lpar;Jan 15, 2024&rpar;](https://www.reddit.com/r/scala/comments/196gyq3/this_week_in_scala_jan_15_2024/)
 - [#92 Virtual Threads Looming with Adam Warski by Happy Path Programming](https://www.reddit.com/r/scala/comments/196gr1c/92_virtual_threads_looming_with_adam_warski_by/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Easiest way to start a scala js project?](https://www.reddit.com/r/scala/comments/195o0u3/easiest_way_to_start_a_scala_js_project/)
 - [Proposed new syntax to support Type Classes, by Martin Odersky](https://www.reddit.com/r/scala/comments/195n4v8/proposed_new_syntax_to_support_type_classes_by/)
 - [Using Scala refined to check for divisibility between lists](https://www.reddit.com/r/scala/comments/1952ums/using_scala_refined_to_check_for_divisibility/)
-- [Impersonation with play framework and silhouette?](https://www.reddit.com/r/scala/comments/194ryhs/impersonation_with_play_framework_and_silhouette/)
-- [From Scala Backend to Data Engineer](https://www.reddit.com/r/scala/comments/1947rld/from_scala_backend_to_data_engineer/)
-- [Starting with ZIO Http, kind of confused about different versions ...](https://www.reddit.com/r/scala/comments/1944vrk/starting_with_zio_http_kind_of_confused_about/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3 given/implicit resolution doesn&#39;t work as expected](https://www.reddit.com/r/scala/comments/199d7wk/scala_3_givenimplicit_resolution_doesnt_work_as/)
+- [Some Memories of Niklaus Wirth](https://www.reddit.com/r/scala/comments/199441k/some_memories_of_niklaus_wirth/)
+- [Deriving Tail Recursive Fibonacci](https://www.reddit.com/r/scala/comments/1991t1j/deriving_tail_recursive_fibonacci/)
 - [A method that reads class&#39;s constant member - still pure function?](https://www.reddit.com/r/scala/comments/198kigb/a_method_that_reads_classs_constant_member_still/)
 - [Introduction to Monads With Scala 3](https://www.reddit.com/r/scala/comments/1987gug/introduction_to_monads_with_scala_3/)
 - [Scala Meetups in Hamburg &lpar;Jan 31&rpar; &amp; Berlin &lpar;Feb 1&rpar;, Germany](https://www.reddit.com/r/scala/comments/1984g90/scala_meetups_in_hamburg_jan_31_berlin_feb_1/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Jan 15, 2024&rpar;](https://www.reddit.com/r/scala/comments/196gyq3/this_week_in_scala_jan_15_2024/)
 - [#92 Virtual Threads Looming with Adam Warski by Happy Path Programming](https://www.reddit.com/r/scala/comments/196gr1c/92_virtual_threads_looming_with_adam_warski_by/)
 - [Survey: Why have you stopped using Scala or Are considering stopping soon?](https://www.reddit.com/r/scala/comments/195qk4u/survey_why_have_you_stopped_using_scala_or_are/)
-- [Easiest way to start a scala js project?](https://www.reddit.com/r/scala/comments/195o0u3/easiest_way_to_start_a_scala_js_project/)
-- [Proposed new syntax to support Type Classes, by Martin Odersky](https://www.reddit.com/r/scala/comments/195n4v8/proposed_new_syntax_to_support_type_classes_by/)
-- [Using Scala refined to check for divisibility between lists](https://www.reddit.com/r/scala/comments/1952ums/using_scala_refined_to_check_for_divisibility/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

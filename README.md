@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there a minimalist formatter?](https://www.reddit.com/r/scala/comments/19a4peq/is_there_a_minimalist_formatter/)
+- [DDD and Scala](https://www.reddit.com/r/scala/comments/19a2v0r/ddd_and_scala/)
+- [Is there something like Scala REPL but for Java?](https://www.reddit.com/r/scala/comments/199zusg/is_there_something_like_scala_repl_but_for_java/)
+- [Functional stream processing workshop with Zainab Ali during the Scalar Conference](https://www.reddit.com/r/scala/comments/199nr5d/functional_stream_processing_workshop_with_zainab/)
 - [Scala 3 given/implicit resolution doesn&#39;t work as expected](https://www.reddit.com/r/scala/comments/199d7wk/scala_3_givenimplicit_resolution_doesnt_work_as/)
 - [Some Memories of Niklaus Wirth](https://www.reddit.com/r/scala/comments/199441k/some_memories_of_niklaus_wirth/)
 - [Deriving Tail Recursive Fibonacci](https://www.reddit.com/r/scala/comments/1991t1j/deriving_tail_recursive_fibonacci/)
 - [A method that reads class&#39;s constant member - still pure function?](https://www.reddit.com/r/scala/comments/198kigb/a_method_that_reads_classs_constant_member_still/)
 - [Introduction to Monads With Scala 3](https://www.reddit.com/r/scala/comments/1987gug/introduction_to_monads_with_scala_3/)
 - [Scala Meetups in Hamburg &lpar;Jan 31&rpar; &amp; Berlin &lpar;Feb 1&rpar;, Germany](https://www.reddit.com/r/scala/comments/1984g90/scala_meetups_in_hamburg_jan_31_berlin_feb_1/)
-- [ScalaSql: a New SQL Database Query Library for the com-lihaoyi Scala Ecosystem](https://www.reddit.com/r/scala/comments/1974olb/scalasql_a_new_sql_database_query_library_for_the/)
-- [This week in #Scala &lpar;Jan 15, 2024&rpar;](https://www.reddit.com/r/scala/comments/196gyq3/this_week_in_scala_jan_15_2024/)
-- [#92 Virtual Threads Looming with Adam Warski by Happy Path Programming](https://www.reddit.com/r/scala/comments/196gr1c/92_virtual_threads_looming_with_adam_warski_by/)
-- [Survey: Why have you stopped using Scala or Are considering stopping soon?](https://www.reddit.com/r/scala/comments/195qk4u/survey_why_have_you_stopped_using_scala_or_are/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

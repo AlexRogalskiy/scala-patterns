@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [GraphQL in Scala: Handling side effects](https://www.reddit.com/r/scala/comments/19b27b9/graphql_in_scala_handling_side_effects/)
 - [Is there a minimalist formatter?](https://www.reddit.com/r/scala/comments/19a4peq/is_there_a_minimalist_formatter/)
 - [DDD and Scala](https://www.reddit.com/r/scala/comments/19a2v0r/ddd_and_scala/)
 - [Is there something like Scala REPL but for Java?](https://www.reddit.com/r/scala/comments/199zusg/is_there_something_like_scala_repl_but_for_java/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Deriving Tail Recursive Fibonacci](https://www.reddit.com/r/scala/comments/1991t1j/deriving_tail_recursive_fibonacci/)
 - [A method that reads class&#39;s constant member - still pure function?](https://www.reddit.com/r/scala/comments/198kigb/a_method_that_reads_classs_constant_member_still/)
 - [Introduction to Monads With Scala 3](https://www.reddit.com/r/scala/comments/1987gug/introduction_to_monads_with_scala_3/)
-- [Scala Meetups in Hamburg &lpar;Jan 31&rpar; &amp; Berlin &lpar;Feb 1&rpar;, Germany](https://www.reddit.com/r/scala/comments/1984g90/scala_meetups_in_hamburg_jan_31_berlin_feb_1/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

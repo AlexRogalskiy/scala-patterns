@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Jan 22, 2024&rpar;](https://www.reddit.com/r/scala/comments/19ccuoq/this_week_in_scala_jan_22_2024/)
 - [GraphQL in Scala: Handling side effects](https://www.reddit.com/r/scala/comments/19b27b9/graphql_in_scala_handling_side_effects/)
 - [Is there a minimalist formatter?](https://www.reddit.com/r/scala/comments/19a4peq/is_there_a_minimalist_formatter/)
 - [DDD and Scala](https://www.reddit.com/r/scala/comments/19a2v0r/ddd_and_scala/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Some Memories of Niklaus Wirth](https://www.reddit.com/r/scala/comments/199441k/some_memories_of_niklaus_wirth/)
 - [Deriving Tail Recursive Fibonacci](https://www.reddit.com/r/scala/comments/1991t1j/deriving_tail_recursive_fibonacci/)
 - [A method that reads class&#39;s constant member - still pure function?](https://www.reddit.com/r/scala/comments/198kigb/a_method_that_reads_classs_constant_member_still/)
-- [Introduction to Monads With Scala 3](https://www.reddit.com/r/scala/comments/1987gug/introduction_to_monads_with_scala_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Approaches to Lagom Framework Migration](https://www.reddit.com/r/scala/comments/19cssqr/approaches_to_lagom_framework_migration/)
+- [sbt website update 2024](https://www.reddit.com/r/scala/comments/19cnl68/sbt_website_update_2024/)
 - [This week in #Scala &lpar;Jan 22, 2024&rpar;](https://www.reddit.com/r/scala/comments/19ccuoq/this_week_in_scala_jan_22_2024/)
 - [GraphQL in Scala: Handling side effects](https://www.reddit.com/r/scala/comments/19b27b9/graphql_in_scala_handling_side_effects/)
 - [Is there a minimalist formatter?](https://www.reddit.com/r/scala/comments/19a4peq/is_there_a_minimalist_formatter/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Functional stream processing workshop with Zainab Ali during the Scalar Conference](https://www.reddit.com/r/scala/comments/199nr5d/functional_stream_processing_workshop_with_zainab/)
 - [Scala 3 given/implicit resolution doesn&#39;t work as expected](https://www.reddit.com/r/scala/comments/199d7wk/scala_3_givenimplicit_resolution_doesnt_work_as/)
 - [Some Memories of Niklaus Wirth](https://www.reddit.com/r/scala/comments/199441k/some_memories_of_niklaus_wirth/)
-- [Deriving Tail Recursive Fibonacci](https://www.reddit.com/r/scala/comments/1991t1j/deriving_tail_recursive_fibonacci/)
-- [A method that reads class&#39;s constant member - still pure function?](https://www.reddit.com/r/scala/comments/198kigb/a_method_that_reads_classs_constant_member_still/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

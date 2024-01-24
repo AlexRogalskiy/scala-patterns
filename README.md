@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Has anyone gone back from Effect Systems to plain Scala?](https://www.reddit.com/r/scala/comments/19dsuj3/has_anyone_gone_back_from_effect_systems_to_plain/)
+- [Which concurrent queue class to use cats-effect 2?](https://www.reddit.com/r/scala/comments/19dqhv5/which_concurrent_queue_class_to_use_catseffect_2/)
 - [Approaches to Lagom Framework Migration](https://www.reddit.com/r/scala/comments/19cssqr/approaches_to_lagom_framework_migration/)
 - [sbt website update 2024](https://www.reddit.com/r/scala/comments/19cnl68/sbt_website_update_2024/)
 - [This week in #Scala &lpar;Jan 22, 2024&rpar;](https://www.reddit.com/r/scala/comments/19ccuoq/this_week_in_scala_jan_22_2024/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [DDD and Scala](https://www.reddit.com/r/scala/comments/19a2v0r/ddd_and_scala/)
 - [Is there something like Scala REPL but for Java?](https://www.reddit.com/r/scala/comments/199zusg/is_there_something_like_scala_repl_but_for_java/)
 - [Functional stream processing workshop with Zainab Ali during the Scalar Conference](https://www.reddit.com/r/scala/comments/199nr5d/functional_stream_processing_workshop_with_zainab/)
-- [Scala 3 given/implicit resolution doesn&#39;t work as expected](https://www.reddit.com/r/scala/comments/199d7wk/scala_3_givenimplicit_resolution_doesnt_work_as/)
-- [Some Memories of Niklaus Wirth](https://www.reddit.com/r/scala/comments/199441k/some_memories_of_niklaus_wirth/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

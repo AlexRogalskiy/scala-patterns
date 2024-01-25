@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Functional Programming in Scala](https://www.reddit.com/r/scala/comments/19eh77j/functional_programming_in_scala/)
+- [Since Akka is now under BSL is this end of Scala?](https://www.reddit.com/r/scala/comments/19ectqf/since_akka_is_now_under_bsl_is_this_end_of_scala/)
 - [Has anyone gone back from Effect Systems to plain Scala?](https://www.reddit.com/r/scala/comments/19dsuj3/has_anyone_gone_back_from_effect_systems_to_plain/)
 - [Which concurrent queue class to use cats-effect 2?](https://www.reddit.com/r/scala/comments/19dqhv5/which_concurrent_queue_class_to_use_catseffect_2/)
 - [Approaches to Lagom Framework Migration](https://www.reddit.com/r/scala/comments/19cssqr/approaches_to_lagom_framework_migration/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [GraphQL in Scala: Handling side effects](https://www.reddit.com/r/scala/comments/19b27b9/graphql_in_scala_handling_side_effects/)
 - [Is there a minimalist formatter?](https://www.reddit.com/r/scala/comments/19a4peq/is_there_a_minimalist_formatter/)
 - [DDD and Scala](https://www.reddit.com/r/scala/comments/19a2v0r/ddd_and_scala/)
-- [Is there something like Scala REPL but for Java?](https://www.reddit.com/r/scala/comments/199zusg/is_there_something_like_scala_repl_but_for_java/)
-- [Functional stream processing workshop with Zainab Ali during the Scalar Conference](https://www.reddit.com/r/scala/comments/199nr5d/functional_stream_processing_workshop_with_zainab/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Organizing Scala Project](https://www.reddit.com/r/scala/comments/19fhg2y/organizing_scala_project/)
+- [How to Write a Full-Stack Scala Application with the Typelevel Stack](https://www.reddit.com/r/scala/comments/19f5txs/how_to_write_a_fullstack_scala_application_with/)
 - [Functional Programming in Scala](https://www.reddit.com/r/scala/comments/19eh77j/functional_programming_in_scala/)
 - [Since Akka is now under BSL is this end of Scala?](https://www.reddit.com/r/scala/comments/19ectqf/since_akka_is_now_under_bsl_is_this_end_of_scala/)
 - [Has anyone gone back from Effect Systems to plain Scala?](https://www.reddit.com/r/scala/comments/19dsuj3/has_anyone_gone_back_from_effect_systems_to_plain/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt website update 2024](https://www.reddit.com/r/scala/comments/19cnl68/sbt_website_update_2024/)
 - [This week in #Scala &lpar;Jan 22, 2024&rpar;](https://www.reddit.com/r/scala/comments/19ccuoq/this_week_in_scala_jan_22_2024/)
 - [GraphQL in Scala: Handling side effects](https://www.reddit.com/r/scala/comments/19b27b9/graphql_in_scala_handling_side_effects/)
-- [Is there a minimalist formatter?](https://www.reddit.com/r/scala/comments/19a4peq/is_there_a_minimalist_formatter/)
-- [DDD and Scala](https://www.reddit.com/r/scala/comments/19a2v0r/ddd_and_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

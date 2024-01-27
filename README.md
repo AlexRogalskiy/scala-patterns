@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [can you have a higher order function in Scala that accepts functions of variable arguments of arbitrary types?](https://www.reddit.com/r/scala/comments/1absvi7/can_you_have_a_higher_order_function_in_scala/)
+- [Using Scanamo library](https://www.reddit.com/r/scala/comments/1abh82c/using_scanamo_library/)
+- [Road map for Scala 3](https://www.reddit.com/r/scala/comments/1abh6xz/road_map_for_scala_3/)
+- [Released a new version 0.6.1 of my MainArgs library](https://www.reddit.com/r/scala/comments/1abgqfp/released_a_new_version_061_of_my_mainargs_library/)
+- [Full-stack Scala 3 with the ZIO stack workshop with Daniel Ciocirlan during the Scalar Conference](https://www.reddit.com/r/scala/comments/1abghht/fullstack_scala_3_with_the_zio_stack_workshop/)
 - [Organizing Scala Project](https://www.reddit.com/r/scala/comments/19fhg2y/organizing_scala_project/)
 - [How to Write a Full-Stack Scala Application with the Typelevel Stack](https://www.reddit.com/r/scala/comments/19f5txs/how_to_write_a_fullstack_scala_application_with/)
 - [Functional Programming in Scala](https://www.reddit.com/r/scala/comments/19eh77j/functional_programming_in_scala/)
 - [Since Akka is now under BSL is this end of Scala?](https://www.reddit.com/r/scala/comments/19ectqf/since_akka_is_now_under_bsl_is_this_end_of_scala/)
 - [Has anyone gone back from Effect Systems to plain Scala?](https://www.reddit.com/r/scala/comments/19dsuj3/has_anyone_gone_back_from_effect_systems_to_plain/)
-- [Which concurrent queue class to use cats-effect 2?](https://www.reddit.com/r/scala/comments/19dqhv5/which_concurrent_queue_class_to_use_catseffect_2/)
-- [Approaches to Lagom Framework Migration](https://www.reddit.com/r/scala/comments/19cssqr/approaches_to_lagom_framework_migration/)
-- [sbt website update 2024](https://www.reddit.com/r/scala/comments/19cnl68/sbt_website_update_2024/)
-- [This week in #Scala &lpar;Jan 22, 2024&rpar;](https://www.reddit.com/r/scala/comments/19ccuoq/this_week_in_scala_jan_22_2024/)
-- [GraphQL in Scala: Handling side effects](https://www.reddit.com/r/scala/comments/19b27b9/graphql_in_scala_handling_side_effects/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

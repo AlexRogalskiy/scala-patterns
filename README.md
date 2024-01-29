@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Jan 29, 2024&rpar;](https://www.reddit.com/r/scala/comments/1adb3ia/this_week_in_scala_jan_29_2024/)
 - [How can I get distance between two `org.locationtech.jts.geom.Point` instances with different SRIDs?](https://www.reddit.com/r/scala/comments/1acqfl6/how_can_i_get_distance_between_two/)
 - [Has anyone done the Typesafe Introductory Scala for Data Science Certification?](https://www.reddit.com/r/scala/comments/1acbqv9/has_anyone_done_the_typesafe_introductory_scala/)
 - [Convincing cofounder to use scala](https://www.reddit.com/r/scala/comments/1ac0ncc/convincing_cofounder_to_use_scala/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Road map for Scala 3](https://www.reddit.com/r/scala/comments/1abh6xz/road_map_for_scala_3/)
 - [Released a new version 0.6.1 of my MainArgs library](https://www.reddit.com/r/scala/comments/1abgqfp/released_a_new_version_061_of_my_mainargs_library/)
 - [Full-stack Scala 3 with the ZIO stack workshop with Daniel Ciocirlan during the Scalar Conference](https://www.reddit.com/r/scala/comments/1abghht/fullstack_scala_3_with_the_zio_stack_workshop/)
-- [Organizing Scala Project](https://www.reddit.com/r/scala/comments/19fhg2y/organizing_scala_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

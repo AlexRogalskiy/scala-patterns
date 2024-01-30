@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [zio2 + tapir + http4s - error ZIO.succeed noSuchMethodError](https://www.reddit.com/r/scala/comments/1aeassu/zio2_tapir_http4s_error_ziosucceed/)
+- [Scala on AWS EMR](https://www.reddit.com/r/scala/comments/1adzb6r/scala_on_aws_emr/)
+- [A humble experience with Scala 3](https://www.reddit.com/r/scala/comments/1adu3uv/a_humble_experience_with_scala_3/)
+- [I am curios where companies using Scala are located. Please join to this amateur pool!](https://www.reddit.com/r/scala/comments/1ads34t/i_am_curios_where_companies_using_scala_are/)
+- [Can we use scalafix and scalafmt at the same time?](https://www.reddit.com/r/scala/comments/1adly3m/can_we_use_scalafix_and_scalafmt_at_the_same_time/)
+- [scala 3 guide for scala 2 developers](https://www.reddit.com/r/scala/comments/1adkill/scala_3_guide_for_scala_2_developers/)
 - [This week in #Scala &lpar;Jan 29, 2024&rpar;](https://www.reddit.com/r/scala/comments/1adb3ia/this_week_in_scala_jan_29_2024/)
-- [How can I get distance between two `org.locationtech.jts.geom.Point` instances with different SRIDs?](https://www.reddit.com/r/scala/comments/1acqfl6/how_can_i_get_distance_between_two/)
 - [Has anyone done the Typesafe Introductory Scala for Data Science Certification?](https://www.reddit.com/r/scala/comments/1acbqv9/has_anyone_done_the_typesafe_introductory_scala/)
 - [Convincing cofounder to use scala](https://www.reddit.com/r/scala/comments/1ac0ncc/convincing_cofounder_to_use_scala/)
 - [Current contracting rate for 5+ exp in Scala &lpar;remote, US&rpar;?](https://www.reddit.com/r/scala/comments/1abzsfk/current_contracting_rate_for_5_exp_in_scala/)
-- [can you have a higher order function in Scala that accepts functions of variable arguments of arbitrary types?](https://www.reddit.com/r/scala/comments/1absvi7/can_you_have_a_higher_order_function_in_scala/)
-- [Using Scanamo library](https://www.reddit.com/r/scala/comments/1abh82c/using_scanamo_library/)
-- [Road map for Scala 3](https://www.reddit.com/r/scala/comments/1abh6xz/road_map_for_scala_3/)
-- [Released a new version 0.6.1 of my MainArgs library](https://www.reddit.com/r/scala/comments/1abgqfp/released_a_new_version_061_of_my_mainargs_library/)
-- [Full-stack Scala 3 with the ZIO stack workshop with Daniel Ciocirlan during the Scalar Conference](https://www.reddit.com/r/scala/comments/1abghht/fullstack_scala_3_with_the_zio_stack_workshop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

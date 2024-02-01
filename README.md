@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best resources/books to learn Scala for a Java dev?](https://www.reddit.com/r/scala/comments/1afuifp/best_resourcesbooks_to_learn_scala_for_a_java_dev/)
+- [Fine-tuning LLMs for Scala in Google Summer of Code](https://www.reddit.com/r/scala/comments/1aftnab/finetuning_llms_for_scala_in_google_summer_of_code/)
+- [dotty-cps-async 0.9.20](https://www.reddit.com/r/scala/comments/1affd4b/dottycpsasync_0920/)
 - [zio2 + tapir + http4s - error ZIO.succeed noSuchMethodError](https://www.reddit.com/r/scala/comments/1aeassu/zio2_tapir_http4s_error_ziosucceed/)
 - [Scala on AWS EMR](https://www.reddit.com/r/scala/comments/1adzb6r/scala_on_aws_emr/)
 - [A humble experience with Scala 3](https://www.reddit.com/r/scala/comments/1adu3uv/a_humble_experience_with_scala_3/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Can we use scalafix and scalafmt at the same time?](https://www.reddit.com/r/scala/comments/1adly3m/can_we_use_scalafix_and_scalafmt_at_the_same_time/)
 - [scala 3 guide for scala 2 developers](https://www.reddit.com/r/scala/comments/1adkill/scala_3_guide_for_scala_2_developers/)
 - [This week in #Scala &lpar;Jan 29, 2024&rpar;](https://www.reddit.com/r/scala/comments/1adb3ia/this_week_in_scala_jan_29_2024/)
-- [Has anyone done the Typesafe Introductory Scala for Data Science Certification?](https://www.reddit.com/r/scala/comments/1acbqv9/has_anyone_done_the_typesafe_introductory_scala/)
-- [Convincing cofounder to use scala](https://www.reddit.com/r/scala/comments/1ac0ncc/convincing_cofounder_to_use_scala/)
-- [Current contracting rate for 5+ exp in Scala &lpar;remote, US&rpar;?](https://www.reddit.com/r/scala/comments/1abzsfk/current_contracting_rate_for_5_exp_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Any cool project for a beginner](https://www.reddit.com/r/scala/comments/1aghsbd/any_cool_project_for_a_beginner/)
+- [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/1agfqsr/who_is_hiring_monthly_rscala_job_postings_thread/)
+- [Anybody tried CheerpJ w/ scala yet?](https://www.reddit.com/r/scala/comments/1agdki0/anybody_tried_cheerpj_w_scala_yet/)
 - [Best resources/books to learn Scala for a Java dev?](https://www.reddit.com/r/scala/comments/1afuifp/best_resourcesbooks_to_learn_scala_for_a_java_dev/)
 - [Fine-tuning LLMs for Scala in Google Summer of Code](https://www.reddit.com/r/scala/comments/1aftnab/finetuning_llms_for_scala_in_google_summer_of_code/)
 - [dotty-cps-async 0.9.20](https://www.reddit.com/r/scala/comments/1affd4b/dottycpsasync_0920/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala on AWS EMR](https://www.reddit.com/r/scala/comments/1adzb6r/scala_on_aws_emr/)
 - [A humble experience with Scala 3](https://www.reddit.com/r/scala/comments/1adu3uv/a_humble_experience_with_scala_3/)
 - [I am curios where companies using Scala are located. Please join to this amateur pool!](https://www.reddit.com/r/scala/comments/1ads34t/i_am_curios_where_companies_using_scala_are/)
-- [Can we use scalafix and scalafmt at the same time?](https://www.reddit.com/r/scala/comments/1adly3m/can_we_use_scalafix_and_scalafmt_at_the_same_time/)
-- [scala 3 guide for scala 2 developers](https://www.reddit.com/r/scala/comments/1adkill/scala_3_guide_for_scala_2_developers/)
-- [This week in #Scala &lpar;Jan 29, 2024&rpar;](https://www.reddit.com/r/scala/comments/1adb3ia/this_week_in_scala_jan_29_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

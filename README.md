@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Composable concurrency scope of ZIO Semaphore](https://www.reddit.com/r/scala/comments/1ai458j/composable_concurrency_scope_of_zio_semaphore/)
+- [Tagless final - confused beginner](https://www.reddit.com/r/scala/comments/1ahwkvi/tagless_final_confused_beginner/)
 - [Negation in Algebraic Data Types?](https://www.reddit.com/r/scala/comments/1ahevn4/negation_in_algebraic_data_types/)
 - [Do you think it might be possible for a self thaught junior to land a remote Scala role?](https://www.reddit.com/r/scala/comments/1ah9i7e/do_you_think_it_might_be_possible_for_a_self/)
-- [New blog post](https://www.reddit.com/r/scala/comments/1ah90vr/new_blog_post/)
 - [Debug as an Effect &lpar;DaaE&rpar;](https://www.reddit.com/r/scala/comments/1ah21qk/debug_as_an_effect_daae/)
 - [Well written projects with Cats and Cats Effect](https://www.reddit.com/r/scala/comments/1agysn1/well_written_projects_with_cats_and_cats_effect/)
 - [Any cool project for a beginner](https://www.reddit.com/r/scala/comments/1aghsbd/any_cool_project_for_a_beginner/)
 - [Who is hiring? Monthly /r/Scala Job Postings Thread!](https://www.reddit.com/r/scala/comments/1agfqsr/who_is_hiring_monthly_rscala_job_postings_thread/)
 - [Anybody tried CheerpJ w/ scala yet?](https://www.reddit.com/r/scala/comments/1agdki0/anybody_tried_cheerpj_w_scala_yet/)
 - [Best resources/books to learn Scala for a Java dev?](https://www.reddit.com/r/scala/comments/1afuifp/best_resourcesbooks_to_learn_scala_for_a_java_dev/)
-- [Fine-tuning LLMs for Scala in Google Summer of Code](https://www.reddit.com/r/scala/comments/1aftnab/finetuning_llms_for_scala_in_google_summer_of_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

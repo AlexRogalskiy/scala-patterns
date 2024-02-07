@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [State of macro annotations in Scala 3](https://www.reddit.com/r/scala/comments/1akji7m/state_of_macro_annotations_in_scala_3/)
+- [Where did the notion of S3 &#39;quiet syntax&#39; come from? Where did it start? Community? Core team?](https://www.reddit.com/r/scala/comments/1ak7uke/where_did_the_notion_of_s3_quiet_syntax_come_from/)
 - [Problems with sbt install on MacOS ARM](https://www.reddit.com/r/scala/comments/1ajps97/problems_with_sbt_install_on_macos_arm/)
 - [This week in #Scala &lpar;Feb 5, 2024&rpar;](https://www.reddit.com/r/scala/comments/1aj23bi/this_week_in_scala_feb_5_2024/)
 - [Helenus v1.4 Async API Demo Session](https://www.reddit.com/r/scala/comments/1ait9yj/helenus_v14_async_api_demo_session/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Negation in Algebraic Data Types?](https://www.reddit.com/r/scala/comments/1ahevn4/negation_in_algebraic_data_types/)
 - [Do you think it might be possible for a self thaught junior to land a remote Scala role?](https://www.reddit.com/r/scala/comments/1ah9i7e/do_you_think_it_might_be_possible_for_a_self/)
 - [Debug as an Effect &lpar;DaaE&rpar;](https://www.reddit.com/r/scala/comments/1ah21qk/debug_as_an_effect_daae/)
-- [Well written projects with Cats and Cats Effect](https://www.reddit.com/r/scala/comments/1agysn1/well_written_projects_with_cats_and_cats_effect/)
-- [Any cool project for a beginner](https://www.reddit.com/r/scala/comments/1aghsbd/any_cool_project_for_a_beginner/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

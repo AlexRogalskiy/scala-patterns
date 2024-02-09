@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Q: web frameworks serving static content?](https://www.reddit.com/r/scala/comments/1am30dn/q_web_frameworks_serving_static_content/)
+- [Book Essential Effects by Adam Rosien](https://www.reddit.com/r/scala/comments/1alwjk6/book_essential_effects_by_adam_rosien/)
+- [How can I edit a scala-cli script with code completion](https://www.reddit.com/r/scala/comments/1alrwj8/how_can_i_edit_a_scalacli_script_with_code/)
+- [Mutable state inside a given](https://www.reddit.com/r/scala/comments/1alp8vs/mutable_state_inside_a_given/)
+- [How to avoid using var on a class member that will be created in the class&#39;s init&lpar;&rpar; method ?](https://www.reddit.com/r/scala/comments/1allz15/how_to_avoid_using_var_on_a_class_member_that/)
 - [Maciej Gorywoda - My Scala Story](https://www.reddit.com/r/scala/comments/1alb32k/maciej_gorywoda_my_scala_story/)
 - [this just happend :D](https://www.reddit.com/r/scala/comments/1al9iag/this_just_happend_d/)
 - [Scala Center Roadmap for 2024](https://www.reddit.com/r/scala/comments/1akxidl/scala_center_roadmap_for_2024/)
 - [State of macro annotations in Scala 3](https://www.reddit.com/r/scala/comments/1akji7m/state_of_macro_annotations_in_scala_3/)
 - [Where did the notion of S3 &#39;quiet syntax&#39; come from? Where did it start? Community? Core team?](https://www.reddit.com/r/scala/comments/1ak7uke/where_did_the_notion_of_s3_quiet_syntax_come_from/)
-- [Problems with sbt install on MacOS ARM](https://www.reddit.com/r/scala/comments/1ajps97/problems_with_sbt_install_on_macos_arm/)
-- [This week in #Scala &lpar;Feb 5, 2024&rpar;](https://www.reddit.com/r/scala/comments/1aj23bi/this_week_in_scala_feb_5_2024/)
-- [Helenus v1.4 Async API Demo Session](https://www.reddit.com/r/scala/comments/1ait9yj/helenus_v14_async_api_demo_session/)
-- [Composable concurrency scope of ZIO Semaphore](https://www.reddit.com/r/scala/comments/1ai458j/composable_concurrency_scope_of_zio_semaphore/)
-- [Tagless final - confused beginner](https://www.reddit.com/r/scala/comments/1ahwkvi/tagless_final_confused_beginner/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

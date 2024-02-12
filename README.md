@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Feb 12, 2024&rpar;](https://www.reddit.com/r/scala/comments/1ao7rp0/this_week_in_scala_feb_12_2024/)
 - [Scala Developer Advocate open hours - AMA](https://www.reddit.com/r/scala/comments/1anfgxa/scala_developer_advocate_open_hours_ama/)
 - [Q: web frameworks serving static content?](https://www.reddit.com/r/scala/comments/1am30dn/q_web_frameworks_serving_static_content/)
 - [Book Essential Effects by Adam Rosien](https://www.reddit.com/r/scala/comments/1alwjk6/book_essential_effects_by_adam_rosien/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Maciej Gorywoda - My Scala Story](https://www.reddit.com/r/scala/comments/1alb32k/maciej_gorywoda_my_scala_story/)
 - [this just happend :D](https://www.reddit.com/r/scala/comments/1al9iag/this_just_happend_d/)
 - [Scala Center Roadmap for 2024](https://www.reddit.com/r/scala/comments/1akxidl/scala_center_roadmap_for_2024/)
-- [State of macro annotations in Scala 3](https://www.reddit.com/r/scala/comments/1akji7m/state_of_macro_annotations_in_scala_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

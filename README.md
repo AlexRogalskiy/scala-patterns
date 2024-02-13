@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Do new version uses #{} instead of ${}](https://www.reddit.com/r/scala/comments/1ap5jxa/do_new_version_uses_instead_of/)
+- [How to use tcp instead of tcp6 with cask](https://www.reddit.com/r/scala/comments/1ap0dmm/how_to_use_tcp_instead_of_tcp6_with_cask/)
 - [This week in #Scala &lpar;Feb 12, 2024&rpar;](https://www.reddit.com/r/scala/comments/1ao7rp0/this_week_in_scala_feb_12_2024/)
 - [Scala Developer Advocate open hours - AMA](https://www.reddit.com/r/scala/comments/1anfgxa/scala_developer_advocate_open_hours_ama/)
 - [Q: web frameworks serving static content?](https://www.reddit.com/r/scala/comments/1am30dn/q_web_frameworks_serving_static_content/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Mutable state inside a given](https://www.reddit.com/r/scala/comments/1alp8vs/mutable_state_inside_a_given/)
 - [How to avoid using var on a class member that will be created in the class&#39;s init&lpar;&rpar; method ?](https://www.reddit.com/r/scala/comments/1allz15/how_to_avoid_using_var_on_a_class_member_that/)
 - [Maciej Gorywoda - My Scala Story](https://www.reddit.com/r/scala/comments/1alb32k/maciej_gorywoda_my_scala_story/)
-- [this just happend :D](https://www.reddit.com/r/scala/comments/1al9iag/this_just_happend_d/)
-- [Scala Center Roadmap for 2024](https://www.reddit.com/r/scala/comments/1akxidl/scala_center_roadmap_for_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A brand new library to pack your case classes in array of byte](https://www.reddit.com/r/scala/comments/1aq4gmq/a_brand_new_library_to_pack_your_case_classes_in/)
+- [Better Shell Scripting with Scala-CLI](https://www.reddit.com/r/scala/comments/1aq3lnz/better_shell_scripting_with_scalacli/)
+- [Secret values in Scala](https://www.reddit.com/r/scala/comments/1apv8eo/secret_values_in_scala/)
+- [Just a random rant - what&#39;s wrong with the experienced Java developers &lpar;YOE &gt; 10Y&rpar;?](https://www.reddit.com/r/scala/comments/1aprdvj/just_a_random_rant_whats_wrong_with_the/)
 - [Do new version uses #{} instead of ${}](https://www.reddit.com/r/scala/comments/1ap5jxa/do_new_version_uses_instead_of/)
 - [How to use tcp instead of tcp6 with cask](https://www.reddit.com/r/scala/comments/1ap0dmm/how_to_use_tcp_instead_of_tcp6_with_cask/)
 - [This week in #Scala &lpar;Feb 12, 2024&rpar;](https://www.reddit.com/r/scala/comments/1ao7rp0/this_week_in_scala_feb_12_2024/)
 - [Scala Developer Advocate open hours - AMA](https://www.reddit.com/r/scala/comments/1anfgxa/scala_developer_advocate_open_hours_ama/)
 - [Q: web frameworks serving static content?](https://www.reddit.com/r/scala/comments/1am30dn/q_web_frameworks_serving_static_content/)
 - [Book Essential Effects by Adam Rosien](https://www.reddit.com/r/scala/comments/1alwjk6/book_essential_effects_by_adam_rosien/)
-- [How can I edit a scala-cli script with code completion](https://www.reddit.com/r/scala/comments/1alrwj8/how_can_i_edit_a_scalacli_script_with_code/)
-- [Mutable state inside a given](https://www.reddit.com/r/scala/comments/1alp8vs/mutable_state_inside_a_given/)
-- [How to avoid using var on a class member that will be created in the class&#39;s init&lpar;&rpar; method ?](https://www.reddit.com/r/scala/comments/1allz15/how_to_avoid_using_var_on_a_class_member_that/)
-- [Maciej Gorywoda - My Scala Story](https://www.reddit.com/r/scala/comments/1alb32k/maciej_gorywoda_my_scala_story/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

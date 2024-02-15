@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What do I use instead of ListT??](https://www.reddit.com/r/scala/comments/1aqzdih/what_do_i_use_instead_of_listt/)
+- [How do we optimise Scala build times? by James Thompson @FuncProgSweden](https://www.reddit.com/r/scala/comments/1aqplnj/how_do_we_optimise_scala_build_times_by_james/)
 - [A brand new library to pack your case classes in array of byte](https://www.reddit.com/r/scala/comments/1aq4gmq/a_brand_new_library_to_pack_your_case_classes_in/)
 - [Better Shell Scripting with Scala-CLI](https://www.reddit.com/r/scala/comments/1aq3lnz/better_shell_scripting_with_scalacli/)
 - [Secret values in Scala](https://www.reddit.com/r/scala/comments/1apv8eo/secret_values_in_scala/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to use tcp instead of tcp6 with cask](https://www.reddit.com/r/scala/comments/1ap0dmm/how_to_use_tcp_instead_of_tcp6_with_cask/)
 - [This week in #Scala &lpar;Feb 12, 2024&rpar;](https://www.reddit.com/r/scala/comments/1ao7rp0/this_week_in_scala_feb_12_2024/)
 - [Scala Developer Advocate open hours - AMA](https://www.reddit.com/r/scala/comments/1anfgxa/scala_developer_advocate_open_hours_ama/)
-- [Q: web frameworks serving static content?](https://www.reddit.com/r/scala/comments/1am30dn/q_web_frameworks_serving_static_content/)
-- [Book Essential Effects by Adam Rosien](https://www.reddit.com/r/scala/comments/1alwjk6/book_essential_effects_by_adam_rosien/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

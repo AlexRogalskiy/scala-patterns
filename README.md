@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Rust like Question Operator in Scala](https://www.reddit.com/r/scala/comments/1as3f4p/rust_like_question_operator_in_scala/)
+- [Is it just me or are the Scala position considerably less these days](https://www.reddit.com/r/scala/comments/1arxpke/is_it_just_me_or_are_the_scala_position/)
 - [Calculating 1 + 2 in a cross platform way: Our journey begins](https://www.reddit.com/r/scala/comments/1arbclm/calculating_1_2_in_a_cross_platform_way_our/)
 - [How do you recognize emojis in a file?](https://www.reddit.com/r/scala/comments/1arb2c3/how_do_you_recognize_emojis_in_a_file/)
 - [Scala is beautiful](https://www.reddit.com/r/scala/comments/1araaym/scala_is_beautiful/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [A brand new library to pack your case classes in array of byte](https://www.reddit.com/r/scala/comments/1aq4gmq/a_brand_new_library_to_pack_your_case_classes_in/)
 - [Better Shell Scripting with Scala-CLI](https://www.reddit.com/r/scala/comments/1aq3lnz/better_shell_scripting_with_scalacli/)
 - [Secret values in Scala](https://www.reddit.com/r/scala/comments/1apv8eo/secret_values_in_scala/)
-- [Just a random rant - what&#39;s wrong with the experienced Java developers &lpar;YOE &gt; 10Y&rpar;?](https://www.reddit.com/r/scala/comments/1aprdvj/just_a_random_rant_whats_wrong_with_the/)
-- [Do new version uses #{} instead of ${}](https://www.reddit.com/r/scala/comments/1ap5jxa/do_new_version_uses_instead_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Automagic Scala Migrations &lpar;scalafix/scala-steward experience report&rpar;](https://www.reddit.com/r/scala/comments/1at5n2s/automagic_scala_migrations_scalafixscalasteward/)
+- [Collection conversions among scala collections](https://www.reddit.com/r/scala/comments/1asxwtb/collection_conversions_among_scala_collections/)
 - [Rust like Question Operator in Scala](https://www.reddit.com/r/scala/comments/1as3f4p/rust_like_question_operator_in_scala/)
 - [Is it just me or are the Scala position considerably less these days](https://www.reddit.com/r/scala/comments/1arxpke/is_it_just_me_or_are_the_scala_position/)
 - [Calculating 1 + 2 in a cross platform way: Our journey begins](https://www.reddit.com/r/scala/comments/1arbclm/calculating_1_2_in_a_cross_platform_way_our/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [What do I use instead of ListT??](https://www.reddit.com/r/scala/comments/1aqzdih/what_do_i_use_instead_of_listt/)
 - [How do we optimise Scala build times? by James Thompson @FuncProgSweden](https://www.reddit.com/r/scala/comments/1aqplnj/how_do_we_optimise_scala_build_times_by_james/)
 - [A brand new library to pack your case classes in array of byte](https://www.reddit.com/r/scala/comments/1aq4gmq/a_brand_new_library_to_pack_your_case_classes_in/)
-- [Better Shell Scripting with Scala-CLI](https://www.reddit.com/r/scala/comments/1aq3lnz/better_shell_scripting_with_scalacli/)
-- [Secret values in Scala](https://www.reddit.com/r/scala/comments/1apv8eo/secret_values_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

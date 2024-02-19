@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Feb 19, 2024&rpar;](https://www.reddit.com/r/scala/comments/1attvmw/this_week_in_scala_feb_19_2024/)
+- [Using a Maven BOM in sbt](https://www.reddit.com/r/scala/comments/1atshpb/using_a_maven_bom_in_sbt/)
 - [Automagic Scala Migrations &lpar;scalafix/scala-steward experience report&rpar;](https://www.reddit.com/r/scala/comments/1at5n2s/automagic_scala_migrations_scalafixscalasteward/)
 - [Collection conversions among scala collections](https://www.reddit.com/r/scala/comments/1asxwtb/collection_conversions_among_scala_collections/)
 - [Rust like Question Operator in Scala](https://www.reddit.com/r/scala/comments/1as3f4p/rust_like_question_operator_in_scala/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How do you recognize emojis in a file?](https://www.reddit.com/r/scala/comments/1arb2c3/how_do_you_recognize_emojis_in_a_file/)
 - [Scala is beautiful](https://www.reddit.com/r/scala/comments/1araaym/scala_is_beautiful/)
 - [What do I use instead of ListT??](https://www.reddit.com/r/scala/comments/1aqzdih/what_do_i_use_instead_of_listt/)
-- [How do we optimise Scala build times? by James Thompson @FuncProgSweden](https://www.reddit.com/r/scala/comments/1aqplnj/how_do_we_optimise_scala_build_times_by_james/)
-- [A brand new library to pack your case classes in array of byte](https://www.reddit.com/r/scala/comments/1aq4gmq/a_brand_new_library_to_pack_your_case_classes_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

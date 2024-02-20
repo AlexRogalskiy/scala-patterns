@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This seems like it should be possible, but perhaps not](https://www.reddit.com/r/scala/comments/1aut9nk/this_seems_like_it_should_be_possible_but_perhaps/)
+- [ErgoDevs - DAO for Ergo core - Opportunity for anyone interested in helping build a DAO in Scala/Rust for a blockchain](https://www.reddit.com/r/scala/comments/1auqqkh/ergodevs_dao_for_ergo_core_opportunity_for_anyone/)
+- [Lightbend closes FY24 with record growth](https://www.reddit.com/r/scala/comments/1aupcpw/lightbend_closes_fy24_with_record_growth/)
+- [My team built and productionized a custom rate limiter in Scala](https://www.reddit.com/r/scala/comments/1auhezp/my_team_built_and_productionized_a_custom_rate/)
 - [This week in #Scala &lpar;Feb 19, 2024&rpar;](https://www.reddit.com/r/scala/comments/1attvmw/this_week_in_scala_feb_19_2024/)
 - [Using a Maven BOM in sbt](https://www.reddit.com/r/scala/comments/1atshpb/using_a_maven_bom_in_sbt/)
 - [Automagic Scala Migrations &lpar;scalafix/scala-steward experience report&rpar;](https://www.reddit.com/r/scala/comments/1at5n2s/automagic_scala_migrations_scalafixscalasteward/)
 - [Collection conversions among scala collections](https://www.reddit.com/r/scala/comments/1asxwtb/collection_conversions_among_scala_collections/)
 - [Rust like Question Operator in Scala](https://www.reddit.com/r/scala/comments/1as3f4p/rust_like_question_operator_in_scala/)
 - [Is it just me or are the Scala position considerably less these days](https://www.reddit.com/r/scala/comments/1arxpke/is_it_just_me_or_are_the_scala_position/)
-- [Calculating 1 + 2 in a cross platform way: Our journey begins](https://www.reddit.com/r/scala/comments/1arbclm/calculating_1_2_in_a_cross_platform_way_our/)
-- [How do you recognize emojis in a file?](https://www.reddit.com/r/scala/comments/1arb2c3/how_do_you_recognize_emojis_in_a_file/)
-- [Scala is beautiful](https://www.reddit.com/r/scala/comments/1araaym/scala_is_beautiful/)
-- [What do I use instead of ListT??](https://www.reddit.com/r/scala/comments/1aqzdih/what_do_i_use_instead_of_listt/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

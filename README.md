@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Improving my Distributed System with Scala 3: Consistency Guarantees &amp; Background Tasks &lpar;Part 2&rpar;](https://www.reddit.com/r/scala/comments/1avifcy/improving_my_distributed_system_with_scala_3/)
+- [Facing `object scala in compiler mirror not found issue` while running the springboot application using jar but not with classpath](https://www.reddit.com/r/scala/comments/1avd4eb/facing_object_scala_in_compiler_mirror_not_found/)
+- [Video game development using Scala.js](https://www.reddit.com/r/scala/comments/1avc3kd/video_game_development_using_scalajs/)
 - [This seems like it should be possible, but perhaps not](https://www.reddit.com/r/scala/comments/1aut9nk/this_seems_like_it_should_be_possible_but_perhaps/)
 - [ErgoDevs - DAO for Ergo core - Opportunity for anyone interested in helping build a DAO in Scala/Rust for a blockchain](https://www.reddit.com/r/scala/comments/1auqqkh/ergodevs_dao_for_ergo_core_opportunity_for_anyone/)
 - [Lightbend closes FY24 with record growth](https://www.reddit.com/r/scala/comments/1aupcpw/lightbend_closes_fy24_with_record_growth/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Feb 19, 2024&rpar;](https://www.reddit.com/r/scala/comments/1attvmw/this_week_in_scala_feb_19_2024/)
 - [Using a Maven BOM in sbt](https://www.reddit.com/r/scala/comments/1atshpb/using_a_maven_bom_in_sbt/)
 - [Automagic Scala Migrations &lpar;scalafix/scala-steward experience report&rpar;](https://www.reddit.com/r/scala/comments/1at5n2s/automagic_scala_migrations_scalafixscalasteward/)
-- [Collection conversions among scala collections](https://www.reddit.com/r/scala/comments/1asxwtb/collection_conversions_among_scala_collections/)
-- [Rust like Question Operator in Scala](https://www.reddit.com/r/scala/comments/1as3f4p/rust_like_question_operator_in_scala/)
-- [Is it just me or are the Scala position considerably less these days](https://www.reddit.com/r/scala/comments/1arxpke/is_it_just_me_or_are_the_scala_position/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

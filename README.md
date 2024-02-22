@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Optimizing Functional Walks of File Trees](https://www.reddit.com/r/scala/comments/1aw1443/optimizing_functional_walks_of_file_trees/)
 - [Improving my Distributed System with Scala 3: Consistency Guarantees &amp; Background Tasks &lpar;Part 2&rpar;](https://www.reddit.com/r/scala/comments/1avifcy/improving_my_distributed_system_with_scala_3/)
 - [Facing `object scala in compiler mirror not found issue` while running the springboot application using jar but not with classpath](https://www.reddit.com/r/scala/comments/1avd4eb/facing_object_scala_in_compiler_mirror_not_found/)
 - [Video game development using Scala.js](https://www.reddit.com/r/scala/comments/1avc3kd/video_game_development_using_scalajs/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [My team built and productionized a custom rate limiter in Scala](https://www.reddit.com/r/scala/comments/1auhezp/my_team_built_and_productionized_a_custom_rate/)
 - [This week in #Scala &lpar;Feb 19, 2024&rpar;](https://www.reddit.com/r/scala/comments/1attvmw/this_week_in_scala_feb_19_2024/)
 - [Using a Maven BOM in sbt](https://www.reddit.com/r/scala/comments/1atshpb/using_a_maven_bom_in_sbt/)
-- [Automagic Scala Migrations &lpar;scalafix/scala-steward experience report&rpar;](https://www.reddit.com/r/scala/comments/1at5n2s/automagic_scala_migrations_scalafixscalasteward/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scammers running site similar to scala-lang.org](https://www.reddit.com/r/scala/comments/1ay601l/scammers_running_site_similar_to_scalalangorg/)
+- [How to link a Scala compiled jar in an Android project?](https://www.reddit.com/r/scala/comments/1ay26ve/how_to_link_a_scala_compiled_jar_in_an_android/)
+- [sbt 1.9.9 released](https://www.reddit.com/r/scala/comments/1axuc54/sbt_199_released/)
 - [Calculating 1 + 2 in a cross platform way: Crossing those hills](https://www.reddit.com/r/scala/comments/1ax1vwm/calculating_1_2_in_a_cross_platform_way_crossing/)
 - [Optimizing Functional Walks of File Trees](https://www.reddit.com/r/scala/comments/1aw1443/optimizing_functional_walks_of_file_trees/)
 - [Improving my Distributed System with Scala 3: Consistency Guarantees &amp; Background Tasks &lpar;Part 2&rpar;](https://www.reddit.com/r/scala/comments/1avifcy/improving_my_distributed_system_with_scala_3/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Video game development using Scala.js](https://www.reddit.com/r/scala/comments/1avc3kd/video_game_development_using_scalajs/)
 - [This seems like it should be possible, but perhaps not](https://www.reddit.com/r/scala/comments/1aut9nk/this_seems_like_it_should_be_possible_but_perhaps/)
 - [ErgoDevs - DAO for Ergo core - Opportunity for anyone interested in helping build a DAO in Scala/Rust for a blockchain](https://www.reddit.com/r/scala/comments/1auqqkh/ergodevs_dao_for_ergo_core_opportunity_for_anyone/)
-- [Lightbend closes FY24 with record growth](https://www.reddit.com/r/scala/comments/1aupcpw/lightbend_closes_fy24_with_record_growth/)
-- [My team built and productionized a custom rate limiter in Scala](https://www.reddit.com/r/scala/comments/1auhezp/my_team_built_and_productionized_a_custom_rate/)
-- [This week in #Scala &lpar;Feb 19, 2024&rpar;](https://www.reddit.com/r/scala/comments/1attvmw/this_week_in_scala_feb_19_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

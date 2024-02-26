@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Feb 26, 2024&rpar;](https://www.reddit.com/r/scala/comments/1azunj7/this_week_in_scala_feb_26_2024/)
 - [scala installation on Ubuntu 22.04](https://www.reddit.com/r/scala/comments/1az9hli/scala_installation_on_ubuntu_2204/)
 - [Future of Scala libraries](https://www.reddit.com/r/scala/comments/1ayqcx0/future_of_scala_libraries/)
 - [Rescue the ScalaExchange videos from SkillsMatter.](https://www.reddit.com/r/scala/comments/1aypivw/rescue_the_scalaexchange_videos_from_skillsmatter/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Calculating 1 + 2 in a cross platform way: Crossing those hills](https://www.reddit.com/r/scala/comments/1ax1vwm/calculating_1_2_in_a_cross_platform_way_crossing/)
 - [Optimizing Functional Walks of File Trees](https://www.reddit.com/r/scala/comments/1aw1443/optimizing_functional_walks_of_file_trees/)
 - [Improving my Distributed System with Scala 3: Consistency Guarantees &amp; Background Tasks &lpar;Part 2&rpar;](https://www.reddit.com/r/scala/comments/1avifcy/improving_my_distributed_system_with_scala_3/)
-- [Facing `object scala in compiler mirror not found issue` while running the springboot application using jar but not with classpath](https://www.reddit.com/r/scala/comments/1avd4eb/facing_object_scala_in_compiler_mirror_not_found/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

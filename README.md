@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 2.13.13 and 2.12.19 are here!](https://www.reddit.com/r/scala/comments/1b0rm3i/scala_21313_and_21219_are_here/)
+- [Scalar is in a month - the main Scala event of 2024 - agenda, trainings](https://www.reddit.com/r/scala/comments/1b0in7z/scalar_is_in_a_month_the_main_scala_event_of_2024/)
+- [the holy graal of GitHub Actions](https://www.reddit.com/r/scala/comments/1b06025/the_holy_graal_of_github_actions/)
 - [This week in #Scala &lpar;Feb 26, 2024&rpar;](https://www.reddit.com/r/scala/comments/1azunj7/this_week_in_scala_feb_26_2024/)
 - [scala installation on Ubuntu 22.04](https://www.reddit.com/r/scala/comments/1az9hli/scala_installation_on_ubuntu_2204/)
 - [Future of Scala libraries](https://www.reddit.com/r/scala/comments/1ayqcx0/future_of_scala_libraries/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scammers running site similar to scala-lang.org](https://www.reddit.com/r/scala/comments/1ay601l/scammers_running_site_similar_to_scalalangorg/)
 - [How to link a Scala compiled jar in an Android project?](https://www.reddit.com/r/scala/comments/1ay26ve/how_to_link_a_scala_compiled_jar_in_an_android/)
 - [sbt 1.9.9 released](https://www.reddit.com/r/scala/comments/1axuc54/sbt_199_released/)
-- [Calculating 1 + 2 in a cross platform way: Crossing those hills](https://www.reddit.com/r/scala/comments/1ax1vwm/calculating_1_2_in_a_cross_platform_way_crossing/)
-- [Optimizing Functional Walks of File Trees](https://www.reddit.com/r/scala/comments/1aw1443/optimizing_functional_walks_of_file_trees/)
-- [Improving my Distributed System with Scala 3: Consistency Guarantees &amp; Background Tasks &lpar;Part 2&rpar;](https://www.reddit.com/r/scala/comments/1avifcy/improving_my_distributed_system_with_scala_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

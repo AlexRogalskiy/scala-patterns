@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala-Native 0.5.0-RC1 is out!!](https://www.reddit.com/r/scala/comments/1b269h8/scalanative_050rc1_is_out/)
 - [Installing Scala on RHEL 9 without access to internet](https://www.reddit.com/r/scala/comments/1b1lh4h/installing_scala_on_rhel_9_without_access_to/)
 - [Spark NLP 5.3.0: Introducing Llama-2 for CasualLM, M2M100 for Multilingual Translation, MPNet &amp; DeBERTa Enhancements, New Document Similarity Features, Expanded ONNX &amp; In-Memory Support, Updated Runtimes, Essential Bug Fixes, and More!](https://www.reddit.com/r/scala/comments/1b1cpm2/spark_nlp_530_introducing_llama2_for_casuallm/)
 - [sbt fails on WSL2/Ubuntu-22.04](https://www.reddit.com/r/scala/comments/1b1buc5/sbt_fails_on_wsl2ubuntu2204/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [the holy graal of GitHub Actions](https://www.reddit.com/r/scala/comments/1b06025/the_holy_graal_of_github_actions/)
 - [This week in #Scala &lpar;Feb 26, 2024&rpar;](https://www.reddit.com/r/scala/comments/1azunj7/this_week_in_scala_feb_26_2024/)
 - [scala installation on Ubuntu 22.04](https://www.reddit.com/r/scala/comments/1az9hli/scala_installation_on_ubuntu_2204/)
-- [Future of Scala libraries](https://www.reddit.com/r/scala/comments/1ayqcx0/future_of_scala_libraries/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3.4.0 and 3.3.3 LTS released!](https://www.reddit.com/r/scala/comments/1b35lgc/scala_340_and_333_lts_released/)
+- [Significant whitespace and local scope](https://www.reddit.com/r/scala/comments/1b317z0/significant_whitespace_and_local_scope/)
+- [The JetBrains Academy Functional Programming in Scala Course Is Out!](https://www.reddit.com/r/scala/comments/1b30e3t/the_jetbrains_academy_functional_programming_in/)
+- [Scalendar March 2024](https://www.reddit.com/r/scala/comments/1b2z2zq/scalendar_march_2024/)
+- [Apache Pekko 1.0.3-M1 released](https://www.reddit.com/r/scala/comments/1b2uq7m/apache_pekko_103m1_released/)
+- [Is build.sbt in Scala 2?](https://www.reddit.com/r/scala/comments/1b2oc6q/is_buildsbt_in_scala_2/)
 - [Scala-Native 0.5.0-RC1 is out!!](https://www.reddit.com/r/scala/comments/1b269h8/scalanative_050rc1_is_out/)
 - [Installing Scala on RHEL 9 without access to internet](https://www.reddit.com/r/scala/comments/1b1lh4h/installing_scala_on_rhel_9_without_access_to/)
 - [Spark NLP 5.3.0: Introducing Llama-2 for CasualLM, M2M100 for Multilingual Translation, MPNet &amp; DeBERTa Enhancements, New Document Similarity Features, Expanded ONNX &amp; In-Memory Support, Updated Runtimes, Essential Bug Fixes, and More!](https://www.reddit.com/r/scala/comments/1b1cpm2/spark_nlp_530_introducing_llama2_for_casuallm/)
 - [sbt fails on WSL2/Ubuntu-22.04](https://www.reddit.com/r/scala/comments/1b1buc5/sbt_fails_on_wsl2ubuntu2204/)
-- [Scala 3 Hazlecast serializaton](https://www.reddit.com/r/scala/comments/1b10clq/scala_3_hazlecast_serializaton/)
-- [Scala 2.13.13 and 2.12.19 are here!](https://www.reddit.com/r/scala/comments/1b0rm3i/scala_21313_and_21219_are_here/)
-- [Scalar is in a month - the main Scala event of 2024 - agenda, trainings](https://www.reddit.com/r/scala/comments/1b0in7z/scalar_is_in_a_month_the_main_scala_event_of_2024/)
-- [the holy graal of GitHub Actions](https://www.reddit.com/r/scala/comments/1b06025/the_holy_graal_of_github_actions/)
-- [This week in #Scala &lpar;Feb 26, 2024&rpar;](https://www.reddit.com/r/scala/comments/1azunj7/this_week_in_scala_feb_26_2024/)
-- [scala installation on Ubuntu 22.04](https://www.reddit.com/r/scala/comments/1az9hli/scala_installation_on_ubuntu_2204/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

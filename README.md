@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Crafting Interpreters – ran into a wall with parser, help me find out what I did wrong?](https://www.reddit.com/r/scala/comments/1b44ulh/crafting_interpreters_ran_into_a_wall_with_parser/)
+- [Besom, Pulumi SDK for Scala 0.2 released](https://www.reddit.com/r/scala/comments/1b40i83/besom_pulumi_sdk_for_scala_02_released/)
+- [Play 2.9.2 and 3.0.2 released](https://www.reddit.com/r/scala/comments/1b3z966/play_292_and_302_released/)
+- [Safe use of Try? How to avoid mistakenly ignoring exceptions?](https://www.reddit.com/r/scala/comments/1b3wvs2/safe_use_of_try_how_to_avoid_mistakenly_ignoring/)
+- [Beware of fake online Scala courses](https://www.reddit.com/r/scala/comments/1b3ufbo/beware_of_fake_online_scala_courses/)
+- [How to inner join two FS2 streams?](https://www.reddit.com/r/scala/comments/1b3na6j/how_to_inner_join_two_fs2_streams/)
 - [Scala 3.4.0 and 3.3.3 LTS released!](https://www.reddit.com/r/scala/comments/1b35lgc/scala_340_and_333_lts_released/)
 - [Significant whitespace and local scope](https://www.reddit.com/r/scala/comments/1b317z0/significant_whitespace_and_local_scope/)
 - [The JetBrains Academy Functional Programming in Scala Course Is Out!](https://www.reddit.com/r/scala/comments/1b30e3t/the_jetbrains_academy_functional_programming_in/)
 - [Scalendar March 2024](https://www.reddit.com/r/scala/comments/1b2z2zq/scalendar_march_2024/)
-- [Apache Pekko 1.0.3-M1 released](https://www.reddit.com/r/scala/comments/1b2uq7m/apache_pekko_103m1_released/)
-- [Is build.sbt in Scala 2?](https://www.reddit.com/r/scala/comments/1b2oc6q/is_buildsbt_in_scala_2/)
-- [Scala-Native 0.5.0-RC1 is out!!](https://www.reddit.com/r/scala/comments/1b269h8/scalanative_050rc1_is_out/)
-- [Installing Scala on RHEL 9 without access to internet](https://www.reddit.com/r/scala/comments/1b1lh4h/installing_scala_on_rhel_9_without_access_to/)
-- [Spark NLP 5.3.0: Introducing Llama-2 for CasualLM, M2M100 for Multilingual Translation, MPNet &amp; DeBERTa Enhancements, New Document Similarity Features, Expanded ONNX &amp; In-Memory Support, Updated Runtimes, Essential Bug Fixes, and More!](https://www.reddit.com/r/scala/comments/1b1cpm2/spark_nlp_530_introducing_llama2_for_casuallm/)
-- [sbt fails on WSL2/Ubuntu-22.04](https://www.reddit.com/r/scala/comments/1b1buc5/sbt_fails_on_wsl2ubuntu2204/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

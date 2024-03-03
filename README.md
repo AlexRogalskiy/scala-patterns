@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Flavors of shared state in Cats Effect](https://www.reddit.com/r/scala/comments/1b4s8lp/flavors_of_shared_state_in_cats_effect/)
+- [project_test.scala &lpar;issues with running&rpar;](https://www.reddit.com/r/scala/comments/1b4pq19/project_testscala_issues_with_running/)
 - [Crafting Interpreters – ran into a wall with parser, help me find out what I did wrong?](https://www.reddit.com/r/scala/comments/1b44ulh/crafting_interpreters_ran_into_a_wall_with_parser/)
 - [Besom, Pulumi SDK for Scala 0.2 released](https://www.reddit.com/r/scala/comments/1b40i83/besom_pulumi_sdk_for_scala_02_released/)
 - [Play 2.9.2 and 3.0.2 released](https://www.reddit.com/r/scala/comments/1b3z966/play_292_and_302_released/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to inner join two FS2 streams?](https://www.reddit.com/r/scala/comments/1b3na6j/how_to_inner_join_two_fs2_streams/)
 - [Scala 3.4.0 and 3.3.3 LTS released!](https://www.reddit.com/r/scala/comments/1b35lgc/scala_340_and_333_lts_released/)
 - [Significant whitespace and local scope](https://www.reddit.com/r/scala/comments/1b317z0/significant_whitespace_and_local_scope/)
-- [The JetBrains Academy Functional Programming in Scala Course Is Out!](https://www.reddit.com/r/scala/comments/1b30e3t/the_jetbrains_academy_functional_programming_in/)
-- [Scalendar March 2024](https://www.reddit.com/r/scala/comments/1b2z2zq/scalendar_march_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

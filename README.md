@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Mar 4, 2024&rpar;](https://www.reddit.com/r/scala/comments/1b5o9ok/this_week_in_scala_mar_4_2024/)
+- [% and == are not recognized.](https://www.reddit.com/r/scala/comments/1b5jb28/and_are_not_recognized/)
+- [Iron v2.5.0 is out!](https://www.reddit.com/r/scala/comments/1b5ea3y/iron_v250_is_out/)
+- [What do you think?](https://www.reddit.com/r/scala/comments/1b59wu1/what_do_you_think/)
 - [Flavors of shared state in Cats Effect](https://www.reddit.com/r/scala/comments/1b4s8lp/flavors_of_shared_state_in_cats_effect/)
 - [project_test.scala &lpar;issues with running&rpar;](https://www.reddit.com/r/scala/comments/1b4pq19/project_testscala_issues_with_running/)
 - [Crafting Interpreters – ran into a wall with parser, help me find out what I did wrong?](https://www.reddit.com/r/scala/comments/1b44ulh/crafting_interpreters_ran_into_a_wall_with_parser/)
 - [Besom, Pulumi SDK for Scala 0.2 released](https://www.reddit.com/r/scala/comments/1b40i83/besom_pulumi_sdk_for_scala_02_released/)
 - [Play 2.9.2 and 3.0.2 released](https://www.reddit.com/r/scala/comments/1b3z966/play_292_and_302_released/)
 - [Safe use of Try? How to avoid mistakenly ignoring exceptions?](https://www.reddit.com/r/scala/comments/1b3wvs2/safe_use_of_try_how_to_avoid_mistakenly_ignoring/)
-- [Beware of fake online Scala courses](https://www.reddit.com/r/scala/comments/1b3ufbo/beware_of_fake_online_scala_courses/)
-- [How to inner join two FS2 streams?](https://www.reddit.com/r/scala/comments/1b3na6j/how_to_inner_join_two_fs2_streams/)
-- [Scala 3.4.0 and 3.3.3 LTS released!](https://www.reddit.com/r/scala/comments/1b35lgc/scala_340_and_333_lts_released/)
-- [Significant whitespace and local scope](https://www.reddit.com/r/scala/comments/1b317z0/significant_whitespace_and_local_scope/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

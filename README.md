@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Leetcode has 3.3.1!](https://www.reddit.com/r/scala/comments/1b6p5bx/leetcode_has_331/)
+- [Scala&#39;s AsynchronousFileChannel is not truly asynchronous.](https://www.reddit.com/r/scala/comments/1b6k0cs/scalas_asynchronousfilechannel_is_not_truly/)
+- [SBT TASK : Compile](https://www.reddit.com/r/scala/comments/1b6arwb/sbt_task_compile/)
 - [This week in #Scala &lpar;Mar 4, 2024&rpar;](https://www.reddit.com/r/scala/comments/1b5o9ok/this_week_in_scala_mar_4_2024/)
 - [% and == are not recognized.](https://www.reddit.com/r/scala/comments/1b5jb28/and_are_not_recognized/)
 - [Iron v2.5.0 is out!](https://www.reddit.com/r/scala/comments/1b5ea3y/iron_v250_is_out/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Flavors of shared state in Cats Effect](https://www.reddit.com/r/scala/comments/1b4s8lp/flavors_of_shared_state_in_cats_effect/)
 - [project_test.scala &lpar;issues with running&rpar;](https://www.reddit.com/r/scala/comments/1b4pq19/project_testscala_issues_with_running/)
 - [Crafting Interpreters – ran into a wall with parser, help me find out what I did wrong?](https://www.reddit.com/r/scala/comments/1b44ulh/crafting_interpreters_ran_into_a_wall_with_parser/)
-- [Besom, Pulumi SDK for Scala 0.2 released](https://www.reddit.com/r/scala/comments/1b40i83/besom_pulumi_sdk_for_scala_02_released/)
-- [Play 2.9.2 and 3.0.2 released](https://www.reddit.com/r/scala/comments/1b3z966/play_292_and_302_released/)
-- [Safe use of Try? How to avoid mistakenly ignoring exceptions?](https://www.reddit.com/r/scala/comments/1b3wvs2/safe_use_of_try_how_to_avoid_mistakenly_ignoring/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

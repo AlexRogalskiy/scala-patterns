@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Type parameter return type.](https://www.reddit.com/r/scala/comments/1b76k3k/type_parameter_return_type/)
+- [Is it worth migrating a web app from finagle/finatra to http4s?](https://www.reddit.com/r/scala/comments/1b7427x/is_it_worth_migrating_a_web_app_from/)
+- [hadoop location failed](https://www.reddit.com/r/scala/comments/1b724eo/hadoop_location_failed/)
+- [Deriving the Elm Architecture · Purple Kingdom Games](https://www.reddit.com/r/scala/comments/1b70cy5/deriving_the_elm_architecture_purple_kingdom_games/)
+- [a Scala success story: discover Swissborg with Voytek Pituła](https://www.reddit.com/r/scala/comments/1b70agl/a_scala_success_story_discover_swissborg_with/)
 - [Leetcode has 3.3.1!](https://www.reddit.com/r/scala/comments/1b6p5bx/leetcode_has_331/)
 - [Scala&#39;s AsynchronousFileChannel is not truly asynchronous.](https://www.reddit.com/r/scala/comments/1b6k0cs/scalas_asynchronousfilechannel_is_not_truly/)
 - [SBT TASK : Compile](https://www.reddit.com/r/scala/comments/1b6arwb/sbt_task_compile/)
 - [This week in #Scala &lpar;Mar 4, 2024&rpar;](https://www.reddit.com/r/scala/comments/1b5o9ok/this_week_in_scala_mar_4_2024/)
 - [% and == are not recognized.](https://www.reddit.com/r/scala/comments/1b5jb28/and_are_not_recognized/)
-- [Iron v2.5.0 is out!](https://www.reddit.com/r/scala/comments/1b5ea3y/iron_v250_is_out/)
-- [What do you think?](https://www.reddit.com/r/scala/comments/1b59wu1/what_do_you_think/)
-- [Flavors of shared state in Cats Effect](https://www.reddit.com/r/scala/comments/1b4s8lp/flavors_of_shared_state_in_cats_effect/)
-- [project_test.scala &lpar;issues with running&rpar;](https://www.reddit.com/r/scala/comments/1b4pq19/project_testscala_issues_with_running/)
-- [Crafting Interpreters – ran into a wall with parser, help me find out what I did wrong?](https://www.reddit.com/r/scala/comments/1b44ulh/crafting_interpreters_ran_into_a_wall_with_parser/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

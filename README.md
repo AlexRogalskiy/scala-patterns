@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Context Propagation with otel4s](https://www.reddit.com/r/scala/comments/1b92q1i/context_propagation_with_otel4s/)
+- [Anybody interested in a simple Cask OpenApi Generator template with scala-cli build?](https://www.reddit.com/r/scala/comments/1b8xdhr/anybody_interested_in_a_simple_cask_openapi/)
 - [Scala 3.3.2 post-mortem analysis](https://www.reddit.com/r/scala/comments/1b8cp6j/scala_332_postmortem_analysis/)
 - [Map of Scala jobs being advertised on Linkedin](https://www.reddit.com/r/scala/comments/1b81ykq/map_of_scala_jobs_being_advertised_on_linkedin/)
 - [Releasing Kyo: When Performance Meets Elegance In Scala by Flavio Brasil](https://www.reddit.com/r/scala/comments/1b81nst/releasing_kyo_when_performance_meets_elegance_in/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Is it worth migrating a web app from finagle/finatra to http4s?](https://www.reddit.com/r/scala/comments/1b7427x/is_it_worth_migrating_a_web_app_from/)
 - [hadoop location failed](https://www.reddit.com/r/scala/comments/1b724eo/hadoop_location_failed/)
 - [Deriving the Elm Architecture · Purple Kingdom Games](https://www.reddit.com/r/scala/comments/1b70cy5/deriving_the_elm_architecture_purple_kingdom_games/)
-- [a Scala success story: discover Swissborg with Voytek Pituła](https://www.reddit.com/r/scala/comments/1b70agl/a_scala_success_story_discover_swissborg_with/)
-- [Leetcode has 3.3.1!](https://www.reddit.com/r/scala/comments/1b6p5bx/leetcode_has_331/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

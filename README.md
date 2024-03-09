@@ -275,12 +275,12 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Anybody interested in a simple Cask OpenApi Generator template with scala-cli build?](https://www.reddit.com/r/scala/comments/1b8xdhr/anybody_interested_in_a_simple_cask_openapi/)
 - [Scala 3.3.2 post-mortem analysis](https://www.reddit.com/r/scala/comments/1b8cp6j/scala_332_postmortem_analysis/)
 - [Map of Scala jobs being advertised on Linkedin](https://www.reddit.com/r/scala/comments/1b81ykq/map_of_scala_jobs_being_advertised_on_linkedin/)
+- [Automated Reformatting of Source Snippet to consistent &quot;infix&quot; or &quot;non-infix&quot; notation &lpar;as opposed to mixed, which can be a real mind bender&rpar;?](https://www.reddit.com/r/scala/comments/1b81xdt/automated_reformatting_of_source_snippet_to/)
 - [Releasing Kyo: When Performance Meets Elegance In Scala by Flavio Brasil](https://www.reddit.com/r/scala/comments/1b81nst/releasing_kyo_when_performance_meets_elegance_in/)
 - [example of concurrency handling using cats effect](https://www.reddit.com/r/scala/comments/1b7pq0l/example_of_concurrency_handling_using_cats_effect/)
 - [Type parameter return type.](https://www.reddit.com/r/scala/comments/1b76k3k/type_parameter_return_type/)
 - [Is it worth migrating a web app from finagle/finatra to http4s?](https://www.reddit.com/r/scala/comments/1b7427x/is_it_worth_migrating_a_web_app_from/)
 - [hadoop location failed](https://www.reddit.com/r/scala/comments/1b724eo/hadoop_location_failed/)
-- [Deriving the Elm Architecture · Purple Kingdom Games](https://www.reddit.com/r/scala/comments/1b70cy5/deriving_the_elm_architecture_purple_kingdom_games/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

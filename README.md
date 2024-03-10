@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Pre-SIP: Improve Syntax for Context Bounds and Givens](https://www.reddit.com/r/scala/comments/1bantlp/presip_improve_syntax_for_context_bounds_and/)
 - [Context Propagation with otel4s](https://www.reddit.com/r/scala/comments/1b92q1i/context_propagation_with_otel4s/)
 - [Anybody interested in a simple Cask OpenApi Generator template with scala-cli build?](https://www.reddit.com/r/scala/comments/1b8xdhr/anybody_interested_in_a_simple_cask_openapi/)
 - [Scala 3.3.2 post-mortem analysis](https://www.reddit.com/r/scala/comments/1b8cp6j/scala_332_postmortem_analysis/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [example of concurrency handling using cats effect](https://www.reddit.com/r/scala/comments/1b7pq0l/example_of_concurrency_handling_using_cats_effect/)
 - [Type parameter return type.](https://www.reddit.com/r/scala/comments/1b76k3k/type_parameter_return_type/)
 - [Is it worth migrating a web app from finagle/finatra to http4s?](https://www.reddit.com/r/scala/comments/1b7427x/is_it_worth_migrating_a_web_app_from/)
-- [hadoop location failed](https://www.reddit.com/r/scala/comments/1b724eo/hadoop_location_failed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

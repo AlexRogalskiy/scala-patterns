@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Cats Effect - should I wrap pure code in IO?](https://www.reddit.com/r/scala/comments/1bbg514/cats_effect_should_i_wrap_pure_code_in_io/)
+- [This week in #Scala &lpar;Mar 11, 2024&rpar;](https://www.reddit.com/r/scala/comments/1bbeqzd/this_week_in_scala_mar_11_2024/)
+- [Suggestion dealing with multiple traits and profile combinations](https://www.reddit.com/r/scala/comments/1bb45xx/suggestion_dealing_with_multiple_traits_and/)
 - [Pre-SIP: Improve Syntax for Context Bounds and Givens](https://www.reddit.com/r/scala/comments/1bantlp/presip_improve_syntax_for_context_bounds_and/)
 - [Context Propagation with otel4s](https://www.reddit.com/r/scala/comments/1b92q1i/context_propagation_with_otel4s/)
 - [Anybody interested in a simple Cask OpenApi Generator template with scala-cli build?](https://www.reddit.com/r/scala/comments/1b8xdhr/anybody_interested_in_a_simple_cask_openapi/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Map of Scala jobs being advertised on Linkedin](https://www.reddit.com/r/scala/comments/1b81ykq/map_of_scala_jobs_being_advertised_on_linkedin/)
 - [Automated Reformatting of Source Snippet to consistent &quot;infix&quot; or &quot;non-infix&quot; notation &lpar;as opposed to mixed, which can be a real mind bender&rpar;?](https://www.reddit.com/r/scala/comments/1b81xdt/automated_reformatting_of_source_snippet_to/)
 - [Releasing Kyo: When Performance Meets Elegance In Scala by Flavio Brasil](https://www.reddit.com/r/scala/comments/1b81nst/releasing_kyo_when_performance_meets_elegance_in/)
-- [example of concurrency handling using cats effect](https://www.reddit.com/r/scala/comments/1b7pq0l/example_of_concurrency_handling_using_cats_effect/)
-- [Type parameter return type.](https://www.reddit.com/r/scala/comments/1b76k3k/type_parameter_return_type/)
-- [Is it worth migrating a web app from finagle/finatra to http4s?](https://www.reddit.com/r/scala/comments/1b7427x/is_it_worth_migrating_a_web_app_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

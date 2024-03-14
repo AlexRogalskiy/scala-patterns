@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Calculating 1 + 2 in a cross-platform way: A false end](https://www.reddit.com/r/scala/comments/1bdwah4/calculating_1_2_in_a_crossplatform_way_a_false_end/)
+- [Having trouble dockerizing an sbt project without sbt-native-packager](https://www.reddit.com/r/scala/comments/1bdrtkl/having_trouble_dockerizing_an_sbt_project_without/)
+- [Master Scala Rest APIs in 3 Simple Concepts: Illustrated Guide with Tapir, http4s, and Circe!](https://www.reddit.com/r/scala/comments/1bdl1h7/master_scala_rest_apis_in_3_simple_concepts/)
+- [tree-sitter-scala 0.21.0 released](https://www.reddit.com/r/scala/comments/1bdl05m/treesitterscala_0210_released/)
 - [Free Scala FP course](https://www.reddit.com/r/scala/comments/1bd7k85/free_scala_fp_course/)
 - [Exploring Functional Programming: Building Contexts with ADTs and Defining Behaviors with Type Classes](https://www.reddit.com/r/scala/comments/1bd562y/exploring_functional_programming_building/)
 - [Two-phase consensus with functional Scala](https://www.reddit.com/r/scala/comments/1bd21dm/twophase_consensus_with_functional_scala/)
 - [New SIP: Improve the Syntax of Context Bounds and Givens](https://www.reddit.com/r/scala/comments/1bcx1e3/new_sip_improve_the_syntax_of_context_bounds_and/)
 - [Cats Effect - should I wrap pure code in IO?](https://www.reddit.com/r/scala/comments/1bbg514/cats_effect_should_i_wrap_pure_code_in_io/)
 - [This week in #Scala &lpar;Mar 11, 2024&rpar;](https://www.reddit.com/r/scala/comments/1bbeqzd/this_week_in_scala_mar_11_2024/)
-- [Suggestion dealing with multiple traits and profile combinations](https://www.reddit.com/r/scala/comments/1bb45xx/suggestion_dealing_with_multiple_traits_and/)
-- [Pre-SIP: Improve Syntax for Context Bounds and Givens](https://www.reddit.com/r/scala/comments/1bantlp/presip_improve_syntax_for_context_bounds_and/)
-- [Context Propagation with otel4s](https://www.reddit.com/r/scala/comments/1b92q1i/context_propagation_with_otel4s/)
-- [Anybody interested in a simple Cask OpenApi Generator template with scala-cli build?](https://www.reddit.com/r/scala/comments/1b8xdhr/anybody_interested_in_a_simple_cask_openapi/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

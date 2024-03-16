@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3 Roadmap for 2024](https://www.reddit.com/r/scala/comments/1bfa9r5/scala_3_roadmap_for_2024/)
+- [Tapir dropping Scala 2.12 support](https://www.reddit.com/r/scala/comments/1bfa875/tapir_dropping_scala_212_support/)
+- [Cats Effect vs ZIO, which is better for job hunting?](https://www.reddit.com/r/scala/comments/1bf5pkm/cats_effect_vs_zio_which_is_better_for_job_hunting/)
 - [Unwrapping IO: is it a path that you want to follow? by Adam WARSKI](https://www.reddit.com/r/scala/comments/1bf17qf/unwrapping_io_is_it_a_path_that_you_want_to/)
 - [Let&#39;s build Snake!](https://www.reddit.com/r/scala/comments/1beh4dn/lets_build_snake/)
 - [Jar Jar Abrams 1.14.0 and sbt-assembly 2.2.0 released](https://www.reddit.com/r/scala/comments/1beenjs/jar_jar_abrams_1140_and_sbtassembly_220_released/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Having trouble dockerizing an sbt project without sbt-native-packager](https://www.reddit.com/r/scala/comments/1bdrtkl/having_trouble_dockerizing_an_sbt_project_without/)
 - [Master Scala Rest APIs in 3 Simple Concepts: Illustrated Guide with Tapir, http4s, and Circe!](https://www.reddit.com/r/scala/comments/1bdl1h7/master_scala_rest_apis_in_3_simple_concepts/)
 - [tree-sitter-scala 0.21.0 released](https://www.reddit.com/r/scala/comments/1bdl05m/treesitterscala_0210_released/)
-- [Free Scala FP course](https://www.reddit.com/r/scala/comments/1bd7k85/free_scala_fp_course/)
-- [Exploring Functional Programming: Building Contexts with ADTs and Defining Behaviors with Type Classes](https://www.reddit.com/r/scala/comments/1bd562y/exploring_functional_programming_building/)
-- [Two-phase consensus with functional Scala](https://www.reddit.com/r/scala/comments/1bd21dm/twophase_consensus_with_functional_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

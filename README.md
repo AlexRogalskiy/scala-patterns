@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is the best way to perform an exact comparison match when iterating on each Map key?](https://www.reddit.com/r/scala/comments/1bgdkwc/what_is_the_best_way_to_perform_an_exact/)
+- [Leveraging sbt remote caching on a big modular monolith](https://www.reddit.com/r/scala/comments/1bfzgjr/leveraging_sbt_remote_caching_on_a_big_modular/)
 - [Scala 3 Roadmap for 2024](https://www.reddit.com/r/scala/comments/1bfa9r5/scala_3_roadmap_for_2024/)
 - [Tapir dropping Scala 2.12 support](https://www.reddit.com/r/scala/comments/1bfa875/tapir_dropping_scala_212_support/)
 - [Cats Effect vs ZIO, which is better for job hunting?](https://www.reddit.com/r/scala/comments/1bf5pkm/cats_effect_vs_zio_which_is_better_for_job_hunting/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Jar Jar Abrams 1.14.0 and sbt-assembly 2.2.0 released](https://www.reddit.com/r/scala/comments/1beenjs/jar_jar_abrams_1140_and_sbtassembly_220_released/)
 - [Calculating 1 + 2 in a cross-platform way: A false end](https://www.reddit.com/r/scala/comments/1bdwah4/calculating_1_2_in_a_crossplatform_way_a_false_end/)
 - [Having trouble dockerizing an sbt project without sbt-native-packager](https://www.reddit.com/r/scala/comments/1bdrtkl/having_trouble_dockerizing_an_sbt_project_without/)
-- [Master Scala Rest APIs in 3 Simple Concepts: Illustrated Guide with Tapir, http4s, and Circe!](https://www.reddit.com/r/scala/comments/1bdl1h7/master_scala_rest_apis_in_3_simple_concepts/)
-- [tree-sitter-scala 0.21.0 released](https://www.reddit.com/r/scala/comments/1bdl05m/treesitterscala_0210_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

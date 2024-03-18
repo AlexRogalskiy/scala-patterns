@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Java users on macOS 14 running on Apple silicon systems should consider delaying the macOS 14.4 update](https://www.reddit.com/r/scala/comments/1bhbeyh/java_users_on_macos_14_running_on_apple_silicon/)
+- [scala-reflection 2.0.2 for Scala 3 is released](https://www.reddit.com/r/scala/comments/1bhbckz/scalareflection_202_for_scala_3_is_released/)
+- [This week in #Scala &lpar;Mar 18, 2024&rpar;](https://www.reddit.com/r/scala/comments/1bh0za5/this_week_in_scala_mar_18_2024/)
+- [Does it usually take this long to download Scala?](https://www.reddit.com/r/scala/comments/1bgyapu/does_it_usually_take_this_long_to_download_scala/)
+- [Can I transition from functional .Net to Scala?](https://www.reddit.com/r/scala/comments/1bgq9be/can_i_transition_from_functional_net_to_scala/)
 - [What is the best way to perform an exact comparison match when iterating on each Map key?](https://www.reddit.com/r/scala/comments/1bgdkwc/what_is_the_best_way_to_perform_an_exact/)
 - [Leveraging sbt remote caching on a big modular monolith](https://www.reddit.com/r/scala/comments/1bfzgjr/leveraging_sbt_remote_caching_on_a_big_modular/)
 - [Scala 3 Roadmap for 2024](https://www.reddit.com/r/scala/comments/1bfa9r5/scala_3_roadmap_for_2024/)
 - [Tapir dropping Scala 2.12 support](https://www.reddit.com/r/scala/comments/1bfa875/tapir_dropping_scala_212_support/)
 - [Cats Effect vs ZIO, which is better for job hunting?](https://www.reddit.com/r/scala/comments/1bf5pkm/cats_effect_vs_zio_which_is_better_for_job_hunting/)
-- [Unwrapping IO: is it a path that you want to follow? by Adam WARSKI](https://www.reddit.com/r/scala/comments/1bf17qf/unwrapping_io_is_it_a_path_that_you_want_to/)
-- [Let&#39;s build Snake!](https://www.reddit.com/r/scala/comments/1beh4dn/lets_build_snake/)
-- [Jar Jar Abrams 1.14.0 and sbt-assembly 2.2.0 released](https://www.reddit.com/r/scala/comments/1beenjs/jar_jar_abrams_1140_and_sbtassembly_220_released/)
-- [Calculating 1 + 2 in a cross-platform way: A false end](https://www.reddit.com/r/scala/comments/1bdwah4/calculating_1_2_in_a_crossplatform_way_a_false_end/)
-- [Having trouble dockerizing an sbt project without sbt-native-packager](https://www.reddit.com/r/scala/comments/1bdrtkl/having_trouble_dockerizing_an_sbt_project_without/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

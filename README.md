@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Apache Pekko has graduated from Apache Incubator and is now a TLP &lpar;Top Level Project&rpar;](https://www.reddit.com/r/scala/comments/1bjt1wx/apache_pekko_has_graduated_from_apache_incubator/)
 - [Announcing Scala.js 1.16.0, featuring code size improvements](https://www.reddit.com/r/scala/comments/1bihnpf/announcing_scalajs_1160_featuring_code_size/)
 - [How do you test lazy or parallel code?](https://www.reddit.com/r/scala/comments/1bifh7p/how_do_you_test_lazy_or_parallel_code/)
 - [Helenus v1.5.0](https://www.reddit.com/r/scala/comments/1bifcuv/helenus_v150/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Mar 18, 2024&rpar;](https://www.reddit.com/r/scala/comments/1bh0za5/this_week_in_scala_mar_18_2024/)
 - [Does it usually take this long to download Scala?](https://www.reddit.com/r/scala/comments/1bgyapu/does_it_usually_take_this_long_to_download_scala/)
 - [Can I transition from functional .Net to Scala?](https://www.reddit.com/r/scala/comments/1bgq9be/can_i_transition_from_functional_net_to_scala/)
-- [What is the best way to perform an exact comparison match when iterating on each Map key?](https://www.reddit.com/r/scala/comments/1bgdkwc/what_is_the_best_way_to_perform_an_exact/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

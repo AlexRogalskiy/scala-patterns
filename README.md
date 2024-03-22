@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to point sbt to use locally installed protoc in my scala project?](https://www.reddit.com/r/scala/comments/1bkitn1/how_to_point_sbt_to_use_locally_installed_protoc/)
+- [Upgraded Circe Lib version - UT failing - not able to figure out](https://www.reddit.com/r/scala/comments/1bkd6zu/upgraded_circe_lib_version_ut_failing_not_able_to/)
+- [SIP-61 - Unroll Default Arguments for Binary Compatibility](https://www.reddit.com/r/scala/comments/1bjz4gk/sip61_unroll_default_arguments_for_binary/)
 - [Apache Pekko has graduated from Apache Incubator and is now a TLP &lpar;Top Level Project&rpar;](https://www.reddit.com/r/scala/comments/1bjt1wx/apache_pekko_has_graduated_from_apache_incubator/)
 - [Announcing Scala.js 1.16.0, featuring code size improvements](https://www.reddit.com/r/scala/comments/1bihnpf/announcing_scalajs_1160_featuring_code_size/)
 - [How do you test lazy or parallel code?](https://www.reddit.com/r/scala/comments/1bifh7p/how_do_you_test_lazy_or_parallel_code/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Simple Scala with Li-Haoyi](https://www.reddit.com/r/scala/comments/1bhm8wp/simple_scala_with_lihaoyi/)
 - [Java users on macOS 14 running on Apple silicon systems should consider delaying the macOS 14.4 update](https://www.reddit.com/r/scala/comments/1bhbeyh/java_users_on_macos_14_running_on_apple_silicon/)
 - [scala-reflection 2.0.2 for Scala 3 is released](https://www.reddit.com/r/scala/comments/1bhbckz/scalareflection_202_for_scala_3_is_released/)
-- [This week in #Scala &lpar;Mar 18, 2024&rpar;](https://www.reddit.com/r/scala/comments/1bh0za5/this_week_in_scala_mar_18_2024/)
-- [Does it usually take this long to download Scala?](https://www.reddit.com/r/scala/comments/1bgyapu/does_it_usually_take_this_long_to_download_scala/)
-- [Can I transition from functional .Net to Scala?](https://www.reddit.com/r/scala/comments/1bgq9be/can_i_transition_from_functional_net_to_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

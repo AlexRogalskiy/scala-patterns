@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Mar 25, 2024&rpar;](https://www.reddit.com/r/scala/comments/1bmpibl/this_week_in_scala_mar_25_2024/)
+- [SHelm - SBT Helm plugin update](https://www.reddit.com/r/scala/comments/1bmj8h7/shelm_sbt_helm_plugin_update/)
+- [Scams in the Scala community: update](https://www.reddit.com/r/scala/comments/1bmgxty/scams_in_the_scala_community_update/)
 - [How to point sbt to use locally installed protoc in my scala project?](https://www.reddit.com/r/scala/comments/1bkitn1/how_to_point_sbt_to_use_locally_installed_protoc/)
 - [Upgraded Circe Lib version - UT failing - not able to figure out](https://www.reddit.com/r/scala/comments/1bkd6zu/upgraded_circe_lib_version_ut_failing_not_able_to/)
 - [SIP-61 - Unroll Default Arguments for Binary Compatibility](https://www.reddit.com/r/scala/comments/1bjz4gk/sip61_unroll_default_arguments_for_binary/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Announcing Scala.js 1.16.0, featuring code size improvements](https://www.reddit.com/r/scala/comments/1bihnpf/announcing_scalajs_1160_featuring_code_size/)
 - [How do you test lazy or parallel code?](https://www.reddit.com/r/scala/comments/1bifh7p/how_do_you_test_lazy_or_parallel_code/)
 - [Helenus v1.5.0](https://www.reddit.com/r/scala/comments/1bifcuv/helenus_v150/)
-- [Simple Scala with Li-Haoyi](https://www.reddit.com/r/scala/comments/1bhm8wp/simple_scala_with_lihaoyi/)
-- [Java users on macOS 14 running on Apple silicon systems should consider delaying the macOS 14.4 update](https://www.reddit.com/r/scala/comments/1bhbeyh/java_users_on_macos_14_running_on_apple_silicon/)
-- [scala-reflection 2.0.2 for Scala 3 is released](https://www.reddit.com/r/scala/comments/1bhbckz/scalareflection_202_for_scala_3_is_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Live Coding session on Akka/Pekko integration on Helenus](https://www.reddit.com/r/scala/comments/1bn7r0r/live_coding_session_on_akkapekko_integration_on/)
 - [This week in #Scala &lpar;Mar 25, 2024&rpar;](https://www.reddit.com/r/scala/comments/1bmpibl/this_week_in_scala_mar_25_2024/)
 - [SHelm - SBT Helm plugin update](https://www.reddit.com/r/scala/comments/1bmj8h7/shelm_sbt_helm_plugin_update/)
 - [Scams in the Scala community: update](https://www.reddit.com/r/scala/comments/1bmgxty/scams_in_the_scala_community_update/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Apache Pekko has graduated from Apache Incubator and is now a TLP &lpar;Top Level Project&rpar;](https://www.reddit.com/r/scala/comments/1bjt1wx/apache_pekko_has_graduated_from_apache_incubator/)
 - [Announcing Scala.js 1.16.0, featuring code size improvements](https://www.reddit.com/r/scala/comments/1bihnpf/announcing_scalajs_1160_featuring_code_size/)
 - [How do you test lazy or parallel code?](https://www.reddit.com/r/scala/comments/1bifh7p/how_do_you_test_lazy_or_parallel_code/)
-- [Helenus v1.5.0](https://www.reddit.com/r/scala/comments/1bifcuv/helenus_v150/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

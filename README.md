@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Capture Checking in Scala 3.4](https://www.reddit.com/r/scala/comments/1bo918u/capture_checking_in_scala_34/)
+- [Why Effects libs?](https://www.reddit.com/r/scala/comments/1bo4jcb/why_effects_libs/)
+- [Why we bet on Scala at SwissBorg](https://www.reddit.com/r/scala/comments/1bo0j4y/why_we_bet_on_scala_at_swissborg/)
 - [Live Coding session on Akka/Pekko integration on Helenus](https://www.reddit.com/r/scala/comments/1bn7r0r/live_coding_session_on_akkapekko_integration_on/)
 - [This week in #Scala &lpar;Mar 25, 2024&rpar;](https://www.reddit.com/r/scala/comments/1bmpibl/this_week_in_scala_mar_25_2024/)
 - [SHelm - SBT Helm plugin update](https://www.reddit.com/r/scala/comments/1bmj8h7/shelm_sbt_helm_plugin_update/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to point sbt to use locally installed protoc in my scala project?](https://www.reddit.com/r/scala/comments/1bkitn1/how_to_point_sbt_to_use_locally_installed_protoc/)
 - [Upgraded Circe Lib version - UT failing - not able to figure out](https://www.reddit.com/r/scala/comments/1bkd6zu/upgraded_circe_lib_version_ut_failing_not_able_to/)
 - [SIP-61 - Unroll Default Arguments for Binary Compatibility](https://www.reddit.com/r/scala/comments/1bjz4gk/sip61_unroll_default_arguments_for_binary/)
-- [Apache Pekko has graduated from Apache Incubator and is now a TLP &lpar;Top Level Project&rpar;](https://www.reddit.com/r/scala/comments/1bjt1wx/apache_pekko_has_graduated_from_apache_incubator/)
-- [Announcing Scala.js 1.16.0, featuring code size improvements](https://www.reddit.com/r/scala/comments/1bihnpf/announcing_scalajs_1160_featuring_code_size/)
-- [How do you test lazy or parallel code?](https://www.reddit.com/r/scala/comments/1bifh7p/how_do_you_test_lazy_or_parallel_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Announcing the Scala Ambassadors initiative](https://www.reddit.com/r/scala/comments/1bpzudp/announcing_the_scala_ambassadors_initiative/)
+- [Generative Art in Scala, No AI Required](https://www.reddit.com/r/scala/comments/1bpzs0q/generative_art_in_scala_no_ai_required/)
+- [AI and Software development](https://www.reddit.com/r/scala/comments/1bprzbb/ai_and_software_development/)
 - [Scala help](https://www.reddit.com/r/scala/comments/1bpapd9/scala_help/)
 - [Scala Meetup in Stockholm &lpar;April 25&rpar;](https://www.reddit.com/r/scala/comments/1bp90b4/scala_meetup_in_stockholm_april_25/)
 - [junit.runners](https://www.reddit.com/r/scala/comments/1bozp8f/junitrunners/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Capture Checking in Scala 3.4](https://www.reddit.com/r/scala/comments/1bo918u/capture_checking_in_scala_34/)
 - [Why Effects libs?](https://www.reddit.com/r/scala/comments/1bo4jcb/why_effects_libs/)
 - [Why we bet on Scala at SwissBorg](https://www.reddit.com/r/scala/comments/1bo0j4y/why_we_bet_on_scala_at_swissborg/)
-- [Live Coding session on Akka/Pekko integration on Helenus](https://www.reddit.com/r/scala/comments/1bn7r0r/live_coding_session_on_akkapekko_integration_on/)
-- [This week in #Scala &lpar;Mar 25, 2024&rpar;](https://www.reddit.com/r/scala/comments/1bmpibl/this_week_in_scala_mar_25_2024/)
-- [SHelm - SBT Helm plugin update](https://www.reddit.com/r/scala/comments/1bmj8h7/shelm_sbt_helm_plugin_update/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

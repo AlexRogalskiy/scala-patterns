@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Folding Cheat Sheet #1](https://www.reddit.com/r/scala/comments/1bqyfyb/folding_cheat_sheet_1/)
+- [ducktape 0.2.0 has been released](https://www.reddit.com/r/scala/comments/1bqhl2m/ducktape_020_has_been_released/)
 - [Announcing the Scala Ambassadors initiative](https://www.reddit.com/r/scala/comments/1bpzudp/announcing_the_scala_ambassadors_initiative/)
 - [Generative Art in Scala, No AI Required](https://www.reddit.com/r/scala/comments/1bpzs0q/generative_art_in_scala_no_ai_required/)
 - [AI and Software development](https://www.reddit.com/r/scala/comments/1bprzbb/ai_and_software_development/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [junit.runners](https://www.reddit.com/r/scala/comments/1bozp8f/junitrunners/)
 - [FOMO after only using Scala](https://www.reddit.com/r/scala/comments/1boxzvb/fomo_after_only_using_scala/)
 - [Capture Checking in Scala 3.4](https://www.reddit.com/r/scala/comments/1bo918u/capture_checking_in_scala_34/)
-- [Why Effects libs?](https://www.reddit.com/r/scala/comments/1bo4jcb/why_effects_libs/)
-- [Why we bet on Scala at SwissBorg](https://www.reddit.com/r/scala/comments/1bo0j4y/why_we_bet_on_scala_at_swissborg/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

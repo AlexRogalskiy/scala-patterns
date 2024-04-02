@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala.php 0.1.1 released!](https://www.reddit.com/r/scala/comments/1bsxh7g/scalaphp_011_released/)
+- [Supporting high-performance response streaming in Shardcake](https://www.reddit.com/r/scala/comments/1bsv30c/supporting_highperformance_response_streaming_in/)
 - [This week in #Scala &lpar;Apr 1, 2024&rpar;](https://www.reddit.com/r/scala/comments/1bsaavj/this_week_in_scala_apr_1_2024/)
 - [Folding Cheat Sheet #2 - Programmatic definition and mathematical definition of left fold and right fold](https://www.reddit.com/r/scala/comments/1bs4m6f/folding_cheat_sheet_2_programmatic_definition_and/)
 - [Scala for algorithms](https://www.reddit.com/r/scala/comments/1brz9b3/scala_for_algorithms/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Announcing the Scala Ambassadors initiative](https://www.reddit.com/r/scala/comments/1bpzudp/announcing_the_scala_ambassadors_initiative/)
 - [Generative Art in Scala, No AI Required](https://www.reddit.com/r/scala/comments/1bpzs0q/generative_art_in_scala_no_ai_required/)
 - [AI and Software development](https://www.reddit.com/r/scala/comments/1bprzbb/ai_and_software_development/)
-- [Scala help](https://www.reddit.com/r/scala/comments/1bpapd9/scala_help/)
-- [Scala Meetup in Stockholm &lpar;April 25&rpar;](https://www.reddit.com/r/scala/comments/1bp90b4/scala_meetup_in_stockholm_april_25/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [dotty-cps-async 0.9.21 &lpar;with generation of &#39;shifted&#39; high-order functions, by Olena Kravchenko&rpar;](https://www.reddit.com/r/scala/comments/1buch4e/dottycpsasync_0921_with_generation_of_shifted/)
+- [Wow this language sucks to learn](https://www.reddit.com/r/scala/comments/1buc74v/wow_this_language_sucks_to_learn/)
+- [Folding Cheat Sheet #3 - the universal property of fold](https://www.reddit.com/r/scala/comments/1bu5xj1/folding_cheat_sheet_3_the_universal_property_of/)
+- [Scala course](https://www.reddit.com/r/scala/comments/1bu2yg3/scala_course/)
 - [Scala.php 0.1.1 released!](https://www.reddit.com/r/scala/comments/1bsxh7g/scalaphp_011_released/)
 - [Supporting high-performance response streaming in Shardcake](https://www.reddit.com/r/scala/comments/1bsv30c/supporting_highperformance_response_streaming_in/)
 - [This week in #Scala &lpar;Apr 1, 2024&rpar;](https://www.reddit.com/r/scala/comments/1bsaavj/this_week_in_scala_apr_1_2024/)
 - [Folding Cheat Sheet #2 - Programmatic definition and mathematical definition of left fold and right fold](https://www.reddit.com/r/scala/comments/1bs4m6f/folding_cheat_sheet_2_programmatic_definition_and/)
 - [Scala for algorithms](https://www.reddit.com/r/scala/comments/1brz9b3/scala_for_algorithms/)
 - [Folding Cheat Sheet #1](https://www.reddit.com/r/scala/comments/1bqyfyb/folding_cheat_sheet_1/)
-- [ducktape 0.2.0 has been released](https://www.reddit.com/r/scala/comments/1bqhl2m/ducktape_020_has_been_released/)
-- [Announcing the Scala Ambassadors initiative](https://www.reddit.com/r/scala/comments/1bpzudp/announcing_the_scala_ambassadors_initiative/)
-- [Generative Art in Scala, No AI Required](https://www.reddit.com/r/scala/comments/1bpzs0q/generative_art_in_scala_no_ai_required/)
-- [AI and Software development](https://www.reddit.com/r/scala/comments/1bprzbb/ai_and_software_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

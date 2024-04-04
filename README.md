@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need career advice for experienced Scala dev](https://www.reddit.com/r/scala/comments/1bv0o1m/need_career_advice_for_experienced_scala_dev/)
+- [[redacted][0.4.0] released 🎉](https://www.reddit.com/r/scala/comments/1buxx9u/redacted040_released/)
+- [Folding Cheat Sheet #3 - the universal property of fold](https://www.reddit.com/r/scala/comments/1buxo5g/folding_cheat_sheet_3_the_universal_property_of/)
+- [Scalendar April 2024](https://www.reddit.com/r/scala/comments/1buroy3/scalendar_april_2024/)
+- [Effects vs Reactive programming](https://www.reddit.com/r/scala/comments/1buoanz/effects_vs_reactive_programming/)
 - [dotty-cps-async 0.9.21 &lpar;with generation of &#39;shifted&#39; high-order functions, by Olena Kravchenko&rpar;](https://www.reddit.com/r/scala/comments/1buch4e/dottycpsasync_0921_with_generation_of_shifted/)
 - [Wow this language sucks to learn](https://www.reddit.com/r/scala/comments/1buc74v/wow_this_language_sucks_to_learn/)
-- [Folding Cheat Sheet #3 - the universal property of fold](https://www.reddit.com/r/scala/comments/1bu5xj1/folding_cheat_sheet_3_the_universal_property_of/)
 - [Scala course](https://www.reddit.com/r/scala/comments/1bu2yg3/scala_course/)
 - [Scala.php 0.1.1 released!](https://www.reddit.com/r/scala/comments/1bsxh7g/scalaphp_011_released/)
 - [Supporting high-performance response streaming in Shardcake](https://www.reddit.com/r/scala/comments/1bsv30c/supporting_highperformance_response_streaming_in/)
-- [This week in #Scala &lpar;Apr 1, 2024&rpar;](https://www.reddit.com/r/scala/comments/1bsaavj/this_week_in_scala_apr_1_2024/)
-- [Folding Cheat Sheet #2 - Programmatic definition and mathematical definition of left fold and right fold](https://www.reddit.com/r/scala/comments/1bs4m6f/folding_cheat_sheet_2_programmatic_definition_and/)
-- [Scala for algorithms](https://www.reddit.com/r/scala/comments/1brz9b3/scala_for_algorithms/)
-- [Folding Cheat Sheet #1](https://www.reddit.com/r/scala/comments/1bqyfyb/folding_cheat_sheet_1/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

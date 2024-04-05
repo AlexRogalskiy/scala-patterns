@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [My first serious program, Iris, a TUI utility to make theming your Linux Desktop a lot easier](https://www.reddit.com/r/scala/comments/1bw3cn6/my_first_serious_program_iris_a_tui_utility_to/)
+- [Scala.js: Custom facades or ScalablyTyped](https://www.reddit.com/r/scala/comments/1bw2vpg/scalajs_custom_facades_or_scalablytyped/)
+- [Scala.js in 2024](https://www.reddit.com/r/scala/comments/1bvzzec/scalajs_in_2024/)
+- [Is scala shining again?](https://www.reddit.com/r/scala/comments/1bvyfgf/is_scala_shining_again/)
+- [IntelliJ Scala Plugin 2024.1 Is Out!](https://www.reddit.com/r/scala/comments/1bvpmho/intellij_scala_plugin_20241_is_out/)
+- [Scala constantly throwing &quot;not found&quot; errors](https://www.reddit.com/r/scala/comments/1bvkvp9/scala_constantly_throwing_not_found_errors/)
 - [Need career advice for experienced Scala dev](https://www.reddit.com/r/scala/comments/1bv0o1m/need_career_advice_for_experienced_scala_dev/)
 - [[redacted][0.4.0] released 🎉](https://www.reddit.com/r/scala/comments/1buxx9u/redacted040_released/)
 - [Folding Cheat Sheet #3 - the universal property of fold](https://www.reddit.com/r/scala/comments/1buxo5g/folding_cheat_sheet_3_the_universal_property_of/)
 - [Scalendar April 2024](https://www.reddit.com/r/scala/comments/1buroy3/scalendar_april_2024/)
-- [Effects vs Reactive programming](https://www.reddit.com/r/scala/comments/1buoanz/effects_vs_reactive_programming/)
-- [dotty-cps-async 0.9.21 &lpar;with generation of &#39;shifted&#39; high-order functions, by Olena Kravchenko&rpar;](https://www.reddit.com/r/scala/comments/1buch4e/dottycpsasync_0921_with_generation_of_shifted/)
-- [Wow this language sucks to learn](https://www.reddit.com/r/scala/comments/1buc74v/wow_this_language_sucks_to_learn/)
-- [Scala course](https://www.reddit.com/r/scala/comments/1bu2yg3/scala_course/)
-- [Scala.php 0.1.1 released!](https://www.reddit.com/r/scala/comments/1bsxh7g/scalaphp_011_released/)
-- [Supporting high-performance response streaming in Shardcake](https://www.reddit.com/r/scala/comments/1bsv30c/supporting_highperformance_response_streaming_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

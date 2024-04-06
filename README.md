@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 2.x remote cache with Bazel compatibility](https://www.reddit.com/r/scala/comments/1bwiy1m/sbt_2x_remote_cache_with_bazel_compatibility/)
+- [How would to parse a date column?](https://www.reddit.com/r/scala/comments/1bwfguk/how_would_to_parse_a_date_column/)
+- [How to do Scala 3 testing with minimal dependencies?](https://www.reddit.com/r/scala/comments/1bwac7p/how_to_do_scala_3_testing_with_minimal/)
 - [My first serious program, Iris, a TUI utility to make theming your Linux Desktop a lot easier](https://www.reddit.com/r/scala/comments/1bw3cn6/my_first_serious_program_iris_a_tui_utility_to/)
 - [Scala.js: Custom facades or ScalablyTyped](https://www.reddit.com/r/scala/comments/1bw2vpg/scalajs_custom_facades_or_scalablytyped/)
 - [Scala.js in 2024](https://www.reddit.com/r/scala/comments/1bvzzec/scalajs_in_2024/)
-- [Is scala shining again?](https://www.reddit.com/r/scala/comments/1bvyfgf/is_scala_shining_again/)
 - [IntelliJ Scala Plugin 2024.1 Is Out!](https://www.reddit.com/r/scala/comments/1bvpmho/intellij_scala_plugin_20241_is_out/)
 - [Scala constantly throwing &quot;not found&quot; errors](https://www.reddit.com/r/scala/comments/1bvkvp9/scala_constantly_throwing_not_found_errors/)
 - [Need career advice for experienced Scala dev](https://www.reddit.com/r/scala/comments/1bv0o1m/need_career_advice_for_experienced_scala_dev/)
 - [[redacted][0.4.0] released 🎉](https://www.reddit.com/r/scala/comments/1buxx9u/redacted040_released/)
-- [Folding Cheat Sheet #3 - the universal property of fold](https://www.reddit.com/r/scala/comments/1buxo5g/folding_cheat_sheet_3_the_universal_property_of/)
-- [Scalendar April 2024](https://www.reddit.com/r/scala/comments/1buroy3/scalendar_april_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

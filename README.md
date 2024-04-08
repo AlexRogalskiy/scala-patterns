@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How should I get back into Scala?](https://www.reddit.com/r/scala/comments/1bygzpx/how_should_i_get_back_into_scala/)
+- [This week in #Scala &lpar;Apr 8, 2024&rpar;](https://www.reddit.com/r/scala/comments/1by81kk/this_week_in_scala_apr_8_2024/)
+- [New to scala from Python Background](https://www.reddit.com/r/scala/comments/1by78bx/new_to_scala_from_python_background/)
+- [Utility for moving/backing up WSL distros](https://www.reddit.com/r/scala/comments/1bxy4oz/utility_for_movingbacking_up_wsl_distros/)
+- [Spark UDAF examples don&#39;t work?](https://www.reddit.com/r/scala/comments/1bxvs1u/spark_udaf_examples_dont_work/)
 - [Three.js with Scala.js](https://www.reddit.com/r/scala/comments/1bxpjil/threejs_with_scalajs/)
 - [Functional programming always caught my curiosity. What would you do if you were me?](https://www.reddit.com/r/scala/comments/1bxjnnu/functional_programming_always_caught_my_curiosity/)
 - [sbt 2.x remote cache with Bazel compatibility](https://www.reddit.com/r/scala/comments/1bwiy1m/sbt_2x_remote_cache_with_bazel_compatibility/)
 - [How would to parse a date column?](https://www.reddit.com/r/scala/comments/1bwfguk/how_would_to_parse_a_date_column/)
 - [How to do Scala 3 testing with minimal dependencies?](https://www.reddit.com/r/scala/comments/1bwac7p/how_to_do_scala_3_testing_with_minimal/)
-- [My first serious program, Iris, a TUI utility to make theming your Linux Desktop a lot easier](https://www.reddit.com/r/scala/comments/1bw3cn6/my_first_serious_program_iris_a_tui_utility_to/)
-- [Scala.js: Custom facades or ScalablyTyped](https://www.reddit.com/r/scala/comments/1bw2vpg/scalajs_custom_facades_or_scalablytyped/)
-- [Scala.js in 2024](https://www.reddit.com/r/scala/comments/1bvzzec/scalajs_in_2024/)
-- [IntelliJ Scala Plugin 2024.1 Is Out!](https://www.reddit.com/r/scala/comments/1bvpmho/intellij_scala_plugin_20241_is_out/)
-- [Scala constantly throwing &quot;not found&quot; errors](https://www.reddit.com/r/scala/comments/1bvkvp9/scala_constantly_throwing_not_found_errors/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

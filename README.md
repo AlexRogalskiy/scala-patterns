@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [After some years again: Any good &amp; current Scala podcasts?](https://www.reddit.com/r/scala/comments/1bzejw5/after_some_years_again_any_good_current_scala/)
 - [How should I get back into Scala?](https://www.reddit.com/r/scala/comments/1bygzpx/how_should_i_get_back_into_scala/)
 - [This week in #Scala &lpar;Apr 8, 2024&rpar;](https://www.reddit.com/r/scala/comments/1by81kk/this_week_in_scala_apr_8_2024/)
 - [New to scala from Python Background](https://www.reddit.com/r/scala/comments/1by78bx/new_to_scala_from_python_background/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Functional programming always caught my curiosity. What would you do if you were me?](https://www.reddit.com/r/scala/comments/1bxjnnu/functional_programming_always_caught_my_curiosity/)
 - [sbt 2.x remote cache with Bazel compatibility](https://www.reddit.com/r/scala/comments/1bwiy1m/sbt_2x_remote_cache_with_bazel_compatibility/)
 - [How would to parse a date column?](https://www.reddit.com/r/scala/comments/1bwfguk/how_would_to_parse_a_date_column/)
-- [How to do Scala 3 testing with minimal dependencies?](https://www.reddit.com/r/scala/comments/1bwac7p/how_to_do_scala_3_testing_with_minimal/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

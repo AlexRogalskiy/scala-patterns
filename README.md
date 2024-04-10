@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I can nor understand how implicits are useful](https://www.reddit.com/r/scala/comments/1c05na4/i_can_nor_understand_how_implicits_are_useful/)
+- [Senior level interview prep/format](https://www.reddit.com/r/scala/comments/1bzqir9/senior_level_interview_prepformat/)
+- [10 flavors of Scala&#39;s future - Scalar 2024 recap](https://www.reddit.com/r/scala/comments/1bzokpz/10_flavors_of_scalas_future_scalar_2024_recap/)
+- [Career switch: Scala vs Rust?](https://www.reddit.com/r/scala/comments/1bznuzi/career_switch_scala_vs_rust/)
+- [Get better at programming in Scala](https://www.reddit.com/r/scala/comments/1bznbnj/get_better_at_programming_in_scala/)
+- [sbt 1.10.0-RC1 released](https://www.reddit.com/r/scala/comments/1bzm3io/sbt_1100rc1_released/)
+- [Music DSL in Scala.js with Paul Matthews](https://www.reddit.com/r/scala/comments/1bzl9m1/music_dsl_in_scalajs_with_paul_matthews/)
 - [After some years again: Any good &amp; current Scala podcasts?](https://www.reddit.com/r/scala/comments/1bzejw5/after_some_years_again_any_good_current_scala/)
 - [How should I get back into Scala?](https://www.reddit.com/r/scala/comments/1bygzpx/how_should_i_get_back_into_scala/)
 - [This week in #Scala &lpar;Apr 8, 2024&rpar;](https://www.reddit.com/r/scala/comments/1by81kk/this_week_in_scala_apr_8_2024/)
-- [New to scala from Python Background](https://www.reddit.com/r/scala/comments/1by78bx/new_to_scala_from_python_background/)
-- [Utility for moving/backing up WSL distros](https://www.reddit.com/r/scala/comments/1bxy4oz/utility_for_movingbacking_up_wsl_distros/)
-- [Spark UDAF examples don&#39;t work?](https://www.reddit.com/r/scala/comments/1bxvs1u/spark_udaf_examples_dont_work/)
-- [Three.js with Scala.js](https://www.reddit.com/r/scala/comments/1bxpjil/threejs_with_scalajs/)
-- [Functional programming always caught my curiosity. What would you do if you were me?](https://www.reddit.com/r/scala/comments/1bxjnnu/functional_programming_always_caught_my_curiosity/)
-- [sbt 2.x remote cache with Bazel compatibility](https://www.reddit.com/r/scala/comments/1bwiy1m/sbt_2x_remote_cache_with_bazel_compatibility/)
-- [How would to parse a date column?](https://www.reddit.com/r/scala/comments/1bwfguk/how_would_to_parse_a_date_column/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

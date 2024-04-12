@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New Intellij Plugin for Maven Repository](https://www.reddit.com/r/scala/comments/1c1bns3/new_intellij_plugin_for_maven_repository/)
 - [I can nor understand how implicits are useful](https://www.reddit.com/r/scala/comments/1c05na4/i_can_nor_understand_how_implicits_are_useful/)
 - [Senior level interview prep/format](https://www.reddit.com/r/scala/comments/1bzqir9/senior_level_interview_prepformat/)
 - [10 flavors of Scala&#39;s future - Scalar 2024 recap](https://www.reddit.com/r/scala/comments/1bzokpz/10_flavors_of_scalas_future_scalar_2024_recap/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Music DSL in Scala.js with Paul Matthews](https://www.reddit.com/r/scala/comments/1bzl9m1/music_dsl_in_scalajs_with_paul_matthews/)
 - [After some years again: Any good &amp; current Scala podcasts?](https://www.reddit.com/r/scala/comments/1bzejw5/after_some_years_again_any_good_current_scala/)
 - [How should I get back into Scala?](https://www.reddit.com/r/scala/comments/1bygzpx/how_should_i_get_back_into_scala/)
-- [This week in #Scala &lpar;Apr 8, 2024&rpar;](https://www.reddit.com/r/scala/comments/1by81kk/this_week_in_scala_apr_8_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

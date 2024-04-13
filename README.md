@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [In Scala 3, without reflection, how to find subclasses of a trait?](https://www.reddit.com/r/scala/comments/1c2lbb1/in_scala_3_without_reflection_how_to_find/)
+- [Lean Scala](https://www.reddit.com/r/scala/comments/1c28j9p/lean_scala/)
+- [The 2024 breaking into data engineering roadmap | daily.dev](https://www.reddit.com/r/scala/comments/1c250it/the_2024_breaking_into_data_engineering_roadmap/)
 - [New Intellij Plugin for Maven Repository](https://www.reddit.com/r/scala/comments/1c1bns3/new_intellij_plugin_for_maven_repository/)
 - [I can nor understand how implicits are useful](https://www.reddit.com/r/scala/comments/1c05na4/i_can_nor_understand_how_implicits_are_useful/)
 - [Senior level interview prep/format](https://www.reddit.com/r/scala/comments/1bzqir9/senior_level_interview_prepformat/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Career switch: Scala vs Rust?](https://www.reddit.com/r/scala/comments/1bznuzi/career_switch_scala_vs_rust/)
 - [Get better at programming in Scala](https://www.reddit.com/r/scala/comments/1bznbnj/get_better_at_programming_in_scala/)
 - [sbt 1.10.0-RC1 released](https://www.reddit.com/r/scala/comments/1bzm3io/sbt_1100rc1_released/)
-- [Music DSL in Scala.js with Paul Matthews](https://www.reddit.com/r/scala/comments/1bzl9m1/music_dsl_in_scalajs_with_paul_matthews/)
-- [After some years again: Any good &amp; current Scala podcasts?](https://www.reddit.com/r/scala/comments/1bzejw5/after_some_years_again_any_good_current_scala/)
-- [How should I get back into Scala?](https://www.reddit.com/r/scala/comments/1bygzpx/how_should_i_get_back_into_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

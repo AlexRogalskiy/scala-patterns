@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [2024-04-13 gRPC benchmark results](https://www.reddit.com/r/scala/comments/1c37x9k/20240413_grpc_benchmark_results/)
 - [In Scala 3, without reflection, how to find subclasses of a trait?](https://www.reddit.com/r/scala/comments/1c2lbb1/in_scala_3_without_reflection_how_to_find/)
 - [Lean Scala](https://www.reddit.com/r/scala/comments/1c28j9p/lean_scala/)
 - [The 2024 breaking into data engineering roadmap | daily.dev](https://www.reddit.com/r/scala/comments/1c250it/the_2024_breaking_into_data_engineering_roadmap/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [10 flavors of Scala&#39;s future - Scalar 2024 recap](https://www.reddit.com/r/scala/comments/1bzokpz/10_flavors_of_scalas_future_scalar_2024_recap/)
 - [Career switch: Scala vs Rust?](https://www.reddit.com/r/scala/comments/1bznuzi/career_switch_scala_vs_rust/)
 - [Get better at programming in Scala](https://www.reddit.com/r/scala/comments/1bznbnj/get_better_at_programming_in_scala/)
-- [sbt 1.10.0-RC1 released](https://www.reddit.com/r/scala/comments/1bzm3io/sbt_1100rc1_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

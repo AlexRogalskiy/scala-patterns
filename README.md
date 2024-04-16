@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [com-lihaoyi releases for Scala-Native 0.5.0](https://www.reddit.com/r/scala/comments/1c516jm/comlihaoyi_releases_for_scalanative_050/)
+- [Algebraic Effects from Scratch](https://www.reddit.com/r/scala/comments/1c4jm66/algebraic_effects_from_scratch/)
+- [sbt 1.10.0-RC2 released](https://www.reddit.com/r/scala/comments/1c4f5d6/sbt_1100rc2_released/)
 - [This week in #Scala &lpar;Apr 15, 2024&rpar;](https://www.reddit.com/r/scala/comments/1c3vmeg/this_week_in_scala_apr_15_2024/)
 - [2024-04-13 gRPC benchmark results](https://www.reddit.com/r/scala/comments/1c37x9k/20240413_grpc_benchmark_results/)
 - [In Scala 3, without reflection, how to find subclasses of a trait?](https://www.reddit.com/r/scala/comments/1c2lbb1/in_scala_3_without_reflection_how_to_find/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [The 2024 breaking into data engineering roadmap | daily.dev](https://www.reddit.com/r/scala/comments/1c250it/the_2024_breaking_into_data_engineering_roadmap/)
 - [New Intellij Plugin for Maven Repository](https://www.reddit.com/r/scala/comments/1c1bns3/new_intellij_plugin_for_maven_repository/)
 - [I can nor understand how implicits are useful](https://www.reddit.com/r/scala/comments/1c05na4/i_can_nor_understand_how_implicits_are_useful/)
-- [Senior level interview prep/format](https://www.reddit.com/r/scala/comments/1bzqir9/senior_level_interview_prepformat/)
-- [10 flavors of Scala&#39;s future - Scalar 2024 recap](https://www.reddit.com/r/scala/comments/1bzokpz/10_flavors_of_scalas_future_scalar_2024_recap/)
-- [Career switch: Scala vs Rust?](https://www.reddit.com/r/scala/comments/1bznuzi/career_switch_scala_vs_rust/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

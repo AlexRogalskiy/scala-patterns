@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [My useless philosophical ramblings about the ecology of programming languages &lpar;and OOP is not Java&rpar;](https://www.reddit.com/r/scala/comments/1c5tn9j/my_useless_philosophical_ramblings_about_the/)
+- [Tracing: Can you instrument Scala, or does tracing have to happen via library interactions?](https://www.reddit.com/r/scala/comments/1c5e8cj/tracing_can_you_instrument_scala_or_does_tracing/)
 - [com-lihaoyi releases for Scala-Native 0.5.0](https://www.reddit.com/r/scala/comments/1c516jm/comlihaoyi_releases_for_scalanative_050/)
 - [Algebraic Effects from Scratch](https://www.reddit.com/r/scala/comments/1c4jm66/algebraic_effects_from_scratch/)
 - [sbt 1.10.0-RC2 released](https://www.reddit.com/r/scala/comments/1c4f5d6/sbt_1100rc2_released/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [In Scala 3, without reflection, how to find subclasses of a trait?](https://www.reddit.com/r/scala/comments/1c2lbb1/in_scala_3_without_reflection_how_to_find/)
 - [Lean Scala](https://www.reddit.com/r/scala/comments/1c28j9p/lean_scala/)
 - [The 2024 breaking into data engineering roadmap | daily.dev](https://www.reddit.com/r/scala/comments/1c250it/the_2024_breaking_into_data_engineering_roadmap/)
-- [New Intellij Plugin for Maven Repository](https://www.reddit.com/r/scala/comments/1c1bns3/new_intellij_plugin_for_maven_repository/)
-- [I can nor understand how implicits are useful](https://www.reddit.com/r/scala/comments/1c05na4/i_can_nor_understand_how_implicits_are_useful/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

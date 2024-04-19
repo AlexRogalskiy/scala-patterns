@@ -271,7 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [My useless philosophical ramblings about the ecology of programming languages &lpar;and OOP is not Java&rpar;](https://www.reddit.com/r/scala/comments/1c5tn9j/my_useless_philosophical_ramblings_about_the/)
+- [The Death of Monads? Direct Style Algebraic Effects](https://www.reddit.com/r/scala/comments/1c6wa8l/the_death_of_monads_direct_style_algebraic_effects/)
 - [Tracing: Can you instrument Scala, or does tracing have to happen via library interactions?](https://www.reddit.com/r/scala/comments/1c5e8cj/tracing_can_you_instrument_scala_or_does_tracing/)
 - [com-lihaoyi releases for Scala-Native 0.5.0](https://www.reddit.com/r/scala/comments/1c516jm/comlihaoyi_releases_for_scalanative_050/)
 - [Algebraic Effects from Scratch](https://www.reddit.com/r/scala/comments/1c4jm66/algebraic_effects_from_scratch/)

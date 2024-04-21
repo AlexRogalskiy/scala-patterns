@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Appreciation post: ScalaTags](https://www.reddit.com/r/scala/comments/1c8to8t/appreciation_post_scalatags/)
+- [The “Fu” Type](https://www.reddit.com/r/scala/comments/1c8nfv5/the_fu_type/)
+- [Exception Handling in Scala](https://www.reddit.com/r/scala/comments/1c8mmao/exception_handling_in_scala/)
 - [The Death of Monads? Direct Style Algebraic Effects](https://www.reddit.com/r/scala/comments/1c6wa8l/the_death_of_monads_direct_style_algebraic_effects/)
 - [Tracing: Can you instrument Scala, or does tracing have to happen via library interactions?](https://www.reddit.com/r/scala/comments/1c5e8cj/tracing_can_you_instrument_scala_or_does_tracing/)
 - [com-lihaoyi releases for Scala-Native 0.5.0](https://www.reddit.com/r/scala/comments/1c516jm/comlihaoyi_releases_for_scalanative_050/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt 1.10.0-RC2 released](https://www.reddit.com/r/scala/comments/1c4f5d6/sbt_1100rc2_released/)
 - [This week in #Scala &lpar;Apr 15, 2024&rpar;](https://www.reddit.com/r/scala/comments/1c3vmeg/this_week_in_scala_apr_15_2024/)
 - [2024-04-13 gRPC benchmark results](https://www.reddit.com/r/scala/comments/1c37x9k/20240413_grpc_benchmark_results/)
-- [In Scala 3, without reflection, how to find subclasses of a trait?](https://www.reddit.com/r/scala/comments/1c2lbb1/in_scala_3_without_reflection_how_to_find/)
-- [Lean Scala](https://www.reddit.com/r/scala/comments/1c28j9p/lean_scala/)
-- [The 2024 breaking into data engineering roadmap | daily.dev](https://www.reddit.com/r/scala/comments/1c250it/the_2024_breaking_into_data_engineering_roadmap/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Folding Cheat Sheet #4 - For functions that can be defined both as an instance of a right fold and as an instance of a left fold, one may be more efficient than the other. Let&#39;s look at the example of a function &#39;decimal&#39; that converts a list of digits into the corresponding decimal number.](https://www.reddit.com/r/scala/comments/1c9mrx3/folding_cheat_sheet_4_for_functions_that_can_be/)
+- [This week in #Scala &lpar;Apr 22, 2024&rpar;](https://www.reddit.com/r/scala/comments/1c9mjt8/this_week_in_scala_apr_22_2024/)
+- [Returns Python library for FP](https://www.reddit.com/r/scala/comments/1c9lo2b/returns_python_library_for_fp/)
 - [Appreciation post: ScalaTags](https://www.reddit.com/r/scala/comments/1c8to8t/appreciation_post_scalatags/)
 - [The “Fu” Type](https://www.reddit.com/r/scala/comments/1c8nfv5/the_fu_type/)
 - [Exception Handling in Scala](https://www.reddit.com/r/scala/comments/1c8mmao/exception_handling_in_scala/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Tracing: Can you instrument Scala, or does tracing have to happen via library interactions?](https://www.reddit.com/r/scala/comments/1c5e8cj/tracing_can_you_instrument_scala_or_does_tracing/)
 - [com-lihaoyi releases for Scala-Native 0.5.0](https://www.reddit.com/r/scala/comments/1c516jm/comlihaoyi_releases_for_scalanative_050/)
 - [Algebraic Effects from Scratch](https://www.reddit.com/r/scala/comments/1c4jm66/algebraic_effects_from_scratch/)
-- [sbt 1.10.0-RC2 released](https://www.reddit.com/r/scala/comments/1c4f5d6/sbt_1100rc2_released/)
-- [This week in #Scala &lpar;Apr 15, 2024&rpar;](https://www.reddit.com/r/scala/comments/1c3vmeg/this_week_in_scala_apr_15_2024/)
-- [2024-04-13 gRPC benchmark results](https://www.reddit.com/r/scala/comments/1c37x9k/20240413_grpc_benchmark_results/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Anyone hiring now?](https://www.reddit.com/r/scala/comments/1cbe88t/anyone_hiring_now/)
+- [possibility to move metals vscode extension from Typescript to Scala.js](https://www.reddit.com/r/scala/comments/1cbc01o/possibility_to_move_metals_vscode_extension_from/)
+- [gears library in ScalaJS](https://www.reddit.com/r/scala/comments/1cb88t8/gears_library_in_scalajs/)
+- [Why Effect is more important than ZIO](https://www.reddit.com/r/scala/comments/1cb20th/why_effect_is_more_important_than_zio/)
+- [Martin Odersky SCALA HAS TURNED 20 - Scalar Conference 2024](https://www.reddit.com/r/scala/comments/1cb06iq/martin_odersky_scala_has_turned_20_scalar/)
+- [Airframe/AirSpec 24.4.2 release with Scala Native 0.5 support](https://www.reddit.com/r/scala/comments/1cazdq2/airframeairspec_2442_release_with_scala_native_05/)
+- [How is the type info of *: inferred by Scala?](https://www.reddit.com/r/scala/comments/1cayzda/how_is_the_type_info_of_inferred_by_scala/)
 - [Scala Programming Help](https://www.reddit.com/r/scala/comments/1carne8/scala_programming_help/)
 - [build Android apps with Scala 2.11 and sbt 1.x](https://www.reddit.com/r/scala/comments/1cahv4p/build_android_apps_with_scala_211_and_sbt_1x/)
 - [Scalar Conference 2024](https://www.reddit.com/r/scala/comments/1ca809n/scalar_conference_2024/)
-- [Folding Cheat Sheet #4 - For functions that can be defined both as an instance of a right fold and as an instance of a left fold, one may be more efficient than the other. Let&#39;s look at the example of a function &#39;decimal&#39; that converts a list of digits into the corresponding decimal number.](https://www.reddit.com/r/scala/comments/1c9mrx3/folding_cheat_sheet_4_for_functions_that_can_be/)
-- [This week in #Scala &lpar;Apr 22, 2024&rpar;](https://www.reddit.com/r/scala/comments/1c9mjt8/this_week_in_scala_apr_22_2024/)
-- [Returns Python library for FP](https://www.reddit.com/r/scala/comments/1c9lo2b/returns_python_library_for_fp/)
-- [Appreciation post: ScalaTags](https://www.reddit.com/r/scala/comments/1c8to8t/appreciation_post_scalatags/)
-- [The “Fu” Type](https://www.reddit.com/r/scala/comments/1c8nfv5/the_fu_type/)
-- [Exception Handling in Scala](https://www.reddit.com/r/scala/comments/1c8mmao/exception_handling_in_scala/)
-- [The Death of Monads? Direct Style Algebraic Effects](https://www.reddit.com/r/scala/comments/1c6wa8l/the_death_of_monads_direct_style_algebraic_effects/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

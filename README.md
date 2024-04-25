@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Collection views](https://www.reddit.com/r/scala/comments/1cbvgkv/collection_views/)
+- [Chimney 1.0.0-RC1 released](https://www.reddit.com/r/scala/comments/1cbuv3d/chimney_100rc1_released/)
+- [Is there a tool for IntelliJ to warn when using Scala 2 code when Scala 3 code could be used instead ?](https://www.reddit.com/r/scala/comments/1cbsgud/is_there_a_tool_for_intellij_to_warn_when_using/)
 - [Anyone hiring now?](https://www.reddit.com/r/scala/comments/1cbe88t/anyone_hiring_now/)
 - [possibility to move metals vscode extension from Typescript to Scala.js](https://www.reddit.com/r/scala/comments/1cbc01o/possibility_to_move_metals_vscode_extension_from/)
 - [gears library in ScalaJS](https://www.reddit.com/r/scala/comments/1cb88t8/gears_library_in_scalajs/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Martin Odersky SCALA HAS TURNED 20 - Scalar Conference 2024](https://www.reddit.com/r/scala/comments/1cb06iq/martin_odersky_scala_has_turned_20_scalar/)
 - [Airframe/AirSpec 24.4.2 release with Scala Native 0.5 support](https://www.reddit.com/r/scala/comments/1cazdq2/airframeairspec_2442_release_with_scala_native_05/)
 - [How is the type info of *: inferred by Scala?](https://www.reddit.com/r/scala/comments/1cayzda/how_is_the_type_info_of_inferred_by_scala/)
-- [Scala Programming Help](https://www.reddit.com/r/scala/comments/1carne8/scala_programming_help/)
-- [build Android apps with Scala 2.11 and sbt 1.x](https://www.reddit.com/r/scala/comments/1cahv4p/build_android_apps_with_scala_211_and_sbt_1x/)
-- [Scalar Conference 2024](https://www.reddit.com/r/scala/comments/1ca809n/scalar_conference_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Mocking, Unit testing and flatmapping](https://www.reddit.com/r/scala/comments/1cd38vd/mocking_unit_testing_and_flatmapping/)
+- [Current Alternative for Scala with Jobs?](https://www.reddit.com/r/scala/comments/1cd1vu2/current_alternative_for_scala_with_jobs/)
+- [When someone asks me why I prefer static type systems](https://www.reddit.com/r/scala/comments/1ccu6fv/when_someone_asks_me_why_i_prefer_static_type/)
+- [How to show the logger.info when I use mapPartitions?](https://www.reddit.com/r/scala/comments/1cctaj0/how_to_show_the_loggerinfo_when_i_use/)
+- [intellig with hive](https://www.reddit.com/r/scala/comments/1ccnr52/intellig_with_hive/)
+- [Direct-style Effects Explained](https://www.reddit.com/r/scala/comments/1ccmyxb/directstyle_effects_explained/)
 - [Collection views](https://www.reddit.com/r/scala/comments/1cbvgkv/collection_views/)
 - [Chimney 1.0.0-RC1 released](https://www.reddit.com/r/scala/comments/1cbuv3d/chimney_100rc1_released/)
 - [Is there a tool for IntelliJ to warn when using Scala 2 code when Scala 3 code could be used instead ?](https://www.reddit.com/r/scala/comments/1cbsgud/is_there_a_tool_for_intellij_to_warn_when_using/)
 - [Anyone hiring now?](https://www.reddit.com/r/scala/comments/1cbe88t/anyone_hiring_now/)
-- [possibility to move metals vscode extension from Typescript to Scala.js](https://www.reddit.com/r/scala/comments/1cbc01o/possibility_to_move_metals_vscode_extension_from/)
-- [gears library in ScalaJS](https://www.reddit.com/r/scala/comments/1cb88t8/gears_library_in_scalajs/)
-- [Why Effect is more important than ZIO](https://www.reddit.com/r/scala/comments/1cb20th/why_effect_is_more_important_than_zio/)
-- [Martin Odersky SCALA HAS TURNED 20 - Scalar Conference 2024](https://www.reddit.com/r/scala/comments/1cb06iq/martin_odersky_scala_has_turned_20_scalar/)
-- [Airframe/AirSpec 24.4.2 release with Scala Native 0.5 support](https://www.reddit.com/r/scala/comments/1cazdq2/airframeairspec_2442_release_with_scala_native_05/)
-- [How is the type info of *: inferred by Scala?](https://www.reddit.com/r/scala/comments/1cayzda/how_is_the_type_info_of_inferred_by_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

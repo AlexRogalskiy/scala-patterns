@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [“My experience with sexual harassment in the Scala community”](https://www.reddit.com/r/scala/comments/1cdmevi/my_experience_with_sexual_harassment_in_the_scala/)
+- [Jon Pretty is back!](https://www.reddit.com/r/scala/comments/1cdjhdx/jon_pretty_is_back/)
+- [ScaLatin #8 | Desmitificando las Blockchains: Desbloqueando el Potencial de los Sistemas Descentralizados](https://www.reddit.com/r/scala/comments/1cdhqpp/scalatin_8_desmitificando_las_blockchains/)
+- [Safe direct-style Scala: Ox 0.1.0 released](https://www.reddit.com/r/scala/comments/1cdfaki/safe_directstyle_scala_ox_010_released/)
+- [Spark Connect + Scala 3: cool open source project idea](https://www.reddit.com/r/scala/comments/1cdce82/spark_connect_scala_3_cool_open_source_project/)
 - [Mocking, Unit testing and flatmapping](https://www.reddit.com/r/scala/comments/1cd38vd/mocking_unit_testing_and_flatmapping/)
 - [Current Alternative for Scala with Jobs?](https://www.reddit.com/r/scala/comments/1cd1vu2/current_alternative_for_scala_with_jobs/)
 - [When someone asks me why I prefer static type systems](https://www.reddit.com/r/scala/comments/1ccu6fv/when_someone_asks_me_why_i_prefer_static_type/)
 - [How to show the logger.info when I use mapPartitions?](https://www.reddit.com/r/scala/comments/1cctaj0/how_to_show_the_loggerinfo_when_i_use/)
 - [intellig with hive](https://www.reddit.com/r/scala/comments/1ccnr52/intellig_with_hive/)
-- [Direct-style Effects Explained](https://www.reddit.com/r/scala/comments/1ccmyxb/directstyle_effects_explained/)
-- [Collection views](https://www.reddit.com/r/scala/comments/1cbvgkv/collection_views/)
-- [Chimney 1.0.0-RC1 released](https://www.reddit.com/r/scala/comments/1cbuv3d/chimney_100rc1_released/)
-- [Is there a tool for IntelliJ to warn when using Scala 2 code when Scala 3 code could be used instead ?](https://www.reddit.com/r/scala/comments/1cbsgud/is_there_a_tool_for_intellij_to_warn_when_using/)
-- [Anyone hiring now?](https://www.reddit.com/r/scala/comments/1cbe88t/anyone_hiring_now/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

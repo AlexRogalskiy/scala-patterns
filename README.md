@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Second batch of Smithy/Smithy4s videos](https://www.reddit.com/r/scala/comments/1cem6bt/second_batch_of_smithysmithy4s_videos/)
+- [I just landed a Scala developer job](https://www.reddit.com/r/scala/comments/1ce8kb9/i_just_landed_a_scala_developer_job/)
 - [“My experience with sexual harassment in the Scala community”](https://www.reddit.com/r/scala/comments/1cdmevi/my_experience_with_sexual_harassment_in_the_scala/)
 - [Jon Pretty is back!](https://www.reddit.com/r/scala/comments/1cdjhdx/jon_pretty_is_back/)
 - [ScaLatin #8 | Desmitificando las Blockchains: Desbloqueando el Potencial de los Sistemas Descentralizados](https://www.reddit.com/r/scala/comments/1cdhqpp/scalatin_8_desmitificando_las_blockchains/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Mocking, Unit testing and flatmapping](https://www.reddit.com/r/scala/comments/1cd38vd/mocking_unit_testing_and_flatmapping/)
 - [Current Alternative for Scala with Jobs?](https://www.reddit.com/r/scala/comments/1cd1vu2/current_alternative_for_scala_with_jobs/)
 - [When someone asks me why I prefer static type systems](https://www.reddit.com/r/scala/comments/1ccu6fv/when_someone_asks_me_why_i_prefer_static_type/)
-- [How to show the logger.info when I use mapPartitions?](https://www.reddit.com/r/scala/comments/1cctaj0/how_to_show_the_loggerinfo_when_i_use/)
-- [intellig with hive](https://www.reddit.com/r/scala/comments/1ccnr52/intellig_with_hive/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

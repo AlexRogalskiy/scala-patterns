@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Adam Warski Direct Style Scala Stack, an Experiment - Scalar Conference 2024](https://www.reddit.com/r/scala/comments/1cfz7e4/adam_warski_direct_style_scala_stack_an/)
+- [This week in #Scala &lpar;Apr 29, 2024&rpar;](https://www.reddit.com/r/scala/comments/1cfyk22/this_week_in_scala_apr_29_2024/)
+- [Scalendar May 2024](https://www.reddit.com/r/scala/comments/1cfud6d/scalendar_may_2024/)
 - [Second batch of Smithy/Smithy4s videos](https://www.reddit.com/r/scala/comments/1cem6bt/second_batch_of_smithysmithy4s_videos/)
 - [I just landed a Scala developer job](https://www.reddit.com/r/scala/comments/1ce8kb9/i_just_landed_a_scala_developer_job/)
 - [“My experience with sexual harassment in the Scala community”](https://www.reddit.com/r/scala/comments/1cdmevi/my_experience_with_sexual_harassment_in_the_scala/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ScaLatin #8 | Desmitificando las Blockchains: Desbloqueando el Potencial de los Sistemas Descentralizados](https://www.reddit.com/r/scala/comments/1cdhqpp/scalatin_8_desmitificando_las_blockchains/)
 - [Safe direct-style Scala: Ox 0.1.0 released](https://www.reddit.com/r/scala/comments/1cdfaki/safe_directstyle_scala_ox_010_released/)
 - [Spark Connect + Scala 3: cool open source project idea](https://www.reddit.com/r/scala/comments/1cdce82/spark_connect_scala_3_cool_open_source_project/)
-- [Mocking, Unit testing and flatmapping](https://www.reddit.com/r/scala/comments/1cd38vd/mocking_unit_testing_and_flatmapping/)
-- [Current Alternative for Scala with Jobs?](https://www.reddit.com/r/scala/comments/1cd1vu2/current_alternative_for_scala_with_jobs/)
-- [When someone asks me why I prefer static type systems](https://www.reddit.com/r/scala/comments/1ccu6fv/when_someone_asks_me_why_i_prefer_static_type/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

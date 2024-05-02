@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 2.13.14 is here!](https://www.reddit.com/r/scala/comments/1chy5l5/scala_21314_is_here/)
+- [Testing with Mockito](https://www.reddit.com/r/scala/comments/1chxv4w/testing_with_mockito/)
+- [what the &quot;derives&quot; keyword does?](https://www.reddit.com/r/scala/comments/1chk8qy/what_the_derives_keyword_does/)
 - [Apache spark installation](https://www.reddit.com/r/scala/comments/1ch42tc/apache_spark_installation/)
 - [IntelliJ Scala Plugin 2024.1.20 is out](https://www.reddit.com/r/scala/comments/1cgzqoi/intellij_scala_plugin_2024120_is_out/)
 - [Transitioning smoothly from SE to Data Engineer on Spark Stack](https://www.reddit.com/r/scala/comments/1cgyolo/transitioning_smoothly_from_se_to_data_engineer/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [A Guide to Database Integration with Skunk](https://www.reddit.com/r/scala/comments/1cgv551/a_guide_to_database_integration_with_skunk/)
 - [Does the Caprese project have any actual examples or documentation yet?](https://www.reddit.com/r/scala/comments/1cgl62p/does_the_caprese_project_have_any_actual_examples/)
 - [Adam Warski Direct Style Scala Stack, an Experiment - Scalar Conference 2024](https://www.reddit.com/r/scala/comments/1cfz7e4/adam_warski_direct_style_scala_stack_an/)
-- [This week in #Scala &lpar;Apr 29, 2024&rpar;](https://www.reddit.com/r/scala/comments/1cfyk22/this_week_in_scala_apr_29_2024/)
-- [Scalendar May 2024](https://www.reddit.com/r/scala/comments/1cfud6d/scalendar_may_2024/)
-- [Second batch of Smithy/Smithy4s videos](https://www.reddit.com/r/scala/comments/1cem6bt/second_batch_of_smithysmithy4s_videos/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

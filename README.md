@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [On Modern Error Handling &lpar;Not Just in Java&rpar;: Monads, Effects and Project Amber](https://www.reddit.com/r/scala/comments/1cify78/on_modern_error_handling_not_just_in_java_monads/)
 - [Scala 2.13.14 is here!](https://www.reddit.com/r/scala/comments/1chy5l5/scala_21314_is_here/)
 - [Testing with Mockito](https://www.reddit.com/r/scala/comments/1chxv4w/testing_with_mockito/)
 - [what the &quot;derives&quot; keyword does?](https://www.reddit.com/r/scala/comments/1chk8qy/what_the_derives_keyword_does/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Switche - A Searchable Task Switcher](https://www.reddit.com/r/scala/comments/1cgwz2s/switche_a_searchable_task_switcher/)
 - [A Guide to Database Integration with Skunk](https://www.reddit.com/r/scala/comments/1cgv551/a_guide_to_database_integration_with_skunk/)
 - [Does the Caprese project have any actual examples or documentation yet?](https://www.reddit.com/r/scala/comments/1cgl62p/does_the_caprese_project_have_any_actual_examples/)
-- [Adam Warski Direct Style Scala Stack, an Experiment - Scalar Conference 2024](https://www.reddit.com/r/scala/comments/1cfz7e4/adam_warski_direct_style_scala_stack_an/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

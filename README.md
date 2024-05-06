@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;May 6, 2024&rpar;](https://www.reddit.com/r/scala/comments/1cks3xb/this_week_in_scala_may_6_2024/)
+- [Typeclass Derivation with Shapeless](https://www.reddit.com/r/scala/comments/1ckrp7h/typeclass_derivation_with_shapeless/)
+- [New Emacs package scala-repl for REPL driven development](https://www.reddit.com/r/scala/comments/1ckqz5r/new_emacs_package_scalarepl_for_repl_driven/)
 - [Database library for Scala](https://www.reddit.com/r/scala/comments/1cjy972/database_library_for_scala/)
 - [Scala - freelancing](https://www.reddit.com/r/scala/comments/1cjteh3/scala_freelancing/)
 - [The Effect Of Uncapturable - Oleg Nizhnik, Scala Stockholm Spring Meetup April 2024](https://www.reddit.com/r/scala/comments/1cjt4xv/the_effect_of_uncapturable_oleg_nizhnik_scala/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [On Modern Error Handling &lpar;Not Just in Java&rpar;: Monads, Effects and Project Amber](https://www.reddit.com/r/scala/comments/1cify78/on_modern_error_handling_not_just_in_java_monads/)
 - [Scala 2.13.14 is here!](https://www.reddit.com/r/scala/comments/1chy5l5/scala_21314_is_here/)
 - [Testing with Mockito](https://www.reddit.com/r/scala/comments/1chxv4w/testing_with_mockito/)
-- [what the &quot;derives&quot; keyword does?](https://www.reddit.com/r/scala/comments/1chk8qy/what_the_derives_keyword_does/)
-- [Apache spark installation](https://www.reddit.com/r/scala/comments/1ch42tc/apache_spark_installation/)
-- [IntelliJ Scala Plugin 2024.1.20 is out](https://www.reddit.com/r/scala/comments/1cgzqoi/intellij_scala_plugin_2024120_is_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

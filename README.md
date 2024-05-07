@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Direct Style Effect Systems - The Print[A] Example - A Comprehension Aid](https://www.reddit.com/r/scala/comments/1cloj5a/direct_style_effect_systems_the_printa_example_a/)
+- [Apache Fury 0.5.0 released](https://www.reddit.com/r/scala/comments/1cll8x8/apache_fury_050_released/)
+- [sbt 1.10.0 released](https://www.reddit.com/r/scala/comments/1clb92p/sbt_1100_released/)
 - [This week in #Scala &lpar;May 6, 2024&rpar;](https://www.reddit.com/r/scala/comments/1cks3xb/this_week_in_scala_may_6_2024/)
 - [Typeclass Derivation with Shapeless](https://www.reddit.com/r/scala/comments/1ckrp7h/typeclass_derivation_with_shapeless/)
 - [New Emacs package scala-repl for REPL driven development](https://www.reddit.com/r/scala/comments/1ckqz5r/new_emacs_package_scalarepl_for_repl_driven/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala - freelancing](https://www.reddit.com/r/scala/comments/1cjteh3/scala_freelancing/)
 - [The Effect Of Uncapturable - Oleg Nizhnik, Scala Stockholm Spring Meetup April 2024](https://www.reddit.com/r/scala/comments/1cjt4xv/the_effect_of_uncapturable_oleg_nizhnik_scala/)
 - [Elements of JVM Concurrency &lpar;Scalar 2024&rpar;](https://www.reddit.com/r/scala/comments/1cj1ut9/elements_of_jvm_concurrency_scalar_2024/)
-- [On Modern Error Handling &lpar;Not Just in Java&rpar;: Monads, Effects and Project Amber](https://www.reddit.com/r/scala/comments/1cify78/on_modern_error_handling_not_just_in_java_monads/)
-- [Scala 2.13.14 is here!](https://www.reddit.com/r/scala/comments/1chy5l5/scala_21314_is_here/)
-- [Testing with Mockito](https://www.reddit.com/r/scala/comments/1chxv4w/testing_with_mockito/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

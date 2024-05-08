@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Benefits of learning Scala in 2024](https://www.reddit.com/r/scala/comments/1cmainh/benefits_of_learning_scala_in_2024/)
+- [Play Framework 2.9.3 and 3.0.3 released](https://www.reddit.com/r/scala/comments/1cm8d4d/play_framework_293_and_303_released/)
+- [Data Engineering at Netflix using Apache Spark and Scala 3 with Joan Goyeau](https://www.reddit.com/r/scala/comments/1cm62yl/data_engineering_at_netflix_using_apache_spark/)
 - [Direct Style Effect Systems - The Print[A] Example - A Comprehension Aid](https://www.reddit.com/r/scala/comments/1cloj5a/direct_style_effect_systems_the_printa_example_a/)
 - [Apache Fury 0.5.0 released](https://www.reddit.com/r/scala/comments/1cll8x8/apache_fury_050_released/)
 - [sbt 1.10.0 released](https://www.reddit.com/r/scala/comments/1clb92p/sbt_1100_released/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Typeclass Derivation with Shapeless](https://www.reddit.com/r/scala/comments/1ckrp7h/typeclass_derivation_with_shapeless/)
 - [New Emacs package scala-repl for REPL driven development](https://www.reddit.com/r/scala/comments/1ckqz5r/new_emacs_package_scalarepl_for_repl_driven/)
 - [Database library for Scala](https://www.reddit.com/r/scala/comments/1cjy972/database_library_for_scala/)
-- [Scala - freelancing](https://www.reddit.com/r/scala/comments/1cjteh3/scala_freelancing/)
-- [The Effect Of Uncapturable - Oleg Nizhnik, Scala Stockholm Spring Meetup April 2024](https://www.reddit.com/r/scala/comments/1cjt4xv/the_effect_of_uncapturable_oleg_nizhnik_scala/)
-- [Elements of JVM Concurrency &lpar;Scalar 2024&rpar;](https://www.reddit.com/r/scala/comments/1cj1ut9/elements_of_jvm_concurrency_scalar_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tuning ZIO for high performance](https://www.reddit.com/r/scala/comments/1cqn9ve/tuning_zio_for_high_performance/)
+- [ZIO 2.1 is here](https://www.reddit.com/r/scala/comments/1cqave0/zio_21_is_here/)
+- [Play 3.x + Loom](https://www.reddit.com/r/scala/comments/1cqacy7/play_3x_loom/)
+- [This week in #Scala &lpar;May 13, 2024&rpar;](https://www.reddit.com/r/scala/comments/1cq7sp4/this_week_in_scala_may_13_2024/)
+- [Purify Your Tests](https://www.reddit.com/r/scala/comments/1cq6vkj/purify_your_tests/)
 - [Direct Style Effects with current Effect Systems?](https://www.reddit.com/r/scala/comments/1cpjv1y/direct_style_effects_with_current_effect_systems/)
 - [Benefits of learning Scala in 2024](https://www.reddit.com/r/scala/comments/1cmainh/benefits_of_learning_scala_in_2024/)
 - [Play Framework 2.9.3 and 3.0.3 released](https://www.reddit.com/r/scala/comments/1cm8d4d/play_framework_293_and_303_released/)
 - [Data Engineering at Netflix using Apache Spark and Scala 3 with Joan Goyeau](https://www.reddit.com/r/scala/comments/1cm62yl/data_engineering_at_netflix_using_apache_spark/)
 - [Direct Style Effect Systems - The Print[A] Example - A Comprehension Aid](https://www.reddit.com/r/scala/comments/1cloj5a/direct_style_effect_systems_the_printa_example_a/)
-- [Apache Fury 0.5.0 released](https://www.reddit.com/r/scala/comments/1cll8x8/apache_fury_050_released/)
-- [sbt 1.10.0 released](https://www.reddit.com/r/scala/comments/1clb92p/sbt_1100_released/)
-- [This week in #Scala &lpar;May 6, 2024&rpar;](https://www.reddit.com/r/scala/comments/1cks3xb/this_week_in_scala_may_6_2024/)
-- [Typeclass Derivation with Shapeless](https://www.reddit.com/r/scala/comments/1ckrp7h/typeclass_derivation_with_shapeless/)
-- [New Emacs package scala-repl for REPL driven development](https://www.reddit.com/r/scala/comments/1ckqz5r/new_emacs_package_scalarepl_for_repl_driven/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

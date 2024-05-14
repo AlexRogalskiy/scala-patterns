@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [JetBrains Joins the Scala Center Advisory Board!](https://www.reddit.com/r/scala/comments/1cr1xjx/jetbrains_joins_the_scala_center_advisory_board/)
 - [Tuning ZIO for high performance](https://www.reddit.com/r/scala/comments/1cqn9ve/tuning_zio_for_high_performance/)
 - [ZIO 2.1 is here](https://www.reddit.com/r/scala/comments/1cqave0/zio_21_is_here/)
 - [Play 3.x + Loom](https://www.reddit.com/r/scala/comments/1cqacy7/play_3x_loom/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Benefits of learning Scala in 2024](https://www.reddit.com/r/scala/comments/1cmainh/benefits_of_learning_scala_in_2024/)
 - [Play Framework 2.9.3 and 3.0.3 released](https://www.reddit.com/r/scala/comments/1cm8d4d/play_framework_293_and_303_released/)
 - [Data Engineering at Netflix using Apache Spark and Scala 3 with Joan Goyeau](https://www.reddit.com/r/scala/comments/1cm62yl/data_engineering_at_netflix_using_apache_spark/)
-- [Direct Style Effect Systems - The Print[A] Example - A Comprehension Aid](https://www.reddit.com/r/scala/comments/1cloj5a/direct_style_effect_systems_the_printa_example_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Will Scala learning as Java Developer be beneficial?](https://www.reddit.com/r/scala/comments/1cs1d26/will_scala_learning_as_java_developer_be/)
+- [Laminar v17.0.0 &amp; Shoelace Web Components v0.1.0](https://www.reddit.com/r/scala/comments/1crp2k2/laminar_v1700_shoelace_web_components_v010/)
+- [Introducing `com-lihaoyi` Issue Bounties](https://www.reddit.com/r/scala/comments/1crof72/introducing_comlihaoyi_issue_bounties/)
+- [ScalikeJDBC 4.3 released](https://www.reddit.com/r/scala/comments/1cro42y/scalikejdbc_43_released/)
 - [JetBrains Joins the Scala Center Advisory Board!](https://www.reddit.com/r/scala/comments/1cr1xjx/jetbrains_joins_the_scala_center_advisory_board/)
 - [Tuning ZIO for high performance](https://www.reddit.com/r/scala/comments/1cqn9ve/tuning_zio_for_high_performance/)
 - [ZIO 2.1 is here](https://www.reddit.com/r/scala/comments/1cqave0/zio_21_is_here/)
 - [Play 3.x + Loom](https://www.reddit.com/r/scala/comments/1cqacy7/play_3x_loom/)
 - [This week in #Scala &lpar;May 13, 2024&rpar;](https://www.reddit.com/r/scala/comments/1cq7sp4/this_week_in_scala_may_13_2024/)
 - [Purify Your Tests](https://www.reddit.com/r/scala/comments/1cq6vkj/purify_your_tests/)
-- [Direct Style Effects with current Effect Systems?](https://www.reddit.com/r/scala/comments/1cpjv1y/direct_style_effects_with_current_effect_systems/)
-- [Benefits of learning Scala in 2024](https://www.reddit.com/r/scala/comments/1cmainh/benefits_of_learning_scala_in_2024/)
-- [Play Framework 2.9.3 and 3.0.3 released](https://www.reddit.com/r/scala/comments/1cm8d4d/play_framework_293_and_303_released/)
-- [Data Engineering at Netflix using Apache Spark and Scala 3 with Joan Goyeau](https://www.reddit.com/r/scala/comments/1cm62yl/data_engineering_at_netflix_using_apache_spark/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

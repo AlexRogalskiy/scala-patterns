@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Gears in online :D](https://www.reddit.com/r/scala/comments/1cu9lmy/gears_in_online_d/)
+- [Scala Times Issue #532](https://www.reddit.com/r/scala/comments/1cu17h0/scala_times_issue_532/)
+- [Barely Functional: let&#39;s build a lean Scala app](https://www.reddit.com/r/scala/comments/1ctzs5e/barely_functional_lets_build_a_lean_scala_app/)
 - [Apache Software Foundation Announces New Top-Level Project Apache Pekko](https://www.reddit.com/r/scala/comments/1ctmqh5/apache_software_foundation_announces_new_toplevel/)
 - [I can&#39;t find a good way to develop in this language](https://www.reddit.com/r/scala/comments/1ct9jzo/i_cant_find_a_good_way_to_develop_in_this_language/)
 - [switching from Clojure to Scala](https://www.reddit.com/r/scala/comments/1ct6k38/switching_from_clojure_to_scala/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [[redacted][0.5.1] released, now with Scala 2 support 🎉](https://www.reddit.com/r/scala/comments/1cspr3m/redacted051_released_now_with_scala_2_support/)
 - [Uncovering the benefits and challenges of ZIO2 and Scala 3 at Wolt](https://www.reddit.com/r/scala/comments/1csh0go/uncovering_the_benefits_and_challenges_of_zio2/)
 - [htmx, ScalaTags and ZIO HTTP - Single-Page Web Applications in Scala](https://www.reddit.com/r/scala/comments/1csgnas/htmx_scalatags_and_zio_http_singlepage_web/)
-- [Daniel Ciocîrlan Generative Art with Scala, No AI Required, Scalar Conference 2024](https://www.reddit.com/r/scala/comments/1csg022/daniel_ciocîrlan_generative_art_with_scala_no_ai/)
-- [Improved reuse in Smithy/Smithy4s with Mixins](https://www.reddit.com/r/scala/comments/1csdyk2/improved_reuse_in_smithysmithy4s_with_mixins/)
-- [Questioning access to deep option types](https://www.reddit.com/r/scala/comments/1cscm7k/questioning_access_to_deep_option_types/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

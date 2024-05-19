@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [SBT CPU usage](https://www.reddit.com/r/scala/comments/1cv7hgg/sbt_cpu_usage/)
+- [urlopt4s, removing ad/tracking query params from a given URL using JS AdGuard adblocker engine](https://www.reddit.com/r/scala/comments/1cv2ugx/urlopt4s_removing_adtracking_query_params_from_a/)
 - [Gears in online :D](https://www.reddit.com/r/scala/comments/1cu9lmy/gears_in_online_d/)
 - [Scala Times Issue #532](https://www.reddit.com/r/scala/comments/1cu17h0/scala_times_issue_532/)
 - [Barely Functional: let&#39;s build a lean Scala app](https://www.reddit.com/r/scala/comments/1ctzs5e/barely_functional_lets_build_a_lean_scala_app/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [switching from Clojure to Scala](https://www.reddit.com/r/scala/comments/1ct6k38/switching_from_clojure_to_scala/)
 - [Going back to Java after almost a decade of Scala](https://www.reddit.com/r/scala/comments/1ct3e34/going_back_to_java_after_almost_a_decade_of_scala/)
 - [[redacted][0.5.1] released, now with Scala 2 support 🎉](https://www.reddit.com/r/scala/comments/1cspr3m/redacted051_released_now_with_scala_2_support/)
-- [Uncovering the benefits and challenges of ZIO2 and Scala 3 at Wolt](https://www.reddit.com/r/scala/comments/1csh0go/uncovering_the_benefits_and_challenges_of_zio2/)
-- [htmx, ScalaTags and ZIO HTTP - Single-Page Web Applications in Scala](https://www.reddit.com/r/scala/comments/1csgnas/htmx_scalatags_and_zio_http_singlepage_web/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

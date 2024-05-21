@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Pushing JVM to Its Limits with a Billion Row Challenge](https://www.reddit.com/r/scala/comments/1cwg88j/pushing_jvm_to_its_limits_with_a_billion_row/)
+- [This week in #Scala &lpar;May 20, 2024&rpar;](https://www.reddit.com/r/scala/comments/1cwg1fp/this_week_in_scala_may_20_2024/)
+- [Purify Your Tests: 2 Parametric, 2 Declarative](https://www.reddit.com/r/scala/comments/1cwesa4/purify_your_tests_2_parametric_2_declarative/)
 - [Scala libraries benchmark](https://www.reddit.com/r/scala/comments/1cvvo5l/scala_libraries_benchmark/)
 - [Kyo v0.10.0 released! 🚀](https://www.reddit.com/r/scala/comments/1cvvldi/kyo_v0100_released/)
 - [Hello Scala Developers! Have you come across the TARP tech stack? ⛺️](https://www.reddit.com/r/scala/comments/1cvlm9i/hello_scala_developers_have_you_come_across_the/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [urlopt4s, removing ad/tracking query params from a given URL using JS AdGuard adblocker engine](https://www.reddit.com/r/scala/comments/1cv2ugx/urlopt4s_removing_adtracking_query_params_from_a/)
 - [Gears in online :D](https://www.reddit.com/r/scala/comments/1cu9lmy/gears_in_online_d/)
 - [Scala Times Issue #532](https://www.reddit.com/r/scala/comments/1cu17h0/scala_times_issue_532/)
-- [Barely Functional: let&#39;s build a lean Scala app](https://www.reddit.com/r/scala/comments/1ctzs5e/barely_functional_lets_build_a_lean_scala_app/)
-- [Apache Software Foundation Announces New Top-Level Project Apache Pekko](https://www.reddit.com/r/scala/comments/1ctmqh5/apache_software_foundation_announces_new_toplevel/)
-- [I can&#39;t find a good way to develop in this language](https://www.reddit.com/r/scala/comments/1ct9jzo/i_cant_find_a_good_way_to_develop_in_this_language/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Formatting case class with multiple parameter lists in play json](https://www.reddit.com/r/scala/comments/1cxbxoi/formatting_case_class_with_multiple_parameter/)
 - [Pushing JVM to Its Limits with a Billion Row Challenge](https://www.reddit.com/r/scala/comments/1cwg88j/pushing_jvm_to_its_limits_with_a_billion_row/)
 - [This week in #Scala &lpar;May 20, 2024&rpar;](https://www.reddit.com/r/scala/comments/1cwg1fp/this_week_in_scala_may_20_2024/)
 - [Purify Your Tests: 2 Parametric, 2 Declarative](https://www.reddit.com/r/scala/comments/1cwesa4/purify_your_tests_2_parametric_2_declarative/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [SBT CPU usage](https://www.reddit.com/r/scala/comments/1cv7hgg/sbt_cpu_usage/)
 - [urlopt4s, removing ad/tracking query params from a given URL using JS AdGuard adblocker engine](https://www.reddit.com/r/scala/comments/1cv2ugx/urlopt4s_removing_adtracking_query_params_from_a/)
 - [Gears in online :D](https://www.reddit.com/r/scala/comments/1cu9lmy/gears_in_online_d/)
-- [Scala Times Issue #532](https://www.reddit.com/r/scala/comments/1cu17h0/scala_times_issue_532/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

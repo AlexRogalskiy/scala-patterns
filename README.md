@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Times Issue #533](https://www.reddit.com/r/scala/comments/1cyz01u/scala_times_issue_533/)
+- [Question about Scala syntax &lpar;braces or no braces&rpar;](https://www.reddit.com/r/scala/comments/1cyxdxn/question_about_scala_syntax_braces_or_no_braces/)
+- [File upload malware detection library](https://www.reddit.com/r/scala/comments/1cypjgl/file_upload_malware_detection_library/)
+- [ScaLatin #8 | Desmitificando las Blockchains: Desbloqueando el Potencial de los Sistemas Descentralizados](https://www.reddit.com/r/scala/comments/1cyoz7c/scalatin_8_desmitificando_las_blockchains/)
+- [Announcing Business4s: a new value proposition for Scala](https://www.reddit.com/r/scala/comments/1cym2i4/announcing_business4s_a_new_value_proposition_for/)
+- [Chimney 1.0.0 released](https://www.reddit.com/r/scala/comments/1cyl0eo/chimney_100_released/)
 - [Finally 1.0.0 release of munit · MUnit](https://www.reddit.com/r/scala/comments/1cy1gdx/finally_100_release_of_munit_munit/)
 - [I want to create a REPL CLI app using scala.](https://www.reddit.com/r/scala/comments/1cxyd1e/i_want_to_create_a_repl_cli_app_using_scala/)
 - [IO effect tracking using Ox](https://www.reddit.com/r/scala/comments/1cxxcpy/io_effect_tracking_using_ox/)
 - [Formatting case class with multiple parameter lists in play json](https://www.reddit.com/r/scala/comments/1cxbxoi/formatting_case_class_with_multiple_parameter/)
-- [Pushing JVM to Its Limits with a Billion Row Challenge](https://www.reddit.com/r/scala/comments/1cwg88j/pushing_jvm_to_its_limits_with_a_billion_row/)
-- [This week in #Scala &lpar;May 20, 2024&rpar;](https://www.reddit.com/r/scala/comments/1cwg1fp/this_week_in_scala_may_20_2024/)
-- [Purify Your Tests: 2 Parametric, 2 Declarative](https://www.reddit.com/r/scala/comments/1cwesa4/purify_your_tests_2_parametric_2_declarative/)
-- [Scala libraries benchmark](https://www.reddit.com/r/scala/comments/1cvvo5l/scala_libraries_benchmark/)
-- [Kyo v0.10.0 released! 🚀](https://www.reddit.com/r/scala/comments/1cvvldi/kyo_v0100_released/)
-- [Hello Scala Developers! Have you come across the TARP tech stack? ⛺️](https://www.reddit.com/r/scala/comments/1cvlm9i/hello_scala_developers_have_you_come_across_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

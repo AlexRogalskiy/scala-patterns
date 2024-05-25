@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Are There Any Online Scala 2 to Scala 3 Braceless Syntax Code Snippet Converters &lpar;Scastie, or IntelliJ?&rpar;](https://www.reddit.com/r/scala/comments/1czysez/are_there_any_online_scala_2_to_scala_3_braceless/)
+- [Looking for Scala developers in Stockholm / Gothenburg!](https://www.reddit.com/r/scala/comments/1czf22d/looking_for_scala_developers_in_stockholm/)
+- [Disney Streaming Scala Engineer Opportunity](https://www.reddit.com/r/scala/comments/1czcpsu/disney_streaming_scala_engineer_opportunity/)
+- [Who&#39;s using com-lihaoyi projects, where, which, for what?](https://www.reddit.com/r/scala/comments/1czcklj/whos_using_comlihaoyi_projects_where_which_for/)
 - [Scala Times Issue #533](https://www.reddit.com/r/scala/comments/1cyz01u/scala_times_issue_533/)
 - [Question about Scala syntax &lpar;braces or no braces&rpar;](https://www.reddit.com/r/scala/comments/1cyxdxn/question_about_scala_syntax_braces_or_no_braces/)
 - [File upload malware detection library](https://www.reddit.com/r/scala/comments/1cypjgl/file_upload_malware_detection_library/)
 - [ScaLatin #8 | Desmitificando las Blockchains: Desbloqueando el Potencial de los Sistemas Descentralizados](https://www.reddit.com/r/scala/comments/1cyoz7c/scalatin_8_desmitificando_las_blockchains/)
 - [Announcing Business4s: a new value proposition for Scala](https://www.reddit.com/r/scala/comments/1cym2i4/announcing_business4s_a_new_value_proposition_for/)
 - [Chimney 1.0.0 released](https://www.reddit.com/r/scala/comments/1cyl0eo/chimney_100_released/)
-- [Finally 1.0.0 release of munit · MUnit](https://www.reddit.com/r/scala/comments/1cy1gdx/finally_100_release_of_munit_munit/)
-- [I want to create a REPL CLI app using scala.](https://www.reddit.com/r/scala/comments/1cxyd1e/i_want_to_create_a_repl_cli_app_using_scala/)
-- [IO effect tracking using Ox](https://www.reddit.com/r/scala/comments/1cxxcpy/io_effect_tracking_using_ox/)
-- [Formatting case class with multiple parameter lists in play json](https://www.reddit.com/r/scala/comments/1cxbxoi/formatting_case_class_with_multiple_parameter/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

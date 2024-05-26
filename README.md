@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Integrate Postcss with Playframework. The initial use case is for Tailwindcss.](https://www.reddit.com/r/scala/comments/1d0ioge/integrate_postcss_with_playframework_the_initial/)
+- [Scala 3 `usePipelining` build flag is a game changer.](https://www.reddit.com/r/scala/comments/1d0ga7k/scala_3_usepipelining_build_flag_is_a_game_changer/)
+- [Dendrology - Renders trees and DAGs in the console](https://www.reddit.com/r/scala/comments/1d095v6/dendrology_renders_trees_and_dags_in_the_console/)
 - [Are There Any Online Scala 2 to Scala 3 Braceless Syntax Code Snippet Converters &lpar;Scastie, or IntelliJ?&rpar;](https://www.reddit.com/r/scala/comments/1czysez/are_there_any_online_scala_2_to_scala_3_braceless/)
 - [Looking for Scala developers in Stockholm / Gothenburg!](https://www.reddit.com/r/scala/comments/1czf22d/looking_for_scala_developers_in_stockholm/)
 - [Disney Streaming Scala Engineer Opportunity](https://www.reddit.com/r/scala/comments/1czcpsu/disney_streaming_scala_engineer_opportunity/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Times Issue #533](https://www.reddit.com/r/scala/comments/1cyz01u/scala_times_issue_533/)
 - [Question about Scala syntax &lpar;braces or no braces&rpar;](https://www.reddit.com/r/scala/comments/1cyxdxn/question_about_scala_syntax_braces_or_no_braces/)
 - [File upload malware detection library](https://www.reddit.com/r/scala/comments/1cypjgl/file_upload_malware_detection_library/)
-- [ScaLatin #8 | Desmitificando las Blockchains: Desbloqueando el Potencial de los Sistemas Descentralizados](https://www.reddit.com/r/scala/comments/1cyoz7c/scalatin_8_desmitificando_las_blockchains/)
-- [Announcing Business4s: a new value proposition for Scala](https://www.reddit.com/r/scala/comments/1cym2i4/announcing_business4s_a_new_value_proposition_for/)
-- [Chimney 1.0.0 released](https://www.reddit.com/r/scala/comments/1cyl0eo/chimney_100_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

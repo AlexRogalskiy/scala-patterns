@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;May 27, 2024&rpar;](https://www.reddit.com/r/scala/comments/1d1b9uu/this_week_in_scala_may_27_2024/)
+- [Akka 24.05 released: 1 million requests per second &lpar;8 instances&rpar;](https://www.reddit.com/r/scala/comments/1d14cqd/akka_2405_released_1_million_requests_per_second/)
+- [does Scala have a future given server less programming?](https://www.reddit.com/r/scala/comments/1d10pfe/does_scala_have_a_future_given_server_less/)
+- [dependent types in scala3--are they the real deal?](https://www.reddit.com/r/scala/comments/1d10jh8/dependent_types_in_scala3are_they_the_real_deal/)
+- [ScalaSql 0.1.3 now supports Scala 3.4.2](https://www.reddit.com/r/scala/comments/1d10ako/scalasql_013_now_supports_scala_342/)
 - [Integrate Postcss with Playframework. The initial use case is for Tailwindcss.](https://www.reddit.com/r/scala/comments/1d0ioge/integrate_postcss_with_playframework_the_initial/)
 - [Scala 3 `usePipelining` build flag is a game changer.](https://www.reddit.com/r/scala/comments/1d0ga7k/scala_3_usepipelining_build_flag_is_a_game_changer/)
 - [Dendrology - Renders trees and DAGs in the console](https://www.reddit.com/r/scala/comments/1d095v6/dendrology_renders_trees_and_dags_in_the_console/)
 - [Are There Any Online Scala 2 to Scala 3 Braceless Syntax Code Snippet Converters &lpar;Scastie, or IntelliJ?&rpar;](https://www.reddit.com/r/scala/comments/1czysez/are_there_any_online_scala_2_to_scala_3_braceless/)
 - [Looking for Scala developers in Stockholm / Gothenburg!](https://www.reddit.com/r/scala/comments/1czf22d/looking_for_scala_developers_in_stockholm/)
-- [Disney Streaming Scala Engineer Opportunity](https://www.reddit.com/r/scala/comments/1czcpsu/disney_streaming_scala_engineer_opportunity/)
-- [Who&#39;s using com-lihaoyi projects, where, which, for what?](https://www.reddit.com/r/scala/comments/1czcklj/whos_using_comlihaoyi_projects_where_which_for/)
-- [Scala Times Issue #533](https://www.reddit.com/r/scala/comments/1cyz01u/scala_times_issue_533/)
-- [Question about Scala syntax &lpar;braces or no braces&rpar;](https://www.reddit.com/r/scala/comments/1cyxdxn/question_about_scala_syntax_braces_or_no_braces/)
-- [File upload malware detection library](https://www.reddit.com/r/scala/comments/1cypjgl/file_upload_malware_detection_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

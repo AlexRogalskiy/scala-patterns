@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Extend your JVM app at runtime with SPI](https://www.reddit.com/r/scala/comments/1d1ls6x/extend_your_jvm_app_at_runtime_with_spi/)
 - [This week in #Scala &lpar;May 27, 2024&rpar;](https://www.reddit.com/r/scala/comments/1d1b9uu/this_week_in_scala_may_27_2024/)
 - [Akka 24.05 released: 1 million requests per second &lpar;8 instances&rpar;](https://www.reddit.com/r/scala/comments/1d14cqd/akka_2405_released_1_million_requests_per_second/)
 - [does Scala have a future given server less programming?](https://www.reddit.com/r/scala/comments/1d10pfe/does_scala_have_a_future_given_server_less/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala 3 `usePipelining` build flag is a game changer.](https://www.reddit.com/r/scala/comments/1d0ga7k/scala_3_usepipelining_build_flag_is_a_game_changer/)
 - [Dendrology - Renders trees and DAGs in the console](https://www.reddit.com/r/scala/comments/1d095v6/dendrology_renders_trees_and_dags_in_the_console/)
 - [Are There Any Online Scala 2 to Scala 3 Braceless Syntax Code Snippet Converters &lpar;Scastie, or IntelliJ?&rpar;](https://www.reddit.com/r/scala/comments/1czysez/are_there_any_online_scala_2_to_scala_3_braceless/)
-- [Looking for Scala developers in Stockholm / Gothenburg!](https://www.reddit.com/r/scala/comments/1czf22d/looking_for_scala_developers_in_stockholm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

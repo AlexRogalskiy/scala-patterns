@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Server-side live HTML rendering on Scala?](https://www.reddit.com/r/scala/comments/1d30nl8/serverside_live_html_rendering_on_scala/)
+- [Mirrors for operations, not data, Scalar 2024](https://www.reddit.com/r/scala/comments/1d2v5e4/mirrors_for_operations_not_data_scalar_2024/)
+- [A live coding assignment: what would you do differently, would you used sealed traits &lpar;as the interviewer suggested&rpar;, and is way using reflection the only way to solve this?](https://www.reddit.com/r/scala/comments/1d2qb5n/a_live_coding_assignment_what_would_you_do/)
+- [Dissonance – Myers&#39; diff algorithm for Scala &lpar;soundness.dev&rpar;](https://www.reddit.com/r/scala/comments/1d2irpm/dissonance_myers_diff_algorithm_for_scala/)
+- [Is there a dependently typed Scala on the horizon?](https://www.reddit.com/r/scala/comments/1d2fq1n/is_there_a_dependently_typed_scala_on_the_horizon/)
+- [Forking and Interruption in ZIO](https://www.reddit.com/r/scala/comments/1d2dy7l/forking_and_interruption_in_zio/)
 - [Extend your JVM app at runtime with SPI](https://www.reddit.com/r/scala/comments/1d1ls6x/extend_your_jvm_app_at_runtime_with_spi/)
 - [This week in #Scala &lpar;May 27, 2024&rpar;](https://www.reddit.com/r/scala/comments/1d1b9uu/this_week_in_scala_may_27_2024/)
 - [Akka 24.05 released: 1 million requests per second &lpar;8 instances&rpar;](https://www.reddit.com/r/scala/comments/1d14cqd/akka_2405_released_1_million_requests_per_second/)
 - [does Scala have a future given server less programming?](https://www.reddit.com/r/scala/comments/1d10pfe/does_scala_have_a_future_given_server_less/)
-- [dependent types in scala3--are they the real deal?](https://www.reddit.com/r/scala/comments/1d10jh8/dependent_types_in_scala3are_they_the_real_deal/)
-- [ScalaSql 0.1.3 now supports Scala 3.4.2](https://www.reddit.com/r/scala/comments/1d10ako/scalasql_013_now_supports_scala_342/)
-- [Integrate Postcss with Playframework. The initial use case is for Tailwindcss.](https://www.reddit.com/r/scala/comments/1d0ioge/integrate_postcss_with_playframework_the_initial/)
-- [Scala 3 `usePipelining` build flag is a game changer.](https://www.reddit.com/r/scala/comments/1d0ga7k/scala_3_usepipelining_build_flag_is_a_game_changer/)
-- [Dendrology - Renders trees and DAGs in the console](https://www.reddit.com/r/scala/comments/1d095v6/dendrology_renders_trees_and_dags_in_the_console/)
-- [Are There Any Online Scala 2 to Scala 3 Braceless Syntax Code Snippet Converters &lpar;Scastie, or IntelliJ?&rpar;](https://www.reddit.com/r/scala/comments/1czysez/are_there_any_online_scala_2_to_scala_3_braceless/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to get a startup license for Akka from Lightbend?](https://www.reddit.com/r/scala/comments/1d3gjr5/how_to_get_a_startup_license_for_akka_from/)
+- [Scala-based startups](https://www.reddit.com/r/scala/comments/1d3bxd3/scalabased_startups/)
+- [Nicolas Rinaudo The debatably Free monad Scalar Conference 2024](https://www.reddit.com/r/scala/comments/1d37cmm/nicolas_rinaudo_the_debatably_free_monad_scalar/)
+- [Nguyen Pham STRUCTURED CONCURRENCY IN DIRECT STYLE WITH GEARS Scalar Conference 2024](https://www.reddit.com/r/scala/comments/1d379rb/nguyen_pham_structured_concurrency_in_direct/)
+- [Blazingly-fast serialization framework: Apache Fury 0.5.1 released](https://www.reddit.com/r/scala/comments/1d34r6z/blazinglyfast_serialization_framework_apache_fury/)
 - [Server-side live HTML rendering on Scala?](https://www.reddit.com/r/scala/comments/1d30nl8/serverside_live_html_rendering_on_scala/)
 - [Mirrors for operations, not data, Scalar 2024](https://www.reddit.com/r/scala/comments/1d2v5e4/mirrors_for_operations_not_data_scalar_2024/)
 - [A live coding assignment: what would you do differently, would you used sealed traits &lpar;as the interviewer suggested&rpar;, and is way using reflection the only way to solve this?](https://www.reddit.com/r/scala/comments/1d2qb5n/a_live_coding_assignment_what_would_you_do/)
 - [Dissonance – Myers&#39; diff algorithm for Scala &lpar;soundness.dev&rpar;](https://www.reddit.com/r/scala/comments/1d2irpm/dissonance_myers_diff_algorithm_for_scala/)
 - [Is there a dependently typed Scala on the horizon?](https://www.reddit.com/r/scala/comments/1d2fq1n/is_there_a_dependently_typed_scala_on_the_horizon/)
-- [Forking and Interruption in ZIO](https://www.reddit.com/r/scala/comments/1d2dy7l/forking_and_interruption_in_zio/)
-- [Extend your JVM app at runtime with SPI](https://www.reddit.com/r/scala/comments/1d1ls6x/extend_your_jvm_app_at_runtime_with_spi/)
-- [This week in #Scala &lpar;May 27, 2024&rpar;](https://www.reddit.com/r/scala/comments/1d1b9uu/this_week_in_scala_may_27_2024/)
-- [Akka 24.05 released: 1 million requests per second &lpar;8 instances&rpar;](https://www.reddit.com/r/scala/comments/1d14cqd/akka_2405_released_1_million_requests_per_second/)
-- [does Scala have a future given server less programming?](https://www.reddit.com/r/scala/comments/1d10pfe/does_scala_have_a_future_given_server_less/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

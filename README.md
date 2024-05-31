@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Times Issue #534](https://www.reddit.com/r/scala/comments/1d4dk0j/scala_times_issue_534/)
+- [Scala-Native 0.5.2 now supports OS-Lib&#39;s os.proc subprocesses](https://www.reddit.com/r/scala/comments/1d41166/scalanative_052_now_supports_oslibs_osproc/)
+- [How many threads are created and blocked during a Future map/flatMap chain](https://www.reddit.com/r/scala/comments/1d3zlux/how_many_threads_are_created_and_blocked_during_a/)
+- [More Lean Scala streaming today](https://www.reddit.com/r/scala/comments/1d3z42g/more_lean_scala_streaming_today/)
 - [How to get a startup license for Akka from Lightbend?](https://www.reddit.com/r/scala/comments/1d3gjr5/how_to_get_a_startup_license_for_akka_from/)
 - [Scala-based startups](https://www.reddit.com/r/scala/comments/1d3bxd3/scalabased_startups/)
 - [Nicolas Rinaudo The debatably Free monad Scalar Conference 2024](https://www.reddit.com/r/scala/comments/1d37cmm/nicolas_rinaudo_the_debatably_free_monad_scalar/)
 - [Nguyen Pham STRUCTURED CONCURRENCY IN DIRECT STYLE WITH GEARS Scalar Conference 2024](https://www.reddit.com/r/scala/comments/1d379rb/nguyen_pham_structured_concurrency_in_direct/)
 - [Blazingly-fast serialization framework: Apache Fury 0.5.1 released](https://www.reddit.com/r/scala/comments/1d34r6z/blazinglyfast_serialization_framework_apache_fury/)
 - [Server-side live HTML rendering on Scala?](https://www.reddit.com/r/scala/comments/1d30nl8/serverside_live_html_rendering_on_scala/)
-- [Mirrors for operations, not data, Scalar 2024](https://www.reddit.com/r/scala/comments/1d2v5e4/mirrors_for_operations_not_data_scalar_2024/)
-- [A live coding assignment: what would you do differently, would you used sealed traits &lpar;as the interviewer suggested&rpar;, and is way using reflection the only way to solve this?](https://www.reddit.com/r/scala/comments/1d2qb5n/a_live_coding_assignment_what_would_you_do/)
-- [Dissonance – Myers&#39; diff algorithm for Scala &lpar;soundness.dev&rpar;](https://www.reddit.com/r/scala/comments/1d2irpm/dissonance_myers_diff_algorithm_for_scala/)
-- [Is there a dependently typed Scala on the horizon?](https://www.reddit.com/r/scala/comments/1d2fq1n/is_there_a_dependently_typed_scala_on_the_horizon/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

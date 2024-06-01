@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Implementing Lean Scala app live](https://www.reddit.com/r/scala/comments/1d4x26s/implementing_lean_scala_app_live/)
+- [Why use Scala in 2024?](https://www.reddit.com/r/scala/comments/1d4r18h/why_use_scala_in_2024/)
+- [Scalendar June 2024](https://www.reddit.com/r/scala/comments/1d4p76l/scalendar_june_2024/)
 - [Scala Times Issue #534](https://www.reddit.com/r/scala/comments/1d4dk0j/scala_times_issue_534/)
 - [Scala-Native 0.5.2 now supports OS-Lib&#39;s os.proc subprocesses](https://www.reddit.com/r/scala/comments/1d41166/scalanative_052_now_supports_oslibs_osproc/)
 - [How many threads are created and blocked during a Future map/flatMap chain](https://www.reddit.com/r/scala/comments/1d3zlux/how_many_threads_are_created_and_blocked_during_a/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to get a startup license for Akka from Lightbend?](https://www.reddit.com/r/scala/comments/1d3gjr5/how_to_get_a_startup_license_for_akka_from/)
 - [Scala-based startups](https://www.reddit.com/r/scala/comments/1d3bxd3/scalabased_startups/)
 - [Nicolas Rinaudo The debatably Free monad Scalar Conference 2024](https://www.reddit.com/r/scala/comments/1d37cmm/nicolas_rinaudo_the_debatably_free_monad_scalar/)
-- [Nguyen Pham STRUCTURED CONCURRENCY IN DIRECT STYLE WITH GEARS Scalar Conference 2024](https://www.reddit.com/r/scala/comments/1d379rb/nguyen_pham_structured_concurrency_in_direct/)
-- [Blazingly-fast serialization framework: Apache Fury 0.5.1 released](https://www.reddit.com/r/scala/comments/1d34r6z/blazinglyfast_serialization_framework_apache_fury/)
-- [Server-side live HTML rendering on Scala?](https://www.reddit.com/r/scala/comments/1d30nl8/serverside_live_html_rendering_on_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

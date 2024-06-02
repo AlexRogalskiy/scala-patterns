@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Favourite coding challenge platform.](https://www.reddit.com/r/scala/comments/1d5lvtf/favourite_coding_challenge_platform/)
+- [Scala&#39;s preferred approach to relational data access?](https://www.reddit.com/r/scala/comments/1d5jvco/scalas_preferred_approach_to_relational_data/)
 - [Implementing Lean Scala app live](https://www.reddit.com/r/scala/comments/1d4x26s/implementing_lean_scala_app_live/)
 - [Why use Scala in 2024?](https://www.reddit.com/r/scala/comments/1d4r18h/why_use_scala_in_2024/)
 - [Scalendar June 2024](https://www.reddit.com/r/scala/comments/1d4p76l/scalendar_june_2024/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How many threads are created and blocked during a Future map/flatMap chain](https://www.reddit.com/r/scala/comments/1d3zlux/how_many_threads_are_created_and_blocked_during_a/)
 - [More Lean Scala streaming today](https://www.reddit.com/r/scala/comments/1d3z42g/more_lean_scala_streaming_today/)
 - [How to get a startup license for Akka from Lightbend?](https://www.reddit.com/r/scala/comments/1d3gjr5/how_to_get_a_startup_license_for_akka_from/)
-- [Scala-based startups](https://www.reddit.com/r/scala/comments/1d3bxd3/scalabased_startups/)
-- [Nicolas Rinaudo The debatably Free monad Scalar Conference 2024](https://www.reddit.com/r/scala/comments/1d37cmm/nicolas_rinaudo_the_debatably_free_monad_scalar/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

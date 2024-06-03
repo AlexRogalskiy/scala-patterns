@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Jun 3, 2024&rpar;](https://www.reddit.com/r/scala/comments/1d6cx0b/this_week_in_scala_jun_3_2024/)
 - [Favourite coding challenge platform.](https://www.reddit.com/r/scala/comments/1d5lvtf/favourite_coding_challenge_platform/)
 - [Scala&#39;s preferred approach to relational data access?](https://www.reddit.com/r/scala/comments/1d5jvco/scalas_preferred_approach_to_relational_data/)
 - [Implementing Lean Scala app live](https://www.reddit.com/r/scala/comments/1d4x26s/implementing_lean_scala_app_live/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala-Native 0.5.2 now supports OS-Lib&#39;s os.proc subprocesses](https://www.reddit.com/r/scala/comments/1d41166/scalanative_052_now_supports_oslibs_osproc/)
 - [How many threads are created and blocked during a Future map/flatMap chain](https://www.reddit.com/r/scala/comments/1d3zlux/how_many_threads_are_created_and_blocked_during_a/)
 - [More Lean Scala streaming today](https://www.reddit.com/r/scala/comments/1d3z42g/more_lean_scala_streaming_today/)
-- [How to get a startup license for Akka from Lightbend?](https://www.reddit.com/r/scala/comments/1d3gjr5/how_to_get_a_startup_license_for_akka_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

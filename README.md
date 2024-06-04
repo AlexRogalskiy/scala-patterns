@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Trouble installing Scala](https://www.reddit.com/r/scala/comments/1d7drpe/trouble_installing_scala/)
+- [WebSocket chat using structured concurrency, Ox &amp; Tapir](https://www.reddit.com/r/scala/comments/1d7a1rx/websocket_chat_using_structured_concurrency_ox/)
+- [A Sighting of filterA in Typelevel Rite of Passage](https://www.reddit.com/r/scala/comments/1d797dz/a_sighting_of_filtera_in_typelevel_rite_of_passage/)
+- [2.13 EOL and LTS planning - #5 by SethTisue - Announcements](https://www.reddit.com/r/scala/comments/1d77ro2/213_eol_and_lts_planning_5_by_sethtisue/)
+- [Purify Your Tests III: Lean, Mean Testing Machine](https://www.reddit.com/r/scala/comments/1d75g8u/purify_your_tests_iii_lean_mean_testing_machine/)
+- [Call AWS on ANY SCALA RUNTIME with Smithy4s](https://www.reddit.com/r/scala/comments/1d71lu1/call_aws_on_any_scala_runtime_with_smithy4s/)
+- [GraphQL in Scala: Role-Based Access Control](https://www.reddit.com/r/scala/comments/1d6xx19/graphql_in_scala_rolebased_access_control/)
 - [This week in #Scala &lpar;Jun 3, 2024&rpar;](https://www.reddit.com/r/scala/comments/1d6cx0b/this_week_in_scala_jun_3_2024/)
 - [Favourite coding challenge platform.](https://www.reddit.com/r/scala/comments/1d5lvtf/favourite_coding_challenge_platform/)
 - [Scala&#39;s preferred approach to relational data access?](https://www.reddit.com/r/scala/comments/1d5jvco/scalas_preferred_approach_to_relational_data/)
-- [Implementing Lean Scala app live](https://www.reddit.com/r/scala/comments/1d4x26s/implementing_lean_scala_app_live/)
-- [Why use Scala in 2024?](https://www.reddit.com/r/scala/comments/1d4r18h/why_use_scala_in_2024/)
-- [Scalendar June 2024](https://www.reddit.com/r/scala/comments/1d4p76l/scalendar_june_2024/)
-- [Scala Times Issue #534](https://www.reddit.com/r/scala/comments/1d4dk0j/scala_times_issue_534/)
-- [Scala-Native 0.5.2 now supports OS-Lib&#39;s os.proc subprocesses](https://www.reddit.com/r/scala/comments/1d41166/scalanative_052_now_supports_oslibs_osproc/)
-- [How many threads are created and blocked during a Future map/flatMap chain](https://www.reddit.com/r/scala/comments/1d3zlux/how_many_threads_are_created_and_blocked_during_a/)
-- [More Lean Scala streaming today](https://www.reddit.com/r/scala/comments/1d3z42g/more_lean_scala_streaming_today/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

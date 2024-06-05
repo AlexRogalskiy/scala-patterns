@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Recommendation for library to stress test intranet web application that uses windows authentication](https://www.reddit.com/r/scala/comments/1d881g5/recommendation_for_library_to_stress_test/)
+- [The first three Tapir tutorials: Hello, world; OpenAPI; JSON](https://www.reddit.com/r/scala/comments/1d7swmv/the_first_three_tapir_tutorials_hello_world/)
 - [Trouble installing Scala](https://www.reddit.com/r/scala/comments/1d7drpe/trouble_installing_scala/)
 - [WebSocket chat using structured concurrency, Ox &amp; Tapir](https://www.reddit.com/r/scala/comments/1d7a1rx/websocket_chat_using_structured_concurrency_ox/)
 - [A Sighting of filterA in Typelevel Rite of Passage](https://www.reddit.com/r/scala/comments/1d797dz/a_sighting_of_filtera_in_typelevel_rite_of_passage/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Call AWS on ANY SCALA RUNTIME with Smithy4s](https://www.reddit.com/r/scala/comments/1d71lu1/call_aws_on_any_scala_runtime_with_smithy4s/)
 - [GraphQL in Scala: Role-Based Access Control](https://www.reddit.com/r/scala/comments/1d6xx19/graphql_in_scala_rolebased_access_control/)
 - [This week in #Scala &lpar;Jun 3, 2024&rpar;](https://www.reddit.com/r/scala/comments/1d6cx0b/this_week_in_scala_jun_3_2024/)
-- [Favourite coding challenge platform.](https://www.reddit.com/r/scala/comments/1d5lvtf/favourite_coding_challenge_platform/)
-- [Scala&#39;s preferred approach to relational data access?](https://www.reddit.com/r/scala/comments/1d5jvco/scalas_preferred_approach_to_relational_data/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

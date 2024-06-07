@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Times Issue #535](https://www.reddit.com/r/scala/comments/1d9ql8r/scala_times_issue_535/)
+- [Scala 3 improvements in Metals &lpar;and hopefully, IntelliJ IDEA&rpar;](https://www.reddit.com/r/scala/comments/1d9ljb0/scala_3_improvements_in_metals_and_hopefully/)
+- [given — A little CLI for interactively updating your Scala dependencies](https://www.reddit.com/r/scala/comments/1d9gh4q/given_a_little_cli_for_interactively_updating/)
+- [Looking for a Scala job!](https://www.reddit.com/r/scala/comments/1d9fpe6/looking_for_a_scala_job/)
 - [Tapir Tutorial - part 1: Hello, world! by Adam Warski](https://www.reddit.com/r/scala/comments/1d8rsht/tapir_tutorial_part_1_hello_world_by_adam_warski/)
 - [Next stream on Lean Scala exploration](https://www.reddit.com/r/scala/comments/1d8pqbq/next_stream_on_lean_scala_exploration/)
 - [Paul Matthews - Sounds of Scala.js - Scalar Conference 2024](https://www.reddit.com/r/scala/comments/1d8l0fl/paul_matthews_sounds_of_scalajs_scalar_conference/)
 - [Play 2.8.22 Released: Final Update as Play 2.8 Reaches EOL](https://www.reddit.com/r/scala/comments/1d8js6d/play_2822_released_final_update_as_play_28/)
 - [Recommendation for library to stress test intranet web application that uses windows authentication](https://www.reddit.com/r/scala/comments/1d881g5/recommendation_for_library_to_stress_test/)
 - [The first three Tapir tutorials: Hello, world; OpenAPI; JSON](https://www.reddit.com/r/scala/comments/1d7swmv/the_first_three_tapir_tutorials_hello_world/)
-- [Trouble installing Scala](https://www.reddit.com/r/scala/comments/1d7drpe/trouble_installing_scala/)
-- [WebSocket chat using structured concurrency, Ox &amp; Tapir](https://www.reddit.com/r/scala/comments/1d7a1rx/websocket_chat_using_structured_concurrency_ox/)
-- [A Sighting of filterA in Typelevel Rite of Passage](https://www.reddit.com/r/scala/comments/1d797dz/a_sighting_of_filtera_in_typelevel_rite_of_passage/)
-- [2.13 EOL and LTS planning - #5 by SethTisue - Announcements](https://www.reddit.com/r/scala/comments/1d77ro2/213_eol_and_lts_planning_5_by_sethtisue/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

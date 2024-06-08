@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Did you guys think that?](https://www.reddit.com/r/scala/comments/1dapk2c/did_you_guys_think_that/)
+- [Literature on error handling](https://www.reddit.com/r/scala/comments/1dahrl4/literature_on_error_handling/)
+- [Where do I find help on checking my code?](https://www.reddit.com/r/scala/comments/1da6zsc/where_do_i_find_help_on_checking_my_code/)
+- [Your thoughts on Scala meetups](https://www.reddit.com/r/scala/comments/1da5ank/your_thoughts_on_scala_meetups/)
 - [Scala Times Issue #535](https://www.reddit.com/r/scala/comments/1d9ql8r/scala_times_issue_535/)
 - [Scala 3 improvements in Metals &lpar;and hopefully, IntelliJ IDEA&rpar;](https://www.reddit.com/r/scala/comments/1d9ljb0/scala_3_improvements_in_metals_and_hopefully/)
 - [given — A little CLI for interactively updating your Scala dependencies](https://www.reddit.com/r/scala/comments/1d9gh4q/given_a_little_cli_for_interactively_updating/)
 - [Looking for a Scala job!](https://www.reddit.com/r/scala/comments/1d9fpe6/looking_for_a_scala_job/)
 - [Tapir Tutorial - part 1: Hello, world! by Adam Warski](https://www.reddit.com/r/scala/comments/1d8rsht/tapir_tutorial_part_1_hello_world_by_adam_warski/)
 - [Next stream on Lean Scala exploration](https://www.reddit.com/r/scala/comments/1d8pqbq/next_stream_on_lean_scala_exploration/)
-- [Paul Matthews - Sounds of Scala.js - Scalar Conference 2024](https://www.reddit.com/r/scala/comments/1d8l0fl/paul_matthews_sounds_of_scalajs_scalar_conference/)
-- [Play 2.8.22 Released: Final Update as Play 2.8 Reaches EOL](https://www.reddit.com/r/scala/comments/1d8js6d/play_2822_released_final_update_as_play_28/)
-- [Recommendation for library to stress test intranet web application that uses windows authentication](https://www.reddit.com/r/scala/comments/1d881g5/recommendation_for_library_to_stress_test/)
-- [The first three Tapir tutorials: Hello, world; OpenAPI; JSON](https://www.reddit.com/r/scala/comments/1d7swmv/the_first_three_tapir_tutorials_hello_world/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

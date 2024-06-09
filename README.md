@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Apache Flink and Scala 3?](https://www.reddit.com/r/scala/comments/1db4iit/apache_flink_and_scala_3/)
+- [parsing Date column from sqlite databse to java.util.Date](https://www.reddit.com/r/scala/comments/1db2v7f/parsing_date_column_from_sqlite_databse_to/)
 - [Did you guys think that?](https://www.reddit.com/r/scala/comments/1dapk2c/did_you_guys_think_that/)
 - [Literature on error handling](https://www.reddit.com/r/scala/comments/1dahrl4/literature_on_error_handling/)
 - [Where do I find help on checking my code?](https://www.reddit.com/r/scala/comments/1da6zsc/where_do_i_find_help_on_checking_my_code/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala 3 improvements in Metals &lpar;and hopefully, IntelliJ IDEA&rpar;](https://www.reddit.com/r/scala/comments/1d9ljb0/scala_3_improvements_in_metals_and_hopefully/)
 - [given — A little CLI for interactively updating your Scala dependencies](https://www.reddit.com/r/scala/comments/1d9gh4q/given_a_little_cli_for_interactively_updating/)
 - [Looking for a Scala job!](https://www.reddit.com/r/scala/comments/1d9fpe6/looking_for_a_scala_job/)
-- [Tapir Tutorial - part 1: Hello, world! by Adam Warski](https://www.reddit.com/r/scala/comments/1d8rsht/tapir_tutorial_part_1_hello_world_by_adam_warski/)
-- [Next stream on Lean Scala exploration](https://www.reddit.com/r/scala/comments/1d8pqbq/next_stream_on_lean_scala_exploration/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

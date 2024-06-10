@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [OpenTelemetry with Scala Futures](https://www.reddit.com/r/scala/comments/1dc82u6/opentelemetry_with_scala_futures/)
+- [This week in #Scala &lpar;Jun 10, 2024&rpar;](https://www.reddit.com/r/scala/comments/1dbtk5w/this_week_in_scala_jun_10_2024/)
+- [12 years of the com.lihaoyi Scala platform](https://www.reddit.com/r/scala/comments/1dbq852/12_years_of_the_comlihaoyi_scala_platform/)
 - [Apache Flink and Scala 3?](https://www.reddit.com/r/scala/comments/1db4iit/apache_flink_and_scala_3/)
 - [parsing Date column from sqlite databse to java.util.Date](https://www.reddit.com/r/scala/comments/1db2v7f/parsing_date_column_from_sqlite_databse_to/)
 - [Did you guys think that?](https://www.reddit.com/r/scala/comments/1dapk2c/did_you_guys_think_that/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Where do I find help on checking my code?](https://www.reddit.com/r/scala/comments/1da6zsc/where_do_i_find_help_on_checking_my_code/)
 - [Your thoughts on Scala meetups](https://www.reddit.com/r/scala/comments/1da5ank/your_thoughts_on_scala_meetups/)
 - [Scala Times Issue #535](https://www.reddit.com/r/scala/comments/1d9ql8r/scala_times_issue_535/)
-- [Scala 3 improvements in Metals &lpar;and hopefully, IntelliJ IDEA&rpar;](https://www.reddit.com/r/scala/comments/1d9ljb0/scala_3_improvements_in_metals_and_hopefully/)
-- [given — A little CLI for interactively updating your Scala dependencies](https://www.reddit.com/r/scala/comments/1d9gh4q/given_a_little_cli_for_interactively_updating/)
-- [Looking for a Scala job!](https://www.reddit.com/r/scala/comments/1d9fpe6/looking_for_a_scala_job/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hand Rolled Applicative User Validation Code Kata](https://www.reddit.com/r/scala/comments/1dcrrgn/hand_rolled_applicative_user_validation_code_kata/)
+- [Scalatra 3.1.0 Released](https://www.reddit.com/r/scala/comments/1dckwxi/scalatra_310_released/)
+- [Jacek Kunicki: Growing Oxen: channel operators and retries, Scalar Conference 2024](https://www.reddit.com/r/scala/comments/1dcg46p/jacek_kunicki_growing_oxen_channel_operators_and/)
 - [OpenTelemetry with Scala Futures](https://www.reddit.com/r/scala/comments/1dc82u6/opentelemetry_with_scala_futures/)
 - [This week in #Scala &lpar;Jun 10, 2024&rpar;](https://www.reddit.com/r/scala/comments/1dbtk5w/this_week_in_scala_jun_10_2024/)
 - [12 years of the com.lihaoyi Scala platform](https://www.reddit.com/r/scala/comments/1dbq852/12_years_of_the_comlihaoyi_scala_platform/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [parsing Date column from sqlite databse to java.util.Date](https://www.reddit.com/r/scala/comments/1db2v7f/parsing_date_column_from_sqlite_databse_to/)
 - [Did you guys think that?](https://www.reddit.com/r/scala/comments/1dapk2c/did_you_guys_think_that/)
 - [Literature on error handling](https://www.reddit.com/r/scala/comments/1dahrl4/literature_on_error_handling/)
-- [Where do I find help on checking my code?](https://www.reddit.com/r/scala/comments/1da6zsc/where_do_i_find_help_on_checking_my_code/)
-- [Your thoughts on Scala meetups](https://www.reddit.com/r/scala/comments/1da5ank/your_thoughts_on_scala_meetups/)
-- [Scala Times Issue #535](https://www.reddit.com/r/scala/comments/1d9ql8r/scala_times_issue_535/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

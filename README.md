@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [My talk &quot;Functional Programming: Failed Successfully&quot; is now available!](https://www.reddit.com/r/scala/comments/1debioi/my_talk_functional_programming_failed/)
+- [Best Resources and Tools for Learning Scala?](https://www.reddit.com/r/scala/comments/1ddxoi7/best_resources_and_tools_for_learning_scala/)
 - [Should I leave the current project for Java Springboot?](https://www.reddit.com/r/scala/comments/1ddk16k/should_i_leave_the_current_project_for_java/)
 - [Next stream with Lean Scala app building](https://www.reddit.com/r/scala/comments/1ddjiq2/next_stream_with_lean_scala_app_building/)
 - [Webinar on Prototype Object-Orientation Functionally THIS THURSDAY](https://www.reddit.com/r/scala/comments/1ddgz07/webinar_on_prototype_objectorientation/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Helenus v1.6.0](https://www.reddit.com/r/scala/comments/1dd9gas/helenus_v160/)
 - [Hand Rolled Applicative User Validation Code Kata](https://www.reddit.com/r/scala/comments/1dcrrgn/hand_rolled_applicative_user_validation_code_kata/)
 - [Scalatra 3.1.0 Released](https://www.reddit.com/r/scala/comments/1dckwxi/scalatra_310_released/)
-- [Jacek Kunicki: Growing Oxen: channel operators and retries, Scalar Conference 2024](https://www.reddit.com/r/scala/comments/1dcg46p/jacek_kunicki_growing_oxen_channel_operators_and/)
-- [OpenTelemetry with Scala Futures](https://www.reddit.com/r/scala/comments/1dc82u6/opentelemetry_with_scala_futures/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

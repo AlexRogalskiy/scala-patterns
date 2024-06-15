@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala or Rust? &lpar;Objective answers please&rpar;](https://www.reddit.com/r/scala/comments/1dfytvo/scala_or_rust_objective_answers_please/)
+- [Recursion in Scala in LeetCode](https://www.reddit.com/r/scala/comments/1dfxgcv/recursion_in_scala_in_leetcode/)
+- [A Gentle Introduction to Scala 3 Macros](https://www.reddit.com/r/scala/comments/1dfukfj/a_gentle_introduction_to_scala_3_macros/)
+- [Scala Housing](https://www.reddit.com/r/scala/comments/1dfoq5t/scala_housing/)
+- [Akka &#39;client&#39; pattern](https://www.reddit.com/r/scala/comments/1dfi89m/akka_client_pattern/)
 - [FP libraries in mainstream languages](https://www.reddit.com/r/scala/comments/1dfc1vi/fp_libraries_in_mainstream_languages/)
 - [Comparing Approaches to Structured Concurrency](https://www.reddit.com/r/scala/comments/1df0jln/comparing_approaches_to_structured_concurrency/)
 - [Lean Scala app stream: finishing touches](https://www.reddit.com/r/scala/comments/1deu9f0/lean_scala_app_stream_finishing_touches/)
 - [Tapir Tutorial - part 2: Generating OpenAPI docs Adam Warski SoftwareMill](https://www.reddit.com/r/scala/comments/1desnf8/tapir_tutorial_part_2_generating_openapi_docs/)
 - [My talk &quot;Functional Programming: Failed Successfully&quot; is now available!](https://www.reddit.com/r/scala/comments/1debioi/my_talk_functional_programming_failed/)
-- [Best Resources and Tools for Learning Scala?](https://www.reddit.com/r/scala/comments/1ddxoi7/best_resources_and_tools_for_learning_scala/)
-- [Should I leave the current project for Java Springboot?](https://www.reddit.com/r/scala/comments/1ddk16k/should_i_leave_the_current_project_for_java/)
-- [Next stream with Lean Scala app building](https://www.reddit.com/r/scala/comments/1ddjiq2/next_stream_with_lean_scala_app_building/)
-- [Webinar on Prototype Object-Orientation Functionally THIS THURSDAY](https://www.reddit.com/r/scala/comments/1ddgz07/webinar_on_prototype_objectorientation/)
-- [sbt plugins update #sbt-pack #scala #sbt #xerial #sbtplugins #coursier #ivy-local](https://www.reddit.com/r/scala/comments/1ddevuk/sbt_plugins_update_sbtpack_scala_sbt_xerial/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

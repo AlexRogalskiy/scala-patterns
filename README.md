@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Jun 17, 2024&rpar;](https://www.reddit.com/r/scala/comments/1dhkrj7/this_week_in_scala_jun_17_2024/)
+- [Should i take the Scala job with more money and better training or C# for my first programming role.](https://www.reddit.com/r/scala/comments/1dhf2be/should_i_take_the_scala_job_with_more_money_and/)
+- [Magda Stożek - My Scala Story](https://www.reddit.com/r/scala/comments/1dhe0iz/magda_stożek_my_scala_story/)
 - [Migration from Go to Scala](https://www.reddit.com/r/scala/comments/1dgriq1/migration_from_go_to_scala/)
 - [Combining Functional Programming with the Actor Model: A Comprehensive Cats-Actors Tutorial](https://www.reddit.com/r/scala/comments/1dgbn9m/combining_functional_programming_with_the_actor/)
 - [Scala or Rust? &lpar;Objective answers please&rpar;](https://www.reddit.com/r/scala/comments/1dfytvo/scala_or_rust_objective_answers_please/)
 - [Recursion in Scala in LeetCode](https://www.reddit.com/r/scala/comments/1dfxgcv/recursion_in_scala_in_leetcode/)
 - [A Gentle Introduction to Scala 3 Macros](https://www.reddit.com/r/scala/comments/1dfukfj/a_gentle_introduction_to_scala_3_macros/)
-- [Scala Housing](https://www.reddit.com/r/scala/comments/1dfoq5t/scala_housing/)
 - [Akka &#39;client&#39; pattern](https://www.reddit.com/r/scala/comments/1dfi89m/akka_client_pattern/)
 - [FP libraries in mainstream languages](https://www.reddit.com/r/scala/comments/1dfc1vi/fp_libraries_in_mainstream_languages/)
-- [Comparing Approaches to Structured Concurrency](https://www.reddit.com/r/scala/comments/1df0jln/comparing_approaches_to_structured_concurrency/)
-- [Lean Scala app stream: finishing touches](https://www.reddit.com/r/scala/comments/1deu9f0/lean_scala_app_stream_finishing_touches/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

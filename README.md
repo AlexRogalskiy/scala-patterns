@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [API status code testing](https://www.reddit.com/r/scala/comments/1di9dwa/api_status_code_testing/)
+- [Play Framework 2.9.4 and 3.0.4 released](https://www.reddit.com/r/scala/comments/1di1rh0/play_framework_294_and_304_released/)
+- [Scala opportunities in South America](https://www.reddit.com/r/scala/comments/1dhzr1g/scala_opportunities_in_south_america/)
 - [This week in #Scala &lpar;Jun 17, 2024&rpar;](https://www.reddit.com/r/scala/comments/1dhkrj7/this_week_in_scala_jun_17_2024/)
 - [Should i take the Scala job with more money and better training or C# for my first programming role.](https://www.reddit.com/r/scala/comments/1dhf2be/should_i_take_the_scala_job_with_more_money_and/)
 - [Magda Stożek - My Scala Story](https://www.reddit.com/r/scala/comments/1dhe0iz/magda_stożek_my_scala_story/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Combining Functional Programming with the Actor Model: A Comprehensive Cats-Actors Tutorial](https://www.reddit.com/r/scala/comments/1dgbn9m/combining_functional_programming_with_the_actor/)
 - [Scala or Rust? &lpar;Objective answers please&rpar;](https://www.reddit.com/r/scala/comments/1dfytvo/scala_or_rust_objective_answers_please/)
 - [Recursion in Scala in LeetCode](https://www.reddit.com/r/scala/comments/1dfxgcv/recursion_in_scala_in_leetcode/)
-- [A Gentle Introduction to Scala 3 Macros](https://www.reddit.com/r/scala/comments/1dfukfj/a_gentle_introduction_to_scala_3_macros/)
-- [Akka &#39;client&#39; pattern](https://www.reddit.com/r/scala/comments/1dfi89m/akka_client_pattern/)
-- [FP libraries in mainstream languages](https://www.reddit.com/r/scala/comments/1dfc1vi/fp_libraries_in_mainstream_languages/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What imports do I need to use the MonadError implicit?](https://www.reddit.com/r/scala/comments/1dirj1s/what_imports_do_i_need_to_use_the_monaderror/)
+- [How to use MonadError in Scala 3 Tagless final?](https://www.reddit.com/r/scala/comments/1dip89h/how_to_use_monaderror_in_scala_3_tagless_final/)
 - [API status code testing](https://www.reddit.com/r/scala/comments/1di9dwa/api_status_code_testing/)
 - [Play Framework 2.9.4 and 3.0.4 released](https://www.reddit.com/r/scala/comments/1di1rh0/play_framework_294_and_304_released/)
 - [Scala opportunities in South America](https://www.reddit.com/r/scala/comments/1dhzr1g/scala_opportunities_in_south_america/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Magda Stożek - My Scala Story](https://www.reddit.com/r/scala/comments/1dhe0iz/magda_stożek_my_scala_story/)
 - [Migration from Go to Scala](https://www.reddit.com/r/scala/comments/1dgriq1/migration_from_go_to_scala/)
 - [Combining Functional Programming with the Actor Model: A Comprehensive Cats-Actors Tutorial](https://www.reddit.com/r/scala/comments/1dgbn9m/combining_functional_programming_with_the_actor/)
-- [Scala or Rust? &lpar;Objective answers please&rpar;](https://www.reddit.com/r/scala/comments/1dfytvo/scala_or_rust_objective_answers_please/)
-- [Recursion in Scala in LeetCode](https://www.reddit.com/r/scala/comments/1dfxgcv/recursion_in_scala_in_leetcode/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

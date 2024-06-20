@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tapir Tutorial - part 3: Using JSON bodies | Adam Warski SoftwareMill](https://www.reddit.com/r/scala/comments/1djot2r/tapir_tutorial_part_3_using_json_bodies_adam/)
+- [Error handling best practices in cats effect](https://www.reddit.com/r/scala/comments/1djfi1h/error_handling_best_practices_in_cats_effect/)
+- [Metals plugin stucking at indexing](https://www.reddit.com/r/scala/comments/1dje308/metals_plugin_stucking_at_indexing/)
 - [What imports do I need to use the MonadError implicit?](https://www.reddit.com/r/scala/comments/1dirj1s/what_imports_do_i_need_to_use_the_monaderror/)
 - [How to use MonadError in Scala 3 Tagless final?](https://www.reddit.com/r/scala/comments/1dip89h/how_to_use_monaderror_in_scala_3_tagless_final/)
 - [API status code testing](https://www.reddit.com/r/scala/comments/1di9dwa/api_status_code_testing/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala opportunities in South America](https://www.reddit.com/r/scala/comments/1dhzr1g/scala_opportunities_in_south_america/)
 - [This week in #Scala &lpar;Jun 17, 2024&rpar;](https://www.reddit.com/r/scala/comments/1dhkrj7/this_week_in_scala_jun_17_2024/)
 - [Should i take the Scala job with more money and better training or C# for my first programming role.](https://www.reddit.com/r/scala/comments/1dhf2be/should_i_take_the_scala_job_with_more_money_and/)
-- [Magda Stożek - My Scala Story](https://www.reddit.com/r/scala/comments/1dhe0iz/magda_stożek_my_scala_story/)
-- [Migration from Go to Scala](https://www.reddit.com/r/scala/comments/1dgriq1/migration_from_go_to_scala/)
-- [Combining Functional Programming with the Actor Model: A Comprehensive Cats-Actors Tutorial](https://www.reddit.com/r/scala/comments/1dgbn9m/combining_functional_programming_with_the_actor/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

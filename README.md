@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala - &quot;Avoid success at all costs&quot;?](https://www.reddit.com/r/scala/comments/1dlaryf/scala_avoid_success_at_all_costs/)
+- [An example of a project using Scala 3 syntax and semantics well?](https://www.reddit.com/r/scala/comments/1dkytsj/an_example_of_a_project_using_scala_3_syntax_and/)
+- [What&#39;s the cleanest way to code this function in scala?](https://www.reddit.com/r/scala/comments/1dkwgs1/whats_the_cleanest_way_to_code_this_function_in/)
+- [How do I convert IO[String] to IO[Either[ErrorType, String]]](https://www.reddit.com/r/scala/comments/1dktz62/how_do_i_convert_iostring_to_ioeithererrortype/)
 - [Implementing a Macro-Based Test Stubbing Library](https://www.reddit.com/r/scala/comments/1dkcg0e/implementing_a_macrobased_test_stubbing_library/)
 - [Tapir Tutorial - part 3: Using JSON bodies | Adam Warski SoftwareMill](https://www.reddit.com/r/scala/comments/1djot2r/tapir_tutorial_part_3_using_json_bodies_adam/)
 - [Error handling best practices in cats effect](https://www.reddit.com/r/scala/comments/1djfi1h/error_handling_best_practices_in_cats_effect/)
 - [Metals plugin stucking at indexing](https://www.reddit.com/r/scala/comments/1dje308/metals_plugin_stucking_at_indexing/)
 - [What imports do I need to use the MonadError implicit?](https://www.reddit.com/r/scala/comments/1dirj1s/what_imports_do_i_need_to_use_the_monaderror/)
 - [How to use MonadError in Scala 3 Tagless final?](https://www.reddit.com/r/scala/comments/1dip89h/how_to_use_monaderror_in_scala_3_tagless_final/)
-- [API status code testing](https://www.reddit.com/r/scala/comments/1di9dwa/api_status_code_testing/)
-- [Play Framework 2.9.4 and 3.0.4 released](https://www.reddit.com/r/scala/comments/1di1rh0/play_framework_294_and_304_released/)
-- [Scala opportunities in South America](https://www.reddit.com/r/scala/comments/1dhzr1g/scala_opportunities_in_south_america/)
-- [This week in #Scala &lpar;Jun 17, 2024&rpar;](https://www.reddit.com/r/scala/comments/1dhkrj7/this_week_in_scala_jun_17_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [setup-sbt GitHub Action](https://www.reddit.com/r/scala/comments/1dm7q09/setupsbt_github_action/)
-- [yet another programming language in the same breed of Scala Kotlin, Swift](https://www.reddit.com/r/scala/comments/1dm2szq/yet_another_programming_language_in_the_same/)
-- [Maybe TIL in intellij, how to configure jvm version in different project](https://www.reddit.com/r/scala/comments/1dltdem/maybe_til_in_intellij_how_to_configure_jvm/)
-- [Scala - &quot;Avoid success at all costs&quot;?](https://www.reddit.com/r/scala/comments/1dlaryf/scala_avoid_success_at_all_costs/)
-- [An example of a project using Scala 3 syntax and semantics well?](https://www.reddit.com/r/scala/comments/1dkytsj/an_example_of_a_project_using_scala_3_syntax_and/)
-- [What&#39;s the cleanest way to code this function in scala?](https://www.reddit.com/r/scala/comments/1dkwgs1/whats_the_cleanest_way_to_code_this_function_in/)
-- [How do I convert IO[String] to IO[Either[ErrorType, String]]](https://www.reddit.com/r/scala/comments/1dktz62/how_do_i_convert_iostring_to_ioeithererrortype/)
-- [Implementing a Macro-Based Test Stubbing Library](https://www.reddit.com/r/scala/comments/1dkcg0e/implementing_a_macrobased_test_stubbing_library/)
-- [Tapir Tutorial - part 3: Using JSON bodies | Adam Warski SoftwareMill](https://www.reddit.com/r/scala/comments/1djot2r/tapir_tutorial_part_3_using_json_bodies_adam/)
-- [Error handling best practices in cats effect](https://www.reddit.com/r/scala/comments/1djfi1h/error_handling_best_practices_in_cats_effect/)
+- [New web framework](https://www.reddit.com/r/scala/comments/1dmy08m/new_web_framework/)
+- [What sort of option frameworks exist to financially Sponsor a Scala.js 3 upgrade to a GitHub Open Source Repository](https://www.reddit.com/r/scala/comments/1dmxyrk/what_sort_of_option_frameworks_exist_to/)
+- [ExecutionContext.parasitic and Friends](https://www.reddit.com/r/scala/comments/1dmxcbn/executioncontextparasitic_and_friends/)
+- [Anyone know how I can connect with the IntelliJ Scala folks?](https://www.reddit.com/r/scala/comments/1dmvvwa/anyone_know_how_i_can_connect_with_the_intellij/)
+- [Algorithm to group by N keys](https://www.reddit.com/r/scala/comments/1dmufc4/algorithm_to_group_by_n_keys/)
+- [Scala as a Postman Alternative](https://www.reddit.com/r/scala/comments/1dmt0qq/scala_as_a_postman_alternative/)
+- [Ways to promote a PR in the Scala tooling ecosystem](https://www.reddit.com/r/scala/comments/1dmpbmd/ways_to_promote_a_pr_in_the_scala_tooling/)
+- [This week in #Scala &lpar;Jun 24, 2024&rpar;](https://www.reddit.com/r/scala/comments/1dmnbmq/this_week_in_scala_jun_24_2024/)
+- [Is building cli tools with scala native practical?](https://www.reddit.com/r/scala/comments/1dmmxpe/is_building_cli_tools_with_scala_native_practical/)
+- [Folding Cheat Sheet #6](https://www.reddit.com/r/scala/comments/1dmkmvi/folding_cheat_sheet_6/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

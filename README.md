@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ten things I like about Scala 3](https://www.reddit.com/r/scala/comments/1dnftvy/ten_things_i_like_about_scala_3/)
+- [Just declare your services: Introducing operation mirrors](https://www.reddit.com/r/scala/comments/1dndgtq/just_declare_your_services_introducing_operation/)
+- [Iron v2.6.0 is out!](https://www.reddit.com/r/scala/comments/1dn8mkp/iron_v260_is_out/)
 - [New web framework](https://www.reddit.com/r/scala/comments/1dmy08m/new_web_framework/)
 - [What sort of option frameworks exist to financially Sponsor a Scala.js 3 upgrade to a GitHub Open Source Repository](https://www.reddit.com/r/scala/comments/1dmxyrk/what_sort_of_option_frameworks_exist_to/)
 - [ExecutionContext.parasitic and Friends](https://www.reddit.com/r/scala/comments/1dmxcbn/executioncontextparasitic_and_friends/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Algorithm to group by N keys](https://www.reddit.com/r/scala/comments/1dmufc4/algorithm_to_group_by_n_keys/)
 - [Scala as a Postman Alternative](https://www.reddit.com/r/scala/comments/1dmt0qq/scala_as_a_postman_alternative/)
 - [Ways to promote a PR in the Scala tooling ecosystem](https://www.reddit.com/r/scala/comments/1dmpbmd/ways_to_promote_a_pr_in_the_scala_tooling/)
-- [This week in #Scala &lpar;Jun 24, 2024&rpar;](https://www.reddit.com/r/scala/comments/1dmnbmq/this_week_in_scala_jun_24_2024/)
-- [Is building cli tools with scala native practical?](https://www.reddit.com/r/scala/comments/1dmmxpe/is_building_cli_tools_with_scala_native_practical/)
-- [Folding Cheat Sheet #6](https://www.reddit.com/r/scala/comments/1dmkmvi/folding_cheat_sheet_6/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

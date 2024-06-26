@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Streaming platform built with Scala 3, Typelvel libraries and Smithy for API design](https://www.reddit.com/r/scala/comments/1do0m96/streaming_platform_built_with_scala_3_typelvel/)
 - [ten things I like about Scala 3](https://www.reddit.com/r/scala/comments/1dnftvy/ten_things_i_like_about_scala_3/)
 - [Just declare your services: Introducing operation mirrors](https://www.reddit.com/r/scala/comments/1dndgtq/just_declare_your_services_introducing_operation/)
 - [Iron v2.6.0 is out!](https://www.reddit.com/r/scala/comments/1dn8mkp/iron_v260_is_out/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Anyone know how I can connect with the IntelliJ Scala folks?](https://www.reddit.com/r/scala/comments/1dmvvwa/anyone_know_how_i_can_connect_with_the_intellij/)
 - [Algorithm to group by N keys](https://www.reddit.com/r/scala/comments/1dmufc4/algorithm_to_group_by_n_keys/)
 - [Scala as a Postman Alternative](https://www.reddit.com/r/scala/comments/1dmt0qq/scala_as_a_postman_alternative/)
-- [Ways to promote a PR in the Scala tooling ecosystem](https://www.reddit.com/r/scala/comments/1dmpbmd/ways_to_promote_a_pr_in_the_scala_tooling/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

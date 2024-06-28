@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Trying to get first job](https://www.reddit.com/r/scala/comments/1dprrjx/trying_to_get_first_job/)
+- [Tapir Tutorial - part 4: Error Handling | Adam Warski SoftwareMill](https://www.reddit.com/r/scala/comments/1dpkpiz/tapir_tutorial_part_4_error_handling_adam_warski/)
 - [When you use map instead of flatMap](https://www.reddit.com/r/scala/comments/1dotia3/when_you_use_map_instead_of_flatmap/)
 - [Streaming platform built with Scala 3, Typelvel libraries and Smithy for API design](https://www.reddit.com/r/scala/comments/1do0m96/streaming_platform_built_with_scala_3_typelvel/)
 - [ten things I like about Scala 3](https://www.reddit.com/r/scala/comments/1dnftvy/ten_things_i_like_about_scala_3/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [New web framework](https://www.reddit.com/r/scala/comments/1dmy08m/new_web_framework/)
 - [What sort of option frameworks exist to financially Sponsor a Scala.js 3 upgrade to a GitHub Open Source Repository](https://www.reddit.com/r/scala/comments/1dmxyrk/what_sort_of_option_frameworks_exist_to/)
 - [ExecutionContext.parasitic and Friends](https://www.reddit.com/r/scala/comments/1dmxcbn/executioncontextparasitic_and_friends/)
-- [Anyone know how I can connect with the IntelliJ Scala folks?](https://www.reddit.com/r/scala/comments/1dmvvwa/anyone_know_how_i_can_connect_with_the_intellij/)
-- [Algorithm to group by N keys](https://www.reddit.com/r/scala/comments/1dmufc4/algorithm_to_group_by_n_keys/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Typed Actors in Action - Exploring Cats-Actors with Alice and Bob](https://www.reddit.com/r/scala/comments/1dquocj/typed_actors_in_action_exploring_catsactors_with/)
+- [Loading or using a Dl model in scala 3](https://www.reddit.com/r/scala/comments/1dqimbd/loading_or_using_a_dl_model_in_scala_3/)
+- [Scala events in July | Scalendar](https://www.reddit.com/r/scala/comments/1dqe29t/scala_events_in_july_scalendar/)
 - [Trying to get first job](https://www.reddit.com/r/scala/comments/1dprrjx/trying_to_get_first_job/)
 - [Tapir Tutorial - part 4: Error Handling | Adam Warski SoftwareMill](https://www.reddit.com/r/scala/comments/1dpkpiz/tapir_tutorial_part_4_error_handling_adam_warski/)
 - [When you use map instead of flatMap](https://www.reddit.com/r/scala/comments/1dotia3/when_you_use_map_instead_of_flatmap/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ten things I like about Scala 3](https://www.reddit.com/r/scala/comments/1dnftvy/ten_things_i_like_about_scala_3/)
 - [Just declare your services: Introducing operation mirrors](https://www.reddit.com/r/scala/comments/1dndgtq/just_declare_your_services_introducing_operation/)
 - [Iron v2.6.0 is out!](https://www.reddit.com/r/scala/comments/1dn8mkp/iron_v260_is_out/)
-- [New web framework](https://www.reddit.com/r/scala/comments/1dmy08m/new_web_framework/)
-- [What sort of option frameworks exist to financially Sponsor a Scala.js 3 upgrade to a GitHub Open Source Repository](https://www.reddit.com/r/scala/comments/1dmxyrk/what_sort_of_option_frameworks_exist_to/)
-- [ExecutionContext.parasitic and Friends](https://www.reddit.com/r/scala/comments/1dmxcbn/executioncontextparasitic_and_friends/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

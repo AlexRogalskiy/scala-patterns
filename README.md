@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How can I learn the type level , correctness, and compile-time error checking of the scala language?](https://www.reddit.com/r/scala/comments/1dr8gtv/how_can_i_learn_the_type_level_correctness_and/)
 - [Typed Actors in Action - Exploring Cats-Actors with Alice and Bob](https://www.reddit.com/r/scala/comments/1dquocj/typed_actors_in_action_exploring_catsactors_with/)
 - [Loading or using a Dl model in scala 3](https://www.reddit.com/r/scala/comments/1dqimbd/loading_or_using_a_dl_model_in_scala_3/)
 - [Scala events in July | Scalendar](https://www.reddit.com/r/scala/comments/1dqe29t/scala_events_in_july_scalendar/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Streaming platform built with Scala 3, Typelvel libraries and Smithy for API design](https://www.reddit.com/r/scala/comments/1do0m96/streaming_platform_built_with_scala_3_typelvel/)
 - [ten things I like about Scala 3](https://www.reddit.com/r/scala/comments/1dnftvy/ten_things_i_like_about_scala_3/)
 - [Just declare your services: Introducing operation mirrors](https://www.reddit.com/r/scala/comments/1dndgtq/just_declare_your_services_introducing_operation/)
-- [Iron v2.6.0 is out!](https://www.reddit.com/r/scala/comments/1dn8mkp/iron_v260_is_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

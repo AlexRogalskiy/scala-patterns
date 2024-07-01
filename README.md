@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Jul 1, 2024&rpar;](https://www.reddit.com/r/scala/comments/1ds0zvr/this_week_in_scala_jul_1_2024/)
 - [How can I learn the type level , correctness, and compile-time error checking of the scala language?](https://www.reddit.com/r/scala/comments/1dr8gtv/how_can_i_learn_the_type_level_correctness_and/)
 - [Typed Actors in Action - Exploring Cats-Actors with Alice and Bob](https://www.reddit.com/r/scala/comments/1dquocj/typed_actors_in_action_exploring_catsactors_with/)
 - [Loading or using a Dl model in scala 3](https://www.reddit.com/r/scala/comments/1dqimbd/loading_or_using_a_dl_model_in_scala_3/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [When you use map instead of flatMap](https://www.reddit.com/r/scala/comments/1dotia3/when_you_use_map_instead_of_flatmap/)
 - [Streaming platform built with Scala 3, Typelvel libraries and Smithy for API design](https://www.reddit.com/r/scala/comments/1do0m96/streaming_platform_built_with_scala_3_typelvel/)
 - [ten things I like about Scala 3](https://www.reddit.com/r/scala/comments/1dnftvy/ten_things_i_like_about_scala_3/)
-- [Just declare your services: Introducing operation mirrors](https://www.reddit.com/r/scala/comments/1dndgtq/just_declare_your_services_introducing_operation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

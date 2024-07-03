@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Value classes and Circe in Scala 3](https://www.reddit.com/r/scala/comments/1dtlqkz/value_classes_and_circe_in_scala_3/)
+- [SBT projects automation](https://www.reddit.com/r/scala/comments/1dthwn2/sbt_projects_automation/)
 - [This week in #Scala &lpar;Jul 1, 2024&rpar;](https://www.reddit.com/r/scala/comments/1ds0zvr/this_week_in_scala_jul_1_2024/)
 - [How can I learn the type level , correctness, and compile-time error checking of the scala language?](https://www.reddit.com/r/scala/comments/1dr8gtv/how_can_i_learn_the_type_level_correctness_and/)
 - [Typed Actors in Action - Exploring Cats-Actors with Alice and Bob](https://www.reddit.com/r/scala/comments/1dquocj/typed_actors_in_action_exploring_catsactors_with/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Trying to get first job](https://www.reddit.com/r/scala/comments/1dprrjx/trying_to_get_first_job/)
 - [Tapir Tutorial - part 4: Error Handling | Adam Warski SoftwareMill](https://www.reddit.com/r/scala/comments/1dpkpiz/tapir_tutorial_part_4_error_handling_adam_warski/)
 - [When you use map instead of flatMap](https://www.reddit.com/r/scala/comments/1dotia3/when_you_use_map_instead_of_flatmap/)
-- [Streaming platform built with Scala 3, Typelvel libraries and Smithy for API design](https://www.reddit.com/r/scala/comments/1do0m96/streaming_platform_built_with_scala_3_typelvel/)
-- [ten things I like about Scala 3](https://www.reddit.com/r/scala/comments/1dnftvy/ten_things_i_like_about_scala_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

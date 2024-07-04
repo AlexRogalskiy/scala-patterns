@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tyrian and complicated forms](https://www.reddit.com/r/scala/comments/1duockg/tyrian_and_complicated_forms/)
+- [what exactly type classes mean?](https://www.reddit.com/r/scala/comments/1dudm65/what_exactly_type_classes_mean/)
+- [Current state of json parsers](https://www.reddit.com/r/scala/comments/1duazam/current_state_of_json_parsers/)
 - [Value classes and Circe in Scala 3](https://www.reddit.com/r/scala/comments/1dtlqkz/value_classes_and_circe_in_scala_3/)
 - [SBT projects automation](https://www.reddit.com/r/scala/comments/1dthwn2/sbt_projects_automation/)
 - [This week in #Scala &lpar;Jul 1, 2024&rpar;](https://www.reddit.com/r/scala/comments/1ds0zvr/this_week_in_scala_jul_1_2024/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Typed Actors in Action - Exploring Cats-Actors with Alice and Bob](https://www.reddit.com/r/scala/comments/1dquocj/typed_actors_in_action_exploring_catsactors_with/)
 - [Loading or using a Dl model in scala 3](https://www.reddit.com/r/scala/comments/1dqimbd/loading_or_using_a_dl_model_in_scala_3/)
 - [Scala events in July | Scalendar](https://www.reddit.com/r/scala/comments/1dqe29t/scala_events_in_july_scalendar/)
-- [Trying to get first job](https://www.reddit.com/r/scala/comments/1dprrjx/trying_to_get_first_job/)
-- [Tapir Tutorial - part 4: Error Handling | Adam Warski SoftwareMill](https://www.reddit.com/r/scala/comments/1dpkpiz/tapir_tutorial_part_4_error_handling_adam_warski/)
-- [When you use map instead of flatMap](https://www.reddit.com/r/scala/comments/1dotia3/when_you_use_map_instead_of_flatmap/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New to Scala and Functional programming in general](https://www.reddit.com/r/scala/comments/1dvdnra/new_to_scala_and_functional_programming_in_general/)
+- [A Senior Software Engineer Story: Jorge Vasquez](https://www.reddit.com/r/scala/comments/1dvboav/a_senior_software_engineer_story_jorge_vasquez/)
+- [Contribute to Metals like Kasper Kondzielski - Scala with Friends](https://www.reddit.com/r/scala/comments/1dv9hdw/contribute_to_metals_like_kasper_kondzielski/)
+- [[Video] 12 Years of the com.lihaoyi Platform](https://www.reddit.com/r/scala/comments/1dv90jw/video_12_years_of_the_comlihaoyi_platform/)
+- [Maven Central introduces Rate Limits to prevent Tragedy of the Commons](https://www.reddit.com/r/scala/comments/1dv6xqy/maven_central_introduces_rate_limits_to_prevent/)
 - [Tyrian and complicated forms](https://www.reddit.com/r/scala/comments/1duockg/tyrian_and_complicated_forms/)
 - [what exactly type classes mean?](https://www.reddit.com/r/scala/comments/1dudm65/what_exactly_type_classes_mean/)
 - [Current state of json parsers](https://www.reddit.com/r/scala/comments/1duazam/current_state_of_json_parsers/)
 - [Value classes and Circe in Scala 3](https://www.reddit.com/r/scala/comments/1dtlqkz/value_classes_and_circe_in_scala_3/)
 - [SBT projects automation](https://www.reddit.com/r/scala/comments/1dthwn2/sbt_projects_automation/)
-- [This week in #Scala &lpar;Jul 1, 2024&rpar;](https://www.reddit.com/r/scala/comments/1ds0zvr/this_week_in_scala_jul_1_2024/)
-- [How can I learn the type level , correctness, and compile-time error checking of the scala language?](https://www.reddit.com/r/scala/comments/1dr8gtv/how_can_i_learn_the_type_level_correctness_and/)
-- [Typed Actors in Action - Exploring Cats-Actors with Alice and Bob](https://www.reddit.com/r/scala/comments/1dquocj/typed_actors_in_action_exploring_catsactors_with/)
-- [Loading or using a Dl model in scala 3](https://www.reddit.com/r/scala/comments/1dqimbd/loading_or_using_a_dl_model_in_scala_3/)
-- [Scala events in July | Scalendar](https://www.reddit.com/r/scala/comments/1dqe29t/scala_events_in_july_scalendar/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

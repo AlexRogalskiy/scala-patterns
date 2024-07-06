@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [anyone hiring Scala engineer in US?](https://www.reddit.com/r/scala/comments/1dw4dam/anyone_hiring_scala_engineer_in_us/)
+- [Maintenance and modernisation of Scala applications: a poll](https://www.reddit.com/r/scala/comments/1dw0722/maintenance_and_modernisation_of_scala/)
+- [Quill - new dialects or a custom JDBC driver](https://www.reddit.com/r/scala/comments/1dvur9n/quill_new_dialects_or_a_custom_jdbc_driver/)
+- [Tapir Tutorial - part 5: Multiple inputs &amp; outputs | Adam Warski SoftwareMill](https://www.reddit.com/r/scala/comments/1dvrr6c/tapir_tutorial_part_5_multiple_inputs_outputs/)
 - [New to Scala and Functional programming in general](https://www.reddit.com/r/scala/comments/1dvdnra/new_to_scala_and_functional_programming_in_general/)
 - [A Senior Software Engineer Story: Jorge Vasquez](https://www.reddit.com/r/scala/comments/1dvboav/a_senior_software_engineer_story_jorge_vasquez/)
 - [Contribute to Metals like Kasper Kondzielski - Scala with Friends](https://www.reddit.com/r/scala/comments/1dv9hdw/contribute_to_metals_like_kasper_kondzielski/)
 - [[Video] 12 Years of the com.lihaoyi Platform](https://www.reddit.com/r/scala/comments/1dv90jw/video_12_years_of_the_comlihaoyi_platform/)
 - [Maven Central introduces Rate Limits to prevent Tragedy of the Commons](https://www.reddit.com/r/scala/comments/1dv6xqy/maven_central_introduces_rate_limits_to_prevent/)
 - [Tyrian and complicated forms](https://www.reddit.com/r/scala/comments/1duockg/tyrian_and_complicated_forms/)
-- [what exactly type classes mean?](https://www.reddit.com/r/scala/comments/1dudm65/what_exactly_type_classes_mean/)
-- [Current state of json parsers](https://www.reddit.com/r/scala/comments/1duazam/current_state_of_json_parsers/)
-- [Value classes and Circe in Scala 3](https://www.reddit.com/r/scala/comments/1dtlqkz/value_classes_and_circe_in_scala_3/)
-- [SBT projects automation](https://www.reddit.com/r/scala/comments/1dthwn2/sbt_projects_automation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

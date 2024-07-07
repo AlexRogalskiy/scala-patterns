@@ -271,7 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [anyone hiring Scala engineer in US?](https://www.reddit.com/r/scala/comments/1dw4dam/anyone_hiring_scala_engineer_in_us/)
+- [Derive your config with PureConfig and Scala 3](https://www.reddit.com/r/scala/comments/1dwqe8g/derive_your_config_with_pureconfig_and_scala_3/)
 - [Maintenance and modernisation of Scala applications: a poll](https://www.reddit.com/r/scala/comments/1dw0722/maintenance_and_modernisation_of_scala/)
 - [Quill - new dialects or a custom JDBC driver](https://www.reddit.com/r/scala/comments/1dvur9n/quill_new_dialects_or_a_custom_jdbc_driver/)
 - [Tapir Tutorial - part 5: Multiple inputs &amp; outputs | Adam Warski SoftwareMill](https://www.reddit.com/r/scala/comments/1dvrr6c/tapir_tutorial_part_5_multiple_inputs_outputs/)

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 1.10.1 released](https://www.reddit.com/r/scala/comments/1dxtyr4/sbt_1101_released/)
+- [Any fully opinionated framework/template for do a quick PoC on Scala?](https://www.reddit.com/r/scala/comments/1dxpewv/any_fully_opinionated_frameworktemplate_for_do_a/)
+- [This week in #Scala &lpar;Jul 8, 2024&rpar;](https://www.reddit.com/r/scala/comments/1dxl11k/this_week_in_scala_jul_8_2024/)
+- [Scala 3 Type Lambda](https://www.reddit.com/r/scala/comments/1dxk8im/scala_3_type_lambda/)
+- [how to see the trees using the Scala compilers](https://www.reddit.com/r/scala/comments/1dx5rgo/how_to_see_the_trees_using_the_scala_compilers/)
 - [Derive your config with PureConfig and Scala 3](https://www.reddit.com/r/scala/comments/1dwqe8g/derive_your_config_with_pureconfig_and_scala_3/)
 - [Maintenance and modernisation of Scala applications: a poll](https://www.reddit.com/r/scala/comments/1dw0722/maintenance_and_modernisation_of_scala/)
 - [Quill - new dialects or a custom JDBC driver](https://www.reddit.com/r/scala/comments/1dvur9n/quill_new_dialects_or_a_custom_jdbc_driver/)
 - [Tapir Tutorial - part 5: Multiple inputs &amp; outputs | Adam Warski SoftwareMill](https://www.reddit.com/r/scala/comments/1dvrr6c/tapir_tutorial_part_5_multiple_inputs_outputs/)
 - [New to Scala and Functional programming in general](https://www.reddit.com/r/scala/comments/1dvdnra/new_to_scala_and_functional_programming_in_general/)
-- [A Senior Software Engineer Story: Jorge Vasquez](https://www.reddit.com/r/scala/comments/1dvboav/a_senior_software_engineer_story_jorge_vasquez/)
-- [Contribute to Metals like Kasper Kondzielski - Scala with Friends](https://www.reddit.com/r/scala/comments/1dv9hdw/contribute_to_metals_like_kasper_kondzielski/)
-- [[Video] 12 Years of the com.lihaoyi Platform](https://www.reddit.com/r/scala/comments/1dv90jw/video_12_years_of_the_comlihaoyi_platform/)
-- [Maven Central introduces Rate Limits to prevent Tragedy of the Commons](https://www.reddit.com/r/scala/comments/1dv6xqy/maven_central_introduces_rate_limits_to_prevent/)
-- [Tyrian and complicated forms](https://www.reddit.com/r/scala/comments/1duockg/tyrian_and_complicated_forms/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A Distributed Remote Code Execution Engine with Pekko](https://www.reddit.com/r/scala/comments/1e0puvq/a_distributed_remote_code_execution_engine_with/)
 - [Braceless syntax is the most satisfying part of scala3](https://www.reddit.com/r/scala/comments/1e0b34u/braceless_syntax_is_the_most_satisfying_part_of/)
 - [Tapir Tutorial - part 6: Error Variants | Adam Warski SoftwareMill](https://www.reddit.com/r/scala/comments/1e01lpj/tapir_tutorial_part_6_error_variants_adam_warski/)
 - [Missing ML Libraries](https://www.reddit.com/r/scala/comments/1e017ma/missing_ml_libraries/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [What web framework are you guys using?](https://www.reddit.com/r/scala/comments/1dy265j/what_web_framework_are_you_guys_using/)
 - [sbt 1.10.1 released](https://www.reddit.com/r/scala/comments/1dxtyr4/sbt_1101_released/)
 - [Any fully opinionated framework/template for do a quick PoC on Scala?](https://www.reddit.com/r/scala/comments/1dxpewv/any_fully_opinionated_frameworktemplate_for_do_a/)
-- [This week in #Scala &lpar;Jul 8, 2024&rpar;](https://www.reddit.com/r/scala/comments/1dxl11k/this_week_in_scala_jul_8_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

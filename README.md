@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Emacs Scala Eglot TreeSitter Nix setup using Home Manager in 2024 - roast my video](https://www.reddit.com/r/scala/comments/1e1il0w/emacs_scala_eglot_treesitter_nix_setup_using_home/)
+- [Scala Space Podcast: The Future of Scala IDEs](https://www.reddit.com/r/scala/comments/1e1bw11/scala_space_podcast_the_future_of_scala_ides/)
 - [A Distributed Remote Code Execution Engine with Pekko](https://www.reddit.com/r/scala/comments/1e0puvq/a_distributed_remote_code_execution_engine_with/)
 - [Braceless syntax is the most satisfying part of scala3](https://www.reddit.com/r/scala/comments/1e0b34u/braceless_syntax_is_the_most_satisfying_part_of/)
 - [Tapir Tutorial - part 6: Error Variants | Adam Warski SoftwareMill](https://www.reddit.com/r/scala/comments/1e01lpj/tapir_tutorial_part_6_error_variants_adam_warski/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala 3 braceless syntax for in-line partial function expression?](https://www.reddit.com/r/scala/comments/1dy6r3p/scala_3_braceless_syntax_for_inline_partial/)
 - [Though Choice - Career Development](https://www.reddit.com/r/scala/comments/1dy2bok/though_choice_career_development/)
 - [What web framework are you guys using?](https://www.reddit.com/r/scala/comments/1dy265j/what_web_framework_are_you_guys_using/)
-- [sbt 1.10.1 released](https://www.reddit.com/r/scala/comments/1dxtyr4/sbt_1101_released/)
-- [Any fully opinionated framework/template for do a quick PoC on Scala?](https://www.reddit.com/r/scala/comments/1dxpewv/any_fully_opinionated_frameworktemplate_for_do_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

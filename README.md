@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [uPickle 4.0.0-RC1](https://www.reddit.com/r/scala/comments/1e2c06w/upickle_400rc1/)
+- [Long division mastery in Scala.js](https://www.reddit.com/r/scala/comments/1e24zw9/long_division_mastery_in_scalajs/)
 - [Emacs Scala Eglot TreeSitter Nix setup using Home Manager in 2024 - roast my video](https://www.reddit.com/r/scala/comments/1e1il0w/emacs_scala_eglot_treesitter_nix_setup_using_home/)
 - [Scala Space Podcast: The Future of Scala IDEs](https://www.reddit.com/r/scala/comments/1e1bw11/scala_space_podcast_the_future_of_scala_ides/)
 - [A Distributed Remote Code Execution Engine with Pekko](https://www.reddit.com/r/scala/comments/1e0puvq/a_distributed_remote_code_execution_engine_with/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Missing ML Libraries](https://www.reddit.com/r/scala/comments/1e017ma/missing_ml_libraries/)
 - [Folding Cheat Sheet #7 - The three duality theorems of fold](https://www.reddit.com/r/scala/comments/1dye842/folding_cheat_sheet_7_the_three_duality_theorems/)
 - [Scala 3 braceless syntax for in-line partial function expression?](https://www.reddit.com/r/scala/comments/1dy6r3p/scala_3_braceless_syntax_for_inline_partial/)
-- [Though Choice - Career Development](https://www.reddit.com/r/scala/comments/1dy2bok/though_choice_career_development/)
-- [What web framework are you guys using?](https://www.reddit.com/r/scala/comments/1dy265j/what_web_framework_are_you_guys_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

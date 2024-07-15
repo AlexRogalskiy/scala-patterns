@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Which companies do you know that are still using PlayFramework heavily?](https://www.reddit.com/r/scala/comments/1e3bwru/which_companies_do_you_know_that_are_still_using/)
+- [Convert a program of complete side effects to cats IO?](https://www.reddit.com/r/scala/comments/1e398d6/convert_a_program_of_complete_side_effects_to/)
+- [tapir zio-http-server CORS does not work for PUT method](https://www.reddit.com/r/scala/comments/1e34rrh/tapir_ziohttpserver_cors_does_not_work_for_put/)
+- [This week in #Scala &lpar;Jul 15, 2024&rpar;](https://www.reddit.com/r/scala/comments/1e32omq/this_week_in_scala_jul_15_2024/)
 - [uPickle 4.0.0-RC1](https://www.reddit.com/r/scala/comments/1e2c06w/upickle_400rc1/)
 - [Long division mastery in Scala.js](https://www.reddit.com/r/scala/comments/1e24zw9/long_division_mastery_in_scalajs/)
 - [Emacs Scala Eglot TreeSitter Nix setup using Home Manager in 2024 - roast my video](https://www.reddit.com/r/scala/comments/1e1il0w/emacs_scala_eglot_treesitter_nix_setup_using_home/)
 - [Scala Space Podcast: The Future of Scala IDEs](https://www.reddit.com/r/scala/comments/1e1bw11/scala_space_podcast_the_future_of_scala_ides/)
 - [A Distributed Remote Code Execution Engine with Pekko](https://www.reddit.com/r/scala/comments/1e0puvq/a_distributed_remote_code_execution_engine_with/)
 - [Braceless syntax is the most satisfying part of scala3](https://www.reddit.com/r/scala/comments/1e0b34u/braceless_syntax_is_the_most_satisfying_part_of/)
-- [Tapir Tutorial - part 6: Error Variants | Adam Warski SoftwareMill](https://www.reddit.com/r/scala/comments/1e01lpj/tapir_tutorial_part_6_error_variants_adam_warski/)
-- [Missing ML Libraries](https://www.reddit.com/r/scala/comments/1e017ma/missing_ml_libraries/)
-- [Folding Cheat Sheet #7 - The three duality theorems of fold](https://www.reddit.com/r/scala/comments/1dye842/folding_cheat_sheet_7_the_three_duality_theorems/)
-- [Scala 3 braceless syntax for in-line partial function expression?](https://www.reddit.com/r/scala/comments/1dy6r3p/scala_3_braceless_syntax_for_inline_partial/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

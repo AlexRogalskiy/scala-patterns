@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Confused about VS Code + Metals](https://www.reddit.com/r/scala/comments/1e4yxjq/confused_about_vs_code_metals/)
+- [Crafting types with Scala 3 macros - Part 1 of the most comprehensive macro tutorial yet](https://www.reddit.com/r/scala/comments/1e4qn8z/crafting_types_with_scala_3_macros_part_1_of_the/)
 - [Which companies do you know that are still using PlayFramework heavily?](https://www.reddit.com/r/scala/comments/1e3bwru/which_companies_do_you_know_that_are_still_using/)
 - [Convert a program of complete side effects to cats IO?](https://www.reddit.com/r/scala/comments/1e398d6/convert_a_program_of_complete_side_effects_to/)
 - [tapir zio-http-server CORS does not work for PUT method](https://www.reddit.com/r/scala/comments/1e34rrh/tapir_ziohttpserver_cors_does_not_work_for_put/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Long division mastery in Scala.js](https://www.reddit.com/r/scala/comments/1e24zw9/long_division_mastery_in_scalajs/)
 - [Emacs Scala Eglot TreeSitter Nix setup using Home Manager in 2024 - roast my video](https://www.reddit.com/r/scala/comments/1e1il0w/emacs_scala_eglot_treesitter_nix_setup_using_home/)
 - [Scala Space Podcast: The Future of Scala IDEs](https://www.reddit.com/r/scala/comments/1e1bw11/scala_space_podcast_the_future_of_scala_ides/)
-- [A Distributed Remote Code Execution Engine with Pekko](https://www.reddit.com/r/scala/comments/1e0puvq/a_distributed_remote_code_execution_engine_with/)
-- [Braceless syntax is the most satisfying part of scala3](https://www.reddit.com/r/scala/comments/1e0b34u/braceless_syntax_is_the_most_satisfying_part_of/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

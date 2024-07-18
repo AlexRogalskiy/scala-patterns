@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tools providing code quality metrics for scala code](https://www.reddit.com/r/scala/comments/1e5u27l/tools_providing_code_quality_metrics_for_scala/)
+- [Cats-Actors now supports scala3](https://www.reddit.com/r/scala/comments/1e5hze0/catsactors_now_supports_scala3/)
 - [Confused about VS Code + Metals](https://www.reddit.com/r/scala/comments/1e4yxjq/confused_about_vs_code_metals/)
 - [Crafting types with Scala 3 macros - Part 1 of the most comprehensive macro tutorial yet](https://www.reddit.com/r/scala/comments/1e4qn8z/crafting_types_with_scala_3_macros_part_1_of_the/)
 - [Which companies do you know that are still using PlayFramework heavily?](https://www.reddit.com/r/scala/comments/1e3bwru/which_companies_do_you_know_that_are_still_using/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Jul 15, 2024&rpar;](https://www.reddit.com/r/scala/comments/1e32omq/this_week_in_scala_jul_15_2024/)
 - [uPickle 4.0.0-RC1](https://www.reddit.com/r/scala/comments/1e2c06w/upickle_400rc1/)
 - [Long division mastery in Scala.js](https://www.reddit.com/r/scala/comments/1e24zw9/long_division_mastery_in_scalajs/)
-- [Emacs Scala Eglot TreeSitter Nix setup using Home Manager in 2024 - roast my video](https://www.reddit.com/r/scala/comments/1e1il0w/emacs_scala_eglot_treesitter_nix_setup_using_home/)
-- [Scala Space Podcast: The Future of Scala IDEs](https://www.reddit.com/r/scala/comments/1e1bw11/scala_space_podcast_the_future_of_scala_ides/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

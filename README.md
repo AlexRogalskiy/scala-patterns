@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Who uses structural types in their project and how?](https://www.reddit.com/r/scala/comments/1e7e4ry/who_uses_structural_types_in_their_project_and_how/)
+- [Help needed resolving sbt dependencies issues](https://www.reddit.com/r/scala/comments/1e6yqoc/help_needed_resolving_sbt_dependencies_issues/)
 - [Introducing Nativelink -- the &#39;blazingly fast&#39; Rust-built open-source remote execution server &amp; build cache powering 1B+ monthly devices &lpar;Join us for AMA!&rpar;](https://www.reddit.com/r/scala/comments/1e6jmt9/introducing_nativelink_the_blazingly_fast/)
 - [Where is documentation for Scala 2.13 or 2.12 ?](https://www.reddit.com/r/scala/comments/1e6hklb/where_is_documentation_for_scala_213_or_212/)
 - [Moving from Scala to Java tech stack](https://www.reddit.com/r/scala/comments/1e671j5/moving_from_scala_to_java_tech_stack/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Cats-Actors now supports scala3](https://www.reddit.com/r/scala/comments/1e5hze0/catsactors_now_supports_scala3/)
 - [Confused about VS Code + Metals](https://www.reddit.com/r/scala/comments/1e4yxjq/confused_about_vs_code_metals/)
 - [Crafting types with Scala 3 macros - Part 1 of the most comprehensive macro tutorial yet](https://www.reddit.com/r/scala/comments/1e4qn8z/crafting_types_with_scala_3_macros_part_1_of_the/)
-- [Which companies do you know that are still using PlayFramework heavily?](https://www.reddit.com/r/scala/comments/1e3bwru/which_companies_do_you_know_that_are_still_using/)
-- [Convert a program of complete side effects to cats IO?](https://www.reddit.com/r/scala/comments/1e398d6/convert_a_program_of_complete_side_effects_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

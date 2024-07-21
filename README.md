@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ifdef 0.3.0: conditional compilation in Scala](https://www.reddit.com/r/scala/comments/1e8aq5r/ifdef_030_conditional_compilation_in_scala/)
 - [Who uses structural types in their project and how?](https://www.reddit.com/r/scala/comments/1e7e4ry/who_uses_structural_types_in_their_project_and_how/)
 - [Help needed resolving sbt dependencies issues](https://www.reddit.com/r/scala/comments/1e6yqoc/help_needed_resolving_sbt_dependencies_issues/)
 - [Introducing Nativelink -- the &#39;blazingly fast&#39; Rust-built open-source remote execution server &amp; build cache powering 1B+ monthly devices &lpar;Join us for AMA!&rpar;](https://www.reddit.com/r/scala/comments/1e6jmt9/introducing_nativelink_the_blazingly_fast/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Tools providing code quality metrics for scala code](https://www.reddit.com/r/scala/comments/1e5u27l/tools_providing_code_quality_metrics_for_scala/)
 - [Cats-Actors now supports scala3](https://www.reddit.com/r/scala/comments/1e5hze0/catsactors_now_supports_scala3/)
 - [Confused about VS Code + Metals](https://www.reddit.com/r/scala/comments/1e4yxjq/confused_about_vs_code_metals/)
-- [Crafting types with Scala 3 macros - Part 1 of the most comprehensive macro tutorial yet](https://www.reddit.com/r/scala/comments/1e4qn8z/crafting_types_with_scala_3_macros_part_1_of_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

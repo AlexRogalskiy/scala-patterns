@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to handle ZIO error values?](https://www.reddit.com/r/scala/comments/1e911d1/how_to_handle_zio_error_values/)
+- [Auth implementation in Typelevel Stack](https://www.reddit.com/r/scala/comments/1e8ofh5/auth_implementation_in_typelevel_stack/)
+- [This week in #Scala &lpar;Jul 22, 2024&rpar;](https://www.reddit.com/r/scala/comments/1e8kww2/this_week_in_scala_jul_22_2024/)
 - [ifdef 0.3.0: conditional compilation in Scala](https://www.reddit.com/r/scala/comments/1e8aq5r/ifdef_030_conditional_compilation_in_scala/)
 - [Who uses structural types in their project and how?](https://www.reddit.com/r/scala/comments/1e7e4ry/who_uses_structural_types_in_their_project_and_how/)
 - [Help needed resolving sbt dependencies issues](https://www.reddit.com/r/scala/comments/1e6yqoc/help_needed_resolving_sbt_dependencies_issues/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Where is documentation for Scala 2.13 or 2.12 ?](https://www.reddit.com/r/scala/comments/1e6hklb/where_is_documentation_for_scala_213_or_212/)
 - [Moving from Scala to Java tech stack](https://www.reddit.com/r/scala/comments/1e671j5/moving_from_scala_to_java_tech_stack/)
 - [Tapir Tutorial - part 7: Integration with cats-effect &amp; http4s | Adam Warski SoftwareMill](https://www.reddit.com/r/scala/comments/1e64r0e/tapir_tutorial_part_7_integration_with_catseffect/)
-- [Tools providing code quality metrics for scala code](https://www.reddit.com/r/scala/comments/1e5u27l/tools_providing_code_quality_metrics_for_scala/)
-- [Cats-Actors now supports scala3](https://www.reddit.com/r/scala/comments/1e5hze0/catsactors_now_supports_scala3/)
-- [Confused about VS Code + Metals](https://www.reddit.com/r/scala/comments/1e4yxjq/confused_about_vs_code_metals/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

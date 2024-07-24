@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [TypeTag alternative in Scala 3 for finding subtypes](https://www.reddit.com/r/scala/comments/1eae8o3/typetag_alternative_in_scala_3_for_finding/)
+- [Help a fella out! difference betwen fold and foldLeft](https://www.reddit.com/r/scala/comments/1e9xdz2/help_a_fella_out_difference_betwen_fold_and/)
 - [Recons - connect remotely to a Scala REPL embedded in your running application](https://www.reddit.com/r/scala/comments/1e9e9h8/recons_connect_remotely_to_a_scala_repl_embedded/)
 - [`com.lihaoyi` issue bounties, July 2024 edition](https://www.reddit.com/r/scala/comments/1e9cpd5/comlihaoyi_issue_bounties_july_2024_edition/)
 - [How to handle ZIO error values?](https://www.reddit.com/r/scala/comments/1e911d1/how_to_handle_zio_error_values/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ifdef 0.3.0: conditional compilation in Scala](https://www.reddit.com/r/scala/comments/1e8aq5r/ifdef_030_conditional_compilation_in_scala/)
 - [Who uses structural types in their project and how?](https://www.reddit.com/r/scala/comments/1e7e4ry/who_uses_structural_types_in_their_project_and_how/)
 - [Help needed resolving sbt dependencies issues](https://www.reddit.com/r/scala/comments/1e6yqoc/help_needed_resolving_sbt_dependencies_issues/)
-- [Introducing Nativelink -- the &#39;blazingly fast&#39; Rust-built open-source remote execution server &amp; build cache powering 1B+ monthly devices &lpar;Join us for AMA!&rpar;](https://www.reddit.com/r/scala/comments/1e6jmt9/introducing_nativelink_the_blazingly_fast/)
-- [Where is documentation for Scala 2.13 or 2.12 ?](https://www.reddit.com/r/scala/comments/1e6hklb/where_is_documentation_for_scala_213_or_212/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

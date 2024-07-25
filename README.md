@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Apache Fury 0.6.0 Released: 6x serialization faster and 1/2 payload smaller than protobuf serialization](https://www.reddit.com/r/scala/comments/1eb055s/apache_fury_060_released_6x_serialization_faster/)
+- [I compiled a list of Scala 3 metaprograming related resources](https://www.reddit.com/r/scala/comments/1eaz82v/i_compiled_a_list_of_scala_3_metaprograming/)
+- [Play Framework 2.9.5 and 3.0.5 released](https://www.reddit.com/r/scala/comments/1eayeq5/play_framework_295_and_305_released/)
 - [TypeTag alternative in Scala 3 for finding subtypes](https://www.reddit.com/r/scala/comments/1eae8o3/typetag_alternative_in_scala_3_for_finding/)
 - [Help a fella out! difference betwen fold and foldLeft](https://www.reddit.com/r/scala/comments/1e9xdz2/help_a_fella_out_difference_betwen_fold_and/)
 - [Recons - connect remotely to a Scala REPL embedded in your running application](https://www.reddit.com/r/scala/comments/1e9e9h8/recons_connect_remotely_to_a_scala_repl_embedded/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to handle ZIO error values?](https://www.reddit.com/r/scala/comments/1e911d1/how_to_handle_zio_error_values/)
 - [Auth implementation in Typelevel Stack](https://www.reddit.com/r/scala/comments/1e8ofh5/auth_implementation_in_typelevel_stack/)
 - [This week in #Scala &lpar;Jul 22, 2024&rpar;](https://www.reddit.com/r/scala/comments/1e8kww2/this_week_in_scala_jul_22_2024/)
-- [ifdef 0.3.0: conditional compilation in Scala](https://www.reddit.com/r/scala/comments/1e8aq5r/ifdef_030_conditional_compilation_in_scala/)
-- [Who uses structural types in their project and how?](https://www.reddit.com/r/scala/comments/1e7e4ry/who_uses_structural_types_in_their_project_and_how/)
-- [Help needed resolving sbt dependencies issues](https://www.reddit.com/r/scala/comments/1e6yqoc/help_needed_resolving_sbt_dependencies_issues/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

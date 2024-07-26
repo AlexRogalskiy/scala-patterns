@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Anyone needs a remote Software intern?](https://www.reddit.com/r/scala/comments/1ec8j4v/anyone_needs_a_remote_software_intern/)
+- [Is the Scala developer community more competitive than other more popular languages &lpar;C#, Java, Go&rpar;? I&#39;ve been trying to switch jobs but I got a lot of rejections. Should I still stick with Scala?](https://www.reddit.com/r/scala/comments/1ec4wsz/is_the_scala_developer_community_more_competitive/)
+- [How Scala Effect systems impact performance?](https://www.reddit.com/r/scala/comments/1eby0z7/how_scala_effect_systems_impact_performance/)
+- [Type Erasure in Scala 3](https://www.reddit.com/r/scala/comments/1ebt5pt/type_erasure_in_scala_3/)
+- [Scala to WebAssembly: How and Why](https://www.reddit.com/r/scala/comments/1ebrhlk/scala_to_webassembly_how_and_why/)
+- [How would you explain Covariant, Contravariant, Invariant to a beginner?](https://www.reddit.com/r/scala/comments/1ebkh7r/how_would_you_explain_covariant_contravariant/)
 - [Apache Fury 0.6.0 Released: 6x serialization faster and 1/2 payload smaller than protobuf serialization](https://www.reddit.com/r/scala/comments/1eb055s/apache_fury_060_released_6x_serialization_faster/)
 - [I compiled a list of Scala 3 metaprograming related resources](https://www.reddit.com/r/scala/comments/1eaz82v/i_compiled_a_list_of_scala_3_metaprograming/)
 - [Play Framework 2.9.5 and 3.0.5 released](https://www.reddit.com/r/scala/comments/1eayeq5/play_framework_295_and_305_released/)
 - [TypeTag alternative in Scala 3 for finding subtypes](https://www.reddit.com/r/scala/comments/1eae8o3/typetag_alternative_in_scala_3_for_finding/)
-- [Help a fella out! difference betwen fold and foldLeft](https://www.reddit.com/r/scala/comments/1e9xdz2/help_a_fella_out_difference_betwen_fold_and/)
-- [Recons - connect remotely to a Scala REPL embedded in your running application](https://www.reddit.com/r/scala/comments/1e9e9h8/recons_connect_remotely_to_a_scala_repl_embedded/)
-- [`com.lihaoyi` issue bounties, July 2024 edition](https://www.reddit.com/r/scala/comments/1e9cpd5/comlihaoyi_issue_bounties_july_2024_edition/)
-- [How to handle ZIO error values?](https://www.reddit.com/r/scala/comments/1e911d1/how_to_handle_zio_error_values/)
-- [Auth implementation in Typelevel Stack](https://www.reddit.com/r/scala/comments/1e8ofh5/auth_implementation_in_typelevel_stack/)
-- [This week in #Scala &lpar;Jul 22, 2024&rpar;](https://www.reddit.com/r/scala/comments/1e8kww2/this_week_in_scala_jul_22_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

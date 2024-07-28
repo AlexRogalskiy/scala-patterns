@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [DSL or GUI](https://www.reddit.com/r/scala/comments/1edmlfs/dsl_or_gui/)
+- [Java to Scala](https://www.reddit.com/r/scala/comments/1edb59u/java_to_scala/)
 - [Visual Programming &lt;-&gt; Scala](https://www.reddit.com/r/scala/comments/1ed3nel/visual_programming_scala/)
 - [How do you debug in scala?](https://www.reddit.com/r/scala/comments/1ecolxh/how_do_you_debug_in_scala/)
 - [ZIO quill alternative?](https://www.reddit.com/r/scala/comments/1ecj6v6/zio_quill_alternative/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Is the Scala developer community more competitive than other more popular languages &lpar;C#, Java, Go&rpar;? I&#39;ve been trying to switch jobs but I got a lot of rejections. Should I still stick with Scala?](https://www.reddit.com/r/scala/comments/1ec4wsz/is_the_scala_developer_community_more_competitive/)
 - [How Scala Effect systems impact performance?](https://www.reddit.com/r/scala/comments/1eby0z7/how_scala_effect_systems_impact_performance/)
 - [Type Erasure in Scala 3](https://www.reddit.com/r/scala/comments/1ebt5pt/type_erasure_in_scala_3/)
-- [Scala to WebAssembly: How and Why](https://www.reddit.com/r/scala/comments/1ebrhlk/scala_to_webassembly_how_and_why/)
-- [How would you explain Covariant, Contravariant, Invariant to a beginner?](https://www.reddit.com/r/scala/comments/1ebkh7r/how_would_you_explain_covariant_contravariant/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

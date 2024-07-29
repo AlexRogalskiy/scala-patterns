@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Jul 29, 2024&rpar;](https://www.reddit.com/r/scala/comments/1eelzcm/this_week_in_scala_jul_29_2024/)
+- [Invalid config: Default dialect is deprecated; use explicit:](https://www.reddit.com/r/scala/comments/1ee0ju3/invalid_config_default_dialect_is_deprecated_use/)
 - [DSL or GUI](https://www.reddit.com/r/scala/comments/1edmlfs/dsl_or_gui/)
 - [Java to Scala](https://www.reddit.com/r/scala/comments/1edb59u/java_to_scala/)
 - [Visual Programming &lt;-&gt; Scala](https://www.reddit.com/r/scala/comments/1ed3nel/visual_programming_scala/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to configure datasource in zio quill?](https://www.reddit.com/r/scala/comments/1ecihp3/how_to_configure_datasource_in_zio_quill/)
 - [Anyone needs a remote Software intern?](https://www.reddit.com/r/scala/comments/1ec8j4v/anyone_needs_a_remote_software_intern/)
 - [Is the Scala developer community more competitive than other more popular languages &lpar;C#, Java, Go&rpar;? I&#39;ve been trying to switch jobs but I got a lot of rejections. Should I still stick with Scala?](https://www.reddit.com/r/scala/comments/1ec4wsz/is_the_scala_developer_community_more_competitive/)
-- [How Scala Effect systems impact performance?](https://www.reddit.com/r/scala/comments/1eby0z7/how_scala_effect_systems_impact_performance/)
-- [Type Erasure in Scala 3](https://www.reddit.com/r/scala/comments/1ebt5pt/type_erasure_in_scala_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

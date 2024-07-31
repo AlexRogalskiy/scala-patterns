@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala on Fireship Finally!](https://www.reddit.com/r/scala/comments/1eg3294/scala_on_fireship_finally/)
+- [Issue with Ambiguous given instances in Scala 3](https://www.reddit.com/r/scala/comments/1efxul9/issue_with_ambiguous_given_instances_in_scala_3/)
+- [Need advices switching from C#](https://www.reddit.com/r/scala/comments/1efukhv/need_advices_switching_from_c/)
 - [scala-jdbc-routine: an open-source, Scala-friendly JDBC wrapper](https://www.reddit.com/r/scala/comments/1ef1qjf/scalajdbcroutine_an_opensource_scalafriendly_jdbc/)
 - [I&#39;m getting confused with multiple &#39;._&#39; imports](https://www.reddit.com/r/scala/comments/1eewi46/im_getting_confused_with_multiple_imports/)
 - [This week in #Scala &lpar;Jul 29, 2024&rpar;](https://www.reddit.com/r/scala/comments/1eelzcm/this_week_in_scala_jul_29_2024/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [DSL or GUI](https://www.reddit.com/r/scala/comments/1edmlfs/dsl_or_gui/)
 - [Java to Scala](https://www.reddit.com/r/scala/comments/1edb59u/java_to_scala/)
 - [Visual Programming &lt;-&gt; Scala](https://www.reddit.com/r/scala/comments/1ed3nel/visual_programming_scala/)
-- [How do you debug in scala?](https://www.reddit.com/r/scala/comments/1ecolxh/how_do_you_debug_in_scala/)
-- [ZIO quill alternative?](https://www.reddit.com/r/scala/comments/1ecj6v6/zio_quill_alternative/)
-- [How to configure datasource in zio quill?](https://www.reddit.com/r/scala/comments/1ecihp3/how_to_configure_datasource_in_zio_quill/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

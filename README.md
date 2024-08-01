@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala takeaways from the StackOverflow 2024 developer survey](https://www.reddit.com/r/scala/comments/1egsxhu/scala_takeaways_from_the_stackoverflow_2024/)
+- [what some fields never should be serialized ?](https://www.reddit.com/r/scala/comments/1egqbih/what_some_fields_never_should_be_serialized/)
+- [Scala events in August 2024 | Scalendar](https://www.reddit.com/r/scala/comments/1egldzy/scala_events_in_august_2024_scalendar/)
+- [Coming from fireship video and feeling curious](https://www.reddit.com/r/scala/comments/1egiyti/coming_from_fireship_video_and_feeling_curious/)
 - [Scala on Fireship Finally!](https://www.reddit.com/r/scala/comments/1eg3294/scala_on_fireship_finally/)
 - [Issue with Ambiguous given instances in Scala 3](https://www.reddit.com/r/scala/comments/1efxul9/issue_with_ambiguous_given_instances_in_scala_3/)
 - [Need advices switching from C#](https://www.reddit.com/r/scala/comments/1efukhv/need_advices_switching_from_c/)
 - [scala-jdbc-routine: an open-source, Scala-friendly JDBC wrapper](https://www.reddit.com/r/scala/comments/1ef1qjf/scalajdbcroutine_an_opensource_scalafriendly_jdbc/)
 - [I&#39;m getting confused with multiple &#39;._&#39; imports](https://www.reddit.com/r/scala/comments/1eewi46/im_getting_confused_with_multiple_imports/)
 - [This week in #Scala &lpar;Jul 29, 2024&rpar;](https://www.reddit.com/r/scala/comments/1eelzcm/this_week_in_scala_jul_29_2024/)
-- [Invalid config: Default dialect is deprecated; use explicit:](https://www.reddit.com/r/scala/comments/1ee0ju3/invalid_config_default_dialect_is_deprecated_use/)
-- [DSL or GUI](https://www.reddit.com/r/scala/comments/1edmlfs/dsl_or_gui/)
-- [Java to Scala](https://www.reddit.com/r/scala/comments/1edb59u/java_to_scala/)
-- [Visual Programming &lt;-&gt; Scala](https://www.reddit.com/r/scala/comments/1ed3nel/visual_programming_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

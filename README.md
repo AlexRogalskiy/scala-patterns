@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Not fully understanding type inference and erasure. What is a more idiomatic pattern for sequences of typed objects?](https://www.reddit.com/r/scala/comments/1ejjqa1/not_fully_understanding_type_inference_and/)
+- [Iterating over type parameters?](https://www.reddit.com/r/scala/comments/1ej90io/iterating_over_type_parameters/)
+- [How to log all cause in zio http?](https://www.reddit.com/r/scala/comments/1ej4wmw/how_to_log_all_cause_in_zio_http/)
 - [How could Scala3/JVM&lpar;21, maybe even 17&rpar; can be so fast &lpar;AoC 2015, Day4&rpar; for the naive solution but then basically say MEH when i try to optimize further ?](https://www.reddit.com/r/scala/comments/1ei5w4n/how_could_scala3jvm21_maybe_even_17_can_be_so/)
 - [Scala Space Podcast: Scala 3 Migrations](https://www.reddit.com/r/scala/comments/1ei3qmi/scala_space_podcast_scala_3_migrations/)
 - [does LSP-Metals plugin need me to use JavaHome version 8 or 11 to work?](https://www.reddit.com/r/scala/comments/1ei282d/does_lspmetals_plugin_need_me_to_use_javahome/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Auto suggest support in play slick](https://www.reddit.com/r/scala/comments/1ehh6nz/auto_suggest_support_in_play_slick/)
 - [Do you feel that Scala FP applications are generally safer, aka bugs and runtime issues in production?](https://www.reddit.com/r/scala/comments/1ehc4tc/do_you_feel_that_scala_fp_applications_are/)
 - [Scala code review interview](https://www.reddit.com/r/scala/comments/1eh9xto/scala_code_review_interview/)
-- [Scala takeaways from the StackOverflow 2024 developer survey](https://www.reddit.com/r/scala/comments/1egsxhu/scala_takeaways_from_the_stackoverflow_2024/)
-- [what some fields never should be serialized ?](https://www.reddit.com/r/scala/comments/1egqbih/what_some_fields_never_should_be_serialized/)
-- [Scala events in August 2024 | Scalendar](https://www.reddit.com/r/scala/comments/1egldzy/scala_events_in_august_2024_scalendar/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

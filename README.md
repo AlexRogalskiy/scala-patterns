@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Mill 0.11.11 is out with a fix for sonatype publishing](https://www.reddit.com/r/scala/comments/1ekzjbf/mill_01111_is_out_with_a_fix_for_sonatype/)
+- [My another take on Scala in OSGi](https://www.reddit.com/r/scala/comments/1ekvi1p/my_another_take_on_scala_in_osgi/)
+- [Automatic Dependency Injection in Pure Scala](https://www.reddit.com/r/scala/comments/1eksdo2/automatic_dependency_injection_in_pure_scala/)
+- [Derived type class for Json formatting](https://www.reddit.com/r/scala/comments/1eknq5i/derived_type_class_for_json_formatting/)
+- [Direct-style Bootzooka: 2024 update](https://www.reddit.com/r/scala/comments/1eklbcb/directstyle_bootzooka_2024_update/)
+- [Context function/ Direct style effect question](https://www.reddit.com/r/scala/comments/1ekk0t4/context_function_direct_style_effect_question/)
+- [The Tri-Z Architecture: a Pattern for Layering ZIO Applications in Scala](https://www.reddit.com/r/scala/comments/1ekikvs/the_triz_architecture_a_pattern_for_layering_zio/)
 - [This week in #Scala &lpar;Aug 5, 2024&rpar;](https://www.reddit.com/r/scala/comments/1ejwm3w/this_week_in_scala_aug_5_2024/)
 - [Would you choose Scala for a mission critical component at work?](https://www.reddit.com/r/scala/comments/1ejvhmx/would_you_choose_scala_for_a_mission_critical/)
-- [Can CE/ZIO fans stop being so toxic here?](https://www.reddit.com/r/scala/comments/1ejr5qd/can_cezio_fans_stop_being_so_toxic_here/)
 - [SBT](https://www.reddit.com/r/scala/comments/1ejmbt3/sbt/)
-- [Not fully understanding type inference and erasure. What is a more idiomatic pattern for sequences of typed objects?](https://www.reddit.com/r/scala/comments/1ejjqa1/not_fully_understanding_type_inference_and/)
-- [Iterating over type parameters?](https://www.reddit.com/r/scala/comments/1ej90io/iterating_over_type_parameters/)
-- [How to log all cause in zio http?](https://www.reddit.com/r/scala/comments/1ej4wmw/how_to_log_all_cause_in_zio_http/)
-- [How could Scala3/JVM&lpar;21, maybe even 17&rpar; can be so fast &lpar;AoC 2015, Day4&rpar; for the naive solution but then basically say MEH when i try to optimize further ?](https://www.reddit.com/r/scala/comments/1ei5w4n/how_could_scala3jvm21_maybe_even_17_can_be_so/)
-- [Scala Space Podcast: Scala 3 Migrations](https://www.reddit.com/r/scala/comments/1ei3qmi/scala_space_podcast_scala_3_migrations/)
-- [does LSP-Metals plugin need me to use JavaHome version 8 or 11 to work?](https://www.reddit.com/r/scala/comments/1ei282d/does_lspmetals_plugin_need_me_to_use_javahome/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

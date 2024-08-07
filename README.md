@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to convert one class into another with a side effect in between?](https://www.reddit.com/r/scala/comments/1elj4je/how_to_convert_one_class_into_another_with_a_side/)
 - [Mill 0.11.11 is out with a fix for sonatype publishing](https://www.reddit.com/r/scala/comments/1ekzjbf/mill_01111_is_out_with_a_fix_for_sonatype/)
 - [My another take on Scala in OSGi](https://www.reddit.com/r/scala/comments/1ekvi1p/my_another_take_on_scala_in_osgi/)
 - [Automatic Dependency Injection in Pure Scala](https://www.reddit.com/r/scala/comments/1eksdo2/automatic_dependency_injection_in_pure_scala/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [The Tri-Z Architecture: a Pattern for Layering ZIO Applications in Scala](https://www.reddit.com/r/scala/comments/1ekikvs/the_triz_architecture_a_pattern_for_layering_zio/)
 - [This week in #Scala &lpar;Aug 5, 2024&rpar;](https://www.reddit.com/r/scala/comments/1ejwm3w/this_week_in_scala_aug_5_2024/)
 - [Would you choose Scala for a mission critical component at work?](https://www.reddit.com/r/scala/comments/1ejvhmx/would_you_choose_scala_for_a_mission_critical/)
-- [SBT](https://www.reddit.com/r/scala/comments/1ejmbt3/sbt/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

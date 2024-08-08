@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Squants and Scala 3](https://www.reddit.com/r/scala/comments/1em9ecp/squants_and_scala_3/)
+- [Cats learning](https://www.reddit.com/r/scala/comments/1em7h3b/cats_learning/)
+- [IntelliJ Scala Plugin 2024.2 is out!](https://www.reddit.com/r/scala/comments/1em60f9/intellij_scala_plugin_20242_is_out/)
 - [How to convert one class into another with a side effect in between?](https://www.reddit.com/r/scala/comments/1elj4je/how_to_convert_one_class_into_another_with_a_side/)
 - [Mill 0.11.11 is out with a fix for sonatype publishing](https://www.reddit.com/r/scala/comments/1ekzjbf/mill_01111_is_out_with_a_fix_for_sonatype/)
 - [My another take on Scala in OSGi](https://www.reddit.com/r/scala/comments/1ekvi1p/my_another_take_on_scala_in_osgi/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Derived type class for Json formatting](https://www.reddit.com/r/scala/comments/1eknq5i/derived_type_class_for_json_formatting/)
 - [Direct-style Bootzooka: 2024 update](https://www.reddit.com/r/scala/comments/1eklbcb/directstyle_bootzooka_2024_update/)
 - [Context function/ Direct style effect question](https://www.reddit.com/r/scala/comments/1ekk0t4/context_function_direct_style_effect_question/)
-- [The Tri-Z Architecture: a Pattern for Layering ZIO Applications in Scala](https://www.reddit.com/r/scala/comments/1ekikvs/the_triz_architecture_a_pattern_for_layering_zio/)
-- [This week in #Scala &lpar;Aug 5, 2024&rpar;](https://www.reddit.com/r/scala/comments/1ejwm3w/this_week_in_scala_aug_5_2024/)
-- [Would you choose Scala for a mission critical component at work?](https://www.reddit.com/r/scala/comments/1ejvhmx/would_you_choose_scala_for_a_mission_critical/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

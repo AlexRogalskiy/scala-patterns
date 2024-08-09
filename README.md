@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [tree-sitter-scala 0.22.1 released](https://www.reddit.com/r/scala/comments/1en070r/treesitterscala_0221_released/)
 - [Squants and Scala 3](https://www.reddit.com/r/scala/comments/1em9ecp/squants_and_scala_3/)
 - [Cats learning](https://www.reddit.com/r/scala/comments/1em7h3b/cats_learning/)
 - [IntelliJ Scala Plugin 2024.2 is out!](https://www.reddit.com/r/scala/comments/1em60f9/intellij_scala_plugin_20242_is_out/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Automatic Dependency Injection in Pure Scala](https://www.reddit.com/r/scala/comments/1eksdo2/automatic_dependency_injection_in_pure_scala/)
 - [Derived type class for Json formatting](https://www.reddit.com/r/scala/comments/1eknq5i/derived_type_class_for_json_formatting/)
 - [Direct-style Bootzooka: 2024 update](https://www.reddit.com/r/scala/comments/1eklbcb/directstyle_bootzooka_2024_update/)
-- [Context function/ Direct style effect question](https://www.reddit.com/r/scala/comments/1ekk0t4/context_function_direct_style_effect_question/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

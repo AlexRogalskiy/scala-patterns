@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need scala tutor](https://www.reddit.com/r/scala/comments/1eoq142/need_scala_tutor/)
+- [What happened to Adam Fraser?](https://www.reddit.com/r/scala/comments/1eonlal/what_happened_to_adam_fraser/)
 - [Help with SCALA3-MIGRATE](https://www.reddit.com/r/scala/comments/1eo6xqq/help_with_scala3migrate/)
 - [Automatic dependency injection using implicits revisited](https://www.reddit.com/r/scala/comments/1eo3lc3/automatic_dependency_injection_using_implicits/)
 - [Help with understanding variable arrow function](https://www.reddit.com/r/scala/comments/1eo2gyq/help_with_understanding_variable_arrow_function/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Squants and Scala 3](https://www.reddit.com/r/scala/comments/1em9ecp/squants_and_scala_3/)
 - [Cats learning](https://www.reddit.com/r/scala/comments/1em7h3b/cats_learning/)
 - [IntelliJ Scala Plugin 2024.2 is out!](https://www.reddit.com/r/scala/comments/1em60f9/intellij_scala_plugin_20242_is_out/)
-- [How to convert one class into another with a side effect in between?](https://www.reddit.com/r/scala/comments/1elj4je/how_to_convert_one_class_into_another_with_a_side/)
-- [Mill 0.11.11 is out with a fix for sonatype publishing](https://www.reddit.com/r/scala/comments/1ekzjbf/mill_01111_is_out_with_a_fix_for_sonatype/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

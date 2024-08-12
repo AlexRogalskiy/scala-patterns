@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Initial implementation of the WebAssembly backend has been merged to Scala.js main branch](https://www.reddit.com/r/scala/comments/1epmiwg/initial_implementation_of_the_webassembly_backend/)
+- [This week in #Scala &lpar;Aug 12, 2024&rpar;](https://www.reddit.com/r/scala/comments/1epkj0e/this_week_in_scala_aug_12_2024/)
 - [Need scala tutor](https://www.reddit.com/r/scala/comments/1eoq142/need_scala_tutor/)
 - [What happened to Adam Fraser?](https://www.reddit.com/r/scala/comments/1eonlal/what_happened_to_adam_fraser/)
 - [Help with SCALA3-MIGRATE](https://www.reddit.com/r/scala/comments/1eo6xqq/help_with_scala3migrate/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [MakeScalaCurlyAgain.com](https://www.reddit.com/r/scala/comments/1enyhwv/makescalacurlyagaincom/)
 - [tree-sitter-scala 0.22.1 released](https://www.reddit.com/r/scala/comments/1en070r/treesitterscala_0221_released/)
 - [Squants and Scala 3](https://www.reddit.com/r/scala/comments/1em9ecp/squants_and_scala_3/)
-- [Cats learning](https://www.reddit.com/r/scala/comments/1em7h3b/cats_learning/)
-- [IntelliJ Scala Plugin 2024.2 is out!](https://www.reddit.com/r/scala/comments/1em60f9/intellij_scala_plugin_20242_is_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

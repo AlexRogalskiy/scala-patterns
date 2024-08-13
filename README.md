@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The simplest Dependency Injection. Pure Scala, no magic, works for all Scala 2 and 3 and JS and Native](https://www.reddit.com/r/scala/comments/1eqqng2/the_simplest_dependency_injection_pure_scala_no/)
+- [Announcing Decisions4s: When Ifs Are Not Enough](https://www.reddit.com/r/scala/comments/1eqb46p/announcing_decisions4s_when_ifs_are_not_enough/)
+- [How to install and import a npm dependency in a Scalajs project?](https://www.reddit.com/r/scala/comments/1eq2ni7/how_to_install_and_import_a_npm_dependency_in_a/)
 - [Initial implementation of the WebAssembly backend has been merged to Scala.js main branch](https://www.reddit.com/r/scala/comments/1epmiwg/initial_implementation_of_the_webassembly_backend/)
 - [This week in #Scala &lpar;Aug 12, 2024&rpar;](https://www.reddit.com/r/scala/comments/1epkj0e/this_week_in_scala_aug_12_2024/)
 - [Need scala tutor](https://www.reddit.com/r/scala/comments/1eoq142/need_scala_tutor/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Help with SCALA3-MIGRATE](https://www.reddit.com/r/scala/comments/1eo6xqq/help_with_scala3migrate/)
 - [Automatic dependency injection using implicits revisited](https://www.reddit.com/r/scala/comments/1eo3lc3/automatic_dependency_injection_using_implicits/)
 - [Help with understanding variable arrow function](https://www.reddit.com/r/scala/comments/1eo2gyq/help_with_understanding_variable_arrow_function/)
-- [MakeScalaCurlyAgain.com](https://www.reddit.com/r/scala/comments/1enyhwv/makescalacurlyagaincom/)
-- [tree-sitter-scala 0.22.1 released](https://www.reddit.com/r/scala/comments/1en070r/treesitterscala_0221_released/)
-- [Squants and Scala 3](https://www.reddit.com/r/scala/comments/1em9ecp/squants_and_scala_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Strategies to gradually move from extreme usage of Cake Pattern to plain old DI](https://www.reddit.com/r/scala/comments/1erasag/strategies_to_gradually_move_from_extreme_usage/)
 - [The simplest Dependency Injection. Pure Scala, no magic, works for all Scala 2 and 3 and JS and Native](https://www.reddit.com/r/scala/comments/1eqqng2/the_simplest_dependency_injection_pure_scala_no/)
 - [Announcing Decisions4s: When Ifs Are Not Enough](https://www.reddit.com/r/scala/comments/1eqb46p/announcing_decisions4s_when_ifs_are_not_enough/)
 - [How to install and import a npm dependency in a Scalajs project?](https://www.reddit.com/r/scala/comments/1eq2ni7/how_to_install_and_import_a_npm_dependency_in_a/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [What happened to Adam Fraser?](https://www.reddit.com/r/scala/comments/1eonlal/what_happened_to_adam_fraser/)
 - [Help with SCALA3-MIGRATE](https://www.reddit.com/r/scala/comments/1eo6xqq/help_with_scala3migrate/)
 - [Automatic dependency injection using implicits revisited](https://www.reddit.com/r/scala/comments/1eo3lc3/automatic_dependency_injection_using_implicits/)
-- [Help with understanding variable arrow function](https://www.reddit.com/r/scala/comments/1eo2gyq/help_with_understanding_variable_arrow_function/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

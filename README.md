@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hackathon will Scala](https://www.reddit.com/r/scala/comments/1esinzm/hackathon_will_scala/)
+- [json parsing in aws glue](https://www.reddit.com/r/scala/comments/1eshkpy/json_parsing_in_aws_glue/)
+- [Best Scala IDE 2024?](https://www.reddit.com/r/scala/comments/1es20l8/best_scala_ide_2024/)
+- [Store a type class instance in a case class](https://www.reddit.com/r/scala/comments/1es1oxq/store_a_type_class_instance_in_a_case_class/)
+- [Laminar 17.1.0, News &amp; Stickers](https://www.reddit.com/r/scala/comments/1es0u26/laminar_1710_news_stickers/)
+- [State of structural typing support in Scala 3.3.0 &lpar;Richard-Foy, 2023&rpar;](https://www.reddit.com/r/scala/comments/1erzt4t/state_of_structural_typing_support_in_scala_330/)
+- [Announcing Snapshot4s: Snapshot testing made easy, compatible with Weaver and MUnit](https://www.reddit.com/r/scala/comments/1erzqy0/announcing_snapshot4s_snapshot_testing_made_easy/)
 - [Strategies to gradually move from extreme usage of Cake Pattern to plain old DI](https://www.reddit.com/r/scala/comments/1erasag/strategies_to_gradually_move_from_extreme_usage/)
 - [The simplest Dependency Injection. Pure Scala, no magic, works for all Scala 2 and 3 and JS and Native](https://www.reddit.com/r/scala/comments/1eqqng2/the_simplest_dependency_injection_pure_scala_no/)
 - [Announcing Decisions4s: When Ifs Are Not Enough](https://www.reddit.com/r/scala/comments/1eqb46p/announcing_decisions4s_when_ifs_are_not_enough/)
-- [How to install and import a npm dependency in a Scalajs project?](https://www.reddit.com/r/scala/comments/1eq2ni7/how_to_install_and_import_a_npm_dependency_in_a/)
-- [Initial implementation of the WebAssembly backend has been merged to Scala.js main branch](https://www.reddit.com/r/scala/comments/1epmiwg/initial_implementation_of_the_webassembly_backend/)
-- [This week in #Scala &lpar;Aug 12, 2024&rpar;](https://www.reddit.com/r/scala/comments/1epkj0e/this_week_in_scala_aug_12_2024/)
-- [Need scala tutor](https://www.reddit.com/r/scala/comments/1eoq142/need_scala_tutor/)
-- [What happened to Adam Fraser?](https://www.reddit.com/r/scala/comments/1eonlal/what_happened_to_adam_fraser/)
-- [Help with SCALA3-MIGRATE](https://www.reddit.com/r/scala/comments/1eo6xqq/help_with_scala3migrate/)
-- [Automatic dependency injection using implicits revisited](https://www.reddit.com/r/scala/comments/1eo3lc3/automatic_dependency_injection_using_implicits/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

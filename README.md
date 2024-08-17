@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Annotation, compiler plugins, IDE, ... what are the plans for direct-style syntax?](https://www.reddit.com/r/scala/comments/1etzfmd/annotation_compiler_plugins_ide_what_are_the/)
+- [Portable Standard for Build Plugins?](https://www.reddit.com/r/scala/comments/1etwal3/portable_standard_for_build_plugins/)
+- [Scala and Java together is a good combination?](https://www.reddit.com/r/scala/comments/1etpymh/scala_and_java_together_is_a_good_combination/)
+- [Constructores primarios en C# 12 muy parecidos a los constructores de Scala](https://www.reddit.com/r/scala/comments/1etkk50/constructores_primarios_en_c_12_muy_parecidos_a/)
 - [Spring Boot incl Security &amp; Elastic with Scala](https://www.reddit.com/r/scala/comments/1etcydq/spring_boot_incl_security_elastic_with_scala/)
 - [Survey: What&#39;s necessary to make Mill good for building Java ecosystem projects?](https://www.reddit.com/r/scala/comments/1etao4e/survey_whats_necessary_to_make_mill_good_for/)
 - [Is &quot;Java like&quot; code bad in Scala?](https://www.reddit.com/r/scala/comments/1et6yv0/is_java_like_code_bad_in_scala/)
 - [Unexpected Scala Functions: groupMap](https://www.reddit.com/r/scala/comments/1et0pi0/unexpected_scala_functions_groupmap/)
 - [Function Applicative for Great Good of Leap Year Function](https://www.reddit.com/r/scala/comments/1esz8oc/function_applicative_for_great_good_of_leap_year/)
 - [Debugging Scala Code](https://www.reddit.com/r/scala/comments/1esohfp/debugging_scala_code/)
-- [Hackathon will Scala](https://www.reddit.com/r/scala/comments/1esinzm/hackathon_will_scala/)
-- [json parsing in aws glue](https://www.reddit.com/r/scala/comments/1eshkpy/json_parsing_in_aws_glue/)
-- [Best Scala IDE 2024?](https://www.reddit.com/r/scala/comments/1es20l8/best_scala_ide_2024/)
-- [Store a type class instance in a case class](https://www.reddit.com/r/scala/comments/1es1oxq/store_a_type_class_instance_in_a_case_class/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Lee Haoyi Hands On Scala or Daniel Rock the JVM for learning Scala in 2024?](https://www.reddit.com/r/scala/comments/1euc2i6/lee_haoyi_hands_on_scala_or_daniel_rock_the_jvm/)
 - [Annotation, compiler plugins, IDE, ... what are the plans for direct-style syntax?](https://www.reddit.com/r/scala/comments/1etzfmd/annotation_compiler_plugins_ide_what_are_the/)
 - [Portable Standard for Build Plugins?](https://www.reddit.com/r/scala/comments/1etwal3/portable_standard_for_build_plugins/)
 - [Scala and Java together is a good combination?](https://www.reddit.com/r/scala/comments/1etpymh/scala_and_java_together_is_a_good_combination/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Is &quot;Java like&quot; code bad in Scala?](https://www.reddit.com/r/scala/comments/1et6yv0/is_java_like_code_bad_in_scala/)
 - [Unexpected Scala Functions: groupMap](https://www.reddit.com/r/scala/comments/1et0pi0/unexpected_scala_functions_groupmap/)
 - [Function Applicative for Great Good of Leap Year Function](https://www.reddit.com/r/scala/comments/1esz8oc/function_applicative_for_great_good_of_leap_year/)
-- [Debugging Scala Code](https://www.reddit.com/r/scala/comments/1esohfp/debugging_scala_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

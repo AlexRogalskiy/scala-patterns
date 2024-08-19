@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Crafting types with Scala 3 macros - Part 2: A Whitebox Macro](https://www.reddit.com/r/scala/comments/1evlcpf/crafting_types_with_scala_3_macros_part_2_a/)
+- [This week in #Scala &lpar;Aug 19, 2024&rpar;](https://www.reddit.com/r/scala/comments/1evj7pu/this_week_in_scala_aug_19_2024/)
+- [Do you use Tagless Final in DAO?](https://www.reddit.com/r/scala/comments/1evhh7n/do_you_use_tagless_final_in_dao/)
 - [Lee Haoyi Hands On Scala or Daniel Rock the JVM for learning Scala in 2024?](https://www.reddit.com/r/scala/comments/1euc2i6/lee_haoyi_hands_on_scala_or_daniel_rock_the_jvm/)
 - [Annotation, compiler plugins, IDE, ... what are the plans for direct-style syntax?](https://www.reddit.com/r/scala/comments/1etzfmd/annotation_compiler_plugins_ide_what_are_the/)
 - [Portable Standard for Build Plugins?](https://www.reddit.com/r/scala/comments/1etwal3/portable_standard_for_build_plugins/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Constructores primarios en C# 12 muy parecidos a los constructores de Scala](https://www.reddit.com/r/scala/comments/1etkk50/constructores_primarios_en_c_12_muy_parecidos_a/)
 - [Spring Boot incl Security &amp; Elastic with Scala](https://www.reddit.com/r/scala/comments/1etcydq/spring_boot_incl_security_elastic_with_scala/)
 - [Survey: What&#39;s necessary to make Mill good for building Java ecosystem projects?](https://www.reddit.com/r/scala/comments/1etao4e/survey_whats_necessary_to_make_mill_good_for/)
-- [Is &quot;Java like&quot; code bad in Scala?](https://www.reddit.com/r/scala/comments/1et6yv0/is_java_like_code_bad_in_scala/)
-- [Unexpected Scala Functions: groupMap](https://www.reddit.com/r/scala/comments/1et0pi0/unexpected_scala_functions_groupmap/)
-- [Function Applicative for Great Good of Leap Year Function](https://www.reddit.com/r/scala/comments/1esz8oc/function_applicative_for_great_good_of_leap_year/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

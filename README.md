@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sudori part 4](https://www.reddit.com/r/scala/comments/1ew6ffy/sudori_part_4/)
+- [Best practice to conditionally run a ZIO test suite?](https://www.reddit.com/r/scala/comments/1evyct4/best_practice_to_conditionally_run_a_zio_test/)
+- [How to do this using mill?](https://www.reddit.com/r/scala/comments/1evt9kg/how_to_do_this_using_mill/)
 - [Crafting types with Scala 3 macros - Part 2: A Whitebox Macro](https://www.reddit.com/r/scala/comments/1evlcpf/crafting_types_with_scala_3_macros_part_2_a/)
 - [This week in #Scala &lpar;Aug 19, 2024&rpar;](https://www.reddit.com/r/scala/comments/1evj7pu/this_week_in_scala_aug_19_2024/)
 - [Do you use Tagless Final in DAO?](https://www.reddit.com/r/scala/comments/1evhh7n/do_you_use_tagless_final_in_dao/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Annotation, compiler plugins, IDE, ... what are the plans for direct-style syntax?](https://www.reddit.com/r/scala/comments/1etzfmd/annotation_compiler_plugins_ide_what_are_the/)
 - [Portable Standard for Build Plugins?](https://www.reddit.com/r/scala/comments/1etwal3/portable_standard_for_build_plugins/)
 - [Scala and Java together is a good combination?](https://www.reddit.com/r/scala/comments/1etpymh/scala_and_java_together_is_a_good_combination/)
-- [Constructores primarios en C# 12 muy parecidos a los constructores de Scala](https://www.reddit.com/r/scala/comments/1etkk50/constructores_primarios_en_c_12_muy_parecidos_a/)
-- [Spring Boot incl Security &amp; Elastic with Scala](https://www.reddit.com/r/scala/comments/1etcydq/spring_boot_incl_security_elastic_with_scala/)
-- [Survey: What&#39;s necessary to make Mill good for building Java ecosystem projects?](https://www.reddit.com/r/scala/comments/1etao4e/survey_whats_necessary_to_make_mill_good_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

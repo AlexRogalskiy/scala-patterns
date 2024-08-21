@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Implicits and spark/scala transform debugging](https://www.reddit.com/r/scala/comments/1ex83h5/implicits_and_sparkscala_transform_debugging/)
+- [Upcoming Changes to Givens in Scala 3.7](https://www.reddit.com/r/scala/comments/1ex5901/upcoming_changes_to_givens_in_scala_37/)
 - [sudori part 4](https://www.reddit.com/r/scala/comments/1ew6ffy/sudori_part_4/)
 - [Best practice to conditionally run a ZIO test suite?](https://www.reddit.com/r/scala/comments/1evyct4/best_practice_to_conditionally_run_a_zio_test/)
 - [How to do this using mill?](https://www.reddit.com/r/scala/comments/1evt9kg/how_to_do_this_using_mill/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Do you use Tagless Final in DAO?](https://www.reddit.com/r/scala/comments/1evhh7n/do_you_use_tagless_final_in_dao/)
 - [Lee Haoyi Hands On Scala or Daniel Rock the JVM for learning Scala in 2024?](https://www.reddit.com/r/scala/comments/1euc2i6/lee_haoyi_hands_on_scala_or_daniel_rock_the_jvm/)
 - [Annotation, compiler plugins, IDE, ... what are the plans for direct-style syntax?](https://www.reddit.com/r/scala/comments/1etzfmd/annotation_compiler_plugins_ide_what_are_the/)
-- [Portable Standard for Build Plugins?](https://www.reddit.com/r/scala/comments/1etwal3/portable_standard_for_build_plugins/)
-- [Scala and Java together is a good combination?](https://www.reddit.com/r/scala/comments/1etpymh/scala_and_java_together_is_a_good_combination/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

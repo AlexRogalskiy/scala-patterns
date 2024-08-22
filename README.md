@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do I make Play framework&#39;s console see the application conf?](https://www.reddit.com/r/scala/comments/1ey7dld/how_do_i_make_play_frameworks_console_see_the/)
+- [Scala 2.13.15 and Scala 2.12.20 release candidates](https://www.reddit.com/r/scala/comments/1ey6e7w/scala_21315_and_scala_21220_release_candidates/)
+- [Hot reload possible?](https://www.reddit.com/r/scala/comments/1extryi/hot_reload_possible/)
+- [Zipping a type-level tuple with a value-level tuple in Scala 3](https://www.reddit.com/r/scala/comments/1exrou7/zipping_a_typelevel_tuple_with_a_valuelevel_tuple/)
+- [A Song of Zeal](https://www.reddit.com/r/scala/comments/1exr50x/a_song_of_zeal/)
+- [Scala Meetup in Stockholm &lpar;12th September&rpar;](https://www.reddit.com/r/scala/comments/1exmrty/scala_meetup_in_stockholm_12th_september/)
+- [Scala Space Podcast: Lean Scala and how to manage the complexity of code with Martin Odersky](https://www.reddit.com/r/scala/comments/1exkn5g/scala_space_podcast_lean_scala_and_how_to_manage/)
 - [Implicits and spark/scala transform debugging](https://www.reddit.com/r/scala/comments/1ex83h5/implicits_and_sparkscala_transform_debugging/)
 - [Upcoming Changes to Givens in Scala 3.7](https://www.reddit.com/r/scala/comments/1ex5901/upcoming_changes_to_givens_in_scala_37/)
 - [sudori part 4](https://www.reddit.com/r/scala/comments/1ew6ffy/sudori_part_4/)
-- [Best practice to conditionally run a ZIO test suite?](https://www.reddit.com/r/scala/comments/1evyct4/best_practice_to_conditionally_run_a_zio_test/)
-- [How to do this using mill?](https://www.reddit.com/r/scala/comments/1evt9kg/how_to_do_this_using_mill/)
-- [Crafting types with Scala 3 macros - Part 2: A Whitebox Macro](https://www.reddit.com/r/scala/comments/1evlcpf/crafting_types_with_scala_3_macros_part_2_a/)
-- [This week in #Scala &lpar;Aug 19, 2024&rpar;](https://www.reddit.com/r/scala/comments/1evj7pu/this_week_in_scala_aug_19_2024/)
-- [Do you use Tagless Final in DAO?](https://www.reddit.com/r/scala/comments/1evhh7n/do_you_use_tagless_final_in_dao/)
-- [Lee Haoyi Hands On Scala or Daniel Rock the JVM for learning Scala in 2024?](https://www.reddit.com/r/scala/comments/1euc2i6/lee_haoyi_hands_on_scala_or_daniel_rock_the_jvm/)
-- [Annotation, compiler plugins, IDE, ... what are the plans for direct-style syntax?](https://www.reddit.com/r/scala/comments/1etzfmd/annotation_compiler_plugins_ide_what_are_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

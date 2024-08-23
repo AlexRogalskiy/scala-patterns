@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Cats IO, long running process, is this an anti pattern, correct, or do you have a better idea](https://www.reddit.com/r/scala/comments/1eyqi3c/cats_io_long_running_process_is_this_an_anti/)
+- [Updates About Project Leyden, Loom, and Valhalla](https://www.reddit.com/r/scala/comments/1eylrhz/updates_about_project_leyden_loom_and_valhalla/)
+- [Scala 3.5.0 released](https://www.reddit.com/r/scala/comments/1eyjx9h/scala_350_released/)
+- [Is this the right place?](https://www.reddit.com/r/scala/comments/1eygap3/is_this_the_right_place/)
+- [Invoking type classes at compile-time in Scala 3](https://www.reddit.com/r/scala/comments/1eye5j1/invoking_type_classes_at_compiletime_in_scala_3/)
 - [How do I make Play framework&#39;s console see the application conf?](https://www.reddit.com/r/scala/comments/1ey7dld/how_do_i_make_play_frameworks_console_see_the/)
 - [Scala 2.13.15 and Scala 2.12.20 release candidates](https://www.reddit.com/r/scala/comments/1ey6e7w/scala_21315_and_scala_21220_release_candidates/)
 - [Hot reload possible?](https://www.reddit.com/r/scala/comments/1extryi/hot_reload_possible/)
 - [Zipping a type-level tuple with a value-level tuple in Scala 3](https://www.reddit.com/r/scala/comments/1exrou7/zipping_a_typelevel_tuple_with_a_valuelevel_tuple/)
 - [A Song of Zeal](https://www.reddit.com/r/scala/comments/1exr50x/a_song_of_zeal/)
-- [Scala Meetup in Stockholm &lpar;12th September&rpar;](https://www.reddit.com/r/scala/comments/1exmrty/scala_meetup_in_stockholm_12th_september/)
-- [Scala Space Podcast: Lean Scala and how to manage the complexity of code with Martin Odersky](https://www.reddit.com/r/scala/comments/1exkn5g/scala_space_podcast_lean_scala_and_how_to_manage/)
-- [Implicits and spark/scala transform debugging](https://www.reddit.com/r/scala/comments/1ex83h5/implicits_and_sparkscala_transform_debugging/)
-- [Upcoming Changes to Givens in Scala 3.7](https://www.reddit.com/r/scala/comments/1ex5901/upcoming_changes_to_givens_in_scala_37/)
-- [sudori part 4](https://www.reddit.com/r/scala/comments/1ew6ffy/sudori_part_4/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

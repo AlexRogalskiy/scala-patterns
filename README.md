@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How does Scala compares to other FP languages?](https://www.reddit.com/r/scala/comments/1ezr6os/how_does_scala_compares_to_other_fp_languages/)
+- [Kyo 0.11.0 released! 🚀](https://www.reddit.com/r/scala/comments/1ezlcdj/kyo_0110_released/)
 - [Cats IO, long running process, is this an anti pattern, correct, or do you have a better idea](https://www.reddit.com/r/scala/comments/1eyqi3c/cats_io_long_running_process_is_this_an_anti/)
 - [Updates About Project Leyden, Loom, and Valhalla](https://www.reddit.com/r/scala/comments/1eylrhz/updates_about_project_leyden_loom_and_valhalla/)
 - [Scala 3.5.0 released](https://www.reddit.com/r/scala/comments/1eyjx9h/scala_350_released/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How do I make Play framework&#39;s console see the application conf?](https://www.reddit.com/r/scala/comments/1ey7dld/how_do_i_make_play_frameworks_console_see_the/)
 - [Scala 2.13.15 and Scala 2.12.20 release candidates](https://www.reddit.com/r/scala/comments/1ey6e7w/scala_21315_and_scala_21220_release_candidates/)
 - [Hot reload possible?](https://www.reddit.com/r/scala/comments/1extryi/hot_reload_possible/)
-- [Zipping a type-level tuple with a value-level tuple in Scala 3](https://www.reddit.com/r/scala/comments/1exrou7/zipping_a_typelevel_tuple_with_a_valuelevel_tuple/)
-- [A Song of Zeal](https://www.reddit.com/r/scala/comments/1exr50x/a_song_of_zeal/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

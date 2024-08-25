@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [instant-scala - Wrapper script over scala-cli/graalvm for scala script with instant-startup time](https://www.reddit.com/r/scala/comments/1f0dvjf/instantscala_wrapper_script_over_scalacligraalvm/)
+- [Am I dense? I can&#39;t figure out how to register for this course course in audit mode](https://www.reddit.com/r/scala/comments/1f0cl3i/am_i_dense_i_cant_figure_out_how_to_register_for/)
+- [ClassNotFoundException in spark](https://www.reddit.com/r/scala/comments/1f01s7r/classnotfoundexception_in_spark/)
 - [How does Scala compares to other FP languages?](https://www.reddit.com/r/scala/comments/1ezr6os/how_does_scala_compares_to_other_fp_languages/)
 - [Kyo 0.11.0 released! 🚀](https://www.reddit.com/r/scala/comments/1ezlcdj/kyo_0110_released/)
 - [Cats IO, long running process, is this an anti pattern, correct, or do you have a better idea](https://www.reddit.com/r/scala/comments/1eyqi3c/cats_io_long_running_process_is_this_an_anti/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala 3.5.0 released](https://www.reddit.com/r/scala/comments/1eyjx9h/scala_350_released/)
 - [Is this the right place?](https://www.reddit.com/r/scala/comments/1eygap3/is_this_the_right_place/)
 - [Invoking type classes at compile-time in Scala 3](https://www.reddit.com/r/scala/comments/1eye5j1/invoking_type_classes_at_compiletime_in_scala_3/)
-- [How do I make Play framework&#39;s console see the application conf?](https://www.reddit.com/r/scala/comments/1ey7dld/how_do_i_make_play_frameworks_console_see_the/)
-- [Scala 2.13.15 and Scala 2.12.20 release candidates](https://www.reddit.com/r/scala/comments/1ey6e7w/scala_21315_and_scala_21220_release_candidates/)
-- [Hot reload possible?](https://www.reddit.com/r/scala/comments/1extryi/hot_reload_possible/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

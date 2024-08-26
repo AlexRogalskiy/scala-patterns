@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [continued : problem with setting up spark](https://www.reddit.com/r/scala/comments/1f14oyp/continued_problem_with_setting_up_spark/)
+- [This week in #Scala &lpar;Aug 26, 2024&rpar;](https://www.reddit.com/r/scala/comments/1f0ydzd/this_week_in_scala_aug_26_2024/)
+- [Vector search on Lucene with Scala](https://www.reddit.com/r/scala/comments/1f0qz4j/vector_search_on_lucene_with_scala/)
+- [scalaxb 1.12.1 released](https://www.reddit.com/r/scala/comments/1f0oh9a/scalaxb_1121_released/)
 - [instant-scala - Wrapper script over scala-cli/graalvm for scala script with instant-startup time](https://www.reddit.com/r/scala/comments/1f0dvjf/instantscala_wrapper_script_over_scalacligraalvm/)
 - [Am I dense? I can&#39;t figure out how to register for this course course in audit mode](https://www.reddit.com/r/scala/comments/1f0cl3i/am_i_dense_i_cant_figure_out_how_to_register_for/)
 - [ClassNotFoundException in spark](https://www.reddit.com/r/scala/comments/1f01s7r/classnotfoundexception_in_spark/)
 - [How does Scala compares to other FP languages?](https://www.reddit.com/r/scala/comments/1ezr6os/how_does_scala_compares_to_other_fp_languages/)
 - [Kyo 0.11.0 released! 🚀](https://www.reddit.com/r/scala/comments/1ezlcdj/kyo_0110_released/)
 - [Cats IO, long running process, is this an anti pattern, correct, or do you have a better idea](https://www.reddit.com/r/scala/comments/1eyqi3c/cats_io_long_running_process_is_this_an_anti/)
-- [Updates About Project Leyden, Loom, and Valhalla](https://www.reddit.com/r/scala/comments/1eylrhz/updates_about_project_leyden_loom_and_valhalla/)
-- [Scala 3.5.0 released](https://www.reddit.com/r/scala/comments/1eyjx9h/scala_350_released/)
-- [Is this the right place?](https://www.reddit.com/r/scala/comments/1eygap3/is_this_the_right_place/)
-- [Invoking type classes at compile-time in Scala 3](https://www.reddit.com/r/scala/comments/1eye5j1/invoking_type_classes_at_compiletime_in_scala_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

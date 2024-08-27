@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Streaming Hash Computations](https://www.reddit.com/r/scala/comments/1f1y41w/streaming_hash_computations/)
+- [New library: leases4s](https://www.reddit.com/r/scala/comments/1f1qqzs/new_library_leases4s/)
 - [continued : problem with setting up spark](https://www.reddit.com/r/scala/comments/1f14oyp/continued_problem_with_setting_up_spark/)
 - [This week in #Scala &lpar;Aug 26, 2024&rpar;](https://www.reddit.com/r/scala/comments/1f0ydzd/this_week_in_scala_aug_26_2024/)
 - [Vector search on Lucene with Scala](https://www.reddit.com/r/scala/comments/1f0qz4j/vector_search_on_lucene_with_scala/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Am I dense? I can&#39;t figure out how to register for this course course in audit mode](https://www.reddit.com/r/scala/comments/1f0cl3i/am_i_dense_i_cant_figure_out_how_to_register_for/)
 - [ClassNotFoundException in spark](https://www.reddit.com/r/scala/comments/1f01s7r/classnotfoundexception_in_spark/)
 - [How does Scala compares to other FP languages?](https://www.reddit.com/r/scala/comments/1ezr6os/how_does_scala_compares_to_other_fp_languages/)
-- [Kyo 0.11.0 released! 🚀](https://www.reddit.com/r/scala/comments/1ezlcdj/kyo_0110_released/)
-- [Cats IO, long running process, is this an anti pattern, correct, or do you have a better idea](https://www.reddit.com/r/scala/comments/1eyqi3c/cats_io_long_running_process_is_this_an_anti/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

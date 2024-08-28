@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ex-Scala Developer Coming Back to Scala](https://www.reddit.com/r/scala/comments/1f2qe6m/exscala_developer_coming_back_to_scala/)
+- [Top of the Pops, IEEE Spectrum Edition 2024](https://www.reddit.com/r/scala/comments/1f2hes2/top_of_the_pops_ieee_spectrum_edition_2024/)
 - [Streaming Hash Computations](https://www.reddit.com/r/scala/comments/1f1y41w/streaming_hash_computations/)
 - [New library: leases4s](https://www.reddit.com/r/scala/comments/1f1qqzs/new_library_leases4s/)
 - [continued : problem with setting up spark](https://www.reddit.com/r/scala/comments/1f14oyp/continued_problem_with_setting_up_spark/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [scalaxb 1.12.1 released](https://www.reddit.com/r/scala/comments/1f0oh9a/scalaxb_1121_released/)
 - [instant-scala - Wrapper script over scala-cli/graalvm for scala script with instant-startup time](https://www.reddit.com/r/scala/comments/1f0dvjf/instantscala_wrapper_script_over_scalacligraalvm/)
 - [Am I dense? I can&#39;t figure out how to register for this course course in audit mode](https://www.reddit.com/r/scala/comments/1f0cl3i/am_i_dense_i_cant_figure_out_how_to_register_for/)
-- [ClassNotFoundException in spark](https://www.reddit.com/r/scala/comments/1f01s7r/classnotfoundexception_in_spark/)
-- [How does Scala compares to other FP languages?](https://www.reddit.com/r/scala/comments/1ezr6os/how_does_scala_compares_to_other_fp_languages/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

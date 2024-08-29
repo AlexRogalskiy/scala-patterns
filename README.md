@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Future Software Engineer](https://www.reddit.com/r/scala/comments/1f3atav/the_future_software_engineer/)
 - [Ex-Scala Developer Coming Back to Scala](https://www.reddit.com/r/scala/comments/1f2qe6m/exscala_developer_coming_back_to_scala/)
 - [Top of the Pops, IEEE Spectrum Edition 2024](https://www.reddit.com/r/scala/comments/1f2hes2/top_of_the_pops_ieee_spectrum_edition_2024/)
 - [Streaming Hash Computations](https://www.reddit.com/r/scala/comments/1f1y41w/streaming_hash_computations/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Vector search on Lucene with Scala](https://www.reddit.com/r/scala/comments/1f0qz4j/vector_search_on_lucene_with_scala/)
 - [scalaxb 1.12.1 released](https://www.reddit.com/r/scala/comments/1f0oh9a/scalaxb_1121_released/)
 - [instant-scala - Wrapper script over scala-cli/graalvm for scala script with instant-startup time](https://www.reddit.com/r/scala/comments/1f0dvjf/instantscala_wrapper_script_over_scalacligraalvm/)
-- [Am I dense? I can&#39;t figure out how to register for this course course in audit mode](https://www.reddit.com/r/scala/comments/1f0cl3i/am_i_dense_i_cant_figure_out_how_to_register_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

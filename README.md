@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Improvements on this?](https://www.reddit.com/r/scala/comments/1f44gc0/improvements_on_this/)
+- [Squery SQL library](https://www.reddit.com/r/scala/comments/1f40kaq/squery_sql_library/)
 - [The Future Software Engineer](https://www.reddit.com/r/scala/comments/1f3atav/the_future_software_engineer/)
 - [Ex-Scala Developer Coming Back to Scala](https://www.reddit.com/r/scala/comments/1f2qe6m/exscala_developer_coming_back_to_scala/)
 - [Top of the Pops, IEEE Spectrum Edition 2024](https://www.reddit.com/r/scala/comments/1f2hes2/top_of_the_pops_ieee_spectrum_edition_2024/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [continued : problem with setting up spark](https://www.reddit.com/r/scala/comments/1f14oyp/continued_problem_with_setting_up_spark/)
 - [This week in #Scala &lpar;Aug 26, 2024&rpar;](https://www.reddit.com/r/scala/comments/1f0ydzd/this_week_in_scala_aug_26_2024/)
 - [Vector search on Lucene with Scala](https://www.reddit.com/r/scala/comments/1f0qz4j/vector_search_on_lucene_with_scala/)
-- [scalaxb 1.12.1 released](https://www.reddit.com/r/scala/comments/1f0oh9a/scalaxb_1121_released/)
-- [instant-scala - Wrapper script over scala-cli/graalvm for scala script with instant-startup time](https://www.reddit.com/r/scala/comments/1f0dvjf/instantscala_wrapper_script_over_scalacligraalvm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Converting types to strings in Scala 3](https://www.reddit.com/r/scala/comments/1f4wttz/converting_types_to_strings_in_scala_3/)
+- [Scala conferences in September | Scalendar](https://www.reddit.com/r/scala/comments/1f4vi4r/scala_conferences_in_september_scalendar/)
+- [Choosing between Rust and Scala for my future years as an Engineer. How do you visualize Scala job market in the near future? [Crosspost with r/Rust]](https://www.reddit.com/r/scala/comments/1f4tn37/choosing_between_rust_and_scala_for_my_future/)
+- [How can I use a case class copy method for an arbitrary type and attribute? [scala 2.13.X]](https://www.reddit.com/r/scala/comments/1f4rtjn/how_can_i_use_a_case_class_copy_method_for_an/)
 - [Improvements on this?](https://www.reddit.com/r/scala/comments/1f44gc0/improvements_on_this/)
 - [Squery SQL library](https://www.reddit.com/r/scala/comments/1f40kaq/squery_sql_library/)
 - [The Future Software Engineer](https://www.reddit.com/r/scala/comments/1f3atav/the_future_software_engineer/)
 - [Ex-Scala Developer Coming Back to Scala](https://www.reddit.com/r/scala/comments/1f2qe6m/exscala_developer_coming_back_to_scala/)
 - [Top of the Pops, IEEE Spectrum Edition 2024](https://www.reddit.com/r/scala/comments/1f2hes2/top_of_the_pops_ieee_spectrum_edition_2024/)
 - [Streaming Hash Computations](https://www.reddit.com/r/scala/comments/1f1y41w/streaming_hash_computations/)
-- [New library: leases4s](https://www.reddit.com/r/scala/comments/1f1qqzs/new_library_leases4s/)
-- [continued : problem with setting up spark](https://www.reddit.com/r/scala/comments/1f14oyp/continued_problem_with_setting_up_spark/)
-- [This week in #Scala &lpar;Aug 26, 2024&rpar;](https://www.reddit.com/r/scala/comments/1f0ydzd/this_week_in_scala_aug_26_2024/)
-- [Vector search on Lucene with Scala](https://www.reddit.com/r/scala/comments/1f0qz4j/vector_search_on_lucene_with_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

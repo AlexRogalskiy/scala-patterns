@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Writing an Android app with Scala.js](https://www.reddit.com/r/scala/comments/1f5lpir/writing_an_android_app_with_scalajs/)
+- [Helenus for Scala 3](https://www.reddit.com/r/scala/comments/1f5ics9/helenus_for_scala_3/)
 - [Converting types to strings in Scala 3](https://www.reddit.com/r/scala/comments/1f4wttz/converting_types_to_strings_in_scala_3/)
 - [Scala conferences in September | Scalendar](https://www.reddit.com/r/scala/comments/1f4vi4r/scala_conferences_in_september_scalendar/)
 - [Choosing between Rust and Scala for my future years as an Engineer. How do you visualize Scala job market in the near future? [Crosspost with r/Rust]](https://www.reddit.com/r/scala/comments/1f4tn37/choosing_between_rust_and_scala_for_my_future/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Squery SQL library](https://www.reddit.com/r/scala/comments/1f40kaq/squery_sql_library/)
 - [The Future Software Engineer](https://www.reddit.com/r/scala/comments/1f3atav/the_future_software_engineer/)
 - [Ex-Scala Developer Coming Back to Scala](https://www.reddit.com/r/scala/comments/1f2qe6m/exscala_developer_coming_back_to_scala/)
-- [Top of the Pops, IEEE Spectrum Edition 2024](https://www.reddit.com/r/scala/comments/1f2hes2/top_of_the_pops_ieee_spectrum_edition_2024/)
-- [Streaming Hash Computations](https://www.reddit.com/r/scala/comments/1f1y41w/streaming_hash_computations/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

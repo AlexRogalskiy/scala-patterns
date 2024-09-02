@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Sep 1, 2024&rpar;](https://www.reddit.com/r/scala/comments/1f6gmdm/this_week_in_scala_sep_1_2024/)
+- [Does having a scala job puts you at a disadvantage when applying for a java role?](https://www.reddit.com/r/scala/comments/1f6clbg/does_having_a_scala_job_puts_you_at_a/)
 - [Writing an Android app with Scala.js](https://www.reddit.com/r/scala/comments/1f5lpir/writing_an_android_app_with_scalajs/)
 - [Helenus for Scala 3](https://www.reddit.com/r/scala/comments/1f5ics9/helenus_for_scala_3/)
 - [Converting types to strings in Scala 3](https://www.reddit.com/r/scala/comments/1f4wttz/converting_types_to_strings_in_scala_3/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How can I use a case class copy method for an arbitrary type and attribute? [scala 2.13.X]](https://www.reddit.com/r/scala/comments/1f4rtjn/how_can_i_use_a_case_class_copy_method_for_an/)
 - [Improvements on this?](https://www.reddit.com/r/scala/comments/1f44gc0/improvements_on_this/)
 - [Squery SQL library](https://www.reddit.com/r/scala/comments/1f40kaq/squery_sql_library/)
-- [The Future Software Engineer](https://www.reddit.com/r/scala/comments/1f3atav/the_future_software_engineer/)
-- [Ex-Scala Developer Coming Back to Scala](https://www.reddit.com/r/scala/comments/1f2qe6m/exscala_developer_coming_back_to_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This is the last week to submit a proposal for ScalaIO &lpar;November 2024&rpar;](https://www.reddit.com/r/scala/comments/1f79tdm/this_is_the_last_week_to_submit_a_proposal_for/)
+- [Started Learning Scala Today starting with Functions Loving it](https://www.reddit.com/r/scala/comments/1f76dmm/started_learning_scala_today_starting_with/)
 - [This week in #Scala &lpar;Sep 1, 2024&rpar;](https://www.reddit.com/r/scala/comments/1f6gmdm/this_week_in_scala_sep_1_2024/)
 - [Does having a scala job puts you at a disadvantage when applying for a java role?](https://www.reddit.com/r/scala/comments/1f6clbg/does_having_a_scala_job_puts_you_at_a/)
 - [Writing an Android app with Scala.js](https://www.reddit.com/r/scala/comments/1f5lpir/writing_an_android_app_with_scalajs/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala conferences in September | Scalendar](https://www.reddit.com/r/scala/comments/1f4vi4r/scala_conferences_in_september_scalendar/)
 - [Choosing between Rust and Scala for my future years as an Engineer. How do you visualize Scala job market in the near future? [Crosspost with r/Rust]](https://www.reddit.com/r/scala/comments/1f4tn37/choosing_between_rust_and_scala_for_my_future/)
 - [How can I use a case class copy method for an arbitrary type and attribute? [scala 2.13.X]](https://www.reddit.com/r/scala/comments/1f4rtjn/how_can_i_use_a_case_class_copy_method_for_an/)
-- [Improvements on this?](https://www.reddit.com/r/scala/comments/1f44gc0/improvements_on_this/)
-- [Squery SQL library](https://www.reddit.com/r/scala/comments/1f40kaq/squery_sql_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

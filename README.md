@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Punteros inteligentes en C++](https://www.reddit.com/r/scala/comments/1f8hrsn/punteros_inteligentes_en_c/)
+- [scala.sys.process assistance](https://www.reddit.com/r/scala/comments/1f8cytb/scalasysprocess_assistance/)
+- [Going back to Java or jumping to Elixir?](https://www.reddit.com/r/scala/comments/1f86vot/going_back_to_java_or_jumping_to_elixir/)
+- [`com.lihaoyi` issue bounties, September 2024 edition](https://www.reddit.com/r/scala/comments/1f80olq/comlihaoyi_issue_bounties_september_2024_edition/)
+- [Spark runs on Scala 2.12/2.13. Is there a plan to update Spark to Scala 3?](https://www.reddit.com/r/scala/comments/1f7sc0u/spark_runs_on_scala_212213_is_there_a_plan_to/)
+- [Someone asked me what the difference between a case object and a normal object is...](https://www.reddit.com/r/scala/comments/1f7p6fv/someone_asked_me_what_the_difference_between_a/)
 - [This is the last week to submit a proposal for ScalaIO &lpar;November 2024&rpar;](https://www.reddit.com/r/scala/comments/1f79tdm/this_is_the_last_week_to_submit_a_proposal_for/)
 - [Started Learning Scala Today starting with Functions Loving it](https://www.reddit.com/r/scala/comments/1f76dmm/started_learning_scala_today_starting_with/)
 - [This week in #Scala &lpar;Sep 1, 2024&rpar;](https://www.reddit.com/r/scala/comments/1f6gmdm/this_week_in_scala_sep_1_2024/)
 - [Does having a scala job puts you at a disadvantage when applying for a java role?](https://www.reddit.com/r/scala/comments/1f6clbg/does_having_a_scala_job_puts_you_at_a/)
-- [Writing an Android app with Scala.js](https://www.reddit.com/r/scala/comments/1f5lpir/writing_an_android_app_with_scalajs/)
-- [Helenus for Scala 3](https://www.reddit.com/r/scala/comments/1f5ics9/helenus_for_scala_3/)
-- [Converting types to strings in Scala 3](https://www.reddit.com/r/scala/comments/1f4wttz/converting_types_to_strings_in_scala_3/)
-- [Scala conferences in September | Scalendar](https://www.reddit.com/r/scala/comments/1f4vi4r/scala_conferences_in_september_scalendar/)
-- [Choosing between Rust and Scala for my future years as an Engineer. How do you visualize Scala job market in the near future? [Crosspost with r/Rust]](https://www.reddit.com/r/scala/comments/1f4tn37/choosing_between_rust_and_scala_for_my_future/)
-- [How can I use a case class copy method for an arbitrary type and attribute? [scala 2.13.X]](https://www.reddit.com/r/scala/comments/1f4rtjn/how_can_i_use_a_case_class_copy_method_for_an/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

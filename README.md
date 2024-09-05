@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 2.12.20 is here](https://www.reddit.com/r/scala/comments/1f8wkmb/scala_21220_is_here/)
+- [Upgrading to Play 2.9 leads to 503 - upstream connect error or disconnect/reset before headers. reset reason: connection termination for Test Clients](https://www.reddit.com/r/scala/comments/1f8pxec/upgrading_to_play_29_leads_to_503_upstream/)
 - [Punteros inteligentes en C++](https://www.reddit.com/r/scala/comments/1f8hrsn/punteros_inteligentes_en_c/)
 - [scala.sys.process assistance](https://www.reddit.com/r/scala/comments/1f8cytb/scalasysprocess_assistance/)
 - [Going back to Java or jumping to Elixir?](https://www.reddit.com/r/scala/comments/1f86vot/going_back_to_java_or_jumping_to_elixir/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Someone asked me what the difference between a case object and a normal object is...](https://www.reddit.com/r/scala/comments/1f7p6fv/someone_asked_me_what_the_difference_between_a/)
 - [This is the last week to submit a proposal for ScalaIO &lpar;November 2024&rpar;](https://www.reddit.com/r/scala/comments/1f79tdm/this_is_the_last_week_to_submit_a_proposal_for/)
 - [Started Learning Scala Today starting with Functions Loving it](https://www.reddit.com/r/scala/comments/1f76dmm/started_learning_scala_today_starting_with/)
-- [This week in #Scala &lpar;Sep 1, 2024&rpar;](https://www.reddit.com/r/scala/comments/1f6gmdm/this_week_in_scala_sep_1_2024/)
-- [Does having a scala job puts you at a disadvantage when applying for a java role?](https://www.reddit.com/r/scala/comments/1f6clbg/does_having_a_scala_job_puts_you_at_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

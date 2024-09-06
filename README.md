@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Are you aware of an open source project wanting help to migrate to Scala 3?](https://www.reddit.com/r/scala/comments/1f9pv6g/are_you_aware_of_an_open_source_project_wanting/)
+- [usql released, small JDBC wrapper](https://www.reddit.com/r/scala/comments/1f9lctt/usql_released_small_jdbc_wrapper/)
+- [Apache Pekko 1.1.0 has been released](https://www.reddit.com/r/scala/comments/1f9g1re/apache_pekko_110_has_been_released/)
 - [Scala 2.12.20 is here](https://www.reddit.com/r/scala/comments/1f8wkmb/scala_21220_is_here/)
 - [Upgrading to Play 2.9 leads to 503 - upstream connect error or disconnect/reset before headers. reset reason: connection termination for Test Clients](https://www.reddit.com/r/scala/comments/1f8pxec/upgrading_to_play_29_leads_to_503_upstream/)
 - [Punteros inteligentes en C++](https://www.reddit.com/r/scala/comments/1f8hrsn/punteros_inteligentes_en_c/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Going back to Java or jumping to Elixir?](https://www.reddit.com/r/scala/comments/1f86vot/going_back_to_java_or_jumping_to_elixir/)
 - [`com.lihaoyi` issue bounties, September 2024 edition](https://www.reddit.com/r/scala/comments/1f80olq/comlihaoyi_issue_bounties_september_2024_edition/)
 - [Spark runs on Scala 2.12/2.13. Is there a plan to update Spark to Scala 3?](https://www.reddit.com/r/scala/comments/1f7sc0u/spark_runs_on_scala_212213_is_there_a_plan_to/)
-- [Someone asked me what the difference between a case object and a normal object is...](https://www.reddit.com/r/scala/comments/1f7p6fv/someone_asked_me_what_the_difference_between_a/)
-- [This is the last week to submit a proposal for ScalaIO &lpar;November 2024&rpar;](https://www.reddit.com/r/scala/comments/1f79tdm/this_is_the_last_week_to_submit_a_proposal_for/)
-- [Started Learning Scala Today starting with Functions Loving it](https://www.reddit.com/r/scala/comments/1f76dmm/started_learning_scala_today_starting_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

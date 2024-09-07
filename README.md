@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to get better at the functional part of Scala?](https://www.reddit.com/r/scala/comments/1fat1w4/how_to_get_better_at_the_functional_part_of_scala/)
+- [GOTO Considered Harmful](https://www.reddit.com/r/scala/comments/1faqejc/goto_considered_harmful/)
+- [Video: Capabilities for Control - Martin Ordersky @ ICFP](https://www.reddit.com/r/scala/comments/1fajwub/video_capabilities_for_control_martin_ordersky/)
+- [Scala Space Podcast: Smithy and IDL universe with Olivier Melois](https://www.reddit.com/r/scala/comments/1facb3r/scala_space_podcast_smithy_and_idl_universe_with/)
+- [What JVM flags do you use on your projects?](https://www.reddit.com/r/scala/comments/1fabl2h/what_jvm_flags_do_you_use_on_your_projects/)
+- [Can you recommend me a Scala programming news feed/newsletter?](https://www.reddit.com/r/scala/comments/1fa9u8n/can_you_recommend_me_a_scala_programming_news/)
 - [Are you aware of an open source project wanting help to migrate to Scala 3?](https://www.reddit.com/r/scala/comments/1f9pv6g/are_you_aware_of_an_open_source_project_wanting/)
 - [usql released, small JDBC wrapper](https://www.reddit.com/r/scala/comments/1f9lctt/usql_released_small_jdbc_wrapper/)
 - [Apache Pekko 1.1.0 has been released](https://www.reddit.com/r/scala/comments/1f9g1re/apache_pekko_110_has_been_released/)
 - [Scala 2.12.20 is here](https://www.reddit.com/r/scala/comments/1f8wkmb/scala_21220_is_here/)
-- [Upgrading to Play 2.9 leads to 503 - upstream connect error or disconnect/reset before headers. reset reason: connection termination for Test Clients](https://www.reddit.com/r/scala/comments/1f8pxec/upgrading_to_play_29_leads_to_503_upstream/)
-- [Punteros inteligentes en C++](https://www.reddit.com/r/scala/comments/1f8hrsn/punteros_inteligentes_en_c/)
-- [scala.sys.process assistance](https://www.reddit.com/r/scala/comments/1f8cytb/scalasysprocess_assistance/)
-- [Going back to Java or jumping to Elixir?](https://www.reddit.com/r/scala/comments/1f86vot/going_back_to_java_or_jumping_to_elixir/)
-- [`com.lihaoyi` issue bounties, September 2024 edition](https://www.reddit.com/r/scala/comments/1f80olq/comlihaoyi_issue_bounties_september_2024_edition/)
-- [Spark runs on Scala 2.12/2.13. Is there a plan to update Spark to Scala 3?](https://www.reddit.com/r/scala/comments/1f7sc0u/spark_runs_on_scala_212213_is_there_a_plan_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

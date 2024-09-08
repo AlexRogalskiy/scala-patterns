@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there something im missing using Java Mail with Scala?](https://www.reddit.com/r/scala/comments/1fbj0s7/is_there_something_im_missing_using_java_mail/)
+- [Is it possible to use spring with java and scala together?](https://www.reddit.com/r/scala/comments/1fb91cb/is_it_possible_to_use_spring_with_java_and_scala/)
 - [How to get better at the functional part of Scala?](https://www.reddit.com/r/scala/comments/1fat1w4/how_to_get_better_at_the_functional_part_of_scala/)
 - [GOTO Considered Harmful](https://www.reddit.com/r/scala/comments/1faqejc/goto_considered_harmful/)
 - [Video: Capabilities for Control - Martin Ordersky @ ICFP](https://www.reddit.com/r/scala/comments/1fajwub/video_capabilities_for_control_martin_ordersky/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Can you recommend me a Scala programming news feed/newsletter?](https://www.reddit.com/r/scala/comments/1fa9u8n/can_you_recommend_me_a_scala_programming_news/)
 - [Are you aware of an open source project wanting help to migrate to Scala 3?](https://www.reddit.com/r/scala/comments/1f9pv6g/are_you_aware_of_an_open_source_project_wanting/)
 - [usql released, small JDBC wrapper](https://www.reddit.com/r/scala/comments/1f9lctt/usql_released_small_jdbc_wrapper/)
-- [Apache Pekko 1.1.0 has been released](https://www.reddit.com/r/scala/comments/1f9g1re/apache_pekko_110_has_been_released/)
-- [Scala 2.12.20 is here](https://www.reddit.com/r/scala/comments/1f8wkmb/scala_21220_is_here/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

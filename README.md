@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The History of Object-Oriented Programming - Uncle Bob](https://www.reddit.com/r/scala/comments/1fcajjs/the_history_of_objectoriented_programming_uncle/)
+- [Suggest backend framework](https://www.reddit.com/r/scala/comments/1fbyr4h/suggest_backend_framework/)
+- [This week in #Scala &lpar;Sep 9, 2024&rpar;](https://www.reddit.com/r/scala/comments/1fbymxc/this_week_in_scala_sep_9_2024/)
+- [What is your opinion about Gears and Caprese?](https://www.reddit.com/r/scala/comments/1fbuudy/what_is_your_opinion_about_gears_and_caprese/)
 - [Is there something im missing using Java Mail with Scala?](https://www.reddit.com/r/scala/comments/1fbj0s7/is_there_something_im_missing_using_java_mail/)
 - [Is it possible to use spring with java and scala together?](https://www.reddit.com/r/scala/comments/1fb91cb/is_it_possible_to_use_spring_with_java_and_scala/)
 - [How to get better at the functional part of Scala?](https://www.reddit.com/r/scala/comments/1fat1w4/how_to_get_better_at_the_functional_part_of_scala/)
 - [GOTO Considered Harmful](https://www.reddit.com/r/scala/comments/1faqejc/goto_considered_harmful/)
 - [Video: Capabilities for Control - Martin Ordersky @ ICFP](https://www.reddit.com/r/scala/comments/1fajwub/video_capabilities_for_control_martin_ordersky/)
 - [Scala Space Podcast: Smithy and IDL universe with Olivier Melois](https://www.reddit.com/r/scala/comments/1facb3r/scala_space_podcast_smithy_and_idl_universe_with/)
-- [What JVM flags do you use on your projects?](https://www.reddit.com/r/scala/comments/1fabl2h/what_jvm_flags_do_you_use_on_your_projects/)
-- [Can you recommend me a Scala programming news feed/newsletter?](https://www.reddit.com/r/scala/comments/1fa9u8n/can_you_recommend_me_a_scala_programming_news/)
-- [Are you aware of an open source project wanting help to migrate to Scala 3?](https://www.reddit.com/r/scala/comments/1f9pv6g/are_you_aware_of_an_open_source_project_wanting/)
-- [usql released, small JDBC wrapper](https://www.reddit.com/r/scala/comments/1f9lctt/usql_released_small_jdbc_wrapper/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

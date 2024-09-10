@@ -271,7 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The History of Object-Oriented Programming - Uncle Bob](https://www.reddit.com/r/scala/comments/1fcajjs/the_history_of_objectoriented_programming_uncle/)
+- [Mill 0.12.0-RC1 is out, if you use Mill please take a look and try it out!](https://www.reddit.com/r/scala/comments/1fcqo01/mill_0120rc1_is_out_if_you_use_mill_please_take_a/)
+- [Trying to setup Scala, wrong JVM version used](https://www.reddit.com/r/scala/comments/1fcngb8/trying_to_setup_scala_wrong_jvm_version_used/)
+- [sudori part 5](https://www.reddit.com/r/scala/comments/1fci33c/sudori_part_5/)
 - [Suggest backend framework](https://www.reddit.com/r/scala/comments/1fbyr4h/suggest_backend_framework/)
 - [This week in #Scala &lpar;Sep 9, 2024&rpar;](https://www.reddit.com/r/scala/comments/1fbymxc/this_week_in_scala_sep_9_2024/)
 - [What is your opinion about Gears and Caprese?](https://www.reddit.com/r/scala/comments/1fbuudy/what_is_your_opinion_about_gears_and_caprese/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Is it possible to use spring with java and scala together?](https://www.reddit.com/r/scala/comments/1fb91cb/is_it_possible_to_use_spring_with_java_and_scala/)
 - [How to get better at the functional part of Scala?](https://www.reddit.com/r/scala/comments/1fat1w4/how_to_get_better_at_the_functional_part_of_scala/)
 - [GOTO Considered Harmful](https://www.reddit.com/r/scala/comments/1faqejc/goto_considered_harmful/)
-- [Video: Capabilities for Control - Martin Ordersky @ ICFP](https://www.reddit.com/r/scala/comments/1fajwub/video_capabilities_for_control_martin_ordersky/)
-- [Scala Space Podcast: Smithy and IDL universe with Olivier Melois](https://www.reddit.com/r/scala/comments/1facb3r/scala_space_podcast_smithy_and_idl_universe_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

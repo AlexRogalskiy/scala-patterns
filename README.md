@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [OS-Lib 0.10.7 is out with support for literal multi-segment subpaths](https://www.reddit.com/r/scala/comments/1fdy9ua/oslib_0107_is_out_with_support_for_literal/)
+- [Just one more type of type bro, I swear..](https://www.reddit.com/r/scala/comments/1fdr5i6/just_one_more_type_of_type_bro_i_swear/)
+- [dotty-cps-async-0.9.22 is on maven central](https://www.reddit.com/r/scala/comments/1fdfbou/dottycpsasync0922_is_on_maven_central/)
 - [Mill 0.12.0-RC1 is out, if you use Mill please take a look and try it out!](https://www.reddit.com/r/scala/comments/1fcqo01/mill_0120rc1_is_out_if_you_use_mill_please_take_a/)
 - [Trying to setup Scala, wrong JVM version used](https://www.reddit.com/r/scala/comments/1fcngb8/trying_to_setup_scala_wrong_jvm_version_used/)
 - [sudori part 5](https://www.reddit.com/r/scala/comments/1fci33c/sudori_part_5/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Sep 9, 2024&rpar;](https://www.reddit.com/r/scala/comments/1fbymxc/this_week_in_scala_sep_9_2024/)
 - [What is your opinion about Gears and Caprese?](https://www.reddit.com/r/scala/comments/1fbuudy/what_is_your_opinion_about_gears_and_caprese/)
 - [Is there something im missing using Java Mail with Scala?](https://www.reddit.com/r/scala/comments/1fbj0s7/is_there_something_im_missing_using_java_mail/)
-- [Is it possible to use spring with java and scala together?](https://www.reddit.com/r/scala/comments/1fb91cb/is_it_possible_to_use_spring_with_java_and_scala/)
-- [How to get better at the functional part of Scala?](https://www.reddit.com/r/scala/comments/1fat1w4/how_to_get_better_at_the_functional_part_of_scala/)
-- [GOTO Considered Harmful](https://www.reddit.com/r/scala/comments/1faqejc/goto_considered_harmful/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

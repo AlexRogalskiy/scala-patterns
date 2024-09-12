@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best resources](https://www.reddit.com/r/scala/comments/1fepddx/best_resources/)
+- [Help with sbt GitHub Package Plugin: Can&#39;t Resolve Classes in My Library](https://www.reddit.com/r/scala/comments/1fedmzy/help_with_sbt_github_package_plugin_cant_resolve/)
+- [Generics vs defining operations and programmer experience.](https://www.reddit.com/r/scala/comments/1fedbky/generics_vs_defining_operations_and_programmer/)
+- [Books about type level programming in scala 3?](https://www.reddit.com/r/scala/comments/1fe5ep8/books_about_type_level_programming_in_scala_3/)
 - [OS-Lib 0.10.7 is out with support for literal multi-segment subpaths](https://www.reddit.com/r/scala/comments/1fdy9ua/oslib_0107_is_out_with_support_for_literal/)
 - [Just one more type of type bro, I swear..](https://www.reddit.com/r/scala/comments/1fdr5i6/just_one_more_type_of_type_bro_i_swear/)
 - [dotty-cps-async-0.9.22 is on maven central](https://www.reddit.com/r/scala/comments/1fdfbou/dottycpsasync0922_is_on_maven_central/)
 - [Mill 0.12.0-RC1 is out, if you use Mill please take a look and try it out!](https://www.reddit.com/r/scala/comments/1fcqo01/mill_0120rc1_is_out_if_you_use_mill_please_take_a/)
 - [Trying to setup Scala, wrong JVM version used](https://www.reddit.com/r/scala/comments/1fcngb8/trying_to_setup_scala_wrong_jvm_version_used/)
 - [sudori part 5](https://www.reddit.com/r/scala/comments/1fci33c/sudori_part_5/)
-- [Suggest backend framework](https://www.reddit.com/r/scala/comments/1fbyr4h/suggest_backend_framework/)
-- [This week in #Scala &lpar;Sep 9, 2024&rpar;](https://www.reddit.com/r/scala/comments/1fbymxc/this_week_in_scala_sep_9_2024/)
-- [What is your opinion about Gears and Caprese?](https://www.reddit.com/r/scala/comments/1fbuudy/what_is_your_opinion_about_gears_and_caprese/)
-- [Is there something im missing using Java Mail with Scala?](https://www.reddit.com/r/scala/comments/1fbj0s7/is_there_something_im_missing_using_java_mail/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Currently Writing a Proof Generator in Scala. I think it&#39;s a fun way of learning a bit about logic.](https://www.reddit.com/r/scala/comments/1ffb8h4/currently_writing_a_proof_generator_in_scala_i/)
+- [ZZSpec - Please Give feedback on PoC library to ease testcontainers + ZIO test](https://www.reddit.com/r/scala/comments/1ff30j1/zzspec_please_give_feedback_on_poc_library_to/)
+- [Scalar Conference 2025 Call for Papers is open](https://www.reddit.com/r/scala/comments/1ff2pvo/scalar_conference_2025_call_for_papers_is_open/)
+- [Apache Fury serialization Framework 0.7.1 released: better serialization compatibility](https://www.reddit.com/r/scala/comments/1ff2o26/apache_fury_serialization_framework_071_released/)
+- [Cats effect + Tagless Final. Why we use two HK types in context bound](https://www.reddit.com/r/scala/comments/1ff16th/cats_effect_tagless_final_why_we_use_two_hk_types/)
+- [Scala job market and transition out of it](https://www.reddit.com/r/scala/comments/1fezl2a/scala_job_market_and_transition_out_of_it/)
+- [Optional parantheses - akin to optional braces in Scala 3](https://www.reddit.com/r/scala/comments/1fey817/optional_parantheses_akin_to_optional_braces_in/)
+- [I have a question about using circe generics in scala3.](https://www.reddit.com/r/scala/comments/1fexpb9/i_have_a_question_about_using_circe_generics_in/)
 - [Best resources](https://www.reddit.com/r/scala/comments/1fepddx/best_resources/)
 - [Help with sbt GitHub Package Plugin: Can&#39;t Resolve Classes in My Library](https://www.reddit.com/r/scala/comments/1fedmzy/help_with_sbt_github_package_plugin_cant_resolve/)
-- [Generics vs defining operations and programmer experience.](https://www.reddit.com/r/scala/comments/1fedbky/generics_vs_defining_operations_and_programmer/)
-- [Books about type level programming in scala 3?](https://www.reddit.com/r/scala/comments/1fe5ep8/books_about_type_level_programming_in_scala_3/)
-- [OS-Lib 0.10.7 is out with support for literal multi-segment subpaths](https://www.reddit.com/r/scala/comments/1fdy9ua/oslib_0107_is_out_with_support_for_literal/)
-- [Just one more type of type bro, I swear..](https://www.reddit.com/r/scala/comments/1fdr5i6/just_one_more_type_of_type_bro_i_swear/)
-- [dotty-cps-async-0.9.22 is on maven central](https://www.reddit.com/r/scala/comments/1fdfbou/dottycpsasync0922_is_on_maven_central/)
-- [Mill 0.12.0-RC1 is out, if you use Mill please take a look and try it out!](https://www.reddit.com/r/scala/comments/1fcqo01/mill_0120rc1_is_out_if_you_use_mill_please_take_a/)
-- [Trying to setup Scala, wrong JVM version used](https://www.reddit.com/r/scala/comments/1fcngb8/trying_to_setup_scala_wrong_jvm_version_used/)
-- [sudori part 5](https://www.reddit.com/r/scala/comments/1fci33c/sudori_part_5/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

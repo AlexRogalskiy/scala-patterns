@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Bracket-less scala3 linter](https://www.reddit.com/r/scala/comments/1fg9a8u/bracketless_scala3_linter/)
+- [Kyo 0.12.0 released 🚀](https://www.reddit.com/r/scala/comments/1fg3n1r/kyo_0120_released/)
+- [Problems using a java library from Scala](https://www.reddit.com/r/scala/comments/1ffwqr0/problems_using_a_java_library_from_scala/)
+- [Linter for Scala 3](https://www.reddit.com/r/scala/comments/1ffw0fr/linter_for_scala_3/)
+- [How to standout as an applicant from java?](https://www.reddit.com/r/scala/comments/1ffkfg3/how_to_standout_as_an_applicant_from_java/)
 - [Currently Writing a Proof Generator in Scala. I think it&#39;s a fun way of learning a bit about logic.](https://www.reddit.com/r/scala/comments/1ffb8h4/currently_writing_a_proof_generator_in_scala_i/)
 - [ZZSpec - Please Give feedback on PoC library to ease testcontainers + ZIO test](https://www.reddit.com/r/scala/comments/1ff30j1/zzspec_please_give_feedback_on_poc_library_to/)
 - [Scalar Conference 2025 Call for Papers is open](https://www.reddit.com/r/scala/comments/1ff2pvo/scalar_conference_2025_call_for_papers_is_open/)
 - [Apache Fury serialization Framework 0.7.1 released: better serialization compatibility](https://www.reddit.com/r/scala/comments/1ff2o26/apache_fury_serialization_framework_071_released/)
 - [Cats effect + Tagless Final. Why we use two HK types in context bound](https://www.reddit.com/r/scala/comments/1ff16th/cats_effect_tagless_final_why_we_use_two_hk_types/)
-- [Scala job market and transition out of it](https://www.reddit.com/r/scala/comments/1fezl2a/scala_job_market_and_transition_out_of_it/)
-- [Optional parantheses - akin to optional braces in Scala 3](https://www.reddit.com/r/scala/comments/1fey817/optional_parantheses_akin_to_optional_braces_in/)
-- [I have a question about using circe generics in scala3.](https://www.reddit.com/r/scala/comments/1fexpb9/i_have_a_question_about_using_circe_generics_in/)
-- [Best resources](https://www.reddit.com/r/scala/comments/1fepddx/best_resources/)
-- [Help with sbt GitHub Package Plugin: Can&#39;t Resolve Classes in My Library](https://www.reddit.com/r/scala/comments/1fedmzy/help_with_sbt_github_package_plugin_cant_resolve/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

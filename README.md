@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help - Junior](https://www.reddit.com/r/scala/comments/1fgxhqa/help_junior/)
 - [Bracket-less scala3 linter](https://www.reddit.com/r/scala/comments/1fg9a8u/bracketless_scala3_linter/)
 - [Kyo 0.12.0 released 🚀](https://www.reddit.com/r/scala/comments/1fg3n1r/kyo_0120_released/)
 - [Problems using a java library from Scala](https://www.reddit.com/r/scala/comments/1ffwqr0/problems_using_a_java_library_from_scala/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ZZSpec - Please Give feedback on PoC library to ease testcontainers + ZIO test](https://www.reddit.com/r/scala/comments/1ff30j1/zzspec_please_give_feedback_on_poc_library_to/)
 - [Scalar Conference 2025 Call for Papers is open](https://www.reddit.com/r/scala/comments/1ff2pvo/scalar_conference_2025_call_for_papers_is_open/)
 - [Apache Fury serialization Framework 0.7.1 released: better serialization compatibility](https://www.reddit.com/r/scala/comments/1ff2o26/apache_fury_serialization_framework_071_released/)
-- [Cats effect + Tagless Final. Why we use two HK types in context bound](https://www.reddit.com/r/scala/comments/1ff16th/cats_effect_tagless_final_why_we_use_two_hk_types/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

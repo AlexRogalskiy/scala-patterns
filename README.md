@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [If building a simple web crawler in Scala &lpar;domain-specific, hundreds of pages only&rpar;. Would you use tail recursion or something like BFS and why?](https://www.reddit.com/r/scala/comments/1fhp8yg/if_building_a_simple_web_crawler_in_scala/)
+- [This week in #Scala &lpar;Sep 16, 2024&rpar;](https://www.reddit.com/r/scala/comments/1fhebbj/this_week_in_scala_sep_16_2024/)
+- [SBT Task to Build Frontend Components](https://www.reddit.com/r/scala/comments/1fhczkp/sbt_task_to_build_frontend_components/)
+- [More com.lihaoyi issue bounties](https://www.reddit.com/r/scala/comments/1fh9a5v/more_comlihaoyi_issue_bounties/)
+- [Does Polymorphism depend on Inheritance? - Uncle bob](https://www.reddit.com/r/scala/comments/1fh603h/does_polymorphism_depend_on_inheritance_uncle_bob/)
 - [Help - Junior](https://www.reddit.com/r/scala/comments/1fgxhqa/help_junior/)
 - [Bracket-less scala3 linter](https://www.reddit.com/r/scala/comments/1fg9a8u/bracketless_scala3_linter/)
 - [Kyo 0.12.0 released 🚀](https://www.reddit.com/r/scala/comments/1fg3n1r/kyo_0120_released/)
 - [Problems using a java library from Scala](https://www.reddit.com/r/scala/comments/1ffwqr0/problems_using_a_java_library_from_scala/)
 - [Linter for Scala 3](https://www.reddit.com/r/scala/comments/1ffw0fr/linter_for_scala_3/)
-- [How to standout as an applicant from java?](https://www.reddit.com/r/scala/comments/1ffkfg3/how_to_standout_as_an_applicant_from_java/)
-- [Currently Writing a Proof Generator in Scala. I think it&#39;s a fun way of learning a bit about logic.](https://www.reddit.com/r/scala/comments/1ffb8h4/currently_writing_a_proof_generator_in_scala_i/)
-- [ZZSpec - Please Give feedback on PoC library to ease testcontainers + ZIO test](https://www.reddit.com/r/scala/comments/1ff30j1/zzspec_please_give_feedback_on_poc_library_to/)
-- [Scalar Conference 2025 Call for Papers is open](https://www.reddit.com/r/scala/comments/1ff2pvo/scalar_conference_2025_call_for_papers_is_open/)
-- [Apache Fury serialization Framework 0.7.1 released: better serialization compatibility](https://www.reddit.com/r/scala/comments/1ff2o26/apache_fury_serialization_framework_071_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

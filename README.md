@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Blog post: Fun with Types: All Types of Physics Computations](https://www.reddit.com/r/scala/comments/1fibymq/blog_post_fun_with_types_all_types_of_physics/)
+- [I am new to scala and I am having trouble getting it setup](https://www.reddit.com/r/scala/comments/1fi9ggn/i_am_new_to_scala_and_i_am_having_trouble_getting/)
+- [hkd4s: Higher Kinded Data for Scala 3](https://www.reddit.com/r/scala/comments/1fi2pjp/hkd4s_higher_kinded_data_for_scala_3/)
+- [Scala &amp; Akka: How to secure your code](https://www.reddit.com/r/scala/comments/1fi0ciw/scala_akka_how_to_secure_your_code/)
+- [sbt 1.10.2 released](https://www.reddit.com/r/scala/comments/1fhvq7m/sbt_1102_released/)
 - [If building a simple web crawler in Scala &lpar;domain-specific, hundreds of pages only&rpar;. Would you use tail recursion or something like BFS and why?](https://www.reddit.com/r/scala/comments/1fhp8yg/if_building_a_simple_web_crawler_in_scala/)
 - [This week in #Scala &lpar;Sep 16, 2024&rpar;](https://www.reddit.com/r/scala/comments/1fhebbj/this_week_in_scala_sep_16_2024/)
 - [SBT Task to Build Frontend Components](https://www.reddit.com/r/scala/comments/1fhczkp/sbt_task_to_build_frontend_components/)
 - [More com.lihaoyi issue bounties](https://www.reddit.com/r/scala/comments/1fh9a5v/more_comlihaoyi_issue_bounties/)
 - [Does Polymorphism depend on Inheritance? - Uncle bob](https://www.reddit.com/r/scala/comments/1fh603h/does_polymorphism_depend_on_inheritance_uncle_bob/)
-- [Help - Junior](https://www.reddit.com/r/scala/comments/1fgxhqa/help_junior/)
-- [Bracket-less scala3 linter](https://www.reddit.com/r/scala/comments/1fg9a8u/bracketless_scala3_linter/)
-- [Kyo 0.12.0 released 🚀](https://www.reddit.com/r/scala/comments/1fg3n1r/kyo_0120_released/)
-- [Problems using a java library from Scala](https://www.reddit.com/r/scala/comments/1ffwqr0/problems_using_a_java_library_from_scala/)
-- [Linter for Scala 3](https://www.reddit.com/r/scala/comments/1ffw0fr/linter_for_scala_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

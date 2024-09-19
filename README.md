@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Buf Plugin For SBT](https://www.reddit.com/r/scala/comments/1fjz08u/buf_plugin_for_sbt/)
+- [My book Functional Design and Architecture is finally published!](https://www.reddit.com/r/scala/comments/1fjs7nr/my_book_functional_design_and_architecture_is/)
 - [Typeclasses auto-derived instances uniqueness &lpar;Kittens library&rpar;](https://www.reddit.com/r/scala/comments/1fj9g2f/typeclasses_autoderived_instances_uniqueness/)
 - [DevOps for Developers - challenges?](https://www.reddit.com/r/scala/comments/1fiyy1q/devops_for_developers_challenges/)
 - [The RedMonk Programming Language Rankings: June 2024: Scala jumps two spots](https://www.reddit.com/r/scala/comments/1fix2c6/the_redmonk_programming_language_rankings_june/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [I am new to scala and I am having trouble getting it setup](https://www.reddit.com/r/scala/comments/1fi9ggn/i_am_new_to_scala_and_i_am_having_trouble_getting/)
 - [hkd4s: Higher Kinded Data for Scala 3](https://www.reddit.com/r/scala/comments/1fi2pjp/hkd4s_higher_kinded_data_for_scala_3/)
 - [Scala &amp; Akka: How to secure your code](https://www.reddit.com/r/scala/comments/1fi0ciw/scala_akka_how_to_secure_your_code/)
-- [sbt 1.10.2 released](https://www.reddit.com/r/scala/comments/1fhvq7m/sbt_1102_released/)
-- [If building a simple web crawler in Scala &lpar;domain-specific, hundreds of pages only&rpar;. Would you use tail recursion or something like BFS and why?](https://www.reddit.com/r/scala/comments/1fhp8yg/if_building_a_simple_web_crawler_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

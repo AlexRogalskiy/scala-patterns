@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [gpt-4o-mini&#39;s opinion of Scala](https://www.reddit.com/r/scala/comments/1fknzpq/gpt4ominis_opinion_of_scala/)
+- [New ZIO-powered library for Parquet format](https://www.reddit.com/r/scala/comments/1fkj4nr/new_ziopowered_library_for_parquet_format/)
+- [OpenJDK 23 and GraalVM for JDK 23 Released](https://www.reddit.com/r/scala/comments/1fke9yy/openjdk_23_and_graalvm_for_jdk_23_released/)
+- [Learning resource for beginner fper.](https://www.reddit.com/r/scala/comments/1fkcasf/learning_resource_for_beginner_fper/)
 - [Buf Plugin For SBT](https://www.reddit.com/r/scala/comments/1fjz08u/buf_plugin_for_sbt/)
 - [My book Functional Design and Architecture is finally published!](https://www.reddit.com/r/scala/comments/1fjs7nr/my_book_functional_design_and_architecture_is/)
 - [Typeclasses auto-derived instances uniqueness &lpar;Kittens library&rpar;](https://www.reddit.com/r/scala/comments/1fj9g2f/typeclasses_autoderived_instances_uniqueness/)
 - [DevOps for Developers - challenges?](https://www.reddit.com/r/scala/comments/1fiyy1q/devops_for_developers_challenges/)
 - [The RedMonk Programming Language Rankings: June 2024: Scala jumps two spots](https://www.reddit.com/r/scala/comments/1fix2c6/the_redmonk_programming_language_rankings_june/)
 - [JavaFX and developing Android apps in Scala](https://www.reddit.com/r/scala/comments/1fitsik/javafx_and_developing_android_apps_in_scala/)
-- [Blog post: Fun with Types: All Types of Physics Computations](https://www.reddit.com/r/scala/comments/1fibymq/blog_post_fun_with_types_all_types_of_physics/)
-- [I am new to scala and I am having trouble getting it setup](https://www.reddit.com/r/scala/comments/1fi9ggn/i_am_new_to_scala_and_i_am_having_trouble_getting/)
-- [hkd4s: Higher Kinded Data for Scala 3](https://www.reddit.com/r/scala/comments/1fi2pjp/hkd4s_higher_kinded_data_for_scala_3/)
-- [Scala &amp; Akka: How to secure your code](https://www.reddit.com/r/scala/comments/1fi0ciw/scala_akka_how_to_secure_your_code/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Sep 23, 2024&rpar;](https://www.reddit.com/r/scala/comments/1fmt6io/this_week_in_scala_sep_23_2024/)
+- [How I Finally Understood Scala 3 Metaprogramming](https://www.reddit.com/r/scala/comments/1fmo5te/how_i_finally_understood_scala_3_metaprogramming/)
 - [New to Scala](https://www.reddit.com/r/scala/comments/1fli4dk/new_to_scala/)
 - [Just Released the First Version of Lohika, A simple Proof Generator Written in Scala](https://www.reddit.com/r/scala/comments/1fli07n/just_released_the_first_version_of_lohika_a/)
 - [Generating Tests using Scala 3 Macros](https://www.reddit.com/r/scala/comments/1flfou5/generating_tests_using_scala_3_macros/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [gpt-4o-mini&#39;s opinion of Scala](https://www.reddit.com/r/scala/comments/1fknzpq/gpt4ominis_opinion_of_scala/)
 - [New ZIO-powered library for Parquet format](https://www.reddit.com/r/scala/comments/1fkj4nr/new_ziopowered_library_for_parquet_format/)
 - [OpenJDK 23 and GraalVM for JDK 23 Released](https://www.reddit.com/r/scala/comments/1fke9yy/openjdk_23_and_graalvm_for_jdk_23_released/)
-- [Learning resource for beginner fper.](https://www.reddit.com/r/scala/comments/1fkcasf/learning_resource_for_beginner_fper/)
-- [Buf Plugin For SBT](https://www.reddit.com/r/scala/comments/1fjz08u/buf_plugin_for_sbt/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

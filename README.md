@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Laws of software evolution - Kevlin Henney](https://www.reddit.com/r/scala/comments/1fnx0mh/laws_of_software_evolution_kevlin_henney/)
 - [This week in #Scala &lpar;Sep 23, 2024&rpar;](https://www.reddit.com/r/scala/comments/1fmt6io/this_week_in_scala_sep_23_2024/)
 - [How I Finally Understood Scala 3 Metaprogramming](https://www.reddit.com/r/scala/comments/1fmo5te/how_i_finally_understood_scala_3_metaprogramming/)
 - [New to Scala](https://www.reddit.com/r/scala/comments/1fli4dk/new_to_scala/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Build tool like Bazel?](https://www.reddit.com/r/scala/comments/1fl5t50/build_tool_like_bazel/)
 - [gpt-4o-mini&#39;s opinion of Scala](https://www.reddit.com/r/scala/comments/1fknzpq/gpt4ominis_opinion_of_scala/)
 - [New ZIO-powered library for Parquet format](https://www.reddit.com/r/scala/comments/1fkj4nr/new_ziopowered_library_for_parquet_format/)
-- [OpenJDK 23 and GraalVM for JDK 23 Released](https://www.reddit.com/r/scala/comments/1fke9yy/openjdk_23_and_graalvm_for_jdk_23_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

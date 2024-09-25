@@ -271,7 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Laws of software evolution - Kevlin Henney](https://www.reddit.com/r/scala/comments/1fnx0mh/laws_of_software_evolution_kevlin_henney/)
+- [Red Book](https://www.reddit.com/r/scala/comments/1fo5em7/red_book/)
 - [This week in #Scala &lpar;Sep 23, 2024&rpar;](https://www.reddit.com/r/scala/comments/1fmt6io/this_week_in_scala_sep_23_2024/)
 - [How I Finally Understood Scala 3 Metaprogramming](https://www.reddit.com/r/scala/comments/1fmo5te/how_i_finally_understood_scala_3_metaprogramming/)
 - [New to Scala](https://www.reddit.com/r/scala/comments/1fli4dk/new_to_scala/)

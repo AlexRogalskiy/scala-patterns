@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 2.13.15 is here!](https://www.reddit.com/r/scala/comments/1fp9opf/scala_21315_is_here/)
 - [Red Book](https://www.reddit.com/r/scala/comments/1fo5em7/red_book/)
 - [This week in #Scala &lpar;Sep 23, 2024&rpar;](https://www.reddit.com/r/scala/comments/1fmt6io/this_week_in_scala_sep_23_2024/)
 - [How I Finally Understood Scala 3 Metaprogramming](https://www.reddit.com/r/scala/comments/1fmo5te/how_i_finally_understood_scala_3_metaprogramming/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [There’re no trees where we’re going-scary-stuff-less metaprogramming in Scala 3 | Functional World #11](https://www.reddit.com/r/scala/comments/1flc2o6/therere_no_trees_where_were_goingscarystuffless/)
 - [Build tool like Bazel?](https://www.reddit.com/r/scala/comments/1fl5t50/build_tool_like_bazel/)
 - [gpt-4o-mini&#39;s opinion of Scala](https://www.reddit.com/r/scala/comments/1fknzpq/gpt4ominis_opinion_of_scala/)
-- [New ZIO-powered library for Parquet format](https://www.reddit.com/r/scala/comments/1fkj4nr/new_ziopowered_library_for_parquet_format/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

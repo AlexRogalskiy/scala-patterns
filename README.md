@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Announcing Scala.js 1.17.0, with experimental WebAssembly support](https://www.reddit.com/r/scala/comments/1frbi3l/announcing_scalajs_1170_with_experimental/)
+- [Scala to webassembly](https://www.reddit.com/r/scala/comments/1fr4adh/scala_to_webassembly/)
 - [sudori part 6: sbt query](https://www.reddit.com/r/scala/comments/1fpwck4/sudori_part_6_sbt_query/)
 - [Scala 2.13.15 is here!](https://www.reddit.com/r/scala/comments/1fp9opf/scala_21315_is_here/)
 - [Red Book](https://www.reddit.com/r/scala/comments/1fo5em7/red_book/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [New to Scala](https://www.reddit.com/r/scala/comments/1fli4dk/new_to_scala/)
 - [Just Released the First Version of Lohika, A simple Proof Generator Written in Scala](https://www.reddit.com/r/scala/comments/1fli07n/just_released_the_first_version_of_lohika_a/)
 - [Generating Tests using Scala 3 Macros](https://www.reddit.com/r/scala/comments/1flfou5/generating_tests_using_scala_3_macros/)
-- [There’re no trees where we’re going-scary-stuff-less metaprogramming in Scala 3 | Functional World #11](https://www.reddit.com/r/scala/comments/1flc2o6/therere_no_trees_where_were_goingscarystuffless/)
-- [Build tool like Bazel?](https://www.reddit.com/r/scala/comments/1fl5t50/build_tool_like_bazel/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

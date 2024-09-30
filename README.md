@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Sep 30, 2024&rpar;](https://www.reddit.com/r/scala/comments/1fsgh8a/this_week_in_scala_sep_30_2024/)
+- [What is “the” database migration tool in Scala?](https://www.reddit.com/r/scala/comments/1fs7isb/what_is_the_database_migration_tool_in_scala/)
 - [Announcing Scala.js 1.17.0, with experimental WebAssembly support](https://www.reddit.com/r/scala/comments/1frbi3l/announcing_scalajs_1170_with_experimental/)
 - [Scala to webassembly](https://www.reddit.com/r/scala/comments/1fr4adh/scala_to_webassembly/)
 - [sudori part 6: sbt query](https://www.reddit.com/r/scala/comments/1fpwck4/sudori_part_6_sbt_query/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Sep 23, 2024&rpar;](https://www.reddit.com/r/scala/comments/1fmt6io/this_week_in_scala_sep_23_2024/)
 - [How I Finally Understood Scala 3 Metaprogramming](https://www.reddit.com/r/scala/comments/1fmo5te/how_i_finally_understood_scala_3_metaprogramming/)
 - [New to Scala](https://www.reddit.com/r/scala/comments/1fli4dk/new_to_scala/)
-- [Just Released the First Version of Lohika, A simple Proof Generator Written in Scala](https://www.reddit.com/r/scala/comments/1fli07n/just_released_the_first_version_of_lohika_a/)
-- [Generating Tests using Scala 3 Macros](https://www.reddit.com/r/scala/comments/1flfou5/generating_tests_using_scala_3_macros/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

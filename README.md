@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ScalaFx](https://www.reddit.com/r/scala/comments/1fufl82/scalafx/)
+- [Which effect system to learn?](https://www.reddit.com/r/scala/comments/1fuczbt/which_effect_system_to_learn/)
+- [Funny projects for learn scala](https://www.reddit.com/r/scala/comments/1fuccsq/funny_projects_for_learn_scala/)
+- [Scala without effect systems. The Martin Odersky way.](https://www.reddit.com/r/scala/comments/1fubrls/scala_without_effect_systems_the_martin_odersky/)
 - [Need advice on database calls with pure JDBC](https://www.reddit.com/r/scala/comments/1fu0tmd/need_advice_on_database_calls_with_pure_jdbc/)
 - [Study buddy/group for RED BOOK](https://www.reddit.com/r/scala/comments/1ftd1w6/study_buddygroup_for_red_book/)
 - [Does anyone else get confused by the python quiet syntax?](https://www.reddit.com/r/scala/comments/1ftbcxe/does_anyone_else_get_confused_by_the_python_quiet/)
 - [Why Copilot is Making Programmers Worse at Programming](https://www.reddit.com/r/scala/comments/1ft5rys/why_copilot_is_making_programmers_worse_at/)
 - [Scala meetups &amp; conferences | Scalendar October 2024](https://www.reddit.com/r/scala/comments/1fsxo5f/scala_meetups_conferences_scalendar_october_2024/)
 - [What is the current ML/AI stack in Scala?](https://www.reddit.com/r/scala/comments/1fsnp1o/what_is_the_current_mlai_stack_in_scala/)
-- [This week in #Scala &lpar;Sep 30, 2024&rpar;](https://www.reddit.com/r/scala/comments/1fsgh8a/this_week_in_scala_sep_30_2024/)
-- [What is “the” database migration tool in Scala?](https://www.reddit.com/r/scala/comments/1fs7isb/what_is_the_database_migration_tool_in_scala/)
-- [Announcing Scala.js 1.17.0, with experimental WebAssembly support](https://www.reddit.com/r/scala/comments/1frbi3l/announcing_scalajs_1170_with_experimental/)
-- [Scala to webassembly](https://www.reddit.com/r/scala/comments/1fr4adh/scala_to_webassembly/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

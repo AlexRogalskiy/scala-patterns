@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 2.0.0-M2 released](https://www.reddit.com/r/scala/comments/1fw4ubp/sbt_200m2_released/)
+- [Question about finatra swagger](https://www.reddit.com/r/scala/comments/1fw2g8v/question_about_finatra_swagger/)
+- [Scala Space Podcast: Compiling Scala at scale with Billy Autrey](https://www.reddit.com/r/scala/comments/1fw1p41/scala_space_podcast_compiling_scala_at_scale_with/)
+- [Open com-lihaoyi issue bounties, last updated 4 Oct 2024](https://www.reddit.com/r/scala/comments/1fvq4xi/open_comlihaoyi_issue_bounties_last_updated_4_oct/)
 - [Why is this Scala code consuming so much memory?](https://www.reddit.com/r/scala/comments/1fvdcjz/why_is_this_scala_code_consuming_so_much_memory/)
 - [Basic FP in Python](https://www.reddit.com/r/scala/comments/1fvba70/basic_fp_in_python/)
 - [Join Scalac Talent Pool](https://www.reddit.com/r/scala/comments/1fv7f2f/join_scalac_talent_pool/)
 - [ScalaFx](https://www.reddit.com/r/scala/comments/1fufl82/scalafx/)
 - [Which effect system to learn?](https://www.reddit.com/r/scala/comments/1fuczbt/which_effect_system_to_learn/)
 - [Funny projects for learn scala](https://www.reddit.com/r/scala/comments/1fuccsq/funny_projects_for_learn_scala/)
-- [Scala without effect systems. The Martin Odersky way.](https://www.reddit.com/r/scala/comments/1fubrls/scala_without_effect_systems_the_martin_odersky/)
-- [Need advice on database calls with pure JDBC](https://www.reddit.com/r/scala/comments/1fu0tmd/need_advice_on_database_calls_with_pure_jdbc/)
-- [Study buddy/group for RED BOOK](https://www.reddit.com/r/scala/comments/1ftd1w6/study_buddygroup_for_red_book/)
-- [Does anyone else get confused by the python quiet syntax?](https://www.reddit.com/r/scala/comments/1ftbcxe/does_anyone_else_get_confused_by_the_python_quiet/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

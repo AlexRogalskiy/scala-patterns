@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Apache Fury serialization 0.8.0 released: highly-optimized scala collection serializers released to maven](https://www.reddit.com/r/scala/comments/1fwy2d7/apache_fury_serialization_080_released/)
+- [Did my Bachelors in CS in India, and currently doing my Masters in Belgium.](https://www.reddit.com/r/scala/comments/1fwvkkz/did_my_bachelors_in_cs_in_india_and_currently/)
+- [😫](https://www.reddit.com/r/scala/comments/1fwtmle/_/)
+- [Auto suggestion not working in metals at many places !](https://www.reddit.com/r/scala/comments/1fwlnfc/auto_suggestion_not_working_in_metals_at_many/)
 - [sbt 2.0.0-M2 released](https://www.reddit.com/r/scala/comments/1fw4ubp/sbt_200m2_released/)
 - [Question about finatra swagger](https://www.reddit.com/r/scala/comments/1fw2g8v/question_about_finatra_swagger/)
 - [Scala Space Podcast: Compiling Scala at scale with Billy Autrey](https://www.reddit.com/r/scala/comments/1fw1p41/scala_space_podcast_compiling_scala_at_scale_with/)
 - [Open com-lihaoyi issue bounties, last updated 4 Oct 2024](https://www.reddit.com/r/scala/comments/1fvq4xi/open_comlihaoyi_issue_bounties_last_updated_4_oct/)
 - [Why is this Scala code consuming so much memory?](https://www.reddit.com/r/scala/comments/1fvdcjz/why_is_this_scala_code_consuming_so_much_memory/)
 - [Basic FP in Python](https://www.reddit.com/r/scala/comments/1fvba70/basic_fp_in_python/)
-- [Join Scalac Talent Pool](https://www.reddit.com/r/scala/comments/1fv7f2f/join_scalac_talent_pool/)
-- [ScalaFx](https://www.reddit.com/r/scala/comments/1fufl82/scalafx/)
-- [Which effect system to learn?](https://www.reddit.com/r/scala/comments/1fuczbt/which_effect_system_to_learn/)
-- [Funny projects for learn scala](https://www.reddit.com/r/scala/comments/1fuccsq/funny_projects_for_learn_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Functional World Meetup] There’re no trees where we’re going - scary-stuff-less metaprogramming in Scala 3](https://www.reddit.com/r/scala/comments/1fxrum7/functional_world_meetup_therere_no_trees_where/)
+- [This week in #Scala &lpar;Oct 7, 2024&rpar;](https://www.reddit.com/r/scala/comments/1fxq0zv/this_week_in_scala_oct_7_2024/)
 - [Apache Fury serialization 0.8.0 released: highly-optimized scala collection serializers released to maven](https://www.reddit.com/r/scala/comments/1fwy2d7/apache_fury_serialization_080_released/)
 - [Did my Bachelors in CS in India, and currently doing my Masters in Belgium.](https://www.reddit.com/r/scala/comments/1fwvkkz/did_my_bachelors_in_cs_in_india_and_currently/)
-- [😫](https://www.reddit.com/r/scala/comments/1fwtmle/_/)
 - [Auto suggestion not working in metals at many places !](https://www.reddit.com/r/scala/comments/1fwlnfc/auto_suggestion_not_working_in_metals_at_many/)
 - [sbt 2.0.0-M2 released](https://www.reddit.com/r/scala/comments/1fw4ubp/sbt_200m2_released/)
 - [Question about finatra swagger](https://www.reddit.com/r/scala/comments/1fw2g8v/question_about_finatra_swagger/)
 - [Scala Space Podcast: Compiling Scala at scale with Billy Autrey](https://www.reddit.com/r/scala/comments/1fw1p41/scala_space_podcast_compiling_scala_at_scale_with/)
 - [Open com-lihaoyi issue bounties, last updated 4 Oct 2024](https://www.reddit.com/r/scala/comments/1fvq4xi/open_comlihaoyi_issue_bounties_last_updated_4_oct/)
 - [Why is this Scala code consuming so much memory?](https://www.reddit.com/r/scala/comments/1fvdcjz/why_is_this_scala_code_consuming_so_much_memory/)
-- [Basic FP in Python](https://www.reddit.com/r/scala/comments/1fvba70/basic_fp_in_python/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

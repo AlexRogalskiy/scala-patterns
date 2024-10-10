@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [OS-Lib 0.11.0 is out, with a new zip file handling API](https://www.reddit.com/r/scala/comments/1fzubvv/oslib_0110_is_out_with_a_new_zip_file_handling_api/)
+- [Apple’s new Scala team &lpar;Sweden&rpar;?](https://www.reddit.com/r/scala/comments/1fztz5u/apples_new_scala_team_sweden/)
+- [Missed the Functional World meetup on metaprogramming in Scala 3?](https://www.reddit.com/r/scala/comments/1fzrufy/missed_the_functional_world_meetup_on/)
 - [Learning resources to become proficient in using and creating ADTs &lpar;Algebraic Data Type&rpar;?](https://www.reddit.com/r/scala/comments/1fz9222/learning_resources_to_become_proficient_in_using/)
 - [Chimney 1.5.0 released](https://www.reddit.com/r/scala/comments/1fz7ceo/chimney_150_released/)
-- [Is code a liability? - Kevlin Henney](https://www.reddit.com/r/scala/comments/1fz72i7/is_code_a_liability_kevlin_henney/)
 - [Is it feasible to use only Scala for data engineering?](https://www.reddit.com/r/scala/comments/1fyz9ch/is_it_feasible_to_use_only_scala_for_data/)
 - [🚀 Cats-Actors v2.0.0-RC5 Released!](https://www.reddit.com/r/scala/comments/1fyxw4g/catsactors_v200rc5_released/)
 - [New Cask OpenApi Template](https://www.reddit.com/r/scala/comments/1fy90fj/new_cask_openapi_template/)
 - [[Functional World Meetup] There’re no trees where we’re going - scary-stuff-less metaprogramming in Scala 3](https://www.reddit.com/r/scala/comments/1fxrum7/functional_world_meetup_therere_no_trees_where/)
 - [This week in #Scala &lpar;Oct 7, 2024&rpar;](https://www.reddit.com/r/scala/comments/1fxq0zv/this_week_in_scala_oct_7_2024/)
-- [Apache Fury serialization 0.8.0 released: highly-optimized scala collection serializers released to maven](https://www.reddit.com/r/scala/comments/1fwy2d7/apache_fury_serialization_080_released/)
-- [Did my Bachelors in CS in India, and currently doing my Masters in Belgium.](https://www.reddit.com/r/scala/comments/1fwvkkz/did_my_bachelors_in_cs_in_india_and_currently/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

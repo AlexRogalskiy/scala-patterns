@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [📢 Kyo 0.13.0 is out! 🚀](https://www.reddit.com/r/scala/comments/1g1ohp3/kyo_0130_is_out/)
 - [Open source projects](https://www.reddit.com/r/scala/comments/1g0pchk/open_source_projects/)
 - [OS-Lib 0.11.0 is out, with a new zip file handling API](https://www.reddit.com/r/scala/comments/1fzubvv/oslib_0110_is_out_with_a_new_zip_file_handling_api/)
 - [Apple’s new Scala team &lpar;Sweden&rpar;?](https://www.reddit.com/r/scala/comments/1fztz5u/apples_new_scala_team_sweden/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Is it feasible to use only Scala for data engineering?](https://www.reddit.com/r/scala/comments/1fyz9ch/is_it_feasible_to_use_only_scala_for_data/)
 - [🚀 Cats-Actors v2.0.0-RC5 Released!](https://www.reddit.com/r/scala/comments/1fyxw4g/catsactors_v200rc5_released/)
 - [New Cask OpenApi Template](https://www.reddit.com/r/scala/comments/1fy90fj/new_cask_openapi_template/)
-- [[Functional World Meetup] There’re no trees where we’re going - scary-stuff-less metaprogramming in Scala 3](https://www.reddit.com/r/scala/comments/1fxrum7/functional_world_meetup_therere_no_trees_where/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

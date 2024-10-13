@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Object is not a scala sub-command and it is not a valid [ERROR]](https://www.reddit.com/r/scala/comments/1g1v0rs/object_is_not_a_scala_subcommand_and_it_is_not_a/)
 - [📢 Kyo 0.13.0 is out! 🚀](https://www.reddit.com/r/scala/comments/1g1ohp3/kyo_0130_is_out/)
 - [Open source projects](https://www.reddit.com/r/scala/comments/1g0pchk/open_source_projects/)
 - [OS-Lib 0.11.0 is out, with a new zip file handling API](https://www.reddit.com/r/scala/comments/1fzubvv/oslib_0110_is_out_with_a_new_zip_file_handling_api/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Chimney 1.5.0 released](https://www.reddit.com/r/scala/comments/1fz7ceo/chimney_150_released/)
 - [Is it feasible to use only Scala for data engineering?](https://www.reddit.com/r/scala/comments/1fyz9ch/is_it_feasible_to_use_only_scala_for_data/)
 - [🚀 Cats-Actors v2.0.0-RC5 Released!](https://www.reddit.com/r/scala/comments/1fyxw4g/catsactors_v200rc5_released/)
-- [New Cask OpenApi Template](https://www.reddit.com/r/scala/comments/1fy90fj/new_cask_openapi_template/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

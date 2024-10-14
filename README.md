@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Oct 14, 2024&rpar;](https://www.reddit.com/r/scala/comments/1g2vlmk/this_week_in_scala_oct_14_2024/)
 - [Object is not a scala sub-command and it is not a valid [ERROR]](https://www.reddit.com/r/scala/comments/1g1v0rs/object_is_not_a_scala_subcommand_and_it_is_not_a/)
 - [📢 Kyo 0.13.0 is out! 🚀](https://www.reddit.com/r/scala/comments/1g1ohp3/kyo_0130_is_out/)
 - [Open source projects](https://www.reddit.com/r/scala/comments/1g0pchk/open_source_projects/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Learning resources to become proficient in using and creating ADTs &lpar;Algebraic Data Type&rpar;?](https://www.reddit.com/r/scala/comments/1fz9222/learning_resources_to_become_proficient_in_using/)
 - [Chimney 1.5.0 released](https://www.reddit.com/r/scala/comments/1fz7ceo/chimney_150_released/)
 - [Is it feasible to use only Scala for data engineering?](https://www.reddit.com/r/scala/comments/1fyz9ch/is_it_feasible_to_use_only_scala_for_data/)
-- [🚀 Cats-Actors v2.0.0-RC5 Released!](https://www.reddit.com/r/scala/comments/1fyxw4g/catsactors_v200rc5_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

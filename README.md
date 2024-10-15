@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Folding Cheat Sheet #8 - Folding with Monoids](https://www.reddit.com/r/scala/comments/1g3opeg/folding_cheat_sheet_8_folding_with_monoids/)
+- [Good first open source projects for learning Scala](https://www.reddit.com/r/scala/comments/1g3m6y3/good_first_open_source_projects_for_learning_scala/)
+- [Scala 3 Manifesto 0.1.0](https://www.reddit.com/r/scala/comments/1g3axq7/scala_3_manifesto_010/)
 - [This week in #Scala &lpar;Oct 14, 2024&rpar;](https://www.reddit.com/r/scala/comments/1g2vlmk/this_week_in_scala_oct_14_2024/)
 - [Object is not a scala sub-command and it is not a valid [ERROR]](https://www.reddit.com/r/scala/comments/1g1v0rs/object_is_not_a_scala_subcommand_and_it_is_not_a/)
 - [📢 Kyo 0.13.0 is out! 🚀](https://www.reddit.com/r/scala/comments/1g1ohp3/kyo_0130_is_out/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [OS-Lib 0.11.0 is out, with a new zip file handling API](https://www.reddit.com/r/scala/comments/1fzubvv/oslib_0110_is_out_with_a_new_zip_file_handling_api/)
 - [Apple’s new Scala team &lpar;Sweden&rpar;?](https://www.reddit.com/r/scala/comments/1fztz5u/apples_new_scala_team_sweden/)
 - [Missed the Functional World meetup on metaprogramming in Scala 3?](https://www.reddit.com/r/scala/comments/1fzrufy/missed_the_functional_world_meetup_on/)
-- [Learning resources to become proficient in using and creating ADTs &lpar;Algebraic Data Type&rpar;?](https://www.reddit.com/r/scala/comments/1fz9222/learning_resources_to_become_proficient_in_using/)
-- [Chimney 1.5.0 released](https://www.reddit.com/r/scala/comments/1fz7ceo/chimney_150_released/)
-- [Is it feasible to use only Scala for data engineering?](https://www.reddit.com/r/scala/comments/1fyz9ch/is_it_feasible_to_use_only_scala_for_data/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

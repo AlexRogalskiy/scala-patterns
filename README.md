@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to Build Full-Stack Scala Applications - ZIO](https://www.reddit.com/r/scala/comments/1g4dq3i/how_to_build_fullstack_scala_applications_zio/)
 - [Folding Cheat Sheet #8 - Folding with Monoids](https://www.reddit.com/r/scala/comments/1g3opeg/folding_cheat_sheet_8_folding_with_monoids/)
 - [Good first open source projects for learning Scala](https://www.reddit.com/r/scala/comments/1g3m6y3/good_first_open_source_projects_for_learning_scala/)
 - [Scala 3 Manifesto 0.1.0](https://www.reddit.com/r/scala/comments/1g3axq7/scala_3_manifesto_010/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Open source projects](https://www.reddit.com/r/scala/comments/1g0pchk/open_source_projects/)
 - [OS-Lib 0.11.0 is out, with a new zip file handling API](https://www.reddit.com/r/scala/comments/1fzubvv/oslib_0110_is_out_with_a_new_zip_file_handling_api/)
 - [Apple’s new Scala team &lpar;Sweden&rpar;?](https://www.reddit.com/r/scala/comments/1fztz5u/apples_new_scala_team_sweden/)
-- [Missed the Functional World meetup on metaprogramming in Scala 3?](https://www.reddit.com/r/scala/comments/1fzrufy/missed_the_functional_world_meetup_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

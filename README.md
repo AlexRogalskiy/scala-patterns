@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala governance and release policies](https://www.reddit.com/r/scala/comments/1g53h2r/scala_governance_and_release_policies/)
+- [Functional World #12 | How to handle things in your project without DevOps around?](https://www.reddit.com/r/scala/comments/1g50ocy/functional_world_12_how_to_handle_things_in_your/)
+- [First-class JSON in Scala?](https://www.reddit.com/r/scala/comments/1g4zhv6/firstclass_json_in_scala/)
+- [Scala Builders: Craft New Economic Systems on Ergo](https://www.reddit.com/r/scala/comments/1g4zbkr/scala_builders_craft_new_economic_systems_on_ergo/)
 - [How to Build Full-Stack Scala Applications - ZIO](https://www.reddit.com/r/scala/comments/1g4dq3i/how_to_build_fullstack_scala_applications_zio/)
 - [Folding Cheat Sheet #8 - Folding with Monoids](https://www.reddit.com/r/scala/comments/1g3opeg/folding_cheat_sheet_8_folding_with_monoids/)
 - [Good first open source projects for learning Scala](https://www.reddit.com/r/scala/comments/1g3m6y3/good_first_open_source_projects_for_learning_scala/)
 - [Scala 3 Manifesto 0.1.0](https://www.reddit.com/r/scala/comments/1g3axq7/scala_3_manifesto_010/)
 - [This week in #Scala &lpar;Oct 14, 2024&rpar;](https://www.reddit.com/r/scala/comments/1g2vlmk/this_week_in_scala_oct_14_2024/)
 - [Object is not a scala sub-command and it is not a valid [ERROR]](https://www.reddit.com/r/scala/comments/1g1v0rs/object_is_not_a_scala_subcommand_and_it_is_not_a/)
-- [📢 Kyo 0.13.0 is out! 🚀](https://www.reddit.com/r/scala/comments/1g1ohp3/kyo_0130_is_out/)
-- [Open source projects](https://www.reddit.com/r/scala/comments/1g0pchk/open_source_projects/)
-- [OS-Lib 0.11.0 is out, with a new zip file handling API](https://www.reddit.com/r/scala/comments/1fzubvv/oslib_0110_is_out_with_a_new_zip_file_handling_api/)
-- [Apple’s new Scala team &lpar;Sweden&rpar;?](https://www.reddit.com/r/scala/comments/1fztz5u/apples_new_scala_team_sweden/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

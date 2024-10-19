@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Please ignore Scala 3.6.0 and wait; it was published by accident](https://www.reddit.com/r/scala/comments/1g6rzy9/please_ignore_scala_360_and_wait_it_was_published/)
+- [Just released version v0.2.0 of Lohika. It now supports First-order Logic](https://www.reddit.com/r/scala/comments/1g6luyq/just_released_version_v020_of_lohika_it_now/)
 - [Discussion: open source software bounties](https://www.reddit.com/r/scala/comments/1g5z54i/discussion_open_source_software_bounties/)
 - [Magnum Database Client 1.3.0 Released](https://www.reddit.com/r/scala/comments/1g5w7bj/magnum_database_client_130_released/)
 - [Codacy hiring 2 Scala devs](https://www.reddit.com/r/scala/comments/1g5rclz/codacy_hiring_2_scala_devs/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala governance and release policies](https://www.reddit.com/r/scala/comments/1g53h2r/scala_governance_and_release_policies/)
 - [Functional World #12 | How to handle things in your project without DevOps around?](https://www.reddit.com/r/scala/comments/1g50ocy/functional_world_12_how_to_handle_things_in_your/)
 - [First-class JSON in Scala?](https://www.reddit.com/r/scala/comments/1g4zhv6/firstclass_json_in_scala/)
-- [Scala Builders: Craft New Economic Systems on Ergo](https://www.reddit.com/r/scala/comments/1g4zbkr/scala_builders_craft_new_economic_systems_on_ergo/)
-- [How to Build Full-Stack Scala Applications - ZIO](https://www.reddit.com/r/scala/comments/1g4dq3i/how_to_build_fullstack_scala_applications_zio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

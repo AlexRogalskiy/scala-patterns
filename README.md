@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Oct 21, 2024&rpar;](https://www.reddit.com/r/scala/comments/1g86zt6/this_week_in_scala_oct_21_2024/)
+- [Broken Scala 3.6.0 released by accident](https://www.reddit.com/r/scala/comments/1g83hyi/broken_scala_360_released_by_accident/)
+- [Direct Scala praise-post](https://www.reddit.com/r/scala/comments/1g7wy3b/direct_scala_praisepost/)
+- [&lpar;In&rpar;Validating Library Design. DomainDocs4s: DDD, Reflection &amp; Classpath Scanning.](https://www.reddit.com/r/scala/comments/1g7tf9n/invalidating_library_design_domaindocs4s_ddd/)
+- [sbt 1.10.3 and Zinc 1.10.3 released](https://www.reddit.com/r/scala/comments/1g7qd0d/sbt_1103_and_zinc_1103_released/)
 - [Please ignore Scala 3.6.0 and wait; it was published by accident](https://www.reddit.com/r/scala/comments/1g6rzy9/please_ignore_scala_360_and_wait_it_was_published/)
 - [Just released version v0.2.0 of Lohika. It now supports First-order Logic](https://www.reddit.com/r/scala/comments/1g6luyq/just_released_version_v020_of_lohika_it_now/)
 - [Discussion: open source software bounties](https://www.reddit.com/r/scala/comments/1g5z54i/discussion_open_source_software_bounties/)
 - [Magnum Database Client 1.3.0 Released](https://www.reddit.com/r/scala/comments/1g5w7bj/magnum_database_client_130_released/)
 - [Codacy hiring 2 Scala devs](https://www.reddit.com/r/scala/comments/1g5rclz/codacy_hiring_2_scala_devs/)
-- [When Chat GPT gets drunk - Funniest thing I have seen in a while](https://www.reddit.com/r/scala/comments/1g5n501/when_chat_gpt_gets_drunk_funniest_thing_i_have/)
-- [New project with scala3 vs scala2 lifespan](https://www.reddit.com/r/scala/comments/1g5lrtu/new_project_with_scala3_vs_scala2_lifespan/)
-- [Scala governance and release policies](https://www.reddit.com/r/scala/comments/1g53h2r/scala_governance_and_release_policies/)
-- [Functional World #12 | How to handle things in your project without DevOps around?](https://www.reddit.com/r/scala/comments/1g50ocy/functional_world_12_how_to_handle_things_in_your/)
-- [First-class JSON in Scala?](https://www.reddit.com/r/scala/comments/1g4zhv6/firstclass_json_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

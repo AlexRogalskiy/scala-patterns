@@ -271,8 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Maintenance Survey](https://www.reddit.com/r/scala/comments/1g8o4a0/scala_maintenance_survey/)
+- [tag-based back publishing with sbt](https://www.reddit.com/r/scala/comments/1g8ilkf/tagbased_back_publishing_with_sbt/)
 - [This week in #Scala &lpar;Oct 21, 2024&rpar;](https://www.reddit.com/r/scala/comments/1g86zt6/this_week_in_scala_oct_21_2024/)
-- [Broken Scala 3.6.0 released by accident](https://www.reddit.com/r/scala/comments/1g83hyi/broken_scala_360_released_by_accident/)
 - [Direct Scala praise-post](https://www.reddit.com/r/scala/comments/1g7wy3b/direct_scala_praisepost/)
 - [&lpar;In&rpar;Validating Library Design. DomainDocs4s: DDD, Reflection &amp; Classpath Scanning.](https://www.reddit.com/r/scala/comments/1g7tf9n/invalidating_library_design_domaindocs4s_ddd/)
 - [sbt 1.10.3 and Zinc 1.10.3 released](https://www.reddit.com/r/scala/comments/1g7qd0d/sbt_1103_and_zinc_1103_released/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Just released version v0.2.0 of Lohika. It now supports First-order Logic](https://www.reddit.com/r/scala/comments/1g6luyq/just_released_version_v020_of_lohika_it_now/)
 - [Discussion: open source software bounties](https://www.reddit.com/r/scala/comments/1g5z54i/discussion_open_source_software_bounties/)
 - [Magnum Database Client 1.3.0 Released](https://www.reddit.com/r/scala/comments/1g5w7bj/magnum_database_client_130_released/)
-- [Codacy hiring 2 Scala devs](https://www.reddit.com/r/scala/comments/1g5rclz/codacy_hiring_2_scala_devs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

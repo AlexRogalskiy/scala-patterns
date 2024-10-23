@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Blocked by Quill Macros in Scala 3 Migration: Anyone Else Facing This](https://www.reddit.com/r/scala/comments/1g9evjz/blocked_by_quill_macros_in_scala_3_migration/)
 - [Scala Maintenance Survey](https://www.reddit.com/r/scala/comments/1g8o4a0/scala_maintenance_survey/)
 - [tag-based back publishing with sbt](https://www.reddit.com/r/scala/comments/1g8ilkf/tagbased_back_publishing_with_sbt/)
 - [This week in #Scala &lpar;Oct 21, 2024&rpar;](https://www.reddit.com/r/scala/comments/1g86zt6/this_week_in_scala_oct_21_2024/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Please ignore Scala 3.6.0 and wait; it was published by accident](https://www.reddit.com/r/scala/comments/1g6rzy9/please_ignore_scala_360_and_wait_it_was_published/)
 - [Just released version v0.2.0 of Lohika. It now supports First-order Logic](https://www.reddit.com/r/scala/comments/1g6luyq/just_released_version_v020_of_lohika_it_now/)
 - [Discussion: open source software bounties](https://www.reddit.com/r/scala/comments/1g5z54i/discussion_open_source_software_bounties/)
-- [Magnum Database Client 1.3.0 Released](https://www.reddit.com/r/scala/comments/1g5w7bj/magnum_database_client_130_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

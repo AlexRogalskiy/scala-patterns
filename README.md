@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Version 0.12.0 of the Mill build tool is out!](https://www.reddit.com/r/scala/comments/1gaqpjn/version_0120_of_the_mill_build_tool_is_out/)
+- [Is it possible to directly insert value from method that returns two different types of values into an overloaded method that handles both types?](https://www.reddit.com/r/scala/comments/1gah53z/is_it_possible_to_directly_insert_value_from/)
+- [10.3k Scala jobs &lpar;compared to 376k Java and 11.5k Kotlin&rpar;, not great, but not at all terrible](https://www.reddit.com/r/scala/comments/1gafg4q/103k_scala_jobs_compared_to_376k_java_and_115k/)
+- [Feedback needed: Peloton, an actor library for CE](https://www.reddit.com/r/scala/comments/1gaa724/feedback_needed_peloton_an_actor_library_for_ce/)
+- [Is scala 3.3.4 not LTS, or is this just an oversight in the naming of the links on the page?](https://www.reddit.com/r/scala/comments/1ga7e40/is_scala_334_not_lts_or_is_this_just_an_oversight/)
 - [Blocked by Quill Macros in Scala 3 Migration: Anyone Else Facing This](https://www.reddit.com/r/scala/comments/1g9evjz/blocked_by_quill_macros_in_scala_3_migration/)
 - [Scala Maintenance Survey](https://www.reddit.com/r/scala/comments/1g8o4a0/scala_maintenance_survey/)
 - [tag-based back publishing with sbt](https://www.reddit.com/r/scala/comments/1g8ilkf/tagbased_back_publishing_with_sbt/)
 - [This week in #Scala &lpar;Oct 21, 2024&rpar;](https://www.reddit.com/r/scala/comments/1g86zt6/this_week_in_scala_oct_21_2024/)
 - [Direct Scala praise-post](https://www.reddit.com/r/scala/comments/1g7wy3b/direct_scala_praisepost/)
-- [&lpar;In&rpar;Validating Library Design. DomainDocs4s: DDD, Reflection &amp; Classpath Scanning.](https://www.reddit.com/r/scala/comments/1g7tf9n/invalidating_library_design_domaindocs4s_ddd/)
-- [sbt 1.10.3 and Zinc 1.10.3 released](https://www.reddit.com/r/scala/comments/1g7qd0d/sbt_1103_and_zinc_1103_released/)
-- [Please ignore Scala 3.6.0 and wait; it was published by accident](https://www.reddit.com/r/scala/comments/1g6rzy9/please_ignore_scala_360_and_wait_it_was_published/)
-- [Just released version v0.2.0 of Lohika. It now supports First-order Logic](https://www.reddit.com/r/scala/comments/1g6luyq/just_released_version_v020_of_lohika_it_now/)
-- [Discussion: open source software bounties](https://www.reddit.com/r/scala/comments/1g5z54i/discussion_open_source_software_bounties/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

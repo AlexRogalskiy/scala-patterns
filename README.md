@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is it ok to use Akka HTTP just for the HTTP server and not the actor system?](https://www.reddit.com/r/scala/comments/1gbf85i/is_it_ok_to_use_akka_http_just_for_the_http/)
+- [Metals 1.4.0 is out! 🦆](https://www.reddit.com/r/scala/comments/1gb2g3p/metals_140_is_out/)
+- [Scala 3.6.0 Postmortem has just been published](https://www.reddit.com/r/scala/comments/1gazkay/scala_360_postmortem_has_just_been_published/)
 - [Version 0.12.0 of the Mill build tool is out!](https://www.reddit.com/r/scala/comments/1gaqpjn/version_0120_of_the_mill_build_tool_is_out/)
 - [Is it possible to directly insert value from method that returns two different types of values into an overloaded method that handles both types?](https://www.reddit.com/r/scala/comments/1gah53z/is_it_possible_to_directly_insert_value_from/)
 - [10.3k Scala jobs &lpar;compared to 376k Java and 11.5k Kotlin&rpar;, not great, but not at all terrible](https://www.reddit.com/r/scala/comments/1gafg4q/103k_scala_jobs_compared_to_376k_java_and_115k/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Is scala 3.3.4 not LTS, or is this just an oversight in the naming of the links on the page?](https://www.reddit.com/r/scala/comments/1ga7e40/is_scala_334_not_lts_or_is_this_just_an_oversight/)
 - [Blocked by Quill Macros in Scala 3 Migration: Anyone Else Facing This](https://www.reddit.com/r/scala/comments/1g9evjz/blocked_by_quill_macros_in_scala_3_migration/)
 - [Scala Maintenance Survey](https://www.reddit.com/r/scala/comments/1g8o4a0/scala_maintenance_survey/)
-- [tag-based back publishing with sbt](https://www.reddit.com/r/scala/comments/1g8ilkf/tagbased_back_publishing_with_sbt/)
-- [This week in #Scala &lpar;Oct 21, 2024&rpar;](https://www.reddit.com/r/scala/comments/1g86zt6/this_week_in_scala_oct_21_2024/)
-- [Direct Scala praise-post](https://www.reddit.com/r/scala/comments/1g7wy3b/direct_scala_praisepost/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

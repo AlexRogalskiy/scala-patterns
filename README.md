@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scaladex API &lpar;new from the Scala Center&rpar;](https://www.reddit.com/r/scala/comments/1gc9c7i/scaladex_api_new_from_the_scala_center/)
+- [Neo4j / Scala Job Opportunity - reposting from Neo4j’s Sub](https://www.reddit.com/r/scala/comments/1gbxe63/neo4j_scala_job_opportunity_reposting_from_neo4js/)
 - [Is it ok to use Akka HTTP just for the HTTP server and not the actor system?](https://www.reddit.com/r/scala/comments/1gbf85i/is_it_ok_to_use_akka_http_just_for_the_http/)
 - [Metals 1.4.0 is out! 🦆](https://www.reddit.com/r/scala/comments/1gb2g3p/metals_140_is_out/)
 - [Scala 3.6.0 Postmortem has just been published](https://www.reddit.com/r/scala/comments/1gazkay/scala_360_postmortem_has_just_been_published/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [10.3k Scala jobs &lpar;compared to 376k Java and 11.5k Kotlin&rpar;, not great, but not at all terrible](https://www.reddit.com/r/scala/comments/1gafg4q/103k_scala_jobs_compared_to_376k_java_and_115k/)
 - [Feedback needed: Peloton, an actor library for CE](https://www.reddit.com/r/scala/comments/1gaa724/feedback_needed_peloton_an_actor_library_for_ce/)
 - [Is scala 3.3.4 not LTS, or is this just an oversight in the naming of the links on the page?](https://www.reddit.com/r/scala/comments/1ga7e40/is_scala_334_not_lts_or_is_this_just_an_oversight/)
-- [Blocked by Quill Macros in Scala 3 Migration: Anyone Else Facing This](https://www.reddit.com/r/scala/comments/1g9evjz/blocked_by_quill_macros_in_scala_3_migration/)
-- [Scala Maintenance Survey](https://www.reddit.com/r/scala/comments/1g8o4a0/scala_maintenance_survey/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

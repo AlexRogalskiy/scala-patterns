@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Better Java Builds with the Mill Build Tool](https://www.reddit.com/r/scala/comments/1gdqp4f/better_java_builds_with_the_mill_build_tool/)
+- [An Emacs helpful function for contributing to Scala Metals](https://www.reddit.com/r/scala/comments/1gdn6te/an_emacs_helpful_function_for_contributing_to/)
+- [This week in #Scala &lpar;Oct 28, 2024&rpar;](https://www.reddit.com/r/scala/comments/1gdm7cb/this_week_in_scala_oct_28_2024/)
+- [Benchmark results: jsoniter-scala Vs simdjson-java](https://www.reddit.com/r/scala/comments/1gddr61/benchmark_results_jsoniterscala_vs_simdjsonjava/)
+- [How to provide different json encoder depending on the enum type?](https://www.reddit.com/r/scala/comments/1gd8tqd/how_to_provide_different_json_encoder_depending/)
+- [Can you create your own companion object for scala 3 enum syntax?](https://www.reddit.com/r/scala/comments/1gd2d3u/can_you_create_your_own_companion_object_for/)
 - [Scaladex API &lpar;new from the Scala Center&rpar;](https://www.reddit.com/r/scala/comments/1gc9c7i/scaladex_api_new_from_the_scala_center/)
 - [Neo4j / Scala Job Opportunity - reposting from Neo4j’s Sub](https://www.reddit.com/r/scala/comments/1gbxe63/neo4j_scala_job_opportunity_reposting_from_neo4js/)
 - [Is it ok to use Akka HTTP just for the HTTP server and not the actor system?](https://www.reddit.com/r/scala/comments/1gbf85i/is_it_ok_to_use_akka_http_just_for_the_http/)
 - [Metals 1.4.0 is out! 🦆](https://www.reddit.com/r/scala/comments/1gb2g3p/metals_140_is_out/)
-- [Scala 3.6.0 Postmortem has just been published](https://www.reddit.com/r/scala/comments/1gazkay/scala_360_postmortem_has_just_been_published/)
-- [Version 0.12.0 of the Mill build tool is out!](https://www.reddit.com/r/scala/comments/1gaqpjn/version_0120_of_the_mill_build_tool_is_out/)
-- [Is it possible to directly insert value from method that returns two different types of values into an overloaded method that handles both types?](https://www.reddit.com/r/scala/comments/1gah53z/is_it_possible_to_directly_insert_value_from/)
-- [10.3k Scala jobs &lpar;compared to 376k Java and 11.5k Kotlin&rpar;, not great, but not at all terrible](https://www.reddit.com/r/scala/comments/1gafg4q/103k_scala_jobs_compared_to_376k_java_and_115k/)
-- [Feedback needed: Peloton, an actor library for CE](https://www.reddit.com/r/scala/comments/1gaa724/feedback_needed_peloton_an_actor_library_for_ce/)
-- [Is scala 3.3.4 not LTS, or is this just an oversight in the naming of the links on the page?](https://www.reddit.com/r/scala/comments/1ga7e40/is_scala_334_not_lts_or_is_this_just_an_oversight/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

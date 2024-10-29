@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ScalaIO: Surprise Opening Keynote!](https://www.reddit.com/r/scala/comments/1gedrsu/scalaio_surprise_opening_keynote/)
+- [From Subtype Polymorphism To Typeclass-based Ad hoc Polymorphism - An Example](https://www.reddit.com/r/scala/comments/1ge9mbi/from_subtype_polymorphism_to_typeclassbased_ad/)
+- [[Presentation] Typeclasses demystified](https://www.reddit.com/r/scala/comments/1ge4blt/presentation_typeclasses_demystified/)
+- [Job Opportunity: Neo4j &amp; Scala](https://www.reddit.com/r/scala/comments/1ge2itc/job_opportunity_neo4j_scala/)
+- [Does anybody have an example of a working ZIO HTTP serving static files?](https://www.reddit.com/r/scala/comments/1ge1k2l/does_anybody_have_an_example_of_a_working_zio/)
+- [sbt 1.10.4 released](https://www.reddit.com/r/scala/comments/1gdz494/sbt_1104_released/)
 - [Better Java Builds with the Mill Build Tool](https://www.reddit.com/r/scala/comments/1gdqp4f/better_java_builds_with_the_mill_build_tool/)
 - [An Emacs helpful function for contributing to Scala Metals](https://www.reddit.com/r/scala/comments/1gdn6te/an_emacs_helpful_function_for_contributing_to/)
 - [This week in #Scala &lpar;Oct 28, 2024&rpar;](https://www.reddit.com/r/scala/comments/1gdm7cb/this_week_in_scala_oct_28_2024/)
 - [Benchmark results: jsoniter-scala Vs simdjson-java](https://www.reddit.com/r/scala/comments/1gddr61/benchmark_results_jsoniterscala_vs_simdjsonjava/)
-- [How to provide different json encoder depending on the enum type?](https://www.reddit.com/r/scala/comments/1gd8tqd/how_to_provide_different_json_encoder_depending/)
-- [Can you create your own companion object for scala 3 enum syntax?](https://www.reddit.com/r/scala/comments/1gd2d3u/can_you_create_your_own_companion_object_for/)
-- [Scaladex API &lpar;new from the Scala Center&rpar;](https://www.reddit.com/r/scala/comments/1gc9c7i/scaladex_api_new_from_the_scala_center/)
-- [Neo4j / Scala Job Opportunity - reposting from Neo4j’s Sub](https://www.reddit.com/r/scala/comments/1gbxe63/neo4j_scala_job_opportunity_reposting_from_neo4js/)
-- [Is it ok to use Akka HTTP just for the HTTP server and not the actor system?](https://www.reddit.com/r/scala/comments/1gbf85i/is_it_ok_to_use_akka_http_just_for_the_http/)
-- [Metals 1.4.0 is out! 🦆](https://www.reddit.com/r/scala/comments/1gb2g3p/metals_140_is_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala conferences in November 2024 | Scalendar](https://www.reddit.com/r/scala/comments/1gfy84y/scala_conferences_in_november_2024_scalendar/)
+- [ZZSpec - testcontainers ZIO lib update - now with example tests](https://www.reddit.com/r/scala/comments/1gfn21e/zzspec_testcontainers_zio_lib_update_now_with/)
 - [ScalaIO: Kyo&#39;s talk and workshop!](https://www.reddit.com/r/scala/comments/1gf2po3/scalaio_kyos_talk_and_workshop/)
 - [How can I prevent the entity from being materialized more than once in Pekko/Akka?](https://www.reddit.com/r/scala/comments/1ger0rx/how_can_i_prevent_the_entity_from_being/)
 - [Why does this code throw a NPE?](https://www.reddit.com/r/scala/comments/1gepx2d/why_does_this_code_throw_a_npe/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [From Subtype Polymorphism To Typeclass-based Ad hoc Polymorphism - An Example](https://www.reddit.com/r/scala/comments/1ge9mbi/from_subtype_polymorphism_to_typeclassbased_ad/)
 - [[Presentation] Typeclasses demystified](https://www.reddit.com/r/scala/comments/1ge4blt/presentation_typeclasses_demystified/)
 - [Job Opportunity: Neo4j &amp; Scala](https://www.reddit.com/r/scala/comments/1ge2itc/job_opportunity_neo4j_scala/)
-- [Does anybody have an example of a working ZIO HTTP serving static files?](https://www.reddit.com/r/scala/comments/1ge1k2l/does_anybody_have_an_example_of_a_working_zio/)
-- [sbt 1.10.4 released](https://www.reddit.com/r/scala/comments/1gdz494/sbt_1104_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

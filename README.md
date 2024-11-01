@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Move project from Java to Scala](https://www.reddit.com/r/scala/comments/1ggon3r/move_project_from_java_to_scala/)
 - [Scala conferences in November 2024 | Scalendar](https://www.reddit.com/r/scala/comments/1gfy84y/scala_conferences_in_november_2024_scalendar/)
 - [ZZSpec - testcontainers ZIO lib update - now with example tests](https://www.reddit.com/r/scala/comments/1gfn21e/zzspec_testcontainers_zio_lib_update_now_with/)
 - [ScalaIO: Kyo&#39;s talk and workshop!](https://www.reddit.com/r/scala/comments/1gf2po3/scalaio_kyos_talk_and_workshop/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ScalaIO: Surprise Opening Keynote!](https://www.reddit.com/r/scala/comments/1gedrsu/scalaio_surprise_opening_keynote/)
 - [From Subtype Polymorphism To Typeclass-based Ad hoc Polymorphism - An Example](https://www.reddit.com/r/scala/comments/1ge9mbi/from_subtype_polymorphism_to_typeclassbased_ad/)
 - [[Presentation] Typeclasses demystified](https://www.reddit.com/r/scala/comments/1ge4blt/presentation_typeclasses_demystified/)
-- [Job Opportunity: Neo4j &amp; Scala](https://www.reddit.com/r/scala/comments/1ge2itc/job_opportunity_neo4j_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

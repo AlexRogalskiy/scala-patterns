@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Type safety at event broker level. Any suggestion?](https://www.reddit.com/r/scala/comments/1ghdtq9/type_safety_at_event_broker_level_any_suggestion/)
+- [Bachelor thesis topic](https://www.reddit.com/r/scala/comments/1gh1zz8/bachelor_thesis_topic/)
 - [Move project from Java to Scala](https://www.reddit.com/r/scala/comments/1ggon3r/move_project_from_java_to_scala/)
 - [Scala conferences in November 2024 | Scalendar](https://www.reddit.com/r/scala/comments/1gfy84y/scala_conferences_in_november_2024_scalendar/)
 - [ZZSpec - testcontainers ZIO lib update - now with example tests](https://www.reddit.com/r/scala/comments/1gfn21e/zzspec_testcontainers_zio_lib_update_now_with/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Why does this code throw a NPE?](https://www.reddit.com/r/scala/comments/1gepx2d/why_does_this_code_throw_a_npe/)
 - [Scala job prospects](https://www.reddit.com/r/scala/comments/1geo1z6/scala_job_prospects/)
 - [ScalaIO: Surprise Opening Keynote!](https://www.reddit.com/r/scala/comments/1gedrsu/scalaio_surprise_opening_keynote/)
-- [From Subtype Polymorphism To Typeclass-based Ad hoc Polymorphism - An Example](https://www.reddit.com/r/scala/comments/1ge9mbi/from_subtype_polymorphism_to_typeclassbased_ad/)
-- [[Presentation] Typeclasses demystified](https://www.reddit.com/r/scala/comments/1ge4blt/presentation_typeclasses_demystified/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

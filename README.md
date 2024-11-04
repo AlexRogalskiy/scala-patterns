@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 1.10.5 released](https://www.reddit.com/r/scala/comments/1gj3fnt/sbt_1105_released/)
+- [Idiomatic dependency injection for ZIO applications in Scala](https://www.reddit.com/r/scala/comments/1gj1opm/idiomatic_dependency_injection_for_zio/)
+- [This week in #Scala &lpar;Nov 4, 2024&rpar;](https://www.reddit.com/r/scala/comments/1gitz20/this_week_in_scala_nov_4_2024/)
 - [Type safety at event broker level. Any suggestion?](https://www.reddit.com/r/scala/comments/1ghdtq9/type_safety_at_event_broker_level_any_suggestion/)
 - [Bachelor thesis topic](https://www.reddit.com/r/scala/comments/1gh1zz8/bachelor_thesis_topic/)
 - [Move project from Java to Scala](https://www.reddit.com/r/scala/comments/1ggon3r/move_project_from_java_to_scala/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ZZSpec - testcontainers ZIO lib update - now with example tests](https://www.reddit.com/r/scala/comments/1gfn21e/zzspec_testcontainers_zio_lib_update_now_with/)
 - [ScalaIO: Kyo&#39;s talk and workshop!](https://www.reddit.com/r/scala/comments/1gf2po3/scalaio_kyos_talk_and_workshop/)
 - [How can I prevent the entity from being materialized more than once in Pekko/Akka?](https://www.reddit.com/r/scala/comments/1ger0rx/how_can_i_prevent_the_entity_from_being/)
-- [Why does this code throw a NPE?](https://www.reddit.com/r/scala/comments/1gepx2d/why_does_this_code_throw_a_npe/)
-- [Scala job prospects](https://www.reddit.com/r/scala/comments/1geo1z6/scala_job_prospects/)
-- [ScalaIO: Surprise Opening Keynote!](https://www.reddit.com/r/scala/comments/1gedrsu/scalaio_surprise_opening_keynote/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

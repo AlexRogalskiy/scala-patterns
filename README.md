@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Releasing s3te, a scala 3 tree explorer to help you inspect scala code as seen by the reflect module](https://www.reddit.com/r/scala/comments/1gjcufw/releasing_s3te_a_scala_3_tree_explorer_to_help/)
+- [What is the recommended lib and API to read and write to files in Scala 3?](https://www.reddit.com/r/scala/comments/1gjbprd/what_is_the_recommended_lib_and_api_to_read_and/)
 - [sbt 1.10.5 released](https://www.reddit.com/r/scala/comments/1gj3fnt/sbt_1105_released/)
 - [Idiomatic dependency injection for ZIO applications in Scala](https://www.reddit.com/r/scala/comments/1gj1opm/idiomatic_dependency_injection_for_zio/)
 - [This week in #Scala &lpar;Nov 4, 2024&rpar;](https://www.reddit.com/r/scala/comments/1gitz20/this_week_in_scala_nov_4_2024/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Move project from Java to Scala](https://www.reddit.com/r/scala/comments/1ggon3r/move_project_from_java_to_scala/)
 - [Scala conferences in November 2024 | Scalendar](https://www.reddit.com/r/scala/comments/1gfy84y/scala_conferences_in_november_2024_scalendar/)
 - [ZZSpec - testcontainers ZIO lib update - now with example tests](https://www.reddit.com/r/scala/comments/1gfn21e/zzspec_testcontainers_zio_lib_update_now_with/)
-- [ScalaIO: Kyo&#39;s talk and workshop!](https://www.reddit.com/r/scala/comments/1gf2po3/scalaio_kyos_talk_and_workshop/)
-- [How can I prevent the entity from being materialized more than once in Pekko/Akka?](https://www.reddit.com/r/scala/comments/1ger0rx/how_can_i_prevent_the_entity_from_being/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

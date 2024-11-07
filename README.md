@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Thoughts about Effect Systems and Coupling](https://www.reddit.com/r/scala/comments/1gldc64/thoughts_about_effect_systems_and_coupling/)
+- [🚀 Just dropped: #Kyo 0.14.0](https://www.reddit.com/r/scala/comments/1gl3cfb/just_dropped_kyo_0140/)
+- [Hardware design in Scala using Chisel - podcast episode with Jack Koenig](https://www.reddit.com/r/scala/comments/1gktg7e/hardware_design_in_scala_using_chisel_podcast/)
+- [Scala and mobile dev](https://www.reddit.com/r/scala/comments/1gkooma/scala_and_mobile_dev/)
 - [GraalVM kicks ass](https://www.reddit.com/r/scala/comments/1gkkfuf/graalvm_kicks_ass/)
 - [How are Scala interviews typically structured at top companies? How should I prep?](https://www.reddit.com/r/scala/comments/1gk2oqj/how_are_scala_interviews_typically_structured_at/)
 - [Releasing s3te, a scala 3 tree explorer to help you inspect scala code as seen by the reflect module](https://www.reddit.com/r/scala/comments/1gjcufw/releasing_s3te_a_scala_3_tree_explorer_to_help/)
 - [What is the recommended lib and API to read and write to files in Scala 3?](https://www.reddit.com/r/scala/comments/1gjbprd/what_is_the_recommended_lib_and_api_to_read_and/)
 - [sbt 1.10.5 released](https://www.reddit.com/r/scala/comments/1gj3fnt/sbt_1105_released/)
 - [Idiomatic dependency injection for ZIO applications in Scala](https://www.reddit.com/r/scala/comments/1gj1opm/idiomatic_dependency_injection_for_zio/)
-- [This week in #Scala &lpar;Nov 4, 2024&rpar;](https://www.reddit.com/r/scala/comments/1gitz20/this_week_in_scala_nov_4_2024/)
-- [Type safety at event broker level. Any suggestion?](https://www.reddit.com/r/scala/comments/1ghdtq9/type_safety_at_event_broker_level_any_suggestion/)
-- [Bachelor thesis topic](https://www.reddit.com/r/scala/comments/1gh1zz8/bachelor_thesis_topic/)
-- [Move project from Java to Scala](https://www.reddit.com/r/scala/comments/1ggon3r/move_project_from_java_to_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

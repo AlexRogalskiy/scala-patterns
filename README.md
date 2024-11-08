@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Stitch, Twitter&#39;s batching library, is now open source!](https://www.reddit.com/r/scala/comments/1gm6ey8/stitch_twitters_batching_library_is_now_open/)
+- [[Video] What the com-lihaoyi platform needs from Scala](https://www.reddit.com/r/scala/comments/1glm2nx/video_what_the_comlihaoyi_platform_needs_from/)
 - [Thoughts about Effect Systems and Coupling](https://www.reddit.com/r/scala/comments/1gldc64/thoughts_about_effect_systems_and_coupling/)
 - [🚀 Just dropped: #Kyo 0.14.0](https://www.reddit.com/r/scala/comments/1gl3cfb/just_dropped_kyo_0140/)
 - [Hardware design in Scala using Chisel - podcast episode with Jack Koenig](https://www.reddit.com/r/scala/comments/1gktg7e/hardware_design_in_scala_using_chisel_podcast/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How are Scala interviews typically structured at top companies? How should I prep?](https://www.reddit.com/r/scala/comments/1gk2oqj/how_are_scala_interviews_typically_structured_at/)
 - [Releasing s3te, a scala 3 tree explorer to help you inspect scala code as seen by the reflect module](https://www.reddit.com/r/scala/comments/1gjcufw/releasing_s3te_a_scala_3_tree_explorer_to_help/)
 - [What is the recommended lib and API to read and write to files in Scala 3?](https://www.reddit.com/r/scala/comments/1gjbprd/what_is_the_recommended_lib_and_api_to_read_and/)
-- [sbt 1.10.5 released](https://www.reddit.com/r/scala/comments/1gj3fnt/sbt_1105_released/)
-- [Idiomatic dependency injection for ZIO applications in Scala](https://www.reddit.com/r/scala/comments/1gj1opm/idiomatic_dependency_injection_for_zio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

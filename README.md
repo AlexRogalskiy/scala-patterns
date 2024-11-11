@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Nov 11, 2024&rpar;](https://www.reddit.com/r/scala/comments/1go7ubr/this_week_in_scala_nov_11_2024/)
+- [Back to mouse with version 0.5.1](https://www.reddit.com/r/scala/comments/1gnuaqj/back_to_mouse_with_version_051/)
 - [DoS when decoding large BigDecimal values using circe with original or jawn parsers](https://www.reddit.com/r/scala/comments/1gmq32s/dos_when_decoding_large_bigdecimal_values_using/)
 - [Stitch, Twitter&#39;s batching library, is now open source!](https://www.reddit.com/r/scala/comments/1gm6ey8/stitch_twitters_batching_library_is_now_open/)
 - [[Video] What the com-lihaoyi platform needs from Scala](https://www.reddit.com/r/scala/comments/1glm2nx/video_what_the_comlihaoyi_platform_needs_from/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Hardware design in Scala using Chisel - podcast episode with Jack Koenig](https://www.reddit.com/r/scala/comments/1gktg7e/hardware_design_in_scala_using_chisel_podcast/)
 - [Scala and mobile dev](https://www.reddit.com/r/scala/comments/1gkooma/scala_and_mobile_dev/)
 - [GraalVM kicks ass](https://www.reddit.com/r/scala/comments/1gkkfuf/graalvm_kicks_ass/)
-- [How are Scala interviews typically structured at top companies? How should I prep?](https://www.reddit.com/r/scala/comments/1gk2oqj/how_are_scala_interviews_typically_structured_at/)
-- [Releasing s3te, a scala 3 tree explorer to help you inspect scala code as seen by the reflect module](https://www.reddit.com/r/scala/comments/1gjcufw/releasing_s3te_a_scala_3_tree_explorer_to_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

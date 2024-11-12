@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Apache Fury serialization 0.9.0 released: highly optimized utf8 encoding and quarkus native support](https://www.reddit.com/r/scala/comments/1gou8rw/apache_fury_serialization_090_released_highly/)
 - [This week in #Scala &lpar;Nov 11, 2024&rpar;](https://www.reddit.com/r/scala/comments/1go7ubr/this_week_in_scala_nov_11_2024/)
 - [Back to mouse with version 0.5.1](https://www.reddit.com/r/scala/comments/1gnuaqj/back_to_mouse_with_version_051/)
 - [DoS when decoding large BigDecimal values using circe with original or jawn parsers](https://www.reddit.com/r/scala/comments/1gmq32s/dos_when_decoding_large_bigdecimal_values_using/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [🚀 Just dropped: #Kyo 0.14.0](https://www.reddit.com/r/scala/comments/1gl3cfb/just_dropped_kyo_0140/)
 - [Hardware design in Scala using Chisel - podcast episode with Jack Koenig](https://www.reddit.com/r/scala/comments/1gktg7e/hardware_design_in_scala_using_chisel_podcast/)
 - [Scala and mobile dev](https://www.reddit.com/r/scala/comments/1gkooma/scala_and_mobile_dev/)
-- [GraalVM kicks ass](https://www.reddit.com/r/scala/comments/1gkkfuf/graalvm_kicks_ass/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

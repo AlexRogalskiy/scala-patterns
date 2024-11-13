@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Feedback on Effect.ts from Scala devs perspective](https://www.reddit.com/r/scala/comments/1gpra31/feedback_on_effectts_from_scala_devs_perspective/)
+- [[Meetup] Functional World #12 | How to handle things in your project without DevOps around?](https://www.reddit.com/r/scala/comments/1gpf2hr/meetup_functional_world_12_how_to_handle_things/)
+- [Scala - hiring perspective?](https://www.reddit.com/r/scala/comments/1gpc4l2/scala_hiring_perspective/)
 - [Apache Fury serialization 0.9.0 released: highly optimized utf8 encoding and quarkus native support](https://www.reddit.com/r/scala/comments/1gou8rw/apache_fury_serialization_090_released_highly/)
 - [This week in #Scala &lpar;Nov 11, 2024&rpar;](https://www.reddit.com/r/scala/comments/1go7ubr/this_week_in_scala_nov_11_2024/)
 - [Back to mouse with version 0.5.1](https://www.reddit.com/r/scala/comments/1gnuaqj/back_to_mouse_with_version_051/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Stitch, Twitter&#39;s batching library, is now open source!](https://www.reddit.com/r/scala/comments/1gm6ey8/stitch_twitters_batching_library_is_now_open/)
 - [[Video] What the com-lihaoyi platform needs from Scala](https://www.reddit.com/r/scala/comments/1glm2nx/video_what_the_comlihaoyi_platform_needs_from/)
 - [Thoughts about Effect Systems and Coupling](https://www.reddit.com/r/scala/comments/1gldc64/thoughts_about_effect_systems_and_coupling/)
-- [🚀 Just dropped: #Kyo 0.14.0](https://www.reddit.com/r/scala/comments/1gl3cfb/just_dropped_kyo_0140/)
-- [Hardware design in Scala using Chisel - podcast episode with Jack Koenig](https://www.reddit.com/r/scala/comments/1gktg7e/hardware_design_in_scala_using_chisel_podcast/)
-- [Scala and mobile dev](https://www.reddit.com/r/scala/comments/1gkooma/scala_and_mobile_dev/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

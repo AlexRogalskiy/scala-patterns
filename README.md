@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Augmented functions](https://www.reddit.com/r/scala/comments/1gqonv8/augmented_functions/)
+- [IntelliJ Scala Plugin 2024.3 Is Out!](https://www.reddit.com/r/scala/comments/1gqfwbs/intellij_scala_plugin_20243_is_out/)
+- [How to properly implement and test mappings between different models/representations?](https://www.reddit.com/r/scala/comments/1gqd542/how_to_properly_implement_and_test_mappings/)
 - [Feedback on Effect.ts from Scala devs perspective](https://www.reddit.com/r/scala/comments/1gpra31/feedback_on_effectts_from_scala_devs_perspective/)
 - [[Meetup] Functional World #12 | How to handle things in your project without DevOps around?](https://www.reddit.com/r/scala/comments/1gpf2hr/meetup_functional_world_12_how_to_handle_things/)
 - [Scala - hiring perspective?](https://www.reddit.com/r/scala/comments/1gpc4l2/scala_hiring_perspective/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Nov 11, 2024&rpar;](https://www.reddit.com/r/scala/comments/1go7ubr/this_week_in_scala_nov_11_2024/)
 - [Back to mouse with version 0.5.1](https://www.reddit.com/r/scala/comments/1gnuaqj/back_to_mouse_with_version_051/)
 - [DoS when decoding large BigDecimal values using circe with original or jawn parsers](https://www.reddit.com/r/scala/comments/1gmq32s/dos_when_decoding_large_bigdecimal_values_using/)
-- [Stitch, Twitter&#39;s batching library, is now open source!](https://www.reddit.com/r/scala/comments/1gm6ey8/stitch_twitters_batching_library_is_now_open/)
-- [[Video] What the com-lihaoyi platform needs from Scala](https://www.reddit.com/r/scala/comments/1glm2nx/video_what_the_comlihaoyi_platform_needs_from/)
-- [Thoughts about Effect Systems and Coupling](https://www.reddit.com/r/scala/comments/1gldc64/thoughts_about_effect_systems_and_coupling/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

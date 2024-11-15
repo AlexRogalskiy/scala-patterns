@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [My still valid Scala notes from 2015](https://www.reddit.com/r/scala/comments/1gr2r32/my_still_valid_scala_notes_from_2015/)
+- [Announcing the Business4s Mentorship Program](https://www.reddit.com/r/scala/comments/1gr2i8n/announcing_the_business4s_mentorship_program/)
 - [Augmented functions](https://www.reddit.com/r/scala/comments/1gqonv8/augmented_functions/)
 - [IntelliJ Scala Plugin 2024.3 Is Out!](https://www.reddit.com/r/scala/comments/1gqfwbs/intellij_scala_plugin_20243_is_out/)
 - [How to properly implement and test mappings between different models/representations?](https://www.reddit.com/r/scala/comments/1gqd542/how_to_properly_implement_and_test_mappings/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala - hiring perspective?](https://www.reddit.com/r/scala/comments/1gpc4l2/scala_hiring_perspective/)
 - [Apache Fury serialization 0.9.0 released: highly optimized utf8 encoding and quarkus native support](https://www.reddit.com/r/scala/comments/1gou8rw/apache_fury_serialization_090_released_highly/)
 - [This week in #Scala &lpar;Nov 11, 2024&rpar;](https://www.reddit.com/r/scala/comments/1go7ubr/this_week_in_scala_nov_11_2024/)
-- [Back to mouse with version 0.5.1](https://www.reddit.com/r/scala/comments/1gnuaqj/back_to_mouse_with_version_051/)
-- [DoS when decoding large BigDecimal values using circe with original or jawn parsers](https://www.reddit.com/r/scala/comments/1gmq32s/dos_when_decoding_large_bigdecimal_values_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ZIO in 2025, by John De Goes, Ziverge](https://www.reddit.com/r/scala/comments/1gs6aty/zio_in_2025_by_john_de_goes_ziverge/)
+- [Match types using Scala 3.6 NamedTuple](https://www.reddit.com/r/scala/comments/1gs31vh/match_types_using_scala_36_namedtuple/)
+- [Lightbend is now Akka; Akka 3 announced](https://www.reddit.com/r/scala/comments/1grw6md/lightbend_is_now_akka_akka_3_announced/)
+- [Scala Space Podcast: Derive and Conquer &lpar;the compile times&rpar; with Mateusz Kubuszok](https://www.reddit.com/r/scala/comments/1grv0nv/scala_space_podcast_derive_and_conquer_the/)
+- [Dependent Object Types resources?](https://www.reddit.com/r/scala/comments/1grt16y/dependent_object_types_resources/)
 - [My still valid Scala notes from 2015](https://www.reddit.com/r/scala/comments/1gr2r32/my_still_valid_scala_notes_from_2015/)
 - [Announcing the Business4s Mentorship Program](https://www.reddit.com/r/scala/comments/1gr2i8n/announcing_the_business4s_mentorship_program/)
 - [Augmented functions](https://www.reddit.com/r/scala/comments/1gqonv8/augmented_functions/)
 - [IntelliJ Scala Plugin 2024.3 Is Out!](https://www.reddit.com/r/scala/comments/1gqfwbs/intellij_scala_plugin_20243_is_out/)
 - [How to properly implement and test mappings between different models/representations?](https://www.reddit.com/r/scala/comments/1gqd542/how_to_properly_implement_and_test_mappings/)
-- [Feedback on Effect.ts from Scala devs perspective](https://www.reddit.com/r/scala/comments/1gpra31/feedback_on_effectts_from_scala_devs_perspective/)
-- [[Meetup] Functional World #12 | How to handle things in your project without DevOps around?](https://www.reddit.com/r/scala/comments/1gpf2hr/meetup_functional_world_12_how_to_handle_things/)
-- [Scala - hiring perspective?](https://www.reddit.com/r/scala/comments/1gpc4l2/scala_hiring_perspective/)
-- [Apache Fury serialization 0.9.0 released: highly optimized utf8 encoding and quarkus native support](https://www.reddit.com/r/scala/comments/1gou8rw/apache_fury_serialization_090_released_highly/)
-- [This week in #Scala &lpar;Nov 11, 2024&rpar;](https://www.reddit.com/r/scala/comments/1go7ubr/this_week_in_scala_nov_11_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Integrate New Relic into Play Framework](https://www.reddit.com/r/scala/comments/1gt39d2/integrate_new_relic_into_play_framework/)
+- [Better Scala Builds with the Mill Build Tool, Scala.IO Paris 2024](https://www.reddit.com/r/scala/comments/1gswg7m/better_scala_builds_with_the_mill_build_tool/)
+- [Migrating Spark codebases from Scala 2.12 to 2.13](https://www.reddit.com/r/scala/comments/1gsp5l3/migrating_spark_codebases_from_scala_212_to_213/)
 - [ZIO in 2025, by John De Goes, Ziverge](https://www.reddit.com/r/scala/comments/1gs6aty/zio_in_2025_by_john_de_goes_ziverge/)
 - [Match types using Scala 3.6 NamedTuple](https://www.reddit.com/r/scala/comments/1gs31vh/match_types_using_scala_36_namedtuple/)
 - [Lightbend is now Akka; Akka 3 announced](https://www.reddit.com/r/scala/comments/1grw6md/lightbend_is_now_akka_akka_3_announced/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Dependent Object Types resources?](https://www.reddit.com/r/scala/comments/1grt16y/dependent_object_types_resources/)
 - [My still valid Scala notes from 2015](https://www.reddit.com/r/scala/comments/1gr2r32/my_still_valid_scala_notes_from_2015/)
 - [Announcing the Business4s Mentorship Program](https://www.reddit.com/r/scala/comments/1gr2i8n/announcing_the_business4s_mentorship_program/)
-- [Augmented functions](https://www.reddit.com/r/scala/comments/1gqonv8/augmented_functions/)
-- [IntelliJ Scala Plugin 2024.3 Is Out!](https://www.reddit.com/r/scala/comments/1gqfwbs/intellij_scala_plugin_20243_is_out/)
-- [How to properly implement and test mappings between different models/representations?](https://www.reddit.com/r/scala/comments/1gqd542/how_to_properly_implement_and_test_mappings/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

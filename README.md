@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Nov 18, 2024&rpar;](https://www.reddit.com/r/scala/comments/1gtju3z/this_week_in_scala_nov_18_2024/)
 - [Integrate New Relic into Play Framework](https://www.reddit.com/r/scala/comments/1gt39d2/integrate_new_relic_into_play_framework/)
 - [Better Scala Builds with the Mill Build Tool, Scala.IO Paris 2024](https://www.reddit.com/r/scala/comments/1gswg7m/better_scala_builds_with_the_mill_build_tool/)
 - [Migrating Spark codebases from Scala 2.12 to 2.13](https://www.reddit.com/r/scala/comments/1gsp5l3/migrating_spark_codebases_from_scala_212_to_213/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Space Podcast: Derive and Conquer &lpar;the compile times&rpar; with Mateusz Kubuszok](https://www.reddit.com/r/scala/comments/1grv0nv/scala_space_podcast_derive_and_conquer_the/)
 - [Dependent Object Types resources?](https://www.reddit.com/r/scala/comments/1grt16y/dependent_object_types_resources/)
 - [My still valid Scala notes from 2015](https://www.reddit.com/r/scala/comments/1gr2r32/my_still_valid_scala_notes_from_2015/)
-- [Announcing the Business4s Mentorship Program](https://www.reddit.com/r/scala/comments/1gr2i8n/announcing_the_business4s_mentorship_program/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

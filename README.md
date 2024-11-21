@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to make multiple operations transactional in doobie?](https://www.reddit.com/r/scala/comments/1gvorss/how_to_make_multiple_operations_transactional_in/)
+- [How to handle things in your project without DevOps around? [Functional World meetup]](https://www.reddit.com/r/scala/comments/1gvorh3/how_to_handle_things_in_your_project_without/)
+- [What is the best hygiene for alternative constructors in Scala 3? Companion.apply or class constructor?](https://www.reddit.com/r/scala/comments/1gvkuej/what_is_the_best_hygiene_for_alternative/)
 - [New Module Layout for sbt Projects | The IntelliJ Scala Plugin Blog](https://www.reddit.com/r/scala/comments/1guz81g/new_module_layout_for_sbt_projects_the_intellij/)
 - [Entry-level Scala positions](https://www.reddit.com/r/scala/comments/1guz6f5/entrylevel_scala_positions/)
 - [Cats-Actors 2.0.0: Production-Ready Functional Actor Model](https://www.reddit.com/r/scala/comments/1guyh8b/catsactors_200_productionready_functional_actor/)
 - [Is cats-effect still actively developed?](https://www.reddit.com/r/scala/comments/1gumv59/is_catseffect_still_actively_developed/)
 - [Tools for Scala Startups - Scala.IO 2024 talk](https://www.reddit.com/r/scala/comments/1gugzgt/tools_for_scala_startups_scalaio_2024_talk/)
 - [intro to Hedgehog for Scala](https://www.reddit.com/r/scala/comments/1gu17qi/intro_to_hedgehog_for_scala/)
-- [Scala Help](https://www.reddit.com/r/scala/comments/1gu0sot/scala_help/)
 - [How 1 Software Engineer Outperforms 138—Lichess Case Study](https://www.reddit.com/r/scala/comments/1gtzrk0/how_1_software_engineer_outperforms_138lichess/)
-- [This week in #Scala &lpar;Nov 18, 2024&rpar;](https://www.reddit.com/r/scala/comments/1gtju3z/this_week_in_scala_nov_18_2024/)
-- [Integrate New Relic into Play Framework](https://www.reddit.com/r/scala/comments/1gt39d2/integrate_new_relic_into_play_framework/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

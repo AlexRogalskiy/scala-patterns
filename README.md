@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Space Podcast: Modeling the Business Domain with Voytek Pituła and Raphaël Lemaitre](https://www.reddit.com/r/scala/comments/1gwkkue/scala_space_podcast_modeling_the_business_domain/)
+- [Goodbye Lightbend, Hello Akka - The JVM&#39;s Most Popular Actor Model Implementation Gets a New Identity](https://www.reddit.com/r/scala/comments/1gwj3bc/goodbye_lightbend_hello_akka_the_jvms_most/)
+- [How to handle pessimistic lock in zio?](https://www.reddit.com/r/scala/comments/1gwfo7m/how_to_handle_pessimistic_lock_in_zio/)
+- [Scala Code Runner fails to download](https://www.reddit.com/r/scala/comments/1gwdl5e/scala_code_runner_fails_to_download/)
 - [How to make multiple operations transactional in doobie?](https://www.reddit.com/r/scala/comments/1gvorss/how_to_make_multiple_operations_transactional_in/)
 - [How to handle things in your project without DevOps around? [Functional World meetup]](https://www.reddit.com/r/scala/comments/1gvorh3/how_to_handle_things_in_your_project_without/)
 - [What is the best hygiene for alternative constructors in Scala 3? Companion.apply or class constructor?](https://www.reddit.com/r/scala/comments/1gvkuej/what_is_the_best_hygiene_for_alternative/)
 - [New Module Layout for sbt Projects | The IntelliJ Scala Plugin Blog](https://www.reddit.com/r/scala/comments/1guz81g/new_module_layout_for_sbt_projects_the_intellij/)
 - [Entry-level Scala positions](https://www.reddit.com/r/scala/comments/1guz6f5/entrylevel_scala_positions/)
 - [Cats-Actors 2.0.0: Production-Ready Functional Actor Model](https://www.reddit.com/r/scala/comments/1guyh8b/catsactors_200_productionready_functional_actor/)
-- [Is cats-effect still actively developed?](https://www.reddit.com/r/scala/comments/1gumv59/is_catseffect_still_actively_developed/)
-- [Tools for Scala Startups - Scala.IO 2024 talk](https://www.reddit.com/r/scala/comments/1gugzgt/tools_for_scala_startups_scalaio_2024_talk/)
-- [intro to Hedgehog for Scala](https://www.reddit.com/r/scala/comments/1gu17qi/intro_to_hedgehog_for_scala/)
-- [How 1 Software Engineer Outperforms 138—Lichess Case Study](https://www.reddit.com/r/scala/comments/1gtzrk0/how_1_software_engineer_outperforms_138lichess/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

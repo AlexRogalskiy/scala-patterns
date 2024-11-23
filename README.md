@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [UnsatisfiedLinkError](https://www.reddit.com/r/scala/comments/1gx9oij/unsatisfiedlinkerror/)
+- [How can I optimize processing an event list?](https://www.reddit.com/r/scala/comments/1gx80mq/how_can_i_optimize_processing_an_event_list/)
+- [I&#39;m shocked with the incomplete design of strict equality in Scala 3](https://www.reddit.com/r/scala/comments/1gx43dx/im_shocked_with_the_incomplete_design_of_strict/)
+- [Do you use explicit null features in Scala3? I&#39;ve found it not usable because of java APIs](https://www.reddit.com/r/scala/comments/1gx05ep/do_you_use_explicit_null_features_in_scala3_ive/)
+- [Chisel FixedPoint Alternative?](https://www.reddit.com/r/scala/comments/1gwz5kb/chisel_fixedpoint_alternative/)
 - [Scala Space Podcast: Modeling the Business Domain with Voytek Pituła and Raphaël Lemaitre](https://www.reddit.com/r/scala/comments/1gwkkue/scala_space_podcast_modeling_the_business_domain/)
 - [Goodbye Lightbend, Hello Akka - The JVM&#39;s Most Popular Actor Model Implementation Gets a New Identity](https://www.reddit.com/r/scala/comments/1gwj3bc/goodbye_lightbend_hello_akka_the_jvms_most/)
 - [How to handle pessimistic lock in zio?](https://www.reddit.com/r/scala/comments/1gwfo7m/how_to_handle_pessimistic_lock_in_zio/)
 - [Scala Code Runner fails to download](https://www.reddit.com/r/scala/comments/1gwdl5e/scala_code_runner_fails_to_download/)
 - [How to make multiple operations transactional in doobie?](https://www.reddit.com/r/scala/comments/1gvorss/how_to_make_multiple_operations_transactional_in/)
-- [How to handle things in your project without DevOps around? [Functional World meetup]](https://www.reddit.com/r/scala/comments/1gvorh3/how_to_handle_things_in_your_project_without/)
-- [What is the best hygiene for alternative constructors in Scala 3? Companion.apply or class constructor?](https://www.reddit.com/r/scala/comments/1gvkuej/what_is_the_best_hygiene_for_alternative/)
-- [New Module Layout for sbt Projects | The IntelliJ Scala Plugin Blog](https://www.reddit.com/r/scala/comments/1guz81g/new_module_layout_for_sbt_projects_the_intellij/)
-- [Entry-level Scala positions](https://www.reddit.com/r/scala/comments/1guz6f5/entrylevel_scala_positions/)
-- [Cats-Actors 2.0.0: Production-Ready Functional Actor Model](https://www.reddit.com/r/scala/comments/1guyh8b/catsactors_200_productionready_functional_actor/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

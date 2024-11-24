@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [GraalVM and ChromeDriver in a Docker image for Render.com](https://www.reddit.com/r/scala/comments/1gyg782/graalvm_and_chromedriver_in_a_docker_image_for/)
 - [UnsatisfiedLinkError](https://www.reddit.com/r/scala/comments/1gx9oij/unsatisfiedlinkerror/)
 - [How can I optimize processing an event list?](https://www.reddit.com/r/scala/comments/1gx80mq/how_can_i_optimize_processing_an_event_list/)
 - [I&#39;m shocked with the incomplete design of strict equality in Scala 3](https://www.reddit.com/r/scala/comments/1gx43dx/im_shocked_with_the_incomplete_design_of_strict/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Goodbye Lightbend, Hello Akka - The JVM&#39;s Most Popular Actor Model Implementation Gets a New Identity](https://www.reddit.com/r/scala/comments/1gwj3bc/goodbye_lightbend_hello_akka_the_jvms_most/)
 - [How to handle pessimistic lock in zio?](https://www.reddit.com/r/scala/comments/1gwfo7m/how_to_handle_pessimistic_lock_in_zio/)
 - [Scala Code Runner fails to download](https://www.reddit.com/r/scala/comments/1gwdl5e/scala_code_runner_fails_to_download/)
-- [How to make multiple operations transactional in doobie?](https://www.reddit.com/r/scala/comments/1gvorss/how_to_make_multiple_operations_transactional_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

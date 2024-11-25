@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Referential Transparency and env variables](https://www.reddit.com/r/scala/comments/1gyzswe/referential_transparency_and_env_variables/)
+- [This week in #Scala &lpar;Nov 25, 2024&rpar;](https://www.reddit.com/r/scala/comments/1gyyfhe/this_week_in_scala_nov_25_2024/)
+- [Lohika 0.5.0 is here, with new support for Definitions](https://www.reddit.com/r/scala/comments/1gyycc5/lohika_050_is_here_with_new_support_for/)
+- [How to structure methods for combining 2 sub types into 1?](https://www.reddit.com/r/scala/comments/1gyu1g0/how_to_structure_methods_for_combining_2_sub/)
+- [sbt-projectmatrix 0.10.1 released](https://www.reddit.com/r/scala/comments/1gyp1g7/sbtprojectmatrix_0101_released/)
 - [GraalVM and ChromeDriver in a Docker image for Render.com](https://www.reddit.com/r/scala/comments/1gyg782/graalvm_and_chromedriver_in_a_docker_image_for/)
 - [UnsatisfiedLinkError](https://www.reddit.com/r/scala/comments/1gx9oij/unsatisfiedlinkerror/)
 - [How can I optimize processing an event list?](https://www.reddit.com/r/scala/comments/1gx80mq/how_can_i_optimize_processing_an_event_list/)
 - [I&#39;m shocked with the incomplete design of strict equality in Scala 3](https://www.reddit.com/r/scala/comments/1gx43dx/im_shocked_with_the_incomplete_design_of_strict/)
 - [Do you use explicit null features in Scala3? I&#39;ve found it not usable because of java APIs](https://www.reddit.com/r/scala/comments/1gx05ep/do_you_use_explicit_null_features_in_scala3_ive/)
-- [Chisel FixedPoint Alternative?](https://www.reddit.com/r/scala/comments/1gwz5kb/chisel_fixedpoint_alternative/)
-- [Scala Space Podcast: Modeling the Business Domain with Voytek Pituła and Raphaël Lemaitre](https://www.reddit.com/r/scala/comments/1gwkkue/scala_space_podcast_modeling_the_business_domain/)
-- [Goodbye Lightbend, Hello Akka - The JVM&#39;s Most Popular Actor Model Implementation Gets a New Identity](https://www.reddit.com/r/scala/comments/1gwj3bc/goodbye_lightbend_hello_akka_the_jvms_most/)
-- [How to handle pessimistic lock in zio?](https://www.reddit.com/r/scala/comments/1gwfo7m/how_to_handle_pessimistic_lock_in_zio/)
-- [Scala Code Runner fails to download](https://www.reddit.com/r/scala/comments/1gwdl5e/scala_code_runner_fails_to_download/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

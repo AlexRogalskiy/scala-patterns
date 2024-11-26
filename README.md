@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Can&#39;t have pattern matching against TupleXXL in Scala3. Is this class useless?](https://www.reddit.com/r/scala/comments/1h01159/cant_have_pattern_matching_against_tuplexxl_in/)
+- [Rock the JVM Black Friday Offer](https://www.reddit.com/r/scala/comments/1gziobn/rock_the_jvm_black_friday_offer/)
 - [Referential Transparency and env variables](https://www.reddit.com/r/scala/comments/1gyzswe/referential_transparency_and_env_variables/)
 - [This week in #Scala &lpar;Nov 25, 2024&rpar;](https://www.reddit.com/r/scala/comments/1gyyfhe/this_week_in_scala_nov_25_2024/)
 - [Lohika 0.5.0 is here, with new support for Definitions](https://www.reddit.com/r/scala/comments/1gyycc5/lohika_050_is_here_with_new_support_for/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [GraalVM and ChromeDriver in a Docker image for Render.com](https://www.reddit.com/r/scala/comments/1gyg782/graalvm_and_chromedriver_in_a_docker_image_for/)
 - [UnsatisfiedLinkError](https://www.reddit.com/r/scala/comments/1gx9oij/unsatisfiedlinkerror/)
 - [How can I optimize processing an event list?](https://www.reddit.com/r/scala/comments/1gx80mq/how_can_i_optimize_processing_an_event_list/)
-- [I&#39;m shocked with the incomplete design of strict equality in Scala 3](https://www.reddit.com/r/scala/comments/1gx43dx/im_shocked_with_the_incomplete_design_of_strict/)
-- [Do you use explicit null features in Scala3? I&#39;ve found it not usable because of java APIs](https://www.reddit.com/r/scala/comments/1gx05ep/do_you_use_explicit_null_features_in_scala3_ive/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

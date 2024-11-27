@@ -271,7 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Can&#39;t have pattern matching against TupleXXL in Scala3. Is this class useless?](https://www.reddit.com/r/scala/comments/1h01159/cant_have_pattern_matching_against_tuplexxl_in/)
+- [Http4s: getting errors when combining TLS and DigestAuth, cannot figure out why.](https://www.reddit.com/r/scala/comments/1h0ib9o/http4s_getting_errors_when_combining_tls_and/)
+- [I made a Matrix digital rain with Scala 3 and Lanterna](https://www.reddit.com/r/scala/comments/1h06bhf/i_made_a_matrix_digital_rain_with_scala_3_and/)
 - [Rock the JVM Black Friday Offer](https://www.reddit.com/r/scala/comments/1gziobn/rock_the_jvm_black_friday_offer/)
 - [Referential Transparency and env variables](https://www.reddit.com/r/scala/comments/1gyzswe/referential_transparency_and_env_variables/)
 - [This week in #Scala &lpar;Nov 25, 2024&rpar;](https://www.reddit.com/r/scala/comments/1gyyfhe/this_week_in_scala_nov_25_2024/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt-projectmatrix 0.10.1 released](https://www.reddit.com/r/scala/comments/1gyp1g7/sbtprojectmatrix_0101_released/)
 - [GraalVM and ChromeDriver in a Docker image for Render.com](https://www.reddit.com/r/scala/comments/1gyg782/graalvm_and_chromedriver_in_a_docker_image_for/)
 - [UnsatisfiedLinkError](https://www.reddit.com/r/scala/comments/1gx9oij/unsatisfiedlinkerror/)
-- [How can I optimize processing an event list?](https://www.reddit.com/r/scala/comments/1gx80mq/how_can_i_optimize_processing_an_event_list/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

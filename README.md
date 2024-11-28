@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Abstract data type , union type , manual implementation.](https://www.reddit.com/r/scala/comments/1h1ccl7/abstract_data_type_union_type_manual/)
+- [How to accumulate errors with ZIO validation?](https://www.reddit.com/r/scala/comments/1h156mq/how_to_accumulate_errors_with_zio_validation/)
+- [Why does Source.fromURL&lpar;url&rpar; loop indefinetly with this spesific url?](https://www.reddit.com/r/scala/comments/1h14w5g/why_does_sourcefromurlurl_loop_indefinetly_with/)
+- [&quot;Functional Programming in Scala&quot; JetBrains course](https://www.reddit.com/r/scala/comments/1h1248m/functional_programming_in_scala_jetbrains_course/)
 - [Http4s: getting errors when combining TLS and DigestAuth, cannot figure out why.](https://www.reddit.com/r/scala/comments/1h0ib9o/http4s_getting_errors_when_combining_tls_and/)
 - [I made a Matrix digital rain with Scala 3 and Lanterna](https://www.reddit.com/r/scala/comments/1h06bhf/i_made_a_matrix_digital_rain_with_scala_3_and/)
 - [Rock the JVM Black Friday Offer](https://www.reddit.com/r/scala/comments/1gziobn/rock_the_jvm_black_friday_offer/)
 - [Referential Transparency and env variables](https://www.reddit.com/r/scala/comments/1gyzswe/referential_transparency_and_env_variables/)
 - [This week in #Scala &lpar;Nov 25, 2024&rpar;](https://www.reddit.com/r/scala/comments/1gyyfhe/this_week_in_scala_nov_25_2024/)
 - [Lohika 0.5.0 is here, with new support for Definitions](https://www.reddit.com/r/scala/comments/1gyycc5/lohika_050_is_here_with_new_support_for/)
-- [How to structure methods for combining 2 sub types into 1?](https://www.reddit.com/r/scala/comments/1gyu1g0/how_to_structure_methods_for_combining_2_sub/)
-- [sbt-projectmatrix 0.10.1 released](https://www.reddit.com/r/scala/comments/1gyp1g7/sbtprojectmatrix_0101_released/)
-- [GraalVM and ChromeDriver in a Docker image for Render.com](https://www.reddit.com/r/scala/comments/1gyg782/graalvm_and_chromedriver_in_a_docker_image_for/)
-- [UnsatisfiedLinkError](https://www.reddit.com/r/scala/comments/1gx9oij/unsatisfiedlinkerror/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

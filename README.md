@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala/FP courses - I need your feedback!](https://www.reddit.com/r/scala/comments/1h217j6/scalafp_courses_i_need_your_feedback/)
+- [scala3 warning](https://www.reddit.com/r/scala/comments/1h1wuaq/scala3_warning/)
 - [Abstract data type , union type , manual implementation.](https://www.reddit.com/r/scala/comments/1h1ccl7/abstract_data_type_union_type_manual/)
 - [How to accumulate errors with ZIO validation?](https://www.reddit.com/r/scala/comments/1h156mq/how_to_accumulate_errors_with_zio_validation/)
 - [Why does Source.fromURL&lpar;url&rpar; loop indefinetly with this spesific url?](https://www.reddit.com/r/scala/comments/1h14w5g/why_does_sourcefromurlurl_loop_indefinetly_with/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [I made a Matrix digital rain with Scala 3 and Lanterna](https://www.reddit.com/r/scala/comments/1h06bhf/i_made_a_matrix_digital_rain_with_scala_3_and/)
 - [Rock the JVM Black Friday Offer](https://www.reddit.com/r/scala/comments/1gziobn/rock_the_jvm_black_friday_offer/)
 - [Referential Transparency and env variables](https://www.reddit.com/r/scala/comments/1gyzswe/referential_transparency_and_env_variables/)
-- [This week in #Scala &lpar;Nov 25, 2024&rpar;](https://www.reddit.com/r/scala/comments/1gyyfhe/this_week_in_scala_nov_25_2024/)
-- [Lohika 0.5.0 is here, with new support for Definitions](https://www.reddit.com/r/scala/comments/1gyycc5/lohika_050_is_here_with_new_support_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

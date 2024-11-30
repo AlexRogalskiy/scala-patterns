@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala raylib, how to plot a moving circle ?](https://www.reddit.com/r/scala/comments/1h2ww2a/scala_raylib_how_to_plot_a_moving_circle/)
+- [How to accumulate errors in ZIO validation?](https://www.reddit.com/r/scala/comments/1h2nyzb/how_to_accumulate_errors_in_zio_validation/)
+- [scalafx type error](https://www.reddit.com/r/scala/comments/1h2mvaw/scalafx_type_error/)
+- [Play Framework 2.9.6 and 3.0.6 released](https://www.reddit.com/r/scala/comments/1h2kywl/play_framework_296_and_306_released/)
+- [simple graphics api](https://www.reddit.com/r/scala/comments/1h2g8a2/simple_graphics_api/)
 - [Scala/FP courses - I need your feedback!](https://www.reddit.com/r/scala/comments/1h217j6/scalafp_courses_i_need_your_feedback/)
 - [scala3 warning](https://www.reddit.com/r/scala/comments/1h1wuaq/scala3_warning/)
 - [Abstract data type , union type , manual implementation.](https://www.reddit.com/r/scala/comments/1h1ccl7/abstract_data_type_union_type_manual/)
-- [How to accumulate errors with ZIO validation?](https://www.reddit.com/r/scala/comments/1h156mq/how_to_accumulate_errors_with_zio_validation/)
 - [Why does Source.fromURL&lpar;url&rpar; loop indefinetly with this spesific url?](https://www.reddit.com/r/scala/comments/1h14w5g/why_does_sourcefromurlurl_loop_indefinetly_with/)
 - [&quot;Functional Programming in Scala&quot; JetBrains course](https://www.reddit.com/r/scala/comments/1h1248m/functional_programming_in_scala_jetbrains_course/)
-- [Http4s: getting errors when combining TLS and DigestAuth, cannot figure out why.](https://www.reddit.com/r/scala/comments/1h0ib9o/http4s_getting_errors_when_combining_tls_and/)
-- [I made a Matrix digital rain with Scala 3 and Lanterna](https://www.reddit.com/r/scala/comments/1h06bhf/i_made_a_matrix_digital_rain_with_scala_3_and/)
-- [Rock the JVM Black Friday Offer](https://www.reddit.com/r/scala/comments/1gziobn/rock_the_jvm_black_friday_offer/)
-- [Referential Transparency and env variables](https://www.reddit.com/r/scala/comments/1gyzswe/referential_transparency_and_env_variables/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

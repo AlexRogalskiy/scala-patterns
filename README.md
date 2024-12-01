@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Failing to bend contravariance to my will](https://www.reddit.com/r/scala/comments/1h3krbv/failing_to_bend_contravariance_to_my_will/)
+- [sbt 1.10.6 released](https://www.reddit.com/r/scala/comments/1h37pcf/sbt_1106_released/)
 - [Scala raylib, how to plot a moving circle ?](https://www.reddit.com/r/scala/comments/1h2ww2a/scala_raylib_how_to_plot_a_moving_circle/)
 - [How to accumulate errors in ZIO validation?](https://www.reddit.com/r/scala/comments/1h2nyzb/how_to_accumulate_errors_in_zio_validation/)
 - [scalafx type error](https://www.reddit.com/r/scala/comments/1h2mvaw/scalafx_type_error/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala/FP courses - I need your feedback!](https://www.reddit.com/r/scala/comments/1h217j6/scalafp_courses_i_need_your_feedback/)
 - [scala3 warning](https://www.reddit.com/r/scala/comments/1h1wuaq/scala3_warning/)
 - [Abstract data type , union type , manual implementation.](https://www.reddit.com/r/scala/comments/1h1ccl7/abstract_data_type_union_type_manual/)
-- [Why does Source.fromURL&lpar;url&rpar; loop indefinetly with this spesific url?](https://www.reddit.com/r/scala/comments/1h14w5g/why_does_sourcefromurlurl_loop_indefinetly_with/)
-- [&quot;Functional Programming in Scala&quot; JetBrains course](https://www.reddit.com/r/scala/comments/1h1248m/functional_programming_in_scala_jetbrains_course/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Metals Bloop AccessDeniedException in a vscode devcontainer](https://www.reddit.com/r/scala/comments/1h4isad/scala_metals_bloop_accessdeniedexception_in_a/)
+- [This week in #Scala &lpar;Dec 2, 2024&rpar;](https://www.reddit.com/r/scala/comments/1h4b9f6/this_week_in_scala_dec_2_2024/)
 - [Failing to bend contravariance to my will](https://www.reddit.com/r/scala/comments/1h3krbv/failing_to_bend_contravariance_to_my_will/)
 - [sbt 1.10.6 released](https://www.reddit.com/r/scala/comments/1h37pcf/sbt_1106_released/)
 - [Scala raylib, how to plot a moving circle ?](https://www.reddit.com/r/scala/comments/1h2ww2a/scala_raylib_how_to_plot_a_moving_circle/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Play Framework 2.9.6 and 3.0.6 released](https://www.reddit.com/r/scala/comments/1h2kywl/play_framework_296_and_306_released/)
 - [simple graphics api](https://www.reddit.com/r/scala/comments/1h2g8a2/simple_graphics_api/)
 - [Scala/FP courses - I need your feedback!](https://www.reddit.com/r/scala/comments/1h217j6/scalafp_courses_i_need_your_feedback/)
-- [scala3 warning](https://www.reddit.com/r/scala/comments/1h1wuaq/scala3_warning/)
-- [Abstract data type , union type , manual implementation.](https://www.reddit.com/r/scala/comments/1h1ccl7/abstract_data_type_union_type_manual/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

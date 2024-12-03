@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Since zio-json uses magnolia under the hood, can I do this instead of providing an implicit codec for every case class as seen in the documentation, and only define custom codecs for specific types when necessary?](https://www.reddit.com/r/scala/comments/1h59zfh/since_ziojson_uses_magnolia_under_the_hood_can_i/)
+- [Advent of Code 2024 — chat room, crowdsourced solutions](https://www.reddit.com/r/scala/comments/1h53du0/advent_of_code_2024_chat_room_crowdsourced/)
+- [Artifact publishing proposal](https://www.reddit.com/r/scala/comments/1h4yqx0/artifact_publishing_proposal/)
+- [My new book, Pragmatic Type-Level Design, is now completed and released!](https://www.reddit.com/r/scala/comments/1h4ws49/my_new_book_pragmatic_typelevel_design_is_now/)
 - [Scala Metals Bloop AccessDeniedException in a vscode devcontainer](https://www.reddit.com/r/scala/comments/1h4isad/scala_metals_bloop_accessdeniedexception_in_a/)
 - [This week in #Scala &lpar;Dec 2, 2024&rpar;](https://www.reddit.com/r/scala/comments/1h4b9f6/this_week_in_scala_dec_2_2024/)
 - [Failing to bend contravariance to my will](https://www.reddit.com/r/scala/comments/1h3krbv/failing_to_bend_contravariance_to_my_will/)
 - [sbt 1.10.6 released](https://www.reddit.com/r/scala/comments/1h37pcf/sbt_1106_released/)
 - [Scala raylib, how to plot a moving circle ?](https://www.reddit.com/r/scala/comments/1h2ww2a/scala_raylib_how_to_plot_a_moving_circle/)
 - [How to accumulate errors in ZIO validation?](https://www.reddit.com/r/scala/comments/1h2nyzb/how_to_accumulate_errors_in_zio_validation/)
-- [scalafx type error](https://www.reddit.com/r/scala/comments/1h2mvaw/scalafx_type_error/)
-- [Play Framework 2.9.6 and 3.0.6 released](https://www.reddit.com/r/scala/comments/1h2kywl/play_framework_296_and_306_released/)
-- [simple graphics api](https://www.reddit.com/r/scala/comments/1h2g8a2/simple_graphics_api/)
-- [Scala/FP courses - I need your feedback!](https://www.reddit.com/r/scala/comments/1h217j6/scalafp_courses_i_need_your_feedback/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

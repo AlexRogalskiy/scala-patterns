@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kyo v0.15.0](https://www.reddit.com/r/scala/comments/1h693ya/kyo_v0150/)
 - [There&#39;s a Scala conference happening online this week if anyone&#39;s interested](https://www.reddit.com/r/scala/comments/1h5qud2/theres_a_scala_conference_happening_online_this/)
 - [Is Option the Right Choice? Struggling with Debugging None in Chained Calls as a Scala Beginner](https://www.reddit.com/r/scala/comments/1h5l67x/is_option_the_right_choice_struggling_with/)
 - [Since zio-json uses magnolia under the hood, can I do this instead of providing an implicit codec for every case class as seen in the documentation, and only define custom codecs for specific types when necessary?](https://www.reddit.com/r/scala/comments/1h59zfh/since_ziojson_uses_magnolia_under_the_hood_can_i/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Metals Bloop AccessDeniedException in a vscode devcontainer](https://www.reddit.com/r/scala/comments/1h4isad/scala_metals_bloop_accessdeniedexception_in_a/)
 - [This week in #Scala &lpar;Dec 2, 2024&rpar;](https://www.reddit.com/r/scala/comments/1h4b9f6/this_week_in_scala_dec_2_2024/)
 - [Failing to bend contravariance to my will](https://www.reddit.com/r/scala/comments/1h3krbv/failing_to_bend_contravariance_to_my_will/)
-- [sbt 1.10.6 released](https://www.reddit.com/r/scala/comments/1h37pcf/sbt_1106_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

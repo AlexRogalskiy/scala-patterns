@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Better Scala Builds with the Mill Build Tool, Functional Scala 2024](https://www.reddit.com/r/scala/comments/1h7nijh/better_scala_builds_with_the_mill_build_tool/)
+- [IntelliJ Scala Plugin 2024.3.20 Is Out!](https://www.reddit.com/r/scala/comments/1h7d1zl/intellij_scala_plugin_2024320_is_out/)
+- [All 24 new JEPs for JDK 24: Quantum Cryptography, Garbage Collectors, and a lot of cleanups](https://www.reddit.com/r/scala/comments/1h7bmo1/all_24_new_jeps_for_jdk_24_quantum_cryptography/)
+- [[Event] Functional World #13 | Anatomy of Scaladex with Kannupriya Kalra](https://www.reddit.com/r/scala/comments/1h76ssk/event_functional_world_13_anatomy_of_scaladex/)
+- [IntelliJ IDEA x Scala - a new video series about the features of IntelliJ Scala Plugin](https://www.reddit.com/r/scala/comments/1h76hck/intellij_idea_x_scala_a_new_video_series_about/)
+- [Need more knowledge on thread level functionality](https://www.reddit.com/r/scala/comments/1h73plr/need_more_knowledge_on_thread_level_functionality/)
 - [Kyo v0.15.0](https://www.reddit.com/r/scala/comments/1h693ya/kyo_v0150/)
 - [There&#39;s a Scala conference happening online this week if anyone&#39;s interested](https://www.reddit.com/r/scala/comments/1h5qud2/theres_a_scala_conference_happening_online_this/)
 - [Is Option the Right Choice? Struggling with Debugging None in Chained Calls as a Scala Beginner](https://www.reddit.com/r/scala/comments/1h5l67x/is_option_the_right_choice_struggling_with/)
 - [Since zio-json uses magnolia under the hood, can I do this instead of providing an implicit codec for every case class as seen in the documentation, and only define custom codecs for specific types when necessary?](https://www.reddit.com/r/scala/comments/1h59zfh/since_ziojson_uses_magnolia_under_the_hood_can_i/)
-- [Advent of Code 2024 — chat room, crowdsourced solutions](https://www.reddit.com/r/scala/comments/1h53du0/advent_of_code_2024_chat_room_crowdsourced/)
-- [Artifact publishing proposal](https://www.reddit.com/r/scala/comments/1h4yqx0/artifact_publishing_proposal/)
-- [My new book, Pragmatic Type-Level Design, is now completed and released!](https://www.reddit.com/r/scala/comments/1h4ws49/my_new_book_pragmatic_typelevel_design_is_now/)
-- [Scala Metals Bloop AccessDeniedException in a vscode devcontainer](https://www.reddit.com/r/scala/comments/1h4isad/scala_metals_bloop_accessdeniedexception_in_a/)
-- [This week in #Scala &lpar;Dec 2, 2024&rpar;](https://www.reddit.com/r/scala/comments/1h4b9f6/this_week_in_scala_dec_2_2024/)
-- [Failing to bend contravariance to my will](https://www.reddit.com/r/scala/comments/1h3krbv/failing_to_bend_contravariance_to_my_will/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

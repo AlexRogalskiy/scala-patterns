@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to dynamicly add a widget to the content of a scene in scalafx ?](https://www.reddit.com/r/scala/comments/1h91kt6/how_to_dynamicly_add_a_widget_to_the_content_of_a/)
+- [A succinct early exit trick for Option in Scala](https://www.reddit.com/r/scala/comments/1h91irf/a_succinct_early_exit_trick_for_option_in_scala/)
 - [Better Scala Builds with the Mill Build Tool, Functional Scala 2024](https://www.reddit.com/r/scala/comments/1h7nijh/better_scala_builds_with_the_mill_build_tool/)
 - [IntelliJ Scala Plugin 2024.3.20 Is Out!](https://www.reddit.com/r/scala/comments/1h7d1zl/intellij_scala_plugin_2024320_is_out/)
 - [All 24 new JEPs for JDK 24: Quantum Cryptography, Garbage Collectors, and a lot of cleanups](https://www.reddit.com/r/scala/comments/1h7bmo1/all_24_new_jeps_for_jdk_24_quantum_cryptography/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Need more knowledge on thread level functionality](https://www.reddit.com/r/scala/comments/1h73plr/need_more_knowledge_on_thread_level_functionality/)
 - [Kyo v0.15.0](https://www.reddit.com/r/scala/comments/1h693ya/kyo_v0150/)
 - [Is Option the Right Choice? Struggling with Debugging None in Chained Calls as a Scala Beginner](https://www.reddit.com/r/scala/comments/1h5l67x/is_option_the_right_choice_struggling_with/)
-- [Since zio-json uses magnolia under the hood, can I do this instead of providing an implicit codec for every case class as seen in the documentation, and only define custom codecs for specific types when necessary?](https://www.reddit.com/r/scala/comments/1h59zfh/since_ziojson_uses_magnolia_under_the_hood_can_i/)
-- [Advent of Code 2024 — chat room, crowdsourced solutions](https://www.reddit.com/r/scala/comments/1h53du0/advent_of_code_2024_chat_room_crowdsourced/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

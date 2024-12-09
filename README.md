@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Dec 9, 2024&rpar;](https://www.reddit.com/r/scala/comments/1h9wlo9/this_week_in_scala_dec_9_2024/)
+- [Cannot override non-inline parameter with an inline parameter](https://www.reddit.com/r/scala/comments/1h9ht4f/cannot_override_noninline_parameter_with_an/)
 - [How to dynamicly add a widget to the content of a scene in scalafx ?](https://www.reddit.com/r/scala/comments/1h91kt6/how_to_dynamicly_add_a_widget_to_the_content_of_a/)
 - [A succinct early exit trick for Option in Scala](https://www.reddit.com/r/scala/comments/1h91irf/a_succinct_early_exit_trick_for_option_in_scala/)
 - [Better Scala Builds with the Mill Build Tool, Functional Scala 2024](https://www.reddit.com/r/scala/comments/1h7nijh/better_scala_builds_with_the_mill_build_tool/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [[Event] Functional World #13 | Anatomy of Scaladex with Kannupriya Kalra](https://www.reddit.com/r/scala/comments/1h76ssk/event_functional_world_13_anatomy_of_scaladex/)
 - [IntelliJ IDEA x Scala - a new video series about the features of IntelliJ Scala Plugin](https://www.reddit.com/r/scala/comments/1h76hck/intellij_idea_x_scala_a_new_video_series_about/)
 - [Need more knowledge on thread level functionality](https://www.reddit.com/r/scala/comments/1h73plr/need_more_knowledge_on_thread_level_functionality/)
-- [Kyo v0.15.0](https://www.reddit.com/r/scala/comments/1h693ya/kyo_v0150/)
-- [Is Option the Right Choice? Struggling with Debugging None in Chained Calls as a Scala Beginner](https://www.reddit.com/r/scala/comments/1h5l67x/is_option_the_right_choice_struggling_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

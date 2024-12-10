@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [etl4s - a little DSL for dataflow in Scala. Looking for your feedback!](https://www.reddit.com/r/scala/comments/1hal4fv/etl4s_a_little_dsl_for_dataflow_in_scala_looking/)
+- [Two cents about type-driven dependency-injection approach.](https://www.reddit.com/r/scala/comments/1hag9cs/two_cents_about_typedriven_dependencyinjection/)
+- [Can I add constraint to a LocalDateTime with iron scala?](https://www.reddit.com/r/scala/comments/1habsp1/can_i_add_constraint_to_a_localdatetime_with_iron/)
+- [sbt-steps 0.1.0 first release](https://www.reddit.com/r/scala/comments/1haad8r/sbtsteps_010_first_release/)
+- [Helenus v1.7.0 released!](https://www.reddit.com/r/scala/comments/1ha5usu/helenus_v170_released/)
+- [Integrate JobRunr into Play Framework](https://www.reddit.com/r/scala/comments/1ha57i4/integrate_jobrunr_into_play_framework/)
 - [This week in #Scala &lpar;Dec 9, 2024&rpar;](https://www.reddit.com/r/scala/comments/1h9wlo9/this_week_in_scala_dec_9_2024/)
 - [Cannot override non-inline parameter with an inline parameter](https://www.reddit.com/r/scala/comments/1h9ht4f/cannot_override_noninline_parameter_with_an/)
 - [How to dynamicly add a widget to the content of a scene in scalafx ?](https://www.reddit.com/r/scala/comments/1h91kt6/how_to_dynamicly_add_a_widget_to_the_content_of_a/)
 - [A succinct early exit trick for Option in Scala](https://www.reddit.com/r/scala/comments/1h91irf/a_succinct_early_exit_trick_for_option_in_scala/)
-- [Better Scala Builds with the Mill Build Tool, Functional Scala 2024](https://www.reddit.com/r/scala/comments/1h7nijh/better_scala_builds_with_the_mill_build_tool/)
-- [IntelliJ Scala Plugin 2024.3.20 Is Out!](https://www.reddit.com/r/scala/comments/1h7d1zl/intellij_scala_plugin_2024320_is_out/)
-- [All 24 new JEPs for JDK 24: Quantum Cryptography, Garbage Collectors, and a lot of cleanups](https://www.reddit.com/r/scala/comments/1h7bmo1/all_24_new_jeps_for_jdk_24_quantum_cryptography/)
-- [[Event] Functional World #13 | Anatomy of Scaladex with Kannupriya Kalra](https://www.reddit.com/r/scala/comments/1h76ssk/event_functional_world_13_anatomy_of_scaladex/)
-- [IntelliJ IDEA x Scala - a new video series about the features of IntelliJ Scala Plugin](https://www.reddit.com/r/scala/comments/1h76hck/intellij_idea_x_scala_a_new_video_series_about/)
-- [Need more knowledge on thread level functionality](https://www.reddit.com/r/scala/comments/1h73plr/need_more_knowledge_on_thread_level_functionality/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

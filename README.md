@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3.6 released!](https://www.reddit.com/r/scala/comments/1hbfr1l/scala_36_released/)
 - [etl4s - a little DSL for dataflow in Scala. Looking for your feedback!](https://www.reddit.com/r/scala/comments/1hal4fv/etl4s_a_little_dsl_for_dataflow_in_scala_looking/)
 - [Two cents about type-driven dependency-injection approach.](https://www.reddit.com/r/scala/comments/1hag9cs/two_cents_about_typedriven_dependencyinjection/)
 - [Can I add constraint to a LocalDateTime with iron scala?](https://www.reddit.com/r/scala/comments/1habsp1/can_i_add_constraint_to_a_localdatetime_with_iron/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Dec 9, 2024&rpar;](https://www.reddit.com/r/scala/comments/1h9wlo9/this_week_in_scala_dec_9_2024/)
 - [Cannot override non-inline parameter with an inline parameter](https://www.reddit.com/r/scala/comments/1h9ht4f/cannot_override_noninline_parameter_with_an/)
 - [How to dynamicly add a widget to the content of a scene in scalafx ?](https://www.reddit.com/r/scala/comments/1h91kt6/how_to_dynamicly_add_a_widget_to_the_content_of_a/)
-- [A succinct early exit trick for Option in Scala](https://www.reddit.com/r/scala/comments/1h91irf/a_succinct_early_exit_trick_for_option_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

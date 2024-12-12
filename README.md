@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Error Logging ZLayer Creation](https://www.reddit.com/r/scala/comments/1hc6o5s/error_logging_zlayer_creation/)
+- [Purify Your Tests Episode IV: The Monoids Strike Back](https://www.reddit.com/r/scala/comments/1hc3fvm/purify_your_tests_episode_iv_the_monoids_strike/)
+- [Wvlet Playground: An online demo of a new flow-style query language powered by Scala.js and DuckDB-Wasm](https://www.reddit.com/r/scala/comments/1hc2of7/wvlet_playground_an_online_demo_of_a_new/)
 - [Scala 3.6 released!](https://www.reddit.com/r/scala/comments/1hbfr1l/scala_36_released/)
 - [etl4s - a little DSL for dataflow in Scala. Looking for your feedback!](https://www.reddit.com/r/scala/comments/1hal4fv/etl4s_a_little_dsl_for_dataflow_in_scala_looking/)
 - [Two cents about type-driven dependency-injection approach.](https://www.reddit.com/r/scala/comments/1hag9cs/two_cents_about_typedriven_dependencyinjection/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt-steps 0.1.0 first release](https://www.reddit.com/r/scala/comments/1haad8r/sbtsteps_010_first_release/)
 - [Helenus v1.7.0 released!](https://www.reddit.com/r/scala/comments/1ha5usu/helenus_v170_released/)
 - [Integrate JobRunr into Play Framework](https://www.reddit.com/r/scala/comments/1ha57i4/integrate_jobrunr_into_play_framework/)
-- [This week in #Scala &lpar;Dec 9, 2024&rpar;](https://www.reddit.com/r/scala/comments/1h9wlo9/this_week_in_scala_dec_9_2024/)
-- [Cannot override non-inline parameter with an inline parameter](https://www.reddit.com/r/scala/comments/1h9ht4f/cannot_override_noninline_parameter_with_an/)
-- [How to dynamicly add a widget to the content of a scene in scalafx ?](https://www.reddit.com/r/scala/comments/1h91kt6/how_to_dynamicly_add_a_widget_to_the_content_of_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

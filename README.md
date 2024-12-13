@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Welcome to Scala 2.7.7... in 2024, Scala IO 2024](https://www.reddit.com/r/scala/comments/1hcu1cx/welcome_to_scala_277_in_2024_scala_io_2024/)
+- [Are Iron scala collection constraints not available at compile time?](https://www.reddit.com/r/scala/comments/1hctror/are_iron_scala_collection_constraints_not/)
+- [Scala Opportunity with Disney Streaming](https://www.reddit.com/r/scala/comments/1hcqm4s/scala_opportunity_with_disney_streaming/)
+- [Modeling in Scala, part 1: modeling your domain](https://www.reddit.com/r/scala/comments/1hcmrux/modeling_in_scala_part_1_modeling_your_domain/)
+- [I made a thin esbuild plugin for Scala](https://www.reddit.com/r/scala/comments/1hcgugn/i_made_a_thin_esbuild_plugin_for_scala/)
 - [Error Logging ZLayer Creation](https://www.reddit.com/r/scala/comments/1hc6o5s/error_logging_zlayer_creation/)
 - [Purify Your Tests Episode IV: The Monoids Strike Back](https://www.reddit.com/r/scala/comments/1hc3fvm/purify_your_tests_episode_iv_the_monoids_strike/)
 - [Wvlet Playground: An online demo of a new flow-style query language powered by Scala.js and DuckDB-Wasm](https://www.reddit.com/r/scala/comments/1hc2of7/wvlet_playground_an_online_demo_of_a_new/)
 - [Scala 3.6 released!](https://www.reddit.com/r/scala/comments/1hbfr1l/scala_36_released/)
 - [etl4s - a little DSL for dataflow in Scala. Looking for your feedback!](https://www.reddit.com/r/scala/comments/1hal4fv/etl4s_a_little_dsl_for_dataflow_in_scala_looking/)
-- [Two cents about type-driven dependency-injection approach.](https://www.reddit.com/r/scala/comments/1hag9cs/two_cents_about_typedriven_dependencyinjection/)
-- [Can I add constraint to a LocalDateTime with iron scala?](https://www.reddit.com/r/scala/comments/1habsp1/can_i_add_constraint_to_a_localdatetime_with_iron/)
-- [sbt-steps 0.1.0 first release](https://www.reddit.com/r/scala/comments/1haad8r/sbtsteps_010_first_release/)
-- [Helenus v1.7.0 released!](https://www.reddit.com/r/scala/comments/1ha5usu/helenus_v170_released/)
-- [Integrate JobRunr into Play Framework](https://www.reddit.com/r/scala/comments/1ha57i4/integrate_jobrunr_into_play_framework/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

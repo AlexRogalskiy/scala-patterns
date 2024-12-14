@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is the difference between &quot;org.scalatestplus&quot; %% &quot;scalacheck-1-18&quot; and &quot;org.scalacheck&quot; %% &quot;scalacheck&quot;?](https://www.reddit.com/r/scala/comments/1hdp9lk/what_is_the_difference_between_orgscalatestplus/)
+- [Laminar 17.2.0 is out, with cool new Airstream features – Splitting observables by pattern match, LocalStorage synced vars, StrictSignal mapping, and more!](https://www.reddit.com/r/scala/comments/1hd8qdq/laminar_1720_is_out_with_cool_new_airstream/)
 - [Welcome to Scala 2.7.7... in 2024, Scala IO 2024](https://www.reddit.com/r/scala/comments/1hcu1cx/welcome_to_scala_277_in_2024_scala_io_2024/)
 - [Are Iron scala collection constraints not available at compile time?](https://www.reddit.com/r/scala/comments/1hctror/are_iron_scala_collection_constraints_not/)
 - [Scala Opportunity with Disney Streaming](https://www.reddit.com/r/scala/comments/1hcqm4s/scala_opportunity_with_disney_streaming/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Error Logging ZLayer Creation](https://www.reddit.com/r/scala/comments/1hc6o5s/error_logging_zlayer_creation/)
 - [Purify Your Tests Episode IV: The Monoids Strike Back](https://www.reddit.com/r/scala/comments/1hc3fvm/purify_your_tests_episode_iv_the_monoids_strike/)
 - [Wvlet Playground: An online demo of a new flow-style query language powered by Scala.js and DuckDB-Wasm](https://www.reddit.com/r/scala/comments/1hc2of7/wvlet_playground_an_online_demo_of_a_new/)
-- [Scala 3.6 released!](https://www.reddit.com/r/scala/comments/1hbfr1l/scala_36_released/)
-- [etl4s - a little DSL for dataflow in Scala. Looking for your feedback!](https://www.reddit.com/r/scala/comments/1hal4fv/etl4s_a_little_dsl_for_dataflow_in_scala_looking/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

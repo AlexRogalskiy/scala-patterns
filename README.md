@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [On Scala Tooling &amp; Stability: What Can We Learn From a Small Drama?](https://www.reddit.com/r/scala/comments/1hednw2/on_scala_tooling_stability_what_can_we_learn_from/)
+- [TypeScript Style Guide](https://www.reddit.com/r/scala/comments/1he5x85/typescript_style_guide/)
+- [RAPICCA Fireplace Gloves Fire Heat Resistant: Dark-Grey 16IN 932℉](https://www.reddit.com/r/scala/comments/1he5b2t/rapicca_fireplace_gloves_fire_heat_resistant/)
 - [What is the difference between &quot;org.scalatestplus&quot; %% &quot;scalacheck-1-18&quot; and &quot;org.scalacheck&quot; %% &quot;scalacheck&quot;?](https://www.reddit.com/r/scala/comments/1hdp9lk/what_is_the_difference_between_orgscalatestplus/)
 - [Laminar 17.2.0 is out, with cool new Airstream features – Splitting observables by pattern match, LocalStorage synced vars, StrictSignal mapping, and more!](https://www.reddit.com/r/scala/comments/1hd8qdq/laminar_1720_is_out_with_cool_new_airstream/)
 - [Welcome to Scala 2.7.7... in 2024, Scala IO 2024](https://www.reddit.com/r/scala/comments/1hcu1cx/welcome_to_scala_277_in_2024_scala_io_2024/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Opportunity with Disney Streaming](https://www.reddit.com/r/scala/comments/1hcqm4s/scala_opportunity_with_disney_streaming/)
 - [Modeling in Scala, part 1: modeling your domain](https://www.reddit.com/r/scala/comments/1hcmrux/modeling_in_scala_part_1_modeling_your_domain/)
 - [I made a thin esbuild plugin for Scala](https://www.reddit.com/r/scala/comments/1hcgugn/i_made_a_thin_esbuild_plugin_for_scala/)
-- [Error Logging ZLayer Creation](https://www.reddit.com/r/scala/comments/1hc6o5s/error_logging_zlayer_creation/)
-- [Purify Your Tests Episode IV: The Monoids Strike Back](https://www.reddit.com/r/scala/comments/1hc3fvm/purify_your_tests_episode_iv_the_monoids_strike/)
-- [Wvlet Playground: An online demo of a new flow-style query language powered by Scala.js and DuckDB-Wasm](https://www.reddit.com/r/scala/comments/1hc2of7/wvlet_playground_an_online_demo_of_a_new/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

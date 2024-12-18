@@ -271,13 +271,13 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Confused by scalac rewrite &lpar;and its relation to ScalaFix&rpar;](https://www.reddit.com/r/scala/comments/1hg5wec/confused_by_scalac_rewrite_and_its_relation_to/)
 - [Scala 2 maintenance announcement](https://www.reddit.com/r/scala/comments/1hfq36y/scala_2_maintenance_announcement/)
 - [Fibonacci Function Gallery - Part 1](https://www.reddit.com/r/scala/comments/1hfnysx/fibonacci_function_gallery_part_1/)
 - [TypeError$$anon$1: object caps does not have a member type Cap](https://www.reddit.com/r/scala/comments/1hfd70z/typeerroranon1_object_caps_does_not_have_a_member/)
 - [This week in #Scala &lpar;Dec 16, 2024&rpar;](https://www.reddit.com/r/scala/comments/1heyvnl/this_week_in_scala_dec_16_2024/)
 - [We all love FP[_]](https://www.reddit.com/r/scala/comments/1hex38w/we_all_love_fp/)
 - [On Scala Tooling &amp; Stability: What Can We Learn From a Small Drama?](https://www.reddit.com/r/scala/comments/1hednw2/on_scala_tooling_stability_what_can_we_learn_from/)
-- [RAPICCA Fireplace Gloves Fire Heat Resistant: Dark-Grey 16IN 932℉](https://www.reddit.com/r/scala/comments/1he5b2t/rapicca_fireplace_gloves_fire_heat_resistant/)
 - [What is the difference between &quot;org.scalatestplus&quot; %% &quot;scalacheck-1-18&quot; and &quot;org.scalacheck&quot; %% &quot;scalacheck&quot;?](https://www.reddit.com/r/scala/comments/1hdp9lk/what_is_the_difference_between_orgscalatestplus/)
 - [Laminar 17.2.0 is out, with cool new Airstream features – Splitting observables by pattern match, LocalStorage synced vars, StrictSignal mapping, and more!](https://www.reddit.com/r/scala/comments/1hd8qdq/laminar_1720_is_out_with_cool_new_airstream/)
 - [Welcome to Scala 2.7.7... in 2024, Scala IO 2024](https://www.reddit.com/r/scala/comments/1hcu1cx/welcome_to_scala_277_in_2024_scala_io_2024/)

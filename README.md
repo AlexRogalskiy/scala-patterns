@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Triemap](https://www.reddit.com/r/scala/comments/1hh6qdv/triemap/)
+- [sbt 2.0.0-M3 released](https://www.reddit.com/r/scala/comments/1hgy2vh/sbt_200m3_released/)
 - [Confused by scalac rewrite &lpar;and its relation to ScalaFix&rpar;](https://www.reddit.com/r/scala/comments/1hg5wec/confused_by_scalac_rewrite_and_its_relation_to/)
 - [Scala 2 maintenance announcement](https://www.reddit.com/r/scala/comments/1hfq36y/scala_2_maintenance_announcement/)
 - [Fibonacci Function Gallery - Part 1](https://www.reddit.com/r/scala/comments/1hfnysx/fibonacci_function_gallery_part_1/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [We all love FP[_]](https://www.reddit.com/r/scala/comments/1hex38w/we_all_love_fp/)
 - [On Scala Tooling &amp; Stability: What Can We Learn From a Small Drama?](https://www.reddit.com/r/scala/comments/1hednw2/on_scala_tooling_stability_what_can_we_learn_from/)
 - [What is the difference between &quot;org.scalatestplus&quot; %% &quot;scalacheck-1-18&quot; and &quot;org.scalacheck&quot; %% &quot;scalacheck&quot;?](https://www.reddit.com/r/scala/comments/1hdp9lk/what_is_the_difference_between_orgscalatestplus/)
-- [Laminar 17.2.0 is out, with cool new Airstream features – Splitting observables by pattern match, LocalStorage synced vars, StrictSignal mapping, and more!](https://www.reddit.com/r/scala/comments/1hd8qdq/laminar_1720_is_out_with_cool_new_airstream/)
-- [Welcome to Scala 2.7.7... in 2024, Scala IO 2024](https://www.reddit.com/r/scala/comments/1hcu1cx/welcome_to_scala_277_in_2024_scala_io_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

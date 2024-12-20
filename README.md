@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala with Cats 2: Alternative implementation of Stream.filter](https://www.reddit.com/r/scala/comments/1hhuftr/scala_with_cats_2_alternative_implementation_of/)
+- [ZIO 2.1.14 released 🔥](https://www.reddit.com/r/scala/comments/1hhtauf/zio_2114_released/)
+- [Mill Selective Execution](https://www.reddit.com/r/scala/comments/1hht6ii/mill_selective_execution/)
+- [Need equivalent windows command](https://www.reddit.com/r/scala/comments/1hhspjp/need_equivalent_windows_command/)
+- [Accepting any IndexedSeq[IndexedSeq[_]]?](https://www.reddit.com/r/scala/comments/1hhq6yg/accepting_any_indexedseqindexedseq/)
 - [Triemap](https://www.reddit.com/r/scala/comments/1hh6qdv/triemap/)
 - [sbt 2.0.0-M3 released](https://www.reddit.com/r/scala/comments/1hgy2vh/sbt_200m3_released/)
 - [Confused by scalac rewrite &lpar;and its relation to ScalaFix&rpar;](https://www.reddit.com/r/scala/comments/1hg5wec/confused_by_scalac_rewrite_and_its_relation_to/)
 - [Scala 2 maintenance announcement](https://www.reddit.com/r/scala/comments/1hfq36y/scala_2_maintenance_announcement/)
 - [Fibonacci Function Gallery - Part 1](https://www.reddit.com/r/scala/comments/1hfnysx/fibonacci_function_gallery_part_1/)
-- [TypeError$$anon$1: object caps does not have a member type Cap](https://www.reddit.com/r/scala/comments/1hfd70z/typeerroranon1_object_caps_does_not_have_a_member/)
-- [This week in #Scala &lpar;Dec 16, 2024&rpar;](https://www.reddit.com/r/scala/comments/1heyvnl/this_week_in_scala_dec_16_2024/)
-- [We all love FP[_]](https://www.reddit.com/r/scala/comments/1hex38w/we_all_love_fp/)
-- [On Scala Tooling &amp; Stability: What Can We Learn From a Small Drama?](https://www.reddit.com/r/scala/comments/1hednw2/on_scala_tooling_stability_what_can_we_learn_from/)
-- [What is the difference between &quot;org.scalatestplus&quot; %% &quot;scalacheck-1-18&quot; and &quot;org.scalacheck&quot; %% &quot;scalacheck&quot;?](https://www.reddit.com/r/scala/comments/1hdp9lk/what_is_the_difference_between_orgscalatestplus/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

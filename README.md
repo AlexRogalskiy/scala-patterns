@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Dec 23, 2024&rpar;](https://www.reddit.com/r/scala/comments/1hkbdoc/this_week_in_scala_dec_23_2024/)
+- [Breadth first search question](https://www.reddit.com/r/scala/comments/1hjrbeo/breadth_first_search_question/)
 - [The IntelliJ Scala Plugin in 2024 | The IntelliJ Scala Plugin Blog](https://www.reddit.com/r/scala/comments/1himc5k/the_intellij_scala_plugin_in_2024_the_intellij/)
 - [Decisions4s: Complicated Conditionals, Higher Kinded Data and Scala 3](https://www.reddit.com/r/scala/comments/1him5fh/decisions4s_complicated_conditionals_higher/)
 - [How to test a websocket with zio-http 3.0.1](https://www.reddit.com/r/scala/comments/1hifl8y/how_to_test_a_websocket_with_ziohttp_301/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Mill Selective Execution](https://www.reddit.com/r/scala/comments/1hht6ii/mill_selective_execution/)
 - [Need equivalent windows command](https://www.reddit.com/r/scala/comments/1hhspjp/need_equivalent_windows_command/)
 - [Accepting any IndexedSeq[IndexedSeq[_]]?](https://www.reddit.com/r/scala/comments/1hhq6yg/accepting_any_indexedseqindexedseq/)
-- [Triemap](https://www.reddit.com/r/scala/comments/1hh6qdv/triemap/)
-- [sbt 2.0.0-M3 released](https://www.reddit.com/r/scala/comments/1hgy2vh/sbt_200m3_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

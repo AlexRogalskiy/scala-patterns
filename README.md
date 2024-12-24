@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Cats MonadError + SIP-64 Context Bound](https://www.reddit.com/r/scala/comments/1hkwv48/cats_monaderror_sip64_context_bound/)
+- [Helenus v1.8.1 Released! Now with ZIO integration](https://www.reddit.com/r/scala/comments/1hklp3r/helenus_v181_released_now_with_zio_integration/)
+- [Is IntelliJ support for scala not good or am I missing something ?](https://www.reddit.com/r/scala/comments/1hkh2fc/is_intellij_support_for_scala_not_good_or_am_i/)
+- [Scala is Cool and works well with Java 21](https://www.reddit.com/r/scala/comments/1hkgz9a/scala_is_cool_and_works_well_with_java_21/)
+- [sbt 1.10.7 released](https://www.reddit.com/r/scala/comments/1hkfh8c/sbt_1107_released/)
 - [This week in #Scala &lpar;Dec 23, 2024&rpar;](https://www.reddit.com/r/scala/comments/1hkbdoc/this_week_in_scala_dec_23_2024/)
 - [Breadth first search question](https://www.reddit.com/r/scala/comments/1hjrbeo/breadth_first_search_question/)
 - [The IntelliJ Scala Plugin in 2024 | The IntelliJ Scala Plugin Blog](https://www.reddit.com/r/scala/comments/1himc5k/the_intellij_scala_plugin_in_2024_the_intellij/)
 - [Decisions4s: Complicated Conditionals, Higher Kinded Data and Scala 3](https://www.reddit.com/r/scala/comments/1him5fh/decisions4s_complicated_conditionals_higher/)
 - [How to test a websocket with zio-http 3.0.1](https://www.reddit.com/r/scala/comments/1hifl8y/how_to_test_a_websocket_with_ziohttp_301/)
-- [Scala with Cats 2: Alternative implementation of Stream.filter](https://www.reddit.com/r/scala/comments/1hhuftr/scala_with_cats_2_alternative_implementation_of/)
-- [ZIO 2.1.14 released 🔥](https://www.reddit.com/r/scala/comments/1hhtauf/zio_2114_released/)
-- [Mill Selective Execution](https://www.reddit.com/r/scala/comments/1hht6ii/mill_selective_execution/)
-- [Need equivalent windows command](https://www.reddit.com/r/scala/comments/1hhspjp/need_equivalent_windows_command/)
-- [Accepting any IndexedSeq[IndexedSeq[_]]?](https://www.reddit.com/r/scala/comments/1hhq6yg/accepting_any_indexedseqindexedseq/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

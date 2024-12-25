@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Understanding Selective Testing &lpar;Mill Blog&rpar;](https://www.reddit.com/r/scala/comments/1hloyhm/understanding_selective_testing_mill_blog/)
+- [:&rpar;](https://www.reddit.com/r/scala/comments/1hlo6vm/_/)
 - [Cats MonadError + SIP-64 Context Bound](https://www.reddit.com/r/scala/comments/1hkwv48/cats_monaderror_sip64_context_bound/)
 - [Helenus v1.8.1 Released! Now with ZIO integration](https://www.reddit.com/r/scala/comments/1hklp3r/helenus_v181_released_now_with_zio_integration/)
 - [Is IntelliJ support for scala not good or am I missing something ?](https://www.reddit.com/r/scala/comments/1hkh2fc/is_intellij_support_for_scala_not_good_or_am_i/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Dec 23, 2024&rpar;](https://www.reddit.com/r/scala/comments/1hkbdoc/this_week_in_scala_dec_23_2024/)
 - [Breadth first search question](https://www.reddit.com/r/scala/comments/1hjrbeo/breadth_first_search_question/)
 - [The IntelliJ Scala Plugin in 2024 | The IntelliJ Scala Plugin Blog](https://www.reddit.com/r/scala/comments/1himc5k/the_intellij_scala_plugin_in_2024_the_intellij/)
-- [Decisions4s: Complicated Conditionals, Higher Kinded Data and Scala 3](https://www.reddit.com/r/scala/comments/1him5fh/decisions4s_complicated_conditionals_higher/)
-- [How to test a websocket with zio-http 3.0.1](https://www.reddit.com/r/scala/comments/1hifl8y/how_to_test_a_websocket_with_ziohttp_301/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

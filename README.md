@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Compiling time: i7/16 vs m3/36](https://www.reddit.com/r/scala/comments/1hlxjcl/compiling_time_i716_vs_m336/)
+- [Which book in your mind is the best for getting started with Scala &lpar;3&rpar; for people with some programming experience?](https://www.reddit.com/r/scala/comments/1hlviju/which_book_in_your_mind_is_the_best_for_getting/)
 - [Understanding Selective Testing &lpar;Mill Blog&rpar;](https://www.reddit.com/r/scala/comments/1hloyhm/understanding_selective_testing_mill_blog/)
 - [:&rpar;](https://www.reddit.com/r/scala/comments/1hlo6vm/_/)
 - [Cats MonadError + SIP-64 Context Bound](https://www.reddit.com/r/scala/comments/1hkwv48/cats_monaderror_sip64_context_bound/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala is Cool and works well with Java 21](https://www.reddit.com/r/scala/comments/1hkgz9a/scala_is_cool_and_works_well_with_java_21/)
 - [sbt 1.10.7 released](https://www.reddit.com/r/scala/comments/1hkfh8c/sbt_1107_released/)
 - [This week in #Scala &lpar;Dec 23, 2024&rpar;](https://www.reddit.com/r/scala/comments/1hkbdoc/this_week_in_scala_dec_23_2024/)
-- [Breadth first search question](https://www.reddit.com/r/scala/comments/1hjrbeo/breadth_first_search_question/)
-- [The IntelliJ Scala Plugin in 2024 | The IntelliJ Scala Plugin Blog](https://www.reddit.com/r/scala/comments/1himc5k/the_intellij_scala_plugin_in_2024_the_intellij/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Fibonacci Function Gallery - Part 2 - Infinite Streams](https://www.reddit.com/r/scala/comments/1hnqlr2/fibonacci_function_gallery_part_2_infinite_streams/)
+- [How to lazily collect a file content?](https://www.reddit.com/r/scala/comments/1hndho9/how_to_lazily_collect_a_file_content/)
+- [Openapi4s first release](https://www.reddit.com/r/scala/comments/1hnd8pv/openapi4s_first_release/)
+- [Reasonable getting-started setup for a very old Mac?](https://www.reddit.com/r/scala/comments/1hn9kcg/reasonable_gettingstarted_setup_for_a_very_old_mac/)
 - [Compiling time: i7/16 vs m3/36](https://www.reddit.com/r/scala/comments/1hlxjcl/compiling_time_i716_vs_m336/)
 - [Which book in your mind is the best for getting started with Scala &lpar;3&rpar; for people with some programming experience?](https://www.reddit.com/r/scala/comments/1hlviju/which_book_in_your_mind_is_the_best_for_getting/)
 - [Understanding Selective Testing &lpar;Mill Blog&rpar;](https://www.reddit.com/r/scala/comments/1hloyhm/understanding_selective_testing_mill_blog/)
 - [:&rpar;](https://www.reddit.com/r/scala/comments/1hlo6vm/_/)
 - [Cats MonadError + SIP-64 Context Bound](https://www.reddit.com/r/scala/comments/1hkwv48/cats_monaderror_sip64_context_bound/)
 - [Helenus v1.8.1 Released! Now with ZIO integration](https://www.reddit.com/r/scala/comments/1hklp3r/helenus_v181_released_now_with_zio_integration/)
-- [Is IntelliJ support for scala not good or am I missing something ?](https://www.reddit.com/r/scala/comments/1hkh2fc/is_intellij_support_for_scala_not_good_or_am_i/)
-- [Scala is Cool and works well with Java 21](https://www.reddit.com/r/scala/comments/1hkgz9a/scala_is_cool_and_works_well_with_java_21/)
-- [sbt 1.10.7 released](https://www.reddit.com/r/scala/comments/1hkfh8c/sbt_1107_released/)
-- [This week in #Scala &lpar;Dec 23, 2024&rpar;](https://www.reddit.com/r/scala/comments/1hkbdoc/this_week_in_scala_dec_23_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

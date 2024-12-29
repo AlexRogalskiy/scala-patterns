@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Pay for 2 YOE Scala Developer with overall 4 YOE.](https://www.reddit.com/r/scala/comments/1hnwgnn/pay_for_2_yoe_scala_developer_with_overall_4_yoe/)
 - [Fibonacci Function Gallery - Part 2 - Infinite Streams](https://www.reddit.com/r/scala/comments/1hnqlr2/fibonacci_function_gallery_part_2_infinite_streams/)
 - [How to lazily collect a file content?](https://www.reddit.com/r/scala/comments/1hndho9/how_to_lazily_collect_a_file_content/)
 - [Openapi4s first release](https://www.reddit.com/r/scala/comments/1hnd8pv/openapi4s_first_release/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Understanding Selective Testing &lpar;Mill Blog&rpar;](https://www.reddit.com/r/scala/comments/1hloyhm/understanding_selective_testing_mill_blog/)
 - [:&rpar;](https://www.reddit.com/r/scala/comments/1hlo6vm/_/)
 - [Cats MonadError + SIP-64 Context Bound](https://www.reddit.com/r/scala/comments/1hkwv48/cats_monaderror_sip64_context_bound/)
-- [Helenus v1.8.1 Released! Now with ZIO integration](https://www.reddit.com/r/scala/comments/1hklp3r/helenus_v181_released_now_with_zio_integration/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

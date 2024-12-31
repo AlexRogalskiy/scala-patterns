@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Minimal type-driven dependency injection with effect systems](https://www.reddit.com/r/scala/comments/1hpncnn/minimal_typedriven_dependency_injection_with/)
 - [Two features I wish Scala would support](https://www.reddit.com/r/scala/comments/1hp5u47/two_features_i_wish_scala_would_support/)
 - [This week in #Scala &lpar;Dec 30, 2024&rpar;](https://www.reddit.com/r/scala/comments/1hp2s5h/this_week_in_scala_dec_30_2024/)
 - [Pay for 2 YOE Scala Developer with overall 4 YOE.](https://www.reddit.com/r/scala/comments/1hnwgnn/pay_for_2_yoe_scala_developer_with_overall_4_yoe/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Reasonable getting-started setup for a very old Mac?](https://www.reddit.com/r/scala/comments/1hn9kcg/reasonable_gettingstarted_setup_for_a_very_old_mac/)
 - [Compiling time: i7/16 vs m3/36](https://www.reddit.com/r/scala/comments/1hlxjcl/compiling_time_i716_vs_m336/)
 - [Which book in your mind is the best for getting started with Scala &lpar;3&rpar; for people with some programming experience?](https://www.reddit.com/r/scala/comments/1hlviju/which_book_in_your_mind_is_the_best_for_getting/)
-- [Understanding Selective Testing &lpar;Mill Blog&rpar;](https://www.reddit.com/r/scala/comments/1hloyhm/understanding_selective_testing_mill_blog/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

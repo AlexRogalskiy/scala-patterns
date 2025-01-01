@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Chimney 1.6.0](https://www.reddit.com/r/scala/comments/1hqftum/chimney_160/)
+- [Where Are the Scala Frameworks?](https://www.reddit.com/r/scala/comments/1hqf71f/where_are_the_scala_frameworks/)
+- [ifdef 0.4.0 released](https://www.reddit.com/r/scala/comments/1hq94zl/ifdef_040_released/)
 - [Minimal type-driven dependency injection with effect systems](https://www.reddit.com/r/scala/comments/1hpncnn/minimal_typedriven_dependency_injection_with/)
 - [Two features I wish Scala would support](https://www.reddit.com/r/scala/comments/1hp5u47/two_features_i_wish_scala_would_support/)
 - [This week in #Scala &lpar;Dec 30, 2024&rpar;](https://www.reddit.com/r/scala/comments/1hp2s5h/this_week_in_scala_dec_30_2024/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Fibonacci Function Gallery - Part 2 - Infinite Streams](https://www.reddit.com/r/scala/comments/1hnqlr2/fibonacci_function_gallery_part_2_infinite_streams/)
 - [How to lazily collect a file content?](https://www.reddit.com/r/scala/comments/1hndho9/how_to_lazily_collect_a_file_content/)
 - [Openapi4s first release](https://www.reddit.com/r/scala/comments/1hnd8pv/openapi4s_first_release/)
-- [Reasonable getting-started setup for a very old Mac?](https://www.reddit.com/r/scala/comments/1hn9kcg/reasonable_gettingstarted_setup_for_a_very_old_mac/)
-- [Compiling time: i7/16 vs m3/36](https://www.reddit.com/r/scala/comments/1hlxjcl/compiling_time_i716_vs_m336/)
-- [Which book in your mind is the best for getting started with Scala &lpar;3&rpar; for people with some programming experience?](https://www.reddit.com/r/scala/comments/1hlviju/which_book_in_your_mind_is_the_best_for_getting/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

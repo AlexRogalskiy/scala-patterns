@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Announcing Connect-RPC-Scala library – expose HTTP-REST &lpar;JSON&rpar; APIs derived from GRPC services](https://www.reddit.com/r/scala/comments/1hrgdab/announcing_connectrpcscala_library_expose/)
+- [Scala type-system versus F# type-system.](https://www.reddit.com/r/scala/comments/1hr8nmg/scala_typesystem_versus_f_typesystem/)
+- [How to treat opaque type as original type in givens?](https://www.reddit.com/r/scala/comments/1hqufnj/how_to_treat_opaque_type_as_original_type_in/)
 - [Chimney 1.6.0](https://www.reddit.com/r/scala/comments/1hqftum/chimney_160/)
 - [Where Are the Scala Frameworks?](https://www.reddit.com/r/scala/comments/1hqf71f/where_are_the_scala_frameworks/)
 - [ifdef 0.4.0 released](https://www.reddit.com/r/scala/comments/1hq94zl/ifdef_040_released/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Two features I wish Scala would support](https://www.reddit.com/r/scala/comments/1hp5u47/two_features_i_wish_scala_would_support/)
 - [This week in #Scala &lpar;Dec 30, 2024&rpar;](https://www.reddit.com/r/scala/comments/1hp2s5h/this_week_in_scala_dec_30_2024/)
 - [Pay for 2 YOE Scala Developer with overall 4 YOE.](https://www.reddit.com/r/scala/comments/1hnwgnn/pay_for_2_yoe_scala_developer_with_overall_4_yoe/)
-- [Fibonacci Function Gallery - Part 2 - Infinite Streams](https://www.reddit.com/r/scala/comments/1hnqlr2/fibonacci_function_gallery_part_2_infinite_streams/)
-- [How to lazily collect a file content?](https://www.reddit.com/r/scala/comments/1hndho9/how_to_lazily_collect_a_file_content/)
-- [Openapi4s first release](https://www.reddit.com/r/scala/comments/1hnd8pv/openapi4s_first_release/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

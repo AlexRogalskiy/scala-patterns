@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do you balance being good enough and mastering a language?](https://www.reddit.com/r/scala/comments/1hsanv9/how_do_you_balance_being_good_enough_and/)
+- [People who have studied and worked with both Scala and Clojure, why do you pick Scala now?](https://www.reddit.com/r/scala/comments/1hrvfna/people_who_have_studied_and_worked_with_both/)
+- [How Java&#39;s Executable Assembly Jars Work](https://www.reddit.com/r/scala/comments/1hrr59o/how_javas_executable_assembly_jars_work/)
 - [Announcing Connect-RPC-Scala library – expose HTTP-REST &lpar;JSON&rpar; APIs derived from GRPC services](https://www.reddit.com/r/scala/comments/1hrgdab/announcing_connectrpcscala_library_expose/)
 - [Scala type-system versus F# type-system.](https://www.reddit.com/r/scala/comments/1hr8nmg/scala_typesystem_versus_f_typesystem/)
 - [How to treat opaque type as original type in givens?](https://www.reddit.com/r/scala/comments/1hqufnj/how_to_treat_opaque_type_as_original_type_in/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Where Are the Scala Frameworks?](https://www.reddit.com/r/scala/comments/1hqf71f/where_are_the_scala_frameworks/)
 - [ifdef 0.4.0 released](https://www.reddit.com/r/scala/comments/1hq94zl/ifdef_040_released/)
 - [Minimal type-driven dependency injection with effect systems](https://www.reddit.com/r/scala/comments/1hpncnn/minimal_typedriven_dependency_injection_with/)
-- [Two features I wish Scala would support](https://www.reddit.com/r/scala/comments/1hp5u47/two_features_i_wish_scala_would_support/)
-- [This week in #Scala &lpar;Dec 30, 2024&rpar;](https://www.reddit.com/r/scala/comments/1hp2s5h/this_week_in_scala_dec_30_2024/)
-- [Pay for 2 YOE Scala Developer with overall 4 YOE.](https://www.reddit.com/r/scala/comments/1hnwgnn/pay_for_2_yoe_scala_developer_with_overall_4_yoe/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

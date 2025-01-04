@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [🚀 Announcing a Giter8 Template for Tyrian Framework &amp; Flowbite UI Framework 🛠️](https://www.reddit.com/r/scala/comments/1hsxxsu/announcing_a_giter8_template_for_tyrian_framework/)
+- [ducktape 0.2.7 has been released](https://www.reddit.com/r/scala/comments/1hsvww3/ducktape_027_has_been_released/)
+- [Test errors that make me smile](https://www.reddit.com/r/scala/comments/1hsvcv4/test_errors_that_make_me_smile/)
+- [asInstanceOf](https://www.reddit.com/r/scala/comments/1hstc2n/asinstanceof/)
+- [From Object Algebras to Finally Tagless Interpreters](https://www.reddit.com/r/scala/comments/1hsokm1/from_object_algebras_to_finally_tagless/)
+- [Experimenting with Named Tuples for zero boilerplate, strongly typed CSV experience](https://www.reddit.com/r/scala/comments/1hsofvl/experimenting_with_named_tuples_for_zero/)
+- [IntelliJ IDEA x Scala - Enums Support](https://www.reddit.com/r/scala/comments/1hsn8a9/intellij_idea_x_scala_enums_support/)
+- [Rant on Scala3 tooling &lpar;IntelliJ/metals&rpar;, wish I started new project in Scala2](https://www.reddit.com/r/scala/comments/1hsj6sv/rant_on_scala3_tooling_intellijmetals_wish_i/)
+- [Scala meetups &amp; conferences | Scalendar January 2025](https://www.reddit.com/r/scala/comments/1hsj05y/scala_meetups_conferences_scalendar_january_2025/)
 - [How do you balance being good enough and mastering a language?](https://www.reddit.com/r/scala/comments/1hsanv9/how_do_you_balance_being_good_enough_and/)
-- [People who have studied and worked with both Scala and Clojure, why do you pick Scala now?](https://www.reddit.com/r/scala/comments/1hrvfna/people_who_have_studied_and_worked_with_both/)
-- [How Java&#39;s Executable Assembly Jars Work](https://www.reddit.com/r/scala/comments/1hrr59o/how_javas_executable_assembly_jars_work/)
-- [Announcing Connect-RPC-Scala library – expose HTTP-REST &lpar;JSON&rpar; APIs derived from GRPC services](https://www.reddit.com/r/scala/comments/1hrgdab/announcing_connectrpcscala_library_expose/)
-- [Scala type-system versus F# type-system.](https://www.reddit.com/r/scala/comments/1hr8nmg/scala_typesystem_versus_f_typesystem/)
-- [How to treat opaque type as original type in givens?](https://www.reddit.com/r/scala/comments/1hqufnj/how_to_treat_opaque_type_as_original_type_in/)
-- [Chimney 1.6.0](https://www.reddit.com/r/scala/comments/1hqftum/chimney_160/)
-- [Where Are the Scala Frameworks?](https://www.reddit.com/r/scala/comments/1hqf71f/where_are_the_scala_frameworks/)
-- [ifdef 0.4.0 released](https://www.reddit.com/r/scala/comments/1hq94zl/ifdef_040_released/)
-- [Minimal type-driven dependency injection with effect systems](https://www.reddit.com/r/scala/comments/1hpncnn/minimal_typedriven_dependency_injection_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

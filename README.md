@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Still comparing scala to f#](https://www.reddit.com/r/scala/comments/1hthsm3/still_comparing_scala_to_f/)
 - [🚀 Announcing a Giter8 Template for Tyrian Framework &amp; Flowbite UI Framework 🛠️](https://www.reddit.com/r/scala/comments/1hsxxsu/announcing_a_giter8_template_for_tyrian_framework/)
 - [ducktape 0.2.7 has been released](https://www.reddit.com/r/scala/comments/1hsvww3/ducktape_027_has_been_released/)
 - [Test errors that make me smile](https://www.reddit.com/r/scala/comments/1hsvcv4/test_errors_that_make_me_smile/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [IntelliJ IDEA x Scala - Enums Support](https://www.reddit.com/r/scala/comments/1hsn8a9/intellij_idea_x_scala_enums_support/)
 - [Rant on Scala3 tooling &lpar;IntelliJ/metals&rpar;, wish I started new project in Scala2](https://www.reddit.com/r/scala/comments/1hsj6sv/rant_on_scala3_tooling_intellijmetals_wish_i/)
 - [Scala meetups &amp; conferences | Scalendar January 2025](https://www.reddit.com/r/scala/comments/1hsj05y/scala_meetups_conferences_scalendar_january_2025/)
-- [How do you balance being good enough and mastering a language?](https://www.reddit.com/r/scala/comments/1hsanv9/how_do_you_balance_being_good_enough_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

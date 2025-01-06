@@ -271,10 +271,10 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Jan 6, 2024&rpar;](https://www.reddit.com/r/scala/comments/1hugdq2/this_week_in_scala_jan_6_2024/)
 - [Still comparing scala to f#](https://www.reddit.com/r/scala/comments/1hthsm3/still_comparing_scala_to_f/)
 - [🚀 Announcing a Giter8 Template for Tyrian Framework &amp; Flowbite UI Framework 🛠️](https://www.reddit.com/r/scala/comments/1hsxxsu/announcing_a_giter8_template_for_tyrian_framework/)
 - [ducktape 0.2.7 has been released](https://www.reddit.com/r/scala/comments/1hsvww3/ducktape_027_has_been_released/)
-- [Test errors that make me smile](https://www.reddit.com/r/scala/comments/1hsvcv4/test_errors_that_make_me_smile/)
 - [asInstanceOf](https://www.reddit.com/r/scala/comments/1hstc2n/asinstanceof/)
 - [From Object Algebras to Finally Tagless Interpreters](https://www.reddit.com/r/scala/comments/1hsokm1/from_object_algebras_to_finally_tagless/)
 - [Experimenting with Named Tuples for zero boilerplate, strongly typed CSV experience](https://www.reddit.com/r/scala/comments/1hsofvl/experimenting_with_named_tuples_for_zero/)

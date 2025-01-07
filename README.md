@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Youtube resources on scala](https://www.reddit.com/r/scala/comments/1huxk6k/youtube_resources_on_scala/)
+- [[Hiring] Lenses.io](https://www.reddit.com/r/scala/comments/1huuzud/hiring_lensesio/)
 - [This week in #Scala &lpar;Jan 6, 2024&rpar;](https://www.reddit.com/r/scala/comments/1hugdq2/this_week_in_scala_jan_6_2024/)
 - [Still comparing scala to f#](https://www.reddit.com/r/scala/comments/1hthsm3/still_comparing_scala_to_f/)
 - [🚀 Announcing a Giter8 Template for Tyrian Framework &amp; Flowbite UI Framework 🛠️](https://www.reddit.com/r/scala/comments/1hsxxsu/announcing_a_giter8_template_for_tyrian_framework/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [From Object Algebras to Finally Tagless Interpreters](https://www.reddit.com/r/scala/comments/1hsokm1/from_object_algebras_to_finally_tagless/)
 - [Experimenting with Named Tuples for zero boilerplate, strongly typed CSV experience](https://www.reddit.com/r/scala/comments/1hsofvl/experimenting_with_named_tuples_for_zero/)
 - [IntelliJ IDEA x Scala - Enums Support](https://www.reddit.com/r/scala/comments/1hsn8a9/intellij_idea_x_scala_enums_support/)
-- [Rant on Scala3 tooling &lpar;IntelliJ/metals&rpar;, wish I started new project in Scala2](https://www.reddit.com/r/scala/comments/1hsj6sv/rant_on_scala3_tooling_intellijmetals_wish_i/)
-- [Scala meetups &amp; conferences | Scalendar January 2025](https://www.reddit.com/r/scala/comments/1hsj05y/scala_meetups_conferences_scalendar_january_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

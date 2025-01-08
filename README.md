@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Random Scala Tip #697: Avoid Anonymous Functions as Dependencies](https://www.reddit.com/r/scala/comments/1hw3l5g/random_scala_tip_697_avoid_anonymous_functions_as/)
+- [scala-parallel-collections is available for Scala Native now](https://www.reddit.com/r/scala/comments/1hw015o/scalaparallelcollections_is_available_for_scala/)
+- [Scaladex runs on Scala 3 now](https://www.reddit.com/r/scala/comments/1hvwmde/scaladex_runs_on_scala_3_now/)
 - [Youtube resources on scala](https://www.reddit.com/r/scala/comments/1huxk6k/youtube_resources_on_scala/)
 - [[Hiring] Lenses.io](https://www.reddit.com/r/scala/comments/1huuzud/hiring_lensesio/)
 - [This week in #Scala &lpar;Jan 6, 2024&rpar;](https://www.reddit.com/r/scala/comments/1hugdq2/this_week_in_scala_jan_6_2024/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [🚀 Announcing a Giter8 Template for Tyrian Framework &amp; Flowbite UI Framework 🛠️](https://www.reddit.com/r/scala/comments/1hsxxsu/announcing_a_giter8_template_for_tyrian_framework/)
 - [ducktape 0.2.7 has been released](https://www.reddit.com/r/scala/comments/1hsvww3/ducktape_027_has_been_released/)
 - [asInstanceOf](https://www.reddit.com/r/scala/comments/1hstc2n/asinstanceof/)
-- [From Object Algebras to Finally Tagless Interpreters](https://www.reddit.com/r/scala/comments/1hsokm1/from_object_algebras_to_finally_tagless/)
-- [Experimenting with Named Tuples for zero boilerplate, strongly typed CSV experience](https://www.reddit.com/r/scala/comments/1hsofvl/experimenting_with_named_tuples_for_zero/)
-- [IntelliJ IDEA x Scala - Enums Support](https://www.reddit.com/r/scala/comments/1hsn8a9/intellij_idea_x_scala_enums_support/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

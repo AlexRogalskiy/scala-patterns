@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What do you do about auth&lpar;n&rpar; and auth&lpar;z&rpar;?](https://www.reddit.com/r/scala/comments/1hwrvct/what_do_you_do_about_authn_and_authz/)
+- [[Hiring] 8 Scala positions at SwissBorg](https://www.reddit.com/r/scala/comments/1hwj1mw/hiring_8_scala_positions_at_swissborg/)
+- [Slow development experience](https://www.reddit.com/r/scala/comments/1hwi4rq/slow_development_experience/)
+- [[MEETUP] Functional World #14 | Secure Development: How Docker &amp; Kubernetes can enhance Cybersecurity](https://www.reddit.com/r/scala/comments/1hwhslw/meetup_functional_world_14_secure_development_how/)
 - [Random Scala Tip #697: Avoid Anonymous Functions as Dependencies](https://www.reddit.com/r/scala/comments/1hw3l5g/random_scala_tip_697_avoid_anonymous_functions_as/)
 - [scala-parallel-collections is available for Scala Native now](https://www.reddit.com/r/scala/comments/1hw015o/scalaparallelcollections_is_available_for_scala/)
 - [Scaladex runs on Scala 3 now](https://www.reddit.com/r/scala/comments/1hvwmde/scaladex_runs_on_scala_3_now/)
 - [Youtube resources on scala](https://www.reddit.com/r/scala/comments/1huxk6k/youtube_resources_on_scala/)
 - [[Hiring] Lenses.io](https://www.reddit.com/r/scala/comments/1huuzud/hiring_lensesio/)
 - [This week in #Scala &lpar;Jan 6, 2024&rpar;](https://www.reddit.com/r/scala/comments/1hugdq2/this_week_in_scala_jan_6_2024/)
-- [Still comparing scala to f#](https://www.reddit.com/r/scala/comments/1hthsm3/still_comparing_scala_to_f/)
-- [🚀 Announcing a Giter8 Template for Tyrian Framework &amp; Flowbite UI Framework 🛠️](https://www.reddit.com/r/scala/comments/1hsxxsu/announcing_a_giter8_template_for_tyrian_framework/)
-- [ducktape 0.2.7 has been released](https://www.reddit.com/r/scala/comments/1hsvww3/ducktape_027_has_been_released/)
-- [asInstanceOf](https://www.reddit.com/r/scala/comments/1hstc2n/asinstanceof/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

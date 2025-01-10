@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [doobie-typesafe v0.3.0 released: better docs, `SQLDefinition.option`](https://www.reddit.com/r/scala/comments/1hxltsd/doobietypesafe_v030_released_better_docs/)
+- [Can someone explain the difference between lazy val and def for recursive value?](https://www.reddit.com/r/scala/comments/1hxhf1y/can_someone_explain_the_difference_between_lazy/)
+- [Everything you might have missed in Java in 2024](https://www.reddit.com/r/scala/comments/1hxdpn4/everything_you_might_have_missed_in_java_in_2024/)
+- [Apache Pekko &lpar;Core&rpar; 1.1.3 Just released.](https://www.reddit.com/r/scala/comments/1hxbm0f/apache_pekko_core_113_just_released/)
+- [How to customize Dockerfile commands through sbt-native-packager?](https://www.reddit.com/r/scala/comments/1hxazki/how_to_customize_dockerfile_commands_through/)
 - [What do you do about auth&lpar;n&rpar; and auth&lpar;z&rpar;?](https://www.reddit.com/r/scala/comments/1hwrvct/what_do_you_do_about_authn_and_authz/)
 - [[Hiring] 8 Scala positions at SwissBorg](https://www.reddit.com/r/scala/comments/1hwj1mw/hiring_8_scala_positions_at_swissborg/)
 - [Slow development experience](https://www.reddit.com/r/scala/comments/1hwi4rq/slow_development_experience/)
 - [[MEETUP] Functional World #14 | Secure Development: How Docker &amp; Kubernetes can enhance Cybersecurity](https://www.reddit.com/r/scala/comments/1hwhslw/meetup_functional_world_14_secure_development_how/)
 - [Random Scala Tip #697: Avoid Anonymous Functions as Dependencies](https://www.reddit.com/r/scala/comments/1hw3l5g/random_scala_tip_697_avoid_anonymous_functions_as/)
-- [scala-parallel-collections is available for Scala Native now](https://www.reddit.com/r/scala/comments/1hw015o/scalaparallelcollections_is_available_for_scala/)
-- [Scaladex runs on Scala 3 now](https://www.reddit.com/r/scala/comments/1hvwmde/scaladex_runs_on_scala_3_now/)
-- [Youtube resources on scala](https://www.reddit.com/r/scala/comments/1huxk6k/youtube_resources_on_scala/)
-- [[Hiring] Lenses.io](https://www.reddit.com/r/scala/comments/1huuzud/hiring_lensesio/)
-- [This week in #Scala &lpar;Jan 6, 2024&rpar;](https://www.reddit.com/r/scala/comments/1hugdq2/this_week_in_scala_jan_6_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

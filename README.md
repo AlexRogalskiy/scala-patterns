@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Understanding JVM Garbage Collector Performance](https://www.reddit.com/r/scala/comments/1hyiqus/understanding_jvm_garbage_collector_performance/)
+- [[MEETUP] London Scala 2025 kickoff events](https://www.reddit.com/r/scala/comments/1hy1nx5/meetup_london_scala_2025_kickoff_events/)
 - [doobie-typesafe v0.3.0 released: better docs, `SQLDefinition.option`](https://www.reddit.com/r/scala/comments/1hxltsd/doobietypesafe_v030_released_better_docs/)
 - [Can someone explain the difference between lazy val and def for recursive value?](https://www.reddit.com/r/scala/comments/1hxhf1y/can_someone_explain_the_difference_between_lazy/)
 - [Everything you might have missed in Java in 2024](https://www.reddit.com/r/scala/comments/1hxdpn4/everything_you_might_have_missed_in_java_in_2024/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [What do you do about auth&lpar;n&rpar; and auth&lpar;z&rpar;?](https://www.reddit.com/r/scala/comments/1hwrvct/what_do_you_do_about_authn_and_authz/)
 - [[Hiring] 8 Scala positions at SwissBorg](https://www.reddit.com/r/scala/comments/1hwj1mw/hiring_8_scala_positions_at_swissborg/)
 - [Slow development experience](https://www.reddit.com/r/scala/comments/1hwi4rq/slow_development_experience/)
-- [[MEETUP] Functional World #14 | Secure Development: How Docker &amp; Kubernetes can enhance Cybersecurity](https://www.reddit.com/r/scala/comments/1hwhslw/meetup_functional_world_14_secure_development_how/)
-- [Random Scala Tip #697: Avoid Anonymous Functions as Dependencies](https://www.reddit.com/r/scala/comments/1hw3l5g/random_scala_tip_697_avoid_anonymous_functions_as/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

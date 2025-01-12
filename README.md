@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Would you say Play Actions are referentially transparent?](https://www.reddit.com/r/scala/comments/1hyxmxy/would_you_say_play_actions_are_referentially/)
 - [Understanding JVM Garbage Collector Performance](https://www.reddit.com/r/scala/comments/1hyiqus/understanding_jvm_garbage_collector_performance/)
 - [[MEETUP] London Scala 2025 kickoff events](https://www.reddit.com/r/scala/comments/1hy1nx5/meetup_london_scala_2025_kickoff_events/)
 - [doobie-typesafe v0.3.0 released: better docs, `SQLDefinition.option`](https://www.reddit.com/r/scala/comments/1hxltsd/doobietypesafe_v030_released_better_docs/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to customize Dockerfile commands through sbt-native-packager?](https://www.reddit.com/r/scala/comments/1hxazki/how_to_customize_dockerfile_commands_through/)
 - [What do you do about auth&lpar;n&rpar; and auth&lpar;z&rpar;?](https://www.reddit.com/r/scala/comments/1hwrvct/what_do_you_do_about_authn_and_authz/)
 - [[Hiring] 8 Scala positions at SwissBorg](https://www.reddit.com/r/scala/comments/1hwj1mw/hiring_8_scala_positions_at_swissborg/)
-- [Slow development experience](https://www.reddit.com/r/scala/comments/1hwi4rq/slow_development_experience/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

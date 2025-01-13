@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Jan 13, 2024&rpar;](https://www.reddit.com/r/scala/comments/1i02u8e/this_week_in_scala_jan_13_2024/)
 - [Would you say Play Actions are referentially transparent?](https://www.reddit.com/r/scala/comments/1hyxmxy/would_you_say_play_actions_are_referentially/)
 - [Understanding JVM Garbage Collector Performance](https://www.reddit.com/r/scala/comments/1hyiqus/understanding_jvm_garbage_collector_performance/)
 - [[MEETUP] London Scala 2025 kickoff events](https://www.reddit.com/r/scala/comments/1hy1nx5/meetup_london_scala_2025_kickoff_events/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Apache Pekko &lpar;Core&rpar; 1.1.3 Just released.](https://www.reddit.com/r/scala/comments/1hxbm0f/apache_pekko_core_113_just_released/)
 - [How to customize Dockerfile commands through sbt-native-packager?](https://www.reddit.com/r/scala/comments/1hxazki/how_to_customize_dockerfile_commands_through/)
 - [What do you do about auth&lpar;n&rpar; and auth&lpar;z&rpar;?](https://www.reddit.com/r/scala/comments/1hwrvct/what_do_you_do_about_authn_and_authz/)
-- [[Hiring] 8 Scala positions at SwissBorg](https://www.reddit.com/r/scala/comments/1hwj1mw/hiring_8_scala_positions_at_swissborg/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

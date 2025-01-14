@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kyo 0.16.0 released](https://www.reddit.com/r/scala/comments/1i0nmy2/kyo_0160_released/)
+- [IntelliJ Scala Plugins supports the new context bounds and givens syntax](https://www.reddit.com/r/scala/comments/1i0kevd/intellij_scala_plugins_supports_the_new_context/)
+- [Is it a good time to starting Scala 3 only project at $Work?](https://www.reddit.com/r/scala/comments/1i08uyy/is_it_a_good_time_to_starting_scala_3_only/)
 - [This week in #Scala &lpar;Jan 13, 2024&rpar;](https://www.reddit.com/r/scala/comments/1i02u8e/this_week_in_scala_jan_13_2024/)
 - [Would you say Play Actions are referentially transparent?](https://www.reddit.com/r/scala/comments/1hyxmxy/would_you_say_play_actions_are_referentially/)
 - [Understanding JVM Garbage Collector Performance](https://www.reddit.com/r/scala/comments/1hyiqus/understanding_jvm_garbage_collector_performance/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [doobie-typesafe v0.3.0 released: better docs, `SQLDefinition.option`](https://www.reddit.com/r/scala/comments/1hxltsd/doobietypesafe_v030_released_better_docs/)
 - [Can someone explain the difference between lazy val and def for recursive value?](https://www.reddit.com/r/scala/comments/1hxhf1y/can_someone_explain_the_difference_between_lazy/)
 - [Everything you might have missed in Java in 2024](https://www.reddit.com/r/scala/comments/1hxdpn4/everything_you_might_have_missed_in_java_in_2024/)
-- [Apache Pekko &lpar;Core&rpar; 1.1.3 Just released.](https://www.reddit.com/r/scala/comments/1hxbm0f/apache_pekko_core_113_just_released/)
-- [How to customize Dockerfile commands through sbt-native-packager?](https://www.reddit.com/r/scala/comments/1hxazki/how_to_customize_dockerfile_commands_through/)
-- [What do you do about auth&lpar;n&rpar; and auth&lpar;z&rpar;?](https://www.reddit.com/r/scala/comments/1hwrvct/what_do_you_do_about_authn_and_authz/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

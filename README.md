@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Intellij themes working nicely with scala?](https://www.reddit.com/r/scala/comments/1i1i7ji/intellij_themes_working_nicely_with_scala/)
+- [sbt run fail but scala ok](https://www.reddit.com/r/scala/comments/1i12r3w/sbt_run_fail_but_scala_ok/)
 - [Kyo 0.16.0 released](https://www.reddit.com/r/scala/comments/1i0nmy2/kyo_0160_released/)
 - [IntelliJ Scala Plugins supports the new context bounds and givens syntax](https://www.reddit.com/r/scala/comments/1i0kevd/intellij_scala_plugins_supports_the_new_context/)
 - [Is it a good time to starting Scala 3 only project at $Work?](https://www.reddit.com/r/scala/comments/1i08uyy/is_it_a_good_time_to_starting_scala_3_only/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Understanding JVM Garbage Collector Performance](https://www.reddit.com/r/scala/comments/1hyiqus/understanding_jvm_garbage_collector_performance/)
 - [[MEETUP] London Scala 2025 kickoff events](https://www.reddit.com/r/scala/comments/1hy1nx5/meetup_london_scala_2025_kickoff_events/)
 - [doobie-typesafe v0.3.0 released: better docs, `SQLDefinition.option`](https://www.reddit.com/r/scala/comments/1hxltsd/doobietypesafe_v030_released_better_docs/)
-- [Can someone explain the difference between lazy val and def for recursive value?](https://www.reddit.com/r/scala/comments/1hxhf1y/can_someone_explain_the_difference_between_lazy/)
-- [Everything you might have missed in Java in 2024](https://www.reddit.com/r/scala/comments/1hxdpn4/everything_you_might_have_missed_in_java_in_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

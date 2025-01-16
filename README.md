@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 2.13.16 is here!](https://www.reddit.com/r/scala/comments/1i2bvbk/scala_21316_is_here/)
+- [Completely and Totally Lost on Slick &lpar;and anything DB related&rpar;](https://www.reddit.com/r/scala/comments/1i2608t/completely_and_totally_lost_on_slick_and_anything/)
+- [DMT Scala - translate models / case classes to X - I think i am onto something... Early Preview](https://www.reddit.com/r/scala/comments/1i20jry/dmt_scala_translate_models_case_classes_to_x_i/)
 - [Intellij themes working nicely with scala?](https://www.reddit.com/r/scala/comments/1i1i7ji/intellij_themes_working_nicely_with_scala/)
 - [sbt run fail but scala ok](https://www.reddit.com/r/scala/comments/1i12r3w/sbt_run_fail_but_scala_ok/)
 - [Kyo 0.16.0 released](https://www.reddit.com/r/scala/comments/1i0nmy2/kyo_0160_released/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Is it a good time to starting Scala 3 only project at $Work?](https://www.reddit.com/r/scala/comments/1i08uyy/is_it_a_good_time_to_starting_scala_3_only/)
 - [This week in #Scala &lpar;Jan 13, 2024&rpar;](https://www.reddit.com/r/scala/comments/1i02u8e/this_week_in_scala_jan_13_2024/)
 - [Would you say Play Actions are referentially transparent?](https://www.reddit.com/r/scala/comments/1hyxmxy/would_you_say_play_actions_are_referentially/)
-- [Understanding JVM Garbage Collector Performance](https://www.reddit.com/r/scala/comments/1hyiqus/understanding_jvm_garbage_collector_performance/)
-- [[MEETUP] London Scala 2025 kickoff events](https://www.reddit.com/r/scala/comments/1hy1nx5/meetup_london_scala_2025_kickoff_events/)
-- [doobie-typesafe v0.3.0 released: better docs, `SQLDefinition.option`](https://www.reddit.com/r/scala/comments/1hxltsd/doobietypesafe_v030_released_better_docs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

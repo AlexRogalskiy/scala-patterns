@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ZIO.logDebug: enable them globally?](https://www.reddit.com/r/scala/comments/1i31ks3/ziologdebug_enable_them_globally/)
+- [Should Cats Effect drop support for Scala 2.12?](https://www.reddit.com/r/scala/comments/1i2zieq/should_cats_effect_drop_support_for_scala_212/)
+- [Scala Advent of Code 2024 recap](https://www.reddit.com/r/scala/comments/1i2yxpd/scala_advent_of_code_2024_recap/)
+- [Announcing ScalaMock 7](https://www.reddit.com/r/scala/comments/1i2thej/announcing_scalamock_7/)
+- [Random Scala Tip #568: Beware of Leaking Iterators](https://www.reddit.com/r/scala/comments/1i2mf0k/random_scala_tip_568_beware_of_leaking_iterators/)
 - [Scala 2.13.16 is here!](https://www.reddit.com/r/scala/comments/1i2bvbk/scala_21316_is_here/)
 - [Completely and Totally Lost on Slick &lpar;and anything DB related&rpar;](https://www.reddit.com/r/scala/comments/1i2608t/completely_and_totally_lost_on_slick_and_anything/)
 - [DMT Scala - translate models / case classes to X - I think i am onto something... Early Preview](https://www.reddit.com/r/scala/comments/1i20jry/dmt_scala_translate_models_case_classes_to_x_i/)
 - [Intellij themes working nicely with scala?](https://www.reddit.com/r/scala/comments/1i1i7ji/intellij_themes_working_nicely_with_scala/)
 - [sbt run fail but scala ok](https://www.reddit.com/r/scala/comments/1i12r3w/sbt_run_fail_but_scala_ok/)
-- [Kyo 0.16.0 released](https://www.reddit.com/r/scala/comments/1i0nmy2/kyo_0160_released/)
-- [IntelliJ Scala Plugins supports the new context bounds and givens syntax](https://www.reddit.com/r/scala/comments/1i0kevd/intellij_scala_plugins_supports_the_new_context/)
-- [Is it a good time to starting Scala 3 only project at $Work?](https://www.reddit.com/r/scala/comments/1i08uyy/is_it_a_good_time_to_starting_scala_3_only/)
-- [This week in #Scala &lpar;Jan 13, 2024&rpar;](https://www.reddit.com/r/scala/comments/1i02u8e/this_week_in_scala_jan_13_2024/)
-- [Would you say Play Actions are referentially transparent?](https://www.reddit.com/r/scala/comments/1hyxmxy/would_you_say_play_actions_are_referentially/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

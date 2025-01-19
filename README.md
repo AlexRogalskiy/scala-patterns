@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Virtual thread support in Cask 0.9.6 with large speedups for heavily-blocking applications](https://www.reddit.com/r/scala/comments/1i4meoq/virtual_thread_support_in_cask_096_with_large/)
+- [Wildcard imports, skill issue or hard to understand?](https://www.reddit.com/r/scala/comments/1i4md4w/wildcard_imports_skill_issue_or_hard_to_understand/)
+- [Enhanced Virtual threads support in Pekko is under review.](https://www.reddit.com/r/scala/comments/1i44bpf/enhanced_virtual_threads_support_in_pekko_is/)
 - [Scala Plugin 2024.3.35 is out! 🎉](https://www.reddit.com/r/scala/comments/1i3ha8h/scala_plugin_2024335_is_out/)
 - [Controversial Pre-SIP: A Syntax for Collection Literals](https://www.reddit.com/r/scala/comments/1i3ccox/controversial_presip_a_syntax_for_collection/)
 - [ZIO.logDebug: enable them globally?](https://www.reddit.com/r/scala/comments/1i31ks3/ziologdebug_enable_them_globally/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Advent of Code 2024 recap](https://www.reddit.com/r/scala/comments/1i2yxpd/scala_advent_of_code_2024_recap/)
 - [Announcing ScalaMock 7](https://www.reddit.com/r/scala/comments/1i2thej/announcing_scalamock_7/)
 - [Random Scala Tip #568: Beware of Leaking Iterators](https://www.reddit.com/r/scala/comments/1i2mf0k/random_scala_tip_568_beware_of_leaking_iterators/)
-- [Scala 2.13.16 is here!](https://www.reddit.com/r/scala/comments/1i2bvbk/scala_21316_is_here/)
-- [Completely and Totally Lost on Slick &lpar;and anything DB related&rpar;](https://www.reddit.com/r/scala/comments/1i2608t/completely_and_totally_lost_on_slick_and_anything/)
-- [DMT Scala - translate models / case classes to X - I think i am onto something... Early Preview](https://www.reddit.com/r/scala/comments/1i20jry/dmt_scala_translate_models_case_classes_to_x_i/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

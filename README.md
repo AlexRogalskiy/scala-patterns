@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Cyclic reference is type declaration](https://www.reddit.com/r/scala/comments/1i568jp/cyclic_reference_is_type_declaration/)
+- [This week in #Scala &lpar;Jan 20, 2024&rpar;](https://www.reddit.com/r/scala/comments/1i54x4n/this_week_in_scala_jan_20_2024/)
 - [Virtual thread support in Cask 0.9.6 with large speedups for heavily-blocking applications](https://www.reddit.com/r/scala/comments/1i4meoq/virtual_thread_support_in_cask_096_with_large/)
 - [Wildcard imports, skill issue or hard to understand?](https://www.reddit.com/r/scala/comments/1i4md4w/wildcard_imports_skill_issue_or_hard_to_understand/)
 - [Enhanced Virtual threads support in Pekko is under review.](https://www.reddit.com/r/scala/comments/1i44bpf/enhanced_virtual_threads_support_in_pekko_is/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ZIO.logDebug: enable them globally?](https://www.reddit.com/r/scala/comments/1i31ks3/ziologdebug_enable_them_globally/)
 - [Should Cats Effect drop support for Scala 2.12?](https://www.reddit.com/r/scala/comments/1i2zieq/should_cats_effect_drop_support_for_scala_212/)
 - [Scala Advent of Code 2024 recap](https://www.reddit.com/r/scala/comments/1i2yxpd/scala_advent_of_code_2024_recap/)
-- [Announcing ScalaMock 7](https://www.reddit.com/r/scala/comments/1i2thej/announcing_scalamock_7/)
-- [Random Scala Tip #568: Beware of Leaking Iterators](https://www.reddit.com/r/scala/comments/1i2mf0k/random_scala_tip_568_beware_of_leaking_iterators/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

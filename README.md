@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [dotty-cps-async 1.0.0 with commercial support.](https://www.reddit.com/r/scala/comments/1i5qt61/dottycpsasync_100_with_commercial_support/)
+- [A tour of Neotype — a friendly newtype library for Scala 3](https://www.reddit.com/r/scala/comments/1i5pq6c/a_tour_of_neotype_a_friendly_newtype_library_for/)
+- [Jar Jar Abrams 1.14.1 and sbt-assembly 2.3.1 released](https://www.reddit.com/r/scala/comments/1i5gsjs/jar_jar_abrams_1141_and_sbtassembly_231_released/)
 - [Cyclic reference is type declaration](https://www.reddit.com/r/scala/comments/1i568jp/cyclic_reference_is_type_declaration/)
 - [This week in #Scala &lpar;Jan 20, 2024&rpar;](https://www.reddit.com/r/scala/comments/1i54x4n/this_week_in_scala_jan_20_2024/)
 - [Virtual thread support in Cask 0.9.6 with large speedups for heavily-blocking applications](https://www.reddit.com/r/scala/comments/1i4meoq/virtual_thread_support_in_cask_096_with_large/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Enhanced Virtual threads support in Pekko is under review.](https://www.reddit.com/r/scala/comments/1i44bpf/enhanced_virtual_threads_support_in_pekko_is/)
 - [Scala Plugin 2024.3.35 is out! 🎉](https://www.reddit.com/r/scala/comments/1i3ha8h/scala_plugin_2024335_is_out/)
 - [Controversial Pre-SIP: A Syntax for Collection Literals](https://www.reddit.com/r/scala/comments/1i3ccox/controversial_presip_a_syntax_for_collection/)
-- [ZIO.logDebug: enable them globally?](https://www.reddit.com/r/scala/comments/1i31ks3/ziologdebug_enable_them_globally/)
-- [Should Cats Effect drop support for Scala 2.12?](https://www.reddit.com/r/scala/comments/1i2zieq/should_cats_effect_drop_support_for_scala_212/)
-- [Scala Advent of Code 2024 recap](https://www.reddit.com/r/scala/comments/1i2yxpd/scala_advent_of_code_2024_recap/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

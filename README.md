@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala &#39;s next LTS requires at least Java 11](https://www.reddit.com/r/scala/comments/1i6sqlv/scala_s_next_lts_requires_at_least_java_11/)
 - [dotty-cps-async 1.0.0 with commercial support.](https://www.reddit.com/r/scala/comments/1i5qt61/dottycpsasync_100_with_commercial_support/)
 - [A tour of Neotype — a friendly newtype library for Scala 3](https://www.reddit.com/r/scala/comments/1i5pq6c/a_tour_of_neotype_a_friendly_newtype_library_for/)
 - [Jar Jar Abrams 1.14.1 and sbt-assembly 2.3.1 released](https://www.reddit.com/r/scala/comments/1i5gsjs/jar_jar_abrams_1141_and_sbtassembly_231_released/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Wildcard imports, skill issue or hard to understand?](https://www.reddit.com/r/scala/comments/1i4md4w/wildcard_imports_skill_issue_or_hard_to_understand/)
 - [Enhanced Virtual threads support in Pekko is under review.](https://www.reddit.com/r/scala/comments/1i44bpf/enhanced_virtual_threads_support_in_pekko_is/)
 - [Scala Plugin 2024.3.35 is out! 🎉](https://www.reddit.com/r/scala/comments/1i3ha8h/scala_plugin_2024335_is_out/)
-- [Controversial Pre-SIP: A Syntax for Collection Literals](https://www.reddit.com/r/scala/comments/1i3ccox/controversial_presip_a_syntax_for_collection/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

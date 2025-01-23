@@ -271,7 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Scala &#39;s next LTS requires at least Java 11](https://www.reddit.com/r/scala/comments/1i6sqlv/scala_s_next_lts_requires_at_least_java_11/)
+- [Metals 1.5.0 has been released! 🦦](https://www.reddit.com/r/scala/comments/1i7ffjx/metals_150_has_been_released/)
 - [dotty-cps-async 1.0.0 with commercial support.](https://www.reddit.com/r/scala/comments/1i5qt61/dottycpsasync_100_with_commercial_support/)
 - [A tour of Neotype — a friendly newtype library for Scala 3](https://www.reddit.com/r/scala/comments/1i5pq6c/a_tour_of_neotype_a_friendly_newtype_library_for/)
 - [Jar Jar Abrams 1.14.1 and sbt-assembly 2.3.1 released](https://www.reddit.com/r/scala/comments/1i5gsjs/jar_jar_abrams_1141_and_sbtassembly_231_released/)

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Chimney 1.7.0 - with transformations from multiple values and recursive Patchers](https://www.reddit.com/r/scala/comments/1i8awyg/chimney_170_with_transformations_from_multiple/)
+- [Scala CLI v1.6.1 has been released](https://www.reddit.com/r/scala/comments/1i81tmr/scala_cli_v161_has_been_released/)
+- [Parent/Absract Event System with Scala](https://www.reddit.com/r/scala/comments/1i813wm/parentabsract_event_system_with_scala/)
+- [WebSockets with Scalatra 3?](https://www.reddit.com/r/scala/comments/1i811fg/websockets_with_scalatra_3/)
+- [ZIO.provide vs ZIO.provideLayer](https://www.reddit.com/r/scala/comments/1i7wac6/zioprovide_vs_zioprovidelayer/)
 - [Metals 1.5.0 has been released! 🦦](https://www.reddit.com/r/scala/comments/1i7ffjx/metals_150_has_been_released/)
 - [dotty-cps-async 1.0.0 with commercial support.](https://www.reddit.com/r/scala/comments/1i5qt61/dottycpsasync_100_with_commercial_support/)
 - [A tour of Neotype — a friendly newtype library for Scala 3](https://www.reddit.com/r/scala/comments/1i5pq6c/a_tour_of_neotype_a_friendly_newtype_library_for/)
 - [Jar Jar Abrams 1.14.1 and sbt-assembly 2.3.1 released](https://www.reddit.com/r/scala/comments/1i5gsjs/jar_jar_abrams_1141_and_sbtassembly_231_released/)
 - [Cyclic reference is type declaration](https://www.reddit.com/r/scala/comments/1i568jp/cyclic_reference_is_type_declaration/)
-- [This week in #Scala &lpar;Jan 20, 2024&rpar;](https://www.reddit.com/r/scala/comments/1i54x4n/this_week_in_scala_jan_20_2024/)
-- [Virtual thread support in Cask 0.9.6 with large speedups for heavily-blocking applications](https://www.reddit.com/r/scala/comments/1i4meoq/virtual_thread_support_in_cask_096_with_large/)
-- [Wildcard imports, skill issue or hard to understand?](https://www.reddit.com/r/scala/comments/1i4md4w/wildcard_imports_skill_issue_or_hard_to_understand/)
-- [Enhanced Virtual threads support in Pekko is under review.](https://www.reddit.com/r/scala/comments/1i44bpf/enhanced_virtual_threads_support_in_pekko_is/)
-- [Scala Plugin 2024.3.35 is out! 🎉](https://www.reddit.com/r/scala/comments/1i3ha8h/scala_plugin_2024335_is_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

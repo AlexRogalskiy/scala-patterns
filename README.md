@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ZIO is not ready for the production. No way. And I guess no hope.](https://www.reddit.com/r/scala/comments/1i9balt/zio_is_not_ready_for_the_production_no_way_and_i/)
+- [FastScala web framework update: new components &amp; website](https://www.reddit.com/r/scala/comments/1i99sfi/fastscala_web_framework_update_new_components/)
+- [Mill: A JVM Build Tool based on Pure Functional Programming, Functional Conf 24 Jan 2025](https://www.reddit.com/r/scala/comments/1i97mff/mill_a_jvm_build_tool_based_on_pure_functional/)
+- [I&#39;ve just begun picking up Scala, as I already know Java and would like to work as a Data Engineering team. I feel that while it is improving me as a programmer, and I enjoy it, I also have a dire need to be a little career oriented and pragmatic. Is it necessary or is Python sufficient?](https://www.reddit.com/r/scala/comments/1i912yp/ive_just_begun_picking_up_scala_as_i_already_know/)
+- [Is there a library that can fit normal distribution on given data efficiently and return &lpar;A,B,C&rpar;? if not how can I implement it efficiently?](https://www.reddit.com/r/scala/comments/1i8vk1o/is_there_a_library_that_can_fit_normal/)
 - [Chimney 1.7.0 - with transformations from multiple values and recursive Patchers](https://www.reddit.com/r/scala/comments/1i8awyg/chimney_170_with_transformations_from_multiple/)
 - [Scala CLI v1.6.1 has been released](https://www.reddit.com/r/scala/comments/1i81tmr/scala_cli_v161_has_been_released/)
 - [Parent/Absract Event System with Scala](https://www.reddit.com/r/scala/comments/1i813wm/parentabsract_event_system_with_scala/)
 - [WebSockets with Scalatra 3?](https://www.reddit.com/r/scala/comments/1i811fg/websockets_with_scalatra_3/)
 - [ZIO.provide vs ZIO.provideLayer](https://www.reddit.com/r/scala/comments/1i7wac6/zioprovide_vs_zioprovidelayer/)
-- [Metals 1.5.0 has been released! 🦦](https://www.reddit.com/r/scala/comments/1i7ffjx/metals_150_has_been_released/)
-- [dotty-cps-async 1.0.0 with commercial support.](https://www.reddit.com/r/scala/comments/1i5qt61/dottycpsasync_100_with_commercial_support/)
-- [A tour of Neotype — a friendly newtype library for Scala 3](https://www.reddit.com/r/scala/comments/1i5pq6c/a_tour_of_neotype_a_friendly_newtype_library_for/)
-- [Jar Jar Abrams 1.14.1 and sbt-assembly 2.3.1 released](https://www.reddit.com/r/scala/comments/1i5gsjs/jar_jar_abrams_1141_and_sbtassembly_231_released/)
-- [Cyclic reference is type declaration](https://www.reddit.com/r/scala/comments/1i568jp/cyclic_reference_is_type_declaration/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

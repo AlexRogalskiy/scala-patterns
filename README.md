@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Play Framework ReST API router / controller - feedback](https://www.reddit.com/r/scala/comments/1i9z5v2/play_framework_rest_api_router_controller_feedback/)
+- [otel4s-doobie: integration between Otel4s and Doobie](https://www.reddit.com/r/scala/comments/1i9nwns/otel4sdoobie_integration_between_otel4s_and_doobie/)
 - [ZIO is not ready for the production. No way. And I guess no hope.](https://www.reddit.com/r/scala/comments/1i9balt/zio_is_not_ready_for_the_production_no_way_and_i/)
 - [FastScala web framework update: new components &amp; website](https://www.reddit.com/r/scala/comments/1i99sfi/fastscala_web_framework_update_new_components/)
 - [Mill: A JVM Build Tool based on Pure Functional Programming, Functional Conf 24 Jan 2025](https://www.reddit.com/r/scala/comments/1i97mff/mill_a_jvm_build_tool_based_on_pure_functional/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Chimney 1.7.0 - with transformations from multiple values and recursive Patchers](https://www.reddit.com/r/scala/comments/1i8awyg/chimney_170_with_transformations_from_multiple/)
 - [Scala CLI v1.6.1 has been released](https://www.reddit.com/r/scala/comments/1i81tmr/scala_cli_v161_has_been_released/)
 - [Parent/Absract Event System with Scala](https://www.reddit.com/r/scala/comments/1i813wm/parentabsract_event_system_with_scala/)
-- [WebSockets with Scalatra 3?](https://www.reddit.com/r/scala/comments/1i811fg/websockets_with_scalatra_3/)
-- [ZIO.provide vs ZIO.provideLayer](https://www.reddit.com/r/scala/comments/1i7wac6/zioprovide_vs_zioprovidelayer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

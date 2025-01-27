@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [yantl: a newtype library that cares about error localization](https://www.reddit.com/r/scala/comments/1iaqxe0/yantl_a_newtype_library_that_cares_about_error/)
+- [This week in #Scala &lpar;Jan 27, 2024&rpar;](https://www.reddit.com/r/scala/comments/1iamdai/this_week_in_scala_jan_27_2024/)
+- [Announcing ZIO Apache Arrow library](https://www.reddit.com/r/scala/comments/1ialzyj/announcing_zio_apache_arrow_library/)
+- [I lost my appetite for Java after learning Scala, Is this a good or bad thing?](https://www.reddit.com/r/scala/comments/1iaa9cx/i_lost_my_appetite_for_java_after_learning_scala/)
+- [Data Flow](https://www.reddit.com/r/scala/comments/1ia4574/data_flow/)
 - [Play Framework ReST API router / controller - feedback](https://www.reddit.com/r/scala/comments/1i9z5v2/play_framework_rest_api_router_controller_feedback/)
 - [otel4s-doobie: integration between Otel4s and Doobie](https://www.reddit.com/r/scala/comments/1i9nwns/otel4sdoobie_integration_between_otel4s_and_doobie/)
 - [ZIO is not ready for the production. No way. And I guess no hope.](https://www.reddit.com/r/scala/comments/1i9balt/zio_is_not_ready_for_the_production_no_way_and_i/)
 - [FastScala web framework update: new components &amp; website](https://www.reddit.com/r/scala/comments/1i99sfi/fastscala_web_framework_update_new_components/)
 - [Mill: A JVM Build Tool based on Pure Functional Programming, Functional Conf 24 Jan 2025](https://www.reddit.com/r/scala/comments/1i97mff/mill_a_jvm_build_tool_based_on_pure_functional/)
-- [I&#39;ve just begun picking up Scala, as I already know Java and would like to work as a Data Engineering team. I feel that while it is improving me as a programmer, and I enjoy it, I also have a dire need to be a little career oriented and pragmatic. Is it necessary or is Python sufficient?](https://www.reddit.com/r/scala/comments/1i912yp/ive_just_begun_picking_up_scala_as_i_already_know/)
-- [Is there a library that can fit normal distribution on given data efficiently and return &lpar;A,B,C&rpar;? if not how can I implement it efficiently?](https://www.reddit.com/r/scala/comments/1i8vk1o/is_there_a_library_that_can_fit_normal/)
-- [Chimney 1.7.0 - with transformations from multiple values and recursive Patchers](https://www.reddit.com/r/scala/comments/1i8awyg/chimney_170_with_transformations_from_multiple/)
-- [Scala CLI v1.6.1 has been released](https://www.reddit.com/r/scala/comments/1i81tmr/scala_cli_v161_has_been_released/)
-- [Parent/Absract Event System with Scala](https://www.reddit.com/r/scala/comments/1i813wm/parentabsract_event_system_with_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

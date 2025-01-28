@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Any idea what&#39;s causing this? My program has crashed 3 times in the last week randomly after migrating to scala 3.6.3 and Corretto-23.0.1.8.1.](https://www.reddit.com/r/scala/comments/1ibhdtr/any_idea_whats_causing_this_my_program_has/)
+- [My doubts about learning Scala](https://www.reddit.com/r/scala/comments/1ib26h7/my_doubts_about_learning_scala/)
 - [yantl: a newtype library that cares about error localization](https://www.reddit.com/r/scala/comments/1iaqxe0/yantl_a_newtype_library_that_cares_about_error/)
 - [This week in #Scala &lpar;Jan 27, 2024&rpar;](https://www.reddit.com/r/scala/comments/1iamdai/this_week_in_scala_jan_27_2024/)
 - [Announcing ZIO Apache Arrow library](https://www.reddit.com/r/scala/comments/1ialzyj/announcing_zio_apache_arrow_library/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Play Framework ReST API router / controller - feedback](https://www.reddit.com/r/scala/comments/1i9z5v2/play_framework_rest_api_router_controller_feedback/)
 - [otel4s-doobie: integration between Otel4s and Doobie](https://www.reddit.com/r/scala/comments/1i9nwns/otel4sdoobie_integration_between_otel4s_and_doobie/)
 - [ZIO is not ready for the production. No way. And I guess no hope.](https://www.reddit.com/r/scala/comments/1i9balt/zio_is_not_ready_for_the_production_no_way_and_i/)
-- [FastScala web framework update: new components &amp; website](https://www.reddit.com/r/scala/comments/1i99sfi/fastscala_web_framework_update_new_components/)
-- [Mill: A JVM Build Tool based on Pure Functional Programming, Functional Conf 24 Jan 2025](https://www.reddit.com/r/scala/comments/1i97mff/mill_a_jvm_build_tool_based_on_pure_functional/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

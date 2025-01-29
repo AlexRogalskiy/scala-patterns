@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Google Summer of Code 2025: Call for Scala projects](https://www.reddit.com/r/scala/comments/1iccxe4/google_summer_of_code_2025_call_for_scala_projects/)
+- [Scala Macros and Metaprogramming course from Rock the JVM](https://www.reddit.com/r/scala/comments/1ic55ah/scala_macros_and_metaprogramming_course_from_rock/)
+- [Scala with spark](https://www.reddit.com/r/scala/comments/1ic339a/scala_with_spark/)
+- [Hiring a new engineer with Scala and LLMs experience](https://www.reddit.com/r/scala/comments/1ibzpta/hiring_a_new_engineer_with_scala_and_llms/)
 - [Any idea what&#39;s causing this? My program has crashed 3 times in the last week randomly after migrating to scala 3.6.3 and Corretto-23.0.1.8.1.](https://www.reddit.com/r/scala/comments/1ibhdtr/any_idea_whats_causing_this_my_program_has/)
-- [My doubts about learning Scala](https://www.reddit.com/r/scala/comments/1ib26h7/my_doubts_about_learning_scala/)
 - [yantl: a newtype library that cares about error localization](https://www.reddit.com/r/scala/comments/1iaqxe0/yantl_a_newtype_library_that_cares_about_error/)
 - [This week in #Scala &lpar;Jan 27, 2024&rpar;](https://www.reddit.com/r/scala/comments/1iamdai/this_week_in_scala_jan_27_2024/)
 - [Announcing ZIO Apache Arrow library](https://www.reddit.com/r/scala/comments/1ialzyj/announcing_zio_apache_arrow_library/)
 - [I lost my appetite for Java after learning Scala, Is this a good or bad thing?](https://www.reddit.com/r/scala/comments/1iaa9cx/i_lost_my_appetite_for_java_after_learning_scala/)
-- [Data Flow](https://www.reddit.com/r/scala/comments/1ia4574/data_flow/)
 - [Play Framework ReST API router / controller - feedback](https://www.reddit.com/r/scala/comments/1i9z5v2/play_framework_rest_api_router_controller_feedback/)
-- [otel4s-doobie: integration between Otel4s and Doobie](https://www.reddit.com/r/scala/comments/1i9nwns/otel4sdoobie_integration_between_otel4s_and_doobie/)
-- [ZIO is not ready for the production. No way. And I guess no hope.](https://www.reddit.com/r/scala/comments/1i9balt/zio_is_not_ready_for_the_production_no_way_and_i/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

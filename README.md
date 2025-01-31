@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Using Python Gradio in Scala](https://www.reddit.com/r/scala/comments/1idrapd/using_python_gradio_in_scala/)
+- [What&#39;s the simplest way to deploy a Scala web service?](https://www.reddit.com/r/scala/comments/1idn9x8/whats_the_simplest_way_to_deploy_a_scala_web/)
 - [[Scala meetups] Functional World | ScaLatin](https://www.reddit.com/r/scala/comments/1ics82y/scala_meetups_functional_world_scalatin/)
 - [Google Summer of Code 2025: Call for Scala projects](https://www.reddit.com/r/scala/comments/1iccxe4/google_summer_of_code_2025_call_for_scala_projects/)
 - [Scala Macros and Metaprogramming course from Rock the JVM](https://www.reddit.com/r/scala/comments/1ic55ah/scala_macros_and_metaprogramming_course_from_rock/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Any idea what&#39;s causing this? My program has crashed 3 times in the last week randomly after migrating to scala 3.6.3 and Corretto-23.0.1.8.1.](https://www.reddit.com/r/scala/comments/1ibhdtr/any_idea_whats_causing_this_my_program_has/)
 - [yantl: a newtype library that cares about error localization](https://www.reddit.com/r/scala/comments/1iaqxe0/yantl_a_newtype_library_that_cares_about_error/)
 - [This week in #Scala &lpar;Jan 27, 2024&rpar;](https://www.reddit.com/r/scala/comments/1iamdai/this_week_in_scala_jan_27_2024/)
-- [Announcing ZIO Apache Arrow library](https://www.reddit.com/r/scala/comments/1ialzyj/announcing_zio_apache_arrow_library/)
-- [I lost my appetite for Java after learning Scala, Is this a good or bad thing?](https://www.reddit.com/r/scala/comments/1iaa9cx/i_lost_my_appetite_for_java_after_learning_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

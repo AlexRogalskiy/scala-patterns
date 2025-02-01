@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best LLMs for generating valid Scala code](https://www.reddit.com/r/scala/comments/1ieiwds/best_llms_for_generating_valid_scala_code/)
+- [Mill 0.12.6 is out: native executables, BOM support, gradle migration support, and more!](https://www.reddit.com/r/scala/comments/1ieisvj/mill_0126_is_out_native_executables_bom_support/)
+- [Functional PostgreSQL without JDBC - Jesper Öman, Scala Stockholm Winter Meetup, Nov 2024 Part 1](https://www.reddit.com/r/scala/comments/1iee5le/functional_postgresql_without_jdbc_jesper_öman/)
+- [Next Scala 3 LTS series will increase minimum required JDK version](https://www.reddit.com/r/scala/comments/1iedx21/next_scala_3_lts_series_will_increase_minimum/)
 - [Using Python Gradio in Scala](https://www.reddit.com/r/scala/comments/1idrapd/using_python_gradio_in_scala/)
 - [What&#39;s the simplest way to deploy a Scala web service?](https://www.reddit.com/r/scala/comments/1idn9x8/whats_the_simplest_way_to_deploy_a_scala_web/)
 - [[Scala meetups] Functional World | ScaLatin](https://www.reddit.com/r/scala/comments/1ics82y/scala_meetups_functional_world_scalatin/)
 - [Google Summer of Code 2025: Call for Scala projects](https://www.reddit.com/r/scala/comments/1iccxe4/google_summer_of_code_2025_call_for_scala_projects/)
 - [Scala Macros and Metaprogramming course from Rock the JVM](https://www.reddit.com/r/scala/comments/1ic55ah/scala_macros_and_metaprogramming_course_from_rock/)
-- [Scala with spark](https://www.reddit.com/r/scala/comments/1ic339a/scala_with_spark/)
 - [Hiring a new engineer with Scala and LLMs experience](https://www.reddit.com/r/scala/comments/1ibzpta/hiring_a_new_engineer_with_scala_and_llms/)
-- [Any idea what&#39;s causing this? My program has crashed 3 times in the last week randomly after migrating to scala 3.6.3 and Corretto-23.0.1.8.1.](https://www.reddit.com/r/scala/comments/1ibhdtr/any_idea_whats_causing_this_my_program_has/)
-- [yantl: a newtype library that cares about error localization](https://www.reddit.com/r/scala/comments/1iaqxe0/yantl_a_newtype_library_that_cares_about_error/)
-- [This week in #Scala &lpar;Jan 27, 2024&rpar;](https://www.reddit.com/r/scala/comments/1iamdai/this_week_in_scala_jan_27_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

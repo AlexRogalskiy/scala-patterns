@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Feb 3, 2024&rpar;](https://www.reddit.com/r/scala/comments/1igap9h/this_week_in_scala_feb_3_2024/)
+- [Scala Junior/Mid -&gt; Start to learn Scala Cats or ZIO?](https://www.reddit.com/r/scala/comments/1ig08vi/scala_juniormid_start_to_learn_scala_cats_or_zio/)
+- [Are we ever going to get actual Scala 3 support on Android?](https://www.reddit.com/r/scala/comments/1ifnhi5/are_we_ever_going_to_get_actual_scala_3_support/)
 - [Best LLMs for generating valid Scala code](https://www.reddit.com/r/scala/comments/1ieiwds/best_llms_for_generating_valid_scala_code/)
 - [Mill 0.12.6 is out: native executables, BOM support, gradle migration support, and more!](https://www.reddit.com/r/scala/comments/1ieisvj/mill_0126_is_out_native_executables_bom_support/)
 - [Functional PostgreSQL without JDBC - Jesper Öman, Scala Stockholm Winter Meetup, Nov 2024 Part 1](https://www.reddit.com/r/scala/comments/1iee5le/functional_postgresql_without_jdbc_jesper_öman/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Using Python Gradio in Scala](https://www.reddit.com/r/scala/comments/1idrapd/using_python_gradio_in_scala/)
 - [What&#39;s the simplest way to deploy a Scala web service?](https://www.reddit.com/r/scala/comments/1idn9x8/whats_the_simplest_way_to_deploy_a_scala_web/)
 - [[Scala meetups] Functional World | ScaLatin](https://www.reddit.com/r/scala/comments/1ics82y/scala_meetups_functional_world_scalatin/)
-- [Google Summer of Code 2025: Call for Scala projects](https://www.reddit.com/r/scala/comments/1iccxe4/google_summer_of_code_2025_call_for_scala_projects/)
-- [Scala Macros and Metaprogramming course from Rock the JVM](https://www.reddit.com/r/scala/comments/1ic55ah/scala_macros_and_metaprogramming_course_from_rock/)
-- [Hiring a new engineer with Scala and LLMs experience](https://www.reddit.com/r/scala/comments/1ibzpta/hiring_a_new_engineer_with_scala_and_llms/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

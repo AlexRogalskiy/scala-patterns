@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Cask template for a ReST JSON API](https://www.reddit.com/r/scala/comments/1ih2npn/cask_template_for_a_rest_json_api/)
+- [Best modern library for user UI Window in scala.](https://www.reddit.com/r/scala/comments/1ih16xm/best_modern_library_for_user_ui_window_in_scala/)
+- [[Events] Scala, Frontend and Software Architecture | Scalendar February 2025](https://www.reddit.com/r/scala/comments/1igmv6p/events_scala_frontend_and_software_architecture/)
+- [Is ZIO knowledge transferable to cats and cats-effect?](https://www.reddit.com/r/scala/comments/1igluco/is_zio_knowledge_transferable_to_cats_and/)
+- [Scala Tooling Spree #1 recap](https://www.reddit.com/r/scala/comments/1igk0h0/scala_tooling_spree_1_recap/)
 - [This week in #Scala &lpar;Feb 3, 2024&rpar;](https://www.reddit.com/r/scala/comments/1igap9h/this_week_in_scala_feb_3_2024/)
 - [Scala Junior/Mid -&gt; Start to learn Scala Cats or ZIO?](https://www.reddit.com/r/scala/comments/1ig08vi/scala_juniormid_start_to_learn_scala_cats_or_zio/)
 - [Are we ever going to get actual Scala 3 support on Android?](https://www.reddit.com/r/scala/comments/1ifnhi5/are_we_ever_going_to_get_actual_scala_3_support/)
 - [Best LLMs for generating valid Scala code](https://www.reddit.com/r/scala/comments/1ieiwds/best_llms_for_generating_valid_scala_code/)
 - [Mill 0.12.6 is out: native executables, BOM support, gradle migration support, and more!](https://www.reddit.com/r/scala/comments/1ieisvj/mill_0126_is_out_native_executables_bom_support/)
-- [Functional PostgreSQL without JDBC - Jesper Öman, Scala Stockholm Winter Meetup, Nov 2024 Part 1](https://www.reddit.com/r/scala/comments/1iee5le/functional_postgresql_without_jdbc_jesper_öman/)
-- [Next Scala 3 LTS series will increase minimum required JDK version](https://www.reddit.com/r/scala/comments/1iedx21/next_scala_3_lts_series_will_increase_minimum/)
-- [Using Python Gradio in Scala](https://www.reddit.com/r/scala/comments/1idrapd/using_python_gradio_in_scala/)
-- [What&#39;s the simplest way to deploy a Scala web service?](https://www.reddit.com/r/scala/comments/1idn9x8/whats_the_simplest_way_to_deploy_a_scala_web/)
-- [[Scala meetups] Functional World | ScaLatin](https://www.reddit.com/r/scala/comments/1ics82y/scala_meetups_functional_world_scalatin/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Best way to find scala developers](https://www.reddit.com/r/scala/comments/1ijda45/best_way_to_find_scala_developers/)
+- [Quality Scala learning resources](https://www.reddit.com/r/scala/comments/1ija254/quality_scala_learning_resources/)
+- [How can I add clauses similar to &lpar;&lpar;a1∧b2∧c3&rpar;∨&lpar;a2∧b3∧c4&rpar;∨&lpar;a3∧b4∧c5&rpar;∨&lpar;a4∧b5∧c6&rpar;&rpar; to the sat4j solver?](https://www.reddit.com/r/scala/comments/1ij7810/how_can_i_add_clauses_similar_to/)
+- [[YouTube video] IntelliJ IDEA x Scala: Constructors and Apply Methods](https://www.reddit.com/r/scala/comments/1ij6jjv/youtube_video_intellij_idea_x_scala_constructors/)
+- [[Hiring] Mid-level engineer with aptitude for functional Scala](https://www.reddit.com/r/scala/comments/1ij3y5c/hiring_midlevel_engineer_with_aptitude_for/)
+- [Scala Highlights from 2024](https://www.reddit.com/r/scala/comments/1ij2a6o/scala_highlights_from_2024/)
+- [[Hiring] Scalac is looking for Scala Engineers](https://www.reddit.com/r/scala/comments/1iiylaz/hiring_scalac_is_looking_for_scala_engineers/)
+- [Does Scala have an actual job market in 2025?](https://www.reddit.com/r/scala/comments/1iixa3i/does_scala_have_an_actual_job_market_in_2025/)
+- [scalaxb 1.12.2 released](https://www.reddit.com/r/scala/comments/1iiup6s/scalaxb_1122_released/)
 - [Sandmann: An Autosuspend and Wakeup Daemon for Linux written in Scala 3](https://www.reddit.com/r/scala/comments/1ihmmwu/sandmann_an_autosuspend_and_wakeup_daemon_for/)
-- [The joys of messaging without a message bus](https://www.reddit.com/r/scala/comments/1ihge56/the_joys_of_messaging_without_a_message_bus/)
-- [Scala 3 Migration: Report from the Field](https://www.reddit.com/r/scala/comments/1ihf75z/scala_3_migration_report_from_the_field/)
-- [Cask template for a ReST JSON API](https://www.reddit.com/r/scala/comments/1ih2npn/cask_template_for_a_rest_json_api/)
-- [Best modern library for user UI Window in scala.](https://www.reddit.com/r/scala/comments/1ih16xm/best_modern_library_for_user_ui_window_in_scala/)
-- [[Events] Scala, Frontend and Software Architecture | Scalendar February 2025](https://www.reddit.com/r/scala/comments/1igmv6p/events_scala_frontend_and_software_architecture/)
-- [Is ZIO knowledge transferable to cats and cats-effect?](https://www.reddit.com/r/scala/comments/1igluco/is_zio_knowledge_transferable_to_cats_and/)
-- [Scala Tooling Spree #1 recap](https://www.reddit.com/r/scala/comments/1igk0h0/scala_tooling_spree_1_recap/)
-- [This week in #Scala &lpar;Feb 3, 2024&rpar;](https://www.reddit.com/r/scala/comments/1igap9h/this_week_in_scala_feb_3_2024/)
-- [Scala Junior/Mid -&gt; Start to learn Scala Cats or ZIO?](https://www.reddit.com/r/scala/comments/1ig08vi/scala_juniormid_start_to_learn_scala_cats_or_zio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

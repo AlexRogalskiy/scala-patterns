@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Loving shapless and supertagged](https://www.reddit.com/r/scala/comments/1ik0529/loving_shapless_and_supertagged/)
+- [🚨Scala Developers wanted](https://www.reddit.com/r/scala/comments/1ijmyce/scala_developers_wanted/)
 - [Best way to find scala developers](https://www.reddit.com/r/scala/comments/1ijda45/best_way_to_find_scala_developers/)
 - [Quality Scala learning resources](https://www.reddit.com/r/scala/comments/1ija254/quality_scala_learning_resources/)
 - [How can I add clauses similar to &lpar;&lpar;a1∧b2∧c3&rpar;∨&lpar;a2∧b3∧c4&rpar;∨&lpar;a3∧b4∧c5&rpar;∨&lpar;a4∧b5∧c6&rpar;&rpar; to the sat4j solver?](https://www.reddit.com/r/scala/comments/1ij7810/how_can_i_add_clauses_similar_to/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Highlights from 2024](https://www.reddit.com/r/scala/comments/1ij2a6o/scala_highlights_from_2024/)
 - [[Hiring] Scalac is looking for Scala Engineers](https://www.reddit.com/r/scala/comments/1iiylaz/hiring_scalac_is_looking_for_scala_engineers/)
 - [Does Scala have an actual job market in 2025?](https://www.reddit.com/r/scala/comments/1iixa3i/does_scala_have_an_actual_job_market_in_2025/)
-- [scalaxb 1.12.2 released](https://www.reddit.com/r/scala/comments/1iiup6s/scalaxb_1122_released/)
-- [Sandmann: An Autosuspend and Wakeup Daemon for Linux written in Scala 3](https://www.reddit.com/r/scala/comments/1ihmmwu/sandmann_an_autosuspend_and_wakeup_daemon_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

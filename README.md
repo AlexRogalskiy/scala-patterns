@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Show project: Theater, a typed state machine + actor model for typelevel ecosystem](https://www.reddit.com/r/scala/comments/1ikkllp/show_project_theater_a_typed_state_machine_actor/)
 - [Loving shapless and supertagged](https://www.reddit.com/r/scala/comments/1ik0529/loving_shapless_and_supertagged/)
 - [🚨Scala Developers wanted](https://www.reddit.com/r/scala/comments/1ijmyce/scala_developers_wanted/)
 - [Best way to find scala developers](https://www.reddit.com/r/scala/comments/1ijda45/best_way_to_find_scala_developers/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [[Hiring] Mid-level engineer with aptitude for functional Scala](https://www.reddit.com/r/scala/comments/1ij3y5c/hiring_midlevel_engineer_with_aptitude_for/)
 - [Scala Highlights from 2024](https://www.reddit.com/r/scala/comments/1ij2a6o/scala_highlights_from_2024/)
 - [[Hiring] Scalac is looking for Scala Engineers](https://www.reddit.com/r/scala/comments/1iiylaz/hiring_scalac_is_looking_for_scala_engineers/)
-- [Does Scala have an actual job market in 2025?](https://www.reddit.com/r/scala/comments/1iixa3i/does_scala_have_an_actual_job_market_in_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

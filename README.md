@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Rust from a Scala Perspective: Advent of Code 2024](https://www.reddit.com/r/scala/comments/1ilmvy8/rust_from_a_scala_perspective_advent_of_code_2024/)
+- [Pragmatic ZIO - Lachezar Yankov, Scala Stockholm Winter Meetup, Nov 2024 Part 2](https://www.reddit.com/r/scala/comments/1ilgzfo/pragmatic_zio_lachezar_yankov_scala_stockholm/)
 - [Show project: Theater, a typed state machine + actor model for typelevel ecosystem](https://www.reddit.com/r/scala/comments/1ikkllp/show_project_theater_a_typed_state_machine_actor/)
 - [Loving shapless and supertagged](https://www.reddit.com/r/scala/comments/1ik0529/loving_shapless_and_supertagged/)
 - [🚨Scala Developers wanted](https://www.reddit.com/r/scala/comments/1ijmyce/scala_developers_wanted/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How can I add clauses similar to &lpar;&lpar;a1∧b2∧c3&rpar;∨&lpar;a2∧b3∧c4&rpar;∨&lpar;a3∧b4∧c5&rpar;∨&lpar;a4∧b5∧c6&rpar;&rpar; to the sat4j solver?](https://www.reddit.com/r/scala/comments/1ij7810/how_can_i_add_clauses_similar_to/)
 - [[YouTube video] IntelliJ IDEA x Scala: Constructors and Apply Methods](https://www.reddit.com/r/scala/comments/1ij6jjv/youtube_video_intellij_idea_x_scala_constructors/)
 - [[Hiring] Mid-level engineer with aptitude for functional Scala](https://www.reddit.com/r/scala/comments/1ij3y5c/hiring_midlevel_engineer_with_aptitude_for/)
-- [Scala Highlights from 2024](https://www.reddit.com/r/scala/comments/1ij2a6o/scala_highlights_from_2024/)
-- [[Hiring] Scalac is looking for Scala Engineers](https://www.reddit.com/r/scala/comments/1iiylaz/hiring_scalac_is_looking_for_scala_engineers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [🚀 New Update: Tyrian Flowbite Giter 8 Template! 🎉](https://www.reddit.com/r/scala/comments/1imn5ip/new_update_tyrian_flowbite_giter_8_template/)
+- [IDE with cross scala version support](https://www.reddit.com/r/scala/comments/1imaw23/ide_with_cross_scala_version_support/)
+- [This week in #Scala &lpar;Feb 10, 2025&rpar;](https://www.reddit.com/r/scala/comments/1imarft/this_week_in_scala_feb_10_2025/)
 - [Rust from a Scala Perspective: Advent of Code 2024](https://www.reddit.com/r/scala/comments/1ilmvy8/rust_from_a_scala_perspective_advent_of_code_2024/)
 - [Pragmatic ZIO - Lachezar Yankov, Scala Stockholm Winter Meetup, Nov 2024 Part 2](https://www.reddit.com/r/scala/comments/1ilgzfo/pragmatic_zio_lachezar_yankov_scala_stockholm/)
 - [Show project: Theater, a typed state machine + actor model for typelevel ecosystem](https://www.reddit.com/r/scala/comments/1ikkllp/show_project_theater_a_typed_state_machine_actor/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [🚨Scala Developers wanted](https://www.reddit.com/r/scala/comments/1ijmyce/scala_developers_wanted/)
 - [Best way to find scala developers](https://www.reddit.com/r/scala/comments/1ijda45/best_way_to_find_scala_developers/)
 - [Quality Scala learning resources](https://www.reddit.com/r/scala/comments/1ija254/quality_scala_learning_resources/)
-- [How can I add clauses similar to &lpar;&lpar;a1∧b2∧c3&rpar;∨&lpar;a2∧b3∧c4&rpar;∨&lpar;a3∧b4∧c5&rpar;∨&lpar;a4∧b5∧c6&rpar;&rpar; to the sat4j solver?](https://www.reddit.com/r/scala/comments/1ij7810/how_can_i_add_clauses_similar_to/)
-- [[YouTube video] IntelliJ IDEA x Scala: Constructors and Apply Methods](https://www.reddit.com/r/scala/comments/1ij6jjv/youtube_video_intellij_idea_x_scala_constructors/)
-- [[Hiring] Mid-level engineer with aptitude for functional Scala](https://www.reddit.com/r/scala/comments/1ij3y5c/hiring_midlevel_engineer_with_aptitude_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

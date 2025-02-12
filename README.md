@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there any discord channel for gsoc 2025?](https://www.reddit.com/r/scala/comments/1ineb8i/is_there_any_discord_channel_for_gsoc_2025/)
+- [Release: sbt-codeshovel - dig into git history for individual methods](https://www.reddit.com/r/scala/comments/1inc75g/release_sbtcodeshovel_dig_into_git_history_for/)
+- [Analyzing Big O notation for space complexity when using lazy data structures](https://www.reddit.com/r/scala/comments/1inav1b/analyzing_big_o_notation_for_space_complexity/)
+- [Help me choose between this two scala courses](https://www.reddit.com/r/scala/comments/1imym67/help_me_choose_between_this_two_scala_courses/)
+- [Struggling with Functional Programming](https://www.reddit.com/r/scala/comments/1imntv4/struggling_with_functional_programming/)
 - [🚀 New Update: Tyrian Flowbite Giter 8 Template! 🎉](https://www.reddit.com/r/scala/comments/1imn5ip/new_update_tyrian_flowbite_giter_8_template/)
 - [IDE with cross scala version support](https://www.reddit.com/r/scala/comments/1imaw23/ide_with_cross_scala_version_support/)
 - [This week in #Scala &lpar;Feb 10, 2025&rpar;](https://www.reddit.com/r/scala/comments/1imarft/this_week_in_scala_feb_10_2025/)
 - [Rust from a Scala Perspective: Advent of Code 2024](https://www.reddit.com/r/scala/comments/1ilmvy8/rust_from_a_scala_perspective_advent_of_code_2024/)
 - [Pragmatic ZIO - Lachezar Yankov, Scala Stockholm Winter Meetup, Nov 2024 Part 2](https://www.reddit.com/r/scala/comments/1ilgzfo/pragmatic_zio_lachezar_yankov_scala_stockholm/)
-- [Show project: Theater, a typed state machine + actor model for typelevel ecosystem](https://www.reddit.com/r/scala/comments/1ikkllp/show_project_theater_a_typed_state_machine_actor/)
-- [Loving shapless and supertagged](https://www.reddit.com/r/scala/comments/1ik0529/loving_shapless_and_supertagged/)
-- [🚨Scala Developers wanted](https://www.reddit.com/r/scala/comments/1ijmyce/scala_developers_wanted/)
-- [Best way to find scala developers](https://www.reddit.com/r/scala/comments/1ijda45/best_way_to_find_scala_developers/)
-- [Quality Scala learning resources](https://www.reddit.com/r/scala/comments/1ija254/quality_scala_learning_resources/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

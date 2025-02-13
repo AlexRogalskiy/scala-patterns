@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [scala sbt not recognized by windows defender](https://www.reddit.com/r/scala/comments/1io41wn/scala_sbt_not_recognized_by_windows_defender/)
 - [Is there any discord channel for gsoc 2025?](https://www.reddit.com/r/scala/comments/1ineb8i/is_there_any_discord_channel_for_gsoc_2025/)
 - [Release: sbt-codeshovel - dig into git history for individual methods](https://www.reddit.com/r/scala/comments/1inc75g/release_sbtcodeshovel_dig_into_git_history_for/)
 - [Analyzing Big O notation for space complexity when using lazy data structures](https://www.reddit.com/r/scala/comments/1inav1b/analyzing_big_o_notation_for_space_complexity/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [IDE with cross scala version support](https://www.reddit.com/r/scala/comments/1imaw23/ide_with_cross_scala_version_support/)
 - [This week in #Scala &lpar;Feb 10, 2025&rpar;](https://www.reddit.com/r/scala/comments/1imarft/this_week_in_scala_feb_10_2025/)
 - [Rust from a Scala Perspective: Advent of Code 2024](https://www.reddit.com/r/scala/comments/1ilmvy8/rust_from_a_scala_perspective_advent_of_code_2024/)
-- [Pragmatic ZIO - Lachezar Yankov, Scala Stockholm Winter Meetup, Nov 2024 Part 2](https://www.reddit.com/r/scala/comments/1ilgzfo/pragmatic_zio_lachezar_yankov_scala_stockholm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What do we expect from Scala in the age of LLM-supported coding?](https://www.reddit.com/r/scala/comments/1ionxi4/what_do_we_expect_from_scala_in_the_age_of/)
 - [scala sbt not recognized by windows defender](https://www.reddit.com/r/scala/comments/1io41wn/scala_sbt_not_recognized_by_windows_defender/)
 - [Is there any discord channel for gsoc 2025?](https://www.reddit.com/r/scala/comments/1ineb8i/is_there_any_discord_channel_for_gsoc_2025/)
 - [Release: sbt-codeshovel - dig into git history for individual methods](https://www.reddit.com/r/scala/comments/1inc75g/release_sbtcodeshovel_dig_into_git_history_for/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [🚀 New Update: Tyrian Flowbite Giter 8 Template! 🎉](https://www.reddit.com/r/scala/comments/1imn5ip/new_update_tyrian_flowbite_giter_8_template/)
 - [IDE with cross scala version support](https://www.reddit.com/r/scala/comments/1imaw23/ide_with_cross_scala_version_support/)
 - [This week in #Scala &lpar;Feb 10, 2025&rpar;](https://www.reddit.com/r/scala/comments/1imarft/this_week_in_scala_feb_10_2025/)
-- [Rust from a Scala Perspective: Advent of Code 2024](https://www.reddit.com/r/scala/comments/1ilmvy8/rust_from_a_scala_perspective_advent_of_code_2024/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

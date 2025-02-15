@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Scala Meetup - San Francisco] - Designing the library powering Netflix&#39;s QoE with Scala 3 &amp; Let&#39;s Teach LLMs to Write Great Scala!](https://www.reddit.com/r/scala/comments/1ipr596/scala_meetup_san_francisco_designing_the_library/)
 - [What do we expect from Scala in the age of LLM-supported coding?](https://www.reddit.com/r/scala/comments/1ionxi4/what_do_we_expect_from_scala_in_the_age_of/)
 - [scala sbt not recognized by windows defender](https://www.reddit.com/r/scala/comments/1io41wn/scala_sbt_not_recognized_by_windows_defender/)
 - [Is there any discord channel for gsoc 2025?](https://www.reddit.com/r/scala/comments/1ineb8i/is_there_any_discord_channel_for_gsoc_2025/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Struggling with Functional Programming](https://www.reddit.com/r/scala/comments/1imntv4/struggling_with_functional_programming/)
 - [🚀 New Update: Tyrian Flowbite Giter 8 Template! 🎉](https://www.reddit.com/r/scala/comments/1imn5ip/new_update_tyrian_flowbite_giter_8_template/)
 - [IDE with cross scala version support](https://www.reddit.com/r/scala/comments/1imaw23/ide_with_cross_scala_version_support/)
-- [This week in #Scala &lpar;Feb 10, 2025&rpar;](https://www.reddit.com/r/scala/comments/1imarft/this_week_in_scala_feb_10_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

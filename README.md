@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Feb 17, 2025&rpar;](https://www.reddit.com/r/scala/comments/1ir04se/this_week_in_scala_feb_17_2025/)
+- [Scala Meetups in Hamburg &lpar;25th&rpar; &amp; Berlin &lpar;26th&rpar;, Germany](https://www.reddit.com/r/scala/comments/1iqsqrk/scala_meetups_in_hamburg_25th_berlin_26th_germany/)
+- [Fast Incremental JVM Assembly Jar Creation with Mill](https://www.reddit.com/r/scala/comments/1iqrup3/fast_incremental_jvm_assembly_jar_creation_with/)
 - [[London Scala User Group] Direct-style Scala vs Effect systems &amp; How to Macro - Feb 19 &lpar;Wed&rpar;](https://www.reddit.com/r/scala/comments/1iqbiv0/london_scala_user_group_directstyle_scala_vs/)
 - [[Scala Meetup - San Francisco] - Designing the library powering Netflix&#39;s QoE with Scala 3 &amp; Let&#39;s Teach LLMs to Write Great Scala!](https://www.reddit.com/r/scala/comments/1ipr596/scala_meetup_san_francisco_designing_the_library/)
 - [What do we expect from Scala in the age of LLM-supported coding?](https://www.reddit.com/r/scala/comments/1ionxi4/what_do_we_expect_from_scala_in_the_age_of/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Is there any discord channel for gsoc 2025?](https://www.reddit.com/r/scala/comments/1ineb8i/is_there_any_discord_channel_for_gsoc_2025/)
 - [Release: sbt-codeshovel - dig into git history for individual methods](https://www.reddit.com/r/scala/comments/1inc75g/release_sbtcodeshovel_dig_into_git_history_for/)
 - [Analyzing Big O notation for space complexity when using lazy data structures](https://www.reddit.com/r/scala/comments/1inav1b/analyzing_big_o_notation_for_space_complexity/)
-- [Help me choose between this two scala courses](https://www.reddit.com/r/scala/comments/1imym67/help_me_choose_between_this_two_scala_courses/)
-- [Struggling with Functional Programming](https://www.reddit.com/r/scala/comments/1imntv4/struggling_with_functional_programming/)
-- [🚀 New Update: Tyrian Flowbite Giter 8 Template! 🎉](https://www.reddit.com/r/scala/comments/1imn5ip/new_update_tyrian_flowbite_giter_8_template/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

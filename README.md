@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Announcing Scala Days 2025](https://www.reddit.com/r/scala/comments/1isj8yd/announcing_scala_days_2025/)
+- [Hiring for 5 Senior Data Engineers in LATAM](https://www.reddit.com/r/scala/comments/1ishfj5/hiring_for_5_senior_data_engineers_in_latam/)
+- [[EVENT] Functional World #15 |](https://www.reddit.com/r/scala/comments/1isd7fc/event_functional_world_15/)
+- [What LLM are you using for coding and how much you pay?](https://www.reddit.com/r/scala/comments/1isclnn/what_llm_are_you_using_for_coding_and_how_much/)
 - [Can I pattern match class A with class B?](https://www.reddit.com/r/scala/comments/1irswh8/can_i_pattern_match_class_a_with_class_b/)
 - [ZIO Schedules with intermittent logging?](https://www.reddit.com/r/scala/comments/1irpl8e/zio_schedules_with_intermittent_logging/)
 - [Using Scala macro to statically prevent nested constructs](https://www.reddit.com/r/scala/comments/1irlfwh/using_scala_macro_to_statically_prevent_nested/)
 - [sudori part 7: client-side run with sbt](https://www.reddit.com/r/scala/comments/1irg5o1/sudori_part_7_clientside_run_with_sbt/)
 - [Algebraic Effects from Scratch by Kit Langton](https://www.reddit.com/r/scala/comments/1irfd9u/algebraic_effects_from_scratch_by_kit_langton/)
 - [This week in #Scala &lpar;Feb 17, 2025&rpar;](https://www.reddit.com/r/scala/comments/1ir04se/this_week_in_scala_feb_17_2025/)
-- [Scala Meetups in Hamburg &lpar;25th&rpar; &amp; Berlin &lpar;26th&rpar;, Germany](https://www.reddit.com/r/scala/comments/1iqsqrk/scala_meetups_in_hamburg_25th_berlin_26th_germany/)
-- [Fast Incremental JVM Assembly Jar Creation with Mill](https://www.reddit.com/r/scala/comments/1iqrup3/fast_incremental_jvm_assembly_jar_creation_with/)
-- [[London Scala User Group] Direct-style Scala vs Effect systems &amp; How to Macro - Feb 19 &lpar;Wed&rpar;](https://www.reddit.com/r/scala/comments/1iqbiv0/london_scala_user_group_directstyle_scala_vs/)
-- [[Scala Meetup - San Francisco] - Designing the library powering Netflix&#39;s QoE with Scala 3 &amp; Let&#39;s Teach LLMs to Write Great Scala!](https://www.reddit.com/r/scala/comments/1ipr596/scala_meetup_san_francisco_designing_the_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

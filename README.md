@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Projects Maintenance Survey Report is out!](https://www.reddit.com/r/scala/comments/1iu1ggq/scala_projects_maintenance_survey_report_is_out/)
+- [Kyo: A New Approach to Functional Effects in Scala with Flavio Brasil and Adam Hearn @ Scala for Fun &amp; Profit](https://www.reddit.com/r/scala/comments/1iu0yxo/kyo_a_new_approach_to_functional_effects_in_scala/)
+- [Scala Projects Maintenance Report 2025/02 &lpar;Virtuslabs&rpar; &lpar;PDF&rpar;](https://www.reddit.com/r/scala/comments/1iu0w15/scala_projects_maintenance_report_202502/)
+- [The State of Scala &amp; Clojure Surveys: How is functional programming on JVM doing](https://www.reddit.com/r/scala/comments/1iu00wp/the_state_of_scala_clojure_surveys_how_is/)
+- [FP Books after Red Book?](https://www.reddit.com/r/scala/comments/1itzobf/fp_books_after_red_book/)
+- [Shared Resource Cache for Cats Effect](https://www.reddit.com/r/scala/comments/1ityidp/shared_resource_cache_for_cats_effect/)
+- [Workflows4s DevLog #1: Progress Tracking](https://www.reddit.com/r/scala/comments/1itxd5b/workflows4s_devlog_1_progress_tracking/)
 - [Announcing Scala Days 2025](https://www.reddit.com/r/scala/comments/1isj8yd/announcing_scala_days_2025/)
 - [Hiring for 5 Senior Data Engineers in LATAM](https://www.reddit.com/r/scala/comments/1ishfj5/hiring_for_5_senior_data_engineers_in_latam/)
 - [[EVENT] Functional World #15 |](https://www.reddit.com/r/scala/comments/1isd7fc/event_functional_world_15/)
-- [What LLM are you using for coding and how much you pay?](https://www.reddit.com/r/scala/comments/1isclnn/what_llm_are_you_using_for_coding_and_how_much/)
-- [Can I pattern match class A with class B?](https://www.reddit.com/r/scala/comments/1irswh8/can_i_pattern_match_class_a_with_class_b/)
-- [ZIO Schedules with intermittent logging?](https://www.reddit.com/r/scala/comments/1irpl8e/zio_schedules_with_intermittent_logging/)
-- [Using Scala macro to statically prevent nested constructs](https://www.reddit.com/r/scala/comments/1irlfwh/using_scala_macro_to_statically_prevent_nested/)
-- [sudori part 7: client-side run with sbt](https://www.reddit.com/r/scala/comments/1irg5o1/sudori_part_7_clientside_run_with_sbt/)
-- [Algebraic Effects from Scratch by Kit Langton](https://www.reddit.com/r/scala/comments/1irfd9u/algebraic_effects_from_scratch_by_kit_langton/)
-- [This week in #Scala &lpar;Feb 17, 2025&rpar;](https://www.reddit.com/r/scala/comments/1ir04se/this_week_in_scala_feb_17_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

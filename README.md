@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Repurposing Scala&#39;s Pattern Matching for Deeply Embedded by Tomáš Mikula](https://www.reddit.com/r/scala/comments/1iuovbw/repurposing_scalas_pattern_matching_for_deeply/)
+- [Apache Fury Serialization Framework 0.10.0 released: 2X smaller size for map serialization](https://www.reddit.com/r/scala/comments/1iuk6kq/apache_fury_serialization_framework_0100_released/)
 - [Scala Projects Maintenance Survey Report is out!](https://www.reddit.com/r/scala/comments/1iu1ggq/scala_projects_maintenance_survey_report_is_out/)
 - [Kyo: A New Approach to Functional Effects in Scala with Flavio Brasil and Adam Hearn @ Scala for Fun &amp; Profit](https://www.reddit.com/r/scala/comments/1iu0yxo/kyo_a_new_approach_to_functional_effects_in_scala/)
 - [Scala Projects Maintenance Report 2025/02 &lpar;Virtuslabs&rpar; &lpar;PDF&rpar;](https://www.reddit.com/r/scala/comments/1iu0w15/scala_projects_maintenance_report_202502/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Shared Resource Cache for Cats Effect](https://www.reddit.com/r/scala/comments/1ityidp/shared_resource_cache_for_cats_effect/)
 - [Workflows4s DevLog #1: Progress Tracking](https://www.reddit.com/r/scala/comments/1itxd5b/workflows4s_devlog_1_progress_tracking/)
 - [Announcing Scala Days 2025](https://www.reddit.com/r/scala/comments/1isj8yd/announcing_scala_days_2025/)
-- [Hiring for 5 Senior Data Engineers in LATAM](https://www.reddit.com/r/scala/comments/1ishfj5/hiring_for_5_senior_data_engineers_in_latam/)
-- [[EVENT] Functional World #15 |](https://www.reddit.com/r/scala/comments/1isd7fc/event_functional_world_15/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

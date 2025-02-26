@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Rock the JVM partners with the Scala Center](https://www.reddit.com/r/scala/comments/1ixwdhl/rock_the_jvm_partners_with_the_scala_center/)
 - [[redacted][0.6.2] released 🎉](https://www.reddit.com/r/scala/comments/1ixecf0/redacted062_released/)
 - [This week in #Scala &lpar;Feb 24, 2025&rpar;](https://www.reddit.com/r/scala/comments/1iwb4e9/this_week_in_scala_feb_24_2025/)
 - [[Slides] Scala in 2025: How to Start, What to Learn](https://www.reddit.com/r/scala/comments/1ivt0kk/slides_scala_in_2025_how_to_start_what_to_learn/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Apache Fury Serialization Framework 0.10.0 released: 2X smaller size for map serialization](https://www.reddit.com/r/scala/comments/1iuk6kq/apache_fury_serialization_framework_0100_released/)
 - [Scala Projects Maintenance Survey Report is out!](https://www.reddit.com/r/scala/comments/1iu1ggq/scala_projects_maintenance_survey_report_is_out/)
 - [Kyo: A New Approach to Functional Effects in Scala with Flavio Brasil and Adam Hearn @ Scala for Fun &amp; Profit](https://www.reddit.com/r/scala/comments/1iu0yxo/kyo_a_new_approach_to_functional_effects_in_scala/)
-- [Scala Projects Maintenance Report 2025/02 &lpar;Virtuslabs&rpar; &lpar;PDF&rpar;](https://www.reddit.com/r/scala/comments/1iu0w15/scala_projects_maintenance_report_202502/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

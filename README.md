@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help setting up Scala LSP with Neovim?](https://www.reddit.com/r/scala/comments/1iywl2j/help_setting_up_scala_lsp_with_neovim/)
+- [[EVENT] Functional World #16 | Scala in 2025: How to Start, What to Learn](https://www.reddit.com/r/scala/comments/1iyklm8/event_functional_world_16_scala_in_2025_how_to/)
 - [Rock the JVM partners with the Scala Center](https://www.reddit.com/r/scala/comments/1ixwdhl/rock_the_jvm_partners_with_the_scala_center/)
 - [[redacted][0.6.2] released 🎉](https://www.reddit.com/r/scala/comments/1ixecf0/redacted062_released/)
 - [This week in #Scala &lpar;Feb 24, 2025&rpar;](https://www.reddit.com/r/scala/comments/1iwb4e9/this_week_in_scala_feb_24_2025/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [When your Scala code compiles... but you didnt expect it to](https://www.reddit.com/r/scala/comments/1iveane/when_your_scala_code_compiles_but_you_didnt/)
 - [Repurposing Scala&#39;s Pattern Matching for Deeply Embedded by Tomáš Mikula](https://www.reddit.com/r/scala/comments/1iuovbw/repurposing_scalas_pattern_matching_for_deeply/)
 - [Apache Fury Serialization Framework 0.10.0 released: 2X smaller size for map serialization](https://www.reddit.com/r/scala/comments/1iuk6kq/apache_fury_serialization_framework_0100_released/)
-- [Scala Projects Maintenance Survey Report is out!](https://www.reddit.com/r/scala/comments/1iu1ggq/scala_projects_maintenance_survey_report_is_out/)
-- [Kyo: A New Approach to Functional Effects in Scala with Flavio Brasil and Adam Hearn @ Scala for Fun &amp; Profit](https://www.reddit.com/r/scala/comments/1iu0yxo/kyo_a_new_approach_to_functional_effects_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

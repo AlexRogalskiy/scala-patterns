@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[London &amp; Online] Scala Talks @ Imperial: A Life in Scala &amp; Designing with Duality](https://www.reddit.com/r/scala/comments/1izpmna/london_online_scala_talks_imperial_a_life_in/)
+- [Introduction to Scala 3 Macros](https://www.reddit.com/r/scala/comments/1izgq04/introduction_to_scala_3_macros/)
+- [Is it possible to run an http4s app with non-IO effects &lpar;using cats&rpar;?](https://www.reddit.com/r/scala/comments/1izaieg/is_it_possible_to_run_an_http4s_app_with_nonio/)
 - [Help setting up Scala LSP with Neovim?](https://www.reddit.com/r/scala/comments/1iywl2j/help_setting_up_scala_lsp_with_neovim/)
 - [[EVENT] Functional World #16 | Scala in 2025: How to Start, What to Learn](https://www.reddit.com/r/scala/comments/1iyklm8/event_functional_world_16_scala_in_2025_how_to/)
 - [Rock the JVM partners with the Scala Center](https://www.reddit.com/r/scala/comments/1ixwdhl/rock_the_jvm_partners_with_the_scala_center/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Feb 24, 2025&rpar;](https://www.reddit.com/r/scala/comments/1iwb4e9/this_week_in_scala_feb_24_2025/)
 - [[Slides] Scala in 2025: How to Start, What to Learn](https://www.reddit.com/r/scala/comments/1ivt0kk/slides_scala_in_2025_how_to_start_what_to_learn/)
 - [Compiled Dice Roller, Scala Preferred](https://www.reddit.com/r/scala/comments/1iveljt/compiled_dice_roller_scala_preferred/)
-- [When your Scala code compiles... but you didnt expect it to](https://www.reddit.com/r/scala/comments/1iveane/when_your_scala_code_compiles_but_you_didnt/)
-- [Repurposing Scala&#39;s Pattern Matching for Deeply Embedded by Tomáš Mikula](https://www.reddit.com/r/scala/comments/1iuovbw/repurposing_scalas_pattern_matching_for_deeply/)
-- [Apache Fury Serialization Framework 0.10.0 released: 2X smaller size for map serialization](https://www.reddit.com/r/scala/comments/1iuk6kq/apache_fury_serialization_framework_0100_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

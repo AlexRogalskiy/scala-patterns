@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Events] Scala, Frontend and Software Architecture | Scalendar March 2025](https://www.reddit.com/r/scala/comments/1j08p79/events_scala_frontend_and_software_architecture/)
 - [[London &amp; Online] Scala Talks @ Imperial: A Life in Scala &amp; Designing with Duality](https://www.reddit.com/r/scala/comments/1izpmna/london_online_scala_talks_imperial_a_life_in/)
 - [Introduction to Scala 3 Macros](https://www.reddit.com/r/scala/comments/1izgq04/introduction_to_scala_3_macros/)
 - [Is it possible to run an http4s app with non-IO effects &lpar;using cats&rpar;?](https://www.reddit.com/r/scala/comments/1izaieg/is_it_possible_to_run_an_http4s_app_with_nonio/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [[redacted][0.6.2] released 🎉](https://www.reddit.com/r/scala/comments/1ixecf0/redacted062_released/)
 - [This week in #Scala &lpar;Feb 24, 2025&rpar;](https://www.reddit.com/r/scala/comments/1iwb4e9/this_week_in_scala_feb_24_2025/)
 - [[Slides] Scala in 2025: How to Start, What to Learn](https://www.reddit.com/r/scala/comments/1ivt0kk/slides_scala_in_2025_how_to_start_what_to_learn/)
-- [Compiled Dice Roller, Scala Preferred](https://www.reddit.com/r/scala/comments/1iveljt/compiled_dice_roller_scala_preferred/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

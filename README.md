@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Any suggestion for a modern and comprehensive framework to study and for projects? I am accepting non main-stream choices](https://www.reddit.com/r/scala/comments/1j12rjz/any_suggestion_for_a_modern_and_comprehensive/)
 - [[Events] Scala, Frontend and Software Architecture | Scalendar March 2025](https://www.reddit.com/r/scala/comments/1j08p79/events_scala_frontend_and_software_architecture/)
 - [[London &amp; Online] Scala Talks @ Imperial: A Life in Scala &amp; Designing with Duality](https://www.reddit.com/r/scala/comments/1izpmna/london_online_scala_talks_imperial_a_life_in/)
 - [Introduction to Scala 3 Macros](https://www.reddit.com/r/scala/comments/1izgq04/introduction_to_scala_3_macros/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Rock the JVM partners with the Scala Center](https://www.reddit.com/r/scala/comments/1ixwdhl/rock_the_jvm_partners_with_the_scala_center/)
 - [[redacted][0.6.2] released 🎉](https://www.reddit.com/r/scala/comments/1ixecf0/redacted062_released/)
 - [This week in #Scala &lpar;Feb 24, 2025&rpar;](https://www.reddit.com/r/scala/comments/1iwb4e9/this_week_in_scala_feb_24_2025/)
-- [[Slides] Scala in 2025: How to Start, What to Learn](https://www.reddit.com/r/scala/comments/1ivt0kk/slides_scala_in_2025_how_to_start_what_to_learn/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

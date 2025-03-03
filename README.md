@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Hiring] Scala software engineer - Staff &amp; Senior](https://www.reddit.com/r/scala/comments/1j27967/hiring_scala_software_engineer_staff_senior/)
+- [pop-test v0.6.7 - test DSL, runner, orchestrator - added easy bindings ⭐ write tests from any lang - write tests in JSON, YAML, Scala, Lisp/Guile Scheme, want to add soon Emacs Lisp as well - manage and test your programs, do checks, spin up/down Postgres, Keycloak, Kafka, etc.](https://www.reddit.com/r/scala/comments/1j24tv3/poptest_v067_test_dsl_runner_orchestrator_added/)
+- [FP in Scala with effect systems and or libraries like cats?](https://www.reddit.com/r/scala/comments/1j1qsen/fp_in_scala_with_effect_systems_and_or_libraries/)
+- [Is there an equivalent of pygments &lpar;source code to html&rpar; libraries in scala?](https://www.reddit.com/r/scala/comments/1j1jm4p/is_there_an_equivalent_of_pygments_source_code_to/)
 - [Any suggestion for a modern and comprehensive framework to study and for projects? I am accepting non main-stream choices](https://www.reddit.com/r/scala/comments/1j12rjz/any_suggestion_for_a_modern_and_comprehensive/)
 - [[Events] Scala, Frontend and Software Architecture | Scalendar March 2025](https://www.reddit.com/r/scala/comments/1j08p79/events_scala_frontend_and_software_architecture/)
 - [[London &amp; Online] Scala Talks @ Imperial: A Life in Scala &amp; Designing with Duality](https://www.reddit.com/r/scala/comments/1izpmna/london_online_scala_talks_imperial_a_life_in/)
 - [Introduction to Scala 3 Macros](https://www.reddit.com/r/scala/comments/1izgq04/introduction_to_scala_3_macros/)
 - [Is it possible to run an http4s app with non-IO effects &lpar;using cats&rpar;?](https://www.reddit.com/r/scala/comments/1izaieg/is_it_possible_to_run_an_http4s_app_with_nonio/)
 - [Help setting up Scala LSP with Neovim?](https://www.reddit.com/r/scala/comments/1iywl2j/help_setting_up_scala_lsp_with_neovim/)
-- [[EVENT] Functional World #16 | Scala in 2025: How to Start, What to Learn](https://www.reddit.com/r/scala/comments/1iyklm8/event_functional_world_16_scala_in_2025_how_to/)
-- [Rock the JVM partners with the Scala Center](https://www.reddit.com/r/scala/comments/1ixwdhl/rock_the_jvm_partners_with_the_scala_center/)
-- [[redacted][0.6.2] released 🎉](https://www.reddit.com/r/scala/comments/1ixecf0/redacted062_released/)
-- [This week in #Scala &lpar;Feb 24, 2025&rpar;](https://www.reddit.com/r/scala/comments/1iwb4e9/this_week_in_scala_feb_24_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

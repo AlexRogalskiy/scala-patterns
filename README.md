@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 1.10.9 released](https://www.reddit.com/r/scala/comments/1j2twdx/sbt_1109_released/)
+- [Migrating a codebase to Scala 3](https://www.reddit.com/r/scala/comments/1j2rw0p/migrating_a_codebase_to_scala_3/)
+- [What do you charge for BE Scala Contracting?](https://www.reddit.com/r/scala/comments/1j2qw6p/what_do_you_charge_for_be_scala_contracting/)
+- [Drawing Heighway’s Dragon - Recursive Function Rewrite - From Imperative Style in Pascal 64 To Functional Style in Scala 3](https://www.reddit.com/r/scala/comments/1j2pm5d/drawing_heighways_dragon_recursive_function/)
+- [GSoC 2025: Call for contributors](https://www.reddit.com/r/scala/comments/1j2kqx0/gsoc_2025_call_for_contributors/)
+- [This week in #Scala &lpar;Mar 3, 2025&rpar;](https://www.reddit.com/r/scala/comments/1j2jpw7/this_week_in_scala_mar_3_2025/)
 - [[Hiring] Scala software engineer - Staff &amp; Senior](https://www.reddit.com/r/scala/comments/1j27967/hiring_scala_software_engineer_staff_senior/)
 - [pop-test v0.6.7 - test DSL, runner, orchestrator - added easy bindings ⭐ write tests from any lang - write tests in JSON, YAML, Scala, Lisp/Guile Scheme, want to add soon Emacs Lisp as well - manage and test your programs, do checks, spin up/down Postgres, Keycloak, Kafka, etc.](https://www.reddit.com/r/scala/comments/1j24tv3/poptest_v067_test_dsl_runner_orchestrator_added/)
 - [FP in Scala with effect systems and or libraries like cats?](https://www.reddit.com/r/scala/comments/1j1qsen/fp_in_scala_with_effect_systems_and_or_libraries/)
 - [Is there an equivalent of pygments &lpar;source code to html&rpar; libraries in scala?](https://www.reddit.com/r/scala/comments/1j1jm4p/is_there_an_equivalent_of_pygments_source_code_to/)
-- [Any suggestion for a modern and comprehensive framework to study and for projects? I am accepting non main-stream choices](https://www.reddit.com/r/scala/comments/1j12rjz/any_suggestion_for_a_modern_and_comprehensive/)
-- [[Events] Scala, Frontend and Software Architecture | Scalendar March 2025](https://www.reddit.com/r/scala/comments/1j08p79/events_scala_frontend_and_software_architecture/)
-- [[London &amp; Online] Scala Talks @ Imperial: A Life in Scala &amp; Designing with Duality](https://www.reddit.com/r/scala/comments/1izpmna/london_online_scala_talks_imperial_a_life_in/)
-- [Introduction to Scala 3 Macros](https://www.reddit.com/r/scala/comments/1izgq04/introduction_to_scala_3_macros/)
-- [Is it possible to run an http4s app with non-IO effects &lpar;using cats&rpar;?](https://www.reddit.com/r/scala/comments/1izaieg/is_it_possible_to_run_an_http4s_app_with_nonio/)
-- [Help setting up Scala LSP with Neovim?](https://www.reddit.com/r/scala/comments/1iywl2j/help_setting_up_scala_lsp_with_neovim/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 1.10.10 released](https://www.reddit.com/r/scala/comments/1j34kju/sbt_11010_released/)
 - [sbt 1.10.9 released](https://www.reddit.com/r/scala/comments/1j2twdx/sbt_1109_released/)
 - [Migrating a codebase to Scala 3](https://www.reddit.com/r/scala/comments/1j2rw0p/migrating_a_codebase_to_scala_3/)
 - [What do you charge for BE Scala Contracting?](https://www.reddit.com/r/scala/comments/1j2qw6p/what_do_you_charge_for_be_scala_contracting/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [[Hiring] Scala software engineer - Staff &amp; Senior](https://www.reddit.com/r/scala/comments/1j27967/hiring_scala_software_engineer_staff_senior/)
 - [pop-test v0.6.7 - test DSL, runner, orchestrator - added easy bindings ⭐ write tests from any lang - write tests in JSON, YAML, Scala, Lisp/Guile Scheme, want to add soon Emacs Lisp as well - manage and test your programs, do checks, spin up/down Postgres, Keycloak, Kafka, etc.](https://www.reddit.com/r/scala/comments/1j24tv3/poptest_v067_test_dsl_runner_orchestrator_added/)
 - [FP in Scala with effect systems and or libraries like cats?](https://www.reddit.com/r/scala/comments/1j1qsen/fp_in_scala_with_effect_systems_and_or_libraries/)
-- [Is there an equivalent of pygments &lpar;source code to html&rpar; libraries in scala?](https://www.reddit.com/r/scala/comments/1j1jm4p/is_there_an_equivalent_of_pygments_source_code_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

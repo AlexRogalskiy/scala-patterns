@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3 will require JDK 17+, starting from Scala 3.8.](https://www.reddit.com/r/scala/comments/1j49feu/scala_3_will_require_jdk_17_starting_from_scala_38/)
+- [From Python to Scala: Rewriting 27k Lines of a CLI](https://www.reddit.com/r/scala/comments/1j401wa/from_python_to_scala_rewriting_27k_lines_of_a_cli/)
 - [sbt 1.10.10 released](https://www.reddit.com/r/scala/comments/1j34kju/sbt_11010_released/)
 - [sbt 1.10.9 released](https://www.reddit.com/r/scala/comments/1j2twdx/sbt_1109_released/)
 - [Migrating a codebase to Scala 3](https://www.reddit.com/r/scala/comments/1j2rw0p/migrating_a_codebase_to_scala_3/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [GSoC 2025: Call for contributors](https://www.reddit.com/r/scala/comments/1j2kqx0/gsoc_2025_call_for_contributors/)
 - [This week in #Scala &lpar;Mar 3, 2025&rpar;](https://www.reddit.com/r/scala/comments/1j2jpw7/this_week_in_scala_mar_3_2025/)
 - [[Hiring] Scala software engineer - Staff &amp; Senior](https://www.reddit.com/r/scala/comments/1j27967/hiring_scala_software_engineer_staff_senior/)
-- [pop-test v0.6.7 - test DSL, runner, orchestrator - added easy bindings ⭐ write tests from any lang - write tests in JSON, YAML, Scala, Lisp/Guile Scheme, want to add soon Emacs Lisp as well - manage and test your programs, do checks, spin up/down Postgres, Keycloak, Kafka, etc.](https://www.reddit.com/r/scala/comments/1j24tv3/poptest_v067_test_dsl_runner_orchestrator_added/)
-- [FP in Scala with effect systems and or libraries like cats?](https://www.reddit.com/r/scala/comments/1j1qsen/fp_in_scala_with_effect_systems_and_or_libraries/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

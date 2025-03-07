@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The CfP for Scala Days 2025 is now open](https://www.reddit.com/r/scala/comments/1j4yeee/the_cfp_for_scala_days_2025_is_now_open/)
+- [IntelliJ IDEA x Scala - Inlay Hints and X-Ray Mode](https://www.reddit.com/r/scala/comments/1j4xjyi/intellij_idea_x_scala_inlay_hints_and_xray_mode/)
 - [Scala 3 will require JDK 17+, starting from Scala 3.8.](https://www.reddit.com/r/scala/comments/1j49feu/scala_3_will_require_jdk_17_starting_from_scala_38/)
 - [From Python to Scala: Rewriting 27k Lines of a CLI](https://www.reddit.com/r/scala/comments/1j401wa/from_python_to_scala_rewriting_27k_lines_of_a_cli/)
 - [sbt 1.10.10 released](https://www.reddit.com/r/scala/comments/1j34kju/sbt_11010_released/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [What do you charge for BE Scala Contracting?](https://www.reddit.com/r/scala/comments/1j2qw6p/what_do_you_charge_for_be_scala_contracting/)
 - [Drawing Heighway’s Dragon - Recursive Function Rewrite - From Imperative Style in Pascal 64 To Functional Style in Scala 3](https://www.reddit.com/r/scala/comments/1j2pm5d/drawing_heighways_dragon_recursive_function/)
 - [GSoC 2025: Call for contributors](https://www.reddit.com/r/scala/comments/1j2kqx0/gsoc_2025_call_for_contributors/)
-- [This week in #Scala &lpar;Mar 3, 2025&rpar;](https://www.reddit.com/r/scala/comments/1j2jpw7/this_week_in_scala_mar_3_2025/)
-- [[Hiring] Scala software engineer - Staff &amp; Senior](https://www.reddit.com/r/scala/comments/1j27967/hiring_scala_software_engineer_staff_senior/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

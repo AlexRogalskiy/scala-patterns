@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Generating swaggers at compile time](https://www.reddit.com/r/scala/comments/1j6ea5q/generating_swaggers_at_compile_time/)
 - [Debugging session #2: Scala 3 lazy vals &amp; serialization](https://www.reddit.com/r/scala/comments/1j5fr8e/debugging_session_2_scala_3_lazy_vals/)
 - [The CfP for Scala Days 2025 is now open](https://www.reddit.com/r/scala/comments/1j4yeee/the_cfp_for_scala_days_2025_is_now_open/)
 - [IntelliJ IDEA x Scala - Inlay Hints and X-Ray Mode](https://www.reddit.com/r/scala/comments/1j4xjyi/intellij_idea_x_scala_inlay_hints_and_xray_mode/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt 1.10.9 released](https://www.reddit.com/r/scala/comments/1j2twdx/sbt_1109_released/)
 - [Migrating a codebase to Scala 3](https://www.reddit.com/r/scala/comments/1j2rw0p/migrating_a_codebase_to_scala_3/)
 - [What do you charge for BE Scala Contracting?](https://www.reddit.com/r/scala/comments/1j2qw6p/what_do_you_charge_for_be_scala_contracting/)
-- [Drawing Heighway’s Dragon - Recursive Function Rewrite - From Imperative Style in Pascal 64 To Functional Style in Scala 3](https://www.reddit.com/r/scala/comments/1j2pm5d/drawing_heighways_dragon_recursive_function/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

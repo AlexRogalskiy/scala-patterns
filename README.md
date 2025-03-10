@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New Releases of all Purple Kingdom Games libs &lpar;Indigo, Tyrian, Ultraviolet, and the Roguelike Starterkit&rpar;](https://www.reddit.com/r/scala/comments/1j7lezp/new_releases_of_all_purple_kingdom_games_libs/)
+- [This week in #Scala &lpar;Mar 10, 2025&rpar;](https://www.reddit.com/r/scala/comments/1j7kl53/this_week_in_scala_mar_10_2025/)
 - [Generating swaggers at compile time](https://www.reddit.com/r/scala/comments/1j6ea5q/generating_swaggers_at_compile_time/)
 - [Debugging session #2: Scala 3 lazy vals &amp; serialization](https://www.reddit.com/r/scala/comments/1j5fr8e/debugging_session_2_scala_3_lazy_vals/)
 - [The CfP for Scala Days 2025 is now open](https://www.reddit.com/r/scala/comments/1j4yeee/the_cfp_for_scala_days_2025_is_now_open/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [From Python to Scala: Rewriting 27k Lines of a CLI](https://www.reddit.com/r/scala/comments/1j401wa/from_python_to_scala_rewriting_27k_lines_of_a_cli/)
 - [sbt 1.10.10 released](https://www.reddit.com/r/scala/comments/1j34kju/sbt_11010_released/)
 - [sbt 1.10.9 released](https://www.reddit.com/r/scala/comments/1j2twdx/sbt_1109_released/)
-- [Migrating a codebase to Scala 3](https://www.reddit.com/r/scala/comments/1j2rw0p/migrating_a_codebase_to_scala_3/)
-- [What do you charge for BE Scala Contracting?](https://www.reddit.com/r/scala/comments/1j2qw6p/what_do_you_charge_for_be_scala_contracting/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

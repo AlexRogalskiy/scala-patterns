@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Exciting News for the #Scala Community in India!](https://www.reddit.com/r/scala/comments/1j81kw0/exciting_news_for_the_scala_community_in_india/)
+- [How many of you think that Apache Spark is keeping Scala alive?](https://www.reddit.com/r/scala/comments/1j7slgs/how_many_of_you_think_that_apache_spark_is/)
 - [New Releases of all Purple Kingdom Games libs &lpar;Indigo, Tyrian, Ultraviolet, and the Roguelike Starterkit&rpar;](https://www.reddit.com/r/scala/comments/1j7lezp/new_releases_of_all_purple_kingdom_games_libs/)
 - [This week in #Scala &lpar;Mar 10, 2025&rpar;](https://www.reddit.com/r/scala/comments/1j7kl53/this_week_in_scala_mar_10_2025/)
 - [Generating swaggers at compile time](https://www.reddit.com/r/scala/comments/1j6ea5q/generating_swaggers_at_compile_time/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [IntelliJ IDEA x Scala - Inlay Hints and X-Ray Mode](https://www.reddit.com/r/scala/comments/1j4xjyi/intellij_idea_x_scala_inlay_hints_and_xray_mode/)
 - [Scala 3 will require JDK 17+, starting from Scala 3.8.](https://www.reddit.com/r/scala/comments/1j49feu/scala_3_will_require_jdk_17_starting_from_scala_38/)
 - [From Python to Scala: Rewriting 27k Lines of a CLI](https://www.reddit.com/r/scala/comments/1j401wa/from_python_to_scala_rewriting_27k_lines_of_a_cli/)
-- [sbt 1.10.10 released](https://www.reddit.com/r/scala/comments/1j34kju/sbt_11010_released/)
-- [sbt 1.10.9 released](https://www.reddit.com/r/scala/comments/1j2twdx/sbt_1109_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

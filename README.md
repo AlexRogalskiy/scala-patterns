@@ -271,7 +271,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Pretty neat Scala talks lined up for this year&#39;s LambdaConf](https://www.reddit.com/r/scala/comments/1j9pyr7/pretty_neat_scala_talks_lined_up_for_this_years/)
 - [sbt 2.0.0-M4 released](https://www.reddit.com/r/scala/comments/1j9dip9/sbt_200m4_released/)
 - [[Dallas Scala Enthusiasts] Next Gen Track &amp; Trace: Building a reactive, distributed architecture](https://www.reddit.com/r/scala/comments/1j8zvzq/dallas_scala_enthusiasts_next_gen_track_trace/)
 - [Exciting News for the #Scala Community in India!](https://www.reddit.com/r/scala/comments/1j81kw0/exciting_news_for_the_scala_community_in_india/)
@@ -281,6 +280,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Generating swaggers at compile time](https://www.reddit.com/r/scala/comments/1j6ea5q/generating_swaggers_at_compile_time/)
 - [Debugging session #2: Scala 3 lazy vals &amp; serialization](https://www.reddit.com/r/scala/comments/1j5fr8e/debugging_session_2_scala_3_lazy_vals/)
 - [The CfP for Scala Days 2025 is now open](https://www.reddit.com/r/scala/comments/1j4yeee/the_cfp_for_scala_days_2025_is_now_open/)
+- [IntelliJ IDEA x Scala - Inlay Hints and X-Ray Mode](https://www.reddit.com/r/scala/comments/1j4xjyi/intellij_idea_x_scala_inlay_hints_and_xray_mode/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

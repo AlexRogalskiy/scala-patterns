@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Event] ScaLatin #9 | El pegamento galáctico](https://www.reddit.com/r/scala/comments/1jb27mn/event_scalatin_9_el_pegamento_galáctico/)
+- [Advice for learning scala](https://www.reddit.com/r/scala/comments/1jb1ub4/advice_for_learning_scala/)
 - [sbt 2.0.0-M4 released](https://www.reddit.com/r/scala/comments/1j9dip9/sbt_200m4_released/)
 - [[Dallas Scala Enthusiasts] Next Gen Track &amp; Trace: Building a reactive, distributed architecture](https://www.reddit.com/r/scala/comments/1j8zvzq/dallas_scala_enthusiasts_next_gen_track_trace/)
 - [Exciting News for the #Scala Community in India!](https://www.reddit.com/r/scala/comments/1j81kw0/exciting_news_for_the_scala_community_in_india/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Mar 10, 2025&rpar;](https://www.reddit.com/r/scala/comments/1j7kl53/this_week_in_scala_mar_10_2025/)
 - [Generating swaggers at compile time](https://www.reddit.com/r/scala/comments/1j6ea5q/generating_swaggers_at_compile_time/)
 - [Debugging session #2: Scala 3 lazy vals &amp; serialization](https://www.reddit.com/r/scala/comments/1j5fr8e/debugging_session_2_scala_3_lazy_vals/)
-- [The CfP for Scala Days 2025 is now open](https://www.reddit.com/r/scala/comments/1j4yeee/the_cfp_for_scala_days_2025_is_now_open/)
-- [IntelliJ IDEA x Scala - Inlay Hints and X-Ray Mode](https://www.reddit.com/r/scala/comments/1j4xjyi/intellij_idea_x_scala_inlay_hints_and_xray_mode/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

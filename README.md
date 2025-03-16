@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does Scala offer better decompilation protection than Java?](https://www.reddit.com/r/scala/comments/1jca9eu/does_scala_offer_better_decompilation_protection/)
+- [Running background tasks with Cats](https://www.reddit.com/r/scala/comments/1jbua14/running_background_tasks_with_cats/)
+- [First Talk @Scala India by Ayush Gour | Rescheduled](https://www.reddit.com/r/scala/comments/1jbo6c0/first_talk_scala_india_by_ayush_gour_rescheduled/)
 - [[Event] ScaLatin #9 | El pegamento galáctico](https://www.reddit.com/r/scala/comments/1jb27mn/event_scalatin_9_el_pegamento_galáctico/)
 - [Advice for learning scala](https://www.reddit.com/r/scala/comments/1jb1ub4/advice_for_learning_scala/)
 - [sbt 2.0.0-M4 released](https://www.reddit.com/r/scala/comments/1j9dip9/sbt_200m4_released/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Exciting News for the #Scala Community in India!](https://www.reddit.com/r/scala/comments/1j81kw0/exciting_news_for_the_scala_community_in_india/)
 - [How many of you think that Apache Spark is keeping Scala alive?](https://www.reddit.com/r/scala/comments/1j7slgs/how_many_of_you_think_that_apache_spark_is/)
 - [New Releases of all Purple Kingdom Games libs &lpar;Indigo, Tyrian, Ultraviolet, and the Roguelike Starterkit&rpar;](https://www.reddit.com/r/scala/comments/1j7lezp/new_releases_of_all_purple_kingdom_games_libs/)
-- [This week in #Scala &lpar;Mar 10, 2025&rpar;](https://www.reddit.com/r/scala/comments/1j7kl53/this_week_in_scala_mar_10_2025/)
-- [Generating swaggers at compile time](https://www.reddit.com/r/scala/comments/1j6ea5q/generating_swaggers_at_compile_time/)
-- [Debugging session #2: Scala 3 lazy vals &amp; serialization](https://www.reddit.com/r/scala/comments/1j5fr8e/debugging_session_2_scala_3_lazy_vals/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

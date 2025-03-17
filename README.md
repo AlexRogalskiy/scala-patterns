@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Announcing ScalaNullSafe 1.4.0 w/ support for Scala 3](https://www.reddit.com/r/scala/comments/1jcvxnr/announcing_scalanullsafe_140_w_support_for_scala_3/)
+- [This week in #Scala &lpar;Mar 17, 2025&rpar;](https://www.reddit.com/r/scala/comments/1jcs4y1/this_week_in_scala_mar_17_2025/)
 - [Does Scala offer better decompilation protection than Java?](https://www.reddit.com/r/scala/comments/1jca9eu/does_scala_offer_better_decompilation_protection/)
 - [Running background tasks with Cats](https://www.reddit.com/r/scala/comments/1jbua14/running_background_tasks_with_cats/)
 - [First Talk @Scala India by Ayush Gour | Rescheduled](https://www.reddit.com/r/scala/comments/1jbo6c0/first_talk_scala_india_by_ayush_gour_rescheduled/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt 2.0.0-M4 released](https://www.reddit.com/r/scala/comments/1j9dip9/sbt_200m4_released/)
 - [[Dallas Scala Enthusiasts] Next Gen Track &amp; Trace: Building a reactive, distributed architecture](https://www.reddit.com/r/scala/comments/1j8zvzq/dallas_scala_enthusiasts_next_gen_track_trace/)
 - [Exciting News for the #Scala Community in India!](https://www.reddit.com/r/scala/comments/1j81kw0/exciting_news_for_the_scala_community_in_india/)
-- [How many of you think that Apache Spark is keeping Scala alive?](https://www.reddit.com/r/scala/comments/1j7slgs/how_many_of_you_think_that_apache_spark_is/)
-- [New Releases of all Purple Kingdom Games libs &lpar;Indigo, Tyrian, Ultraviolet, and the Roguelike Starterkit&rpar;](https://www.reddit.com/r/scala/comments/1j7lezp/new_releases_of_all_purple_kingdom_games_libs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

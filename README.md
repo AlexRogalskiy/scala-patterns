@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [tiny tuple transformation library for scala 3](https://www.reddit.com/r/scala/comments/1jdlhry/tiny_tuple_transformation_library_for_scala_3/)
+- [etl4s 1.0.1 - Pretty, whiteboard-style pipelines. Looking for feedback!](https://www.reddit.com/r/scala/comments/1jdf86r/etl4s_101_pretty_whiteboardstyle_pipelines/)
+- [Strategies for Efficiently Parallelizing JVM Test Suites](https://www.reddit.com/r/scala/comments/1jdcgf4/strategies_for_efficiently_parallelizing_jvm_test/)
+- [hiring scala engineer in Spain &lpar;VAL/BCN&rpar;, Vienna and Hamburg](https://www.reddit.com/r/scala/comments/1jd9bf1/hiring_scala_engineer_in_spain_valbcn_vienna_and/)
+- [sbt 1.10.11 released](https://www.reddit.com/r/scala/comments/1jd5ygq/sbt_11011_released/)
 - [Announcing ScalaNullSafe 1.4.0 w/ support for Scala 3](https://www.reddit.com/r/scala/comments/1jcvxnr/announcing_scalanullsafe_140_w_support_for_scala_3/)
 - [This week in #Scala &lpar;Mar 17, 2025&rpar;](https://www.reddit.com/r/scala/comments/1jcs4y1/this_week_in_scala_mar_17_2025/)
 - [Does Scala offer better decompilation protection than Java?](https://www.reddit.com/r/scala/comments/1jca9eu/does_scala_offer_better_decompilation_protection/)
 - [Running background tasks with Cats](https://www.reddit.com/r/scala/comments/1jbua14/running_background_tasks_with_cats/)
 - [First Talk @Scala India by Ayush Gour | Rescheduled](https://www.reddit.com/r/scala/comments/1jbo6c0/first_talk_scala_india_by_ayush_gour_rescheduled/)
-- [[Event] ScaLatin #9 | El pegamento galáctico](https://www.reddit.com/r/scala/comments/1jb27mn/event_scalatin_9_el_pegamento_galáctico/)
-- [Advice for learning scala](https://www.reddit.com/r/scala/comments/1jb1ub4/advice_for_learning_scala/)
-- [sbt 2.0.0-M4 released](https://www.reddit.com/r/scala/comments/1j9dip9/sbt_200m4_released/)
-- [[Dallas Scala Enthusiasts] Next Gen Track &amp; Trace: Building a reactive, distributed architecture](https://www.reddit.com/r/scala/comments/1j8zvzq/dallas_scala_enthusiasts_next_gen_track_trace/)
-- [Exciting News for the #Scala Community in India!](https://www.reddit.com/r/scala/comments/1j81kw0/exciting_news_for_the_scala_community_in_india/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

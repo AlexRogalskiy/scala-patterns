@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Would you recommend learning Scala in 2025 to get a job?](https://www.reddit.com/r/scala/comments/1jg36r8/would_you_recommend_learning_scala_in_2025_to_get/)
+- [Scala type design](https://www.reddit.com/r/scala/comments/1jfub0a/scala_type_design/)
+- [Learning scala for an assignment](https://www.reddit.com/r/scala/comments/1jfs4nn/learning_scala_for_an_assignment/)
+- [Java 24 and GraalVM for JDK 24 Released](https://www.reddit.com/r/scala/comments/1jfprq1/java_24_and_graalvm_for_jdk_24_released/)
+- [Scala Days Super Early Bird tickets are on sale until April 4th](https://www.reddit.com/r/scala/comments/1jfn5b5/scala_days_super_early_bird_tickets_are_on_sale/)
 - [[redacted][0.7.1] released: now with generic, cross Scala 3.x &amp; 2.x Compiler API 🎉](https://www.reddit.com/r/scala/comments/1jf3yaj/redacted071_released_now_with_generic_cross_scala/)
 - [Narrative is Hiring a Senior/Staff Backend Engineer - Query Compiler &lpar;Remote&rpar; [$140k, $200k] USD](https://www.reddit.com/r/scala/comments/1jf24yu/narrative_is_hiring_a_seniorstaff_backend/)
 - [Curious to know how many have adopted Scala 3](https://www.reddit.com/r/scala/comments/1jet8ls/curious_to_know_how_many_have_adopted_scala_3/)
 - [ducktape 0.2.8 - now with support for field/case name transformations](https://www.reddit.com/r/scala/comments/1jeqsxo/ducktape_028_now_with_support_for_fieldcase_name/)
 - [Why does Intellij Idea pretend to be lost while it&#39;s not really?](https://www.reddit.com/r/scala/comments/1je9n84/why_does_intellij_idea_pretend_to_be_lost_while/)
-- [Martin Odersky on the Future of Scala](https://www.reddit.com/r/scala/comments/1je7pyv/martin_odersky_on_the_future_of_scala/)
-- [sbt-dependency-check v1.0.0 released](https://www.reddit.com/r/scala/comments/1je38kg/sbtdependencycheck_v100_released/)
-- [Integration Pipeline - blog post](https://www.reddit.com/r/scala/comments/1je2n4k/integration_pipeline_blog_post/)
-- [tiny tuple transformation library for scala 3](https://www.reddit.com/r/scala/comments/1jdlhry/tiny_tuple_transformation_library_for_scala_3/)
-- [etl4s 1.0.1 - Pretty, whiteboard-style pipelines. Looking for feedback!](https://www.reddit.com/r/scala/comments/1jdf86r/etl4s_101_pretty_whiteboardstyle_pipelines/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

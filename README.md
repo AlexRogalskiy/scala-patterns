@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Publishing ZIP artifacts with SBT](https://www.reddit.com/r/scala/comments/1jgjapz/publishing_zip_artifacts_with_sbt/)
+- [Unpopular opinion on r/scala: Scala is a very nice language, is doing well and has a bright future!](https://www.reddit.com/r/scala/comments/1jgiorq/unpopular_opinion_on_rscala_scala_is_a_very_nice/)
 - [Would you recommend learning Scala in 2025 to get a job?](https://www.reddit.com/r/scala/comments/1jg36r8/would_you_recommend_learning_scala_in_2025_to_get/)
 - [Scala type design](https://www.reddit.com/r/scala/comments/1jfub0a/scala_type_design/)
 - [Learning scala for an assignment](https://www.reddit.com/r/scala/comments/1jfs4nn/learning_scala_for_an_assignment/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [[redacted][0.7.1] released: now with generic, cross Scala 3.x &amp; 2.x Compiler API 🎉](https://www.reddit.com/r/scala/comments/1jf3yaj/redacted071_released_now_with_generic_cross_scala/)
 - [Narrative is Hiring a Senior/Staff Backend Engineer - Query Compiler &lpar;Remote&rpar; [$140k, $200k] USD](https://www.reddit.com/r/scala/comments/1jf24yu/narrative_is_hiring_a_seniorstaff_backend/)
 - [Curious to know how many have adopted Scala 3](https://www.reddit.com/r/scala/comments/1jet8ls/curious_to_know_how_many_have_adopted_scala_3/)
-- [ducktape 0.2.8 - now with support for field/case name transformations](https://www.reddit.com/r/scala/comments/1jeqsxo/ducktape_028_now_with_support_for_fieldcase_name/)
-- [Why does Intellij Idea pretend to be lost while it&#39;s not really?](https://www.reddit.com/r/scala/comments/1je9n84/why_does_intellij_idea_pretend_to_be_lost_while/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

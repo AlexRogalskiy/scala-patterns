@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Mar 24, 2025&rpar;](https://www.reddit.com/r/scala/comments/1ji4xot/this_week_in_scala_mar_24_2025/)
 - [Publishing ZIP artifacts with SBT](https://www.reddit.com/r/scala/comments/1jgjapz/publishing_zip_artifacts_with_sbt/)
 - [Unpopular opinion on r/scala: Scala is a very nice language, is doing well and has a bright future!](https://www.reddit.com/r/scala/comments/1jgiorq/unpopular_opinion_on_rscala_scala_is_a_very_nice/)
 - [Would you recommend learning Scala in 2025 to get a job?](https://www.reddit.com/r/scala/comments/1jg36r8/would_you_recommend_learning_scala_in_2025_to_get/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Days Super Early Bird tickets are on sale until April 4th](https://www.reddit.com/r/scala/comments/1jfn5b5/scala_days_super_early_bird_tickets_are_on_sale/)
 - [[redacted][0.7.1] released: now with generic, cross Scala 3.x &amp; 2.x Compiler API 🎉](https://www.reddit.com/r/scala/comments/1jf3yaj/redacted071_released_now_with_generic_cross_scala/)
 - [Narrative is Hiring a Senior/Staff Backend Engineer - Query Compiler &lpar;Remote&rpar; [$140k, $200k] USD](https://www.reddit.com/r/scala/comments/1jf24yu/narrative_is_hiring_a_seniorstaff_backend/)
-- [Curious to know how many have adopted Scala 3](https://www.reddit.com/r/scala/comments/1jet8ls/curious_to_know_how_many_have_adopted_scala_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

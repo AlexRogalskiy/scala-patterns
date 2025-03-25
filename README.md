@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Cats-Effect 3.6.0](https://www.reddit.com/r/scala/comments/1jiyjrs/catseffect_360/)
+- [Benefits/Drawbacks of web services in Typelevel Stack Scala over Actix&lpar;Rust&rpar; ,NestJS&lpar;TS&rpar;, FastAPI&lpar;Python&rpar;](https://www.reddit.com/r/scala/comments/1jit4dm/benefitsdrawbacks_of_web_services_in_typelevel/)
+- [Evolving Scala](https://www.reddit.com/r/scala/comments/1jisl6i/evolving_scala/)
+- [Iron v3.0.0 is out 🎉](https://www.reddit.com/r/scala/comments/1jimug8/iron_v300_is_out/)
 - [This week in #Scala &lpar;Mar 24, 2025&rpar;](https://www.reddit.com/r/scala/comments/1ji4xot/this_week_in_scala_mar_24_2025/)
 - [Publishing ZIP artifacts with SBT](https://www.reddit.com/r/scala/comments/1jgjapz/publishing_zip_artifacts_with_sbt/)
 - [Unpopular opinion on r/scala: Scala is a very nice language, is doing well and has a bright future!](https://www.reddit.com/r/scala/comments/1jgiorq/unpopular_opinion_on_rscala_scala_is_a_very_nice/)
 - [Would you recommend learning Scala in 2025 to get a job?](https://www.reddit.com/r/scala/comments/1jg36r8/would_you_recommend_learning_scala_in_2025_to_get/)
 - [Scala type design](https://www.reddit.com/r/scala/comments/1jfub0a/scala_type_design/)
 - [Learning scala for an assignment](https://www.reddit.com/r/scala/comments/1jfs4nn/learning_scala_for_an_assignment/)
-- [Java 24 and GraalVM for JDK 24 Released](https://www.reddit.com/r/scala/comments/1jfprq1/java_24_and_graalvm_for_jdk_24_released/)
-- [Scala Days Super Early Bird tickets are on sale until April 4th](https://www.reddit.com/r/scala/comments/1jfn5b5/scala_days_super_early_bird_tickets_are_on_sale/)
-- [[redacted][0.7.1] released: now with generic, cross Scala 3.x &amp; 2.x Compiler API 🎉](https://www.reddit.com/r/scala/comments/1jf3yaj/redacted071_released_now_with_generic_cross_scala/)
-- [Narrative is Hiring a Senior/Staff Backend Engineer - Query Compiler &lpar;Remote&rpar; [$140k, $200k] USD](https://www.reddit.com/r/scala/comments/1jf24yu/narrative_is_hiring_a_seniorstaff_backend/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

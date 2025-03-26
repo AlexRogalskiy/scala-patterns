@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Upcoming talk @Scala India Discord server](https://www.reddit.com/r/scala/comments/1jjkdz3/upcoming_talk_scala_india_discord_server/)
 - [Cats-Effect 3.6.0](https://www.reddit.com/r/scala/comments/1jiyjrs/catseffect_360/)
 - [Benefits/Drawbacks of web services in Typelevel Stack Scala over Actix&lpar;Rust&rpar; ,NestJS&lpar;TS&rpar;, FastAPI&lpar;Python&rpar;](https://www.reddit.com/r/scala/comments/1jit4dm/benefitsdrawbacks_of_web_services_in_typelevel/)
 - [Evolving Scala](https://www.reddit.com/r/scala/comments/1jisl6i/evolving_scala/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Unpopular opinion on r/scala: Scala is a very nice language, is doing well and has a bright future!](https://www.reddit.com/r/scala/comments/1jgiorq/unpopular_opinion_on_rscala_scala_is_a_very_nice/)
 - [Would you recommend learning Scala in 2025 to get a job?](https://www.reddit.com/r/scala/comments/1jg36r8/would_you_recommend_learning_scala_in_2025_to_get/)
 - [Scala type design](https://www.reddit.com/r/scala/comments/1jfub0a/scala_type_design/)
-- [Learning scala for an assignment](https://www.reddit.com/r/scala/comments/1jfs4nn/learning_scala_for_an_assignment/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

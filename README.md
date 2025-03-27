@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New Metals version 1.5.2 has been released!](https://www.reddit.com/r/scala/comments/1jkdm95/new_metals_version_152_has_been_released/)
+- [API-first Development in Scala](https://www.reddit.com/r/scala/comments/1jk1o12/apifirst_development_in_scala/)
 - [Upcoming talk @Scala India Discord server](https://www.reddit.com/r/scala/comments/1jjkdz3/upcoming_talk_scala_india_discord_server/)
 - [Cats-Effect 3.6.0](https://www.reddit.com/r/scala/comments/1jiyjrs/catseffect_360/)
 - [Benefits/Drawbacks of web services in Typelevel Stack Scala over Actix&lpar;Rust&rpar; ,NestJS&lpar;TS&rpar;, FastAPI&lpar;Python&rpar;](https://www.reddit.com/r/scala/comments/1jit4dm/benefitsdrawbacks_of_web_services_in_typelevel/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Mar 24, 2025&rpar;](https://www.reddit.com/r/scala/comments/1ji4xot/this_week_in_scala_mar_24_2025/)
 - [Publishing ZIP artifacts with SBT](https://www.reddit.com/r/scala/comments/1jgjapz/publishing_zip_artifacts_with_sbt/)
 - [Unpopular opinion on r/scala: Scala is a very nice language, is doing well and has a bright future!](https://www.reddit.com/r/scala/comments/1jgiorq/unpopular_opinion_on_rscala_scala_is_a_very_nice/)
-- [Would you recommend learning Scala in 2025 to get a job?](https://www.reddit.com/r/scala/comments/1jg36r8/would_you_recommend_learning_scala_in_2025_to_get/)
-- [Scala type design](https://www.reddit.com/r/scala/comments/1jfub0a/scala_type_design/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

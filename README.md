@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Drawing Heighway’s Dragon - Part 2 - Recursive Function Simplification - From 2^n Recursive Invocations To n Tail-Recursive Invocations Exploiting Self-Similarity](https://www.reddit.com/r/scala/comments/1jmtpnn/drawing_heighways_dragon_part_2_recursive/)
+- [Streaming commoncrawl processing with scala and Spark](https://www.reddit.com/r/scala/comments/1jmqkm9/streaming_commoncrawl_processing_with_scala_and/)
 - [[Scala Meetup - San Francisco - In Person] - Solving Scala&#39;s Build Problem with the Mill Build Tool By Li Haoyi &amp; More ....](https://www.reddit.com/r/scala/comments/1jku09j/scala_meetup_san_francisco_in_person_solving/)
 - [New Metals version 1.5.2 has been released!](https://www.reddit.com/r/scala/comments/1jkdm95/new_metals_version_152_has_been_released/)
 - [API-first Development in Scala](https://www.reddit.com/r/scala/comments/1jk1o12/apifirst_development_in_scala/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Benefits/Drawbacks of web services in Typelevel Stack Scala over Actix&lpar;Rust&rpar; ,NestJS&lpar;TS&rpar;, FastAPI&lpar;Python&rpar;](https://www.reddit.com/r/scala/comments/1jit4dm/benefitsdrawbacks_of_web_services_in_typelevel/)
 - [Evolving Scala](https://www.reddit.com/r/scala/comments/1jisl6i/evolving_scala/)
 - [Iron v3.0.0 is out 🎉](https://www.reddit.com/r/scala/comments/1jimug8/iron_v300_is_out/)
-- [This week in #Scala &lpar;Mar 24, 2025&rpar;](https://www.reddit.com/r/scala/comments/1ji4xot/this_week_in_scala_mar_24_2025/)
-- [Publishing ZIP artifacts with SBT](https://www.reddit.com/r/scala/comments/1jgjapz/publishing_zip_artifacts_with_sbt/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

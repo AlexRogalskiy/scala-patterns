@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Days proposal online hack](https://www.reddit.com/r/scala/comments/1jnlr0q/scala_days_proposal_online_hack/)
+- [Why did Scala miss big opportunities, or did it?](https://www.reddit.com/r/scala/comments/1jnk4h0/why_did_scala_miss_big_opportunities_or_did_it/)
+- [This week in #Scala &lpar;Mar 31, 2025&rpar;](https://www.reddit.com/r/scala/comments/1jncnty/this_week_in_scala_mar_31_2025/)
+- [Kyo 0.17.0 - One of the last releases before the RC cycle!](https://www.reddit.com/r/scala/comments/1jn3nfz/kyo_0170_one_of_the_last_releases_before_the_rc/)
 - [Drawing Heighway’s Dragon - Part 2 - Recursive Function Simplification - From 2^n Recursive Invocations To n Tail-Recursive Invocations Exploiting Self-Similarity](https://www.reddit.com/r/scala/comments/1jmtpnn/drawing_heighways_dragon_part_2_recursive/)
 - [Streaming commoncrawl processing with scala and Spark](https://www.reddit.com/r/scala/comments/1jmqkm9/streaming_commoncrawl_processing_with_scala_and/)
 - [[Scala Meetup - San Francisco - In Person] - Solving Scala&#39;s Build Problem with the Mill Build Tool By Li Haoyi &amp; More ....](https://www.reddit.com/r/scala/comments/1jku09j/scala_meetup_san_francisco_in_person_solving/)
 - [New Metals version 1.5.2 has been released!](https://www.reddit.com/r/scala/comments/1jkdm95/new_metals_version_152_has_been_released/)
 - [API-first Development in Scala](https://www.reddit.com/r/scala/comments/1jk1o12/apifirst_development_in_scala/)
 - [Upcoming talk @Scala India Discord server](https://www.reddit.com/r/scala/comments/1jjkdz3/upcoming_talk_scala_india_discord_server/)
-- [Cats-Effect 3.6.0](https://www.reddit.com/r/scala/comments/1jiyjrs/catseffect_360/)
-- [Benefits/Drawbacks of web services in Typelevel Stack Scala over Actix&lpar;Rust&rpar; ,NestJS&lpar;TS&rpar;, FastAPI&lpar;Python&rpar;](https://www.reddit.com/r/scala/comments/1jit4dm/benefitsdrawbacks_of_web_services_in_typelevel/)
-- [Evolving Scala](https://www.reddit.com/r/scala/comments/1jisl6i/evolving_scala/)
-- [Iron v3.0.0 is out 🎉](https://www.reddit.com/r/scala/comments/1jimug8/iron_v300_is_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

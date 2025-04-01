@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Giving up on zio-mongodb library](https://www.reddit.com/r/scala/comments/1joa68u/giving_up_on_ziomongodb_library/)
 - [Scala Days proposal online hack](https://www.reddit.com/r/scala/comments/1jnlr0q/scala_days_proposal_online_hack/)
 - [Why did Scala miss big opportunities, or did it?](https://www.reddit.com/r/scala/comments/1jnk4h0/why_did_scala_miss_big_opportunities_or_did_it/)
 - [This week in #Scala &lpar;Mar 31, 2025&rpar;](https://www.reddit.com/r/scala/comments/1jncnty/this_week_in_scala_mar_31_2025/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [[Scala Meetup - San Francisco - In Person] - Solving Scala&#39;s Build Problem with the Mill Build Tool By Li Haoyi &amp; More ....](https://www.reddit.com/r/scala/comments/1jku09j/scala_meetup_san_francisco_in_person_solving/)
 - [New Metals version 1.5.2 has been released!](https://www.reddit.com/r/scala/comments/1jkdm95/new_metals_version_152_has_been_released/)
 - [API-first Development in Scala](https://www.reddit.com/r/scala/comments/1jk1o12/apifirst_development_in_scala/)
-- [Upcoming talk @Scala India Discord server](https://www.reddit.com/r/scala/comments/1jjkdz3/upcoming_talk_scala_india_discord_server/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

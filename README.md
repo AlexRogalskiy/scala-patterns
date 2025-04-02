@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Not one day without a new effect library?](https://www.reddit.com/r/scala/comments/1jp6yxk/not_one_day_without_a_new_effect_library/)
+- [cdxgen v11.2.x - SBOM tool with improved support for Scala 3](https://www.reddit.com/r/scala/comments/1jp4b33/cdxgen_v112x_sbom_tool_with_improved_support_for/)
+- [All rackthejvm course are free !](https://www.reddit.com/r/scala/comments/1jp3ui6/all_rackthejvm_course_are_free/)
+- [Looks Like Scala Is Go-ing](https://www.reddit.com/r/scala/comments/1jouvvi/looks_like_scala_is_going/)
+- [When the Scala compiler gives you that ‘Im not mad, just disappointed vibe](https://www.reddit.com/r/scala/comments/1jolkqj/when_the_scala_compiler_gives_you_that_im_not_mad/)
 - [Giving up on zio-mongodb library](https://www.reddit.com/r/scala/comments/1joa68u/giving_up_on_ziomongodb_library/)
 - [Scala Days proposal online hack](https://www.reddit.com/r/scala/comments/1jnlr0q/scala_days_proposal_online_hack/)
 - [Why did Scala miss big opportunities, or did it?](https://www.reddit.com/r/scala/comments/1jnk4h0/why_did_scala_miss_big_opportunities_or_did_it/)
 - [This week in #Scala &lpar;Mar 31, 2025&rpar;](https://www.reddit.com/r/scala/comments/1jncnty/this_week_in_scala_mar_31_2025/)
 - [Kyo 0.17.0 - One of the last releases before the RC cycle!](https://www.reddit.com/r/scala/comments/1jn3nfz/kyo_0170_one_of_the_last_releases_before_the_rc/)
-- [Drawing Heighway’s Dragon - Part 2 - Recursive Function Simplification - From 2^n Recursive Invocations To n Tail-Recursive Invocations Exploiting Self-Similarity](https://www.reddit.com/r/scala/comments/1jmtpnn/drawing_heighways_dragon_part_2_recursive/)
-- [Streaming commoncrawl processing with scala and Spark](https://www.reddit.com/r/scala/comments/1jmqkm9/streaming_commoncrawl_processing_with_scala_and/)
-- [[Scala Meetup - San Francisco - In Person] - Solving Scala&#39;s Build Problem with the Mill Build Tool By Li Haoyi &amp; More ....](https://www.reddit.com/r/scala/comments/1jku09j/scala_meetup_san_francisco_in_person_solving/)
-- [New Metals version 1.5.2 has been released!](https://www.reddit.com/r/scala/comments/1jkdm95/new_metals_version_152_has_been_released/)
-- [API-first Development in Scala](https://www.reddit.com/r/scala/comments/1jk1o12/apifirst_development_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

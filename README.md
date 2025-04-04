@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Compiling And Running Scala Sources](https://www.reddit.com/r/scala/comments/1jqigwf/compiling_and_running_scala_sources/)
 - [-XX:+UseCompactObjectHeaders is your new TURBO button for JDK 24+](https://www.reddit.com/r/scala/comments/1jptiv3/xxusecompactobjectheaders_is_your_new_turbo/)
 - [Scala stack and architecture for a backend focused full-stack web-app](https://www.reddit.com/r/scala/comments/1jprfy7/scala_stack_and_architecture_for_a_backend/)
 - [Not one day without a new effect library?](https://www.reddit.com/r/scala/comments/1jp6yxk/not_one_day_without_a_new_effect_library/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Giving up on zio-mongodb library](https://www.reddit.com/r/scala/comments/1joa68u/giving_up_on_ziomongodb_library/)
 - [Scala Days proposal online hack](https://www.reddit.com/r/scala/comments/1jnlr0q/scala_days_proposal_online_hack/)
 - [Why did Scala miss big opportunities, or did it?](https://www.reddit.com/r/scala/comments/1jnk4h0/why_did_scala_miss_big_opportunities_or_did_it/)
-- [This week in #Scala &lpar;Mar 31, 2025&rpar;](https://www.reddit.com/r/scala/comments/1jncnty/this_week_in_scala_mar_31_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do you organize imports and highlight unused imports in vscode?](https://www.reddit.com/r/scala/comments/1jrs0pf/how_do_you_organize_imports_and_highlight_unused/)
+- [Why should I use type inference?](https://www.reddit.com/r/scala/comments/1jrlrk3/why_should_i_use_type_inference/)
 - [Compiling And Running Scala Sources](https://www.reddit.com/r/scala/comments/1jqigwf/compiling_and_running_scala_sources/)
 - [-XX:+UseCompactObjectHeaders is your new TURBO button for JDK 24+](https://www.reddit.com/r/scala/comments/1jptiv3/xxusecompactobjectheaders_is_your_new_turbo/)
 - [Scala stack and architecture for a backend focused full-stack web-app](https://www.reddit.com/r/scala/comments/1jprfy7/scala_stack_and_architecture_for_a_backend/)
 - [Not one day without a new effect library?](https://www.reddit.com/r/scala/comments/1jp6yxk/not_one_day_without_a_new_effect_library/)
 - [cdxgen v11.2.x - SBOM tool with improved support for Scala 3](https://www.reddit.com/r/scala/comments/1jp4b33/cdxgen_v112x_sbom_tool_with_improved_support_for/)
 - [Looks Like Scala Is Go-ing](https://www.reddit.com/r/scala/comments/1jouvvi/looks_like_scala_is_going/)
-- [When the Scala compiler gives you that ‘Im not mad, just disappointed vibe](https://www.reddit.com/r/scala/comments/1jolkqj/when_the_scala_compiler_gives_you_that_im_not_mad/)
 - [Giving up on zio-mongodb library](https://www.reddit.com/r/scala/comments/1joa68u/giving_up_on_ziomongodb_library/)
 - [Scala Days proposal online hack](https://www.reddit.com/r/scala/comments/1jnlr0q/scala_days_proposal_online_hack/)
-- [Why did Scala miss big opportunities, or did it?](https://www.reddit.com/r/scala/comments/1jnk4h0/why_did_scala_miss_big_opportunities_or_did_it/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

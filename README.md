@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do I setup a laminar project?](https://www.reddit.com/r/scala/comments/1jsfm02/how_do_i_setup_a_laminar_project/)
 - [How do you organize imports and highlight unused imports in vscode?](https://www.reddit.com/r/scala/comments/1jrs0pf/how_do_you_organize_imports_and_highlight_unused/)
 - [Why should I use type inference?](https://www.reddit.com/r/scala/comments/1jrlrk3/why_should_i_use_type_inference/)
 - [Compiling And Running Scala Sources](https://www.reddit.com/r/scala/comments/1jqigwf/compiling_and_running_scala_sources/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [cdxgen v11.2.x - SBOM tool with improved support for Scala 3](https://www.reddit.com/r/scala/comments/1jp4b33/cdxgen_v112x_sbom_tool_with_improved_support_for/)
 - [Looks Like Scala Is Go-ing](https://www.reddit.com/r/scala/comments/1jouvvi/looks_like_scala_is_going/)
 - [Giving up on zio-mongodb library](https://www.reddit.com/r/scala/comments/1joa68u/giving_up_on_ziomongodb_library/)
-- [Scala Days proposal online hack](https://www.reddit.com/r/scala/comments/1jnlr0q/scala_days_proposal_online_hack/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Open-Closed Principle - Part 2 - The Contemporary Version - An Introduction - oldie but goodie](https://www.reddit.com/r/scala/comments/1jsvupl/the_openclosed_principle_part_2_the_contemporary/)
+- [The Open-Closed Principle - Part 1 - oldie but goodie](https://www.reddit.com/r/scala/comments/1jsvsff/the_openclosed_principle_part_1_oldie_but_goodie/)
+- [ldbc v0.3.0-RC1 is out 🎉](https://www.reddit.com/r/scala/comments/1jsvrku/ldbc_v030rc1_is_out/)
 - [How do I setup a laminar project?](https://www.reddit.com/r/scala/comments/1jsfm02/how_do_i_setup_a_laminar_project/)
 - [How do you organize imports and highlight unused imports in vscode?](https://www.reddit.com/r/scala/comments/1jrs0pf/how_do_you_organize_imports_and_highlight_unused/)
 - [Why should I use type inference?](https://www.reddit.com/r/scala/comments/1jrlrk3/why_should_i_use_type_inference/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [-XX:+UseCompactObjectHeaders is your new TURBO button for JDK 24+](https://www.reddit.com/r/scala/comments/1jptiv3/xxusecompactobjectheaders_is_your_new_turbo/)
 - [Scala stack and architecture for a backend focused full-stack web-app](https://www.reddit.com/r/scala/comments/1jprfy7/scala_stack_and_architecture_for_a_backend/)
 - [Not one day without a new effect library?](https://www.reddit.com/r/scala/comments/1jp6yxk/not_one_day_without_a_new_effect_library/)
-- [cdxgen v11.2.x - SBOM tool with improved support for Scala 3](https://www.reddit.com/r/scala/comments/1jp4b33/cdxgen_v112x_sbom_tool_with_improved_support_for/)
-- [Looks Like Scala Is Go-ing](https://www.reddit.com/r/scala/comments/1jouvvi/looks_like_scala_is_going/)
-- [Giving up on zio-mongodb library](https://www.reddit.com/r/scala/comments/1joa68u/giving_up_on_ziomongodb_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

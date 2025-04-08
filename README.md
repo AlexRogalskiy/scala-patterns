@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A simple build tool](https://www.reddit.com/r/scala/comments/1jtosrj/a_simple_build_tool/)
+- [[Events] Scala, Software Architecture, Frontend | Scalendar April 2025](https://www.reddit.com/r/scala/comments/1jtl07k/events_scala_software_architecture_frontend/)
+- [I wrote MCP &lpar;Model Context Protocol&rpar; server in Scala 3, run in Scala.js](https://www.reddit.com/r/scala/comments/1jtk04n/i_wrote_mcp_model_context_protocol_server_in/)
+- [Evolving Scala by Martin Odersky | Scalar Conference 2025](https://www.reddit.com/r/scala/comments/1jtjy9f/evolving_scala_by_martin_odersky_scalar/)
+- [What scla-cli way of ignoring current input and drop back to prompt? `Ctrl-C` quits scala-cli.](https://www.reddit.com/r/scala/comments/1jthj0r/what_sclacli_way_of_ignoring_current_input_and/)
 - [The Open-Closed Principle - Part 2 - The Contemporary Version - An Introduction - oldie but goodie](https://www.reddit.com/r/scala/comments/1jsvupl/the_openclosed_principle_part_2_the_contemporary/)
 - [The Open-Closed Principle - Part 1 - oldie but goodie](https://www.reddit.com/r/scala/comments/1jsvsff/the_openclosed_principle_part_1_oldie_but_goodie/)
 - [ldbc v0.3.0-RC1 is out 🎉](https://www.reddit.com/r/scala/comments/1jsvrku/ldbc_v030rc1_is_out/)
 - [How do I setup a laminar project?](https://www.reddit.com/r/scala/comments/1jsfm02/how_do_i_setup_a_laminar_project/)
 - [How do you organize imports and highlight unused imports in vscode?](https://www.reddit.com/r/scala/comments/1jrs0pf/how_do_you_organize_imports_and_highlight_unused/)
-- [Why should I use type inference?](https://www.reddit.com/r/scala/comments/1jrlrk3/why_should_i_use_type_inference/)
-- [Compiling And Running Scala Sources](https://www.reddit.com/r/scala/comments/1jqigwf/compiling_and_running_scala_sources/)
-- [-XX:+UseCompactObjectHeaders is your new TURBO button for JDK 24+](https://www.reddit.com/r/scala/comments/1jptiv3/xxusecompactobjectheaders_is_your_new_turbo/)
-- [Scala stack and architecture for a backend focused full-stack web-app](https://www.reddit.com/r/scala/comments/1jprfy7/scala_stack_and_architecture_for_a_backend/)
-- [Not one day without a new effect library?](https://www.reddit.com/r/scala/comments/1jp6yxk/not_one_day_without_a_new_effect_library/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

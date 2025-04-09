@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [IntelliJ IDEA x Scala: Indentation Syntax](https://www.reddit.com/r/scala/comments/1jucgdi/intellij_idea_x_scala_indentation_syntax/)
 - [A simple build tool](https://www.reddit.com/r/scala/comments/1jtosrj/a_simple_build_tool/)
 - [[Events] Scala, Software Architecture, Frontend | Scalendar April 2025](https://www.reddit.com/r/scala/comments/1jtl07k/events_scala_software_architecture_frontend/)
 - [I wrote MCP &lpar;Model Context Protocol&rpar; server in Scala 3, run in Scala.js](https://www.reddit.com/r/scala/comments/1jtk04n/i_wrote_mcp_model_context_protocol_server_in/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [The Open-Closed Principle - Part 1 - oldie but goodie](https://www.reddit.com/r/scala/comments/1jsvsff/the_openclosed_principle_part_1_oldie_but_goodie/)
 - [ldbc v0.3.0-RC1 is out 🎉](https://www.reddit.com/r/scala/comments/1jsvrku/ldbc_v030rc1_is_out/)
 - [How do I setup a laminar project?](https://www.reddit.com/r/scala/comments/1jsfm02/how_do_i_setup_a_laminar_project/)
-- [How do you organize imports and highlight unused imports in vscode?](https://www.reddit.com/r/scala/comments/1jrs0pf/how_do_you_organize_imports_and_highlight_unused/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

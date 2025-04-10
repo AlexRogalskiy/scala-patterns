@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Problems connecting with Metals to BSP Server](https://www.reddit.com/r/scala/comments/1jv7eyx/problems_connecting_with_metals_to_bsp_server/)
+- [How Scala is made and how you can help? by Krzysztof Romanowski | Scalar Conference 2025](https://www.reddit.com/r/scala/comments/1juzotb/how_scala_is_made_and_how_you_can_help_by/)
 - [IntelliJ IDEA x Scala: Indentation Syntax](https://www.reddit.com/r/scala/comments/1jucgdi/intellij_idea_x_scala_indentation_syntax/)
 - [A simple build tool](https://www.reddit.com/r/scala/comments/1jtosrj/a_simple_build_tool/)
 - [[Events] Scala, Software Architecture, Frontend | Scalendar April 2025](https://www.reddit.com/r/scala/comments/1jtl07k/events_scala_software_architecture_frontend/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [What scla-cli way of ignoring current input and drop back to prompt? `Ctrl-C` quits scala-cli.](https://www.reddit.com/r/scala/comments/1jthj0r/what_sclacli_way_of_ignoring_current_input_and/)
 - [The Open-Closed Principle - Part 2 - The Contemporary Version - An Introduction - oldie but goodie](https://www.reddit.com/r/scala/comments/1jsvupl/the_openclosed_principle_part_2_the_contemporary/)
 - [The Open-Closed Principle - Part 1 - oldie but goodie](https://www.reddit.com/r/scala/comments/1jsvsff/the_openclosed_principle_part_1_oldie_but_goodie/)
-- [ldbc v0.3.0-RC1 is out 🎉](https://www.reddit.com/r/scala/comments/1jsvrku/ldbc_v030rc1_is_out/)
-- [How do I setup a laminar project?](https://www.reddit.com/r/scala/comments/1jsfm02/how_do_i_setup_a_laminar_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Automating template management process with Scala 3 and Iron - Magda Stożek | Scalar Conference 2025](https://www.reddit.com/r/scala/comments/1jw5eh6/automating_template_management_process_with_scala/)
+- [Making direct-style Scala a reality - demo @ Scalar 2025](https://www.reddit.com/r/scala/comments/1jvvxmz/making_directstyle_scala_a_reality_demo_scalar/)
+- [[2.13][CE2] Why is Ref.unsafe unsafe?](https://www.reddit.com/r/scala/comments/1jvtxui/213ce2_why_is_refunsafe_unsafe/)
+- [Guide to the new named tuples feature in Scala 3.7](https://www.reddit.com/r/scala/comments/1jvsix2/guide_to_the_new_named_tuples_feature_in_scala_37/)
 - [Problems connecting with Metals to BSP Server](https://www.reddit.com/r/scala/comments/1jv7eyx/problems_connecting_with_metals_to_bsp_server/)
 - [How Scala is made and how you can help? by Krzysztof Romanowski | Scalar Conference 2025](https://www.reddit.com/r/scala/comments/1juzotb/how_scala_is_made_and_how_you_can_help_by/)
 - [IntelliJ IDEA x Scala: Indentation Syntax](https://www.reddit.com/r/scala/comments/1jucgdi/intellij_idea_x_scala_indentation_syntax/)
 - [A simple build tool](https://www.reddit.com/r/scala/comments/1jtosrj/a_simple_build_tool/)
 - [[Events] Scala, Software Architecture, Frontend | Scalendar April 2025](https://www.reddit.com/r/scala/comments/1jtl07k/events_scala_software_architecture_frontend/)
 - [I wrote MCP &lpar;Model Context Protocol&rpar; server in Scala 3, run in Scala.js](https://www.reddit.com/r/scala/comments/1jtk04n/i_wrote_mcp_model_context_protocol_server_in/)
-- [Evolving Scala by Martin Odersky | Scalar Conference 2025](https://www.reddit.com/r/scala/comments/1jtjy9f/evolving_scala_by_martin_odersky_scalar/)
-- [What scla-cli way of ignoring current input and drop back to prompt? `Ctrl-C` quits scala-cli.](https://www.reddit.com/r/scala/comments/1jthj0r/what_sclacli_way_of_ignoring_current_input_and/)
-- [The Open-Closed Principle - Part 2 - The Contemporary Version - An Introduction - oldie but goodie](https://www.reddit.com/r/scala/comments/1jsvupl/the_openclosed_principle_part_2_the_contemporary/)
-- [The Open-Closed Principle - Part 1 - oldie but goodie](https://www.reddit.com/r/scala/comments/1jsvsff/the_openclosed_principle_part_1_oldie_but_goodie/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

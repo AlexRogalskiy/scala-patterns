@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Experimental Capture Checking: New Syntax for Explicit Capture Polymorphism](https://www.reddit.com/r/scala/comments/1jx07p8/experimental_capture_checking_new_syntax_for/)
 - [Automating template management process with Scala 3 and Iron - Magda Stożek | Scalar Conference 2025](https://www.reddit.com/r/scala/comments/1jw5eh6/automating_template_management_process_with_scala/)
 - [Making direct-style Scala a reality - demo @ Scalar 2025](https://www.reddit.com/r/scala/comments/1jvvxmz/making_directstyle_scala_a_reality_demo_scalar/)
 - [[2.13][CE2] Why is Ref.unsafe unsafe?](https://www.reddit.com/r/scala/comments/1jvtxui/213ce2_why_is_refunsafe_unsafe/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [IntelliJ IDEA x Scala: Indentation Syntax](https://www.reddit.com/r/scala/comments/1jucgdi/intellij_idea_x_scala_indentation_syntax/)
 - [A simple build tool](https://www.reddit.com/r/scala/comments/1jtosrj/a_simple_build_tool/)
 - [[Events] Scala, Software Architecture, Frontend | Scalendar April 2025](https://www.reddit.com/r/scala/comments/1jtl07k/events_scala_software_architecture_frontend/)
-- [I wrote MCP &lpar;Model Context Protocol&rpar; server in Scala 3, run in Scala.js](https://www.reddit.com/r/scala/comments/1jtk04n/i_wrote_mcp_model_context_protocol_server_in/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

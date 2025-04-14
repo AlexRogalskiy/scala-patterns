@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Apr 14, 2025&rpar;](https://www.reddit.com/r/scala/comments/1jyczeg/this_week_in_scala_apr_14_2025/)
+- [Kyo 0.18.0](https://www.reddit.com/r/scala/comments/1jxzswm/kyo_0180/)
 - [Experimental Capture Checking: New Syntax for Explicit Capture Polymorphism](https://www.reddit.com/r/scala/comments/1jx07p8/experimental_capture_checking_new_syntax_for/)
 - [Automating template management process with Scala 3 and Iron - Magda Stożek | Scalar Conference 2025](https://www.reddit.com/r/scala/comments/1jw5eh6/automating_template_management_process_with_scala/)
 - [Making direct-style Scala a reality - demo @ Scalar 2025](https://www.reddit.com/r/scala/comments/1jvvxmz/making_directstyle_scala_a_reality_demo_scalar/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Problems connecting with Metals to BSP Server](https://www.reddit.com/r/scala/comments/1jv7eyx/problems_connecting_with_metals_to_bsp_server/)
 - [How Scala is made and how you can help? by Krzysztof Romanowski | Scalar Conference 2025](https://www.reddit.com/r/scala/comments/1juzotb/how_scala_is_made_and_how_you_can_help_by/)
 - [IntelliJ IDEA x Scala: Indentation Syntax](https://www.reddit.com/r/scala/comments/1jucgdi/intellij_idea_x_scala_indentation_syntax/)
-- [A simple build tool](https://www.reddit.com/r/scala/comments/1jtosrj/a_simple_build_tool/)
-- [[Events] Scala, Software Architecture, Frontend | Scalendar April 2025](https://www.reddit.com/r/scala/comments/1jtl07k/events_scala_software_architecture_frontend/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

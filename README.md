@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Whiteboxish Macro Powers with Named Tuples](https://www.reddit.com/r/scala/comments/1jzbxis/whiteboxish_macro_powers_with_named_tuples/)
+- [Do You Even Macro? by Daniel Ciocîrlan | Scalar Conference 2025](https://www.reddit.com/r/scala/comments/1jz8mic/do_you_even_macro_by_daniel_ciocîrlan_scalar/)
+- [Drawing Heighway’s Dragon - Part 3 - Simplification Through Separation of Concerns - Rotation Without Matrix Multiplication](https://www.reddit.com/r/scala/comments/1jz3za1/drawing_heighways_dragon_part_3_simplification/)
+- [I&#39;m trying to make a roadmap to learn Scala for backend](https://www.reddit.com/r/scala/comments/1jz36d7/im_trying_to_make_a_roadmap_to_learn_scala_for/)
+- [Compalining: Mill &amp; General Frustration](https://www.reddit.com/r/scala/comments/1jyy1hf/compalining_mill_general_frustration/)
+- [Gigahorse 0.8.0 released](https://www.reddit.com/r/scala/comments/1jytwac/gigahorse_080_released/)
 - [This week in #Scala &lpar;Apr 14, 2025&rpar;](https://www.reddit.com/r/scala/comments/1jyczeg/this_week_in_scala_apr_14_2025/)
 - [Kyo 0.18.0](https://www.reddit.com/r/scala/comments/1jxzswm/kyo_0180/)
 - [Experimental Capture Checking: New Syntax for Explicit Capture Polymorphism](https://www.reddit.com/r/scala/comments/1jx07p8/experimental_capture_checking_new_syntax_for/)
 - [Automating template management process with Scala 3 and Iron - Magda Stożek | Scalar Conference 2025](https://www.reddit.com/r/scala/comments/1jw5eh6/automating_template_management_process_with_scala/)
-- [Making direct-style Scala a reality - demo @ Scalar 2025](https://www.reddit.com/r/scala/comments/1jvvxmz/making_directstyle_scala_a_reality_demo_scalar/)
-- [[2.13][CE2] Why is Ref.unsafe unsafe?](https://www.reddit.com/r/scala/comments/1jvtxui/213ce2_why_is_refunsafe_unsafe/)
-- [Guide to the new named tuples feature in Scala 3.7](https://www.reddit.com/r/scala/comments/1jvsix2/guide_to_the_new_named_tuples_feature_in_scala_37/)
-- [Problems connecting with Metals to BSP Server](https://www.reddit.com/r/scala/comments/1jv7eyx/problems_connecting_with_metals_to_bsp_server/)
-- [How Scala is made and how you can help? by Krzysztof Romanowski | Scalar Conference 2025](https://www.reddit.com/r/scala/comments/1juzotb/how_scala_is_made_and_how_you_can_help_by/)
-- [IntelliJ IDEA x Scala: Indentation Syntax](https://www.reddit.com/r/scala/comments/1jucgdi/intellij_idea_x_scala_indentation_syntax/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

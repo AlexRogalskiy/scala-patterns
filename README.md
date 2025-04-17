@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is Scalate still a thing?](https://www.reddit.com/r/scala/comments/1k0ulzy/is_scalate_still_a_thing/)
+- [Upcoming Scala India Talk on topic &quot;Let&#39;s Teach LLMs to Write Great Scala!&quot;](https://www.reddit.com/r/scala/comments/1k0r1c7/upcoming_scala_india_talk_on_topic_lets_teach/)
+- [API-First Development in Scala](https://www.reddit.com/r/scala/comments/1k0oqy5/apifirst_development_in_scala/)
+- [IntelliJ Scala Plugin 2025.1 Is Out!](https://www.reddit.com/r/scala/comments/1k0k76y/intellij_scala_plugin_20251_is_out/)
 - [Better Scala Builds with the Mill Build Tool](https://www.reddit.com/r/scala/comments/1jzrumj/better_scala_builds_with_the_mill_build_tool/)
 - [Adding SVG support to my Haskell CAD Library](https://www.reddit.com/r/scala/comments/1jzmicn/adding_svg_support_to_my_haskell_cad_library/)
 - [Whiteboxish Macro Powers with Named Tuples](https://www.reddit.com/r/scala/comments/1jzbxis/whiteboxish_macro_powers_with_named_tuples/)
 - [Do You Even Macro? by Daniel Ciocîrlan | Scalar Conference 2025](https://www.reddit.com/r/scala/comments/1jz8mic/do_you_even_macro_by_daniel_ciocîrlan_scalar/)
 - [Drawing Heighway’s Dragon - Part 3 - Simplification Through Separation of Concerns - Rotation Without Matrix Multiplication](https://www.reddit.com/r/scala/comments/1jz3za1/drawing_heighways_dragon_part_3_simplification/)
 - [I&#39;m trying to make a roadmap to learn Scala for backend](https://www.reddit.com/r/scala/comments/1jz36d7/im_trying_to_make_a_roadmap_to_learn_scala_for/)
-- [Compalining: Mill &amp; General Frustration](https://www.reddit.com/r/scala/comments/1jyy1hf/compalining_mill_general_frustration/)
-- [Gigahorse 0.8.0 released](https://www.reddit.com/r/scala/comments/1jytwac/gigahorse_080_released/)
-- [This week in #Scala &lpar;Apr 14, 2025&rpar;](https://www.reddit.com/r/scala/comments/1jyczeg/this_week_in_scala_apr_14_2025/)
-- [Kyo 0.18.0](https://www.reddit.com/r/scala/comments/1jxzswm/kyo_0180/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

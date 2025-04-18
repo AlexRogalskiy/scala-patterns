@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Event] ScaLatin #10 | Una Typeclass para Gobernarlos a Todos](https://www.reddit.com/r/scala/comments/1k19mqb/event_scalatin_10_una_typeclass_para_gobernarlos/)
+- [my experience with Scala as someone new](https://www.reddit.com/r/scala/comments/1k13xq4/my_experience_with_scala_as_someone_new/)
 - [Is Scalate still a thing?](https://www.reddit.com/r/scala/comments/1k0ulzy/is_scalate_still_a_thing/)
 - [Upcoming Scala India Talk on topic &quot;Let&#39;s Teach LLMs to Write Great Scala!&quot;](https://www.reddit.com/r/scala/comments/1k0r1c7/upcoming_scala_india_talk_on_topic_lets_teach/)
 - [API-First Development in Scala](https://www.reddit.com/r/scala/comments/1k0oqy5/apifirst_development_in_scala/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Adding SVG support to my Haskell CAD Library](https://www.reddit.com/r/scala/comments/1jzmicn/adding_svg_support_to_my_haskell_cad_library/)
 - [Whiteboxish Macro Powers with Named Tuples](https://www.reddit.com/r/scala/comments/1jzbxis/whiteboxish_macro_powers_with_named_tuples/)
 - [Do You Even Macro? by Daniel Ciocîrlan | Scalar Conference 2025](https://www.reddit.com/r/scala/comments/1jz8mic/do_you_even_macro_by_daniel_ciocîrlan_scalar/)
-- [Drawing Heighway’s Dragon - Part 3 - Simplification Through Separation of Concerns - Rotation Without Matrix Multiplication](https://www.reddit.com/r/scala/comments/1jz3za1/drawing_heighways_dragon_part_3_simplification/)
-- [I&#39;m trying to make a roadmap to learn Scala for backend](https://www.reddit.com/r/scala/comments/1jz36d7/im_trying_to_make_a_roadmap_to_learn_scala_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

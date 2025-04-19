@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [unboxing compatible with type erasure](https://www.reddit.com/r/scala/comments/1k2j14b/unboxing_compatible_with_type_erasure/)
+- [I think we&#39;re growing!](https://www.reddit.com/r/scala/comments/1k2fl6s/i_think_were_growing/)
+- [On vibe coding](https://www.reddit.com/r/scala/comments/1k2as61/on_vibe_coding/)
+- [Scala Parallel Collection With Native](https://www.reddit.com/r/scala/comments/1k21tlt/scala_parallel_collection_with_native/)
+- [Tagless Final for Humans by Noel Welsh](https://www.reddit.com/r/scala/comments/1k1xsur/tagless_final_for_humans_by_noel_welsh/)
 - [[Event] ScaLatin #10 | Una Typeclass para Gobernarlos a Todos](https://www.reddit.com/r/scala/comments/1k19mqb/event_scalatin_10_una_typeclass_para_gobernarlos/)
 - [my experience with Scala as someone new](https://www.reddit.com/r/scala/comments/1k13xq4/my_experience_with_scala_as_someone_new/)
 - [Is Scalate still a thing?](https://www.reddit.com/r/scala/comments/1k0ulzy/is_scalate_still_a_thing/)
 - [Upcoming Scala India Talk on topic &quot;Let&#39;s Teach LLMs to Write Great Scala!&quot;](https://www.reddit.com/r/scala/comments/1k0r1c7/upcoming_scala_india_talk_on_topic_lets_teach/)
 - [API-First Development in Scala](https://www.reddit.com/r/scala/comments/1k0oqy5/apifirst_development_in_scala/)
-- [IntelliJ Scala Plugin 2025.1 Is Out!](https://www.reddit.com/r/scala/comments/1k0k76y/intellij_scala_plugin_20251_is_out/)
-- [Better Scala Builds with the Mill Build Tool](https://www.reddit.com/r/scala/comments/1jzrumj/better_scala_builds_with_the_mill_build_tool/)
-- [Adding SVG support to my Haskell CAD Library](https://www.reddit.com/r/scala/comments/1jzmicn/adding_svg_support_to_my_haskell_cad_library/)
-- [Whiteboxish Macro Powers with Named Tuples](https://www.reddit.com/r/scala/comments/1jzbxis/whiteboxish_macro_powers_with_named_tuples/)
-- [Do You Even Macro? by Daniel Ciocîrlan | Scalar Conference 2025](https://www.reddit.com/r/scala/comments/1jz8mic/do_you_even_macro_by_daniel_ciocîrlan_scalar/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

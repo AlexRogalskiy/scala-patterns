@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [For us Scala Advocates, Where&#39;s a Continuously Published and Updated Scala Roadmap?](https://www.reddit.com/r/scala/comments/1k34ogq/for_us_scala_advocates_wheres_a_continuously/)
+- [Gigahorse 0.9.0 released](https://www.reddit.com/r/scala/comments/1k2r299/gigahorse_090_released/)
 - [unboxing compatible with type erasure](https://www.reddit.com/r/scala/comments/1k2j14b/unboxing_compatible_with_type_erasure/)
 - [I think we&#39;re growing!](https://www.reddit.com/r/scala/comments/1k2fl6s/i_think_were_growing/)
 - [On vibe coding](https://www.reddit.com/r/scala/comments/1k2as61/on_vibe_coding/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [[Event] ScaLatin #10 | Una Typeclass para Gobernarlos a Todos](https://www.reddit.com/r/scala/comments/1k19mqb/event_scalatin_10_una_typeclass_para_gobernarlos/)
 - [my experience with Scala as someone new](https://www.reddit.com/r/scala/comments/1k13xq4/my_experience_with_scala_as_someone_new/)
 - [Is Scalate still a thing?](https://www.reddit.com/r/scala/comments/1k0ulzy/is_scalate_still_a_thing/)
-- [Upcoming Scala India Talk on topic &quot;Let&#39;s Teach LLMs to Write Great Scala!&quot;](https://www.reddit.com/r/scala/comments/1k0r1c7/upcoming_scala_india_talk_on_topic_lets_teach/)
-- [API-First Development in Scala](https://www.reddit.com/r/scala/comments/1k0oqy5/apifirst_development_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

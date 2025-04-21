@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Apr 21, 2025&rpar;](https://www.reddit.com/r/scala/comments/1k3spdi/this_week_in_scala_apr_21_2025/)
+- [Genéricos en Scala: Covarianza y Contravarianza](https://www.reddit.com/r/scala/comments/1k3sp5d/genéricos_en_scala_covarianza_y_contravarianza/)
+- [Different SBT ScalaNativePlugin nativeConfig Configuration for The Same Project](https://www.reddit.com/r/scala/comments/1k3osfq/different_sbt_scalanativeplugin_nativeconfig/)
+- [New Project](https://www.reddit.com/r/scala/comments/1k3odxm/new_project/)
+- [Scala Native Code in Project Folder](https://www.reddit.com/r/scala/comments/1k3iquz/scala_native_code_in_project_folder/)
+- [Looking for Scala book](https://www.reddit.com/r/scala/comments/1k3hxhy/looking_for_scala_book/)
+- [ifdef 0.4.1 released](https://www.reddit.com/r/scala/comments/1k3gko2/ifdef_041_released/)
 - [For us Scala Advocates, Where&#39;s a Continuously Published and Updated Scala Roadmap?](https://www.reddit.com/r/scala/comments/1k34ogq/for_us_scala_advocates_wheres_a_continuously/)
 - [Gigahorse 0.9.0 released](https://www.reddit.com/r/scala/comments/1k2r299/gigahorse_090_released/)
 - [unboxing compatible with type erasure](https://www.reddit.com/r/scala/comments/1k2j14b/unboxing_compatible_with_type_erasure/)
-- [I think we&#39;re growing!](https://www.reddit.com/r/scala/comments/1k2fl6s/i_think_were_growing/)
-- [On vibe coding](https://www.reddit.com/r/scala/comments/1k2as61/on_vibe_coding/)
-- [Scala Parallel Collection With Native](https://www.reddit.com/r/scala/comments/1k21tlt/scala_parallel_collection_with_native/)
-- [Tagless Final for Humans by Noel Welsh](https://www.reddit.com/r/scala/comments/1k1xsur/tagless_final_for_humans_by_noel_welsh/)
-- [[Event] ScaLatin #10 | Una Typeclass para Gobernarlos a Todos](https://www.reddit.com/r/scala/comments/1k19mqb/event_scalatin_10_una_typeclass_para_gobernarlos/)
-- [my experience with Scala as someone new](https://www.reddit.com/r/scala/comments/1k13xq4/my_experience_with_scala_as_someone_new/)
-- [Is Scalate still a thing?](https://www.reddit.com/r/scala/comments/1k0ulzy/is_scalate_still_a_thing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [YAES: Thoughts on context-based capability passing style for state threading and integration into tagless-final application](https://www.reddit.com/r/scala/comments/1k4p6le/yaes_thoughts_on_contextbased_capability_passing/)
+- [Announcing Scala.js 1.19.0](https://www.reddit.com/r/scala/comments/1k4jo3j/announcing_scalajs_1190/)
+- [Grokking Recursion Through SQL&#39;s Recursive CTEs](https://www.reddit.com/r/scala/comments/1k4dypk/grokking_recursion_through_sqls_recursive_ctes/)
 - [This week in #Scala &lpar;Apr 21, 2025&rpar;](https://www.reddit.com/r/scala/comments/1k3spdi/this_week_in_scala_apr_21_2025/)
 - [Genéricos en Scala: Covarianza y Contravarianza](https://www.reddit.com/r/scala/comments/1k3sp5d/genéricos_en_scala_covarianza_y_contravarianza/)
 - [Different SBT ScalaNativePlugin nativeConfig Configuration for The Same Project](https://www.reddit.com/r/scala/comments/1k3osfq/different_sbt_scalanativeplugin_nativeconfig/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Native Code in Project Folder](https://www.reddit.com/r/scala/comments/1k3iquz/scala_native_code_in_project_folder/)
 - [Looking for Scala book](https://www.reddit.com/r/scala/comments/1k3hxhy/looking_for_scala_book/)
 - [ifdef 0.4.1 released](https://www.reddit.com/r/scala/comments/1k3gko2/ifdef_041_released/)
-- [For us Scala Advocates, Where&#39;s a Continuously Published and Updated Scala Roadmap?](https://www.reddit.com/r/scala/comments/1k34ogq/for_us_scala_advocates_wheres_a_continuously/)
-- [Gigahorse 0.9.0 released](https://www.reddit.com/r/scala/comments/1k2r299/gigahorse_090_released/)
-- [unboxing compatible with type erasure](https://www.reddit.com/r/scala/comments/1k2j14b/unboxing_compatible_with_type_erasure/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Tipos Genéricos Anónimos en Scala: Wildcards y Subtipado](https://www.reddit.com/r/scala/comments/1k5nrie/tipos_genéricos_anónimos_en_scala_wildcards_y/)
+- [The Nature of Complexity in John Ousterhout’s Philosophy of Software Design](https://www.reddit.com/r/scala/comments/1k5adsg/the_nature_of_complexity_in_john_ousterhouts/)
 - [YAES: Thoughts on context-based capability passing style for state threading and integration into tagless-final application](https://www.reddit.com/r/scala/comments/1k4p6le/yaes_thoughts_on_contextbased_capability_passing/)
 - [Announcing Scala.js 1.19.0](https://www.reddit.com/r/scala/comments/1k4jo3j/announcing_scalajs_1190/)
 - [Grokking Recursion Through SQL&#39;s Recursive CTEs](https://www.reddit.com/r/scala/comments/1k4dypk/grokking_recursion_through_sqls_recursive_ctes/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Different SBT ScalaNativePlugin nativeConfig Configuration for The Same Project](https://www.reddit.com/r/scala/comments/1k3osfq/different_sbt_scalanativeplugin_nativeconfig/)
 - [New Project](https://www.reddit.com/r/scala/comments/1k3odxm/new_project/)
 - [Scala Native Code in Project Folder](https://www.reddit.com/r/scala/comments/1k3iquz/scala_native_code_in_project_folder/)
-- [Looking for Scala book](https://www.reddit.com/r/scala/comments/1k3hxhy/looking_for_scala_book/)
-- [ifdef 0.4.1 released](https://www.reddit.com/r/scala/comments/1k3gko2/ifdef_041_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Durable Event-sourced Workflow Monad... Seriously!](https://www.reddit.com/r/scala/comments/1k5stw9/durable_eventsourced_workflow_monad_seriously/)
 - [Tipos Genéricos Anónimos en Scala: Wildcards y Subtipado](https://www.reddit.com/r/scala/comments/1k5nrie/tipos_genéricos_anónimos_en_scala_wildcards_y/)
 - [The Nature of Complexity in John Ousterhout’s Philosophy of Software Design](https://www.reddit.com/r/scala/comments/1k5adsg/the_nature_of_complexity_in_john_ousterhouts/)
 - [YAES: Thoughts on context-based capability passing style for state threading and integration into tagless-final application](https://www.reddit.com/r/scala/comments/1k4p6le/yaes_thoughts_on_contextbased_capability_passing/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Genéricos en Scala: Covarianza y Contravarianza](https://www.reddit.com/r/scala/comments/1k3sp5d/genéricos_en_scala_covarianza_y_contravarianza/)
 - [Different SBT ScalaNativePlugin nativeConfig Configuration for The Same Project](https://www.reddit.com/r/scala/comments/1k3osfq/different_sbt_scalanativeplugin_nativeconfig/)
 - [New Project](https://www.reddit.com/r/scala/comments/1k3odxm/new_project/)
-- [Scala Native Code in Project Folder](https://www.reddit.com/r/scala/comments/1k3iquz/scala_native_code_in_project_folder/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

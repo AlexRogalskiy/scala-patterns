@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Very long compilation times with Scala](https://www.reddit.com/r/scala/comments/1k6yc1c/very_long_compilation_times_with_scala/)
 - [Durable Event-sourced Workflow Monad... Seriously!](https://www.reddit.com/r/scala/comments/1k5stw9/durable_eventsourced_workflow_monad_seriously/)
 - [Tipos Genéricos Anónimos en Scala: Wildcards y Subtipado](https://www.reddit.com/r/scala/comments/1k5nrie/tipos_genéricos_anónimos_en_scala_wildcards_y/)
 - [The Nature of Complexity in John Ousterhout’s Philosophy of Software Design](https://www.reddit.com/r/scala/comments/1k5adsg/the_nature_of_complexity_in_john_ousterhouts/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Apr 21, 2025&rpar;](https://www.reddit.com/r/scala/comments/1k3spdi/this_week_in_scala_apr_21_2025/)
 - [Genéricos en Scala: Covarianza y Contravarianza](https://www.reddit.com/r/scala/comments/1k3sp5d/genéricos_en_scala_covarianza_y_contravarianza/)
 - [Different SBT ScalaNativePlugin nativeConfig Configuration for The Same Project](https://www.reddit.com/r/scala/comments/1k3osfq/different_sbt_scalanativeplugin_nativeconfig/)
-- [New Project](https://www.reddit.com/r/scala/comments/1k3odxm/new_project/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

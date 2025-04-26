@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Stockholm Meetup @ Truecaller on May 15, 2025](https://www.reddit.com/r/scala/comments/1k7jwb3/scala_stockholm_meetup_truecaller_on_may_15_2025/)
+- [Programming a Language by Nicolas Rinaudo](https://www.reddit.com/r/scala/comments/1k7hynp/programming_a_language_by_nicolas_rinaudo/)
+- [Announcing next Scala Meetup in Hamburg &lpar;Germany&rpar; on June 2nd](https://www.reddit.com/r/scala/comments/1k7e7t3/announcing_next_scala_meetup_in_hamburg_germany/)
+- [Recommendations for building cross-platform apps using Scala](https://www.reddit.com/r/scala/comments/1k7boh2/recommendations_for_building_crossplatform_apps/)
 - [Very long compilation times with Scala](https://www.reddit.com/r/scala/comments/1k6yc1c/very_long_compilation_times_with_scala/)
 - [Durable Event-sourced Workflow Monad... Seriously!](https://www.reddit.com/r/scala/comments/1k5stw9/durable_eventsourced_workflow_monad_seriously/)
 - [Tipos Genéricos Anónimos en Scala: Wildcards y Subtipado](https://www.reddit.com/r/scala/comments/1k5nrie/tipos_genéricos_anónimos_en_scala_wildcards_y/)
 - [The Nature of Complexity in John Ousterhout’s Philosophy of Software Design](https://www.reddit.com/r/scala/comments/1k5adsg/the_nature_of_complexity_in_john_ousterhouts/)
 - [YAES: Thoughts on context-based capability passing style for state threading and integration into tagless-final application](https://www.reddit.com/r/scala/comments/1k4p6le/yaes_thoughts_on_contextbased_capability_passing/)
 - [Announcing Scala.js 1.19.0](https://www.reddit.com/r/scala/comments/1k4jo3j/announcing_scalajs_1190/)
-- [Grokking Recursion Through SQL&#39;s Recursive CTEs](https://www.reddit.com/r/scala/comments/1k4dypk/grokking_recursion_through_sqls_recursive_ctes/)
-- [This week in #Scala &lpar;Apr 21, 2025&rpar;](https://www.reddit.com/r/scala/comments/1k3spdi/this_week_in_scala_apr_21_2025/)
-- [Genéricos en Scala: Covarianza y Contravarianza](https://www.reddit.com/r/scala/comments/1k3sp5d/genéricos_en_scala_covarianza_y_contravarianza/)
-- [Different SBT ScalaNativePlugin nativeConfig Configuration for The Same Project](https://www.reddit.com/r/scala/comments/1k3osfq/different_sbt_scalanativeplugin_nativeconfig/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

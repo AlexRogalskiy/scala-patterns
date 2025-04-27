@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why is Scalas compiler like a cat that knocks things off your desk and then looks at you like you did something wrong?](https://www.reddit.com/r/scala/comments/1k85raz/why_is_scalas_compiler_like_a_cat_that_knocks/)
 - [Scala Stockholm Meetup @ Truecaller on May 15, 2025](https://www.reddit.com/r/scala/comments/1k7jwb3/scala_stockholm_meetup_truecaller_on_may_15_2025/)
 - [Programming a Language by Nicolas Rinaudo](https://www.reddit.com/r/scala/comments/1k7hynp/programming_a_language_by_nicolas_rinaudo/)
 - [Announcing next Scala Meetup in Hamburg &lpar;Germany&rpar; on June 2nd](https://www.reddit.com/r/scala/comments/1k7e7t3/announcing_next_scala_meetup_in_hamburg_germany/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Tipos Genéricos Anónimos en Scala: Wildcards y Subtipado](https://www.reddit.com/r/scala/comments/1k5nrie/tipos_genéricos_anónimos_en_scala_wildcards_y/)
 - [The Nature of Complexity in John Ousterhout’s Philosophy of Software Design](https://www.reddit.com/r/scala/comments/1k5adsg/the_nature_of_complexity_in_john_ousterhouts/)
 - [YAES: Thoughts on context-based capability passing style for state threading and integration into tagless-final application](https://www.reddit.com/r/scala/comments/1k4p6le/yaes_thoughts_on_contextbased_capability_passing/)
-- [Announcing Scala.js 1.19.0](https://www.reddit.com/r/scala/comments/1k4jo3j/announcing_scalajs_1190/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

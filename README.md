@@ -271,7 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why is Scalas compiler like a cat that knocks things off your desk and then looks at you like you did something wrong?](https://www.reddit.com/r/scala/comments/1k85raz/why_is_scalas_compiler_like_a_cat_that_knocks/)
+- [This week in #Scala &lpar;Apr 28, 2025&rpar;](https://www.reddit.com/r/scala/comments/1k963p7/this_week_in_scala_apr_28_2025/)
 - [Scala Stockholm Meetup @ Truecaller on May 15, 2025](https://www.reddit.com/r/scala/comments/1k7jwb3/scala_stockholm_meetup_truecaller_on_may_15_2025/)
 - [Programming a Language by Nicolas Rinaudo](https://www.reddit.com/r/scala/comments/1k7hynp/programming_a_language_by_nicolas_rinaudo/)
 - [Announcing next Scala Meetup in Hamburg &lpar;Germany&rpar; on June 2nd](https://www.reddit.com/r/scala/comments/1k7e7t3/announcing_next_scala_meetup_in_hamburg_germany/)

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [El Poder del underscore &lpar;_&rpar; en Scala](https://www.reddit.com/r/scala/comments/1kad5jb/el_poder_del_underscore_en_scala/)
+- [Gradle, Inc. Joins Scala Center Advisory Board to Improve Scala Developer Experience](https://www.reddit.com/r/scala/comments/1ka9u3h/gradle_inc_joins_scala_center_advisory_board_to/)
+- [How to write Scala Macro to copy values from one case class to another where the field names are identical.](https://www.reddit.com/r/scala/comments/1ka9ns9/how_to_write_scala_macro_to_copy_values_from_one/)
 - [This week in #Scala &lpar;Apr 28, 2025&rpar;](https://www.reddit.com/r/scala/comments/1k963p7/this_week_in_scala_apr_28_2025/)
 - [Scala Stockholm Meetup @ Truecaller on May 15, 2025](https://www.reddit.com/r/scala/comments/1k7jwb3/scala_stockholm_meetup_truecaller_on_may_15_2025/)
 - [Programming a Language by Nicolas Rinaudo](https://www.reddit.com/r/scala/comments/1k7hynp/programming_a_language_by_nicolas_rinaudo/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Recommendations for building cross-platform apps using Scala](https://www.reddit.com/r/scala/comments/1k7boh2/recommendations_for_building_crossplatform_apps/)
 - [Very long compilation times with Scala](https://www.reddit.com/r/scala/comments/1k6yc1c/very_long_compilation_times_with_scala/)
 - [Durable Event-sourced Workflow Monad... Seriously!](https://www.reddit.com/r/scala/comments/1k5stw9/durable_eventsourced_workflow_monad_seriously/)
-- [Tipos Genéricos Anónimos en Scala: Wildcards y Subtipado](https://www.reddit.com/r/scala/comments/1k5nrie/tipos_genéricos_anónimos_en_scala_wildcards_y/)
-- [The Nature of Complexity in John Ousterhout’s Philosophy of Software Design](https://www.reddit.com/r/scala/comments/1k5adsg/the_nature_of_complexity_in_john_ousterhouts/)
-- [YAES: Thoughts on context-based capability passing style for state threading and integration into tagless-final application](https://www.reddit.com/r/scala/comments/1k4p6le/yaes_thoughts_on_contextbased_capability_passing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Anyone going to this Scala 3 workshop in Colorado?](https://www.reddit.com/r/scala/comments/1kaq35b/anyone_going_to_this_scala_3_workshop_in_colorado/)
+- [How to use hotspot disassembler &lpar;hsdis&rpar; with Scala](https://www.reddit.com/r/scala/comments/1kajqvo/how_to_use_hotspot_disassembler_hsdis_with_scala/)
+- [Announcing Graph Explorer 0.4 🎉](https://www.reddit.com/r/scala/comments/1kahg4u/announcing_graph_explorer_04/)
 - [El Poder del underscore &lpar;_&rpar; en Scala](https://www.reddit.com/r/scala/comments/1kad5jb/el_poder_del_underscore_en_scala/)
 - [Gradle, Inc. Joins Scala Center Advisory Board to Improve Scala Developer Experience](https://www.reddit.com/r/scala/comments/1ka9u3h/gradle_inc_joins_scala_center_advisory_board_to/)
 - [How to write Scala Macro to copy values from one case class to another where the field names are identical.](https://www.reddit.com/r/scala/comments/1ka9ns9/how_to_write_scala_macro_to_copy_values_from_one/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Stockholm Meetup @ Truecaller on May 15, 2025](https://www.reddit.com/r/scala/comments/1k7jwb3/scala_stockholm_meetup_truecaller_on_may_15_2025/)
 - [Programming a Language by Nicolas Rinaudo](https://www.reddit.com/r/scala/comments/1k7hynp/programming_a_language_by_nicolas_rinaudo/)
 - [Announcing next Scala Meetup in Hamburg &lpar;Germany&rpar; on June 2nd](https://www.reddit.com/r/scala/comments/1k7e7t3/announcing_next_scala_meetup_in_hamburg_germany/)
-- [Recommendations for building cross-platform apps using Scala](https://www.reddit.com/r/scala/comments/1k7boh2/recommendations_for_building_crossplatform_apps/)
-- [Very long compilation times with Scala](https://www.reddit.com/r/scala/comments/1k6yc1c/very_long_compilation_times_with_scala/)
-- [Durable Event-sourced Workflow Monad... Seriously!](https://www.reddit.com/r/scala/comments/1k5stw9/durable_eventsourced_workflow_monad_seriously/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

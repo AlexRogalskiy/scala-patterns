@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Random Scala Tip #624: The Pitfalls of Option Blindness](https://www.reddit.com/r/scala/comments/1kbu8fg/random_scala_tip_624_the_pitfalls_of_option/)
+- [Lachezar Yankov on the Func Prog Podcast - Zio, Scala and typed functional programming](https://www.reddit.com/r/scala/comments/1kbaolf/lachezar_yankov_on_the_func_prog_podcast_zio/)
+- [YAES: Do you even have referential transparency?](https://www.reddit.com/r/scala/comments/1kba01o/yaes_do_you_even_have_referential_transparency/)
 - [Anyone going to this Scala 3 workshop in Colorado?](https://www.reddit.com/r/scala/comments/1kaq35b/anyone_going_to_this_scala_3_workshop_in_colorado/)
-- [How to use hotspot disassembler &lpar;hsdis&rpar; with Scala](https://www.reddit.com/r/scala/comments/1kajqvo/how_to_use_hotspot_disassembler_hsdis_with_scala/)
 - [Announcing Graph Explorer 0.4 🎉](https://www.reddit.com/r/scala/comments/1kahg4u/announcing_graph_explorer_04/)
 - [El Poder del underscore &lpar;_&rpar; en Scala](https://www.reddit.com/r/scala/comments/1kad5jb/el_poder_del_underscore_en_scala/)
 - [Gradle, Inc. Joins Scala Center Advisory Board to Improve Scala Developer Experience](https://www.reddit.com/r/scala/comments/1ka9u3h/gradle_inc_joins_scala_center_advisory_board_to/)
 - [How to write Scala Macro to copy values from one case class to another where the field names are identical.](https://www.reddit.com/r/scala/comments/1ka9ns9/how_to_write_scala_macro_to_copy_values_from_one/)
 - [This week in #Scala &lpar;Apr 28, 2025&rpar;](https://www.reddit.com/r/scala/comments/1k963p7/this_week_in_scala_apr_28_2025/)
 - [Scala Stockholm Meetup @ Truecaller on May 15, 2025](https://www.reddit.com/r/scala/comments/1k7jwb3/scala_stockholm_meetup_truecaller_on_may_15_2025/)
-- [Programming a Language by Nicolas Rinaudo](https://www.reddit.com/r/scala/comments/1k7hynp/programming_a_language_by_nicolas_rinaudo/)
-- [Announcing next Scala Meetup in Hamburg &lpar;Germany&rpar; on June 2nd](https://www.reddit.com/r/scala/comments/1k7e7t3/announcing_next_scala_meetup_in_hamburg_germany/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

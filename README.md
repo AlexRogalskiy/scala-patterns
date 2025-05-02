@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3: The Evolution of a Macro](https://www.reddit.com/r/scala/comments/1kcaxqx/scala_3_the_evolution_of_a_macro/)
 - [Random Scala Tip #624: The Pitfalls of Option Blindness](https://www.reddit.com/r/scala/comments/1kbu8fg/random_scala_tip_624_the_pitfalls_of_option/)
 - [Lachezar Yankov on the Func Prog Podcast - Zio, Scala and typed functional programming](https://www.reddit.com/r/scala/comments/1kbaolf/lachezar_yankov_on_the_func_prog_podcast_zio/)
 - [YAES: Do you even have referential transparency?](https://www.reddit.com/r/scala/comments/1kba01o/yaes_do_you_even_have_referential_transparency/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Gradle, Inc. Joins Scala Center Advisory Board to Improve Scala Developer Experience](https://www.reddit.com/r/scala/comments/1ka9u3h/gradle_inc_joins_scala_center_advisory_board_to/)
 - [How to write Scala Macro to copy values from one case class to another where the field names are identical.](https://www.reddit.com/r/scala/comments/1ka9ns9/how_to_write_scala_macro_to_copy_values_from_one/)
 - [This week in #Scala &lpar;Apr 28, 2025&rpar;](https://www.reddit.com/r/scala/comments/1k963p7/this_week_in_scala_apr_28_2025/)
-- [Scala Stockholm Meetup @ Truecaller on May 15, 2025](https://www.reddit.com/r/scala/comments/1k7jwb3/scala_stockholm_meetup_truecaller_on_may_15_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

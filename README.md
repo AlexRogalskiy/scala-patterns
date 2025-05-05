@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I think Scala Native has a real use case in game development](https://www.reddit.com/r/scala/comments/1keou9m/i_think_scala_native_has_a_real_use_case_in_game/)
+- [This week in #Scala &lpar;May 5, 2025&rpar;](https://www.reddit.com/r/scala/comments/1kekpmm/this_week_in_scala_may_5_2025/)
+- [State of the ecosystem?](https://www.reddit.com/r/scala/comments/1keed1x/state_of_the_ecosystem/)
 - [Scala 3: The Evolution of a Macro](https://www.reddit.com/r/scala/comments/1kcaxqx/scala_3_the_evolution_of_a_macro/)
 - [Random Scala Tip #624: The Pitfalls of Option Blindness](https://www.reddit.com/r/scala/comments/1kbu8fg/random_scala_tip_624_the_pitfalls_of_option/)
 - [Lachezar Yankov on the Func Prog Podcast - Zio, Scala and typed functional programming](https://www.reddit.com/r/scala/comments/1kbaolf/lachezar_yankov_on_the_func_prog_podcast_zio/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Anyone going to this Scala 3 workshop in Colorado?](https://www.reddit.com/r/scala/comments/1kaq35b/anyone_going_to_this_scala_3_workshop_in_colorado/)
 - [Announcing Graph Explorer 0.4 🎉](https://www.reddit.com/r/scala/comments/1kahg4u/announcing_graph_explorer_04/)
 - [El Poder del underscore &lpar;_&rpar; en Scala](https://www.reddit.com/r/scala/comments/1kad5jb/el_poder_del_underscore_en_scala/)
-- [Gradle, Inc. Joins Scala Center Advisory Board to Improve Scala Developer Experience](https://www.reddit.com/r/scala/comments/1ka9u3h/gradle_inc_joins_scala_center_advisory_board_to/)
-- [How to write Scala Macro to copy values from one case class to another where the field names are identical.](https://www.reddit.com/r/scala/comments/1ka9ns9/how_to_write_scala_macro_to_copy_values_from_one/)
-- [This week in #Scala &lpar;Apr 28, 2025&rpar;](https://www.reddit.com/r/scala/comments/1k963p7/this_week_in_scala_apr_28_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

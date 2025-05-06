@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [IntelliJ Scala Plugin - your talk ideas](https://www.reddit.com/r/scala/comments/1kfdawi/intellij_scala_plugin_your_talk_ideas/)
+- [MCP Server for ldbc &lpar;Lepus Database Connectivity&rpar; Document](https://www.reddit.com/r/scala/comments/1kfai1j/mcp_server_for_ldbc_lepus_database_connectivity/)
+- [Exploring JVM Innovations Through the Lens of Scala Native by Wojciech Mazur](https://www.reddit.com/r/scala/comments/1kf9lnl/exploring_jvm_innovations_through_the_lens_of/)
+- [Announcing a new tech podcast: CTO Asks CTO!](https://www.reddit.com/r/scala/comments/1kf6rmm/announcing_a_new_tech_podcast_cto_asks_cto/)
+- [Scalac&#39;s Talent Pool](https://www.reddit.com/r/scala/comments/1kf6qw9/scalacs_talent_pool/)
+- [Workflows4s Finally Released — You Might Hate Your Business Processes a Little Less](https://www.reddit.com/r/scala/comments/1kf6745/workflows4s_finally_released_you_might_hate_your/)
 - [I think Scala Native has a real use case in game development](https://www.reddit.com/r/scala/comments/1keou9m/i_think_scala_native_has_a_real_use_case_in_game/)
 - [This week in #Scala &lpar;May 5, 2025&rpar;](https://www.reddit.com/r/scala/comments/1kekpmm/this_week_in_scala_may_5_2025/)
 - [State of the ecosystem?](https://www.reddit.com/r/scala/comments/1keed1x/state_of_the_ecosystem/)
 - [Scala 3: The Evolution of a Macro](https://www.reddit.com/r/scala/comments/1kcaxqx/scala_3_the_evolution_of_a_macro/)
-- [Random Scala Tip #624: The Pitfalls of Option Blindness](https://www.reddit.com/r/scala/comments/1kbu8fg/random_scala_tip_624_the_pitfalls_of_option/)
-- [Lachezar Yankov on the Func Prog Podcast - Zio, Scala and typed functional programming](https://www.reddit.com/r/scala/comments/1kbaolf/lachezar_yankov_on_the_func_prog_podcast_zio/)
-- [YAES: Do you even have referential transparency?](https://www.reddit.com/r/scala/comments/1kba01o/yaes_do_you_even_have_referential_transparency/)
-- [Anyone going to this Scala 3 workshop in Colorado?](https://www.reddit.com/r/scala/comments/1kaq35b/anyone_going_to_this_scala_3_workshop_in_colorado/)
-- [Announcing Graph Explorer 0.4 🎉](https://www.reddit.com/r/scala/comments/1kahg4u/announcing_graph_explorer_04/)
-- [El Poder del underscore &lpar;_&rpar; en Scala](https://www.reddit.com/r/scala/comments/1kad5jb/el_poder_del_underscore_en_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

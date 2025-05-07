@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [dbgremnlin: Databricks management CLI util written in Scala.](https://www.reddit.com/r/scala/comments/1kgekp8/dbgremnlin_databricks_management_cli_util_written/)
+- [From JS to Scala](https://www.reddit.com/r/scala/comments/1kg3mnw/from_js_to_scala/)
+- [Release Spark NLP 6.0.0: PDF Reader, Excel Reader, PowerPoint Reader, Vision Language Models, Native Multimodal in GGUF, and many more!](https://www.reddit.com/r/scala/comments/1kg3e6w/release_spark_nlp_600_pdf_reader_excel_reader/)
+- [IntelliJ IDEA x Scala: Named Tuples](https://www.reddit.com/r/scala/comments/1kg2ptz/intellij_idea_x_scala_named_tuples/)
 - [IntelliJ Scala Plugin - your talk ideas](https://www.reddit.com/r/scala/comments/1kfdawi/intellij_scala_plugin_your_talk_ideas/)
 - [MCP Server for ldbc &lpar;Lepus Database Connectivity&rpar; Document](https://www.reddit.com/r/scala/comments/1kfai1j/mcp_server_for_ldbc_lepus_database_connectivity/)
 - [Exploring JVM Innovations Through the Lens of Scala Native by Wojciech Mazur](https://www.reddit.com/r/scala/comments/1kf9lnl/exploring_jvm_innovations_through_the_lens_of/)
 - [Announcing a new tech podcast: CTO Asks CTO!](https://www.reddit.com/r/scala/comments/1kf6rmm/announcing_a_new_tech_podcast_cto_asks_cto/)
 - [Scalac&#39;s Talent Pool](https://www.reddit.com/r/scala/comments/1kf6qw9/scalacs_talent_pool/)
 - [Workflows4s Finally Released — You Might Hate Your Business Processes a Little Less](https://www.reddit.com/r/scala/comments/1kf6745/workflows4s_finally_released_you_might_hate_your/)
-- [I think Scala Native has a real use case in game development](https://www.reddit.com/r/scala/comments/1keou9m/i_think_scala_native_has_a_real_use_case_in_game/)
-- [This week in #Scala &lpar;May 5, 2025&rpar;](https://www.reddit.com/r/scala/comments/1kekpmm/this_week_in_scala_may_5_2025/)
-- [State of the ecosystem?](https://www.reddit.com/r/scala/comments/1keed1x/state_of_the_ecosystem/)
-- [Scala 3: The Evolution of a Macro](https://www.reddit.com/r/scala/comments/1kcaxqx/scala_3_the_evolution_of_a_macro/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala times #582](https://www.reddit.com/r/scala/comments/1kiqwlb/scala_times_582/)
 - [Apache Fury Serialization Framework 0.10.2 Released: Chunk-based map Serialization to reduce payload size by up to 2X](https://www.reddit.com/r/scala/comments/1kht2xx/apache_fury_serialization_framework_0102_released/)
 - [2.0.0-M1 with fix for Scala 3.7.0 given resolution change](https://www.reddit.com/r/scala/comments/1khpt8d/200m1_with_fix_for_scala_370_given_resolution/)
 - [Scala 3.7.0 released!](https://www.reddit.com/r/scala/comments/1khnlkc/scala_370_released/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [From JS to Scala](https://www.reddit.com/r/scala/comments/1kg3mnw/from_js_to_scala/)
 - [Release Spark NLP 6.0.0: PDF Reader, Excel Reader, PowerPoint Reader, Vision Language Models, Native Multimodal in GGUF, and many more!](https://www.reddit.com/r/scala/comments/1kg3e6w/release_spark_nlp_600_pdf_reader_excel_reader/)
 - [IntelliJ IDEA x Scala: Named Tuples](https://www.reddit.com/r/scala/comments/1kg2ptz/intellij_idea_x_scala_named_tuples/)
-- [IntelliJ Scala Plugin - your talk ideas](https://www.reddit.com/r/scala/comments/1kfdawi/intellij_scala_plugin_your_talk_ideas/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

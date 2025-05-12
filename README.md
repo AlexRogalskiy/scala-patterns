@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;May 12, 2025&rpar;](https://www.reddit.com/r/scala/comments/1kkgr41/this_week_in_scala_may_12_2025/)
+- [This week in #Scala &lpar;May 12, 2025&rpar;](https://www.reddit.com/r/scala/comments/1kkgqz8/this_week_in_scala_may_12_2025/)
+- [Business4s &amp; GSoC 2025: 3 Exciting Projects and Not-So-Usual Approach](https://www.reddit.com/r/scala/comments/1kk3phb/business4s_gsoc_2025_3_exciting_projects_and/)
 - [Scala times #582](https://www.reddit.com/r/scala/comments/1kiqwlb/scala_times_582/)
 - [Apache Fury Serialization Framework 0.10.2 Released: Chunk-based map Serialization to reduce payload size by up to 2X](https://www.reddit.com/r/scala/comments/1kht2xx/apache_fury_serialization_framework_0102_released/)
 - [2.0.0-M1 with fix for Scala 3.7.0 given resolution change](https://www.reddit.com/r/scala/comments/1khpt8d/200m1_with_fix_for_scala_370_given_resolution/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How Scala Ruined My Java &lpar;in a good way&rpar;](https://www.reddit.com/r/scala/comments/1khgigr/how_scala_ruined_my_java_in_a_good_way/)
 - [dotty-cps-async 1.0.2](https://www.reddit.com/r/scala/comments/1kgqolx/dottycpsasync_102/)
 - [dbgremnlin: Databricks management CLI util written in Scala.](https://www.reddit.com/r/scala/comments/1kgekp8/dbgremnlin_databricks_management_cli_util_written/)
-- [From JS to Scala](https://www.reddit.com/r/scala/comments/1kg3mnw/from_js_to_scala/)
-- [Release Spark NLP 6.0.0: PDF Reader, Excel Reader, PowerPoint Reader, Vision Language Models, Native Multimodal in GGUF, and many more!](https://www.reddit.com/r/scala/comments/1kg3e6w/release_spark_nlp_600_pdf_reader_excel_reader/)
-- [IntelliJ IDEA x Scala: Named Tuples](https://www.reddit.com/r/scala/comments/1kg2ptz/intellij_idea_x_scala_named_tuples/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

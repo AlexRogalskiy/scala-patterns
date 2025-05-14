@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Metals help](https://www.reddit.com/r/scala/comments/1klqtak/metals_help/)
+- [Dallas Scala Enthusiasts - In-Person Meetup! - Thursday May 22 @ 6:30 PM -- Event-sourcing and modernizing mission-critical distributed systems](https://www.reddit.com/r/scala/comments/1klpkox/dallas_scala_enthusiasts_inperson_meetup_thursday/)
+- [Seeking Scala Lecture with “Code is Cheap, Show Me Your Types” Quote](https://www.reddit.com/r/scala/comments/1klhem8/seeking_scala_lecture_with_code_is_cheap_show_me/)
 - [Kyo 0.19.0 - The last before the 1.0-RC cycle 🎉](https://www.reddit.com/r/scala/comments/1kl78hl/kyo_0190_the_last_before_the_10rc_cycle/)
 - [Exploring safer Context Functions with Capture Checking](https://www.reddit.com/r/scala/comments/1kkwzv8/exploring_safer_context_functions_with_capture/)
 - [This week in #Scala &lpar;May 12, 2025&rpar;](https://www.reddit.com/r/scala/comments/1kkgr41/this_week_in_scala_may_12_2025/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Business4s &amp; GSoC 2025: 3 Exciting Projects and Not-So-Usual Approach](https://www.reddit.com/r/scala/comments/1kk3phb/business4s_gsoc_2025_3_exciting_projects_and/)
 - [Scala times #582](https://www.reddit.com/r/scala/comments/1kiqwlb/scala_times_582/)
 - [Apache Fury Serialization Framework 0.10.2 Released: Chunk-based map Serialization to reduce payload size by up to 2X](https://www.reddit.com/r/scala/comments/1kht2xx/apache_fury_serialization_framework_0102_released/)
-- [2.0.0-M1 with fix for Scala 3.7.0 given resolution change](https://www.reddit.com/r/scala/comments/1khpt8d/200m1_with_fix_for_scala_370_given_resolution/)
-- [Scala 3.7.0 released!](https://www.reddit.com/r/scala/comments/1khnlkc/scala_370_released/)
-- [How Scala Ruined My Java &lpar;in a good way&rpar;](https://www.reddit.com/r/scala/comments/1khgigr/how_scala_ruined_my_java_in_a_good_way/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

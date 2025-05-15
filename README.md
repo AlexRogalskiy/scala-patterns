@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Talk on introducing new-comers to Scala and good project structure](https://www.reddit.com/r/scala/comments/1kmx53x/talk_on_introducing_newcomers_to_scala_and_good/)
+- [New scalamock website](https://www.reddit.com/r/scala/comments/1kmdxhk/new_scalamock_website/)
+- [Unison, from a Scala perspective by Olivier Mélois](https://www.reddit.com/r/scala/comments/1kma0gj/unison_from_a_scala_perspective_by_olivier_melois/)
 - [Metals help](https://www.reddit.com/r/scala/comments/1klqtak/metals_help/)
 - [Dallas Scala Enthusiasts - In-Person Meetup! - Thursday May 22 @ 6:30 PM -- Event-sourcing and modernizing mission-critical distributed systems](https://www.reddit.com/r/scala/comments/1klpkox/dallas_scala_enthusiasts_inperson_meetup_thursday/)
 - [Seeking Scala Lecture with “Code is Cheap, Show Me Your Types” Quote](https://www.reddit.com/r/scala/comments/1klhem8/seeking_scala_lecture_with_code_is_cheap_show_me/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Exploring safer Context Functions with Capture Checking](https://www.reddit.com/r/scala/comments/1kkwzv8/exploring_safer_context_functions_with_capture/)
 - [This week in #Scala &lpar;May 12, 2025&rpar;](https://www.reddit.com/r/scala/comments/1kkgr41/this_week_in_scala_may_12_2025/)
 - [This week in #Scala &lpar;May 12, 2025&rpar;](https://www.reddit.com/r/scala/comments/1kkgqz8/this_week_in_scala_may_12_2025/)
-- [Business4s &amp; GSoC 2025: 3 Exciting Projects and Not-So-Usual Approach](https://www.reddit.com/r/scala/comments/1kk3phb/business4s_gsoc_2025_3_exciting_projects_and/)
-- [Scala times #582](https://www.reddit.com/r/scala/comments/1kiqwlb/scala_times_582/)
-- [Apache Fury Serialization Framework 0.10.2 Released: Chunk-based map Serialization to reduce payload size by up to 2X](https://www.reddit.com/r/scala/comments/1kht2xx/apache_fury_serialization_framework_0102_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

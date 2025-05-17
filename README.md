@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What&#39;s the deal with multiversal equality?](https://www.reddit.com/r/scala/comments/1knxebr/whats_the_deal_with_multiversal_equality/)
+- [Scala 3 Migration Tips and Tricks](https://www.reddit.com/r/scala/comments/1knvmyo/scala_3_migration_tips_and_tricks/)
+- [Start with Scala at the Apple store](https://www.reddit.com/r/scala/comments/1knsj07/start_with_scala_at_the_apple_store/)
+- [sjsonnet 0.5.1 released for google/jsonnet 0.21.0](https://www.reddit.com/r/scala/comments/1knqepw/sjsonnet_051_released_for_googlejsonnet_0210/)
 - [Talk on introducing new-comers to Scala and good project structure](https://www.reddit.com/r/scala/comments/1kmx53x/talk_on_introducing_newcomers_to_scala_and_good/)
 - [New scalamock website](https://www.reddit.com/r/scala/comments/1kmdxhk/new_scalamock_website/)
 - [Unison, from a Scala perspective by Olivier Mélois](https://www.reddit.com/r/scala/comments/1kma0gj/unison_from_a_scala_perspective_by_olivier_melois/)
 - [Metals help](https://www.reddit.com/r/scala/comments/1klqtak/metals_help/)
 - [Dallas Scala Enthusiasts - In-Person Meetup! - Thursday May 22 @ 6:30 PM -- Event-sourcing and modernizing mission-critical distributed systems](https://www.reddit.com/r/scala/comments/1klpkox/dallas_scala_enthusiasts_inperson_meetup_thursday/)
 - [Seeking Scala Lecture with “Code is Cheap, Show Me Your Types” Quote](https://www.reddit.com/r/scala/comments/1klhem8/seeking_scala_lecture_with_code_is_cheap_show_me/)
-- [Kyo 0.19.0 - The last before the 1.0-RC cycle 🎉](https://www.reddit.com/r/scala/comments/1kl78hl/kyo_0190_the_last_before_the_10rc_cycle/)
-- [Exploring safer Context Functions with Capture Checking](https://www.reddit.com/r/scala/comments/1kkwzv8/exploring_safer_context_functions_with_capture/)
-- [This week in #Scala &lpar;May 12, 2025&rpar;](https://www.reddit.com/r/scala/comments/1kkgr41/this_week_in_scala_may_12_2025/)
-- [This week in #Scala &lpar;May 12, 2025&rpar;](https://www.reddit.com/r/scala/comments/1kkgqz8/this_week_in_scala_may_12_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

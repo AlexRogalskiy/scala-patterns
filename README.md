@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 1.11.0-RC1 released](https://www.reddit.com/r/scala/comments/1kp3hn8/sbt_1110rc1_released/)
+- [hexagonal/clean architecture with DDD in scala](https://www.reddit.com/r/scala/comments/1koxekg/hexagonalclean_architecture_with_ddd_in_scala/)
 - [What&#39;s the deal with multiversal equality?](https://www.reddit.com/r/scala/comments/1knxebr/whats_the_deal_with_multiversal_equality/)
 - [Scala 3 Migration Tips and Tricks](https://www.reddit.com/r/scala/comments/1knvmyo/scala_3_migration_tips_and_tricks/)
 - [Start with Scala at the Apple store](https://www.reddit.com/r/scala/comments/1knsj07/start_with_scala_at_the_apple_store/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [New scalamock website](https://www.reddit.com/r/scala/comments/1kmdxhk/new_scalamock_website/)
 - [Unison, from a Scala perspective by Olivier Mélois](https://www.reddit.com/r/scala/comments/1kma0gj/unison_from_a_scala_perspective_by_olivier_melois/)
 - [Metals help](https://www.reddit.com/r/scala/comments/1klqtak/metals_help/)
-- [Dallas Scala Enthusiasts - In-Person Meetup! - Thursday May 22 @ 6:30 PM -- Event-sourcing and modernizing mission-critical distributed systems](https://www.reddit.com/r/scala/comments/1klpkox/dallas_scala_enthusiasts_inperson_meetup_thursday/)
-- [Seeking Scala Lecture with “Code is Cheap, Show Me Your Types” Quote](https://www.reddit.com/r/scala/comments/1klhem8/seeking_scala_lecture_with_code_is_cheap_show_me/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

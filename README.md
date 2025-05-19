@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A Distributed System from scratch, with Scala 3 - Part 3: Job submission, worker scaling, and leader election &amp; consensus with Raft](https://www.reddit.com/r/scala/comments/1kpwmsd/a_distributed_system_from_scratch_with_scala_3/)
+- [This week in #Scala &lpar;May 19, 2025&rpar;](https://www.reddit.com/r/scala/comments/1kpmzmx/this_week_in_scala_may_19_2025/)
+- [When you finally fix that Type Mismatch... but now everything is an Option](https://www.reddit.com/r/scala/comments/1kpjalw/when_you_finally_fix_that_type_mismatch_but_now/)
+- [Scala native is actually fast](https://www.reddit.com/r/scala/comments/1kpgbop/scala_native_is_actually_fast/)
 - [sbt 1.11.0-RC1 released](https://www.reddit.com/r/scala/comments/1kp3hn8/sbt_1110rc1_released/)
 - [hexagonal/clean architecture with DDD in scala](https://www.reddit.com/r/scala/comments/1koxekg/hexagonalclean_architecture_with_ddd_in_scala/)
 - [What&#39;s the deal with multiversal equality?](https://www.reddit.com/r/scala/comments/1knxebr/whats_the_deal_with_multiversal_equality/)
 - [Scala 3 Migration Tips and Tricks](https://www.reddit.com/r/scala/comments/1knvmyo/scala_3_migration_tips_and_tricks/)
 - [Start with Scala at the Apple store](https://www.reddit.com/r/scala/comments/1knsj07/start_with_scala_at_the_apple_store/)
 - [sjsonnet 0.5.1 released for google/jsonnet 0.21.0](https://www.reddit.com/r/scala/comments/1knqepw/sjsonnet_051_released_for_googlejsonnet_0210/)
-- [Talk on introducing new-comers to Scala and good project structure](https://www.reddit.com/r/scala/comments/1kmx53x/talk_on_introducing_newcomers_to_scala_and_good/)
-- [New scalamock website](https://www.reddit.com/r/scala/comments/1kmdxhk/new_scalamock_website/)
-- [Unison, from a Scala perspective by Olivier Mélois](https://www.reddit.com/r/scala/comments/1kma0gj/unison_from_a_scala_perspective_by_olivier_melois/)
-- [Metals help](https://www.reddit.com/r/scala/comments/1klqtak/metals_help/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

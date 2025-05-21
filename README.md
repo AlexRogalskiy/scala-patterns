@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [An Algebra of Thoughts: When Kyo effects meet LLMs by Flavio Brasil](https://www.reddit.com/r/scala/comments/1krluex/an_algebra_of_thoughts_when_kyo_effects_meet_llms/)
+- [ldbc v0.3.0 is out 🎉](https://www.reddit.com/r/scala/comments/1kr2ffr/ldbc_v030_is_out/)
+- [Are you really writing so much parallel code?](https://www.reddit.com/r/scala/comments/1kr1ejd/are_you_really_writing_so_much_parallel_code/)
 - [Is there a standard library method that would shorten this code: Option[..] -&gt; Future[Option[..]]?](https://www.reddit.com/r/scala/comments/1kqi4j9/is_there_a_standard_library_method_that_would/)
 - [Drawing Heighway’s Dragon - Part 4 - Interactive and Animated Dragon Creation](https://www.reddit.com/r/scala/comments/1kqgjwz/drawing_heighways_dragon_part_4_interactive_and/)
 - [Mill 0.12.13 is out with updated support for publishing to central.sonatype.org](https://www.reddit.com/r/scala/comments/1kq92s3/mill_01213_is_out_with_updated_support_for/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [A Distributed System from scratch, with Scala 3 - Part 3: Job submission, worker scaling, and leader election &amp; consensus with Raft](https://www.reddit.com/r/scala/comments/1kpwmsd/a_distributed_system_from_scratch_with_scala_3/)
 - [This week in #Scala &lpar;May 19, 2025&rpar;](https://www.reddit.com/r/scala/comments/1kpmzmx/this_week_in_scala_may_19_2025/)
 - [Scala native is actually fast](https://www.reddit.com/r/scala/comments/1kpgbop/scala_native_is_actually_fast/)
-- [sbt 1.11.0-RC1 released](https://www.reddit.com/r/scala/comments/1kp3hn8/sbt_1110rc1_released/)
-- [hexagonal/clean architecture with DDD in scala](https://www.reddit.com/r/scala/comments/1koxekg/hexagonalclean_architecture_with_ddd_in_scala/)
-- [What&#39;s the deal with multiversal equality?](https://www.reddit.com/r/scala/comments/1knxebr/whats_the_deal_with_multiversal_equality/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

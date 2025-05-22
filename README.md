@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Databricks Runtime with Scala 2.13 support released](https://www.reddit.com/r/scala/comments/1ks7s2t/databricks_runtime_with_scala_213_support_released/)
+- [ScalaSQL on DuckDB](https://www.reddit.com/r/scala/comments/1ks6rom/scalasql_on_duckdb/)
+- [Scala Plugin 2025.1.24 is out! 🥳](https://www.reddit.com/r/scala/comments/1krxjtr/scala_plugin_2025124_is_out/)
+- [[meetup] Let&#39;s Teach LLMs to Write Great Scala! | Functional World #17](https://www.reddit.com/r/scala/comments/1krvvgv/meetup_lets_teach_llms_to_write_great_scala/)
+- [Are effect systems compatibile with the broader ecosystem?](https://www.reddit.com/r/scala/comments/1krqzn3/are_effect_systems_compatibile_with_the_broader/)
 - [An Algebra of Thoughts: When Kyo effects meet LLMs by Flavio Brasil](https://www.reddit.com/r/scala/comments/1krluex/an_algebra_of_thoughts_when_kyo_effects_meet_llms/)
 - [ldbc v0.3.0 is out 🎉](https://www.reddit.com/r/scala/comments/1kr2ffr/ldbc_v030_is_out/)
 - [Are you really writing so much parallel code?](https://www.reddit.com/r/scala/comments/1kr1ejd/are_you_really_writing_so_much_parallel_code/)
 - [Is there a standard library method that would shorten this code: Option[..] -&gt; Future[Option[..]]?](https://www.reddit.com/r/scala/comments/1kqi4j9/is_there_a_standard_library_method_that_would/)
 - [Drawing Heighway’s Dragon - Part 4 - Interactive and Animated Dragon Creation](https://www.reddit.com/r/scala/comments/1kqgjwz/drawing_heighways_dragon_part_4_interactive_and/)
-- [Mill 0.12.13 is out with updated support for publishing to central.sonatype.org](https://www.reddit.com/r/scala/comments/1kq92s3/mill_01213_is_out_with_updated_support_for/)
-- [Data Race Freedom for Scala](https://www.reddit.com/r/scala/comments/1kq4ezw/data_race_freedom_for_scala/)
-- [A Distributed System from scratch, with Scala 3 - Part 3: Job submission, worker scaling, and leader election &amp; consensus with Raft](https://www.reddit.com/r/scala/comments/1kpwmsd/a_distributed_system_from_scratch_with_scala_3/)
-- [This week in #Scala &lpar;May 19, 2025&rpar;](https://www.reddit.com/r/scala/comments/1kpmzmx/this_week_in_scala_may_19_2025/)
-- [Scala native is actually fast](https://www.reddit.com/r/scala/comments/1kpgbop/scala_native_is_actually_fast/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

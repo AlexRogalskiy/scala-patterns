@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is there something like SpacetimeDB in Scala?](https://www.reddit.com/r/scala/comments/1ksv9wa/is_there_something_like_spacetimedb_in_scala/)
 - [Databricks Runtime with Scala 2.13 support released](https://www.reddit.com/r/scala/comments/1ks7s2t/databricks_runtime_with_scala_213_support_released/)
 - [ScalaSQL on DuckDB](https://www.reddit.com/r/scala/comments/1ks6rom/scalasql_on_duckdb/)
 - [Scala Plugin 2025.1.24 is out! 🥳](https://www.reddit.com/r/scala/comments/1krxjtr/scala_plugin_2025124_is_out/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ldbc v0.3.0 is out 🎉](https://www.reddit.com/r/scala/comments/1kr2ffr/ldbc_v030_is_out/)
 - [Are you really writing so much parallel code?](https://www.reddit.com/r/scala/comments/1kr1ejd/are_you_really_writing_so_much_parallel_code/)
 - [Is there a standard library method that would shorten this code: Option[..] -&gt; Future[Option[..]]?](https://www.reddit.com/r/scala/comments/1kqi4j9/is_there_a_standard_library_method_that_would/)
-- [Drawing Heighway’s Dragon - Part 4 - Interactive and Animated Dragon Creation](https://www.reddit.com/r/scala/comments/1kqgjwz/drawing_heighways_dragon_part_4_interactive_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

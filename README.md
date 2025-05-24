@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How to set up Intellij to run a specific test of scalatest &lpar;FunSpec&rpar;?](https://www.reddit.com/r/scala/comments/1ku16v1/how_to_set_up_intellij_to_run_a_specific_test_of/)
+- [What&#39;s the current thinking on iron vs refined &lpar;and how to use them&rpar;](https://www.reddit.com/r/scala/comments/1ktol0t/whats_the_current_thinking_on_iron_vs_refined_and/)
+- [Annotation based checks for DTO.](https://www.reddit.com/r/scala/comments/1ktmfry/annotation_based_checks_for_dto/)
 - [Is there something like SpacetimeDB in Scala?](https://www.reddit.com/r/scala/comments/1ksv9wa/is_there_something_like_spacetimedb_in_scala/)
 - [Databricks Runtime with Scala 2.13 support released](https://www.reddit.com/r/scala/comments/1ks7s2t/databricks_runtime_with_scala_213_support_released/)
 - [ScalaSQL on DuckDB](https://www.reddit.com/r/scala/comments/1ks6rom/scalasql_on_duckdb/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [[meetup] Let&#39;s Teach LLMs to Write Great Scala! | Functional World #17](https://www.reddit.com/r/scala/comments/1krvvgv/meetup_lets_teach_llms_to_write_great_scala/)
 - [Are effect systems compatibile with the broader ecosystem?](https://www.reddit.com/r/scala/comments/1krqzn3/are_effect_systems_compatibile_with_the_broader/)
 - [An Algebra of Thoughts: When Kyo effects meet LLMs by Flavio Brasil](https://www.reddit.com/r/scala/comments/1krluex/an_algebra_of_thoughts_when_kyo_effects_meet_llms/)
-- [ldbc v0.3.0 is out 🎉](https://www.reddit.com/r/scala/comments/1kr2ffr/ldbc_v030_is_out/)
-- [Are you really writing so much parallel code?](https://www.reddit.com/r/scala/comments/1kr1ejd/are_you_really_writing_so_much_parallel_code/)
-- [Is there a standard library method that would shorten this code: Option[..] -&gt; Future[Option[..]]?](https://www.reddit.com/r/scala/comments/1kqi4j9/is_there_a_standard_library_method_that_would/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

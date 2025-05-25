@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New Scala India Talk | 11:30 AM UTC | By Scala Veteran](https://www.reddit.com/r/scala/comments/1kuarlg/new_scala_india_talk_1130_am_utc_by_scala_veteran/)
+- [Any known issues with JDK 17 and scala 2.13?](https://www.reddit.com/r/scala/comments/1ku7eun/any_known_issues_with_jdk_17_and_scala_213/)
+- [sbt 1.11.0 released](https://www.reddit.com/r/scala/comments/1ku6elg/sbt_1110_released/)
 - [How to set up Intellij to run a specific test of scalatest &lpar;FunSpec&rpar;?](https://www.reddit.com/r/scala/comments/1ku16v1/how_to_set_up_intellij_to_run_a_specific_test_of/)
 - [What&#39;s the current thinking on iron vs refined &lpar;and how to use them&rpar;](https://www.reddit.com/r/scala/comments/1ktol0t/whats_the_current_thinking_on_iron_vs_refined_and/)
 - [Annotation based checks for DTO.](https://www.reddit.com/r/scala/comments/1ktmfry/annotation_based_checks_for_dto/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Databricks Runtime with Scala 2.13 support released](https://www.reddit.com/r/scala/comments/1ks7s2t/databricks_runtime_with_scala_213_support_released/)
 - [ScalaSQL on DuckDB](https://www.reddit.com/r/scala/comments/1ks6rom/scalasql_on_duckdb/)
 - [Scala Plugin 2025.1.24 is out! 🥳](https://www.reddit.com/r/scala/comments/1krxjtr/scala_plugin_2025124_is_out/)
-- [[meetup] Let&#39;s Teach LLMs to Write Great Scala! | Functional World #17](https://www.reddit.com/r/scala/comments/1krvvgv/meetup_lets_teach_llms_to_write_great_scala/)
-- [Are effect systems compatibile with the broader ecosystem?](https://www.reddit.com/r/scala/comments/1krqzn3/are_effect_systems_compatibile_with_the_broader/)
-- [An Algebra of Thoughts: When Kyo effects meet LLMs by Flavio Brasil](https://www.reddit.com/r/scala/comments/1krluex/an_algebra_of_thoughts_when_kyo_effects_meet_llms/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

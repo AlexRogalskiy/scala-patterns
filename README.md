@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [JetBrains Developer Ecosystem Survey 2025 is out!](https://www.reddit.com/r/scala/comments/1kvr18p/jetbrains_developer_ecosystem_survey_2025_is_out/)
 - [Mill 1.0.0-RC1 is out, with builds written in Scala 3.7.0 and many other long-overdue cleanups](https://www.reddit.com/r/scala/comments/1kve51c/mill_100rc1_is_out_with_builds_written_in_scala/)
 - [This week in #Scala &lpar;May 27, 2025&rpar;](https://www.reddit.com/r/scala/comments/1kvdok2/this_week_in_scala_may_27_2025/)
 - [Does your company start new projects in Scala?](https://www.reddit.com/r/scala/comments/1kv6o12/does_your_company_start_new_projects_in_scala/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [What&#39;s the current thinking on iron vs refined &lpar;and how to use them&rpar;](https://www.reddit.com/r/scala/comments/1ktol0t/whats_the_current_thinking_on_iron_vs_refined_and/)
 - [Annotation based checks for DTO.](https://www.reddit.com/r/scala/comments/1ktmfry/annotation_based_checks_for_dto/)
 - [Is there something like SpacetimeDB in Scala?](https://www.reddit.com/r/scala/comments/1ksv9wa/is_there_something_like_spacetimedb_in_scala/)
-- [Databricks Runtime with Scala 2.13 support released](https://www.reddit.com/r/scala/comments/1ks7s2t/databricks_runtime_with_scala_213_support_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

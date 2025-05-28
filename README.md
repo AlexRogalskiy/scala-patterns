@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Compile-Time Scala 2/3 Encoders for Apache Spark](https://www.reddit.com/r/scala/comments/1kwra0y/compiletime_scala_23_encoders_for_apache_spark/)
+- [JetBrains is featuring the Play Framework in their latest blog post 🎉](https://www.reddit.com/r/scala/comments/1kwnzjs/jetbrains_is_featuring_the_play_framework_in/)
+- [Jonas Bonér on Akka, Distributed Systems, Open Source and Agentic AI](https://www.reddit.com/r/scala/comments/1kwlrnm/jonas_bonér_on_akka_distributed_systems_open/)
+- [Speak at Lambda World! Join the Lambda World Online Proposal Hack](https://www.reddit.com/r/scala/comments/1kwk924/speak_at_lambda_world_join_the_lambda_world/)
+- [Apache Fury serialization framework 0.10.3 released](https://www.reddit.com/r/scala/comments/1kwgjsp/apache_fury_serialization_framework_0103_released/)
 - [JetBrains Developer Ecosystem Survey 2025 is out!](https://www.reddit.com/r/scala/comments/1kvr18p/jetbrains_developer_ecosystem_survey_2025_is_out/)
 - [Mill 1.0.0-RC1 is out, with builds written in Scala 3.7.0 and many other long-overdue cleanups](https://www.reddit.com/r/scala/comments/1kve51c/mill_100rc1_is_out_with_builds_written_in_scala/)
 - [This week in #Scala &lpar;May 27, 2025&rpar;](https://www.reddit.com/r/scala/comments/1kvdok2/this_week_in_scala_may_27_2025/)
 - [Does your company start new projects in Scala?](https://www.reddit.com/r/scala/comments/1kv6o12/does_your_company_start_new_projects_in_scala/)
 - [New Scala India Talk | 11:30 AM UTC | By Scala Veteran](https://www.reddit.com/r/scala/comments/1kuarlg/new_scala_india_talk_1130_am_utc_by_scala_veteran/)
-- [sbt 1.11.0 released](https://www.reddit.com/r/scala/comments/1ku6elg/sbt_1110_released/)
-- [How to set up Intellij to run a specific test of scalatest &lpar;FunSpec&rpar;?](https://www.reddit.com/r/scala/comments/1ku16v1/how_to_set_up_intellij_to_run_a_specific_test_of/)
-- [What&#39;s the current thinking on iron vs refined &lpar;and how to use them&rpar;](https://www.reddit.com/r/scala/comments/1ktol0t/whats_the_current_thinking_on_iron_vs_refined_and/)
-- [Annotation based checks for DTO.](https://www.reddit.com/r/scala/comments/1ktmfry/annotation_based_checks_for_dto/)
-- [Is there something like SpacetimeDB in Scala?](https://www.reddit.com/r/scala/comments/1ksv9wa/is_there_something_like_spacetimedb_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

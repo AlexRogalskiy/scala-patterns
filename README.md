@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [IRS Direct File, Written in Scala, Open Sourced](https://www.reddit.com/r/scala/comments/1kzj1ek/irs_direct_file_written_in_scala_open_sourced/)
 - [ZIO: Proper way to provide layers](https://www.reddit.com/r/scala/comments/1kyoivw/zio_proper_way_to_provide_layers/)
 - [Spark 4.0.0 released](https://www.reddit.com/r/scala/comments/1ky1jat/spark_400_released/)
 - [Why write a 3-line method when you can summon the type system to rewrite your DNA?](https://www.reddit.com/r/scala/comments/1kxnset/why_write_a_3line_method_when_you_can_summon_the/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Compile-Time Scala 2/3 Encoders for Apache Spark](https://www.reddit.com/r/scala/comments/1kwra0y/compiletime_scala_23_encoders_for_apache_spark/)
 - [JetBrains is featuring the Play Framework in their latest blog post 🎉](https://www.reddit.com/r/scala/comments/1kwnzjs/jetbrains_is_featuring_the_play_framework_in/)
 - [Jonas Bonér on Akka, Distributed Systems, Open Source and Agentic AI](https://www.reddit.com/r/scala/comments/1kwlrnm/jonas_bonér_on_akka_distributed_systems_open/)
-- [Speak at Lambda World! Join the Lambda World Online Proposal Hack](https://www.reddit.com/r/scala/comments/1kwk924/speak_at_lambda_world_join_the_lambda_world/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

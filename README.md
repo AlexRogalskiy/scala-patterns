@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [🗃️ [v4.0 Release] LightDB – Blazingly fast embedded Scala DB with key-value, SQL, graph, and full-text search](https://www.reddit.com/r/scala/comments/1l00w5o/v40_release_lightdb_blazingly_fast_embedded_scala/)
+- [Making ScalaSql boring again &lpar;with interesting new internals&rpar;](https://www.reddit.com/r/scala/comments/1kztrtv/making_scalasql_boring_again_with_interesting_new/)
 - [IRS Direct File, Written in Scala, Open Sourced](https://www.reddit.com/r/scala/comments/1kzj1ek/irs_direct_file_written_in_scala_open_sourced/)
 - [ZIO: Proper way to provide layers](https://www.reddit.com/r/scala/comments/1kyoivw/zio_proper_way_to_provide_layers/)
 - [Spark 4.0.0 released](https://www.reddit.com/r/scala/comments/1ky1jat/spark_400_released/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Days 2025 Program is up! Read more in the blog.](https://www.reddit.com/r/scala/comments/1kxkcg2/scala_days_2025_program_is_up_read_more_in_the/)
 - [etl4s 1.4.1 - Pretty, whiteboard-style, config driven pipelines - Looking for &lpar;more&rpar; feedback!](https://www.reddit.com/r/scala/comments/1kxgw76/etl4s_141_pretty_whiteboardstyle_config_driven/)
 - [Compile-Time Scala 2/3 Encoders for Apache Spark](https://www.reddit.com/r/scala/comments/1kwra0y/compiletime_scala_23_encoders_for_apache_spark/)
-- [JetBrains is featuring the Play Framework in their latest blog post 🎉](https://www.reddit.com/r/scala/comments/1kwnzjs/jetbrains_is_featuring_the_play_framework_in/)
-- [Jonas Bonér on Akka, Distributed Systems, Open Source and Agentic AI](https://www.reddit.com/r/scala/comments/1kwlrnm/jonas_bonér_on_akka_distributed_systems_open/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

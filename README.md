@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [explicit end block](https://www.reddit.com/r/scala/comments/1l1y6d7/explicit_end_block/)
+- [List Unfolding - `unfold` as the Computational Dual of `fold`, and how `unfold` relates to `iterate`](https://www.reddit.com/r/scala/comments/1l1n9jl/list_unfolding_unfold_as_the_computational_dual/)
+- [sbt 1.11.1 released](https://www.reddit.com/r/scala/comments/1l19mbc/sbt_1111_released/)
 - [This week in #Scala &lpar;Jun 2, 2025&rpar;](https://www.reddit.com/r/scala/comments/1l0rh5p/this_week_in_scala_jun_2_2025/)
 - [🗃️ [v4.0 Release] LightDB – Blazingly fast embedded Scala DB with key-value, SQL, graph, and full-text search](https://www.reddit.com/r/scala/comments/1l00w5o/v40_release_lightdb_blazingly_fast_embedded_scala/)
 - [Making ScalaSql boring again &lpar;with interesting new internals&rpar;](https://www.reddit.com/r/scala/comments/1kztrtv/making_scalasql_boring_again_with_interesting_new/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ZIO: Proper way to provide layers](https://www.reddit.com/r/scala/comments/1kyoivw/zio_proper_way_to_provide_layers/)
 - [Spark 4.0.0 released](https://www.reddit.com/r/scala/comments/1ky1jat/spark_400_released/)
 - [Why write a 3-line method when you can summon the type system to rewrite your DNA?](https://www.reddit.com/r/scala/comments/1kxnset/why_write_a_3line_method_when_you_can_summon_the/)
-- [Learning Zio](https://www.reddit.com/r/scala/comments/1kxkwba/learning_zio/)
-- [Scala Days 2025 Program is up! Read more in the blog.](https://www.reddit.com/r/scala/comments/1kxkcg2/scala_days_2025_program_is_up_read_more_in_the/)
-- [etl4s 1.4.1 - Pretty, whiteboard-style, config driven pipelines - Looking for &lpar;more&rpar; feedback!](https://www.reddit.com/r/scala/comments/1kxgw76/etl4s_141_pretty_whiteboardstyle_config_driven/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

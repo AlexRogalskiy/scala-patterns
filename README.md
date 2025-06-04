@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Using scala despite capture checking](https://www.reddit.com/r/scala/comments/1l2h9lz/using_scala_despite_capture_checking/)
+- [Scala code parser with tree_sitter](https://www.reddit.com/r/scala/comments/1l2btdi/scala_code_parser_with_tree_sitter/)
+- [Using images with ScalaJS and Vite](https://www.reddit.com/r/scala/comments/1l2aiu8/using_images_with_scalajs_and_vite/)
+- [Announcing Summer of Scala Code&#39;25 by Scala India | Open for all](https://www.reddit.com/r/scala/comments/1l24pr0/announcing_summer_of_scala_code25_by_scala_india/)
 - [explicit end block](https://www.reddit.com/r/scala/comments/1l1y6d7/explicit_end_block/)
 - [List Unfolding - `unfold` as the Computational Dual of `fold`, and how `unfold` relates to `iterate`](https://www.reddit.com/r/scala/comments/1l1n9jl/list_unfolding_unfold_as_the_computational_dual/)
 - [sbt 1.11.1 released](https://www.reddit.com/r/scala/comments/1l19mbc/sbt_1111_released/)
 - [This week in #Scala &lpar;Jun 2, 2025&rpar;](https://www.reddit.com/r/scala/comments/1l0rh5p/this_week_in_scala_jun_2_2025/)
 - [🗃️ [v4.0 Release] LightDB – Blazingly fast embedded Scala DB with key-value, SQL, graph, and full-text search](https://www.reddit.com/r/scala/comments/1l00w5o/v40_release_lightdb_blazingly_fast_embedded_scala/)
 - [Making ScalaSql boring again &lpar;with interesting new internals&rpar;](https://www.reddit.com/r/scala/comments/1kztrtv/making_scalasql_boring_again_with_interesting_new/)
-- [IRS Direct File, Written in Scala, Open Sourced](https://www.reddit.com/r/scala/comments/1kzj1ek/irs_direct_file_written_in_scala_open_sourced/)
-- [ZIO: Proper way to provide layers](https://www.reddit.com/r/scala/comments/1kyoivw/zio_proper_way_to_provide_layers/)
-- [Spark 4.0.0 released](https://www.reddit.com/r/scala/comments/1ky1jat/spark_400_released/)
-- [Why write a 3-line method when you can summon the type system to rewrite your DNA?](https://www.reddit.com/r/scala/comments/1kxnset/why_write_a_3line_method_when_you_can_summon_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

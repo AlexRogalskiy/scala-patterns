@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Dev needed](https://www.reddit.com/r/scala/comments/1l40ns1/scala_dev_needed/)
 - [Redefining Stream Composition with Algebraic Effects by Adam Hearn](https://www.reddit.com/r/scala/comments/1l3ku6t/redefining_stream_composition_with_algebraic/)
 - [Use generic type parameter in pattern matching?](https://www.reddit.com/r/scala/comments/1l3he7v/use_generic_type_parameter_in_pattern_matching/)
 - [Experiments in SIMD](https://www.reddit.com/r/scala/comments/1l3frwi/experiments_in_simd/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Using images with ScalaJS and Vite](https://www.reddit.com/r/scala/comments/1l2aiu8/using_images_with_scalajs_and_vite/)
 - [Announcing Summer of Scala Code&#39;25 by Scala India | Open for all](https://www.reddit.com/r/scala/comments/1l24pr0/announcing_summer_of_scala_code25_by_scala_india/)
 - [explicit end block](https://www.reddit.com/r/scala/comments/1l1y6d7/explicit_end_block/)
-- [List Unfolding - `unfold` as the Computational Dual of `fold`, and how `unfold` relates to `iterate`](https://www.reddit.com/r/scala/comments/1l1n9jl/list_unfolding_unfold_as_the_computational_dual/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How do I debug/inspect my code? &lpar;coming from Ruby/JavaScript&rpar;](https://www.reddit.com/r/scala/comments/1l530j1/how_do_i_debuginspect_my_code_coming_from/)
+- [[Event] Functional World #18 | Better Scala Builds with the Mill Build Tool by Li Haoyi](https://www.reddit.com/r/scala/comments/1l4qn5v/event_functional_world_18_better_scala_builds/)
+- [Scala first steps](https://www.reddit.com/r/scala/comments/1l4j2bn/scala_first_steps/)
 - [Scala Dev needed](https://www.reddit.com/r/scala/comments/1l40ns1/scala_dev_needed/)
 - [Redefining Stream Composition with Algebraic Effects by Adam Hearn](https://www.reddit.com/r/scala/comments/1l3ku6t/redefining_stream_composition_with_algebraic/)
 - [Use generic type parameter in pattern matching?](https://www.reddit.com/r/scala/comments/1l3he7v/use_generic_type_parameter_in_pattern_matching/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala implementation of Micrograd. A tiny scalar-autograd engine and a neural net implementation.](https://www.reddit.com/r/scala/comments/1l35x6o/scala_implementation_of_micrograd_a_tiny/)
 - [Using scala despite capture checking](https://www.reddit.com/r/scala/comments/1l2h9lz/using_scala_despite_capture_checking/)
 - [Scala code parser with tree_sitter](https://www.reddit.com/r/scala/comments/1l2btdi/scala_code_parser_with_tree_sitter/)
-- [Using images with ScalaJS and Vite](https://www.reddit.com/r/scala/comments/1l2aiu8/using_images_with_scalajs_and_vite/)
-- [Announcing Summer of Scala Code&#39;25 by Scala India | Open for all](https://www.reddit.com/r/scala/comments/1l24pr0/announcing_summer_of_scala_code25_by_scala_india/)
-- [explicit end block](https://www.reddit.com/r/scala/comments/1l1y6d7/explicit_end_block/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

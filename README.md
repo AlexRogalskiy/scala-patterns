@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 1.11.2 released](https://www.reddit.com/r/scala/comments/1l5v93a/sbt_1112_released/)
+- [Very newbie question, how do I include Play Json dependency in SBT?](https://www.reddit.com/r/scala/comments/1l5t43b/very_newbie_question_how_do_i_include_play_json/)
+- [NEED help regarding overriding var from trait](https://www.reddit.com/r/scala/comments/1l5dgn9/need_help_regarding_overriding_var_from_trait/)
+- [Weird Behavior Of Union Type Widening On Method Return Type](https://www.reddit.com/r/scala/comments/1l5cpg4/weird_behavior_of_union_type_widening_on_method/)
 - [How do I debug/inspect my code? &lpar;coming from Ruby/JavaScript&rpar;](https://www.reddit.com/r/scala/comments/1l530j1/how_do_i_debuginspect_my_code_coming_from/)
 - [[Event] Functional World #18 | Better Scala Builds with the Mill Build Tool by Li Haoyi](https://www.reddit.com/r/scala/comments/1l4qn5v/event_functional_world_18_better_scala_builds/)
 - [Scala first steps](https://www.reddit.com/r/scala/comments/1l4j2bn/scala_first_steps/)
 - [Scala Dev needed](https://www.reddit.com/r/scala/comments/1l40ns1/scala_dev_needed/)
 - [Redefining Stream Composition with Algebraic Effects by Adam Hearn](https://www.reddit.com/r/scala/comments/1l3ku6t/redefining_stream_composition_with_algebraic/)
 - [Use generic type parameter in pattern matching?](https://www.reddit.com/r/scala/comments/1l3he7v/use_generic_type_parameter_in_pattern_matching/)
-- [Experiments in SIMD](https://www.reddit.com/r/scala/comments/1l3frwi/experiments_in_simd/)
-- [Scala implementation of Micrograd. A tiny scalar-autograd engine and a neural net implementation.](https://www.reddit.com/r/scala/comments/1l35x6o/scala_implementation_of_micrograd_a_tiny/)
-- [Using scala despite capture checking](https://www.reddit.com/r/scala/comments/1l2h9lz/using_scala_despite_capture_checking/)
-- [Scala code parser with tree_sitter](https://www.reddit.com/r/scala/comments/1l2btdi/scala_code_parser_with_tree_sitter/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

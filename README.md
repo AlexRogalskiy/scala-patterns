@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Newbie question, why do I end up reversing my lists? Do I need a queue?](https://www.reddit.com/r/scala/comments/1l6nj9n/newbie_question_why_do_i_end_up_reversing_my/)
+- [This week in #Scala &lpar;Jun 9, 2025&rpar;](https://www.reddit.com/r/scala/comments/1l6hryl/this_week_in_scala_jun_9_2025/)
 - [sbt 1.11.2 released](https://www.reddit.com/r/scala/comments/1l5v93a/sbt_1112_released/)
 - [Very newbie question, how do I include Play Json dependency in SBT?](https://www.reddit.com/r/scala/comments/1l5t43b/very_newbie_question_how_do_i_include_play_json/)
 - [NEED help regarding overriding var from trait](https://www.reddit.com/r/scala/comments/1l5dgn9/need_help_regarding_overriding_var_from_trait/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [[Event] Functional World #18 | Better Scala Builds with the Mill Build Tool by Li Haoyi](https://www.reddit.com/r/scala/comments/1l4qn5v/event_functional_world_18_better_scala_builds/)
 - [Scala first steps](https://www.reddit.com/r/scala/comments/1l4j2bn/scala_first_steps/)
 - [Scala Dev needed](https://www.reddit.com/r/scala/comments/1l40ns1/scala_dev_needed/)
-- [Redefining Stream Composition with Algebraic Effects by Adam Hearn](https://www.reddit.com/r/scala/comments/1l3ku6t/redefining_stream_composition_with_algebraic/)
-- [Use generic type parameter in pattern matching?](https://www.reddit.com/r/scala/comments/1l3he7v/use_generic_type_parameter_in_pattern_matching/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

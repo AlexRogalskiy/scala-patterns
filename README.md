@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is the chance that Option will become a value class with JDK Valhalla?](https://www.reddit.com/r/scala/comments/1l6yai0/what_is_the_chance_that_option_will_become_a/)
+- [GitHub - IRS-Public/direct-file: Direct File -IRS uses scala &lpar;see the facts service&rpar;](https://www.reddit.com/r/scala/comments/1l6xyv9/github_irspublicdirectfile_direct_file_irs_uses/)
+- [ZIO Logging issue](https://www.reddit.com/r/scala/comments/1l6uvnw/zio_logging_issue/)
 - [Newbie question, why do I end up reversing my lists? Do I need a queue?](https://www.reddit.com/r/scala/comments/1l6nj9n/newbie_question_why_do_i_end_up_reversing_my/)
 - [This week in #Scala &lpar;Jun 9, 2025&rpar;](https://www.reddit.com/r/scala/comments/1l6hryl/this_week_in_scala_jun_9_2025/)
 - [sbt 1.11.2 released](https://www.reddit.com/r/scala/comments/1l5v93a/sbt_1112_released/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [NEED help regarding overriding var from trait](https://www.reddit.com/r/scala/comments/1l5dgn9/need_help_regarding_overriding_var_from_trait/)
 - [Weird Behavior Of Union Type Widening On Method Return Type](https://www.reddit.com/r/scala/comments/1l5cpg4/weird_behavior_of_union_type_widening_on_method/)
 - [How do I debug/inspect my code? &lpar;coming from Ruby/JavaScript&rpar;](https://www.reddit.com/r/scala/comments/1l530j1/how_do_i_debuginspect_my_code_coming_from/)
-- [[Event] Functional World #18 | Better Scala Builds with the Mill Build Tool by Li Haoyi](https://www.reddit.com/r/scala/comments/1l4qn5v/event_functional_world_18_better_scala_builds/)
-- [Scala first steps](https://www.reddit.com/r/scala/comments/1l4j2bn/scala_first_steps/)
-- [Scala Dev needed](https://www.reddit.com/r/scala/comments/1l40ns1/scala_dev_needed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

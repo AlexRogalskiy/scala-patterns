@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [First Make It Correct](https://www.reddit.com/r/scala/comments/1l8bcmo/first_make_it_correct/)
+- [Newbie Play! question, why only JSON AJAX failed?](https://www.reddit.com/r/scala/comments/1l873bq/newbie_play_question_why_only_json_ajax_failed/)
 - [What is the chance that Option will become a value class with JDK Valhalla?](https://www.reddit.com/r/scala/comments/1l6yai0/what_is_the_chance_that_option_will_become_a/)
 - [GitHub - IRS-Public/direct-file: Direct File -IRS uses scala &lpar;see the facts service&rpar;](https://www.reddit.com/r/scala/comments/1l6xyv9/github_irspublicdirectfile_direct_file_irs_uses/)
 - [ZIO Logging issue](https://www.reddit.com/r/scala/comments/1l6uvnw/zio_logging_issue/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt 1.11.2 released](https://www.reddit.com/r/scala/comments/1l5v93a/sbt_1112_released/)
 - [Very newbie question, how do I include Play Json dependency in SBT?](https://www.reddit.com/r/scala/comments/1l5t43b/very_newbie_question_how_do_i_include_play_json/)
 - [NEED help regarding overriding var from trait](https://www.reddit.com/r/scala/comments/1l5dgn9/need_help_regarding_overriding_var_from_trait/)
-- [Weird Behavior Of Union Type Widening On Method Return Type](https://www.reddit.com/r/scala/comments/1l5cpg4/weird_behavior_of_union_type_widening_on_method/)
-- [How do I debug/inspect my code? &lpar;coming from Ruby/JavaScript&rpar;](https://www.reddit.com/r/scala/comments/1l530j1/how_do_i_debuginspect_my_code_coming_from/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

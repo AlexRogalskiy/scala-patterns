@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Job] Obsidian Systems - Hiring Remote Software Engineers - Functional Programming](https://www.reddit.com/r/scala/comments/1l8z7ji/job_obsidian_systems_hiring_remote_software/)
+- [S2D - Simple Videogames Programming Library written in Scala](https://www.reddit.com/r/scala/comments/1l8t1z9/s2d_simple_videogames_programming_library_written/)
+- [Newbie sbt question, sbt assembly doesnt compile small app](https://www.reddit.com/r/scala/comments/1l8r06h/newbie_sbt_question_sbt_assembly_doesnt_compile/)
 - [First Make It Correct](https://www.reddit.com/r/scala/comments/1l8bcmo/first_make_it_correct/)
 - [Newbie Play! question, why only JSON AJAX failed?](https://www.reddit.com/r/scala/comments/1l873bq/newbie_play_question_why_only_json_ajax_failed/)
 - [What is the chance that Option will become a value class with JDK Valhalla?](https://www.reddit.com/r/scala/comments/1l6yai0/what_is_the_chance_that_option_will_become_a/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ZIO Logging issue](https://www.reddit.com/r/scala/comments/1l6uvnw/zio_logging_issue/)
 - [Newbie question, why do I end up reversing my lists? Do I need a queue?](https://www.reddit.com/r/scala/comments/1l6nj9n/newbie_question_why_do_i_end_up_reversing_my/)
 - [This week in #Scala &lpar;Jun 9, 2025&rpar;](https://www.reddit.com/r/scala/comments/1l6hryl/this_week_in_scala_jun_9_2025/)
-- [sbt 1.11.2 released](https://www.reddit.com/r/scala/comments/1l5v93a/sbt_1112_released/)
-- [Very newbie question, how do I include Play Json dependency in SBT?](https://www.reddit.com/r/scala/comments/1l5t43b/very_newbie_question_how_do_i_include_play_json/)
-- [NEED help regarding overriding var from trait](https://www.reddit.com/r/scala/comments/1l5dgn9/need_help_regarding_overriding_var_from_trait/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

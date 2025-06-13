@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Quick newbie question](https://www.reddit.com/r/scala/comments/1la3r5a/quick_newbie_question/)
+- [[Talk] LLM4S Talk in Dallas 🇺🇸 – Scala Meets AI &lpar;June 13&rpar;](https://www.reddit.com/r/scala/comments/1l9iheb/talk_llm4s_talk_in_dallas_scala_meets_ai_june_13/)
 - [[Job] Obsidian Systems - Hiring Remote Software Engineers - Functional Programming](https://www.reddit.com/r/scala/comments/1l8z7ji/job_obsidian_systems_hiring_remote_software/)
 - [S2D - Simple Videogames Programming Library written in Scala](https://www.reddit.com/r/scala/comments/1l8t1z9/s2d_simple_videogames_programming_library_written/)
 - [Newbie sbt question, sbt assembly doesnt compile small app](https://www.reddit.com/r/scala/comments/1l8r06h/newbie_sbt_question_sbt_assembly_doesnt_compile/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [What is the chance that Option will become a value class with JDK Valhalla?](https://www.reddit.com/r/scala/comments/1l6yai0/what_is_the_chance_that_option_will_become_a/)
 - [GitHub - IRS-Public/direct-file: Direct File -IRS uses scala &lpar;see the facts service&rpar;](https://www.reddit.com/r/scala/comments/1l6xyv9/github_irspublicdirectfile_direct_file_irs_uses/)
 - [ZIO Logging issue](https://www.reddit.com/r/scala/comments/1l6uvnw/zio_logging_issue/)
-- [Newbie question, why do I end up reversing my lists? Do I need a queue?](https://www.reddit.com/r/scala/comments/1l6nj9n/newbie_question_why_do_i_end_up_reversing_my/)
-- [This week in #Scala &lpar;Jun 9, 2025&rpar;](https://www.reddit.com/r/scala/comments/1l6hryl/this_week_in_scala_jun_9_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

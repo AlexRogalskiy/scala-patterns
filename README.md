@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Akka or Pecco &lpar;sp?&rpar;](https://www.reddit.com/r/scala/comments/1lax854/akka_or_pecco_sp/)
+- [How I disabled -Xfatal-warnings in IDE &lpar;IntelliJ&rpar; but kept it in CI &lpar;Scala/sbt tip&rpar;](https://www.reddit.com/r/scala/comments/1laca9h/how_i_disabled_xfatalwarnings_in_ide_intellij_but/)
 - [Quick newbie question](https://www.reddit.com/r/scala/comments/1la3r5a/quick_newbie_question/)
 - [[Talk] LLM4S Talk in Dallas 🇺🇸 – Scala Meets AI &lpar;June 13&rpar;](https://www.reddit.com/r/scala/comments/1l9iheb/talk_llm4s_talk_in_dallas_scala_meets_ai_june_13/)
 - [[Job] Obsidian Systems - Hiring Remote Software Engineers - Functional Programming](https://www.reddit.com/r/scala/comments/1l8z7ji/job_obsidian_systems_hiring_remote_software/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [First Make It Correct](https://www.reddit.com/r/scala/comments/1l8bcmo/first_make_it_correct/)
 - [Newbie Play! question, why only JSON AJAX failed?](https://www.reddit.com/r/scala/comments/1l873bq/newbie_play_question_why_only_json_ajax_failed/)
 - [What is the chance that Option will become a value class with JDK Valhalla?](https://www.reddit.com/r/scala/comments/1l6yai0/what_is_the_chance_that_option_will_become_a/)
-- [GitHub - IRS-Public/direct-file: Direct File -IRS uses scala &lpar;see the facts service&rpar;](https://www.reddit.com/r/scala/comments/1l6xyv9/github_irspublicdirectfile_direct_file_irs_uses/)
-- [ZIO Logging issue](https://www.reddit.com/r/scala/comments/1l6uvnw/zio_logging_issue/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

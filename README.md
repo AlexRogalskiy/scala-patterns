@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New to scala](https://www.reddit.com/r/scala/comments/1lbpumv/new_to_scala/)
+- [My experience migrating a PlayFramework app to Scala 3](https://www.reddit.com/r/scala/comments/1lbkiei/my_experience_migrating_a_playframework_app_to/)
+- [Noob asking about CRYD + some misc questions.](https://www.reddit.com/r/scala/comments/1lbax9y/noob_asking_about_cryd_some_misc_questions/)
+- [Suspension: the magic behind composability &lpar;or &quot;The Kyo Monad&quot;&rpar;](https://www.reddit.com/r/scala/comments/1lbat6g/suspension_the_magic_behind_composability_or_the/)
+- [The Elements of Kyo - Interactively explore the codebase!](https://www.reddit.com/r/scala/comments/1lb1b58/the_elements_of_kyo_interactively_explore_the/)
 - [Akka or Pecco &lpar;sp?&rpar;](https://www.reddit.com/r/scala/comments/1lax854/akka_or_pecco_sp/)
 - [How I disabled -Xfatal-warnings in IDE &lpar;IntelliJ&rpar; but kept it in CI &lpar;Scala/sbt tip&rpar;](https://www.reddit.com/r/scala/comments/1laca9h/how_i_disabled_xfatalwarnings_in_ide_intellij_but/)
 - [Quick newbie question](https://www.reddit.com/r/scala/comments/1la3r5a/quick_newbie_question/)
 - [[Talk] LLM4S Talk in Dallas 🇺🇸 – Scala Meets AI &lpar;June 13&rpar;](https://www.reddit.com/r/scala/comments/1l9iheb/talk_llm4s_talk_in_dallas_scala_meets_ai_june_13/)
-- [[Job] Obsidian Systems - Hiring Remote Software Engineers - Functional Programming](https://www.reddit.com/r/scala/comments/1l8z7ji/job_obsidian_systems_hiring_remote_software/)
 - [S2D - Simple Videogames Programming Library written in Scala](https://www.reddit.com/r/scala/comments/1l8t1z9/s2d_simple_videogames_programming_library_written/)
-- [Newbie sbt question, sbt assembly doesnt compile small app](https://www.reddit.com/r/scala/comments/1l8r06h/newbie_sbt_question_sbt_assembly_doesnt_compile/)
-- [First Make It Correct](https://www.reddit.com/r/scala/comments/1l8bcmo/first_make_it_correct/)
-- [Newbie Play! question, why only JSON AJAX failed?](https://www.reddit.com/r/scala/comments/1l873bq/newbie_play_question_why_only_json_ajax_failed/)
-- [What is the chance that Option will become a value class with JDK Valhalla?](https://www.reddit.com/r/scala/comments/1l6yai0/what_is_the_chance_that_option_will_become_a/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

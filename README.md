@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Any use for a batteries-included Rails or Devise-like full-stack web application framework on Http4s and cats?](https://www.reddit.com/r/scala/comments/1le16bp/any_use_for_a_batteriesincluded_rails_or/)
+- [A forest fire simulator written in Rust and Scala !](https://www.reddit.com/r/scala/comments/1ldzxmk/a_forest_fire_simulator_written_in_rust_and_scala/)
+- [How to print field names in case class toString?](https://www.reddit.com/r/scala/comments/1ldoy0u/how_to_print_field_names_in_case_class_tostring/)
+- [Serialization Framework Announcement - Apache Fury is Now Apache Fory](https://www.reddit.com/r/scala/comments/1ldhwov/serialization_framework_announcement_apache_fury/)
 - [Folding Cheat Sheet #9 - List Unfolding - &#39;unfold&#39; as the Computational Dual of &#39;fold&#39;, and how &#39;unfold&#39; relates to &#39;iterate&#39;](https://www.reddit.com/r/scala/comments/1ld19kf/folding_cheat_sheet_9_list_unfolding_unfold_as/)
 - [ArrayView - pure Scala library for efficient multidimensional tensors](https://www.reddit.com/r/scala/comments/1lcxobt/arrayview_pure_scala_library_for_efficient/)
 - [4 Fundamental Concurrency Patterns in Scala with Cats Effect — Mutex, Semaphore, Barrier, Latch](https://www.reddit.com/r/scala/comments/1lcv1ot/4_fundamental_concurrency_patterns_in_scala_with/)
 - [dotty-cps-async 1.1.2 is out](https://www.reddit.com/r/scala/comments/1lcn8nc/dottycpsasync_112_is_out/)
 - [Yet Another Scala 3 Migration Story](https://www.reddit.com/r/scala/comments/1lcaz6z/yet_another_scala_3_migration_story/)
 - [How do I create a new Mill project with Scala 3?](https://www.reddit.com/r/scala/comments/1lc36um/how_do_i_create_a_new_mill_project_with_scala_3/)
-- [MiniClust: a lightweight multiuser batch computing system written in Scala](https://www.reddit.com/r/scala/comments/1lc0kp2/miniclust_a_lightweight_multiuser_batch_computing/)
-- [This week in #Scala &lpar;Jun 16, 2025&rpar;](https://www.reddit.com/r/scala/comments/1lbz4uf/this_week_in_scala_jun_16_2025/)
-- [New to scala](https://www.reddit.com/r/scala/comments/1lbpumv/new_to_scala/)
-- [My experience migrating a PlayFramework app to Scala 3](https://www.reddit.com/r/scala/comments/1lbkiei/my_experience_migrating_a_playframework_app_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

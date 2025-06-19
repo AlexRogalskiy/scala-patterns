@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [S2D migrated to Scala Native](https://www.reddit.com/r/scala/comments/1lezu89/s2d_migrated_to_scala_native/)
+- [Industry Scala](https://www.reddit.com/r/scala/comments/1lec3cr/industry_scala/)
 - [Any use for a batteries-included Rails or Devise-like full-stack web application framework on Http4s and cats?](https://www.reddit.com/r/scala/comments/1le16bp/any_use_for_a_batteriesincluded_rails_or/)
 - [A forest fire simulator written in Rust and Scala !](https://www.reddit.com/r/scala/comments/1ldzxmk/a_forest_fire_simulator_written_in_rust_and_scala/)
 - [How to print field names in case class toString?](https://www.reddit.com/r/scala/comments/1ldoy0u/how_to_print_field_names_in_case_class_tostring/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ArrayView - pure Scala library for efficient multidimensional tensors](https://www.reddit.com/r/scala/comments/1lcxobt/arrayview_pure_scala_library_for_efficient/)
 - [4 Fundamental Concurrency Patterns in Scala with Cats Effect — Mutex, Semaphore, Barrier, Latch](https://www.reddit.com/r/scala/comments/1lcv1ot/4_fundamental_concurrency_patterns_in_scala_with/)
 - [dotty-cps-async 1.1.2 is out](https://www.reddit.com/r/scala/comments/1lcn8nc/dottycpsasync_112_is_out/)
-- [Yet Another Scala 3 Migration Story](https://www.reddit.com/r/scala/comments/1lcaz6z/yet_another_scala_3_migration_story/)
-- [How do I create a new Mill project with Scala 3?](https://www.reddit.com/r/scala/comments/1lc36um/how_do_i_create_a_new_mill_project_with_scala_3/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Apache Fory Serialization Framework 0.11.0 Released](https://www.reddit.com/r/scala/comments/1lf103n/apache_fory_serialization_framework_0110_released/)
 - [S2D migrated to Scala Native](https://www.reddit.com/r/scala/comments/1lezu89/s2d_migrated_to_scala_native/)
 - [Industry Scala](https://www.reddit.com/r/scala/comments/1lec3cr/industry_scala/)
 - [Any use for a batteries-included Rails or Devise-like full-stack web application framework on Http4s and cats?](https://www.reddit.com/r/scala/comments/1le16bp/any_use_for_a_batteriesincluded_rails_or/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Folding Cheat Sheet #9 - List Unfolding - &#39;unfold&#39; as the Computational Dual of &#39;fold&#39;, and how &#39;unfold&#39; relates to &#39;iterate&#39;](https://www.reddit.com/r/scala/comments/1ld19kf/folding_cheat_sheet_9_list_unfolding_unfold_as/)
 - [ArrayView - pure Scala library for efficient multidimensional tensors](https://www.reddit.com/r/scala/comments/1lcxobt/arrayview_pure_scala_library_for_efficient/)
 - [4 Fundamental Concurrency Patterns in Scala with Cats Effect — Mutex, Semaphore, Barrier, Latch](https://www.reddit.com/r/scala/comments/1lcv1ot/4_fundamental_concurrency_patterns_in_scala_with/)
-- [dotty-cps-async 1.1.2 is out](https://www.reddit.com/r/scala/comments/1lcn8nc/dottycpsasync_112_is_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

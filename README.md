@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [🌈 JVM Rainbow - Mixing Scala Java Kotlin and Groovy](https://www.reddit.com/r/scala/comments/1lit7eu/jvm_rainbow_mixing_scala_java_kotlin_and_groovy/)
+- [This week in #Scala &lpar;Jun 23, 2025&rpar;](https://www.reddit.com/r/scala/comments/1lik25o/this_week_in_scala_jun_23_2025/)
 - [Apache Fory Serialization Framework 0.11.0 Released](https://www.reddit.com/r/scala/comments/1lf103n/apache_fory_serialization_framework_0110_released/)
 - [S2D migrated to Scala Native](https://www.reddit.com/r/scala/comments/1lezu89/s2d_migrated_to_scala_native/)
 - [Industry Scala](https://www.reddit.com/r/scala/comments/1lec3cr/industry_scala/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to print field names in case class toString?](https://www.reddit.com/r/scala/comments/1ldoy0u/how_to_print_field_names_in_case_class_tostring/)
 - [Serialization Framework Announcement - Apache Fury is Now Apache Fory](https://www.reddit.com/r/scala/comments/1ldhwov/serialization_framework_announcement_apache_fury/)
 - [Folding Cheat Sheet #9 - List Unfolding - &#39;unfold&#39; as the Computational Dual of &#39;fold&#39;, and how &#39;unfold&#39; relates to &#39;iterate&#39;](https://www.reddit.com/r/scala/comments/1ld19kf/folding_cheat_sheet_9_list_unfolding_unfold_as/)
-- [ArrayView - pure Scala library for efficient multidimensional tensors](https://www.reddit.com/r/scala/comments/1lcxobt/arrayview_pure_scala_library_for_efficient/)
-- [4 Fundamental Concurrency Patterns in Scala with Cats Effect — Mutex, Semaphore, Barrier, Latch](https://www.reddit.com/r/scala/comments/1lcv1ot/4_fundamental_concurrency_patterns_in_scala_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

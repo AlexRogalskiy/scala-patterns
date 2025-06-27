@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [&lpar;Video&rpar; Suspension: the magic behind composability &lpar;or &quot;The Kyo Monad&quot;&rpar;](https://www.reddit.com/r/scala/comments/1ll47ig/video_suspension_the_magic_behind_composability/)
+- [Scala Highlights, June 2025 edition](https://www.reddit.com/r/scala/comments/1ll2rn8/scala_highlights_june_2025_edition/)
+- [Keynote: Making Capabilities Safe and Convenient - Martin Odersky | Lambda Days 2025](https://www.reddit.com/r/scala/comments/1lkzza6/keynote_making_capabilities_safe_and_convenient/)
 - [Help to choose a pattern](https://www.reddit.com/r/scala/comments/1ljj6ve/help_to_choose_a_pattern/)
 - [🌈 JVM Rainbow - Mixing Scala Java Kotlin and Groovy](https://www.reddit.com/r/scala/comments/1lit7eu/jvm_rainbow_mixing_scala_java_kotlin_and_groovy/)
 - [This week in #Scala &lpar;Jun 23, 2025&rpar;](https://www.reddit.com/r/scala/comments/1lik25o/this_week_in_scala_jun_23_2025/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [S2D migrated to Scala Native](https://www.reddit.com/r/scala/comments/1lezu89/s2d_migrated_to_scala_native/)
 - [Industry Scala](https://www.reddit.com/r/scala/comments/1lec3cr/industry_scala/)
 - [Any use for a batteries-included Rails or Devise-like full-stack web application framework on Http4s and cats?](https://www.reddit.com/r/scala/comments/1le16bp/any_use_for_a_batteriesincluded_rails_or/)
-- [A forest fire simulator written in Rust and Scala !](https://www.reddit.com/r/scala/comments/1ldzxmk/a_forest_fire_simulator_written_in_rust_and_scala/)
-- [How to print field names in case class toString?](https://www.reddit.com/r/scala/comments/1ldoy0u/how_to_print_field_names_in_case_class_tostring/)
-- [Serialization Framework Announcement - Apache Fury is Now Apache Fory](https://www.reddit.com/r/scala/comments/1ldhwov/serialization_framework_announcement_apache_fury/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

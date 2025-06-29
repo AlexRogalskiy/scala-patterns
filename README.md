@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Pekko + Playwright Web Crawler](https://www.reddit.com/r/scala/comments/1ln0dbt/pekko_playwright_web_crawler/)
+- [Anatomy of a Scala Game Server - Lambda Days 2025](https://www.reddit.com/r/scala/comments/1lmhm1p/anatomy_of_a_scala_game_server_lambda_days_2025/)
 - [If a ZIO Hackathon and reality TV fused together... interesting concept](https://www.reddit.com/r/scala/comments/1llxj1k/if_a_zio_hackathon_and_reality_tv_fused_together/)
 - [Another company stopped using Scala](https://www.reddit.com/r/scala/comments/1lloyls/another_company_stopped_using_scala/)
 - [&lpar;Video&rpar; Suspension: the magic behind composability &lpar;or &quot;The Kyo Monad&quot;&rpar;](https://www.reddit.com/r/scala/comments/1ll47ig/video_suspension_the_magic_behind_composability/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Play Framework welcomes Depop!](https://www.reddit.com/r/scala/comments/1lk3qj6/play_framework_welcomes_depop/)
 - [Help to choose a pattern](https://www.reddit.com/r/scala/comments/1ljj6ve/help_to_choose_a_pattern/)
 - [🌈 JVM Rainbow - Mixing Scala Java Kotlin and Groovy](https://www.reddit.com/r/scala/comments/1lit7eu/jvm_rainbow_mixing_scala_java_kotlin_and_groovy/)
-- [This week in #Scala &lpar;Jun 23, 2025&rpar;](https://www.reddit.com/r/scala/comments/1lik25o/this_week_in_scala_jun_23_2025/)
-- [Apache Fory Serialization Framework 0.11.0 Released](https://www.reddit.com/r/scala/comments/1lf103n/apache_fory_serialization_framework_0110_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

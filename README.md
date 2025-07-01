@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is this true?](https://www.reddit.com/r/scala/comments/1lol66z/is_this_true/)
 - [This week in #Scala &lpar;Jun 30, 2025&rpar;](https://www.reddit.com/r/scala/comments/1lno57v/this_week_in_scala_jun_30_2025/)
 - [Pekko + Playwright Web Crawler](https://www.reddit.com/r/scala/comments/1ln0dbt/pekko_playwright_web_crawler/)
 - [Anatomy of a Scala Game Server - Lambda Days 2025](https://www.reddit.com/r/scala/comments/1lmhm1p/anatomy_of_a_scala_game_server_lambda_days_2025/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Highlights, June 2025 edition](https://www.reddit.com/r/scala/comments/1ll2rn8/scala_highlights_june_2025_edition/)
 - [Keynote: Making Capabilities Safe and Convenient - Martin Odersky | Lambda Days 2025](https://www.reddit.com/r/scala/comments/1lkzza6/keynote_making_capabilities_safe_and_convenient/)
 - [Play Framework welcomes Depop!](https://www.reddit.com/r/scala/comments/1lk3qj6/play_framework_welcomes_depop/)
-- [Help to choose a pattern](https://www.reddit.com/r/scala/comments/1ljj6ve/help_to_choose_a_pattern/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

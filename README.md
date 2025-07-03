@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Any place to learn akka http](https://www.reddit.com/r/scala/comments/1lq5gb0/any_place_to_learn_akka_http/)
+- [Upcoming Scala India talk | Bridging the Gap: How Scala Complements Python in the Production Gen AI Stack](https://www.reddit.com/r/scala/comments/1lq0wc9/upcoming_scala_india_talk_bridging_the_gap_how/)
+- [Play Framework 2.9.8 and 3.0.8 released](https://www.reddit.com/r/scala/comments/1lpt8e5/play_framework_298_and_308_released/)
 - [Is this true?](https://www.reddit.com/r/scala/comments/1lol66z/is_this_true/)
 - [This week in #Scala &lpar;Jun 30, 2025&rpar;](https://www.reddit.com/r/scala/comments/1lno57v/this_week_in_scala_jun_30_2025/)
 - [Pekko + Playwright Web Crawler](https://www.reddit.com/r/scala/comments/1ln0dbt/pekko_playwright_web_crawler/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [If a ZIO Hackathon and reality TV fused together... interesting concept](https://www.reddit.com/r/scala/comments/1llxj1k/if_a_zio_hackathon_and_reality_tv_fused_together/)
 - [Another company stopped using Scala](https://www.reddit.com/r/scala/comments/1lloyls/another_company_stopped_using_scala/)
 - [&lpar;Video&rpar; Suspension: the magic behind composability &lpar;or &quot;The Kyo Monad&quot;&rpar;](https://www.reddit.com/r/scala/comments/1ll47ig/video_suspension_the_magic_behind_composability/)
-- [Scala Highlights, June 2025 edition](https://www.reddit.com/r/scala/comments/1ll2rn8/scala_highlights_june_2025_edition/)
-- [Keynote: Making Capabilities Safe and Convenient - Martin Odersky | Lambda Days 2025](https://www.reddit.com/r/scala/comments/1lkzza6/keynote_making_capabilities_safe_and_convenient/)
-- [Play Framework welcomes Depop!](https://www.reddit.com/r/scala/comments/1lk3qj6/play_framework_welcomes_depop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Would learning scala , api dev &lpar;play&rpar; be a good decision in 2025?](https://www.reddit.com/r/scala/comments/1lquk37/would_learning_scala_api_dev_play_be_a_good/)
+- [Flatmark SSG](https://www.reddit.com/r/scala/comments/1lqsdv5/flatmark_ssg/)
 - [Any place to learn akka http](https://www.reddit.com/r/scala/comments/1lq5gb0/any_place_to_learn_akka_http/)
 - [Upcoming Scala India talk | Bridging the Gap: How Scala Complements Python in the Production Gen AI Stack](https://www.reddit.com/r/scala/comments/1lq0wc9/upcoming_scala_india_talk_bridging_the_gap_how/)
 - [Play Framework 2.9.8 and 3.0.8 released](https://www.reddit.com/r/scala/comments/1lpt8e5/play_framework_298_and_308_released/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Pekko + Playwright Web Crawler](https://www.reddit.com/r/scala/comments/1ln0dbt/pekko_playwright_web_crawler/)
 - [Anatomy of a Scala Game Server - Lambda Days 2025](https://www.reddit.com/r/scala/comments/1lmhm1p/anatomy_of_a_scala_game_server_lambda_days_2025/)
 - [If a ZIO Hackathon and reality TV fused together... interesting concept](https://www.reddit.com/r/scala/comments/1llxj1k/if_a_zio_hackathon_and_reality_tv_fused_together/)
-- [Another company stopped using Scala](https://www.reddit.com/r/scala/comments/1lloyls/another_company_stopped_using_scala/)
-- [&lpar;Video&rpar; Suspension: the magic behind composability &lpar;or &quot;The Kyo Monad&quot;&rpar;](https://www.reddit.com/r/scala/comments/1ll47ig/video_suspension_the_magic_behind_composability/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [java.util.logging.Logger is not the worst thing](https://www.reddit.com/r/scala/comments/1lrrb5b/javautillogginglogger_is_not_the_worst_thing/)
 - [Would learning scala , api dev &lpar;play&rpar; be a good decision in 2025?](https://www.reddit.com/r/scala/comments/1lquk37/would_learning_scala_api_dev_play_be_a_good/)
 - [Flatmark SSG](https://www.reddit.com/r/scala/comments/1lqsdv5/flatmark_ssg/)
 - [Any place to learn akka http](https://www.reddit.com/r/scala/comments/1lq5gb0/any_place_to_learn_akka_http/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Jun 30, 2025&rpar;](https://www.reddit.com/r/scala/comments/1lno57v/this_week_in_scala_jun_30_2025/)
 - [Pekko + Playwright Web Crawler](https://www.reddit.com/r/scala/comments/1ln0dbt/pekko_playwright_web_crawler/)
 - [Anatomy of a Scala Game Server - Lambda Days 2025](https://www.reddit.com/r/scala/comments/1lmhm1p/anatomy_of_a_scala_game_server_lambda_days_2025/)
-- [If a ZIO Hackathon and reality TV fused together... interesting concept](https://www.reddit.com/r/scala/comments/1llxj1k/if_a_zio_hackathon_and_reality_tv_fused_together/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 1.11.3 released](https://www.reddit.com/r/scala/comments/1lsmfzh/sbt_1113_released/)
+- [Log Http Request And Response Via Pekko](https://www.reddit.com/r/scala/comments/1ls8x8p/log_http_request_and_response_via_pekko/)
 - [java.util.logging.Logger is not the worst thing](https://www.reddit.com/r/scala/comments/1lrrb5b/javautillogginglogger_is_not_the_worst_thing/)
 - [Would learning scala , api dev &lpar;play&rpar; be a good decision in 2025?](https://www.reddit.com/r/scala/comments/1lquk37/would_learning_scala_api_dev_play_be_a_good/)
 - [Flatmark SSG](https://www.reddit.com/r/scala/comments/1lqsdv5/flatmark_ssg/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Play Framework 2.9.8 and 3.0.8 released](https://www.reddit.com/r/scala/comments/1lpt8e5/play_framework_298_and_308_released/)
 - [Is this true?](https://www.reddit.com/r/scala/comments/1lol66z/is_this_true/)
 - [This week in #Scala &lpar;Jun 30, 2025&rpar;](https://www.reddit.com/r/scala/comments/1lno57v/this_week_in_scala_jun_30_2025/)
-- [Pekko + Playwright Web Crawler](https://www.reddit.com/r/scala/comments/1ln0dbt/pekko_playwright_web_crawler/)
-- [Anatomy of a Scala Game Server - Lambda Days 2025](https://www.reddit.com/r/scala/comments/1lmhm1p/anatomy_of_a_scala_game_server_lambda_days_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Does anyone use LLMs with Scala succesfully?](https://www.reddit.com/r/scala/comments/1lteb1x/does_anyone_use_llms_with_scala_succesfully/)
+- [This week in #Scala &lpar;Jul 7, 2025&rpar;](https://www.reddit.com/r/scala/comments/1lt9846/this_week_in_scala_jul_7_2025/)
 - [sbt 1.11.3 released](https://www.reddit.com/r/scala/comments/1lsmfzh/sbt_1113_released/)
 - [Log Http Request And Response Via Pekko](https://www.reddit.com/r/scala/comments/1ls8x8p/log_http_request_and_response_via_pekko/)
 - [java.util.logging.Logger is not the worst thing](https://www.reddit.com/r/scala/comments/1lrrb5b/javautillogginglogger_is_not_the_worst_thing/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Any place to learn akka http](https://www.reddit.com/r/scala/comments/1lq5gb0/any_place_to_learn_akka_http/)
 - [Upcoming Scala India talk | Bridging the Gap: How Scala Complements Python in the Production Gen AI Stack](https://www.reddit.com/r/scala/comments/1lq0wc9/upcoming_scala_india_talk_bridging_the_gap_how/)
 - [Play Framework 2.9.8 and 3.0.8 released](https://www.reddit.com/r/scala/comments/1lpt8e5/play_framework_298_and_308_released/)
-- [Is this true?](https://www.reddit.com/r/scala/comments/1lol66z/is_this_true/)
-- [This week in #Scala &lpar;Jun 30, 2025&rpar;](https://www.reddit.com/r/scala/comments/1lno57v/this_week_in_scala_jun_30_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

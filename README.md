@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Talk] LLM4S at Scala Days 2025 🇨🇭 – Scala Meets GenAI &lpar;August 21&rpar;](https://www.reddit.com/r/scala/comments/1lua1ud/talk_llm4s_at_scala_days_2025_scala_meets_genai/)
+- [Business4s H1 2025 Highlights](https://www.reddit.com/r/scala/comments/1lto111/business4s_h1_2025_highlights/)
 - [Does anyone use LLMs with Scala succesfully?](https://www.reddit.com/r/scala/comments/1lteb1x/does_anyone_use_llms_with_scala_succesfully/)
 - [This week in #Scala &lpar;Jul 7, 2025&rpar;](https://www.reddit.com/r/scala/comments/1lt9846/this_week_in_scala_jul_7_2025/)
 - [sbt 1.11.3 released](https://www.reddit.com/r/scala/comments/1lsmfzh/sbt_1113_released/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Would learning scala , api dev &lpar;play&rpar; be a good decision in 2025?](https://www.reddit.com/r/scala/comments/1lquk37/would_learning_scala_api_dev_play_be_a_good/)
 - [Flatmark SSG](https://www.reddit.com/r/scala/comments/1lqsdv5/flatmark_ssg/)
 - [Any place to learn akka http](https://www.reddit.com/r/scala/comments/1lq5gb0/any_place_to_learn_akka_http/)
-- [Upcoming Scala India talk | Bridging the Gap: How Scala Complements Python in the Production Gen AI Stack](https://www.reddit.com/r/scala/comments/1lq0wc9/upcoming_scala_india_talk_bridging_the_gap_how/)
-- [Play Framework 2.9.8 and 3.0.8 released](https://www.reddit.com/r/scala/comments/1lpt8e5/play_framework_298_and_308_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

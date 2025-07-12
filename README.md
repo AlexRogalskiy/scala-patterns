@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hey folks!](https://www.reddit.com/r/scala/comments/1lx3zwo/hey_folks/)
+- [Apache Fory Serialization Framework 0.11.2 Released](https://www.reddit.com/r/scala/comments/1lx25pp/apache_fory_serialization_framework_0112_released/)
+- [v1.0.0 of the Mill build tool is out, with build files written in Scala 3 and many other goodies](https://www.reddit.com/r/scala/comments/1lwy0bc/v100_of_the_mill_build_tool_is_out_with_build/)
 - [[Talk] LLM4S at Scala Days 2025 🇨🇭 – Scala Meets GenAI &lpar;August 21&rpar;](https://www.reddit.com/r/scala/comments/1lua1ud/talk_llm4s_at_scala_days_2025_scala_meets_genai/)
 - [Business4s H1 2025 Highlights](https://www.reddit.com/r/scala/comments/1lto111/business4s_h1_2025_highlights/)
 - [Does anyone use LLMs with Scala succesfully?](https://www.reddit.com/r/scala/comments/1lteb1x/does_anyone_use_llms_with_scala_succesfully/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt 1.11.3 released](https://www.reddit.com/r/scala/comments/1lsmfzh/sbt_1113_released/)
 - [Log Http Request And Response Via Pekko](https://www.reddit.com/r/scala/comments/1ls8x8p/log_http_request_and_response_via_pekko/)
 - [java.util.logging.Logger is not the worst thing](https://www.reddit.com/r/scala/comments/1lrrb5b/javautillogginglogger_is_not_the_worst_thing/)
-- [Would learning scala , api dev &lpar;play&rpar; be a good decision in 2025?](https://www.reddit.com/r/scala/comments/1lquk37/would_learning_scala_api_dev_play_be_a_good/)
-- [Flatmark SSG](https://www.reddit.com/r/scala/comments/1lqsdv5/flatmark_ssg/)
-- [Any place to learn akka http](https://www.reddit.com/r/scala/comments/1lq5gb0/any_place_to_learn_akka_http/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

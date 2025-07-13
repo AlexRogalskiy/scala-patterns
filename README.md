@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kyo 1.0-RC1 - A New Era of Simplicity and Stability!](https://www.reddit.com/r/scala/comments/1lyct17/kyo_10rc1_a_new_era_of_simplicity_and_stability/)
+- [I made directory-specific aliasing tool in Scala Native](https://www.reddit.com/r/scala/comments/1lyb8og/i_made_directoryspecific_aliasing_tool_in_scala/)
+- [Akka 2.6 user seeking other perspectives](https://www.reddit.com/r/scala/comments/1ly1fyc/akka_26_user_seeking_other_perspectives/)
 - [Hey folks!](https://www.reddit.com/r/scala/comments/1lx3zwo/hey_folks/)
 - [Apache Fory Serialization Framework 0.11.2 Released](https://www.reddit.com/r/scala/comments/1lx25pp/apache_fory_serialization_framework_0112_released/)
 - [v1.0.0 of the Mill build tool is out, with build files written in Scala 3 and many other goodies](https://www.reddit.com/r/scala/comments/1lwy0bc/v100_of_the_mill_build_tool_is_out_with_build/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Business4s H1 2025 Highlights](https://www.reddit.com/r/scala/comments/1lto111/business4s_h1_2025_highlights/)
 - [Does anyone use LLMs with Scala succesfully?](https://www.reddit.com/r/scala/comments/1lteb1x/does_anyone_use_llms_with_scala_succesfully/)
 - [This week in #Scala &lpar;Jul 7, 2025&rpar;](https://www.reddit.com/r/scala/comments/1lt9846/this_week_in_scala_jul_7_2025/)
-- [sbt 1.11.3 released](https://www.reddit.com/r/scala/comments/1lsmfzh/sbt_1113_released/)
-- [Log Http Request And Response Via Pekko](https://www.reddit.com/r/scala/comments/1ls8x8p/log_http_request_and_response_via_pekko/)
-- [java.util.logging.Logger is not the worst thing](https://www.reddit.com/r/scala/comments/1lrrb5b/javautillogginglogger_is_not_the_worst_thing/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala with Hibernate](https://www.reddit.com/r/scala/comments/1m00kwi/scala_with_hibernate/)
+- [Scala metaprogramming series episode 7 out now!](https://www.reddit.com/r/scala/comments/1lzy4iq/scala_metaprogramming_series_episode_7_out_now/)
 - [Pivot by Akka - New Agentic Platform](https://www.reddit.com/r/scala/comments/1lz7m3i/pivot_by_akka_new_agentic_platform/)
 - [PencilMail &lpar;fork of Pencil&rpar;](https://www.reddit.com/r/scala/comments/1lz5lq0/pencilmail_fork_of_pencil/)
 - [Kyo 1.0-RC1 - A New Era of Simplicity and Stability!](https://www.reddit.com/r/scala/comments/1lyct17/kyo_10rc1_a_new_era_of_simplicity_and_stability/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Hey folks!](https://www.reddit.com/r/scala/comments/1lx3zwo/hey_folks/)
 - [Apache Fory Serialization Framework 0.11.2 Released](https://www.reddit.com/r/scala/comments/1lx25pp/apache_fory_serialization_framework_0112_released/)
 - [v1.0.0 of the Mill build tool is out, with build files written in Scala 3 and many other goodies](https://www.reddit.com/r/scala/comments/1lwy0bc/v100_of_the_mill_build_tool_is_out_with_build/)
-- [[Talk] LLM4S at Scala Days 2025 🇨🇭 – Scala Meets GenAI &lpar;August 21&rpar;](https://www.reddit.com/r/scala/comments/1lua1ud/talk_llm4s_at_scala_days_2025_scala_meets_genai/)
-- [Business4s H1 2025 Highlights](https://www.reddit.com/r/scala/comments/1lto111/business4s_h1_2025_highlights/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What is the status of AKKA in 2025? Should someone learn it? Ar companies using AKKA?](https://www.reddit.com/r/scala/comments/1m0qq9c/what_is_the_status_of_akka_in_2025_should_someone/)
+- [What is the status of AKKA in 2025? Should someone learn it? Ar companies using AKKA?](https://www.reddit.com/r/scala/comments/1m0qq88/what_is_the_status_of_akka_in_2025_should_someone/)
 - [Scala with Hibernate](https://www.reddit.com/r/scala/comments/1m00kwi/scala_with_hibernate/)
 - [Scala metaprogramming series episode 7 out now!](https://www.reddit.com/r/scala/comments/1lzy4iq/scala_metaprogramming_series_episode_7_out_now/)
 - [Pivot by Akka - New Agentic Platform](https://www.reddit.com/r/scala/comments/1lz7m3i/pivot_by_akka_new_agentic_platform/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [I made directory-specific aliasing tool in Scala Native](https://www.reddit.com/r/scala/comments/1lyb8og/i_made_directoryspecific_aliasing_tool_in_scala/)
 - [Akka 2.6 user seeking other perspectives](https://www.reddit.com/r/scala/comments/1ly1fyc/akka_26_user_seeking_other_perspectives/)
 - [Hey folks!](https://www.reddit.com/r/scala/comments/1lx3zwo/hey_folks/)
-- [Apache Fory Serialization Framework 0.11.2 Released](https://www.reddit.com/r/scala/comments/1lx25pp/apache_fory_serialization_framework_0112_released/)
-- [v1.0.0 of the Mill build tool is out, with build files written in Scala 3 and many other goodies](https://www.reddit.com/r/scala/comments/1lwy0bc/v100_of_the_mill_build_tool_is_out_with_build/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

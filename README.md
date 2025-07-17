@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Inspired by Electric Clojure. How would we build an &#39;Electric Scala&#39;, and should we?](https://www.reddit.com/r/scala/comments/1m1a0hc/inspired_by_electric_clojure_how_would_we_build/)
+- [Tool to encode/decode json and generate a json schema.](https://www.reddit.com/r/scala/comments/1m197j4/tool_to_encodedecode_json_and_generate_a_json/)
 - [What is the status of AKKA in 2025? Should someone learn it? Ar companies using AKKA?](https://www.reddit.com/r/scala/comments/1m0qq9c/what_is_the_status_of_akka_in_2025_should_someone/)
 - [What is the status of AKKA in 2025? Should someone learn it? Ar companies using AKKA?](https://www.reddit.com/r/scala/comments/1m0qq88/what_is_the_status_of_akka_in_2025_should_someone/)
 - [Scala with Hibernate](https://www.reddit.com/r/scala/comments/1m00kwi/scala_with_hibernate/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [PencilMail &lpar;fork of Pencil&rpar;](https://www.reddit.com/r/scala/comments/1lz5lq0/pencilmail_fork_of_pencil/)
 - [Kyo 1.0-RC1 - A New Era of Simplicity and Stability!](https://www.reddit.com/r/scala/comments/1lyct17/kyo_10rc1_a_new_era_of_simplicity_and_stability/)
 - [I made directory-specific aliasing tool in Scala Native](https://www.reddit.com/r/scala/comments/1lyb8og/i_made_directoryspecific_aliasing_tool_in_scala/)
-- [Akka 2.6 user seeking other perspectives](https://www.reddit.com/r/scala/comments/1ly1fyc/akka_26_user_seeking_other_perspectives/)
-- [Hey folks!](https://www.reddit.com/r/scala/comments/1lx3zwo/hey_folks/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

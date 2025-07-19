@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [🐟 Working Example: Scala 3 + ZIO + Quill + PostgreSQL JSONB](https://www.reddit.com/r/scala/comments/1m3ba25/working_example_scala_3_zio_quill_postgresql_jsonb/)
+- [Didn&#39;t receive Zionomicon download email after registering — is this normal?](https://www.reddit.com/r/scala/comments/1m33508/didnt_receive_zionomicon_download_email_after/)
+- [Found: &lpar;server.AppRoutes.services : org.http4s.HttpRoutes[cats.effect.IO]&rpar; Required: org.http4s.HttpApp[F]](https://www.reddit.com/r/scala/comments/1m2u4wo/found_serverapproutesservices/)
 - [Inspired by Electric Clojure. How would we build an &#39;Electric Scala&#39;, and should we?](https://www.reddit.com/r/scala/comments/1m1a0hc/inspired_by_electric_clojure_how_would_we_build/)
 - [Tool to encode/decode json and generate a json schema.](https://www.reddit.com/r/scala/comments/1m197j4/tool_to_encodedecode_json_and_generate_a_json/)
 - [What is the status of AKKA in 2025? Should someone learn it? Ar companies using AKKA?](https://www.reddit.com/r/scala/comments/1m0qq9c/what_is_the_status_of_akka_in_2025_should_someone/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala with Hibernate](https://www.reddit.com/r/scala/comments/1m00kwi/scala_with_hibernate/)
 - [Scala metaprogramming series episode 7 out now!](https://www.reddit.com/r/scala/comments/1lzy4iq/scala_metaprogramming_series_episode_7_out_now/)
 - [Pivot by Akka - New Agentic Platform](https://www.reddit.com/r/scala/comments/1lz7m3i/pivot_by_akka_new_agentic_platform/)
-- [PencilMail &lpar;fork of Pencil&rpar;](https://www.reddit.com/r/scala/comments/1lz5lq0/pencilmail_fork_of_pencil/)
-- [Kyo 1.0-RC1 - A New Era of Simplicity and Stability!](https://www.reddit.com/r/scala/comments/1lyct17/kyo_10rc1_a_new_era_of_simplicity_and_stability/)
-- [I made directory-specific aliasing tool in Scala Native](https://www.reddit.com/r/scala/comments/1lyb8og/i_made_directoryspecific_aliasing_tool_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

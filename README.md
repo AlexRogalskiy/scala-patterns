@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Using macros to parse a scala trait into an HTTP server.](https://www.reddit.com/r/scala/comments/1m46hwt/using_macros_to_parse_a_scala_trait_into_an_http/)
 - [🐟 Working Example: Scala 3 + ZIO + Quill + PostgreSQL JSONB](https://www.reddit.com/r/scala/comments/1m3ba25/working_example_scala_3_zio_quill_postgresql_jsonb/)
 - [Didn&#39;t receive Zionomicon download email after registering — is this normal?](https://www.reddit.com/r/scala/comments/1m33508/didnt_receive_zionomicon_download_email_after/)
 - [Found: &lpar;server.AppRoutes.services : org.http4s.HttpRoutes[cats.effect.IO]&rpar; Required: org.http4s.HttpApp[F]](https://www.reddit.com/r/scala/comments/1m2u4wo/found_serverapproutesservices/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [What is the status of AKKA in 2025? Should someone learn it? Ar companies using AKKA?](https://www.reddit.com/r/scala/comments/1m0qq88/what_is_the_status_of_akka_in_2025_should_someone/)
 - [Scala with Hibernate](https://www.reddit.com/r/scala/comments/1m00kwi/scala_with_hibernate/)
 - [Scala metaprogramming series episode 7 out now!](https://www.reddit.com/r/scala/comments/1lzy4iq/scala_metaprogramming_series_episode_7_out_now/)
-- [Pivot by Akka - New Agentic Platform](https://www.reddit.com/r/scala/comments/1lz7m3i/pivot_by_akka_new_agentic_platform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [LLM4s Dev Hour – Sundays @ 9am London Time](https://www.reddit.com/r/scala/comments/1m4oxf6/llm4s_dev_hour_sundays_9am_london_time/)
+- [This week in #Scala &lpar;Jul 21, 2025&rpar;](https://www.reddit.com/r/scala/comments/1m4kfgc/this_week_in_scala_jul_21_2025/)
+- [Can anyone explain me what is Scala all about?](https://www.reddit.com/r/scala/comments/1m4keip/can_anyone_explain_me_what_is_scala_all_about/)
 - [Using macros to parse a scala trait into an HTTP server.](https://www.reddit.com/r/scala/comments/1m46hwt/using_macros_to_parse_a_scala_trait_into_an_http/)
 - [🐟 Working Example: Scala 3 + ZIO + Quill + PostgreSQL JSONB](https://www.reddit.com/r/scala/comments/1m3ba25/working_example_scala_3_zio_quill_postgresql_jsonb/)
 - [Didn&#39;t receive Zionomicon download email after registering — is this normal?](https://www.reddit.com/r/scala/comments/1m33508/didnt_receive_zionomicon_download_email_after/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Inspired by Electric Clojure. How would we build an &#39;Electric Scala&#39;, and should we?](https://www.reddit.com/r/scala/comments/1m1a0hc/inspired_by_electric_clojure_how_would_we_build/)
 - [Tool to encode/decode json and generate a json schema.](https://www.reddit.com/r/scala/comments/1m197j4/tool_to_encodedecode_json_and_generate_a_json/)
 - [What is the status of AKKA in 2025? Should someone learn it? Ar companies using AKKA?](https://www.reddit.com/r/scala/comments/1m0qq9c/what_is_the_status_of_akka_in_2025_should_someone/)
-- [What is the status of AKKA in 2025? Should someone learn it? Ar companies using AKKA?](https://www.reddit.com/r/scala/comments/1m0qq88/what_is_the_status_of_akka_in_2025_should_someone/)
-- [Scala with Hibernate](https://www.reddit.com/r/scala/comments/1m00kwi/scala_with_hibernate/)
-- [Scala metaprogramming series episode 7 out now!](https://www.reddit.com/r/scala/comments/1lzy4iq/scala_metaprogramming_series_episode_7_out_now/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Mill 1.0.1 is out!](https://www.reddit.com/r/scala/comments/1m5mn7z/mill_101_is_out/)
+- [layoutz - a tiny DSL for beautiful CLI output in Scala ✨🪶 &lpar;Looking for feedback!&rpar;](https://www.reddit.com/r/scala/comments/1m5i6ie/layoutz_a_tiny_dsl_for_beautiful_cli_output_in/)
 - [LLM4s Dev Hour – Sundays @ 9am London Time](https://www.reddit.com/r/scala/comments/1m4oxf6/llm4s_dev_hour_sundays_9am_london_time/)
 - [This week in #Scala &lpar;Jul 21, 2025&rpar;](https://www.reddit.com/r/scala/comments/1m4kfgc/this_week_in_scala_jul_21_2025/)
 - [Can anyone explain me what is Scala all about?](https://www.reddit.com/r/scala/comments/1m4keip/can_anyone_explain_me_what_is_scala_all_about/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Didn&#39;t receive Zionomicon download email after registering — is this normal?](https://www.reddit.com/r/scala/comments/1m33508/didnt_receive_zionomicon_download_email_after/)
 - [Found: &lpar;server.AppRoutes.services : org.http4s.HttpRoutes[cats.effect.IO]&rpar; Required: org.http4s.HttpApp[F]](https://www.reddit.com/r/scala/comments/1m2u4wo/found_serverapproutesservices/)
 - [Inspired by Electric Clojure. How would we build an &#39;Electric Scala&#39;, and should we?](https://www.reddit.com/r/scala/comments/1m1a0hc/inspired_by_electric_clojure_how_would_we_build/)
-- [Tool to encode/decode json and generate a json schema.](https://www.reddit.com/r/scala/comments/1m197j4/tool_to_encodedecode_json_and_generate_a_json/)
-- [What is the status of AKKA in 2025? Should someone learn it? Ar companies using AKKA?](https://www.reddit.com/r/scala/comments/1m0qq9c/what_is_the_status_of_akka_in_2025_should_someone/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [workflows4s 0.3.0 released](https://www.reddit.com/r/scala/comments/1m8t4ry/workflows4s_030_released/)
+- [Hyperiondev](https://www.reddit.com/r/scala/comments/1m8rzvr/hyperiondev/)
 - [Check out the 2nd episode of using macros to parse a trait into an http server!!](https://www.reddit.com/r/scala/comments/1m8nw8k/check_out_the_2nd_episode_of_using_macros_to/)
 - [[Zurich] Career Growth Through Scala OSS – Join Our In-Person Meetup on Aug 25](https://www.reddit.com/r/scala/comments/1m867vu/zurich_career_growth_through_scala_oss_join_our/)
 - [Mill 1.0.1 is out!](https://www.reddit.com/r/scala/comments/1m5mn7z/mill_101_is_out/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Jul 21, 2025&rpar;](https://www.reddit.com/r/scala/comments/1m4kfgc/this_week_in_scala_jul_21_2025/)
 - [Can anyone explain me what is Scala all about?](https://www.reddit.com/r/scala/comments/1m4keip/can_anyone_explain_me_what_is_scala_all_about/)
 - [Using macros to parse a scala trait into an HTTP server.](https://www.reddit.com/r/scala/comments/1m46hwt/using_macros_to_parse_a_scala_trait_into_an_http/)
-- [🐟 Working Example: Scala 3 + ZIO + Quill + PostgreSQL JSONB](https://www.reddit.com/r/scala/comments/1m3ba25/working_example_scala_3_zio_quill_postgresql_jsonb/)
-- [Didn&#39;t receive Zionomicon download email after registering — is this normal?](https://www.reddit.com/r/scala/comments/1m33508/didnt_receive_zionomicon_download_email_after/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

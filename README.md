@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala + sbt + WSL2 + IntteliJ tutorial?](https://www.reddit.com/r/scala/comments/1m9vvlx/scala_sbt_wsl2_inttelij_tutorial/)
 - [workflows4s 0.3.0 released](https://www.reddit.com/r/scala/comments/1m8t4ry/workflows4s_030_released/)
 - [Hyperiondev](https://www.reddit.com/r/scala/comments/1m8rzvr/hyperiondev/)
 - [Check out the 2nd episode of using macros to parse a trait into an http server!!](https://www.reddit.com/r/scala/comments/1m8nw8k/check_out_the_2nd_episode_of_using_macros_to/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [LLM4s Dev Hour – Sundays @ 9am London Time](https://www.reddit.com/r/scala/comments/1m4oxf6/llm4s_dev_hour_sundays_9am_london_time/)
 - [This week in #Scala &lpar;Jul 21, 2025&rpar;](https://www.reddit.com/r/scala/comments/1m4kfgc/this_week_in_scala_jul_21_2025/)
 - [Can anyone explain me what is Scala all about?](https://www.reddit.com/r/scala/comments/1m4keip/can_anyone_explain_me_what_is_scala_all_about/)
-- [Using macros to parse a scala trait into an HTTP server.](https://www.reddit.com/r/scala/comments/1m46hwt/using_macros_to_parse_a_scala_trait_into_an_http/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

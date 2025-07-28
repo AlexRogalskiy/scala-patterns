@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Jul 28, 2025&rpar;](https://www.reddit.com/r/scala/comments/1mati7x/this_week_in_scala_jul_28_2025/)
 - [Scala + sbt + WSL2 + IntteliJ tutorial?](https://www.reddit.com/r/scala/comments/1m9vvlx/scala_sbt_wsl2_inttelij_tutorial/)
 - [workflows4s 0.3.0 released](https://www.reddit.com/r/scala/comments/1m8t4ry/workflows4s_030_released/)
 - [Hyperiondev](https://www.reddit.com/r/scala/comments/1m8rzvr/hyperiondev/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [layoutz - a tiny DSL for beautiful CLI output in Scala ✨🪶 &lpar;Looking for feedback!&rpar;](https://www.reddit.com/r/scala/comments/1m5i6ie/layoutz_a_tiny_dsl_for_beautiful_cli_output_in/)
 - [LLM4s Dev Hour – Sundays @ 9am London Time](https://www.reddit.com/r/scala/comments/1m4oxf6/llm4s_dev_hour_sundays_9am_london_time/)
 - [This week in #Scala &lpar;Jul 21, 2025&rpar;](https://www.reddit.com/r/scala/comments/1m4kfgc/this_week_in_scala_jul_21_2025/)
-- [Can anyone explain me what is Scala all about?](https://www.reddit.com/r/scala/comments/1m4keip/can_anyone_explain_me_what_is_scala_all_about/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

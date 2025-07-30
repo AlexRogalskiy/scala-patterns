@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Experienced Scala+Apache spark developer](https://www.reddit.com/r/scala/comments/1mctasr/experienced_scalaapache_spark_developer/)
+- [Example Driven Documentation](https://www.reddit.com/r/scala/comments/1mcqeu6/example_driven_documentation/)
+- [Nussknacker integration with Functional Programming by Piotr Rudnicki @FuncProgSweden](https://www.reddit.com/r/scala/comments/1mc5gnc/nussknacker_integration_with_functional/)
+- [Version 0.9.0 of the uTest testing framework is out, now with pretty-printed logging, diffs, and auto-updating golden-tests!](https://www.reddit.com/r/scala/comments/1mc30y2/version_090_of_the_utest_testing_framework_is_out/)
 - [ScalaIO 2025: First talks announced!](https://www.reddit.com/r/scala/comments/1mblvdy/scalaio_2025_first_talks_announced/)
 - [This week in #Scala &lpar;Jul 28, 2025&rpar;](https://www.reddit.com/r/scala/comments/1mati7x/this_week_in_scala_jul_28_2025/)
 - [Scala + sbt + WSL2 + IntteliJ tutorial?](https://www.reddit.com/r/scala/comments/1m9vvlx/scala_sbt_wsl2_inttelij_tutorial/)
 - [workflows4s 0.3.0 released](https://www.reddit.com/r/scala/comments/1m8t4ry/workflows4s_030_released/)
 - [Hyperiondev](https://www.reddit.com/r/scala/comments/1m8rzvr/hyperiondev/)
 - [Check out the 2nd episode of using macros to parse a trait into an http server!!](https://www.reddit.com/r/scala/comments/1m8nw8k/check_out_the_2nd_episode_of_using_macros_to/)
-- [[Zurich] Career Growth Through Scala OSS – Join Our In-Person Meetup on Aug 25](https://www.reddit.com/r/scala/comments/1m867vu/zurich_career_growth_through_scala_oss_join_our/)
-- [Mill 1.0.1 is out!](https://www.reddit.com/r/scala/comments/1m5mn7z/mill_101_is_out/)
-- [layoutz - a tiny DSL for beautiful CLI output in Scala ✨🪶 &lpar;Looking for feedback!&rpar;](https://www.reddit.com/r/scala/comments/1m5i6ie/layoutz_a_tiny_dsl_for_beautiful_cli_output_in/)
-- [LLM4s Dev Hour – Sundays @ 9am London Time](https://www.reddit.com/r/scala/comments/1m4oxf6/llm4s_dev_hour_sundays_9am_london_time/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

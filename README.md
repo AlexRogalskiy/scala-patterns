@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Any UK-Based Scala Devs?](https://www.reddit.com/r/scala/comments/1mddxln/any_ukbased_scala_devs/)
+- [Scala Job Market](https://www.reddit.com/r/scala/comments/1mdaakc/scala_job_market/)
+- [Blog Post: Golden Literal Testing in uTest 0.9.0](https://www.reddit.com/r/scala/comments/1mcwt7f/blog_post_golden_literal_testing_in_utest_090/)
 - [Experienced Scala+Apache spark developer](https://www.reddit.com/r/scala/comments/1mctasr/experienced_scalaapache_spark_developer/)
 - [Example Driven Documentation](https://www.reddit.com/r/scala/comments/1mcqeu6/example_driven_documentation/)
 - [Nussknacker integration with Functional Programming by Piotr Rudnicki @FuncProgSweden](https://www.reddit.com/r/scala/comments/1mc5gnc/nussknacker_integration_with_functional/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ScalaIO 2025: First talks announced!](https://www.reddit.com/r/scala/comments/1mblvdy/scalaio_2025_first_talks_announced/)
 - [This week in #Scala &lpar;Jul 28, 2025&rpar;](https://www.reddit.com/r/scala/comments/1mati7x/this_week_in_scala_jul_28_2025/)
 - [Scala + sbt + WSL2 + IntteliJ tutorial?](https://www.reddit.com/r/scala/comments/1m9vvlx/scala_sbt_wsl2_inttelij_tutorial/)
-- [workflows4s 0.3.0 released](https://www.reddit.com/r/scala/comments/1m8t4ry/workflows4s_030_released/)
-- [Hyperiondev](https://www.reddit.com/r/scala/comments/1m8rzvr/hyperiondev/)
-- [Check out the 2nd episode of using macros to parse a trait into an http server!!](https://www.reddit.com/r/scala/comments/1m8nw8k/check_out_the_2nd_episode_of_using_macros_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

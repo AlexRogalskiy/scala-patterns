@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [chanterelle 0.1.0 - seamless interactions with named tuples](https://www.reddit.com/r/scala/comments/1mf5j75/chanterelle_010_seamless_interactions_with_named/)
+- [Jon Pretty and the Scala community](https://www.reddit.com/r/scala/comments/1mevioi/jon_pretty_and_the_scala_community/)
+- [The Untold Impact of Cancellation](https://www.reddit.com/r/scala/comments/1meuv2p/the_untold_impact_of_cancellation/)
+- [Scala ZIO job Market opportunities](https://www.reddit.com/r/scala/comments/1merszi/scala_zio_job_market_opportunities/)
 - [Any UK-Based Scala Devs?](https://www.reddit.com/r/scala/comments/1mddxln/any_ukbased_scala_devs/)
 - [Scala Job Market](https://www.reddit.com/r/scala/comments/1mdaakc/scala_job_market/)
 - [Blog Post: Golden Literal Testing in uTest 0.9.0](https://www.reddit.com/r/scala/comments/1mcwt7f/blog_post_golden_literal_testing_in_utest_090/)
 - [Experienced Scala+Apache spark developer](https://www.reddit.com/r/scala/comments/1mctasr/experienced_scalaapache_spark_developer/)
 - [Example Driven Documentation](https://www.reddit.com/r/scala/comments/1mcqeu6/example_driven_documentation/)
 - [Nussknacker integration with Functional Programming by Piotr Rudnicki @FuncProgSweden](https://www.reddit.com/r/scala/comments/1mc5gnc/nussknacker_integration_with_functional/)
-- [Version 0.9.0 of the uTest testing framework is out, now with pretty-printed logging, diffs, and auto-updating golden-tests!](https://www.reddit.com/r/scala/comments/1mc30y2/version_090_of_the_utest_testing_framework_is_out/)
-- [ScalaIO 2025: First talks announced!](https://www.reddit.com/r/scala/comments/1mblvdy/scalaio_2025_first_talks_announced/)
-- [This week in #Scala &lpar;Jul 28, 2025&rpar;](https://www.reddit.com/r/scala/comments/1mati7x/this_week_in_scala_jul_28_2025/)
-- [Scala + sbt + WSL2 + IntteliJ tutorial?](https://www.reddit.com/r/scala/comments/1m9vvlx/scala_sbt_wsl2_inttelij_tutorial/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

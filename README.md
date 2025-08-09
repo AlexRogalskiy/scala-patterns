@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Rapid 0.18.0 Released!](https://www.reddit.com/r/scala/comments/1ml3ylb/rapid_0180_released/)
+- [The Dereliction of Due Process](https://www.reddit.com/r/scala/comments/1mktrb5/the_dereliction_of_due_process/)
+- [Scala language future](https://www.reddit.com/r/scala/comments/1mklnoq/scala_language_future/)
 - [twimini-bot: Connecting Twilio and Gemini with Scala](https://www.reddit.com/r/scala/comments/1minut5/twiminibot_connecting_twilio_and_gemini_with_scala/)
 - [Mill v1.0.3 is out, with greatly improved tab-completion and explorability from Bash and Zsh shells](https://www.reddit.com/r/scala/comments/1mi6t8h/mill_v103_is_out_with_greatly_improved/)
 - [They finally posted part 2 of that ZIO Hackathon video](https://www.reddit.com/r/scala/comments/1mi2ta8/they_finally_posted_part_2_of_that_zio_hackathon/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ducktape 0.2.10 - now with named tuple support](https://www.reddit.com/r/scala/comments/1mhc34m/ducktape_0210_now_with_named_tuple_support/)
 - [This week in #Scala &lpar;Aug 4, 2025&rpar;](https://www.reddit.com/r/scala/comments/1mgovky/this_week_in_scala_aug_4_2025/)
 - [What the community felt like yesterday](https://www.reddit.com/r/scala/comments/1mgd0fq/what_the_community_felt_like_yesterday/)
-- [chanterelle 0.1.0 - seamless interactions with named tuples](https://www.reddit.com/r/scala/comments/1mf5j75/chanterelle_010_seamless_interactions_with_named/)
-- [Jon Pretty and the Scala community](https://www.reddit.com/r/scala/comments/1mevioi/jon_pretty_and_the_scala_community/)
-- [The Untold Impact of Cancellation](https://www.reddit.com/r/scala/comments/1meuv2p/the_untold_impact_of_cancellation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

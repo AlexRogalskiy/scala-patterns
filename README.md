@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 2.0.0-RC2 released](https://www.reddit.com/r/scala/comments/1mmzpiu/sbt_200rc2_released/)
+- [Scala is #1 in &#39;Functional Languages&#39;](https://www.reddit.com/r/scala/comments/1mmnjye/scala_is_1_in_functional_languages/)
+- [This week in #Scala &lpar;Aug 11, 2025&rpar;](https://www.reddit.com/r/scala/comments/1mmnjq3/this_week_in_scala_aug_11_2025/)
 - [Rapid 0.18.0 Released!](https://www.reddit.com/r/scala/comments/1ml3ylb/rapid_0180_released/)
 - [The Dereliction of Due Process](https://www.reddit.com/r/scala/comments/1mktrb5/the_dereliction_of_due_process/)
 - [Scala language future](https://www.reddit.com/r/scala/comments/1mklnoq/scala_language_future/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Mill v1.0.3 is out, with greatly improved tab-completion and explorability from Bash and Zsh shells](https://www.reddit.com/r/scala/comments/1mi6t8h/mill_v103_is_out_with_greatly_improved/)
 - [They finally posted part 2 of that ZIO Hackathon video](https://www.reddit.com/r/scala/comments/1mi2ta8/they_finally_posted_part_2_of_that_zio_hackathon/)
 - [IntelliJ Scala Plugin 2025.2 Is Out!](https://www.reddit.com/r/scala/comments/1mhgp6q/intellij_scala_plugin_20252_is_out/)
-- [ducktape 0.2.10 - now with named tuple support](https://www.reddit.com/r/scala/comments/1mhc34m/ducktape_0210_now_with_named_tuple_support/)
-- [This week in #Scala &lpar;Aug 4, 2025&rpar;](https://www.reddit.com/r/scala/comments/1mgovky/this_week_in_scala_aug_4_2025/)
-- [What the community felt like yesterday](https://www.reddit.com/r/scala/comments/1mgd0fq/what_the_community_felt_like_yesterday/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

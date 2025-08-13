@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [SBT/Play Framework in a Nutshell](https://www.reddit.com/r/scala/comments/1mo1h5j/sbtplay_framework_in_a_nutshell/)
 - [sbt 2.0.0-RC2 released](https://www.reddit.com/r/scala/comments/1mmzpiu/sbt_200rc2_released/)
 - [Scala is #1 in &#39;Functional Languages&#39;](https://www.reddit.com/r/scala/comments/1mmnjye/scala_is_1_in_functional_languages/)
 - [This week in #Scala &lpar;Aug 11, 2025&rpar;](https://www.reddit.com/r/scala/comments/1mmnjq3/this_week_in_scala_aug_11_2025/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [twimini-bot: Connecting Twilio and Gemini with Scala](https://www.reddit.com/r/scala/comments/1minut5/twiminibot_connecting_twilio_and_gemini_with_scala/)
 - [Mill v1.0.3 is out, with greatly improved tab-completion and explorability from Bash and Zsh shells](https://www.reddit.com/r/scala/comments/1mi6t8h/mill_v103_is_out_with_greatly_improved/)
 - [They finally posted part 2 of that ZIO Hackathon video](https://www.reddit.com/r/scala/comments/1mi2ta8/they_finally_posted_part_2_of_that_zio_hackathon/)
-- [IntelliJ Scala Plugin 2025.2 Is Out!](https://www.reddit.com/r/scala/comments/1mhgp6q/intellij_scala_plugin_20252_is_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

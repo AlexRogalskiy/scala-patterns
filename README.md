@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help shape the State of Scala 2025 - Community Survey](https://www.reddit.com/r/scala/comments/1mpf3qv/help_shape_the_state_of_scala_2025_community/)
+- [Using Metals as an MCP server with claude code](https://www.reddit.com/r/scala/comments/1mpadi0/using_metals_as_an_mcp_server_with_claude_code/)
 - [SBT/Play Framework in a Nutshell](https://www.reddit.com/r/scala/comments/1mo1h5j/sbtplay_framework_in_a_nutshell/)
 - [sbt 2.0.0-RC2 released](https://www.reddit.com/r/scala/comments/1mmzpiu/sbt_200rc2_released/)
 - [Scala is #1 in &#39;Functional Languages&#39;](https://www.reddit.com/r/scala/comments/1mmnjye/scala_is_1_in_functional_languages/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [The Dereliction of Due Process](https://www.reddit.com/r/scala/comments/1mktrb5/the_dereliction_of_due_process/)
 - [Scala language future](https://www.reddit.com/r/scala/comments/1mklnoq/scala_language_future/)
 - [twimini-bot: Connecting Twilio and Gemini with Scala](https://www.reddit.com/r/scala/comments/1minut5/twiminibot_connecting_twilio_and_gemini_with_scala/)
-- [Mill v1.0.3 is out, with greatly improved tab-completion and explorability from Bash and Zsh shells](https://www.reddit.com/r/scala/comments/1mi6t8h/mill_v103_is_out_with_greatly_improved/)
-- [They finally posted part 2 of that ZIO Hackathon video](https://www.reddit.com/r/scala/comments/1mi2ta8/they_finally_posted_part_2_of_that_zio_hackathon/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

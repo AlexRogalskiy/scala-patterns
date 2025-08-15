@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [First talk at Func Prog Conf: To Effect or Not to Effect - a Scala Perspective by Daniel Ciocîrlan](https://www.reddit.com/r/scala/comments/1mpotz5/first_talk_at_func_prog_conf_to_effect_or_not_to/)
 - [Help shape the State of Scala 2025 - Community Survey](https://www.reddit.com/r/scala/comments/1mpf3qv/help_shape_the_state_of_scala_2025_community/)
 - [Using Metals as an MCP server with claude code](https://www.reddit.com/r/scala/comments/1mpadi0/using_metals_as_an_mcp_server_with_claude_code/)
 - [SBT/Play Framework in a Nutshell](https://www.reddit.com/r/scala/comments/1mo1h5j/sbtplay_framework_in_a_nutshell/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Rapid 0.18.0 Released!](https://www.reddit.com/r/scala/comments/1ml3ylb/rapid_0180_released/)
 - [The Dereliction of Due Process](https://www.reddit.com/r/scala/comments/1mktrb5/the_dereliction_of_due_process/)
 - [Scala language future](https://www.reddit.com/r/scala/comments/1mklnoq/scala_language_future/)
-- [twimini-bot: Connecting Twilio and Gemini with Scala](https://www.reddit.com/r/scala/comments/1minut5/twiminibot_connecting_twilio_and_gemini_with_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Shadows finally! Scala, LWJGL, OpenGL &amp; WebGL](https://www.reddit.com/r/scala/comments/1mrf7or/shadows_finally_scala_lwjgl_opengl_webgl/)
+- [Should it be that hard? Am I missing something?](https://www.reddit.com/r/scala/comments/1mrc84p/should_it_be_that_hard_am_i_missing_something/)
+- [Using ChatGPT 5 to help undo a wrongful cancellation from the Scala community](https://www.reddit.com/r/scala/comments/1mqvsrp/using_chatgpt_5_to_help_undo_a_wrongful/)
 - [First talk at Func Prog Conf: To Effect or Not to Effect - a Scala Perspective by Daniel Ciocîrlan](https://www.reddit.com/r/scala/comments/1mpotz5/first_talk_at_func_prog_conf_to_effect_or_not_to/)
 - [Help shape the State of Scala 2025 - Community Survey](https://www.reddit.com/r/scala/comments/1mpf3qv/help_shape_the_state_of_scala_2025_community/)
 - [Using Metals as an MCP server with claude code](https://www.reddit.com/r/scala/comments/1mpadi0/using_metals_as_an_mcp_server_with_claude_code/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt 2.0.0-RC2 released](https://www.reddit.com/r/scala/comments/1mmzpiu/sbt_200rc2_released/)
 - [Scala is #1 in &#39;Functional Languages&#39;](https://www.reddit.com/r/scala/comments/1mmnjye/scala_is_1_in_functional_languages/)
 - [This week in #Scala &lpar;Aug 11, 2025&rpar;](https://www.reddit.com/r/scala/comments/1mmnjq3/this_week_in_scala_aug_11_2025/)
-- [Rapid 0.18.0 Released!](https://www.reddit.com/r/scala/comments/1ml3ylb/rapid_0180_released/)
-- [The Dereliction of Due Process](https://www.reddit.com/r/scala/comments/1mktrb5/the_dereliction_of_due_process/)
-- [Scala language future](https://www.reddit.com/r/scala/comments/1mklnoq/scala_language_future/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

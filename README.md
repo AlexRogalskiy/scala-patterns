@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Aug 18, 2025&rpar;](https://www.reddit.com/r/scala/comments/1msu8vs/this_week_in_scala_aug_18_2025/)
 - [Why on Earth is John Pretty Pinned to the Top of this Sub?](https://www.reddit.com/r/scala/comments/1ms5p60/why_on_earth_is_john_pretty_pinned_to_the_top_of/)
 - [ApplicativeError functions handling and recovering from errors: A mnemonic to recall their signatures from their names](https://www.reddit.com/r/scala/comments/1ms29bf/applicativeerror_functions_handling_and/)
 - [Shadows finally! Scala, LWJGL, OpenGL &amp; WebGL](https://www.reddit.com/r/scala/comments/1mrf7or/shadows_finally_scala_lwjgl_opengl_webgl/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Help shape the State of Scala 2025 - Community Survey](https://www.reddit.com/r/scala/comments/1mpf3qv/help_shape_the_state_of_scala_2025_community/)
 - [Using Metals as an MCP server with claude code](https://www.reddit.com/r/scala/comments/1mpadi0/using_metals_as_an_mcp_server_with_claude_code/)
 - [SBT/Play Framework in a Nutshell](https://www.reddit.com/r/scala/comments/1mo1h5j/sbtplay_framework_in_a_nutshell/)
-- [sbt 2.0.0-RC2 released](https://www.reddit.com/r/scala/comments/1mmzpiu/sbt_200rc2_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

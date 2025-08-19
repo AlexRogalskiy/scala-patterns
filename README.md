@@ -271,8 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Apache Fory Graduates to Top-Level Apache Project](https://www.reddit.com/r/scala/comments/1mtkn8p/apache_fory_graduates_to_toplevel_apache_project/)
 - [This week in #Scala &lpar;Aug 18, 2025&rpar;](https://www.reddit.com/r/scala/comments/1msu8vs/this_week_in_scala_aug_18_2025/)
-- [Why on Earth is John Pretty Pinned to the Top of this Sub?](https://www.reddit.com/r/scala/comments/1ms5p60/why_on_earth_is_john_pretty_pinned_to_the_top_of/)
 - [ApplicativeError functions handling and recovering from errors: A mnemonic to recall their signatures from their names](https://www.reddit.com/r/scala/comments/1ms29bf/applicativeerror_functions_handling_and/)
 - [Shadows finally! Scala, LWJGL, OpenGL &amp; WebGL](https://www.reddit.com/r/scala/comments/1mrf7or/shadows_finally_scala_lwjgl_opengl_webgl/)
 - [Should it be that hard? Am I missing something?](https://www.reddit.com/r/scala/comments/1mrc84p/should_it_be_that_hard_am_i_missing_something/)

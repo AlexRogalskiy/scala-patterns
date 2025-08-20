@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A &quot;Rebirth&quot; of Tagless Final?](https://www.reddit.com/r/scala/comments/1mv0p6p/a_rebirth_of_tagless_final/)
+- [dependency security tooling](https://www.reddit.com/r/scala/comments/1mufa1u/dependency_security_tooling/)
+- [Pre-SIP: Dedented Multiline String Literals](https://www.reddit.com/r/scala/comments/1mub6g5/presip_dedented_multiline_string_literals/)
 - [Apache Fory Graduates to Top-Level Apache Project](https://www.reddit.com/r/scala/comments/1mtkn8p/apache_fory_graduates_to_toplevel_apache_project/)
 - [This week in #Scala &lpar;Aug 18, 2025&rpar;](https://www.reddit.com/r/scala/comments/1msu8vs/this_week_in_scala_aug_18_2025/)
 - [ApplicativeError functions handling and recovering from errors: A mnemonic to recall their signatures from their names](https://www.reddit.com/r/scala/comments/1ms29bf/applicativeerror_functions_handling_and/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Should it be that hard? Am I missing something?](https://www.reddit.com/r/scala/comments/1mrc84p/should_it_be_that_hard_am_i_missing_something/)
 - [Using ChatGPT 5 to help undo a wrongful cancellation from the Scala community](https://www.reddit.com/r/scala/comments/1mqvsrp/using_chatgpt_5_to_help_undo_a_wrongful/)
 - [First talk at Func Prog Conf: To Effect or Not to Effect - a Scala Perspective by Daniel Ciocîrlan](https://www.reddit.com/r/scala/comments/1mpotz5/first_talk_at_func_prog_conf_to_effect_or_not_to/)
-- [Help shape the State of Scala 2025 - Community Survey](https://www.reddit.com/r/scala/comments/1mpf3qv/help_shape_the_state_of_scala_2025_community/)
-- [Using Metals as an MCP server with claude code](https://www.reddit.com/r/scala/comments/1mpadi0/using_metals_as_an_mcp_server_with_claude_code/)
-- [SBT/Play Framework in a Nutshell](https://www.reddit.com/r/scala/comments/1mo1h5j/sbtplay_framework_in_a_nutshell/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

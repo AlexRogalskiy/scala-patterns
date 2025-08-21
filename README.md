@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Benchmarking costs of running different langs/ecosystems](https://www.reddit.com/r/scala/comments/1mv8cc5/benchmarking_costs_of_running_different/)
 - [A &quot;Rebirth&quot; of Tagless Final?](https://www.reddit.com/r/scala/comments/1mv0p6p/a_rebirth_of_tagless_final/)
 - [dependency security tooling](https://www.reddit.com/r/scala/comments/1mufa1u/dependency_security_tooling/)
 - [Pre-SIP: Dedented Multiline String Literals](https://www.reddit.com/r/scala/comments/1mub6g5/presip_dedented_multiline_string_literals/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Shadows finally! Scala, LWJGL, OpenGL &amp; WebGL](https://www.reddit.com/r/scala/comments/1mrf7or/shadows_finally_scala_lwjgl_opengl_webgl/)
 - [Should it be that hard? Am I missing something?](https://www.reddit.com/r/scala/comments/1mrc84p/should_it_be_that_hard_am_i_missing_something/)
 - [Using ChatGPT 5 to help undo a wrongful cancellation from the Scala community](https://www.reddit.com/r/scala/comments/1mqvsrp/using_chatgpt_5_to_help_undo_a_wrongful/)
-- [First talk at Func Prog Conf: To Effect or Not to Effect - a Scala Perspective by Daniel Ciocîrlan](https://www.reddit.com/r/scala/comments/1mpotz5/first_talk_at_func_prog_conf_to_effect_or_not_to/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

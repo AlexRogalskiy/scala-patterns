@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Am I cooked?](https://www.reddit.com/r/scala/comments/1mwma83/am_i_cooked/)
 - [Benchmarking costs of running different langs/ecosystems](https://www.reddit.com/r/scala/comments/1mv8cc5/benchmarking_costs_of_running_different/)
 - [A &quot;Rebirth&quot; of Tagless Final?](https://www.reddit.com/r/scala/comments/1mv0p6p/a_rebirth_of_tagless_final/)
 - [dependency security tooling](https://www.reddit.com/r/scala/comments/1mufa1u/dependency_security_tooling/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ApplicativeError functions handling and recovering from errors: A mnemonic to recall their signatures from their names](https://www.reddit.com/r/scala/comments/1ms29bf/applicativeerror_functions_handling_and/)
 - [Shadows finally! Scala, LWJGL, OpenGL &amp; WebGL](https://www.reddit.com/r/scala/comments/1mrf7or/shadows_finally_scala_lwjgl_opengl_webgl/)
 - [Should it be that hard? Am I missing something?](https://www.reddit.com/r/scala/comments/1mrc84p/should_it_be_that_hard_am_i_missing_something/)
-- [Using ChatGPT 5 to help undo a wrongful cancellation from the Scala community](https://www.reddit.com/r/scala/comments/1mqvsrp/using_chatgpt_5_to_help_undo_a_wrongful/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

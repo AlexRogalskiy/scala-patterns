@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How would you go about writing a new language targeting TASTy?](https://www.reddit.com/r/scala/comments/1mxwtz5/how_would_you_go_about_writing_a_new_language/)
 - [Once You Go Scala, You Never Go Back: A Big Data Developer&#39;s Confession](https://www.reddit.com/r/scala/comments/1mx2d4h/once_you_go_scala_you_never_go_back_a_big_data/)
 - [Am I cooked?](https://www.reddit.com/r/scala/comments/1mwma83/am_i_cooked/)
 - [Benchmarking costs of running different langs/ecosystems](https://www.reddit.com/r/scala/comments/1mv8cc5/benchmarking_costs_of_running_different/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Apache Fory Graduates to Top-Level Apache Project](https://www.reddit.com/r/scala/comments/1mtkn8p/apache_fory_graduates_to_toplevel_apache_project/)
 - [This week in #Scala &lpar;Aug 18, 2025&rpar;](https://www.reddit.com/r/scala/comments/1msu8vs/this_week_in_scala_aug_18_2025/)
 - [ApplicativeError functions handling and recovering from errors: A mnemonic to recall their signatures from their names](https://www.reddit.com/r/scala/comments/1ms29bf/applicativeerror_functions_handling_and/)
-- [Shadows finally! Scala, LWJGL, OpenGL &amp; WebGL](https://www.reddit.com/r/scala/comments/1mrf7or/shadows_finally_scala_lwjgl_opengl_webgl/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

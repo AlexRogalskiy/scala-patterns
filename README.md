@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Simple Kyo test bindings](https://www.reddit.com/r/scala/comments/1n02hsd/simple_kyo_test_bindings/)
+- [Hands on Capture Checking](https://www.reddit.com/r/scala/comments/1mzvd12/hands_on_capture_checking/)
+- [Introducing geminilive4s | A library for interacting with Gemini Live API through Scala](https://www.reddit.com/r/scala/comments/1mzli80/introducing_geminilive4s_a_library_for/)
 - [Group-Theory-inspired Cellular Automata](https://www.reddit.com/r/scala/comments/1mzc7b2/grouptheoryinspired_cellular_automata/)
 - [sbt 1.11.5 released](https://www.reddit.com/r/scala/comments/1mz8rzu/sbt_1115_released/)
 - [This week in #Scala &lpar;Aug 25, 2025&rpar;](https://www.reddit.com/r/scala/comments/1mz6500/this_week_in_scala_aug_25_2025/)
 - [How would you go about writing a new language targeting TASTy?](https://www.reddit.com/r/scala/comments/1mxwtz5/how_would_you_go_about_writing_a_new_language/)
-- [Once You Go Scala, You Never Go Back: A Big Data Developer&#39;s Confession](https://www.reddit.com/r/scala/comments/1mx2d4h/once_you_go_scala_you_never_go_back_a_big_data/)
 - [Am I cooked?](https://www.reddit.com/r/scala/comments/1mwma83/am_i_cooked/)
 - [Benchmarking costs of running different langs/ecosystems](https://www.reddit.com/r/scala/comments/1mv8cc5/benchmarking_costs_of_running_different/)
 - [A &quot;Rebirth&quot; of Tagless Final?](https://www.reddit.com/r/scala/comments/1mv0p6p/a_rebirth_of_tagless_final/)
-- [dependency security tooling](https://www.reddit.com/r/scala/comments/1mufa1u/dependency_security_tooling/)
-- [Pre-SIP: Dedented Multiline String Literals](https://www.reddit.com/r/scala/comments/1mub6g5/presip_dedented_multiline_string_literals/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

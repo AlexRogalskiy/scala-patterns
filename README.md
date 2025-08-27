@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [API development](https://www.reddit.com/r/scala/comments/1n0ormp/api_development/)
+- [Looking to work with a US based Scala developer](https://www.reddit.com/r/scala/comments/1n0n5vb/looking_to_work_with_a_us_based_scala_developer/)
 - [Simple Kyo test bindings](https://www.reddit.com/r/scala/comments/1n02hsd/simple_kyo_test_bindings/)
 - [Hands on Capture Checking](https://www.reddit.com/r/scala/comments/1mzvd12/hands_on_capture_checking/)
 - [Introducing geminilive4s | A library for interacting with Gemini Live API through Scala](https://www.reddit.com/r/scala/comments/1mzli80/introducing_geminilive4s_a_library_for/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Aug 25, 2025&rpar;](https://www.reddit.com/r/scala/comments/1mz6500/this_week_in_scala_aug_25_2025/)
 - [How would you go about writing a new language targeting TASTy?](https://www.reddit.com/r/scala/comments/1mxwtz5/how_would_you_go_about_writing_a_new_language/)
 - [Am I cooked?](https://www.reddit.com/r/scala/comments/1mwma83/am_i_cooked/)
-- [Benchmarking costs of running different langs/ecosystems](https://www.reddit.com/r/scala/comments/1mv8cc5/benchmarking_costs_of_running_different/)
-- [A &quot;Rebirth&quot; of Tagless Final?](https://www.reddit.com/r/scala/comments/1mv0p6p/a_rebirth_of_tagless_final/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

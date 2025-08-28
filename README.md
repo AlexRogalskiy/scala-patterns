@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Help me out in learning](https://www.reddit.com/r/scala/comments/1n1ltu8/help_me_out_in_learning/)
+- [Project Emerge: an open source swarm robotics platform](https://www.reddit.com/r/scala/comments/1n1lfvc/project_emerge_an_open_source_swarm_robotics/)
+- [Growing the Java Language #JVMLS by Brian Goetz](https://www.reddit.com/r/scala/comments/1n1j1kt/growing_the_java_language_jvmls_by_brian_goetz/)
 - [API development](https://www.reddit.com/r/scala/comments/1n0ormp/api_development/)
 - [Looking to work with a US based Scala developer](https://www.reddit.com/r/scala/comments/1n0n5vb/looking_to_work_with_a_us_based_scala_developer/)
 - [Simple Kyo test bindings](https://www.reddit.com/r/scala/comments/1n02hsd/simple_kyo_test_bindings/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Introducing geminilive4s | A library for interacting with Gemini Live API through Scala](https://www.reddit.com/r/scala/comments/1mzli80/introducing_geminilive4s_a_library_for/)
 - [Group-Theory-inspired Cellular Automata](https://www.reddit.com/r/scala/comments/1mzc7b2/grouptheoryinspired_cellular_automata/)
 - [sbt 1.11.5 released](https://www.reddit.com/r/scala/comments/1mz8rzu/sbt_1115_released/)
-- [This week in #Scala &lpar;Aug 25, 2025&rpar;](https://www.reddit.com/r/scala/comments/1mz6500/this_week_in_scala_aug_25_2025/)
-- [How would you go about writing a new language targeting TASTy?](https://www.reddit.com/r/scala/comments/1mxwtz5/how_would_you_go_about_writing_a_new_language/)
-- [Am I cooked?](https://www.reddit.com/r/scala/comments/1mwma83/am_i_cooked/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

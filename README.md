@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why I am moving away from Scala](https://www.reddit.com/r/scala/comments/1n2ek72/why_i_am_moving_away_from_scala/)
 - [Help me out in learning](https://www.reddit.com/r/scala/comments/1n1ltu8/help_me_out_in_learning/)
 - [Project Emerge: an open source swarm robotics platform](https://www.reddit.com/r/scala/comments/1n1lfvc/project_emerge_an_open_source_swarm_robotics/)
 - [Growing the Java Language #JVMLS by Brian Goetz](https://www.reddit.com/r/scala/comments/1n1j1kt/growing_the_java_language_jvmls_by_brian_goetz/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Hands on Capture Checking](https://www.reddit.com/r/scala/comments/1mzvd12/hands_on_capture_checking/)
 - [Introducing geminilive4s | A library for interacting with Gemini Live API through Scala](https://www.reddit.com/r/scala/comments/1mzli80/introducing_geminilive4s_a_library_for/)
 - [Group-Theory-inspired Cellular Automata](https://www.reddit.com/r/scala/comments/1mzc7b2/grouptheoryinspired_cellular_automata/)
-- [sbt 1.11.5 released](https://www.reddit.com/r/scala/comments/1mz8rzu/sbt_1115_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Pekko 1.2.0 just released](https://www.reddit.com/r/scala/comments/1n5uop1/pekko_120_just_released/)
+- [How much does using Akka reduce the risk of race conditions?](https://www.reddit.com/r/scala/comments/1n5kqv9/how_much_does_using_akka_reduce_the_risk_of_race/)
+- [This week in #Scala &lpar;Sep 1, 2025&rpar;](https://www.reddit.com/r/scala/comments/1n53rob/this_week_in_scala_sep_1_2025/)
+- [Dealing with Java builder&#39;s pattern](https://www.reddit.com/r/scala/comments/1n4vc19/dealing_with_java_builders_pattern/)
+- [sbt 2.0.0-RC4 released](https://www.reddit.com/r/scala/comments/1n4nwbt/sbt_200rc4_released/)
 - [Securing zio-http web application with pac4j](https://www.reddit.com/r/scala/comments/1n45nev/securing_ziohttp_web_application_with_pac4j/)
 - [an open source vscode coding assistant in Scala.js](https://www.reddit.com/r/scala/comments/1n3xsko/an_open_source_vscode_coding_assistant_in_scalajs/)
 - [Understanding Match Types in Scala 3](https://www.reddit.com/r/scala/comments/1n3w58v/understanding_match_types_in_scala_3/)
 - [Scala&#39;s Gamble with Direct Style](https://www.reddit.com/r/scala/comments/1n37ex6/scalas_gamble_with_direct_style/)
 - [FP in Scala on sale](https://www.reddit.com/r/scala/comments/1n359ej/fp_in_scala_on_sale/)
-- [I waited 4 years for this Scala feature - F[_] around and find out](https://www.reddit.com/r/scala/comments/1n34nv6/i_waited_4_years_for_this_scala_feature_f_around/)
-- [Why I am moving away from Scala](https://www.reddit.com/r/scala/comments/1n2ek72/why_i_am_moving_away_from_scala/)
-- [Help me out in learning](https://www.reddit.com/r/scala/comments/1n1ltu8/help_me_out_in_learning/)
-- [Project Emerge: an open source swarm robotics platform](https://www.reddit.com/r/scala/comments/1n1lfvc/project_emerge_an_open_source_swarm_robotics/)
-- [Growing the Java Language #JVMLS by Brian Goetz](https://www.reddit.com/r/scala/comments/1n1j1kt/growing_the_java_language_jvmls_by_brian_goetz/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

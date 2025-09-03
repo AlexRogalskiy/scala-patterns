@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Boston Area Scala Meetup interest?](https://www.reddit.com/r/scala/comments/1n6t2e6/boston_area_scala_meetup_interest/)
 - [Pekko 1.2.0 just released](https://www.reddit.com/r/scala/comments/1n5uop1/pekko_120_just_released/)
 - [How much does using Akka reduce the risk of race conditions?](https://www.reddit.com/r/scala/comments/1n5kqv9/how_much_does_using_akka_reduce_the_risk_of_race/)
 - [This week in #Scala &lpar;Sep 1, 2025&rpar;](https://www.reddit.com/r/scala/comments/1n53rob/this_week_in_scala_sep_1_2025/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [an open source vscode coding assistant in Scala.js](https://www.reddit.com/r/scala/comments/1n3xsko/an_open_source_vscode_coding_assistant_in_scalajs/)
 - [Understanding Match Types in Scala 3](https://www.reddit.com/r/scala/comments/1n3w58v/understanding_match_types_in_scala_3/)
 - [Scala&#39;s Gamble with Direct Style](https://www.reddit.com/r/scala/comments/1n37ex6/scalas_gamble_with_direct_style/)
-- [FP in Scala on sale](https://www.reddit.com/r/scala/comments/1n359ej/fp_in_scala_on_sale/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

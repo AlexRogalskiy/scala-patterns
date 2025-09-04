@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Authentication solution for Http4s](https://www.reddit.com/r/scala/comments/1n7vwfp/authentication_solution_for_http4s/)
+- [Custom Error Types Using Cats Effect and MTL](https://www.reddit.com/r/scala/comments/1n7ndp5/custom_error_types_using_cats_effect_and_mtl/)
+- [Implementing a JWT-based authorization for zio-http](https://www.reddit.com/r/scala/comments/1n7kvh3/implementing_a_jwtbased_authorization_for_ziohttp/)
+- [Improving Java interop for explicit nulls and capabilities.](https://www.reddit.com/r/scala/comments/1n7ey9b/improving_java_interop_for_explicit_nulls_and/)
+- [Will Dart static access shorthand fit Scala](https://www.reddit.com/r/scala/comments/1n79dr4/will_dart_static_access_shorthand_fit_scala/)
 - [Boston Area Scala Meetup interest?](https://www.reddit.com/r/scala/comments/1n6t2e6/boston_area_scala_meetup_interest/)
 - [Pekko 1.2.0 just released](https://www.reddit.com/r/scala/comments/1n5uop1/pekko_120_just_released/)
 - [How much does using Akka reduce the risk of race conditions?](https://www.reddit.com/r/scala/comments/1n5kqv9/how_much_does_using_akka_reduce_the_risk_of_race/)
 - [This week in #Scala &lpar;Sep 1, 2025&rpar;](https://www.reddit.com/r/scala/comments/1n53rob/this_week_in_scala_sep_1_2025/)
 - [Dealing with Java builder&#39;s pattern](https://www.reddit.com/r/scala/comments/1n4vc19/dealing_with_java_builders_pattern/)
-- [sbt 2.0.0-RC4 released](https://www.reddit.com/r/scala/comments/1n4nwbt/sbt_200rc4_released/)
-- [Securing zio-http web application with pac4j](https://www.reddit.com/r/scala/comments/1n45nev/securing_ziohttp_web_application_with_pac4j/)
-- [an open source vscode coding assistant in Scala.js](https://www.reddit.com/r/scala/comments/1n3xsko/an_open_source_vscode_coding_assistant_in_scalajs/)
-- [Understanding Match Types in Scala 3](https://www.reddit.com/r/scala/comments/1n3w58v/understanding_match_types_in_scala_3/)
-- [Scala&#39;s Gamble with Direct Style](https://www.reddit.com/r/scala/comments/1n37ex6/scalas_gamble_with_direct_style/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

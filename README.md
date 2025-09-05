@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [dynalens 1.1.0 released](https://www.reddit.com/r/scala/comments/1n8hwqt/dynalens_110_released/)
 - [Authentication solution for Http4s](https://www.reddit.com/r/scala/comments/1n7vwfp/authentication_solution_for_http4s/)
 - [Custom Error Types Using Cats Effect and MTL](https://www.reddit.com/r/scala/comments/1n7ndp5/custom_error_types_using_cats_effect_and_mtl/)
 - [Implementing a JWT-based authorization for zio-http](https://www.reddit.com/r/scala/comments/1n7kvh3/implementing_a_jwtbased_authorization_for_ziohttp/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Pekko 1.2.0 just released](https://www.reddit.com/r/scala/comments/1n5uop1/pekko_120_just_released/)
 - [How much does using Akka reduce the risk of race conditions?](https://www.reddit.com/r/scala/comments/1n5kqv9/how_much_does_using_akka_reduce_the_risk_of_race/)
 - [This week in #Scala &lpar;Sep 1, 2025&rpar;](https://www.reddit.com/r/scala/comments/1n53rob/this_week_in_scala_sep_1_2025/)
-- [Dealing with Java builder&#39;s pattern](https://www.reddit.com/r/scala/comments/1n4vc19/dealing_with_java_builders_pattern/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

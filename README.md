@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Sep 8, 2025&rpar;](https://www.reddit.com/r/scala/comments/1nb8g4x/this_week_in_scala_sep_8_2025/)
+- [Releasing geminilive4s 0.3.0](https://www.reddit.com/r/scala/comments/1nazzbu/releasing_geminilive4s_030/)
+- [Announcing Scala.js 1.20.1](https://www.reddit.com/r/scala/comments/1nao3n4/announcing_scalajs_1201/)
 - [sbt 1.11.6 released](https://www.reddit.com/r/scala/comments/1naeksj/sbt_1116_released/)
 - [Sharing Chez: a Scala library for JSON Schemas, OpenAPI, and agentic apps](https://www.reddit.com/r/scala/comments/1n9g41c/sharing_chez_a_scala_library_for_json_schemas/)
 - [dynalens 1.1.0 released](https://www.reddit.com/r/scala/comments/1n8hwqt/dynalens_110_released/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Custom Error Types Using Cats Effect and MTL](https://www.reddit.com/r/scala/comments/1n7ndp5/custom_error_types_using_cats_effect_and_mtl/)
 - [Implementing a JWT-based authorization for zio-http](https://www.reddit.com/r/scala/comments/1n7kvh3/implementing_a_jwtbased_authorization_for_ziohttp/)
 - [Improving Java interop for explicit nulls and capabilities.](https://www.reddit.com/r/scala/comments/1n7ey9b/improving_java_interop_for_explicit_nulls_and/)
-- [Will Dart static access shorthand fit Scala](https://www.reddit.com/r/scala/comments/1n79dr4/will_dart_static_access_shorthand_fit_scala/)
-- [Boston Area Scala Meetup interest?](https://www.reddit.com/r/scala/comments/1n6t2e6/boston_area_scala_meetup_interest/)
-- [Pekko 1.2.0 just released](https://www.reddit.com/r/scala/comments/1n5uop1/pekko_120_just_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

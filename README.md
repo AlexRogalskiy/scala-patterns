@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Random Scala Tip #534: Adopt an Error Handling Convention for `Future`](https://www.reddit.com/r/scala/comments/1ndtkwh/random_scala_tip_534_adopt_an_error_handling/)
+- [Integrate JobRunr into Play Framework [Update Sep 2025]](https://www.reddit.com/r/scala/comments/1ndp7l2/integrate_jobrunr_into_play_framework_update_sep/)
+- [Encoding effects as capabilities](https://www.reddit.com/r/scala/comments/1ndcl1h/encoding_effects_as_capabilities/)
 - [Scautable: CSV &amp; dataframe concept](https://www.reddit.com/r/scala/comments/1nbxxur/scautable_csv_dataframe_concept/)
 - [layoutz 0.2.0 - you can now snap together Elm-style TUI&#39;s in Scala with this tiny DSL for simple, declarative String rendering 🪶✨](https://www.reddit.com/r/scala/comments/1nbn54z/layoutz_020_you_can_now_snap_together_elmstyle/)
 - [This week in #Scala &lpar;Sep 8, 2025&rpar;](https://www.reddit.com/r/scala/comments/1nb8g4x/this_week_in_scala_sep_8_2025/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Announcing Scala.js 1.20.1](https://www.reddit.com/r/scala/comments/1nao3n4/announcing_scalajs_1201/)
 - [sbt 1.11.6 released](https://www.reddit.com/r/scala/comments/1naeksj/sbt_1116_released/)
 - [Sharing Chez: a Scala library for JSON Schemas, OpenAPI, and agentic apps](https://www.reddit.com/r/scala/comments/1n9g41c/sharing_chez_a_scala_library_for_json_schemas/)
-- [dynalens 1.1.0 released](https://www.reddit.com/r/scala/comments/1n8hwqt/dynalens_110_released/)
-- [Authentication solution for Http4s](https://www.reddit.com/r/scala/comments/1n7vwfp/authentication_solution_for_http4s/)
-- [Custom Error Types Using Cats Effect and MTL](https://www.reddit.com/r/scala/comments/1n7ndp5/custom_error_types_using_cats_effect_and_mtl/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

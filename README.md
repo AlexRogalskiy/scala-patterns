@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Meet new release of jsoniter-scala with much faster codec derivation](https://www.reddit.com/r/scala/comments/1ng3cn3/meet_new_release_of_jsoniterscala_with_much/)
+- [ScalaIO Organization: Latest News!](https://www.reddit.com/r/scala/comments/1nfznuj/scalaio_organization_latest_news/)
 - [dotty-cps-async-1.1.4](https://www.reddit.com/r/scala/comments/1nekkir/dottycpsasync114/)
 - [ScalaSql 0.2.1 is out, now with support for Microsoft SQL Server](https://www.reddit.com/r/scala/comments/1nec0ks/scalasql_021_is_out_now_with_support_for/)
 - [Play Framework 2.9.9 and 3.0.9 released](https://www.reddit.com/r/scala/comments/1neb3p8/play_framework_299_and_309_released/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Encoding effects as capabilities](https://www.reddit.com/r/scala/comments/1ndcl1h/encoding_effects_as_capabilities/)
 - [Scautable: CSV &amp; dataframe concept](https://www.reddit.com/r/scala/comments/1nbxxur/scautable_csv_dataframe_concept/)
 - [layoutz 0.2.0 - you can now snap together Elm-style TUI&#39;s in Scala with this tiny DSL for simple, declarative String rendering 🪶✨](https://www.reddit.com/r/scala/comments/1nbn54z/layoutz_020_you_can_now_snap_together_elmstyle/)
-- [This week in #Scala &lpar;Sep 8, 2025&rpar;](https://www.reddit.com/r/scala/comments/1nb8g4x/this_week_in_scala_sep_8_2025/)
-- [Releasing geminilive4s 0.3.0](https://www.reddit.com/r/scala/comments/1nazzbu/releasing_geminilive4s_030/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

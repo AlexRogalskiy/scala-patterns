@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [An old coding challenge I resolved with Scala](https://www.reddit.com/r/scala/comments/1ngvq43/an_old_coding_challenge_i_resolved_with_scala/)
 - [Meet new release of jsoniter-scala with much faster codec derivation](https://www.reddit.com/r/scala/comments/1ng3cn3/meet_new_release_of_jsoniterscala_with_much/)
 - [ScalaIO Organization: Latest News!](https://www.reddit.com/r/scala/comments/1nfznuj/scalaio_organization_latest_news/)
 - [dotty-cps-async-1.1.4](https://www.reddit.com/r/scala/comments/1nekkir/dottycpsasync114/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Integrate JobRunr into Play Framework [Update Sep 2025]](https://www.reddit.com/r/scala/comments/1ndp7l2/integrate_jobrunr_into_play_framework_update_sep/)
 - [Encoding effects as capabilities](https://www.reddit.com/r/scala/comments/1ndcl1h/encoding_effects_as_capabilities/)
 - [Scautable: CSV &amp; dataframe concept](https://www.reddit.com/r/scala/comments/1nbxxur/scautable_csv_dataframe_concept/)
-- [layoutz 0.2.0 - you can now snap together Elm-style TUI&#39;s in Scala with this tiny DSL for simple, declarative String rendering 🪶✨](https://www.reddit.com/r/scala/comments/1nbn54z/layoutz_020_you_can_now_snap_together_elmstyle/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

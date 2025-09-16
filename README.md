@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Boston Area Scala Enthusiasts Meetup Group... things are moving](https://www.reddit.com/r/scala/comments/1nhq6xn/boston_area_scala_enthusiasts_meetup_group_things/)
+- [Test Doubles - Terminology, Definitions and Illustrations - with Examples](https://www.reddit.com/r/scala/comments/1nhq59r/test_doubles_terminology_definitions_and/)
+- [This week in #Scala &lpar;Sep 15, 2025&rpar;](https://www.reddit.com/r/scala/comments/1nhm9vd/this_week_in_scala_sep_15_2025/)
 - [An old coding challenge I resolved with Scala](https://www.reddit.com/r/scala/comments/1ngvq43/an_old_coding_challenge_i_resolved_with_scala/)
 - [Meet new release of jsoniter-scala with much faster codec derivation](https://www.reddit.com/r/scala/comments/1ng3cn3/meet_new_release_of_jsoniterscala_with_much/)
 - [ScalaIO Organization: Latest News!](https://www.reddit.com/r/scala/comments/1nfznuj/scalaio_organization_latest_news/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ScalaSql 0.2.1 is out, now with support for Microsoft SQL Server](https://www.reddit.com/r/scala/comments/1nec0ks/scalasql_021_is_out_now_with_support_for/)
 - [Play Framework 2.9.9 and 3.0.9 released](https://www.reddit.com/r/scala/comments/1neb3p8/play_framework_299_and_309_released/)
 - [Random Scala Tip #534: Adopt an Error Handling Convention for `Future`](https://www.reddit.com/r/scala/comments/1ndtkwh/random_scala_tip_534_adopt_an_error_handling/)
-- [Integrate JobRunr into Play Framework [Update Sep 2025]](https://www.reddit.com/r/scala/comments/1ndp7l2/integrate_jobrunr_into_play_framework_update_sep/)
-- [Encoding effects as capabilities](https://www.reddit.com/r/scala/comments/1ndcl1h/encoding_effects_as_capabilities/)
-- [Scautable: CSV &amp; dataframe concept](https://www.reddit.com/r/scala/comments/1nbxxur/scautable_csv_dataframe_concept/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Mill v1.0.5 is out](https://www.reddit.com/r/scala/comments/1nj0fmt/mill_v105_is_out/)
 - [Boston Area Scala Enthusiasts Meetup Group... things are moving](https://www.reddit.com/r/scala/comments/1nhq6xn/boston_area_scala_enthusiasts_meetup_group_things/)
 - [Test Doubles - Terminology, Definitions and Illustrations - with Examples](https://www.reddit.com/r/scala/comments/1nhq59r/test_doubles_terminology_definitions_and/)
 - [This week in #Scala &lpar;Sep 15, 2025&rpar;](https://www.reddit.com/r/scala/comments/1nhm9vd/this_week_in_scala_sep_15_2025/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [dotty-cps-async-1.1.4](https://www.reddit.com/r/scala/comments/1nekkir/dottycpsasync114/)
 - [ScalaSql 0.2.1 is out, now with support for Microsoft SQL Server](https://www.reddit.com/r/scala/comments/1nec0ks/scalasql_021_is_out_now_with_support_for/)
 - [Play Framework 2.9.9 and 3.0.9 released](https://www.reddit.com/r/scala/comments/1neb3p8/play_framework_299_and_309_released/)
-- [Random Scala Tip #534: Adopt an Error Handling Convention for `Future`](https://www.reddit.com/r/scala/comments/1ndtkwh/random_scala_tip_534_adopt_an_error_handling/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

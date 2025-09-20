@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [When Pipelines Fail Early: Type-Safe Data Engineering in Scala](https://www.reddit.com/r/scala/comments/1nlc0ni/when_pipelines_fail_early_typesafe_data/)
+- [Scala Plugin 2025.2.30 is out!](https://www.reddit.com/r/scala/comments/1nl37cg/scala_plugin_2025230_is_out/)
+- [Lambda World 25 in Cádiz is back with plenty of treats for Scala devs!](https://www.reddit.com/r/scala/comments/1nl1wfb/lambda_world_25_in_cádiz_is_back_with_plenty_of/)
 - [Java 25 and GraalVM for JDK 25 Released](https://www.reddit.com/r/scala/comments/1nkadqt/java_25_and_graalvm_for_jdk_25_released/)
 - [A new repository for Scala nightlies](https://www.reddit.com/r/scala/comments/1nk7ffj/a_new_repository_for_scala_nightlies/)
 - [Event today: Scala Center org Google Summer of Code project lightning talks](https://www.reddit.com/r/scala/comments/1nk2t4b/event_today_scala_center_org_google_summer_of/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Projects course from Rock the JVM](https://www.reddit.com/r/scala/comments/1njgtzt/scala_projects_course_from_rock_the_jvm/)
 - [Controlling program flow with capabilities](https://www.reddit.com/r/scala/comments/1nj5cwb/controlling_program_flow_with_capabilities/)
 - [Fraud detection API in Scala](https://www.reddit.com/r/scala/comments/1nj57ff/fraud_detection_api_in_scala/)
-- [Mill v1.0.5 is out](https://www.reddit.com/r/scala/comments/1nj0fmt/mill_v105_is_out/)
-- [Boston Area Scala Enthusiasts Meetup Group... things are moving](https://www.reddit.com/r/scala/comments/1nhq6xn/boston_area_scala_enthusiasts_meetup_group_things/)
-- [Test Doubles - Terminology, Definitions and Illustrations - with Examples](https://www.reddit.com/r/scala/comments/1nhq59r/test_doubles_terminology_definitions_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

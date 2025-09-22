@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 2.0.0-RC5 released](https://www.reddit.com/r/scala/comments/1nn5y5p/sbt_200rc5_released/)
+- [This week in #Scala &lpar;Sep 22, 2025&rpar;](https://www.reddit.com/r/scala/comments/1nmtjm3/this_week_in_scala_sep_22_2025/)
 - [When Pipelines Fail Early: Type-Safe Data Engineering in Scala](https://www.reddit.com/r/scala/comments/1nlc0ni/when_pipelines_fail_early_typesafe_data/)
 - [Scala Plugin 2025.2.30 is out!](https://www.reddit.com/r/scala/comments/1nl37cg/scala_plugin_2025230_is_out/)
 - [Lambda World 25 in Cádiz is back with plenty of treats for Scala devs!](https://www.reddit.com/r/scala/comments/1nl1wfb/lambda_world_25_in_cádiz_is_back_with_plenty_of/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Event today: Scala Center org Google Summer of Code project lightning talks](https://www.reddit.com/r/scala/comments/1nk2t4b/event_today_scala_center_org_google_summer_of/)
 - [Effects and concurrency in functional programming &lpar;YouTube&rpar;](https://www.reddit.com/r/scala/comments/1njzg2k/effects_and_concurrency_in_functional_programming/)
 - [Scala Projects course from Rock the JVM](https://www.reddit.com/r/scala/comments/1njgtzt/scala_projects_course_from_rock_the_jvm/)
-- [Controlling program flow with capabilities](https://www.reddit.com/r/scala/comments/1nj5cwb/controlling_program_flow_with_capabilities/)
-- [Fraud detection API in Scala](https://www.reddit.com/r/scala/comments/1nj57ff/fraud_detection_api_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

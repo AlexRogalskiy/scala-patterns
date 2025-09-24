@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Pekko 2.0.0 will move to Java 17 based and drop Scala 2.12 Support.](https://www.reddit.com/r/scala/comments/1nom8sb/pekko_200_will_move_to_java_17_based_and_drop/)
+- [sn-bindgen-web - Typelevel stack on Scala Native 0.5](https://www.reddit.com/r/scala/comments/1noifvm/snbindgenweb_typelevel_stack_on_scala_native_05/)
+- [IntelliJ IDEA x Scala: The Debugger &lpar;Part 1&rpar;](https://www.reddit.com/r/scala/comments/1noedi8/intellij_idea_x_scala_the_debugger_part_1/)
+- [Announcing ZIO Test support in scalamock classic &lpar;released in 7.5.0&rpar;](https://www.reddit.com/r/scala/comments/1noav1j/announcing_zio_test_support_in_scalamock_classic/)
 - [sbt 2.0.0-RC5 released](https://www.reddit.com/r/scala/comments/1nn5y5p/sbt_200rc5_released/)
 - [This week in #Scala &lpar;Sep 22, 2025&rpar;](https://www.reddit.com/r/scala/comments/1nmtjm3/this_week_in_scala_sep_22_2025/)
 - [When Pipelines Fail Early: Type-Safe Data Engineering in Scala](https://www.reddit.com/r/scala/comments/1nlc0ni/when_pipelines_fail_early_typesafe_data/)
 - [Scala Plugin 2025.2.30 is out!](https://www.reddit.com/r/scala/comments/1nl37cg/scala_plugin_2025230_is_out/)
 - [Lambda World 25 in Cádiz is back with plenty of treats for Scala devs!](https://www.reddit.com/r/scala/comments/1nl1wfb/lambda_world_25_in_cádiz_is_back_with_plenty_of/)
 - [Java 25 and GraalVM for JDK 25 Released](https://www.reddit.com/r/scala/comments/1nkadqt/java_25_and_graalvm_for_jdk_25_released/)
-- [A new repository for Scala nightlies](https://www.reddit.com/r/scala/comments/1nk7ffj/a_new_repository_for_scala_nightlies/)
-- [Event today: Scala Center org Google Summer of Code project lightning talks](https://www.reddit.com/r/scala/comments/1nk2t4b/event_today_scala_center_org_google_summer_of/)
-- [Effects and concurrency in functional programming &lpar;YouTube&rpar;](https://www.reddit.com/r/scala/comments/1njzg2k/effects_and_concurrency_in_functional_programming/)
-- [Scala Projects course from Rock the JVM](https://www.reddit.com/r/scala/comments/1njgtzt/scala_projects_course_from_rock_the_jvm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

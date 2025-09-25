@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Which web framework is the smallest one in terms of JAR size including its dependencies?](https://www.reddit.com/r/scala/comments/1npjjd3/which_web_framework_is_the_smallest_one_in_terms/)
+- [Zero-Setup All-in-One Java Tooling via Mill Bootstrap Scripts](https://www.reddit.com/r/scala/comments/1npb789/zerosetup_allinone_java_tooling_via_mill/)
 - [Pekko 2.0.0 will move to Java 17 based and drop Scala 2.12 Support.](https://www.reddit.com/r/scala/comments/1nom8sb/pekko_200_will_move_to_java_17_based_and_drop/)
 - [sn-bindgen-web - Typelevel stack on Scala Native 0.5](https://www.reddit.com/r/scala/comments/1noifvm/snbindgenweb_typelevel_stack_on_scala_native_05/)
 - [IntelliJ IDEA x Scala: The Debugger &lpar;Part 1&rpar;](https://www.reddit.com/r/scala/comments/1noedi8/intellij_idea_x_scala_the_debugger_part_1/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Sep 22, 2025&rpar;](https://www.reddit.com/r/scala/comments/1nmtjm3/this_week_in_scala_sep_22_2025/)
 - [When Pipelines Fail Early: Type-Safe Data Engineering in Scala](https://www.reddit.com/r/scala/comments/1nlc0ni/when_pipelines_fail_early_typesafe_data/)
 - [Scala Plugin 2025.2.30 is out!](https://www.reddit.com/r/scala/comments/1nl37cg/scala_plugin_2025230_is_out/)
-- [Lambda World 25 in Cádiz is back with plenty of treats for Scala devs!](https://www.reddit.com/r/scala/comments/1nl1wfb/lambda_world_25_in_cádiz_is_back_with_plenty_of/)
-- [Java 25 and GraalVM for JDK 25 Released](https://www.reddit.com/r/scala/comments/1nkadqt/java_25_and_graalvm_for_jdk_25_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

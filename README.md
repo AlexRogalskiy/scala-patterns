@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala learning, tutorials, references and general related info. ScalaTut resource.](https://www.reddit.com/r/scala/comments/1nqysm8/scala_learning_tutorials_references_and_general/)
+- [Why technical debt is inevitable](https://www.reddit.com/r/scala/comments/1nqqmg2/why_technical_debt_is_inevitable/)
 - [Which web framework is the smallest one in terms of JAR size including its dependencies?](https://www.reddit.com/r/scala/comments/1npjjd3/which_web_framework_is_the_smallest_one_in_terms/)
 - [Zero-Setup All-in-One Java Tooling via Mill Bootstrap Scripts](https://www.reddit.com/r/scala/comments/1npb789/zerosetup_allinone_java_tooling_via_mill/)
 - [Pekko 2.0.0 will move to Java 17 based and drop Scala 2.12 Support.](https://www.reddit.com/r/scala/comments/1nom8sb/pekko_200_will_move_to_java_17_based_and_drop/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Announcing ZIO Test support in scalamock classic &lpar;released in 7.5.0&rpar;](https://www.reddit.com/r/scala/comments/1noav1j/announcing_zio_test_support_in_scalamock_classic/)
 - [sbt 2.0.0-RC5 released](https://www.reddit.com/r/scala/comments/1nn5y5p/sbt_200rc5_released/)
 - [This week in #Scala &lpar;Sep 22, 2025&rpar;](https://www.reddit.com/r/scala/comments/1nmtjm3/this_week_in_scala_sep_22_2025/)
-- [When Pipelines Fail Early: Type-Safe Data Engineering in Scala](https://www.reddit.com/r/scala/comments/1nlc0ni/when_pipelines_fail_early_typesafe_data/)
-- [Scala Plugin 2025.2.30 is out!](https://www.reddit.com/r/scala/comments/1nl37cg/scala_plugin_2025230_is_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

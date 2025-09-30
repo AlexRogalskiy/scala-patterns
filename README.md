@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Sep 29, 2025&rpar;](https://www.reddit.com/r/scala/comments/1ntnhv9/this_week_in_scala_sep_29_2025/)
+- [Is Metals autocomplete supposed to be that slow?](https://www.reddit.com/r/scala/comments/1ntc84o/is_metals_autocomplete_supposed_to_be_that_slow/)
+- [sbt 2.0.0-RC6 released](https://www.reddit.com/r/scala/comments/1ntbs5c/sbt_200rc6_released/)
 - [Scala learning, tutorials, references and general related info. ScalaTut resource.](https://www.reddit.com/r/scala/comments/1nqysm8/scala_learning_tutorials_references_and_general/)
 - [Why technical debt is inevitable](https://www.reddit.com/r/scala/comments/1nqqmg2/why_technical_debt_is_inevitable/)
 - [Which web framework is the smallest one in terms of JAR size including its dependencies?](https://www.reddit.com/r/scala/comments/1npjjd3/which_web_framework_is_the_smallest_one_in_terms/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Pekko 2.0.0 will move to Java 17 based and drop Scala 2.12 Support.](https://www.reddit.com/r/scala/comments/1nom8sb/pekko_200_will_move_to_java_17_based_and_drop/)
 - [sn-bindgen-web - Typelevel stack on Scala Native 0.5](https://www.reddit.com/r/scala/comments/1noifvm/snbindgenweb_typelevel_stack_on_scala_native_05/)
 - [IntelliJ IDEA x Scala: The Debugger &lpar;Part 1&rpar;](https://www.reddit.com/r/scala/comments/1noedi8/intellij_idea_x_scala_the_debugger_part_1/)
-- [Announcing ZIO Test support in scalamock classic &lpar;released in 7.5.0&rpar;](https://www.reddit.com/r/scala/comments/1noav1j/announcing_zio_test_support_in_scalamock_classic/)
-- [sbt 2.0.0-RC5 released](https://www.reddit.com/r/scala/comments/1nn5y5p/sbt_200rc5_released/)
-- [This week in #Scala &lpar;Sep 22, 2025&rpar;](https://www.reddit.com/r/scala/comments/1nmtjm3/this_week_in_scala_sep_22_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

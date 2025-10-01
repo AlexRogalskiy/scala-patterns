@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [ldbc v0.4.0 is out 🎉](https://www.reddit.com/r/scala/comments/1nu7et9/ldbc_v040_is_out/)
+- [The problem with Object Oriented Programming and Deep Inheritance](https://www.reddit.com/r/scala/comments/1nu2a51/the_problem_with_object_oriented_programming_and/)
 - [This week in #Scala &lpar;Sep 29, 2025&rpar;](https://www.reddit.com/r/scala/comments/1ntnhv9/this_week_in_scala_sep_29_2025/)
 - [Is Metals autocomplete supposed to be that slow?](https://www.reddit.com/r/scala/comments/1ntc84o/is_metals_autocomplete_supposed_to_be_that_slow/)
 - [sbt 2.0.0-RC6 released](https://www.reddit.com/r/scala/comments/1ntbs5c/sbt_200rc6_released/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Which web framework is the smallest one in terms of JAR size including its dependencies?](https://www.reddit.com/r/scala/comments/1npjjd3/which_web_framework_is_the_smallest_one_in_terms/)
 - [Zero-Setup All-in-One Java Tooling via Mill Bootstrap Scripts](https://www.reddit.com/r/scala/comments/1npb789/zerosetup_allinone_java_tooling_via_mill/)
 - [Pekko 2.0.0 will move to Java 17 based and drop Scala 2.12 Support.](https://www.reddit.com/r/scala/comments/1nom8sb/pekko_200_will_move_to_java_17_based_and_drop/)
-- [sn-bindgen-web - Typelevel stack on Scala Native 0.5](https://www.reddit.com/r/scala/comments/1noifvm/snbindgenweb_typelevel_stack_on_scala_native_05/)
-- [IntelliJ IDEA x Scala: The Debugger &lpar;Part 1&rpar;](https://www.reddit.com/r/scala/comments/1noedi8/intellij_idea_x_scala_the_debugger_part_1/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

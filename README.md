@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Make Illegal AI Edits Unrepresentable](https://www.reddit.com/r/scala/comments/1ny6psu/make_illegal_ai_edits_unrepresentable/)
+- [Hearth 0.1.0 - the first release of a library that tries to make macros easier](https://www.reddit.com/r/scala/comments/1nwt7zd/hearth_010_the_first_release_of_a_library_that/)
 - [Event Journal Corruption Frequency — Looking for Insights](https://www.reddit.com/r/scala/comments/1nvrc9g/event_journal_corruption_frequency_looking_for/)
 - [Getting Zionomicon](https://www.reddit.com/r/scala/comments/1nvgaxd/getting_zionomicon/)
 - [ldbc v0.4.0 is out 🎉](https://www.reddit.com/r/scala/comments/1nu7et9/ldbc_v040_is_out/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt 2.0.0-RC6 released](https://www.reddit.com/r/scala/comments/1ntbs5c/sbt_200rc6_released/)
 - [Scala learning, tutorials, references and general related info. ScalaTut resource.](https://www.reddit.com/r/scala/comments/1nqysm8/scala_learning_tutorials_references_and_general/)
 - [Why technical debt is inevitable](https://www.reddit.com/r/scala/comments/1nqqmg2/why_technical_debt_is_inevitable/)
-- [Which web framework is the smallest one in terms of JAR size including its dependencies?](https://www.reddit.com/r/scala/comments/1npjjd3/which_web_framework_is_the_smallest_one_in_terms/)
-- [Zero-Setup All-in-One Java Tooling via Mill Bootstrap Scripts](https://www.reddit.com/r/scala/comments/1npb789/zerosetup_allinone_java_tooling_via_mill/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

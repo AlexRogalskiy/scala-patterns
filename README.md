@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 1.11.7 released](https://www.reddit.com/r/scala/comments/1nyza3e/sbt_1117_released/)
+- [How to run sbt tasks with custom settings](https://www.reddit.com/r/scala/comments/1nyvmiw/how_to_run_sbt_tasks_with_custom_settings/)
 - [Make Illegal AI Edits Unrepresentable](https://www.reddit.com/r/scala/comments/1ny6psu/make_illegal_ai_edits_unrepresentable/)
 - [Hearth 0.1.0 - the first release of a library that tries to make macros easier](https://www.reddit.com/r/scala/comments/1nwt7zd/hearth_010_the_first_release_of_a_library_that/)
 - [Event Journal Corruption Frequency — Looking for Insights](https://www.reddit.com/r/scala/comments/1nvrc9g/event_journal_corruption_frequency_looking_for/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Sep 29, 2025&rpar;](https://www.reddit.com/r/scala/comments/1ntnhv9/this_week_in_scala_sep_29_2025/)
 - [Is Metals autocomplete supposed to be that slow?](https://www.reddit.com/r/scala/comments/1ntc84o/is_metals_autocomplete_supposed_to_be_that_slow/)
 - [sbt 2.0.0-RC6 released](https://www.reddit.com/r/scala/comments/1ntbs5c/sbt_200rc6_released/)
-- [Scala learning, tutorials, references and general related info. ScalaTut resource.](https://www.reddit.com/r/scala/comments/1nqysm8/scala_learning_tutorials_references_and_general/)
-- [Why technical debt is inevitable](https://www.reddit.com/r/scala/comments/1nqqmg2/why_technical_debt_is_inevitable/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

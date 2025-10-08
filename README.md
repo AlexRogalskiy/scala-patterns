@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [An Omakase-style PlayFramework Template: PlayFast](https://www.reddit.com/r/scala/comments/1o0lc2a/an_omakasestyle_playframework_template_playfast/)
+- [Scala 2/3 + Slick cursor based pagination library](https://www.reddit.com/r/scala/comments/1o085nx/scala_23_slick_cursor_based_pagination_library/)
+- [Scala 2.13.17 is here!](https://www.reddit.com/r/scala/comments/1o02uyc/scala_21317_is_here/)
+- [This week in #Scala &lpar;Oct 6, 2025&rpar;](https://www.reddit.com/r/scala/comments/1nzkqqm/this_week_in_scala_oct_6_2025/)
+- [Is anyone else glad Scala doesn’t use a Hindley-Milner type system?](https://www.reddit.com/r/scala/comments/1nzirek/is_anyone_else_glad_scala_doesnt_use_a/)
+- [Fullstack &lpar;scala3+scalajs&rpar; stack recommendation](https://www.reddit.com/r/scala/comments/1nzgp05/fullstack_scala3scalajs_stack_recommendation/)
 - [sbt 1.11.7 released](https://www.reddit.com/r/scala/comments/1nyza3e/sbt_1117_released/)
 - [How to run sbt tasks with custom settings](https://www.reddit.com/r/scala/comments/1nyvmiw/how_to_run_sbt_tasks_with_custom_settings/)
 - [Make Illegal AI Edits Unrepresentable](https://www.reddit.com/r/scala/comments/1ny6psu/make_illegal_ai_edits_unrepresentable/)
 - [Hearth 0.1.0 - the first release of a library that tries to make macros easier](https://www.reddit.com/r/scala/comments/1nwt7zd/hearth_010_the_first_release_of_a_library_that/)
-- [Event Journal Corruption Frequency — Looking for Insights](https://www.reddit.com/r/scala/comments/1nvrc9g/event_journal_corruption_frequency_looking_for/)
-- [Getting Zionomicon](https://www.reddit.com/r/scala/comments/1nvgaxd/getting_zionomicon/)
-- [ldbc v0.4.0 is out 🎉](https://www.reddit.com/r/scala/comments/1nu7et9/ldbc_v040_is_out/)
-- [This week in #Scala &lpar;Sep 29, 2025&rpar;](https://www.reddit.com/r/scala/comments/1ntnhv9/this_week_in_scala_sep_29_2025/)
-- [Is Metals autocomplete supposed to be that slow?](https://www.reddit.com/r/scala/comments/1ntc84o/is_metals_autocomplete_supposed_to_be_that_slow/)
-- [sbt 2.0.0-RC6 released](https://www.reddit.com/r/scala/comments/1ntbs5c/sbt_200rc6_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

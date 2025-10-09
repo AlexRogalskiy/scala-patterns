@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Built a Slack bot with ZIO - learned a ton about fiber interruption and WebSocket management](https://www.reddit.com/r/scala/comments/1o1j4fc/built_a_slack_bot_with_zio_learned_a_ton_about/)
 - [An Omakase-style PlayFramework Template: PlayFast](https://www.reddit.com/r/scala/comments/1o0lc2a/an_omakasestyle_playframework_template_playfast/)
 - [Scala 2/3 + Slick cursor based pagination library](https://www.reddit.com/r/scala/comments/1o085nx/scala_23_slick_cursor_based_pagination_library/)
 - [Scala 2.13.17 is here!](https://www.reddit.com/r/scala/comments/1o02uyc/scala_21317_is_here/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt 1.11.7 released](https://www.reddit.com/r/scala/comments/1nyza3e/sbt_1117_released/)
 - [How to run sbt tasks with custom settings](https://www.reddit.com/r/scala/comments/1nyvmiw/how_to_run_sbt_tasks_with_custom_settings/)
 - [Make Illegal AI Edits Unrepresentable](https://www.reddit.com/r/scala/comments/1ny6psu/make_illegal_ai_edits_unrepresentable/)
-- [Hearth 0.1.0 - the first release of a library that tries to make macros easier](https://www.reddit.com/r/scala/comments/1nwt7zd/hearth_010_the_first_release_of_a_library_that/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

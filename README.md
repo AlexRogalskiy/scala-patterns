@@ -271,8 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why domain knowledge is so important](https://www.reddit.com/r/scala/comments/1o2pbc2/why_domain_knowledge_is_so_important/)
 - [Hiring a new Scala Software Engineer with TypeLevel experience, Full Remote &lpar;$87K – $138K&rpar;](https://www.reddit.com/r/scala/comments/1o2cgby/hiring_a_new_scala_software_engineer_with/)
-- [I compiled the fundamentals of two big subjects, computers and electronics in two decks of playing cards. Check the last two images too [OC]](https://www.reddit.com/r/scala/comments/1o2cb06/i_compiled_the_fundamentals_of_two_big_subjects/)
 - [Built a Slack bot with ZIO - learned a ton about fiber interruption and WebSocket management](https://www.reddit.com/r/scala/comments/1o1j4fc/built_a_slack_bot_with_zio_learned_a_ton_about/)
 - [An Omakase-style PlayFramework Template: PlayFast](https://www.reddit.com/r/scala/comments/1o0lc2a/an_omakasestyle_playframework_template_playfast/)
 - [Scala 2/3 + Slick cursor based pagination library](https://www.reddit.com/r/scala/comments/1o085nx/scala_23_slick_cursor_based_pagination_library/)

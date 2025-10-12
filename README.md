@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Need help to choose either java or Scala](https://www.reddit.com/r/scala/comments/1o41eue/need_help_to_choose_either_java_or_scala/)
 - [Why domain knowledge is so important](https://www.reddit.com/r/scala/comments/1o2pbc2/why_domain_knowledge_is_so_important/)
 - [Hiring a new Scala Software Engineer with TypeLevel experience, Full Remote &lpar;$87K – $138K&rpar;](https://www.reddit.com/r/scala/comments/1o2cgby/hiring_a_new_scala_software_engineer_with/)
 - [Built a Slack bot with ZIO - learned a ton about fiber interruption and WebSocket management](https://www.reddit.com/r/scala/comments/1o1j4fc/built_a_slack_bot_with_zio_learned_a_ton_about/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Oct 6, 2025&rpar;](https://www.reddit.com/r/scala/comments/1nzkqqm/this_week_in_scala_oct_6_2025/)
 - [Is anyone else glad Scala doesn’t use a Hindley-Milner type system?](https://www.reddit.com/r/scala/comments/1nzirek/is_anyone_else_glad_scala_doesnt_use_a/)
 - [Fullstack &lpar;scala3+scalajs&rpar; stack recommendation](https://www.reddit.com/r/scala/comments/1nzgp05/fullstack_scala3scalajs_stack_recommendation/)
-- [sbt 1.11.7 released](https://www.reddit.com/r/scala/comments/1nyza3e/sbt_1117_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Hidden Risk in AI Code](https://www.reddit.com/r/scala/comments/1o608ox/the_hidden_risk_in_ai_code/)
+- [This week in #Scala &lpar;Oct 13, 2025&rpar;](https://www.reddit.com/r/scala/comments/1o5r4nw/this_week_in_scala_oct_13_2025/)
+- [[Announcement] Paper Presentation at ICFP/SPLASH 2025 – “Mentoring in the Scala Ecosystem” by Kannupriya Kalra](https://www.reddit.com/r/scala/comments/1o5g0wn/announcement_paper_presentation_at_icfpsplash/)
+- [Workflows4s Web UI: OSS Full Stack App Ready for Production](https://www.reddit.com/r/scala/comments/1o5fjhf/workflows4s_web_ui_oss_full_stack_app_ready_for/)
+- [Create laminar GQL app](https://www.reddit.com/r/scala/comments/1o51l93/create_laminar_gql_app/)
+- [incremental compilation of Scala 3](https://www.reddit.com/r/scala/comments/1o4koag/incremental_compilation_of_scala_3/)
 - [Need help to choose either java or Scala](https://www.reddit.com/r/scala/comments/1o41eue/need_help_to_choose_either_java_or_scala/)
 - [Why domain knowledge is so important](https://www.reddit.com/r/scala/comments/1o2pbc2/why_domain_knowledge_is_so_important/)
 - [Hiring a new Scala Software Engineer with TypeLevel experience, Full Remote &lpar;$87K – $138K&rpar;](https://www.reddit.com/r/scala/comments/1o2cgby/hiring_a_new_scala_software_engineer_with/)
 - [Built a Slack bot with ZIO - learned a ton about fiber interruption and WebSocket management](https://www.reddit.com/r/scala/comments/1o1j4fc/built_a_slack_bot_with_zio_learned_a_ton_about/)
-- [An Omakase-style PlayFramework Template: PlayFast](https://www.reddit.com/r/scala/comments/1o0lc2a/an_omakasestyle_playframework_template_playfast/)
-- [Scala 2/3 + Slick cursor based pagination library](https://www.reddit.com/r/scala/comments/1o085nx/scala_23_slick_cursor_based_pagination_library/)
-- [Scala 2.13.17 is here!](https://www.reddit.com/r/scala/comments/1o02uyc/scala_21317_is_here/)
-- [This week in #Scala &lpar;Oct 6, 2025&rpar;](https://www.reddit.com/r/scala/comments/1nzkqqm/this_week_in_scala_oct_6_2025/)
-- [Is anyone else glad Scala doesn’t use a Hindley-Milner type system?](https://www.reddit.com/r/scala/comments/1nzirek/is_anyone_else_glad_scala_doesnt_use_a/)
-- [Fullstack &lpar;scala3+scalajs&rpar; stack recommendation](https://www.reddit.com/r/scala/comments/1nzgp05/fullstack_scala3scalajs_stack_recommendation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

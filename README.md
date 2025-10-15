@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [The Hidden Risk in AI Code](https://www.reddit.com/r/scala/comments/1o608ox/the_hidden_risk_in_ai_code/)
+- [Simpler Build Tools with Functional and Object Oriented Programming, Scala Workshop 2025](https://www.reddit.com/r/scala/comments/1o6n82x/simpler_build_tools_with_functional_and_object/)
+- [LLM4S Dev Hour - Weekly Live Coding &amp; Collaboration &lpar;Open to All!&rpar;](https://www.reddit.com/r/scala/comments/1o6mkol/llm4s_dev_hour_weekly_live_coding_collaboration/)
+- [Laminar for React developers](https://www.reddit.com/r/scala/comments/1o6gqbl/laminar_for_react_developers/)
+- [Demystifying Scala 3 Types By Bill Venners](https://www.reddit.com/r/scala/comments/1o68h95/demystifying_scala_3_types_by_bill_venners/)
 - [This week in #Scala &lpar;Oct 13, 2025&rpar;](https://www.reddit.com/r/scala/comments/1o5r4nw/this_week_in_scala_oct_13_2025/)
 - [[Announcement] Paper Presentation at ICFP/SPLASH 2025 – “Mentoring in the Scala Ecosystem” by Kannupriya Kalra](https://www.reddit.com/r/scala/comments/1o5g0wn/announcement_paper_presentation_at_icfpsplash/)
 - [Workflows4s Web UI: OSS Full Stack App Ready for Production](https://www.reddit.com/r/scala/comments/1o5fjhf/workflows4s_web_ui_oss_full_stack_app_ready_for/)
 - [Create laminar GQL app](https://www.reddit.com/r/scala/comments/1o51l93/create_laminar_gql_app/)
 - [incremental compilation of Scala 3](https://www.reddit.com/r/scala/comments/1o4koag/incremental_compilation_of_scala_3/)
 - [Need help to choose either java or Scala](https://www.reddit.com/r/scala/comments/1o41eue/need_help_to_choose_either_java_or_scala/)
-- [Why domain knowledge is so important](https://www.reddit.com/r/scala/comments/1o2pbc2/why_domain_knowledge_is_so_important/)
-- [Hiring a new Scala Software Engineer with TypeLevel experience, Full Remote &lpar;$87K – $138K&rpar;](https://www.reddit.com/r/scala/comments/1o2cgby/hiring_a_new_scala_software_engineer_with/)
-- [Built a Slack bot with ZIO - learned a ton about fiber interruption and WebSocket management](https://www.reddit.com/r/scala/comments/1o1j4fc/built_a_slack_bot_with_zio_learned_a_ton_about/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

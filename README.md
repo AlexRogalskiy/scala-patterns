@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Effective Webapp Development Flow - 25h Sprint Retrospective](https://www.reddit.com/r/scala/comments/1o8nya0/effective_webapp_development_flow_25h_sprint/)
+- [Streaming for ScalaIO](https://www.reddit.com/r/scala/comments/1o7zbgk/streaming_for_scalaio/)
 - [Simpler Build Tools with Functional and Object Oriented Programming, Scala Workshop 2025](https://www.reddit.com/r/scala/comments/1o6n82x/simpler_build_tools_with_functional_and_object/)
 - [LLM4S Dev Hour - Weekly Live Coding &amp; Collaboration &lpar;Open to All!&rpar;](https://www.reddit.com/r/scala/comments/1o6mkol/llm4s_dev_hour_weekly_live_coding_collaboration/)
 - [Laminar for React developers](https://www.reddit.com/r/scala/comments/1o6gqbl/laminar_for_react_developers/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [[Announcement] Paper Presentation at ICFP/SPLASH 2025 – “Mentoring in the Scala Ecosystem” by Kannupriya Kalra](https://www.reddit.com/r/scala/comments/1o5g0wn/announcement_paper_presentation_at_icfpsplash/)
 - [Workflows4s Web UI: OSS Full Stack App Ready for Production](https://www.reddit.com/r/scala/comments/1o5fjhf/workflows4s_web_ui_oss_full_stack_app_ready_for/)
 - [Create laminar GQL app](https://www.reddit.com/r/scala/comments/1o51l93/create_laminar_gql_app/)
-- [incremental compilation of Scala 3](https://www.reddit.com/r/scala/comments/1o4koag/incremental_compilation_of_scala_3/)
-- [Need help to choose either java or Scala](https://www.reddit.com/r/scala/comments/1o41eue/need_help_to_choose_either_java_or_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

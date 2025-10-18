@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Godot + Scala + Mill](https://www.reddit.com/r/scala/comments/1o9gwcs/godot_scala_mill/)
+- [Why Most Apps Should Start as Monoliths](https://www.reddit.com/r/scala/comments/1o8s0oa/why_most_apps_should_start_as_monoliths/)
 - [Effective Webapp Development Flow - 25h Sprint Retrospective](https://www.reddit.com/r/scala/comments/1o8nya0/effective_webapp_development_flow_25h_sprint/)
 - [Streaming for ScalaIO](https://www.reddit.com/r/scala/comments/1o7zbgk/streaming_for_scalaio/)
 - [Simpler Build Tools with Functional and Object Oriented Programming, Scala Workshop 2025](https://www.reddit.com/r/scala/comments/1o6n82x/simpler_build_tools_with_functional_and_object/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Demystifying Scala 3 Types By Bill Venners](https://www.reddit.com/r/scala/comments/1o68h95/demystifying_scala_3_types_by_bill_venners/)
 - [This week in #Scala &lpar;Oct 13, 2025&rpar;](https://www.reddit.com/r/scala/comments/1o5r4nw/this_week_in_scala_oct_13_2025/)
 - [[Announcement] Paper Presentation at ICFP/SPLASH 2025 – “Mentoring in the Scala Ecosystem” by Kannupriya Kalra](https://www.reddit.com/r/scala/comments/1o5g0wn/announcement_paper_presentation_at_icfpsplash/)
-- [Workflows4s Web UI: OSS Full Stack App Ready for Production](https://www.reddit.com/r/scala/comments/1o5fjhf/workflows4s_web_ui_oss_full_stack_app_ready_for/)
-- [Create laminar GQL app](https://www.reddit.com/r/scala/comments/1o51l93/create_laminar_gql_app/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Hiring] Senior Scala Engineer Opportunity with Disney Streaming](https://www.reddit.com/r/scala/comments/1ob1pbt/hiring_senior_scala_engineer_opportunity_with/)
+- [The Power of Small Objects in Software Design](https://www.reddit.com/r/scala/comments/1oahvoh/the_power_of_small_objects_in_software_design/)
 - [testkit for zio-test v1.0.4 released](https://www.reddit.com/r/scala/comments/1oaemo7/testkit_for_ziotest_v104_released/)
 - [Godot + Scala + Mill](https://www.reddit.com/r/scala/comments/1o9gwcs/godot_scala_mill/)
 - [Why Most Apps Should Start as Monoliths](https://www.reddit.com/r/scala/comments/1o8s0oa/why_most_apps_should_start_as_monoliths/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Simpler Build Tools with Functional and Object Oriented Programming, Scala Workshop 2025](https://www.reddit.com/r/scala/comments/1o6n82x/simpler_build_tools_with_functional_and_object/)
 - [LLM4S Dev Hour - Weekly Live Coding &amp; Collaboration &lpar;Open to All!&rpar;](https://www.reddit.com/r/scala/comments/1o6mkol/llm4s_dev_hour_weekly_live_coding_collaboration/)
 - [Laminar for React developers](https://www.reddit.com/r/scala/comments/1o6gqbl/laminar_for_react_developers/)
-- [Demystifying Scala 3 Types By Bill Venners](https://www.reddit.com/r/scala/comments/1o68h95/demystifying_scala_3_types_by_bill_venners/)
-- [This week in #Scala &lpar;Oct 13, 2025&rpar;](https://www.reddit.com/r/scala/comments/1o5r4nw/this_week_in_scala_oct_13_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

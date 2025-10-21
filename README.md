@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Oct 20, 2025&rpar;](https://www.reddit.com/r/scala/comments/1obo1is/this_week_in_scala_oct_20_2025/)
 - [[Hiring] Senior Scala Engineer Opportunity with Disney Streaming](https://www.reddit.com/r/scala/comments/1ob1pbt/hiring_senior_scala_engineer_opportunity_with/)
 - [The Power of Small Objects in Software Design](https://www.reddit.com/r/scala/comments/1oahvoh/the_power_of_small_objects_in_software_design/)
 - [testkit for zio-test v1.0.4 released](https://www.reddit.com/r/scala/comments/1oaemo7/testkit_for_ziotest_v104_released/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Streaming for ScalaIO](https://www.reddit.com/r/scala/comments/1o7zbgk/streaming_for_scalaio/)
 - [Simpler Build Tools with Functional and Object Oriented Programming, Scala Workshop 2025](https://www.reddit.com/r/scala/comments/1o6n82x/simpler_build_tools_with_functional_and_object/)
 - [LLM4S Dev Hour - Weekly Live Coding &amp; Collaboration &lpar;Open to All!&rpar;](https://www.reddit.com/r/scala/comments/1o6mkol/llm4s_dev_hour_weekly_live_coding_collaboration/)
-- [Laminar for React developers](https://www.reddit.com/r/scala/comments/1o6gqbl/laminar_for_react_developers/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

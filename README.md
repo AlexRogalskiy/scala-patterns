@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Chimney 2.0.0-M2 released](https://www.reddit.com/r/scala/comments/1ocomzf/chimney_200m2_released/)
+- [Skuber - typed &amp; async Kubernetes client for Scala &lpar;with Scala 3.2 support&rpar;](https://www.reddit.com/r/scala/comments/1oc6n9q/skuber_typed_async_kubernetes_client_for_scala/)
 - [This week in #Scala &lpar;Oct 20, 2025&rpar;](https://www.reddit.com/r/scala/comments/1obo1is/this_week_in_scala_oct_20_2025/)
 - [[Hiring] Senior Scala Engineer Opportunity with Disney Streaming](https://www.reddit.com/r/scala/comments/1ob1pbt/hiring_senior_scala_engineer_opportunity_with/)
 - [The Power of Small Objects in Software Design](https://www.reddit.com/r/scala/comments/1oahvoh/the_power_of_small_objects_in_software_design/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Why Most Apps Should Start as Monoliths](https://www.reddit.com/r/scala/comments/1o8s0oa/why_most_apps_should_start_as_monoliths/)
 - [Effective Webapp Development Flow - 25h Sprint Retrospective](https://www.reddit.com/r/scala/comments/1o8nya0/effective_webapp_development_flow_25h_sprint/)
 - [Streaming for ScalaIO](https://www.reddit.com/r/scala/comments/1o7zbgk/streaming_for_scalaio/)
-- [Simpler Build Tools with Functional and Object Oriented Programming, Scala Workshop 2025](https://www.reddit.com/r/scala/comments/1o6n82x/simpler_build_tools_with_functional_and_object/)
-- [LLM4S Dev Hour - Weekly Live Coding &amp; Collaboration &lpar;Open to All!&rpar;](https://www.reddit.com/r/scala/comments/1o6mkol/llm4s_dev_hour_weekly_live_coding_collaboration/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

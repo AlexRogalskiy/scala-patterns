@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Detecting unused java object in scala?](https://www.reddit.com/r/scala/comments/1oeclhe/detecting_unused_java_object_in_scala/)
+- [[Hiring] Lead Front-end Scala.js @NuMind &lpar;numind.ai&rpar;, Paris, France](https://www.reddit.com/r/scala/comments/1oe9031/hiring_lead_frontend_scalajs_numind_numindai/)
 - [Chimney 2.0.0-M2 released](https://www.reddit.com/r/scala/comments/1ocomzf/chimney_200m2_released/)
 - [Skuber - typed &amp; async Kubernetes client for Scala &lpar;with Scala 3.2 support&rpar;](https://www.reddit.com/r/scala/comments/1oc6n9q/skuber_typed_async_kubernetes_client_for_scala/)
 - [This week in #Scala &lpar;Oct 20, 2025&rpar;](https://www.reddit.com/r/scala/comments/1obo1is/this_week_in_scala_oct_20_2025/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [testkit for zio-test v1.0.4 released](https://www.reddit.com/r/scala/comments/1oaemo7/testkit_for_ziotest_v104_released/)
 - [Godot + Scala + Mill](https://www.reddit.com/r/scala/comments/1o9gwcs/godot_scala_mill/)
 - [Why Most Apps Should Start as Monoliths](https://www.reddit.com/r/scala/comments/1o8s0oa/why_most_apps_should_start_as_monoliths/)
-- [Effective Webapp Development Flow - 25h Sprint Retrospective](https://www.reddit.com/r/scala/comments/1o8nya0/effective_webapp_development_flow_25h_sprint/)
-- [Streaming for ScalaIO](https://www.reddit.com/r/scala/comments/1o7zbgk/streaming_for_scalaio/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

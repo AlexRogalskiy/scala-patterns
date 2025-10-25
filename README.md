@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [New to scala - what do you use scala for?](https://www.reddit.com/r/scala/comments/1of97z0/new_to_scala_what_do_you_use_scala_for/)
+- [BOB 2026: Berlin, March 13 - Call open, Early tickets available](https://www.reddit.com/r/scala/comments/1of0ig3/bob_2026_berlin_march_13_call_open_early_tickets/)
+- [[Announcement] My mentor is going to talk at GenAI London on Oct 24 2025](https://www.reddit.com/r/scala/comments/1oexkzw/announcement_my_mentor_is_going_to_talk_at_genai/)
+- [Scala Plugin 2025.2.48 is out!](https://www.reddit.com/r/scala/comments/1oexix3/scala_plugin_2025248_is_out/)
+- [New User Question about Circe](https://www.reddit.com/r/scala/comments/1oeua8y/new_user_question_about_circe/)
 - [Detecting unused java object in scala?](https://www.reddit.com/r/scala/comments/1oeclhe/detecting_unused_java_object_in_scala/)
 - [[Hiring] Lead Front-end Scala.js @NuMind &lpar;numind.ai&rpar;, Paris, France](https://www.reddit.com/r/scala/comments/1oe9031/hiring_lead_frontend_scalajs_numind_numindai/)
 - [Chimney 2.0.0-M2 released](https://www.reddit.com/r/scala/comments/1ocomzf/chimney_200m2_released/)
 - [Skuber - typed &amp; async Kubernetes client for Scala &lpar;with Scala 3.2 support&rpar;](https://www.reddit.com/r/scala/comments/1oc6n9q/skuber_typed_async_kubernetes_client_for_scala/)
 - [This week in #Scala &lpar;Oct 20, 2025&rpar;](https://www.reddit.com/r/scala/comments/1obo1is/this_week_in_scala_oct_20_2025/)
-- [[Hiring] Senior Scala Engineer Opportunity with Disney Streaming](https://www.reddit.com/r/scala/comments/1ob1pbt/hiring_senior_scala_engineer_opportunity_with/)
-- [The Power of Small Objects in Software Design](https://www.reddit.com/r/scala/comments/1oahvoh/the_power_of_small_objects_in_software_design/)
-- [testkit for zio-test v1.0.4 released](https://www.reddit.com/r/scala/comments/1oaemo7/testkit_for_ziotest_v104_released/)
-- [Godot + Scala + Mill](https://www.reddit.com/r/scala/comments/1o9gwcs/godot_scala_mill/)
-- [Why Most Apps Should Start as Monoliths](https://www.reddit.com/r/scala/comments/1o8s0oa/why_most_apps_should_start_as_monoliths/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

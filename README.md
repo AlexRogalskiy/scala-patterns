@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Akka 2.7.0&#39;s license is now changed to Apache 2.0](https://www.reddit.com/r/scala/comments/1ogimch/akka_270s_license_is_now_changed_to_apache_20/)
 - [New to scala - what do you use scala for?](https://www.reddit.com/r/scala/comments/1of97z0/new_to_scala_what_do_you_use_scala_for/)
 - [BOB 2026: Berlin, March 13 - Call open, Early tickets available](https://www.reddit.com/r/scala/comments/1of0ig3/bob_2026_berlin_march_13_call_open_early_tickets/)
 - [[Announcement] My mentor is going to talk at GenAI London on Oct 24 2025](https://www.reddit.com/r/scala/comments/1oexkzw/announcement_my_mentor_is_going_to_talk_at_genai/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [[Hiring] Lead Front-end Scala.js @NuMind &lpar;numind.ai&rpar;, Paris, France](https://www.reddit.com/r/scala/comments/1oe9031/hiring_lead_frontend_scalajs_numind_numindai/)
 - [Chimney 2.0.0-M2 released](https://www.reddit.com/r/scala/comments/1ocomzf/chimney_200m2_released/)
 - [Skuber - typed &amp; async Kubernetes client for Scala &lpar;with Scala 3.2 support&rpar;](https://www.reddit.com/r/scala/comments/1oc6n9q/skuber_typed_async_kubernetes_client_for_scala/)
-- [This week in #Scala &lpar;Oct 20, 2025&rpar;](https://www.reddit.com/r/scala/comments/1obo1is/this_week_in_scala_oct_20_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

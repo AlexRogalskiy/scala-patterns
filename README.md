@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Hiring] Scala/Spark/AWS Engineers](https://www.reddit.com/r/scala/comments/1oijl8u/hiring_scalasparkaws_engineers/)
+- [AI Doom Predictions Are Overhyped | Why Programmers Aren’t Going Anywhere - Uncle Bob&#39;s take](https://www.reddit.com/r/scala/comments/1ohzarx/ai_doom_predictions_are_overhyped_why_programmers/)
 - [[Hiring] Senior Scala and Big Data experts on CONTRACT basis in EU or LATAM @ Zipline.ai](https://www.reddit.com/r/scala/comments/1ohsgx6/hiring_senior_scala_and_big_data_experts_on/)
 - [Hexagon of Doom - The Cost of Over-Abstraction and Indirection - also with ZIO](https://www.reddit.com/r/scala/comments/1ohrws6/hexagon_of_doom_the_cost_of_overabstraction_and/)
 - [This week in #Scala &lpar;Oct 27, 2025&rpar;](https://www.reddit.com/r/scala/comments/1ohjyes/this_week_in_scala_oct_27_2025/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Akka 2.7.0&#39;s license is now changed to Apache 2.0](https://www.reddit.com/r/scala/comments/1ogimch/akka_270s_license_is_now_changed_to_apache_20/)
 - [New to scala - what do you use scala for?](https://www.reddit.com/r/scala/comments/1of97z0/new_to_scala_what_do_you_use_scala_for/)
 - [BOB 2026: Berlin, March 13 - Call open, Early tickets available](https://www.reddit.com/r/scala/comments/1of0ig3/bob_2026_berlin_march_13_call_open_early_tickets/)
-- [[Announcement] My mentor is going to talk at GenAI London on Oct 24 2025](https://www.reddit.com/r/scala/comments/1oexkzw/announcement_my_mentor_is_going_to_talk_at_genai/)
-- [Scala Plugin 2025.2.48 is out!](https://www.reddit.com/r/scala/comments/1oexix3/scala_plugin_2025248_is_out/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

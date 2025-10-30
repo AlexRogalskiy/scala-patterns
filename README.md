@@ -271,8 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [🚀 Apache Fory 0.13.0 Released – Major New Features for Java, Plus Native Rust &amp; Python Serialization Powerhouse](https://www.reddit.com/r/scala/comments/1oj1guj/apache_fory_0130_released_major_new_features_for/)
 - [[Hiring] Scala/Spark/AWS Engineers](https://www.reddit.com/r/scala/comments/1oijl8u/hiring_scalasparkaws_engineers/)
-- [AI Doom Predictions Are Overhyped | Why Programmers Aren’t Going Anywhere - Uncle Bob&#39;s take](https://www.reddit.com/r/scala/comments/1ohzarx/ai_doom_predictions_are_overhyped_why_programmers/)
 - [[Hiring] Senior Scala and Big Data experts on CONTRACT basis in EU or LATAM @ Zipline.ai](https://www.reddit.com/r/scala/comments/1ohsgx6/hiring_senior_scala_and_big_data_experts_on/)
 - [Hexagon of Doom - The Cost of Over-Abstraction and Indirection - also with ZIO](https://www.reddit.com/r/scala/comments/1ohrws6/hexagon_of_doom_the_cost_of_overabstraction_and/)
 - [This week in #Scala &lpar;Oct 27, 2025&rpar;](https://www.reddit.com/r/scala/comments/1ohjyes/this_week_in_scala_oct_27_2025/)

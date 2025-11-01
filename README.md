@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3 / HOCON Parsing](https://www.reddit.com/r/scala/comments/1okokac/scala_3_hocon_parsing/)
 - [🚀 Apache Fory 0.13.0 Released – Major New Features for Java, Plus Native Rust &amp; Python Serialization Powerhouse](https://www.reddit.com/r/scala/comments/1oj1guj/apache_fory_0130_released_major_new_features_for/)
 - [[Hiring] Scala/Spark/AWS Engineers](https://www.reddit.com/r/scala/comments/1oijl8u/hiring_scalasparkaws_engineers/)
 - [[Hiring] Senior Scala and Big Data experts on CONTRACT basis in EU or LATAM @ Zipline.ai](https://www.reddit.com/r/scala/comments/1ohsgx6/hiring_senior_scala_and_big_data_experts_on/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala 3 / Match Types](https://www.reddit.com/r/scala/comments/1oh69ui/scala_3_match_types/)
 - [Akka 2.7.0&#39;s license is now changed to Apache 2.0](https://www.reddit.com/r/scala/comments/1ogimch/akka_270s_license_is_now_changed_to_apache_20/)
 - [New to scala - what do you use scala for?](https://www.reddit.com/r/scala/comments/1of97z0/new_to_scala_what_do_you_use_scala_for/)
-- [BOB 2026: Berlin, March 13 - Call open, Early tickets available](https://www.reddit.com/r/scala/comments/1of0ig3/bob_2026_berlin_march_13_call_open_early_tickets/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

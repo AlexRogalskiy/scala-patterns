@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A Scalafix rule to forbid the usage of specified packages, classes, methods, and enums.](https://www.reddit.com/r/scala/comments/1om4gdp/a_scalafix_rule_to_forbid_the_usage_of_specified/)
+- [Any typelevel/zio users using openai-scala-client](https://www.reddit.com/r/scala/comments/1oluq8p/any_typelevelzio_users_using_openaiscalaclient/)
+- [Sharaf 0.14.0 release](https://www.reddit.com/r/scala/comments/1olj7lo/sharaf_0140_release/)
+- [Streaming](https://www.reddit.com/r/scala/comments/1oliw12/streaming/)
 - [Scala 3 / HOCON Parsing](https://www.reddit.com/r/scala/comments/1okokac/scala_3_hocon_parsing/)
 - [🚀 Apache Fory 0.13.0 Released – Major New Features for Java, Plus Native Rust &amp; Python Serialization Powerhouse](https://www.reddit.com/r/scala/comments/1oj1guj/apache_fory_0130_released_major_new_features_for/)
 - [[Hiring] Scala/Spark/AWS Engineers](https://www.reddit.com/r/scala/comments/1oijl8u/hiring_scalasparkaws_engineers/)
 - [[Hiring] Senior Scala and Big Data experts on CONTRACT basis in EU or LATAM @ Zipline.ai](https://www.reddit.com/r/scala/comments/1ohsgx6/hiring_senior_scala_and_big_data_experts_on/)
 - [Hexagon of Doom - The Cost of Over-Abstraction and Indirection - also with ZIO](https://www.reddit.com/r/scala/comments/1ohrws6/hexagon_of_doom_the_cost_of_overabstraction_and/)
 - [This week in #Scala &lpar;Oct 27, 2025&rpar;](https://www.reddit.com/r/scala/comments/1ohjyes/this_week_in_scala_oct_27_2025/)
-- [etl4s 1.6.0 : Powerful, whiteboard-style ETL 🍰✨ Now with built-in tracing, telemetry, and pipeline visualization](https://www.reddit.com/r/scala/comments/1ohdkw5/etl4s_160_powerful_whiteboardstyle_etl_now_with/)
-- [Scala 3 / Match Types](https://www.reddit.com/r/scala/comments/1oh69ui/scala_3_match_types/)
-- [Akka 2.7.0&#39;s license is now changed to Apache 2.0](https://www.reddit.com/r/scala/comments/1ogimch/akka_270s_license_is_now_changed_to_apache_20/)
-- [New to scala - what do you use scala for?](https://www.reddit.com/r/scala/comments/1of97z0/new_to_scala_what_do_you_use_scala_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

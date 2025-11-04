@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Nov 3, 2025&rpar;](https://www.reddit.com/r/scala/comments/1onutjy/this_week_in_scala_nov_3_2025/)
+- [Sanely-automatic derivation - or how type class derivation works and why everyone else is doing it wrong](https://www.reddit.com/r/scala/comments/1onhe2s/sanelyautomatic_derivation_or_how_type_class/)
+- [We found an embedding indexing bottleneck in the most unexpected place: JSON parsing](https://www.reddit.com/r/scala/comments/1onh565/we_found_an_embedding_indexing_bottleneck_in_the/)
+- [Discord Server for Scala Project ideas and Community/Dev support and contributions!](https://www.reddit.com/r/scala/comments/1onf1rn/discord_server_for_scala_project_ideas_and/)
+- [Expecty 0.17.1 released](https://www.reddit.com/r/scala/comments/1on4nau/expecty_0171_released/)
 - [sbt 1.12.0-M1 released](https://www.reddit.com/r/scala/comments/1ombjgm/sbt_1120m1_released/)
 - [Scala vs F#](https://www.reddit.com/r/scala/comments/1om9ojl/scala_vs_f/)
 - [A Scalafix rule to forbid the usage of specified packages, classes, methods, and enums.](https://www.reddit.com/r/scala/comments/1om4gdp/a_scalafix_rule_to_forbid_the_usage_of_specified/)
 - [Any typelevel/zio users using openai-scala-client](https://www.reddit.com/r/scala/comments/1oluq8p/any_typelevelzio_users_using_openaiscalaclient/)
 - [Sharaf 0.14.0 release](https://www.reddit.com/r/scala/comments/1olj7lo/sharaf_0140_release/)
-- [Streaming](https://www.reddit.com/r/scala/comments/1oliw12/streaming/)
-- [Scala 3 / HOCON Parsing](https://www.reddit.com/r/scala/comments/1okokac/scala_3_hocon_parsing/)
-- [🚀 Apache Fory 0.13.0 Released – Major New Features for Java, Plus Native Rust &amp; Python Serialization Powerhouse](https://www.reddit.com/r/scala/comments/1oj1guj/apache_fory_0130_released_major_new_features_for/)
-- [[Hiring] Scala/Spark/AWS Engineers](https://www.reddit.com/r/scala/comments/1oijl8u/hiring_scalasparkaws_engineers/)
-- [[Hiring] Senior Scala and Big Data experts on CONTRACT basis in EU or LATAM @ Zipline.ai](https://www.reddit.com/r/scala/comments/1ohsgx6/hiring_senior_scala_and_big_data_experts_on/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

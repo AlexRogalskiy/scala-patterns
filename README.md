@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Mill 1.1.0-RC1 is out, with support for config-based modules and single-file scripts](https://www.reddit.com/r/scala/comments/1oopbu6/mill_110rc1_is_out_with_support_for_configbased/)
 - [This week in #Scala &lpar;Nov 3, 2025&rpar;](https://www.reddit.com/r/scala/comments/1onutjy/this_week_in_scala_nov_3_2025/)
 - [Sanely-automatic derivation - or how type class derivation works and why everyone else is doing it wrong](https://www.reddit.com/r/scala/comments/1onhe2s/sanelyautomatic_derivation_or_how_type_class/)
 - [We found an embedding indexing bottleneck in the most unexpected place: JSON parsing](https://www.reddit.com/r/scala/comments/1onh565/we_found_an_embedding_indexing_bottleneck_in_the/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala vs F#](https://www.reddit.com/r/scala/comments/1om9ojl/scala_vs_f/)
 - [A Scalafix rule to forbid the usage of specified packages, classes, methods, and enums.](https://www.reddit.com/r/scala/comments/1om4gdp/a_scalafix_rule_to_forbid_the_usage_of_specified/)
 - [Any typelevel/zio users using openai-scala-client](https://www.reddit.com/r/scala/comments/1oluq8p/any_typelevelzio_users_using_openaiscalaclient/)
-- [Sharaf 0.14.0 release](https://www.reddit.com/r/scala/comments/1olj7lo/sharaf_0140_release/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

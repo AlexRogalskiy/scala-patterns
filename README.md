@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Haoyi Li on Mill, Scala at Scale and Conference Touring](https://www.reddit.com/r/scala/comments/1opa3yb/haoyi_li_on_mill_scala_at_scale_and_conference/)
+- [Any recommended functional reactive programming libraries?](https://www.reddit.com/r/scala/comments/1oozjff/any_recommended_functional_reactive_programming/)
 - [Mill 1.1.0-RC1 is out, with support for config-based modules and single-file scripts](https://www.reddit.com/r/scala/comments/1oopbu6/mill_110rc1_is_out_with_support_for_configbased/)
 - [This week in #Scala &lpar;Nov 3, 2025&rpar;](https://www.reddit.com/r/scala/comments/1onutjy/this_week_in_scala_nov_3_2025/)
 - [Sanely-automatic derivation - or how type class derivation works and why everyone else is doing it wrong](https://www.reddit.com/r/scala/comments/1onhe2s/sanelyautomatic_derivation_or_how_type_class/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Expecty 0.17.1 released](https://www.reddit.com/r/scala/comments/1on4nau/expecty_0171_released/)
 - [sbt 1.12.0-M1 released](https://www.reddit.com/r/scala/comments/1ombjgm/sbt_1120m1_released/)
 - [Scala vs F#](https://www.reddit.com/r/scala/comments/1om9ojl/scala_vs_f/)
-- [A Scalafix rule to forbid the usage of specified packages, classes, methods, and enums.](https://www.reddit.com/r/scala/comments/1om4gdp/a_scalafix_rule_to_forbid_the_usage_of_specified/)
-- [Any typelevel/zio users using openai-scala-client](https://www.reddit.com/r/scala/comments/1oluq8p/any_typelevelzio_users_using_openaiscalaclient/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Directory/package structure in Mill projects](https://www.reddit.com/r/scala/comments/1oqgffe/directorypackage_structure_in_mill_projects/)
 - [Haoyi Li on Mill, Scala at Scale and Conference Touring](https://www.reddit.com/r/scala/comments/1opa3yb/haoyi_li_on_mill_scala_at_scale_and_conference/)
 - [Any recommended functional reactive programming libraries?](https://www.reddit.com/r/scala/comments/1oozjff/any_recommended_functional_reactive_programming/)
 - [Mill 1.1.0-RC1 is out, with support for config-based modules and single-file scripts](https://www.reddit.com/r/scala/comments/1oopbu6/mill_110rc1_is_out_with_support_for_configbased/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Discord Server for Scala Project ideas and Community/Dev support and contributions!](https://www.reddit.com/r/scala/comments/1onf1rn/discord_server_for_scala_project_ideas_and/)
 - [Expecty 0.17.1 released](https://www.reddit.com/r/scala/comments/1on4nau/expecty_0171_released/)
 - [sbt 1.12.0-M1 released](https://www.reddit.com/r/scala/comments/1ombjgm/sbt_1120m1_released/)
-- [Scala vs F#](https://www.reddit.com/r/scala/comments/1om9ojl/scala_vs_f/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

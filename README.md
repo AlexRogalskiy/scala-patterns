@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [toon4s: Token-Oriented Object Notation for Scala](https://www.reddit.com/r/scala/comments/1ors9l1/toon4s_tokenoriented_object_notation_for_scala/)
+- [Alexy Khrabrov interviews Guido on AI, Functional Programming, and Vibe Coding](https://www.reddit.com/r/scala/comments/1or3546/alexy_khrabrov_interviews_guido_on_ai_functional/)
 - [Directory/package structure in Mill projects](https://www.reddit.com/r/scala/comments/1oqgffe/directorypackage_structure_in_mill_projects/)
 - [Haoyi Li on Mill, Scala at Scale and Conference Touring](https://www.reddit.com/r/scala/comments/1opa3yb/haoyi_li_on_mill_scala_at_scale_and_conference/)
 - [Any recommended functional reactive programming libraries?](https://www.reddit.com/r/scala/comments/1oozjff/any_recommended_functional_reactive_programming/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Sanely-automatic derivation - or how type class derivation works and why everyone else is doing it wrong](https://www.reddit.com/r/scala/comments/1onhe2s/sanelyautomatic_derivation_or_how_type_class/)
 - [We found an embedding indexing bottleneck in the most unexpected place: JSON parsing](https://www.reddit.com/r/scala/comments/1onh565/we_found_an_embedding_indexing_bottleneck_in_the/)
 - [Discord Server for Scala Project ideas and Community/Dev support and contributions!](https://www.reddit.com/r/scala/comments/1onf1rn/discord_server_for_scala_project_ideas_and/)
-- [Expecty 0.17.1 released](https://www.reddit.com/r/scala/comments/1on4nau/expecty_0171_released/)
-- [sbt 1.12.0-M1 released](https://www.reddit.com/r/scala/comments/1ombjgm/sbt_1120m1_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Boston Area Scala Enthusiasts Meeting &lpar;Nov 17&rpar;](https://www.reddit.com/r/scala/comments/1ottesv/boston_area_scala_enthusiasts_meeting_nov_17/)
+- [Better explanation of what Business4s is](https://www.reddit.com/r/scala/comments/1otnl4r/better_explanation_of_what_business4s_is/)
+- [I wrote minimal Scaladex MCP server to search latest libraries](https://www.reddit.com/r/scala/comments/1ot7aep/i_wrote_minimal_scaladex_mcp_server_to_search/)
+- [Set up ClickHouse with PlayFramework, Slick, and Evolutions](https://www.reddit.com/r/scala/comments/1ostaiv/set_up_clickhouse_with_playframework_slick_and/)
+- [This week in #Scala &lpar;Nov 10, 2025&rpar;](https://www.reddit.com/r/scala/comments/1osn881/this_week_in_scala_nov_10_2025/)
 - [toon4s: Token-Oriented Object Notation for Scala](https://www.reddit.com/r/scala/comments/1ors9l1/toon4s_tokenoriented_object_notation_for_scala/)
 - [Alexy Khrabrov interviews Guido on AI, Functional Programming, and Vibe Coding](https://www.reddit.com/r/scala/comments/1or3546/alexy_khrabrov_interviews_guido_on_ai_functional/)
 - [Directory/package structure in Mill projects](https://www.reddit.com/r/scala/comments/1oqgffe/directorypackage_structure_in_mill_projects/)
 - [Haoyi Li on Mill, Scala at Scale and Conference Touring](https://www.reddit.com/r/scala/comments/1opa3yb/haoyi_li_on_mill_scala_at_scale_and_conference/)
 - [Any recommended functional reactive programming libraries?](https://www.reddit.com/r/scala/comments/1oozjff/any_recommended_functional_reactive_programming/)
-- [Mill 1.1.0-RC1 is out, with support for config-based modules and single-file scripts](https://www.reddit.com/r/scala/comments/1oopbu6/mill_110rc1_is_out_with_support_for_configbased/)
-- [This week in #Scala &lpar;Nov 3, 2025&rpar;](https://www.reddit.com/r/scala/comments/1onutjy/this_week_in_scala_nov_3_2025/)
-- [Sanely-automatic derivation - or how type class derivation works and why everyone else is doing it wrong](https://www.reddit.com/r/scala/comments/1onhe2s/sanelyautomatic_derivation_or_how_type_class/)
-- [We found an embedding indexing bottleneck in the most unexpected place: JSON parsing](https://www.reddit.com/r/scala/comments/1onh565/we_found_an_embedding_indexing_bottleneck_in_the/)
-- [Discord Server for Scala Project ideas and Community/Dev support and contributions!](https://www.reddit.com/r/scala/comments/1onf1rn/discord_server_for_scala_project_ideas_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

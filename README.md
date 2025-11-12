@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What totally sucks to me about Kotlin is that it will never let you forget about Java. Is Scala the same way?](https://www.reddit.com/r/scala/comments/1ou47ur/what_totally_sucks_to_me_about_kotlin_is_that_it/)
 - [Boston Area Scala Enthusiasts Meeting &lpar;Nov 17&rpar;](https://www.reddit.com/r/scala/comments/1ottesv/boston_area_scala_enthusiasts_meeting_nov_17/)
 - [Better explanation of what Business4s is](https://www.reddit.com/r/scala/comments/1otnl4r/better_explanation_of_what_business4s_is/)
 - [I wrote minimal Scaladex MCP server to search latest libraries](https://www.reddit.com/r/scala/comments/1ot7aep/i_wrote_minimal_scaladex_mcp_server_to_search/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Alexy Khrabrov interviews Guido on AI, Functional Programming, and Vibe Coding](https://www.reddit.com/r/scala/comments/1or3546/alexy_khrabrov_interviews_guido_on_ai_functional/)
 - [Directory/package structure in Mill projects](https://www.reddit.com/r/scala/comments/1oqgffe/directorypackage_structure_in_mill_projects/)
 - [Haoyi Li on Mill, Scala at Scale and Conference Touring](https://www.reddit.com/r/scala/comments/1opa3yb/haoyi_li_on_mill_scala_at_scale_and_conference/)
-- [Any recommended functional reactive programming libraries?](https://www.reddit.com/r/scala/comments/1oozjff/any_recommended_functional_reactive_programming/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

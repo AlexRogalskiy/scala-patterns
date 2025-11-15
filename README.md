@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Hiring] Scala Engineers with an interest in AI &lpar;London&rpar;](https://www.reddit.com/r/scala/comments/1owya5f/hiring_scala_engineers_with_an_interest_in_ai/)
+- [ZIO course - 10 lessons](https://www.reddit.com/r/scala/comments/1owspo9/zio_course_10_lessons/)
 - [kotlinc is getting a GraalVM compiled native image](https://www.reddit.com/r/scala/comments/1ow7b1q/kotlinc_is_getting_a_graalvm_compiled_native_image/)
 - [Just released Lohika 0.10.0. Generated Proofs are now presented at a higher-level.](https://www.reddit.com/r/scala/comments/1ow5ib8/just_released_lohika_0100_generated_proofs_are/)
-- [How do I load a scala code at runtime?](https://www.reddit.com/r/scala/comments/1ow3a4k/how_do_i_load_a_scala_code_at_runtime/)
 - [What totally sucks to me about Kotlin is that it will never let you forget about Java. Is Scala the same way?](https://www.reddit.com/r/scala/comments/1ou47ur/what_totally_sucks_to_me_about_kotlin_is_that_it/)
 - [Boston Area Scala Enthusiasts Meeting &lpar;Nov 17&rpar;](https://www.reddit.com/r/scala/comments/1ottesv/boston_area_scala_enthusiasts_meeting_nov_17/)
 - [Better explanation of what Business4s is](https://www.reddit.com/r/scala/comments/1otnl4r/better_explanation_of_what_business4s_is/)
 - [I wrote minimal Scaladex MCP server to search latest libraries](https://www.reddit.com/r/scala/comments/1ot7aep/i_wrote_minimal_scaladex_mcp_server_to_search/)
 - [Set up ClickHouse with PlayFramework, Slick, and Evolutions](https://www.reddit.com/r/scala/comments/1ostaiv/set_up_clickhouse_with_playframework_slick_and/)
 - [This week in #Scala &lpar;Nov 10, 2025&rpar;](https://www.reddit.com/r/scala/comments/1osn881/this_week_in_scala_nov_10_2025/)
-- [toon4s: Token-Oriented Object Notation for Scala](https://www.reddit.com/r/scala/comments/1ors9l1/toon4s_tokenoriented_object_notation_for_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Programming Languages in the Age of AI Agents](https://www.reddit.com/r/scala/comments/1oyfy4c/programming_languages_in_the_age_of_ai_agents/)
 - [Scala 3 / No Indent](https://www.reddit.com/r/scala/comments/1oy08j1/scala_3_no_indent/)
 - [dotty-cps-async 1.1.5](https://www.reddit.com/r/scala/comments/1oxvscq/dottycpsasync_115/)
 - [[Hiring] Scala Engineers with an interest in AI &lpar;London&rpar;](https://www.reddit.com/r/scala/comments/1owya5f/hiring_scala_engineers_with_an_interest_in_ai/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [What totally sucks to me about Kotlin is that it will never let you forget about Java. Is Scala the same way?](https://www.reddit.com/r/scala/comments/1ou47ur/what_totally_sucks_to_me_about_kotlin_is_that_it/)
 - [Boston Area Scala Enthusiasts Meeting &lpar;Nov 17&rpar;](https://www.reddit.com/r/scala/comments/1ottesv/boston_area_scala_enthusiasts_meeting_nov_17/)
 - [Better explanation of what Business4s is](https://www.reddit.com/r/scala/comments/1otnl4r/better_explanation_of_what_business4s_is/)
-- [I wrote minimal Scaladex MCP server to search latest libraries](https://www.reddit.com/r/scala/comments/1ot7aep/i_wrote_minimal_scaladex_mcp_server_to_search/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

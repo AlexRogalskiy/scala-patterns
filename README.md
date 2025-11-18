@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Combinatorial Interview Problems with Backtracking Solutions - From Imperative Procedural Programming to Declarative Functional Programming](https://www.reddit.com/r/scala/comments/1ozpa1y/combinatorial_interview_problems_with/)
+- [This week in #Scala &lpar;Nov 17, 2025&rpar;](https://www.reddit.com/r/scala/comments/1ozkhv1/this_week_in_scala_nov_17_2025/)
+- [layoutz 0.5.0 - tiny Scala DSL for beautiful console output &amp; Elm-style TUI&#39;s 🪶✨ &lpar;now w/ ANSI styling and a &quot;proper&quot; Elm-runtime: ticks, timers, custom subscriptions &amp; commands&rpar;](https://www.reddit.com/r/scala/comments/1ozhez8/layoutz_050_tiny_scala_dsl_for_beautiful_console/)
 - [Programming Languages in the Age of AI Agents](https://www.reddit.com/r/scala/comments/1oyfy4c/programming_languages_in_the_age_of_ai_agents/)
 - [Scala 3 / No Indent](https://www.reddit.com/r/scala/comments/1oy08j1/scala_3_no_indent/)
 - [dotty-cps-async 1.1.5](https://www.reddit.com/r/scala/comments/1oxvscq/dottycpsasync_115/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [ZIO course - 10 lessons](https://www.reddit.com/r/scala/comments/1owspo9/zio_course_10_lessons/)
 - [kotlinc is getting a GraalVM compiled native image](https://www.reddit.com/r/scala/comments/1ow7b1q/kotlinc_is_getting_a_graalvm_compiled_native_image/)
 - [Just released Lohika 0.10.0. Generated Proofs are now presented at a higher-level.](https://www.reddit.com/r/scala/comments/1ow5ib8/just_released_lohika_0100_generated_proofs_are/)
-- [What totally sucks to me about Kotlin is that it will never let you forget about Java. Is Scala the same way?](https://www.reddit.com/r/scala/comments/1ou47ur/what_totally_sucks_to_me_about_kotlin_is_that_it/)
-- [Boston Area Scala Enthusiasts Meeting &lpar;Nov 17&rpar;](https://www.reddit.com/r/scala/comments/1ottesv/boston_area_scala_enthusiasts_meeting_nov_17/)
-- [Better explanation of what Business4s is](https://www.reddit.com/r/scala/comments/1otnl4r/better_explanation_of_what_business4s_is/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

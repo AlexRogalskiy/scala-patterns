@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Adoption Tracker](https://www.reddit.com/r/scala/comments/1p16zop/scala_adoption_tracker/)
+- [Is there a way to lint for Try&lpar;&rpar;.get](https://www.reddit.com/r/scala/comments/1p15nhk/is_there_a_way_to_lint_for_tryget/)
+- [Polish based Scala Engineers](https://www.reddit.com/r/scala/comments/1p14fii/polish_based_scala_engineers/)
 - [Combinatorial Interview Problems with Backtracking Solutions - From Imperative Procedural Programming to Declarative Functional Programming](https://www.reddit.com/r/scala/comments/1ozpa1y/combinatorial_interview_problems_with/)
 - [This week in #Scala &lpar;Nov 17, 2025&rpar;](https://www.reddit.com/r/scala/comments/1ozkhv1/this_week_in_scala_nov_17_2025/)
 - [layoutz 0.5.0 - tiny Scala DSL for beautiful console output &amp; Elm-style TUI&#39;s 🪶✨ &lpar;now w/ ANSI styling and a &quot;proper&quot; Elm-runtime: ticks, timers, custom subscriptions &amp; commands&rpar;](https://www.reddit.com/r/scala/comments/1ozhez8/layoutz_050_tiny_scala_dsl_for_beautiful_console/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala 3 / No Indent](https://www.reddit.com/r/scala/comments/1oy08j1/scala_3_no_indent/)
 - [dotty-cps-async 1.1.5](https://www.reddit.com/r/scala/comments/1oxvscq/dottycpsasync_115/)
 - [[Hiring] Scala Engineers with an interest in AI &lpar;London&rpar;](https://www.reddit.com/r/scala/comments/1owya5f/hiring_scala_engineers_with_an_interest_in_ai/)
-- [ZIO course - 10 lessons](https://www.reddit.com/r/scala/comments/1owspo9/zio_course_10_lessons/)
-- [kotlinc is getting a GraalVM compiled native image](https://www.reddit.com/r/scala/comments/1ow7b1q/kotlinc_is_getting_a_graalvm_compiled_native_image/)
-- [Just released Lohika 0.10.0. Generated Proofs are now presented at a higher-level.](https://www.reddit.com/r/scala/comments/1ow5ib8/just_released_lohika_0100_generated_proofs_are/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

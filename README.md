@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hearth 0.2.0 released](https://www.reddit.com/r/scala/comments/1p27rwd/hearth_020_released/)
+- [A Cargo-like build tool for Scala, written in Rust and built on top of scala-cli.](https://www.reddit.com/r/scala/comments/1p235rq/a_cargolike_build_tool_for_scala_written_in_rust/)
+- [Pekko Core 1.3.0 released](https://www.reddit.com/r/scala/comments/1p1z3sb/pekko_core_130_released/)
 - [Scala Adoption Tracker](https://www.reddit.com/r/scala/comments/1p16zop/scala_adoption_tracker/)
 - [Is there a way to lint for Try&lpar;&rpar;.get](https://www.reddit.com/r/scala/comments/1p15nhk/is_there_a_way_to_lint_for_tryget/)
 - [Polish based Scala Engineers](https://www.reddit.com/r/scala/comments/1p14fii/polish_based_scala_engineers/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Nov 17, 2025&rpar;](https://www.reddit.com/r/scala/comments/1ozkhv1/this_week_in_scala_nov_17_2025/)
 - [layoutz 0.5.0 - tiny Scala DSL for beautiful console output &amp; Elm-style TUI&#39;s 🪶✨ &lpar;now w/ ANSI styling and a &quot;proper&quot; Elm-runtime: ticks, timers, custom subscriptions &amp; commands&rpar;](https://www.reddit.com/r/scala/comments/1ozhez8/layoutz_050_tiny_scala_dsl_for_beautiful_console/)
 - [Programming Languages in the Age of AI Agents](https://www.reddit.com/r/scala/comments/1oyfy4c/programming_languages_in_the_age_of_ai_agents/)
-- [Scala 3 / No Indent](https://www.reddit.com/r/scala/comments/1oy08j1/scala_3_no_indent/)
-- [dotty-cps-async 1.1.5](https://www.reddit.com/r/scala/comments/1oxvscq/dottycpsasync_115/)
-- [[Hiring] Scala Engineers with an interest in AI &lpar;London&rpar;](https://www.reddit.com/r/scala/comments/1owya5f/hiring_scala_engineers_with_an_interest_in_ai/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

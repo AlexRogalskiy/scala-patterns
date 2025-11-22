@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Future of Scala](https://www.reddit.com/r/scala/comments/1p2ykjd/future_of_scala/)
+- [Any materials to understand monadic automatons](https://www.reddit.com/r/scala/comments/1p2r31p/any_materials_to_understand_monadic_automatons/)
+- [[Hiring] Looking for Scala Devs to create AI Training Data. $120 / hour](https://www.reddit.com/r/scala/comments/1p2qzxf/hiring_looking_for_scala_devs_to_create_ai/)
 - [Hearth 0.2.0 released](https://www.reddit.com/r/scala/comments/1p27rwd/hearth_020_released/)
 - [A Cargo-like build tool for Scala, written in Rust and built on top of scala-cli.](https://www.reddit.com/r/scala/comments/1p235rq/a_cargolike_build_tool_for_scala_written_in_rust/)
 - [Pekko Core 1.3.0 released](https://www.reddit.com/r/scala/comments/1p1z3sb/pekko_core_130_released/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Is there a way to lint for Try&lpar;&rpar;.get](https://www.reddit.com/r/scala/comments/1p15nhk/is_there_a_way_to_lint_for_tryget/)
 - [Polish based Scala Engineers](https://www.reddit.com/r/scala/comments/1p14fii/polish_based_scala_engineers/)
 - [Combinatorial Interview Problems with Backtracking Solutions - From Imperative Procedural Programming to Declarative Functional Programming](https://www.reddit.com/r/scala/comments/1ozpa1y/combinatorial_interview_problems_with/)
-- [This week in #Scala &lpar;Nov 17, 2025&rpar;](https://www.reddit.com/r/scala/comments/1ozkhv1/this_week_in_scala_nov_17_2025/)
-- [layoutz 0.5.0 - tiny Scala DSL for beautiful console output &amp; Elm-style TUI&#39;s 🪶✨ &lpar;now w/ ANSI styling and a &quot;proper&quot; Elm-runtime: ticks, timers, custom subscriptions &amp; commands&rpar;](https://www.reddit.com/r/scala/comments/1ozhez8/layoutz_050_tiny_scala_dsl_for_beautiful_console/)
-- [Programming Languages in the Age of AI Agents](https://www.reddit.com/r/scala/comments/1oyfy4c/programming_languages_in_the_age_of_ai_agents/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Advent of Code 2025](https://www.reddit.com/r/scala/comments/1p54030/advent_of_code_2025/)
+- [Miss Scala 3 so much when writing Java!](https://www.reddit.com/r/scala/comments/1p4imyh/miss_scala_3_so_much_when_writing_java/)
 - [Scala 3 Named Tuples: why does a method that takes a single named tuple accept multiple arguments?](https://www.reddit.com/r/scala/comments/1p497hy/scala_3_named_tuples_why_does_a_method_that_takes/)
 - [Does Skunk not support VARCHAR&lpar;n&rpar; with a length in Postgres, i.e varchar&lpar;255&rpar; ?](https://www.reddit.com/r/scala/comments/1p3r9s6/does_skunk_not_support_varcharn_with_a_length_in/)
 - [Future of Scala](https://www.reddit.com/r/scala/comments/1p2ykjd/future_of_scala/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Hearth 0.2.0 released](https://www.reddit.com/r/scala/comments/1p27rwd/hearth_020_released/)
 - [A Cargo-like build tool for Scala, written in Rust and built on top of scala-cli.](https://www.reddit.com/r/scala/comments/1p235rq/a_cargolike_build_tool_for_scala_written_in_rust/)
 - [Pekko Core 1.3.0 released](https://www.reddit.com/r/scala/comments/1p1z3sb/pekko_core_130_released/)
-- [Scala Adoption Tracker](https://www.reddit.com/r/scala/comments/1p16zop/scala_adoption_tracker/)
-- [Is there a way to lint for Try&lpar;&rpar;.get](https://www.reddit.com/r/scala/comments/1p15nhk/is_there_a_way_to_lint_for_tryget/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

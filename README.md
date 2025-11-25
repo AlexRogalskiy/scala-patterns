@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Nov 24, 2025&rpar;](https://www.reddit.com/r/scala/comments/1p5qqrs/this_week_in_scala_nov_24_2025/)
+- [Scala 2.13.18 is here](https://www.reddit.com/r/scala/comments/1p5pzt0/scala_21318_is_here/)
+- [Rock the JVM Black Friday offer](https://www.reddit.com/r/scala/comments/1p5hqmy/rock_the_jvm_black_friday_offer/)
+- [I put a real search engine into a Lambda, so you only pay when you search](https://www.reddit.com/r/scala/comments/1p5gnpb/i_put_a_real_search_engine_into_a_lambda_so_you/)
 - [Advent of Code 2025](https://www.reddit.com/r/scala/comments/1p54030/advent_of_code_2025/)
 - [Miss Scala 3 so much when writing Java!](https://www.reddit.com/r/scala/comments/1p4imyh/miss_scala_3_so_much_when_writing_java/)
 - [Scala 3 Named Tuples: why does a method that takes a single named tuple accept multiple arguments?](https://www.reddit.com/r/scala/comments/1p497hy/scala_3_named_tuples_why_does_a_method_that_takes/)
 - [Does Skunk not support VARCHAR&lpar;n&rpar; with a length in Postgres, i.e varchar&lpar;255&rpar; ?](https://www.reddit.com/r/scala/comments/1p3r9s6/does_skunk_not_support_varcharn_with_a_length_in/)
 - [Future of Scala](https://www.reddit.com/r/scala/comments/1p2ykjd/future_of_scala/)
 - [Any materials to understand monadic automatons](https://www.reddit.com/r/scala/comments/1p2r31p/any_materials_to_understand_monadic_automatons/)
-- [[Hiring] Looking for Scala Devs to create AI Training Data. $120 / hour](https://www.reddit.com/r/scala/comments/1p2qzxf/hiring_looking_for_scala_devs_to_create_ai/)
-- [Hearth 0.2.0 released](https://www.reddit.com/r/scala/comments/1p27rwd/hearth_020_released/)
-- [A Cargo-like build tool for Scala, written in Rust and built on top of scala-cli.](https://www.reddit.com/r/scala/comments/1p235rq/a_cargolike_build_tool_for_scala_written_in_rust/)
-- [Pekko Core 1.3.0 released](https://www.reddit.com/r/scala/comments/1p1z3sb/pekko_core_130_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

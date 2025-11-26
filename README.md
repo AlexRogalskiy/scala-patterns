@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Mocking java.time.Instant.now&lpar;&rpar; in PlayFramework](https://www.reddit.com/r/scala/comments/1p6lb4z/mocking_javatimeinstantnow_in_playframework/)
+- [sbt 1.12.0-M2 released](https://www.reddit.com/r/scala/comments/1p65kge/sbt_1120m2_released/)
 - [This week in #Scala &lpar;Nov 24, 2025&rpar;](https://www.reddit.com/r/scala/comments/1p5qqrs/this_week_in_scala_nov_24_2025/)
 - [Scala 2.13.18 is here](https://www.reddit.com/r/scala/comments/1p5pzt0/scala_21318_is_here/)
 - [Rock the JVM Black Friday offer](https://www.reddit.com/r/scala/comments/1p5hqmy/rock_the_jvm_black_friday_offer/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Miss Scala 3 so much when writing Java!](https://www.reddit.com/r/scala/comments/1p4imyh/miss_scala_3_so_much_when_writing_java/)
 - [Scala 3 Named Tuples: why does a method that takes a single named tuple accept multiple arguments?](https://www.reddit.com/r/scala/comments/1p497hy/scala_3_named_tuples_why_does_a_method_that_takes/)
 - [Does Skunk not support VARCHAR&lpar;n&rpar; with a length in Postgres, i.e varchar&lpar;255&rpar; ?](https://www.reddit.com/r/scala/comments/1p3r9s6/does_skunk_not_support_varcharn_with_a_length_in/)
-- [Future of Scala](https://www.reddit.com/r/scala/comments/1p2ykjd/future_of_scala/)
-- [Any materials to understand monadic automatons](https://www.reddit.com/r/scala/comments/1p2r31p/any_materials_to_understand_monadic_automatons/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

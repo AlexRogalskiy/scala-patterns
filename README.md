@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I can&#39;t execute shell commands with os-lib](https://www.reddit.com/r/scala/comments/1p92aol/i_cant_execute_shell_commands_with_oslib/)
+- [sudori part 8: no-op compilation performance](https://www.reddit.com/r/scala/comments/1p88kqs/sudori_part_8_noop_compilation_performance/)
+- [squish-find-the-brains: Nix wrapper for SBT with lockfile-based dependency management](https://www.reddit.com/r/scala/comments/1p80d61/squishfindthebrains_nix_wrapper_for_sbt_with/)
+- [Showcase: I built a high-concurrency Fraud Detection Engine using http4s + Cats Effect &lpar;Source Available&rpar;](https://www.reddit.com/r/scala/comments/1p7xbco/showcase_i_built_a_highconcurrency_fraud/)
 - [Am I Using the Cats library Incorrectly? &lpar;First Time Trying Concurrency!&rpar;](https://www.reddit.com/r/scala/comments/1p7k25i/am_i_using_the_cats_library_incorrectly_first/)
 - [Scala Days 2025: Conference Highlights and Talk Recordings](https://www.reddit.com/r/scala/comments/1p79j2f/scala_days_2025_conference_highlights_and_talk/)
 - [sbt 2.0.0-RC7 released](https://www.reddit.com/r/scala/comments/1p71n3v/sbt_200rc7_released/)
 - [Super excited with Rock the JVM bundle](https://www.reddit.com/r/scala/comments/1p6ye3q/super_excited_with_rock_the_jvm_bundle/)
 - [Mocking java.time.Instant.now&lpar;&rpar; in PlayFramework](https://www.reddit.com/r/scala/comments/1p6lb4z/mocking_javatimeinstantnow_in_playframework/)
 - [sbt 1.12.0-M2 released](https://www.reddit.com/r/scala/comments/1p65kge/sbt_1120m2_released/)
-- [This week in #Scala &lpar;Nov 24, 2025&rpar;](https://www.reddit.com/r/scala/comments/1p5qqrs/this_week_in_scala_nov_24_2025/)
-- [Scala 2.13.18 is here](https://www.reddit.com/r/scala/comments/1p5pzt0/scala_21318_is_here/)
-- [Rock the JVM Black Friday offer](https://www.reddit.com/r/scala/comments/1p5hqmy/rock_the_jvm_black_friday_offer/)
-- [I put a real search engine into a Lambda, so you only pay when you search](https://www.reddit.com/r/scala/comments/1p5gnpb/i_put_a_real_search_engine_into_a_lambda_so_you/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

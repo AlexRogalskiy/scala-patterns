@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Martin Odersky on Virtual Threads: &quot;That&#39;s just imperative.&quot;](https://www.reddit.com/r/scala/comments/1p9u9fb/martin_odersky_on_virtual_threads_thats_just/)
+- [Upcoming Talk: LLM4S &amp; Reliable GenAI for the JVM &lpar;Scala Community&rpar; : Kannupriya Kalra and team at Oaisys Conf 2025](https://www.reddit.com/r/scala/comments/1p9ovvk/upcoming_talk_llm4s_reliable_genai_for_the_jvm/)
 - [I can&#39;t execute shell commands with os-lib](https://www.reddit.com/r/scala/comments/1p92aol/i_cant_execute_shell_commands_with_oslib/)
 - [sudori part 8: no-op compilation performance](https://www.reddit.com/r/scala/comments/1p88kqs/sudori_part_8_noop_compilation_performance/)
 - [squish-find-the-brains: Nix wrapper for SBT with lockfile-based dependency management](https://www.reddit.com/r/scala/comments/1p80d61/squishfindthebrains_nix_wrapper_for_sbt_with/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Days 2025: Conference Highlights and Talk Recordings](https://www.reddit.com/r/scala/comments/1p79j2f/scala_days_2025_conference_highlights_and_talk/)
 - [sbt 2.0.0-RC7 released](https://www.reddit.com/r/scala/comments/1p71n3v/sbt_200rc7_released/)
 - [Super excited with Rock the JVM bundle](https://www.reddit.com/r/scala/comments/1p6ye3q/super_excited_with_rock_the_jvm_bundle/)
-- [Mocking java.time.Instant.now&lpar;&rpar; in PlayFramework](https://www.reddit.com/r/scala/comments/1p6lb4z/mocking_javatimeinstantnow_in_playframework/)
-- [sbt 1.12.0-M2 released](https://www.reddit.com/r/scala/comments/1p65kge/sbt_1120m2_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

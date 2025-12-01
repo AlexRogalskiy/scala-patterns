@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Dec 1, 2025&rpar;](https://www.reddit.com/r/scala/comments/1paq95n/this_week_in_scala_dec_1_2025/)
+- [How can I generate a new scala 3 mill project?](https://www.reddit.com/r/scala/comments/1paelsd/how_can_i_generate_a_new_scala_3_mill_project/)
+- [Parámetros implícitos en Scala 3: given y using](https://www.reddit.com/r/scala/comments/1pa87vq/parámetros_implícitos_en_scala_3_given_y_using/)
 - [Martin Odersky on Virtual Threads: &quot;That&#39;s just imperative.&quot;](https://www.reddit.com/r/scala/comments/1p9u9fb/martin_odersky_on_virtual_threads_thats_just/)
 - [Upcoming Talk: LLM4S &amp; Reliable GenAI for the JVM &lpar;Scala Community&rpar; : Kannupriya Kalra and team at Oaisys Conf 2025](https://www.reddit.com/r/scala/comments/1p9ovvk/upcoming_talk_llm4s_reliable_genai_for_the_jvm/)
 - [I can&#39;t execute shell commands with os-lib](https://www.reddit.com/r/scala/comments/1p92aol/i_cant_execute_shell_commands_with_oslib/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [squish-find-the-brains: Nix wrapper for SBT with lockfile-based dependency management](https://www.reddit.com/r/scala/comments/1p80d61/squishfindthebrains_nix_wrapper_for_sbt_with/)
 - [Showcase: I built a high-concurrency Fraud Detection Engine using http4s + Cats Effect &lpar;Source Available&rpar;](https://www.reddit.com/r/scala/comments/1p7xbco/showcase_i_built_a_highconcurrency_fraud/)
 - [Am I Using the Cats library Incorrectly? &lpar;First Time Trying Concurrency!&rpar;](https://www.reddit.com/r/scala/comments/1p7k25i/am_i_using_the_cats_library_incorrectly_first/)
-- [Scala Days 2025: Conference Highlights and Talk Recordings](https://www.reddit.com/r/scala/comments/1p79j2f/scala_days_2025_conference_highlights_and_talk/)
-- [sbt 2.0.0-RC7 released](https://www.reddit.com/r/scala/comments/1p71n3v/sbt_200rc7_released/)
-- [Super excited with Rock the JVM bundle](https://www.reddit.com/r/scala/comments/1p6ye3q/super_excited_with_rock_the_jvm_bundle/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

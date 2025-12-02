@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[Hiring] Devs to create coding tasks that AI can&#39;t solve, $120+/hr](https://www.reddit.com/r/scala/comments/1pbsllq/hiring_devs_to_create_coding_tasks_that_ai_cant/)
+- [Minimalistic type-based dependency injection: new version with fixed flaw.](https://www.reddit.com/r/scala/comments/1pbmeqg/minimalistic_typebased_dependency_injection_new/)
 - [This week in #Scala &lpar;Dec 1, 2025&rpar;](https://www.reddit.com/r/scala/comments/1paq95n/this_week_in_scala_dec_1_2025/)
 - [How can I generate a new scala 3 mill project?](https://www.reddit.com/r/scala/comments/1paelsd/how_can_i_generate_a_new_scala_3_mill_project/)
 - [Parámetros implícitos en Scala 3: given y using](https://www.reddit.com/r/scala/comments/1pa87vq/parámetros_implícitos_en_scala_3_given_y_using/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [I can&#39;t execute shell commands with os-lib](https://www.reddit.com/r/scala/comments/1p92aol/i_cant_execute_shell_commands_with_oslib/)
 - [sudori part 8: no-op compilation performance](https://www.reddit.com/r/scala/comments/1p88kqs/sudori_part_8_noop_compilation_performance/)
 - [squish-find-the-brains: Nix wrapper for SBT with lockfile-based dependency management](https://www.reddit.com/r/scala/comments/1p80d61/squishfindthebrains_nix_wrapper_for_sbt_with/)
-- [Showcase: I built a high-concurrency Fraud Detection Engine using http4s + Cats Effect &lpar;Source Available&rpar;](https://www.reddit.com/r/scala/comments/1p7xbco/showcase_i_built_a_highconcurrency_fraud/)
-- [Am I Using the Cats library Incorrectly? &lpar;First Time Trying Concurrency!&rpar;](https://www.reddit.com/r/scala/comments/1p7k25i/am_i_using_the_cats_library_incorrectly_first/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

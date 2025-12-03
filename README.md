@@ -271,7 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [[Hiring] Devs to create coding tasks that AI can&#39;t solve, $120+/hr](https://www.reddit.com/r/scala/comments/1pbsllq/hiring_devs_to_create_coding_tasks_that_ai_cant/)
+- [Spark 4.X / Scala 2.13.X on AWS EMR](https://www.reddit.com/r/scala/comments/1pckj18/spark_4x_scala_213x_on_aws_emr/)
+- [IntelliJ IDEA x Scala: The Debugger &lpar;Part 2&rpar;](https://www.reddit.com/r/scala/comments/1pc98m1/intellij_idea_x_scala_the_debugger_part_2/)
+- [How do I add scalafix in mill?](https://www.reddit.com/r/scala/comments/1pc4rxu/how_do_i_add_scalafix_in_mill/)
 - [Minimalistic type-based dependency injection: new version with fixed flaw.](https://www.reddit.com/r/scala/comments/1pbmeqg/minimalistic_typebased_dependency_injection_new/)
 - [This week in #Scala &lpar;Dec 1, 2025&rpar;](https://www.reddit.com/r/scala/comments/1paq95n/this_week_in_scala_dec_1_2025/)
 - [How can I generate a new scala 3 mill project?](https://www.reddit.com/r/scala/comments/1paelsd/how_can_i_generate_a_new_scala_3_mill_project/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Martin Odersky on Virtual Threads: &quot;That&#39;s just imperative.&quot;](https://www.reddit.com/r/scala/comments/1p9u9fb/martin_odersky_on_virtual_threads_thats_just/)
 - [Upcoming Talk: LLM4S &amp; Reliable GenAI for the JVM &lpar;Scala Community&rpar; : Kannupriya Kalra and team at Oaisys Conf 2025](https://www.reddit.com/r/scala/comments/1p9ovvk/upcoming_talk_llm4s_reliable_genai_for_the_jvm/)
 - [I can&#39;t execute shell commands with os-lib](https://www.reddit.com/r/scala/comments/1p92aol/i_cant_execute_shell_commands_with_oslib/)
-- [sudori part 8: no-op compilation performance](https://www.reddit.com/r/scala/comments/1p88kqs/sudori_part_8_noop_compilation_performance/)
-- [squish-find-the-brains: Nix wrapper for SBT with lockfile-based dependency management](https://www.reddit.com/r/scala/comments/1p80d61/squishfindthebrains_nix_wrapper_for_sbt_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

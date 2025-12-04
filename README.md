@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala is good for modeling but not much else for high performance AI, also my thoughts on Scala Native](https://www.reddit.com/r/scala/comments/1pdkcqy/scala_is_good_for_modeling_but_not_much_else_for/)
+- [Circe making Metals slow?](https://www.reddit.com/r/scala/comments/1pdhtom/circe_making_metals_slow/)
+- [Advent of Code 2025, Day 2 in Scala: Probably the most Absurdly Over-engineered Convolution &lpar;featuring a useless Bi-Zipper&rpar;.](https://www.reddit.com/r/scala/comments/1pd99ff/advent_of_code_2025_day_2_in_scala_probably_the/)
 - [Spark 4.X / Scala 2.13.X on AWS EMR](https://www.reddit.com/r/scala/comments/1pckj18/spark_4x_scala_213x_on_aws_emr/)
 - [IntelliJ IDEA x Scala: The Debugger &lpar;Part 2&rpar;](https://www.reddit.com/r/scala/comments/1pc98m1/intellij_idea_x_scala_the_debugger_part_2/)
 - [How do I add scalafix in mill?](https://www.reddit.com/r/scala/comments/1pc4rxu/how_do_i_add_scalafix_in_mill/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Dec 1, 2025&rpar;](https://www.reddit.com/r/scala/comments/1paq95n/this_week_in_scala_dec_1_2025/)
 - [How can I generate a new scala 3 mill project?](https://www.reddit.com/r/scala/comments/1paelsd/how_can_i_generate_a_new_scala_3_mill_project/)
 - [Parámetros implícitos en Scala 3: given y using](https://www.reddit.com/r/scala/comments/1pa87vq/parámetros_implícitos_en_scala_3_given_y_using/)
-- [Martin Odersky on Virtual Threads: &quot;That&#39;s just imperative.&quot;](https://www.reddit.com/r/scala/comments/1p9u9fb/martin_odersky_on_virtual_threads_thats_just/)
-- [Upcoming Talk: LLM4S &amp; Reliable GenAI for the JVM &lpar;Scala Community&rpar; : Kannupriya Kalra and team at Oaisys Conf 2025](https://www.reddit.com/r/scala/comments/1p9ovvk/upcoming_talk_llm4s_reliable_genai_for_the_jvm/)
-- [I can&#39;t execute shell commands with os-lib](https://www.reddit.com/r/scala/comments/1p92aol/i_cant_execute_shell_commands_with_oslib/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

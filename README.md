@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Apache Fory Serialization 0.13.2 Released](https://www.reddit.com/r/scala/comments/1pe6hkn/apache_fory_serialization_0132_released/)
+- [Understanding Capture Checking in Scala](https://www.reddit.com/r/scala/comments/1pe3c8k/understanding_capture_checking_in_scala/)
+- [To Effect or Not to Effect - a Scala Perspective by Daniel Ciocîrlan @FuncProgConf](https://www.reddit.com/r/scala/comments/1pdtqro/to_effect_or_not_to_effect_a_scala_perspective_by/)
+- [Why Scala should ditch GC....](https://www.reddit.com/r/scala/comments/1pdrvad/why_scala_should_ditch_gc/)
 - [Scala is good for modeling but not much else for high performance AI, also my thoughts on Scala Native](https://www.reddit.com/r/scala/comments/1pdkcqy/scala_is_good_for_modeling_but_not_much_else_for/)
 - [Circe making Metals slow?](https://www.reddit.com/r/scala/comments/1pdhtom/circe_making_metals_slow/)
 - [Advent of Code 2025, Day 2 in Scala: Probably the most Absurdly Over-engineered Convolution &lpar;featuring a useless Bi-Zipper&rpar;.](https://www.reddit.com/r/scala/comments/1pd99ff/advent_of_code_2025_day_2_in_scala_probably_the/)
 - [Spark 4.X / Scala 2.13.X on AWS EMR](https://www.reddit.com/r/scala/comments/1pckj18/spark_4x_scala_213x_on_aws_emr/)
 - [IntelliJ IDEA x Scala: The Debugger &lpar;Part 2&rpar;](https://www.reddit.com/r/scala/comments/1pc98m1/intellij_idea_x_scala_the_debugger_part_2/)
 - [How do I add scalafix in mill?](https://www.reddit.com/r/scala/comments/1pc4rxu/how_do_i_add_scalafix_in_mill/)
-- [Minimalistic type-based dependency injection: new version with fixed flaw.](https://www.reddit.com/r/scala/comments/1pbmeqg/minimalistic_typebased_dependency_injection_new/)
-- [This week in #Scala &lpar;Dec 1, 2025&rpar;](https://www.reddit.com/r/scala/comments/1paq95n/this_week_in_scala_dec_1_2025/)
-- [How can I generate a new scala 3 mill project?](https://www.reddit.com/r/scala/comments/1paelsd/how_can_i_generate_a_new_scala_3_mill_project/)
-- [Parámetros implícitos en Scala 3: given y using](https://www.reddit.com/r/scala/comments/1pa87vq/parámetros_implícitos_en_scala_3_given_y_using/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

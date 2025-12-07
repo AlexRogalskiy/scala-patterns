@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Talk at Samsung Semiconductor &lpar;San Jose&rpar;: Functional Intelligence / Scala for scalable AI systems](https://www.reddit.com/r/scala/comments/1pg5fn0/talk_at_samsung_semiconductor_san_jose_functional/)
+- [How to use `jsoniter-scala-circe`?](https://www.reddit.com/r/scala/comments/1pfs20b/how_to_use_jsoniterscalacirce/)
 - [Save your Scala apps from the LazyValpocalypse!](https://www.reddit.com/r/scala/comments/1pf9ie2/save_your_scala_apps_from_the_lazyvalpocalypse/)
 - [How do you track cost per stage for Apache Spark in production?](https://www.reddit.com/r/scala/comments/1pevz40/how_do_you_track_cost_per_stage_for_apache_spark/)
 - [Is there an ammonite alternative to programmatically run a REPL?](https://www.reddit.com/r/scala/comments/1peuyj4/is_there_an_ammonite_alternative_to/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Understanding Capture Checking in Scala](https://www.reddit.com/r/scala/comments/1pe3c8k/understanding_capture_checking_in_scala/)
 - [To Effect or Not to Effect - a Scala Perspective by Daniel Ciocîrlan @FuncProgConf](https://www.reddit.com/r/scala/comments/1pdtqro/to_effect_or_not_to_effect_a_scala_perspective_by/)
 - [Why Scala should ditch GC....](https://www.reddit.com/r/scala/comments/1pdrvad/why_scala_should_ditch_gc/)
-- [Scala is good for modeling but not much else for high performance AI, also my thoughts on Scala Native](https://www.reddit.com/r/scala/comments/1pdkcqy/scala_is_good_for_modeling_but_not_much_else_for/)
-- [Circe making Metals slow?](https://www.reddit.com/r/scala/comments/1pdhtom/circe_making_metals_slow/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

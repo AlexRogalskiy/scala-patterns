@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Dec 8, 2025&rpar;](https://www.reddit.com/r/scala/comments/1pgu8p6/this_week_in_scala_dec_8_2025/)
+- [[OC][WIP] Surov-3: A Configurable Superscalar RISC-V Core in SpinalHDL](https://www.reddit.com/r/scala/comments/1pgk5qu/ocwip_surov3_a_configurable_superscalar_riscv/)
 - [Talk at Samsung Semiconductor &lpar;San Jose&rpar;: Functional Intelligence / Scala for scalable AI systems](https://www.reddit.com/r/scala/comments/1pg5fn0/talk_at_samsung_semiconductor_san_jose_functional/)
 - [How to use `jsoniter-scala-circe`?](https://www.reddit.com/r/scala/comments/1pfs20b/how_to_use_jsoniterscalacirce/)
 - [Save your Scala apps from the LazyValpocalypse!](https://www.reddit.com/r/scala/comments/1pf9ie2/save_your_scala_apps_from_the_lazyvalpocalypse/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Laminar components inside React](https://www.reddit.com/r/scala/comments/1pen159/laminar_components_inside_react/)
 - [Apache Fory Serialization 0.13.2 Released](https://www.reddit.com/r/scala/comments/1pe6hkn/apache_fory_serialization_0132_released/)
 - [Understanding Capture Checking in Scala](https://www.reddit.com/r/scala/comments/1pe3c8k/understanding_capture_checking_in_scala/)
-- [To Effect or Not to Effect - a Scala Perspective by Daniel Ciocîrlan @FuncProgConf](https://www.reddit.com/r/scala/comments/1pdtqro/to_effect_or_not_to_effect_a_scala_perspective_by/)
-- [Why Scala should ditch GC....](https://www.reddit.com/r/scala/comments/1pdrvad/why_scala_should_ditch_gc/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

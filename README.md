@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How many returns should a function have](https://www.reddit.com/r/scala/comments/1pio586/how_many_returns_should_a_function_have/)
+- [scala-pgp-bootstrap: Tiny script bootstraps PGP key for your first release to Maven Central](https://www.reddit.com/r/scala/comments/1pib2vp/scalapgpbootstrap_tiny_script_bootstraps_pgp_key/)
 - [IntelliJ Scala Plugin 2025.3 is out!](https://www.reddit.com/r/scala/comments/1phbw24/intellij_scala_plugin_20253_is_out/)
 - [Scala 3 slowed us down?](https://www.reddit.com/r/scala/comments/1ph3v9k/scala_3_slowed_us_down/)
 - [This week in #Scala &lpar;Dec 8, 2025&rpar;](https://www.reddit.com/r/scala/comments/1pgu8p6/this_week_in_scala_dec_8_2025/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to use `jsoniter-scala-circe`?](https://www.reddit.com/r/scala/comments/1pfs20b/how_to_use_jsoniterscalacirce/)
 - [Save your Scala apps from the LazyValpocalypse!](https://www.reddit.com/r/scala/comments/1pf9ie2/save_your_scala_apps_from_the_lazyvalpocalypse/)
 - [How do you track cost per stage for Apache Spark in production?](https://www.reddit.com/r/scala/comments/1pevz40/how_do_you_track_cost_per_stage_for_apache_spark/)
-- [Is there an ammonite alternative to programmatically run a REPL?](https://www.reddit.com/r/scala/comments/1peuyj4/is_there_an_ammonite_alternative_to/)
-- [Laminar components inside React](https://www.reddit.com/r/scala/comments/1pen159/laminar_components_inside_react/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

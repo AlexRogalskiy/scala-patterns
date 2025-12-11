@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [LightDB 4.12.0 Released](https://www.reddit.com/r/scala/comments/1pj7yl6/lightdb_4120_released/)
+- [Pekko 2.0.0 M1 just released](https://www.reddit.com/r/scala/comments/1pizvx2/pekko_200_m1_just_released/)
 - [How many returns should a function have](https://www.reddit.com/r/scala/comments/1pio586/how_many_returns_should_a_function_have/)
 - [scala-pgp-bootstrap: Tiny script bootstraps PGP key for your first release to Maven Central](https://www.reddit.com/r/scala/comments/1pib2vp/scalapgpbootstrap_tiny_script_bootstraps_pgp_key/)
 - [IntelliJ Scala Plugin 2025.3 is out!](https://www.reddit.com/r/scala/comments/1phbw24/intellij_scala_plugin_20253_is_out/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [[OC][WIP] Surov-3: A Configurable Superscalar RISC-V Core in SpinalHDL](https://www.reddit.com/r/scala/comments/1pgk5qu/ocwip_surov3_a_configurable_superscalar_riscv/)
 - [Talk at Samsung Semiconductor &lpar;San Jose&rpar;: Functional Intelligence / Scala for scalable AI systems](https://www.reddit.com/r/scala/comments/1pg5fn0/talk_at_samsung_semiconductor_san_jose_functional/)
 - [How to use `jsoniter-scala-circe`?](https://www.reddit.com/r/scala/comments/1pfs20b/how_to_use_jsoniterscalacirce/)
-- [Save your Scala apps from the LazyValpocalypse!](https://www.reddit.com/r/scala/comments/1pf9ie2/save_your_scala_apps_from_the_lazyvalpocalypse/)
-- [How do you track cost per stage for Apache Spark in production?](https://www.reddit.com/r/scala/comments/1pevz40/how_do_you_track_cost_per_stage_for_apache_spark/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

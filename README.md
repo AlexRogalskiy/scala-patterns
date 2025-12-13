@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala reload 2025: AI，chip and DSL &lpar;202512&rpar;&lpar;hybrid meetup&rpar;](https://www.reddit.com/r/scala/comments/1pkug5k/scala_reload_2025_aichip_and_dsl_202512hybrid/)
+- [How should I use swing with ZIO?](https://www.reddit.com/r/scala/comments/1pknn3i/how_should_i_use_swing_with_zio/)
+- [Baku - better separation of Tapir definitions from server and security logic.](https://www.reddit.com/r/scala/comments/1pkl1ac/baku_better_separation_of_tapir_definitions_from/)
 - [Dallas Scala Enthusiasts is now The Scala Hangout on Heylo](https://www.reddit.com/r/scala/comments/1pketzq/dallas_scala_enthusiasts_is_now_the_scala_hangout/)
 - [Scala 2.12.21 is here](https://www.reddit.com/r/scala/comments/1pka56c/scala_21221_is_here/)
 - [LightDB 4.12.0 Released](https://www.reddit.com/r/scala/comments/1pj7yl6/lightdb_4120_released/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [scala-pgp-bootstrap: Tiny script bootstraps PGP key for your first release to Maven Central](https://www.reddit.com/r/scala/comments/1pib2vp/scalapgpbootstrap_tiny_script_bootstraps_pgp_key/)
 - [IntelliJ Scala Plugin 2025.3 is out!](https://www.reddit.com/r/scala/comments/1phbw24/intellij_scala_plugin_20253_is_out/)
 - [Scala 3 slowed us down?](https://www.reddit.com/r/scala/comments/1ph3v9k/scala_3_slowed_us_down/)
-- [This week in #Scala &lpar;Dec 8, 2025&rpar;](https://www.reddit.com/r/scala/comments/1pgu8p6/this_week_in_scala_dec_8_2025/)
-- [[OC][WIP] Surov-3: A Configurable Superscalar RISC-V Core in SpinalHDL](https://www.reddit.com/r/scala/comments/1pgk5qu/ocwip_surov3_a_configurable_superscalar_riscv/)
-- [Talk at Samsung Semiconductor &lpar;San Jose&rpar;: Functional Intelligence / Scala for scalable AI systems](https://www.reddit.com/r/scala/comments/1pg5fn0/talk_at_samsung_semiconductor_san_jose_functional/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

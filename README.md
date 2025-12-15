@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Performance of C/C++ vs Scala](https://www.reddit.com/r/scala/comments/1pmv0nk/performance_of_cc_vs_scala/)
+- [Slaying Floating-Point Dragons: My Journey from Ryu to Schubfach to XJB](https://www.reddit.com/r/scala/comments/1pmqw3y/slaying_floatingpoint_dragons_my_journey_from_ryu/)
+- [This week in #Scala &lpar;Dec 15, 2025&rpar;](https://www.reddit.com/r/scala/comments/1pmgrvm/this_week_in_scala_dec_15_2025/)
 - [Scala reload 2025: AI，chip and DSL &lpar;202512&rpar;&lpar;hybrid meetup&rpar;](https://www.reddit.com/r/scala/comments/1pkug5k/scala_reload_2025_aichip_and_dsl_202512hybrid/)
 - [How should I use swing with ZIO?](https://www.reddit.com/r/scala/comments/1pknn3i/how_should_i_use_swing_with_zio/)
 - [Baku - better separation of Tapir definitions from server and security logic.](https://www.reddit.com/r/scala/comments/1pkl1ac/baku_better_separation_of_tapir_definitions_from/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala 2.12.21 is here](https://www.reddit.com/r/scala/comments/1pka56c/scala_21221_is_here/)
 - [LightDB 4.12.0 Released](https://www.reddit.com/r/scala/comments/1pj7yl6/lightdb_4120_released/)
 - [Pekko 2.0.0 M1 just released](https://www.reddit.com/r/scala/comments/1pizvx2/pekko_200_m1_just_released/)
-- [scala-pgp-bootstrap: Tiny script bootstraps PGP key for your first release to Maven Central](https://www.reddit.com/r/scala/comments/1pib2vp/scalapgpbootstrap_tiny_script_bootstraps_pgp_key/)
-- [IntelliJ Scala Plugin 2025.3 is out!](https://www.reddit.com/r/scala/comments/1phbw24/intellij_scala_plugin_20253_is_out/)
-- [Scala 3 slowed us down?](https://www.reddit.com/r/scala/comments/1ph3v9k/scala_3_slowed_us_down/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [A New Scala Ethos - Scala Days 2025 talk by Daniel Ciocîrlan](https://www.reddit.com/r/scala/comments/1pnfms6/a_new_scala_ethos_scala_days_2025_talk_by_daniel/)
+- [Part II of Combinatorial Interview Problems with Backtracking Solutions - From Imperative Procedural Programming to Declarative Functional Programming](https://www.reddit.com/r/scala/comments/1pndxqn/part_ii_of_combinatorial_interview_problems_with/)
+- [Advent of Code 2025 in Scala &lpar;Solutions&rpar;](https://www.reddit.com/r/scala/comments/1pn7wqa/advent_of_code_2025_in_scala_solutions/)
+- [Just released Lohika v0.11.0. The main update was the removal of the steps that did not contribute to the conclusions of the proofs.](https://www.reddit.com/r/scala/comments/1pn7un4/just_released_lohika_v0110_the_main_update_was/)
+- [Extent of memoization in Scala?](https://www.reddit.com/r/scala/comments/1pn2srg/extent_of_memoization_in_scala/)
+- [Live reloading on JVM](https://www.reddit.com/r/scala/comments/1pn26fa/live_reloading_on_jvm/)
+- [Why does Scala does not enforce the &quot;implementation&quot; of abstract type members?](https://www.reddit.com/r/scala/comments/1pn25bx/why_does_scala_does_not_enforce_the/)
 - [Performance of C/C++ vs Scala](https://www.reddit.com/r/scala/comments/1pmv0nk/performance_of_cc_vs_scala/)
 - [Slaying Floating-Point Dragons: My Journey from Ryu to Schubfach to XJB](https://www.reddit.com/r/scala/comments/1pmqw3y/slaying_floatingpoint_dragons_my_journey_from_ryu/)
 - [This week in #Scala &lpar;Dec 15, 2025&rpar;](https://www.reddit.com/r/scala/comments/1pmgrvm/this_week_in_scala_dec_15_2025/)
-- [Scala reload 2025: AI，chip and DSL &lpar;202512&rpar;&lpar;hybrid meetup&rpar;](https://www.reddit.com/r/scala/comments/1pkug5k/scala_reload_2025_aichip_and_dsl_202512hybrid/)
-- [How should I use swing with ZIO?](https://www.reddit.com/r/scala/comments/1pknn3i/how_should_i_use_swing_with_zio/)
-- [Baku - better separation of Tapir definitions from server and security logic.](https://www.reddit.com/r/scala/comments/1pkl1ac/baku_better_separation_of_tapir_definitions_from/)
-- [Dallas Scala Enthusiasts is now The Scala Hangout on Heylo](https://www.reddit.com/r/scala/comments/1pketzq/dallas_scala_enthusiasts_is_now_the_scala_hangout/)
-- [Scala 2.12.21 is here](https://www.reddit.com/r/scala/comments/1pka56c/scala_21221_is_here/)
-- [LightDB 4.12.0 Released](https://www.reddit.com/r/scala/comments/1pj7yl6/lightdb_4120_released/)
-- [Pekko 2.0.0 M1 just released](https://www.reddit.com/r/scala/comments/1pizvx2/pekko_200_m1_just_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

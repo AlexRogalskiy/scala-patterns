@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Make delightful web apps with Scala and Krop!](https://www.reddit.com/r/scala/comments/1po5foa/make_delightful_web_apps_with_scala_and_krop/)
+- [BOB 2026 &lpar;Berlin, March 13&rpar;: Program up, tickets available](https://www.reddit.com/r/scala/comments/1pnxzvv/bob_2026_berlin_march_13_program_up_tickets/)
+- [Interested in moving to Japan as Scala dev, any advice?](https://www.reddit.com/r/scala/comments/1pns74i/interested_in_moving_to_japan_as_scala_dev_any/)
 - [A New Scala Ethos - Scala Days 2025 talk by Daniel Ciocîrlan](https://www.reddit.com/r/scala/comments/1pnfms6/a_new_scala_ethos_scala_days_2025_talk_by_daniel/)
 - [Part II of Combinatorial Interview Problems with Backtracking Solutions - From Imperative Procedural Programming to Declarative Functional Programming](https://www.reddit.com/r/scala/comments/1pndxqn/part_ii_of_combinatorial_interview_problems_with/)
 - [Advent of Code 2025 in Scala &lpar;Solutions&rpar;](https://www.reddit.com/r/scala/comments/1pn7wqa/advent_of_code_2025_in_scala_solutions/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Extent of memoization in Scala?](https://www.reddit.com/r/scala/comments/1pn2srg/extent_of_memoization_in_scala/)
 - [Live reloading on JVM](https://www.reddit.com/r/scala/comments/1pn26fa/live_reloading_on_jvm/)
 - [Why does Scala does not enforce the &quot;implementation&quot; of abstract type members?](https://www.reddit.com/r/scala/comments/1pn25bx/why_does_scala_does_not_enforce_the/)
-- [Performance of C/C++ vs Scala](https://www.reddit.com/r/scala/comments/1pmv0nk/performance_of_cc_vs_scala/)
-- [Slaying Floating-Point Dragons: My Journey from Ryu to Schubfach to XJB](https://www.reddit.com/r/scala/comments/1pmqw3y/slaying_floatingpoint_dragons_my_journey_from_ryu/)
-- [This week in #Scala &lpar;Dec 15, 2025&rpar;](https://www.reddit.com/r/scala/comments/1pmgrvm/this_week_in_scala_dec_15_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

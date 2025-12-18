@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [How many returns should a function have?](https://www.reddit.com/r/scala/comments/1pon6dc/how_many_returns_should_a_function_have/)
 - [Make delightful web apps with Scala and Krop!](https://www.reddit.com/r/scala/comments/1po5foa/make_delightful_web_apps_with_scala_and_krop/)
 - [BOB 2026 &lpar;Berlin, March 13&rpar;: Program up, tickets available](https://www.reddit.com/r/scala/comments/1pnxzvv/bob_2026_berlin_march_13_program_up_tickets/)
 - [Interested in moving to Japan as Scala dev, any advice?](https://www.reddit.com/r/scala/comments/1pns74i/interested_in_moving_to_japan_as_scala_dev_any/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Just released Lohika v0.11.0. The main update was the removal of the steps that did not contribute to the conclusions of the proofs.](https://www.reddit.com/r/scala/comments/1pn7un4/just_released_lohika_v0110_the_main_update_was/)
 - [Extent of memoization in Scala?](https://www.reddit.com/r/scala/comments/1pn2srg/extent_of_memoization_in_scala/)
 - [Live reloading on JVM](https://www.reddit.com/r/scala/comments/1pn26fa/live_reloading_on_jvm/)
-- [Why does Scala does not enforce the &quot;implementation&quot; of abstract type members?](https://www.reddit.com/r/scala/comments/1pn25bx/why_does_scala_does_not_enforce_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

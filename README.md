@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 1.12.0-RC1 released](https://www.reddit.com/r/scala/comments/1pr82dt/sbt_1120rc1_released/)
 - [How to Scala3&#39;s type system for strongly typed &quot;result sets&quot;](https://www.reddit.com/r/scala/comments/1pq5ef2/how_to_scala3s_type_system_for_strongly_typed/)
 - [Scala native should expand on the no gc option](https://www.reddit.com/r/scala/comments/1pq5e7h/scala_native_should_expand_on_the_no_gc_option/)
 - [Scala native should expand on the no gc option](https://www.reddit.com/r/scala/comments/1pq5dr2/scala_native_should_expand_on_the_no_gc_option/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Interested in moving to Japan as Scala dev, any advice?](https://www.reddit.com/r/scala/comments/1pns74i/interested_in_moving_to_japan_as_scala_dev_any/)
 - [A New Scala Ethos - Scala Days 2025 talk by Daniel Ciocîrlan](https://www.reddit.com/r/scala/comments/1pnfms6/a_new_scala_ethos_scala_days_2025_talk_by_daniel/)
 - [Part II of Combinatorial Interview Problems with Backtracking Solutions - From Imperative Procedural Programming to Declarative Functional Programming](https://www.reddit.com/r/scala/comments/1pndxqn/part_ii_of_combinatorial_interview_problems_with/)
-- [Advent of Code 2025 in Scala &lpar;Solutions&rpar;](https://www.reddit.com/r/scala/comments/1pn7wqa/advent_of_code_2025_in_scala_solutions/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

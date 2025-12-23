@@ -276,11 +276,11 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to Scala3&#39;s type system for strongly typed &quot;result sets&quot;](https://www.reddit.com/r/scala/comments/1pq5ef2/how_to_scala3s_type_system_for_strongly_typed/)
 - [Scala native should expand on the no gc option](https://www.reddit.com/r/scala/comments/1pq5e7h/scala_native_should_expand_on_the_no_gc_option/)
 - [Scala native should expand on the no gc option](https://www.reddit.com/r/scala/comments/1pq5dr2/scala_native_should_expand_on_the_no_gc_option/)
-- [How many returns should a function have?](https://www.reddit.com/r/scala/comments/1pon6dc/how_many_returns_should_a_function_have/)
 - [Make delightful web apps with Scala and Krop!](https://www.reddit.com/r/scala/comments/1po5foa/make_delightful_web_apps_with_scala_and_krop/)
 - [BOB 2026 &lpar;Berlin, March 13&rpar;: Program up, tickets available](https://www.reddit.com/r/scala/comments/1pnxzvv/bob_2026_berlin_march_13_program_up_tickets/)
 - [Interested in moving to Japan as Scala dev, any advice?](https://www.reddit.com/r/scala/comments/1pns74i/interested_in_moving_to_japan_as_scala_dev_any/)
 - [A New Scala Ethos - Scala Days 2025 talk by Daniel Ciocîrlan](https://www.reddit.com/r/scala/comments/1pnfms6/a_new_scala_ethos_scala_days_2025_talk_by_daniel/)
+- [Part II of Combinatorial Interview Problems with Backtracking Solutions - From Imperative Procedural Programming to Declarative Functional Programming](https://www.reddit.com/r/scala/comments/1pndxqn/part_ii_of_combinatorial_interview_problems_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

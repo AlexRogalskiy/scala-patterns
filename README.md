@@ -271,7 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Ways to compile Scala code into X?](https://www.reddit.com/r/scala/comments/1pvai0j/ways_to_compile_scala_code_into_x/)
+- [The Compiler Is Your Best Friend, Stop Lying to It](https://www.reddit.com/r/scala/comments/1pvv7rf/the_compiler_is_your_best_friend_stop_lying_to_it/)
 - [This week in #Scala &lpar;Dec 22, 2025&rpar;](https://www.reddit.com/r/scala/comments/1pseb4q/this_week_in_scala_dec_22_2025/)
 - [sbt 1.12.0-RC1 released](https://www.reddit.com/r/scala/comments/1pr82dt/sbt_1120rc1_released/)
 - [How to Scala3&#39;s type system for strongly typed &quot;result sets&quot;](https://www.reddit.com/r/scala/comments/1pq5ef2/how_to_scala3s_type_system_for_strongly_typed/)

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [dotty-cps-async 1.2.0 with a typeclass for custom preprocessing of code inside monad brackets.](https://www.reddit.com/r/scala/comments/1pxzjp0/dottycpsasync_120_with_a_typeclass_for_custom/)
+- [The hidden power of Scala&#39;s Opaque Types](https://www.reddit.com/r/scala/comments/1pxww9t/the_hidden_power_of_scalas_opaque_types/)
+- [ldbc v0.5.0 is out 🎉](https://www.reddit.com/r/scala/comments/1pxq4hl/ldbc_v050_is_out/)
 - [The Compiler Is Your Best Friend, Stop Lying to It](https://www.reddit.com/r/scala/comments/1pvv7rf/the_compiler_is_your_best_friend_stop_lying_to_it/)
 - [This week in #Scala &lpar;Dec 22, 2025&rpar;](https://www.reddit.com/r/scala/comments/1pseb4q/this_week_in_scala_dec_22_2025/)
 - [sbt 1.12.0-RC1 released](https://www.reddit.com/r/scala/comments/1pr82dt/sbt_1120rc1_released/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala native should expand on the no gc option](https://www.reddit.com/r/scala/comments/1pq5e7h/scala_native_should_expand_on_the_no_gc_option/)
 - [Scala native should expand on the no gc option](https://www.reddit.com/r/scala/comments/1pq5dr2/scala_native_should_expand_on_the_no_gc_option/)
 - [Make delightful web apps with Scala and Krop!](https://www.reddit.com/r/scala/comments/1po5foa/make_delightful_web_apps_with_scala_and_krop/)
-- [BOB 2026 &lpar;Berlin, March 13&rpar;: Program up, tickets available](https://www.reddit.com/r/scala/comments/1pnxzvv/bob_2026_berlin_march_13_program_up_tickets/)
-- [Interested in moving to Japan as Scala dev, any advice?](https://www.reddit.com/r/scala/comments/1pns74i/interested_in_moving_to_japan_as_scala_dev_any/)
-- [A New Scala Ethos - Scala Days 2025 talk by Daniel Ciocîrlan](https://www.reddit.com/r/scala/comments/1pnfms6/a_new_scala_ethos_scala_days_2025_talk_by_daniel/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

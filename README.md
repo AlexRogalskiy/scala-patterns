@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [chanterelle 0.1.2 - now with support for ad-hoc-ish field name transformations](https://www.reddit.com/r/scala/comments/1pystbr/chanterelle_012_now_with_support_for_adhocish/)
+- [This week in #Scala &lpar;Dec 29, 2025&rpar;](https://www.reddit.com/r/scala/comments/1pyox77/this_week_in_scala_dec_29_2025/)
+- [We have durable execution at home.](https://www.reddit.com/r/scala/comments/1pykx2z/we_have_durable_execution_at_home/)
 - [dotty-cps-async 1.2.0 with a typeclass for custom preprocessing of code inside monad brackets.](https://www.reddit.com/r/scala/comments/1pxzjp0/dottycpsasync_120_with_a_typeclass_for_custom/)
 - [The hidden power of Scala&#39;s Opaque Types](https://www.reddit.com/r/scala/comments/1pxww9t/the_hidden_power_of_scalas_opaque_types/)
 - [ldbc v0.5.0 is out 🎉](https://www.reddit.com/r/scala/comments/1pxq4hl/ldbc_v050_is_out/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Dec 22, 2025&rpar;](https://www.reddit.com/r/scala/comments/1pseb4q/this_week_in_scala_dec_22_2025/)
 - [sbt 1.12.0-RC1 released](https://www.reddit.com/r/scala/comments/1pr82dt/sbt_1120rc1_released/)
 - [How to Scala3&#39;s type system for strongly typed &quot;result sets&quot;](https://www.reddit.com/r/scala/comments/1pq5ef2/how_to_scala3s_type_system_for_strongly_typed/)
-- [Scala native should expand on the no gc option](https://www.reddit.com/r/scala/comments/1pq5e7h/scala_native_should_expand_on_the_no_gc_option/)
-- [Scala native should expand on the no gc option](https://www.reddit.com/r/scala/comments/1pq5dr2/scala_native_should_expand_on_the_no_gc_option/)
-- [Make delightful web apps with Scala and Krop!](https://www.reddit.com/r/scala/comments/1po5foa/make_delightful_web_apps_with_scala_and_krop/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

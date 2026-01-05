@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [re-selling some scala books](https://www.reddit.com/r/scala/comments/1q3nux2/reselling_some_scala_books/)
 - [Functional Programming in Scala - free course](https://www.reddit.com/r/scala/comments/1q0ui33/functional_programming_in_scala_free_course/)
 - [How to Write a Mini Build Tool?](https://www.reddit.com/r/scala/comments/1q0i4wi/how_to_write_a_mini_build_tool/)
 - [chanterelle 0.1.2 - now with support for ad-hoc-ish field name transformations](https://www.reddit.com/r/scala/comments/1pystbr/chanterelle_012_now_with_support_for_adhocish/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [The hidden power of Scala&#39;s Opaque Types](https://www.reddit.com/r/scala/comments/1pxww9t/the_hidden_power_of_scalas_opaque_types/)
 - [ldbc v0.5.0 is out 🎉](https://www.reddit.com/r/scala/comments/1pxq4hl/ldbc_v050_is_out/)
 - [The Compiler Is Your Best Friend, Stop Lying to It](https://www.reddit.com/r/scala/comments/1pvv7rf/the_compiler_is_your_best_friend_stop_lying_to_it/)
-- [This week in #Scala &lpar;Dec 22, 2025&rpar;](https://www.reddit.com/r/scala/comments/1pseb4q/this_week_in_scala_dec_22_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

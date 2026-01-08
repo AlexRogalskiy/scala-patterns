@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala native finally works for me but memory consumption is 3-5X that of the regular JVM](https://www.reddit.com/r/scala/comments/1q6w7b2/scala_native_finally_works_for_me_but_memory/)
 - [Using GitHub for Private Packages](https://www.reddit.com/r/scala/comments/1q4yagf/using_github_for_private_packages/)
 - [AI Concepts - MCP Neurons](https://www.reddit.com/r/scala/comments/1q4ovch/ai_concepts_mcp_neurons/)
 - [sbt 2.0.0-RC8 released](https://www.reddit.com/r/scala/comments/1q4fnyz/sbt_200rc8_released/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to Write a Mini Build Tool?](https://www.reddit.com/r/scala/comments/1q0i4wi/how_to_write_a_mini_build_tool/)
 - [chanterelle 0.1.2 - now with support for ad-hoc-ish field name transformations](https://www.reddit.com/r/scala/comments/1pystbr/chanterelle_012_now_with_support_for_adhocish/)
 - [This week in #Scala &lpar;Dec 29, 2025&rpar;](https://www.reddit.com/r/scala/comments/1pyox77/this_week_in_scala_dec_29_2025/)
-- [We have durable execution at home.](https://www.reddit.com/r/scala/comments/1pykx2z/we_have_durable_execution_at_home/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

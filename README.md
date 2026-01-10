@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Retiring the Log4j Scala API &lpar;Feedback requested!&rpar;](https://www.reddit.com/r/scala/comments/1q8aiy2/retiring_the_log4j_scala_api_feedback_requested/)
 - [Everything you might have missed in Java in 2025](https://www.reddit.com/r/scala/comments/1q7d10j/everything_you_might_have_missed_in_java_in_2025/)
 - [Scala native finally works for me but memory consumption is 3-5X that of the regular JVM](https://www.reddit.com/r/scala/comments/1q6w7b2/scala_native_finally_works_for_me_but_memory/)
 - [Using GitHub for Private Packages](https://www.reddit.com/r/scala/comments/1q4yagf/using_github_for_private_packages/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [re-selling some scala books](https://www.reddit.com/r/scala/comments/1q3nux2/reselling_some_scala_books/)
 - [Functional Programming in Scala - free course](https://www.reddit.com/r/scala/comments/1q0ui33/functional_programming_in_scala_free_course/)
 - [How to Write a Mini Build Tool?](https://www.reddit.com/r/scala/comments/1q0i4wi/how_to_write_a_mini_build_tool/)
-- [chanterelle 0.1.2 - now with support for ad-hoc-ish field name transformations](https://www.reddit.com/r/scala/comments/1pystbr/chanterelle_012_now_with_support_for_adhocish/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

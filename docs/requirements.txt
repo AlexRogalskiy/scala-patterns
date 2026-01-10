@@ -15,5 +15,5 @@ mdx-truly-sane-lists>=1.2
 mkdocs-include-markdown-plugin>=3.2.1
 mkdocs-redirects>=1.0.3
 smarty>=0.3.3
-dumb-init>=1.2.5
+dumb-init>=1.2.5.post1
 cookiecutter>=1.7.3

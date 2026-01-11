@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [RFC: sbt 2.0 on JDK 17](https://www.reddit.com/r/scala/comments/1q9e7ge/rfc_sbt_20_on_jdk_17/)
+- [Business4s H2 2025 Highlights](https://www.reddit.com/r/scala/comments/1q91meb/business4s_h2_2025_highlights/)
 - [Retiring the Log4j Scala API &lpar;Feedback requested!&rpar;](https://www.reddit.com/r/scala/comments/1q8aiy2/retiring_the_log4j_scala_api_feedback_requested/)
 - [Everything you might have missed in Java in 2025](https://www.reddit.com/r/scala/comments/1q7d10j/everything_you_might_have_missed_in_java_in_2025/)
 - [Scala native finally works for me but memory consumption is 3-5X that of the regular JVM](https://www.reddit.com/r/scala/comments/1q6w7b2/scala_native_finally_works_for_me_but_memory/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt 2.0.0-RC8 released](https://www.reddit.com/r/scala/comments/1q4fnyz/sbt_200rc8_released/)
 - [sbt 1.12.0 released](https://www.reddit.com/r/scala/comments/1q4apg3/sbt_1120_released/)
 - [re-selling some scala books](https://www.reddit.com/r/scala/comments/1q3nux2/reselling_some_scala_books/)
-- [Functional Programming in Scala - free course](https://www.reddit.com/r/scala/comments/1q0ui33/functional_programming_in_scala_free_course/)
-- [How to Write a Mini Build Tool?](https://www.reddit.com/r/scala/comments/1q0i4wi/how_to_write_a_mini_build_tool/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

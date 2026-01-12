@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kafka-stream](https://www.reddit.com/r/scala/comments/1qa8y3q/kafkastream/)
+- [Kafka-stream](https://www.reddit.com/r/scala/comments/1qa8xss/kafkastream/)
+- [This week in #Scala &lpar;Jan 12, 2026&rpar;](https://www.reddit.com/r/scala/comments/1qa4mmc/this_week_in_scala_jan_12_2026/)
 - [RFC: sbt 2.0 on JDK 17](https://www.reddit.com/r/scala/comments/1q9e7ge/rfc_sbt_20_on_jdk_17/)
 - [Business4s H2 2025 Highlights](https://www.reddit.com/r/scala/comments/1q91meb/business4s_h2_2025_highlights/)
 - [Retiring the Log4j Scala API &lpar;Feedback requested!&rpar;](https://www.reddit.com/r/scala/comments/1q8aiy2/retiring_the_log4j_scala_api_feedback_requested/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala native finally works for me but memory consumption is 3-5X that of the regular JVM](https://www.reddit.com/r/scala/comments/1q6w7b2/scala_native_finally_works_for_me_but_memory/)
 - [Using GitHub for Private Packages](https://www.reddit.com/r/scala/comments/1q4yagf/using_github_for_private_packages/)
 - [AI Concepts - MCP Neurons](https://www.reddit.com/r/scala/comments/1q4ovch/ai_concepts_mcp_neurons/)
-- [sbt 2.0.0-RC8 released](https://www.reddit.com/r/scala/comments/1q4fnyz/sbt_200rc8_released/)
-- [sbt 1.12.0 released](https://www.reddit.com/r/scala/comments/1q4apg3/sbt_1120_released/)
-- [re-selling some scala books](https://www.reddit.com/r/scala/comments/1q3nux2/reselling_some_scala_books/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

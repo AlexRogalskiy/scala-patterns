@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Jan 19, 2026&rpar;](https://www.reddit.com/r/scala/comments/1qgf554/this_week_in_scala_jan_19_2026/)
+- [Scala Language Roadmap – Feedback Request](https://www.reddit.com/r/scala/comments/1qgdise/scala_language_roadmap_feedback_request/)
 - [Practical FP in Scala is now FREE!](https://www.reddit.com/r/scala/comments/1qdwnwd/practical_fp_in_scala_is_now_free/)
 - [🌈 JVM Rainbow - Mixing Java Kotlin Scala Clojure and Groovy](https://www.reddit.com/r/scala/comments/1qc4gvd/jvm_rainbow_mixing_java_kotlin_scala_clojure_and/)
 - [Writing a direct-style PBT library](https://www.reddit.com/r/scala/comments/1qc3oha/writing_a_directstyle_pbt_library/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Jan 12, 2026&rpar;](https://www.reddit.com/r/scala/comments/1qa4mmc/this_week_in_scala_jan_12_2026/)
 - [RFC: sbt 2.0 on JDK 17](https://www.reddit.com/r/scala/comments/1q9e7ge/rfc_sbt_20_on_jdk_17/)
 - [Business4s H2 2025 Highlights](https://www.reddit.com/r/scala/comments/1q91meb/business4s_h2_2025_highlights/)
-- [Retiring the Log4j Scala API &lpar;Feedback requested!&rpar;](https://www.reddit.com/r/scala/comments/1q8aiy2/retiring_the_log4j_scala_api_feedback_requested/)
-- [Everything you might have missed in Java in 2025](https://www.reddit.com/r/scala/comments/1q7d10j/everything_you_might_have_missed_in_java_in_2025/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

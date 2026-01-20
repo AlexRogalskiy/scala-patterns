@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala help](https://www.reddit.com/r/scala/comments/1qhc2vw/scala_help/)
 - [This week in #Scala &lpar;Jan 19, 2026&rpar;](https://www.reddit.com/r/scala/comments/1qgf554/this_week_in_scala_jan_19_2026/)
 - [Scala Language Roadmap – Feedback Request](https://www.reddit.com/r/scala/comments/1qgdise/scala_language_roadmap_feedback_request/)
 - [Practical FP in Scala is now FREE!](https://www.reddit.com/r/scala/comments/1qdwnwd/practical_fp_in_scala_is_now_free/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Kafka-stream](https://www.reddit.com/r/scala/comments/1qa8xss/kafkastream/)
 - [This week in #Scala &lpar;Jan 12, 2026&rpar;](https://www.reddit.com/r/scala/comments/1qa4mmc/this_week_in_scala_jan_12_2026/)
 - [RFC: sbt 2.0 on JDK 17](https://www.reddit.com/r/scala/comments/1q9e7ge/rfc_sbt_20_on_jdk_17/)
-- [Business4s H2 2025 Highlights](https://www.reddit.com/r/scala/comments/1q91meb/business4s_h2_2025_highlights/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

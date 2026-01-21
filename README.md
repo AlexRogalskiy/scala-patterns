@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [It looks like Twitter has moved its algorithm from Scala to Rust.](https://www.reddit.com/r/scala/comments/1qhz42h/it_looks_like_twitter_has_moved_its_algorithm/)
+- [Scala Meetup in Hamburg &lpar;GER&rpar;, January 29th](https://www.reddit.com/r/scala/comments/1qhx1l8/scala_meetup_in_hamburg_ger_january_29th/)
 - [Scala help](https://www.reddit.com/r/scala/comments/1qhc2vw/scala_help/)
 - [This week in #Scala &lpar;Jan 19, 2026&rpar;](https://www.reddit.com/r/scala/comments/1qgf554/this_week_in_scala_jan_19_2026/)
 - [Scala Language Roadmap – Feedback Request](https://www.reddit.com/r/scala/comments/1qgdise/scala_language_roadmap_feedback_request/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Writing a direct-style PBT library](https://www.reddit.com/r/scala/comments/1qc3oha/writing_a_directstyle_pbt_library/)
 - [Kafka-stream](https://www.reddit.com/r/scala/comments/1qa8y3q/kafkastream/)
 - [Kafka-stream](https://www.reddit.com/r/scala/comments/1qa8xss/kafkastream/)
-- [This week in #Scala &lpar;Jan 12, 2026&rpar;](https://www.reddit.com/r/scala/comments/1qa4mmc/this_week_in_scala_jan_12_2026/)
-- [RFC: sbt 2.0 on JDK 17](https://www.reddit.com/r/scala/comments/1q9e7ge/rfc_sbt_20_on_jdk_17/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

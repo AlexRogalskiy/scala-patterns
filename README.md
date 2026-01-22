@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Metals v1.6.5 - Osmium Released](https://www.reddit.com/r/scala/comments/1qj6mhf/metals_v165_osmium_released/)
+- [Comparing C++ to Scala](https://www.reddit.com/r/scala/comments/1qiwmja/comparing_c_to_scala/)
+- [The Call for Papers for Lambda World 26 is OPEN!](https://www.reddit.com/r/scala/comments/1qivpxy/the_call_for_papers_for_lambda_world_26_is_open/)
 - [It looks like Twitter has moved its algorithm from Scala to Rust.](https://www.reddit.com/r/scala/comments/1qhz42h/it_looks_like_twitter_has_moved_its_algorithm/)
 - [Scala Meetup in Hamburg &lpar;GER&rpar;, January 29th](https://www.reddit.com/r/scala/comments/1qhx1l8/scala_meetup_in_hamburg_ger_january_29th/)
 - [Scala help](https://www.reddit.com/r/scala/comments/1qhc2vw/scala_help/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Language Roadmap – Feedback Request](https://www.reddit.com/r/scala/comments/1qgdise/scala_language_roadmap_feedback_request/)
 - [Practical FP in Scala is now FREE!](https://www.reddit.com/r/scala/comments/1qdwnwd/practical_fp_in_scala_is_now_free/)
 - [🌈 JVM Rainbow - Mixing Java Kotlin Scala Clojure and Groovy](https://www.reddit.com/r/scala/comments/1qc4gvd/jvm_rainbow_mixing_java_kotlin_scala_clojure_and/)
-- [Writing a direct-style PBT library](https://www.reddit.com/r/scala/comments/1qc3oha/writing_a_directstyle_pbt_library/)
-- [Kafka-stream](https://www.reddit.com/r/scala/comments/1qa8y3q/kafkastream/)
-- [Kafka-stream](https://www.reddit.com/r/scala/comments/1qa8xss/kafkastream/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

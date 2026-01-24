@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why I Don&#39;t Have Fun With Claude Code](https://www.reddit.com/r/scala/comments/1ql76en/why_i_dont_have_fun_with_claude_code/)
+- [A lib to build MCP server ?](https://www.reddit.com/r/scala/comments/1qkbf1d/a_lib_to_build_mcp_server/)
+- [We just released Cyfra - Scala 3 framework for GPU programming](https://www.reddit.com/r/scala/comments/1qk6sua/we_just_released_cyfra_scala_3_framework_for_gpu/)
+- [Scala 3.8 Support in IntelliJ Scala Plugin](https://www.reddit.com/r/scala/comments/1qk0j41/scala_38_support_in_intellij_scala_plugin/)
+- [Scala 3.8 released!](https://www.reddit.com/r/scala/comments/1qjxd2z/scala_38_released/)
+- [Forms4s: Rapid &lpar;Internal&rpar; UI Development](https://www.reddit.com/r/scala/comments/1qjowbw/forms4s_rapid_internal_ui_development/)
 - [Metals v1.6.5 - Osmium Released](https://www.reddit.com/r/scala/comments/1qj6mhf/metals_v165_osmium_released/)
 - [Comparing C++ to Scala](https://www.reddit.com/r/scala/comments/1qiwmja/comparing_c_to_scala/)
 - [The Call for Papers for Lambda World 26 is OPEN!](https://www.reddit.com/r/scala/comments/1qivpxy/the_call_for_papers_for_lambda_world_26_is_open/)
 - [It looks like Twitter has moved its algorithm from Scala to Rust.](https://www.reddit.com/r/scala/comments/1qhz42h/it_looks_like_twitter_has_moved_its_algorithm/)
-- [Scala Meetup in Hamburg &lpar;GER&rpar;, January 29th](https://www.reddit.com/r/scala/comments/1qhx1l8/scala_meetup_in_hamburg_ger_january_29th/)
-- [Scala help](https://www.reddit.com/r/scala/comments/1qhc2vw/scala_help/)
-- [This week in #Scala &lpar;Jan 19, 2026&rpar;](https://www.reddit.com/r/scala/comments/1qgf554/this_week_in_scala_jan_19_2026/)
-- [Scala Language Roadmap – Feedback Request](https://www.reddit.com/r/scala/comments/1qgdise/scala_language_roadmap_feedback_request/)
-- [Practical FP in Scala is now FREE!](https://www.reddit.com/r/scala/comments/1qdwnwd/practical_fp_in_scala_is_now_free/)
-- [🌈 JVM Rainbow - Mixing Java Kotlin Scala Clojure and Groovy](https://www.reddit.com/r/scala/comments/1qc4gvd/jvm_rainbow_mixing_java_kotlin_scala_clojure_and/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scoped Error Capabilities in cats-mtl](https://www.reddit.com/r/scala/comments/1qlov9g/scoped_error_capabilities_in_catsmtl/)
+- [Simplicity Paradox of FP](https://www.reddit.com/r/scala/comments/1qlk4pk/simplicity_paradox_of_fp/)
 - [Why I Don&#39;t Have Fun With Claude Code](https://www.reddit.com/r/scala/comments/1ql76en/why_i_dont_have_fun_with_claude_code/)
 - [A lib to build MCP server ?](https://www.reddit.com/r/scala/comments/1qkbf1d/a_lib_to_build_mcp_server/)
 - [We just released Cyfra - Scala 3 framework for GPU programming](https://www.reddit.com/r/scala/comments/1qk6sua/we_just_released_cyfra_scala_3_framework_for_gpu/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Forms4s: Rapid &lpar;Internal&rpar; UI Development](https://www.reddit.com/r/scala/comments/1qjowbw/forms4s_rapid_internal_ui_development/)
 - [Metals v1.6.5 - Osmium Released](https://www.reddit.com/r/scala/comments/1qj6mhf/metals_v165_osmium_released/)
 - [Comparing C++ to Scala](https://www.reddit.com/r/scala/comments/1qiwmja/comparing_c_to_scala/)
-- [The Call for Papers for Lambda World 26 is OPEN!](https://www.reddit.com/r/scala/comments/1qivpxy/the_call_for_papers_for_lambda_world_26_is_open/)
-- [It looks like Twitter has moved its algorithm from Scala to Rust.](https://www.reddit.com/r/scala/comments/1qhz42h/it_looks_like_twitter_has_moved_its_algorithm/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

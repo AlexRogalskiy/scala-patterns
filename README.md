@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3.8: Una evolución significativa del lenguaje](https://www.reddit.com/r/scala/comments/1qn3k8j/scala_38_una_evolución_significativa_del_lenguaje/)
+- [This week in #Scala &lpar;Jan 26, 2026&rpar;](https://www.reddit.com/r/scala/comments/1qmmit7/this_week_in_scala_jan_26_2026/)
 - [Scoped Error Capabilities in cats-mtl](https://www.reddit.com/r/scala/comments/1qlov9g/scoped_error_capabilities_in_catsmtl/)
 - [Simplicity Paradox of FP](https://www.reddit.com/r/scala/comments/1qlk4pk/simplicity_paradox_of_fp/)
 - [Why I Don&#39;t Have Fun With Claude Code](https://www.reddit.com/r/scala/comments/1ql76en/why_i_dont_have_fun_with_claude_code/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala 3.8 Support in IntelliJ Scala Plugin](https://www.reddit.com/r/scala/comments/1qk0j41/scala_38_support_in_intellij_scala_plugin/)
 - [Scala 3.8 released!](https://www.reddit.com/r/scala/comments/1qjxd2z/scala_38_released/)
 - [Forms4s: Rapid &lpar;Internal&rpar; UI Development](https://www.reddit.com/r/scala/comments/1qjowbw/forms4s_rapid_internal_ui_development/)
-- [Metals v1.6.5 - Osmium Released](https://www.reddit.com/r/scala/comments/1qj6mhf/metals_v165_osmium_released/)
-- [Comparing C++ to Scala](https://www.reddit.com/r/scala/comments/1qiwmja/comparing_c_to_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

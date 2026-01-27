@@ -271,7 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Scala 3.8: Una evolución significativa del lenguaje](https://www.reddit.com/r/scala/comments/1qn3k8j/scala_38_una_evolución_significativa_del_lenguaje/)
+- [sbt 1.12.1 released](https://www.reddit.com/r/scala/comments/1qnf4ta/sbt_1121_released/)
+- [sbt and the miners of the wild west](https://www.reddit.com/r/scala/comments/1qna692/sbt_and_the_miners_of_the_wild_west/)
 - [This week in #Scala &lpar;Jan 26, 2026&rpar;](https://www.reddit.com/r/scala/comments/1qmmit7/this_week_in_scala_jan_26_2026/)
 - [Scoped Error Capabilities in cats-mtl](https://www.reddit.com/r/scala/comments/1qlov9g/scoped_error_capabilities_in_catsmtl/)
 - [Simplicity Paradox of FP](https://www.reddit.com/r/scala/comments/1qlk4pk/simplicity_paradox_of_fp/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [We just released Cyfra - Scala 3 framework for GPU programming](https://www.reddit.com/r/scala/comments/1qk6sua/we_just_released_cyfra_scala_3_framework_for_gpu/)
 - [Scala 3.8 Support in IntelliJ Scala Plugin](https://www.reddit.com/r/scala/comments/1qk0j41/scala_38_support_in_intellij_scala_plugin/)
 - [Scala 3.8 released!](https://www.reddit.com/r/scala/comments/1qjxd2z/scala_38_released/)
-- [Forms4s: Rapid &lpar;Internal&rpar; UI Development](https://www.reddit.com/r/scala/comments/1qjowbw/forms4s_rapid_internal_ui_development/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

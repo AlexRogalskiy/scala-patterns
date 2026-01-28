@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [IntelliJ Scala Plugin in 2025 | The IntelliJ Scala Plugin Blog](https://www.reddit.com/r/scala/comments/1qojfyg/intellij_scala_plugin_in_2025_the_intellij_scala/)
+- [The Sovereign Tech Fund Invests in Scala](https://www.reddit.com/r/scala/comments/1qoi3sg/the_sovereign_tech_fund_invests_in_scala/)
+- [Simpler JVM Project Setup with Mill 1.1.0](https://www.reddit.com/r/scala/comments/1qocfjs/simpler_jvm_project_setup_with_mill_110/)
+- [Scala-js and react native?](https://www.reddit.com/r/scala/comments/1qo53v1/scalajs_and_react_native/)
 - [sbt 1.12.1 released](https://www.reddit.com/r/scala/comments/1qnf4ta/sbt_1121_released/)
 - [sbt and the miners of the wild west](https://www.reddit.com/r/scala/comments/1qna692/sbt_and_the_miners_of_the_wild_west/)
 - [This week in #Scala &lpar;Jan 26, 2026&rpar;](https://www.reddit.com/r/scala/comments/1qmmit7/this_week_in_scala_jan_26_2026/)
 - [Scoped Error Capabilities in cats-mtl](https://www.reddit.com/r/scala/comments/1qlov9g/scoped_error_capabilities_in_catsmtl/)
 - [Simplicity Paradox of FP](https://www.reddit.com/r/scala/comments/1qlk4pk/simplicity_paradox_of_fp/)
 - [Why I Don&#39;t Have Fun With Claude Code](https://www.reddit.com/r/scala/comments/1ql76en/why_i_dont_have_fun_with_claude_code/)
-- [A lib to build MCP server ?](https://www.reddit.com/r/scala/comments/1qkbf1d/a_lib_to_build_mcp_server/)
-- [We just released Cyfra - Scala 3 framework for GPU programming](https://www.reddit.com/r/scala/comments/1qk6sua/we_just_released_cyfra_scala_3_framework_for_gpu/)
-- [Scala 3.8 Support in IntelliJ Scala Plugin](https://www.reddit.com/r/scala/comments/1qk0j41/scala_38_support_in_intellij_scala_plugin/)
-- [Scala 3.8 released!](https://www.reddit.com/r/scala/comments/1qjxd2z/scala_38_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

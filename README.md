@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I wish SBT was easy-to-use like Cargo](https://www.reddit.com/r/scala/comments/1qqhq4o/i_wish_sbt_was_easytouse_like_cargo/)
 - [SBT/Play Framework in a Nutshell](https://www.reddit.com/r/scala/comments/1qptmmr/sbtplay_framework_in_a_nutshell/)
 - [Macro-powered fast XML serialization library for Scala 3](https://www.reddit.com/r/scala/comments/1qp5sze/macropowered_fast_xml_serialization_library_for/)
 - [Building a Native Desktop App Using Scala.js](https://www.reddit.com/r/scala/comments/1qp2bu7/building_a_native_desktop_app_using_scalajs/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala-js and react native?](https://www.reddit.com/r/scala/comments/1qo53v1/scalajs_and_react_native/)
 - [sbt 1.12.1 released](https://www.reddit.com/r/scala/comments/1qnf4ta/sbt_1121_released/)
 - [sbt and the miners of the wild west](https://www.reddit.com/r/scala/comments/1qna692/sbt_and_the_miners_of_the_wild_west/)
-- [This week in #Scala &lpar;Jan 26, 2026&rpar;](https://www.reddit.com/r/scala/comments/1qmmit7/this_week_in_scala_jan_26_2026/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

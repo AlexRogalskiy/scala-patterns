@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [LLM4S is participating in Google Summer of Code 2026!](https://www.reddit.com/r/scala/comments/1qtcc2h/llm4s_is_participating_in_google_summer_of_code/)
+- [This week in #Scala &lpar;Feb 2, 2026&rpar;](https://www.reddit.com/r/scala/comments/1qt63gq/this_week_in_scala_feb_2_2026/)
+- [Two Months of Vibe-Coding: Scala, Constraints, Trust and Shipping](https://www.reddit.com/r/scala/comments/1qstv04/two_months_of_vibecoding_scala_constraints_trust/)
 - [How to implement an Embed&lpar;&rpar; macro?](https://www.reddit.com/r/scala/comments/1qrxbiw/how_to_implement_an_embed_macro/)
 - [Scala 3.8.0 postmortem](https://www.reddit.com/r/scala/comments/1qr9s7n/scala_380_postmortem/)
 - [The Scalar 2026 agenda is ready!](https://www.reddit.com/r/scala/comments/1qr72zj/the_scalar_2026_agenda_is_ready/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [I wish SBT was easy-to-use like Cargo](https://www.reddit.com/r/scala/comments/1qqhq4o/i_wish_sbt_was_easytouse_like_cargo/)
 - [SBT/Play Framework in a Nutshell](https://www.reddit.com/r/scala/comments/1qptmmr/sbtplay_framework_in_a_nutshell/)
 - [Macro-powered fast XML serialization library for Scala 3](https://www.reddit.com/r/scala/comments/1qp5sze/macropowered_fast_xml_serialization_library_for/)
-- [Building a Native Desktop App Using Scala.js](https://www.reddit.com/r/scala/comments/1qp2bu7/building_a_native_desktop_app_using_scalajs/)
-- [IntelliJ Scala Plugin in 2025 | The IntelliJ Scala Plugin Blog](https://www.reddit.com/r/scala/comments/1qojfyg/intellij_scala_plugin_in_2025_the_intellij_scala/)
-- [The Sovereign Tech Fund Invests in Scala](https://www.reddit.com/r/scala/comments/1qoi3sg/the_sovereign_tech_fund_invests_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

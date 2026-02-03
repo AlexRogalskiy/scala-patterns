@@ -277,10 +277,10 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to implement an Embed&lpar;&rpar; macro?](https://www.reddit.com/r/scala/comments/1qrxbiw/how_to_implement_an_embed_macro/)
 - [Scala 3.8.0 postmortem](https://www.reddit.com/r/scala/comments/1qr9s7n/scala_380_postmortem/)
 - [The Scalar 2026 agenda is ready!](https://www.reddit.com/r/scala/comments/1qr72zj/the_scalar_2026_agenda_is_ready/)
-- [The tool &quot;New Scala&quot;: Plans](https://www.reddit.com/r/scala/comments/1qr4ql3/the_tool_new_scala_plans/)
 - [I wish SBT was easy-to-use like Cargo](https://www.reddit.com/r/scala/comments/1qqhq4o/i_wish_sbt_was_easytouse_like_cargo/)
 - [SBT/Play Framework in a Nutshell](https://www.reddit.com/r/scala/comments/1qptmmr/sbtplay_framework_in_a_nutshell/)
 - [Macro-powered fast XML serialization library for Scala 3](https://www.reddit.com/r/scala/comments/1qp5sze/macropowered_fast_xml_serialization_library_for/)
+- [Building a Native Desktop App Using Scala.js](https://www.reddit.com/r/scala/comments/1qp2bu7/building_a_native_desktop_app_using_scalajs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

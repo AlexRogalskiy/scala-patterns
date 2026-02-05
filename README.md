@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [X algorithm explain why move to rust from JVM](https://www.reddit.com/r/scala/comments/1qvsr57/x_algorithm_explain_why_move_to_rust_from_jvm/)
+- [How To Publish to Maven Central Easily with Mill](https://www.reddit.com/r/scala/comments/1qvchx8/how_to_publish_to_maven_central_easily_with_mill/)
+- [Real-world Kyo projects](https://www.reddit.com/r/scala/comments/1qujpgx/realworld_kyo_projects/)
 - [LLM4S is participating in Google Summer of Code 2026!](https://www.reddit.com/r/scala/comments/1qtcc2h/llm4s_is_participating_in_google_summer_of_code/)
 - [This week in #Scala &lpar;Feb 2, 2026&rpar;](https://www.reddit.com/r/scala/comments/1qt63gq/this_week_in_scala_feb_2_2026/)
 - [Two Months of Vibe-Coding: Scala, Constraints, Trust and Shipping](https://www.reddit.com/r/scala/comments/1qstv04/two_months_of_vibecoding_scala_constraints_trust/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala 3.8.0 postmortem](https://www.reddit.com/r/scala/comments/1qr9s7n/scala_380_postmortem/)
 - [The Scalar 2026 agenda is ready!](https://www.reddit.com/r/scala/comments/1qr72zj/the_scalar_2026_agenda_is_ready/)
 - [I wish SBT was easy-to-use like Cargo](https://www.reddit.com/r/scala/comments/1qqhq4o/i_wish_sbt_was_easytouse_like_cargo/)
-- [SBT/Play Framework in a Nutshell](https://www.reddit.com/r/scala/comments/1qptmmr/sbtplay_framework_in_a_nutshell/)
-- [Macro-powered fast XML serialization library for Scala 3](https://www.reddit.com/r/scala/comments/1qp5sze/macropowered_fast_xml_serialization_library_for/)
-- [Building a Native Desktop App Using Scala.js](https://www.reddit.com/r/scala/comments/1qp2bu7/building_a_native_desktop_app_using_scalajs/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

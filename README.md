@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Prevent scalafmt From Formatting A Long List](https://www.reddit.com/r/scala/comments/1qwpwbf/prevent_scalafmt_from_formatting_a_long_list/)
 - [X algorithm explain why move to rust from JVM](https://www.reddit.com/r/scala/comments/1qvsr57/x_algorithm_explain_why_move_to_rust_from_jvm/)
 - [How To Publish to Maven Central Easily with Mill](https://www.reddit.com/r/scala/comments/1qvchx8/how_to_publish_to_maven_central_easily_with_mill/)
 - [Real-world Kyo projects](https://www.reddit.com/r/scala/comments/1qujpgx/realworld_kyo_projects/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [How to implement an Embed&lpar;&rpar; macro?](https://www.reddit.com/r/scala/comments/1qrxbiw/how_to_implement_an_embed_macro/)
 - [Scala 3.8.0 postmortem](https://www.reddit.com/r/scala/comments/1qr9s7n/scala_380_postmortem/)
 - [The Scalar 2026 agenda is ready!](https://www.reddit.com/r/scala/comments/1qr72zj/the_scalar_2026_agenda_is_ready/)
-- [I wish SBT was easy-to-use like Cargo](https://www.reddit.com/r/scala/comments/1qqhq4o/i_wish_sbt_was_easytouse_like_cargo/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

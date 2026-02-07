@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Hangout - Feb 12 - Join us for Scala Conversation!](https://www.reddit.com/r/scala/comments/1qxrrp6/scala_hangout_feb_12_join_us_for_scala/)
+- [sbt and the miners of the wild west](https://www.reddit.com/r/scala/comments/1qxlc9s/sbt_and_the_miners_of_the_wild_west/)
 - [Prevent scalafmt From Formatting A Long List](https://www.reddit.com/r/scala/comments/1qwpwbf/prevent_scalafmt_from_formatting_a_long_list/)
 - [X algorithm explain why move to rust from JVM](https://www.reddit.com/r/scala/comments/1qvsr57/x_algorithm_explain_why_move_to_rust_from_jvm/)
 - [How To Publish to Maven Central Easily with Mill](https://www.reddit.com/r/scala/comments/1qvchx8/how_to_publish_to_maven_central_easily_with_mill/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Feb 2, 2026&rpar;](https://www.reddit.com/r/scala/comments/1qt63gq/this_week_in_scala_feb_2_2026/)
 - [Two Months of Vibe-Coding: Scala, Constraints, Trust and Shipping](https://www.reddit.com/r/scala/comments/1qstv04/two_months_of_vibecoding_scala_constraints_trust/)
 - [How to implement an Embed&lpar;&rpar; macro?](https://www.reddit.com/r/scala/comments/1qrxbiw/how_to_implement_an_embed_macro/)
-- [Scala 3.8.0 postmortem](https://www.reddit.com/r/scala/comments/1qr9s7n/scala_380_postmortem/)
-- [The Scalar 2026 agenda is ready!](https://www.reddit.com/r/scala/comments/1qr72zj/the_scalar_2026_agenda_is_ready/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

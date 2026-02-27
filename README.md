@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Scala in the Netherlands: 2026 feels like the end](https://www.reddit.com/r/scala/comments/1qzj8ea/scala_in_the_netherlands_2026_feels_like_the_end/)
-- [This week in #Scala &lpar;Feb 9, 2026&rpar;](https://www.reddit.com/r/scala/comments/1qzi7at/this_week_in_scala_feb_9_2026/)
-- [New version of the XmlWriter macro released!](https://www.reddit.com/r/scala/comments/1qy3l0p/new_version_of_the_xmlwriter_macro_released/)
-- [Scala Hangout - Feb 12 - Join us for Scala Conversation!](https://www.reddit.com/r/scala/comments/1qxrrp6/scala_hangout_feb_12_join_us_for_scala/)
-- [sbt and the miners of the wild west](https://www.reddit.com/r/scala/comments/1qxlc9s/sbt_and_the_miners_of_the_wild_west/)
-- [Prevent scalafmt From Formatting A Long List](https://www.reddit.com/r/scala/comments/1qwpwbf/prevent_scalafmt_from_formatting_a_long_list/)
-- [X algorithm explain why move to rust from JVM](https://www.reddit.com/r/scala/comments/1qvsr57/x_algorithm_explain_why_move_to_rust_from_jvm/)
-- [How To Publish to Maven Central Easily with Mill](https://www.reddit.com/r/scala/comments/1qvchx8/how_to_publish_to_maven_central_easily_with_mill/)
-- [Real-world Kyo projects](https://www.reddit.com/r/scala/comments/1qujpgx/realworld_kyo_projects/)
-- [LLM4S is participating in Google Summer of Code 2026!](https://www.reddit.com/r/scala/comments/1qtcc2h/llm4s_is_participating_in_google_summer_of_code/)
+- [ML Pipeline tools](https://www.reddit.com/r/scala/comments/1rflglu/ml_pipeline_tools/)
+- [BybIt V5 and scala](https://www.reddit.com/r/scala/comments/1rfjkn7/bybit_v5_and_scala/)
+- [BybIt V5 and scala](https://www.reddit.com/r/scala/comments/1rfjk1r/bybit_v5_and_scala/)
+- [How can I call a Scala function taking a PartialFunction from Java?](https://www.reddit.com/r/scala/comments/1rf3t63/how_can_i_call_a_scala_function_taking_a/)
+- [New Scala Survey](https://www.reddit.com/r/scala/comments/1reb08f/new_scala_survey/)
+- [State of the TASTy Reader and Scala 2.13 ↔ Scala 3 compatibility](https://www.reddit.com/r/scala/comments/1rdvni6/state_of_the_tasty_reader_and_scala_213_scala_3/)
+- [The difference between Union Types and Either monad](https://www.reddit.com/r/scala/comments/1rdpitz/the_difference_between_union_types_and_either/)
+- [Sharing my 7 years of Scala journey: From backend to chip design](https://www.reddit.com/r/scala/comments/1rdk2k9/sharing_my_7_years_of_scala_journey_from_backend/)
+- [Help me understand opaque type definition at the top level](https://www.reddit.com/r/scala/comments/1rcwjgn/help_me_understand_opaque_type_definition_at_the/)
+- [sbt 1.12.4 released](https://www.reddit.com/r/scala/comments/1rccyyk/sbt_1124_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

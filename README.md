@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Migrating sbt plugins to sbt 2 with sbt2-compat plugin](https://www.reddit.com/r/scala/comments/1rj79aj/migrating_sbt_plugins_to_sbt_2_with_sbt2compat/)
+- [layoutz 0.7.0 🪶 Zero-dep Elm-style TUIs for Scala - now cross-platform &lpar;JVM + Native + JS&rpar; with terminal plots](https://www.reddit.com/r/scala/comments/1rit8y3/layoutz_070_zerodep_elmstyle_tuis_for_scala_now/)
+- [ChatOps4s — You Might Actually Build That Slack Integration Now](https://www.reddit.com/r/scala/comments/1rim5w5/chatops4s_you_might_actually_build_that_slack/)
+- [sbt 1.12.5 released](https://www.reddit.com/r/scala/comments/1rih6fz/sbt_1125_released/)
+- [Hybrid Full-Stack Developer &lpar;US-Based&rpar; — $40–$60/hr](https://www.reddit.com/r/scala/comments/1ricquy/hybrid_fullstack_developer_usbased_4060hr/)
+- [This week in #Scala &lpar;Mar 2, 2026&rpar;](https://www.reddit.com/r/scala/comments/1ri37i4/this_week_in_scala_mar_2_2026/)
+- [Free book: &quot;Design with Types&quot; — the Scala 3 type system tutorial I wished existed when I kept hitting unexplained walls](https://www.reddit.com/r/scala/comments/1rhuq27/free_book_design_with_types_the_scala_3_type/)
 - [ML Pipeline tools](https://www.reddit.com/r/scala/comments/1rflglu/ml_pipeline_tools/)
 - [BybIt V5 and scala](https://www.reddit.com/r/scala/comments/1rfjkn7/bybit_v5_and_scala/)
 - [BybIt V5 and scala](https://www.reddit.com/r/scala/comments/1rfjk1r/bybit_v5_and_scala/)
-- [How can I call a Scala function taking a PartialFunction from Java?](https://www.reddit.com/r/scala/comments/1rf3t63/how_can_i_call_a_scala_function_taking_a/)
-- [New Scala Survey](https://www.reddit.com/r/scala/comments/1reb08f/new_scala_survey/)
-- [State of the TASTy Reader and Scala 2.13 ↔ Scala 3 compatibility](https://www.reddit.com/r/scala/comments/1rdvni6/state_of_the_tasty_reader_and_scala_213_scala_3/)
-- [The difference between Union Types and Either monad](https://www.reddit.com/r/scala/comments/1rdpitz/the_difference_between_union_types_and_either/)
-- [Sharing my 7 years of Scala journey: From backend to chip design](https://www.reddit.com/r/scala/comments/1rdk2k9/sharing_my_7_years_of_scala_journey_from_backend/)
-- [Help me understand opaque type definition at the top level](https://www.reddit.com/r/scala/comments/1rcwjgn/help_me_understand_opaque_type_definition_at_the/)
-- [sbt 1.12.4 released](https://www.reddit.com/r/scala/comments/1rccyyk/sbt_1124_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Migrating sbt plugins to sbt 2 with sbt2-compat plugin](https://www.reddit.com/r/scala/comments/1rj79aj/migrating_sbt_plugins_to_sbt_2_with_sbt2compat/)
-- [layoutz 0.7.0 🪶 Zero-dep Elm-style TUIs for Scala - now cross-platform &lpar;JVM + Native + JS&rpar; with terminal plots](https://www.reddit.com/r/scala/comments/1rit8y3/layoutz_070_zerodep_elmstyle_tuis_for_scala_now/)
-- [ChatOps4s — You Might Actually Build That Slack Integration Now](https://www.reddit.com/r/scala/comments/1rim5w5/chatops4s_you_might_actually_build_that_slack/)
-- [sbt 1.12.5 released](https://www.reddit.com/r/scala/comments/1rih6fz/sbt_1125_released/)
-- [Hybrid Full-Stack Developer &lpar;US-Based&rpar; — $40–$60/hr](https://www.reddit.com/r/scala/comments/1ricquy/hybrid_fullstack_developer_usbased_4060hr/)
-- [This week in #Scala &lpar;Mar 2, 2026&rpar;](https://www.reddit.com/r/scala/comments/1ri37i4/this_week_in_scala_mar_2_2026/)
-- [Free book: &quot;Design with Types&quot; — the Scala 3 type system tutorial I wished existed when I kept hitting unexplained walls](https://www.reddit.com/r/scala/comments/1rhuq27/free_book_design_with_types_the_scala_3_type/)
-- [ML Pipeline tools](https://www.reddit.com/r/scala/comments/1rflglu/ml_pipeline_tools/)
-- [BybIt V5 and scala](https://www.reddit.com/r/scala/comments/1rfjkn7/bybit_v5_and_scala/)
-- [BybIt V5 and scala](https://www.reddit.com/r/scala/comments/1rfjk1r/bybit_v5_and_scala/)
+- [Some help with scala files](https://www.reddit.com/r/scala/comments/1rs0lg8/some_help_with_scala_files/)
+- [tree-sitter-scala 0.24.1 and 0.25.0 released](https://www.reddit.com/r/scala/comments/1rrj8ym/treesitterscala_0241_and_0250_released/)
+- [“Hardening Scoverage support in Scala 3”, Scala Center work-in-progress report by Anatolii Kmetiuk](https://www.reddit.com/r/scala/comments/1rr46jj/hardening_scoverage_support_in_scala_3_scala/)
+- [A small, dependency-free Scala 3 library for graph processing — feedback welcome!](https://www.reddit.com/r/scala/comments/1rqdbcj/a_small_dependencyfree_scala_3_library_for_graph/)
+- [type-tree-visitor — a library to make writing Scala 3 macros a bit less painful](https://www.reddit.com/r/scala/comments/1rpd5by/typetreevisitor_a_library_to_make_writing_scala_3/)
+- [This week in #Scala &lpar;Mar 9, 2026&rpar;](https://www.reddit.com/r/scala/comments/1rp20u6/this_week_in_scala_mar_9_2026/)
+- [New version of the article The Effect Pattern and Effect Systems in Scala](https://www.reddit.com/r/scala/comments/1ro4hjn/new_version_of_the_article_the_effect_pattern_and/)
+- [[Tool] built create-scala-app to make Scala project setup easier](https://www.reddit.com/r/scala/comments/1rnkw8k/tool_built_createscalaapp_to_make_scala_project/)
+- [`bastard quill / protoquilll` now available](https://www.reddit.com/r/scala/comments/1rnhrea/bastard_quill_protoquilll_now_available/)
+- [Scala Hangout - March 12 - Join us for Scala Conversation!](https://www.reddit.com/r/scala/comments/1rmunlv/scala_hangout_march_12_join_us_for_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Any tips on error handling with effect systems?](https://www.reddit.com/r/scala/comments/1rsx33t/any_tips_on_error_handling_with_effect_systems/)
 - [Some help with scala files](https://www.reddit.com/r/scala/comments/1rs0lg8/some_help_with_scala_files/)
 - [tree-sitter-scala 0.24.1 and 0.25.0 released](https://www.reddit.com/r/scala/comments/1rrj8ym/treesitterscala_0241_and_0250_released/)
 - [“Hardening Scoverage support in Scala 3”, Scala Center work-in-progress report by Anatolii Kmetiuk](https://www.reddit.com/r/scala/comments/1rr46jj/hardening_scoverage_support_in_scala_3_scala/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [New version of the article The Effect Pattern and Effect Systems in Scala](https://www.reddit.com/r/scala/comments/1ro4hjn/new_version_of_the_article_the_effect_pattern_and/)
 - [[Tool] built create-scala-app to make Scala project setup easier](https://www.reddit.com/r/scala/comments/1rnkw8k/tool_built_createscalaapp_to_make_scala_project/)
 - [`bastard quill / protoquilll` now available](https://www.reddit.com/r/scala/comments/1rnhrea/bastard_quill_protoquilll_now_available/)
-- [Scala Hangout - March 12 - Join us for Scala Conversation!](https://www.reddit.com/r/scala/comments/1rmunlv/scala_hangout_march_12_join_us_for_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Mar 16, 2026&rpar;](https://www.reddit.com/r/scala/comments/1ruic20/this_week_in_scala_mar_16_2026/)
+- [Rage Against the &lpar;Plurality of&rpar; Effect Systems](https://www.reddit.com/r/scala/comments/1ru8k75/rage_against_the_plurality_of_effect_systems/)
+- [Introducing PureLogic: direct-style, pure domain logic for Scala](https://www.reddit.com/r/scala/comments/1ru6zqa/introducing_purelogic_directstyle_pure_domain/)
 - [Any tips on error handling with effect systems?](https://www.reddit.com/r/scala/comments/1rsx33t/any_tips_on_error_handling_with_effect_systems/)
 - [Some help with scala files](https://www.reddit.com/r/scala/comments/1rs0lg8/some_help_with_scala_files/)
 - [tree-sitter-scala 0.24.1 and 0.25.0 released](https://www.reddit.com/r/scala/comments/1rrj8ym/treesitterscala_0241_and_0250_released/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [A small, dependency-free Scala 3 library for graph processing — feedback welcome!](https://www.reddit.com/r/scala/comments/1rqdbcj/a_small_dependencyfree_scala_3_library_for_graph/)
 - [type-tree-visitor — a library to make writing Scala 3 macros a bit less painful](https://www.reddit.com/r/scala/comments/1rpd5by/typetreevisitor_a_library_to_make_writing_scala_3/)
 - [This week in #Scala &lpar;Mar 9, 2026&rpar;](https://www.reddit.com/r/scala/comments/1rp20u6/this_week_in_scala_mar_9_2026/)
-- [New version of the article The Effect Pattern and Effect Systems in Scala](https://www.reddit.com/r/scala/comments/1ro4hjn/new_version_of_the_article_the_effect_pattern_and/)
-- [[Tool] built create-scala-app to make Scala project setup easier](https://www.reddit.com/r/scala/comments/1rnkw8k/tool_built_createscalaapp_to_make_scala_project/)
-- [`bastard quill / protoquilll` now available](https://www.reddit.com/r/scala/comments/1rnhrea/bastard_quill_protoquilll_now_available/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

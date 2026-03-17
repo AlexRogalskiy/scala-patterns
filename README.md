@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 1.12.6 released](https://www.reddit.com/r/scala/comments/1rvcf9h/sbt_1126_released/)
+- [People Saying Tooling Is Largely Figured Out: What Might I Be Doing Wrong?](https://www.reddit.com/r/scala/comments/1rv6o86/people_saying_tooling_is_largely_figured_out_what/)
+- [How funny, they are reinventing Scala](https://www.reddit.com/r/scala/comments/1rv4m28/how_funny_they_are_reinventing_scala/)
+- [Pi - an AI engine that fuses classical Eastern philosophical wisdom](https://www.reddit.com/r/scala/comments/1rv343h/pi_an_ai_engine_that_fuses_classical_eastern/)
 - [This week in #Scala &lpar;Mar 16, 2026&rpar;](https://www.reddit.com/r/scala/comments/1ruic20/this_week_in_scala_mar_16_2026/)
 - [Rage Against the &lpar;Plurality of&rpar; Effect Systems](https://www.reddit.com/r/scala/comments/1ru8k75/rage_against_the_plurality_of_effect_systems/)
 - [Introducing PureLogic: direct-style, pure domain logic for Scala](https://www.reddit.com/r/scala/comments/1ru6zqa/introducing_purelogic_directstyle_pure_domain/)
 - [Any tips on error handling with effect systems?](https://www.reddit.com/r/scala/comments/1rsx33t/any_tips_on_error_handling_with_effect_systems/)
 - [Some help with scala files](https://www.reddit.com/r/scala/comments/1rs0lg8/some_help_with_scala_files/)
 - [tree-sitter-scala 0.24.1 and 0.25.0 released](https://www.reddit.com/r/scala/comments/1rrj8ym/treesitterscala_0241_and_0250_released/)
-- [“Hardening Scoverage support in Scala 3”, Scala Center work-in-progress report by Anatolii Kmetiuk](https://www.reddit.com/r/scala/comments/1rr46jj/hardening_scoverage_support_in_scala_3_scala/)
-- [A small, dependency-free Scala 3 library for graph processing — feedback welcome!](https://www.reddit.com/r/scala/comments/1rqdbcj/a_small_dependencyfree_scala_3_library_for_graph/)
-- [type-tree-visitor — a library to make writing Scala 3 macros a bit less painful](https://www.reddit.com/r/scala/comments/1rpd5by/typetreevisitor_a_library_to_make_writing_scala_3/)
-- [This week in #Scala &lpar;Mar 9, 2026&rpar;](https://www.reddit.com/r/scala/comments/1rp20u6/this_week_in_scala_mar_9_2026/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

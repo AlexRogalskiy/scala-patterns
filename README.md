@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Looking for a web developer](https://www.reddit.com/r/scala/comments/1rw7b7j/looking_for_a_web_developer/)
+- [ldbc v0.6.0 is out 🎉](https://www.reddit.com/r/scala/comments/1rw597w/ldbc_v060_is_out/)
+- [Scalafmt Error](https://www.reddit.com/r/scala/comments/1rw3pa0/scalafmt_error/)
 - [sbt 1.12.6 released](https://www.reddit.com/r/scala/comments/1rvcf9h/sbt_1126_released/)
 - [People Saying Tooling Is Largely Figured Out: What Might I Be Doing Wrong?](https://www.reddit.com/r/scala/comments/1rv6o86/people_saying_tooling_is_largely_figured_out_what/)
 - [How funny, they are reinventing Scala](https://www.reddit.com/r/scala/comments/1rv4m28/how_funny_they_are_reinventing_scala/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Mar 16, 2026&rpar;](https://www.reddit.com/r/scala/comments/1ruic20/this_week_in_scala_mar_16_2026/)
 - [Rage Against the &lpar;Plurality of&rpar; Effect Systems](https://www.reddit.com/r/scala/comments/1ru8k75/rage_against_the_plurality_of_effect_systems/)
 - [Introducing PureLogic: direct-style, pure domain logic for Scala](https://www.reddit.com/r/scala/comments/1ru6zqa/introducing_purelogic_directstyle_pure_domain/)
-- [Any tips on error handling with effect systems?](https://www.reddit.com/r/scala/comments/1rsx33t/any_tips_on_error_handling_with_effect_systems/)
-- [Some help with scala files](https://www.reddit.com/r/scala/comments/1rs0lg8/some_help_with_scala_files/)
-- [tree-sitter-scala 0.24.1 and 0.25.0 released](https://www.reddit.com/r/scala/comments/1rrj8ym/treesitterscala_0241_and_0250_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

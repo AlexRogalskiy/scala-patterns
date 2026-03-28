@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Looking for a web developer](https://www.reddit.com/r/scala/comments/1rw7b7j/looking_for_a_web_developer/)
-- [ldbc v0.6.0 is out 🎉](https://www.reddit.com/r/scala/comments/1rw597w/ldbc_v060_is_out/)
-- [Scalafmt Error](https://www.reddit.com/r/scala/comments/1rw3pa0/scalafmt_error/)
-- [sbt 1.12.6 released](https://www.reddit.com/r/scala/comments/1rvcf9h/sbt_1126_released/)
-- [People Saying Tooling Is Largely Figured Out: What Might I Be Doing Wrong?](https://www.reddit.com/r/scala/comments/1rv6o86/people_saying_tooling_is_largely_figured_out_what/)
-- [How funny, they are reinventing Scala](https://www.reddit.com/r/scala/comments/1rv4m28/how_funny_they_are_reinventing_scala/)
-- [Pi - an AI engine that fuses classical Eastern philosophical wisdom](https://www.reddit.com/r/scala/comments/1rv343h/pi_an_ai_engine_that_fuses_classical_eastern/)
-- [This week in #Scala &lpar;Mar 16, 2026&rpar;](https://www.reddit.com/r/scala/comments/1ruic20/this_week_in_scala_mar_16_2026/)
-- [Rage Against the &lpar;Plurality of&rpar; Effect Systems](https://www.reddit.com/r/scala/comments/1ru8k75/rage_against_the_plurality_of_effect_systems/)
-- [Introducing PureLogic: direct-style, pure domain logic for Scala](https://www.reddit.com/r/scala/comments/1ru6zqa/introducing_purelogic_directstyle_pure_domain/)
+- [Where after Scala?](https://www.reddit.com/r/scala/comments/1s5fkzq/where_after_scala/)
+- [I forked scalex and added semantic rename, call-graph, and dead code detection - intel4s](https://www.reddit.com/r/scala/comments/1s54qts/i_forked_scalex_and_added_semantic_rename/)
+- [Job-focused list of product companies using Scala in production — 2026 &lpar;ReadyToTouch&rpar;](https://www.reddit.com/r/scala/comments/1s4dm9b/jobfocused_list_of_product_companies_using_scala/)
+- [sbt 2.0.0-RC10 released](https://www.reddit.com/r/scala/comments/1s49gop/sbt_200rc10_released/)
+- [Announcing Scala Days 2026](https://www.reddit.com/r/scala/comments/1s487jn/announcing_scala_days_2026/)
+- [Protobuf Goes Scala-First](https://www.reddit.com/r/scala/comments/1s478h5/protobuf_goes_scalafirst/)
+- [IntelliJ Scala Plugin 2026.1 Is Out!](https://www.reddit.com/r/scala/comments/1s3hwtk/intellij_scala_plugin_20261_is_out/)
+- [Scala metaprogramming, reflection beyond mirrors by Kalin Rudnicki @ Func Prog Sweden](https://www.reddit.com/r/scala/comments/1s3b3xs/scala_metaprogramming_reflection_beyond_mirrors/)
+- [Looking for Scala/Java buddy](https://www.reddit.com/r/scala/comments/1s2rmau/looking_for_scalajava_buddy/)
+- [Scala technical long reads in AI era?](https://www.reddit.com/r/scala/comments/1s2n1yg/scala_technical_long_reads_in_ai_era/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

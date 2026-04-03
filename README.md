@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Why is it so difficult to hire solid Scala developers right now? I could use some advice.](https://www.reddit.com/r/scala/comments/1sadzk2/why_is_it_so_difficult_to_hire_solid_scala/)
+- [Spark UI is basically useless for debugging is there something better or alternative for it?](https://www.reddit.com/r/scala/comments/1sad91f/spark_ui_is_basically_useless_for_debugging_is/)
+- [Scala 3.8.3 released](https://www.reddit.com/r/scala/comments/1s9zpx5/scala_383_released/)
+- [pgmq4s - A Scala client for Postgres Message Queue](https://www.reddit.com/r/scala/comments/1s9i7lf/pgmq4s_a_scala_client_for_postgres_message_queue/)
 - [Scala REPL](https://www.reddit.com/r/scala/comments/1s7s5fa/scala_repl/)
 - [Imperative Bowling Kata - 20 Years On - Delegating Menial Tasks to Github Copilot Chat - using Scala in IntelliJ IDEA](https://www.reddit.com/r/scala/comments/1s7i7il/imperative_bowling_kata_20_years_on_delegating/)
 - [Claude Code skills for ZIO](https://www.reddit.com/r/scala/comments/1s7fmpr/claude_code_skills_for_zio/)
 - [This week in #Scala &lpar;Mar 30, 2026&rpar;](https://www.reddit.com/r/scala/comments/1s6yavs/this_week_in_scala_mar_30_2026/)
 - [Making Scala Scripting Actually Good with Mill, Scalar Warsaw, 27 March 2026](https://www.reddit.com/r/scala/comments/1s5vgpk/making_scala_scripting_actually_good_with_mill/)
 - [Where after Scala?](https://www.reddit.com/r/scala/comments/1s5fkzq/where_after_scala/)
-- [I forked scalex and added semantic rename, call-graph, and dead code detection - intel4s](https://www.reddit.com/r/scala/comments/1s54qts/i_forked_scalex_and_added_semantic_rename/)
-- [Job-focused list of product companies using Scala in production — 2026 &lpar;ReadyToTouch&rpar;](https://www.reddit.com/r/scala/comments/1s4dm9b/jobfocused_list_of_product_companies_using_scala/)
-- [sbt 2.0.0-RC10 released](https://www.reddit.com/r/scala/comments/1s49gop/sbt_200rc10_released/)
-- [Announcing Scala Days 2026](https://www.reddit.com/r/scala/comments/1s487jn/announcing_scala_days_2026/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

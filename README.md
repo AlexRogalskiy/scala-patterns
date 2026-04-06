@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Graviton - Scala library for streaming content addressable storage](https://www.reddit.com/r/scala/comments/1sdc28l/graviton_scala_library_for_streaming_content/)
+- [Cats-Actors 2.1.0 — now with Scala Native and Scala.js support](https://www.reddit.com/r/scala/comments/1scyvu5/catsactors_210_now_with_scala_native_and_scalajs/)
 - [Why is it so difficult to hire solid Scala developers right now? I could use some advice.](https://www.reddit.com/r/scala/comments/1sadzk2/why_is_it_so_difficult_to_hire_solid_scala/)
 - [Spark UI is basically useless for debugging is there something better or alternative for it?](https://www.reddit.com/r/scala/comments/1sad91f/spark_ui_is_basically_useless_for_debugging_is/)
 - [Scala 3.8.3 released](https://www.reddit.com/r/scala/comments/1s9zpx5/scala_383_released/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Imperative Bowling Kata - 20 Years On - Delegating Menial Tasks to Github Copilot Chat - using Scala in IntelliJ IDEA](https://www.reddit.com/r/scala/comments/1s7i7il/imperative_bowling_kata_20_years_on_delegating/)
 - [Claude Code skills for ZIO](https://www.reddit.com/r/scala/comments/1s7fmpr/claude_code_skills_for_zio/)
 - [This week in #Scala &lpar;Mar 30, 2026&rpar;](https://www.reddit.com/r/scala/comments/1s6yavs/this_week_in_scala_mar_30_2026/)
-- [Making Scala Scripting Actually Good with Mill, Scalar Warsaw, 27 March 2026](https://www.reddit.com/r/scala/comments/1s5vgpk/making_scala_scripting_actually_good_with_mill/)
-- [Where after Scala?](https://www.reddit.com/r/scala/comments/1s5fkzq/where_after_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

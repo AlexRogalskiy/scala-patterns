@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Graviton - Scala library for streaming content addressable storage](https://www.reddit.com/r/scala/comments/1sdc28l/graviton_scala_library_for_streaming_content/)
-- [Cats-Actors 2.1.0 — now with Scala Native and Scala.js support](https://www.reddit.com/r/scala/comments/1scyvu5/catsactors_210_now_with_scala_native_and_scalajs/)
-- [Why is it so difficult to hire solid Scala developers right now? I could use some advice.](https://www.reddit.com/r/scala/comments/1sadzk2/why_is_it_so_difficult_to_hire_solid_scala/)
-- [Spark UI is basically useless for debugging is there something better or alternative for it?](https://www.reddit.com/r/scala/comments/1sad91f/spark_ui_is_basically_useless_for_debugging_is/)
-- [Scala 3.8.3 released](https://www.reddit.com/r/scala/comments/1s9zpx5/scala_383_released/)
-- [pgmq4s - A Scala client for Postgres Message Queue](https://www.reddit.com/r/scala/comments/1s9i7lf/pgmq4s_a_scala_client_for_postgres_message_queue/)
-- [Scala REPL](https://www.reddit.com/r/scala/comments/1s7s5fa/scala_repl/)
-- [Imperative Bowling Kata - 20 Years On - Delegating Menial Tasks to Github Copilot Chat - using Scala in IntelliJ IDEA](https://www.reddit.com/r/scala/comments/1s7i7il/imperative_bowling_kata_20_years_on_delegating/)
-- [Claude Code skills for ZIO](https://www.reddit.com/r/scala/comments/1s7fmpr/claude_code_skills_for_zio/)
-- [This week in #Scala &lpar;Mar 30, 2026&rpar;](https://www.reddit.com/r/scala/comments/1s6yavs/this_week_in_scala_mar_30_2026/)
+- [Scala’s Growth Model — Building Inward, Starving Outward](https://www.reddit.com/r/scala/comments/1shi4l9/scalas_growth_model_building_inward_starving/)
+- [Can I move back SWE after a 3years of DE?](https://www.reddit.com/r/scala/comments/1shell9/can_i_move_back_swe_after_a_3years_of_de/)
+- [Just released Fuda &lpar;札&rpar; — a type-safe opaque UUID identifiers for Scala 3](https://www.reddit.com/r/scala/comments/1sfpkqg/just_released_fuda_札_a_typesafe_opaque_uuid/)
+- [Metals v1.6.7 - Osmium Released](https://www.reddit.com/r/scala/comments/1sf58v3/metals_v167_osmium_released/)
+- [Boston Scala Meetup - April 29](https://www.reddit.com/r/scala/comments/1sezk6h/boston_scala_meetup_april_29/)
+- [How do you properly validate a Spark performance optimization? &lpar;Bottleneck just moved?&rpar;](https://www.reddit.com/r/scala/comments/1seq0sg/how_do_you_properly_validate_a_spark_performance/)
+- [sbt 2.0.0-RC11 and 1.12.9 released](https://www.reddit.com/r/scala/comments/1send8h/sbt_200rc11_and_1129_released/)
+- [Scala Hangout - April 9 - Join us for Scala Conversation!](https://www.reddit.com/r/scala/comments/1sdzsgx/scala_hangout_april_9_join_us_for_scala/)
+- [ai-skills: a Scala Native CLI for managing skills across multiple AI coding agents](https://www.reddit.com/r/scala/comments/1sdwtbg/aiskills_a_scala_native_cli_for_managing_skills/)
+- [Event Sourcing with PureLogic](https://www.reddit.com/r/scala/comments/1sdq0ro/event_sourcing_with_purelogic/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

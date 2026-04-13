@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Monitor Scala resource utilization - polyvariant/scala-monitor](https://www.reddit.com/r/scala/comments/1sjq1dx/monitor_scala_resource_utilization/)
+- [This week in #Scala &lpar;Apr 13, 2026&rpar;](https://www.reddit.com/r/scala/comments/1sjlow6/this_week_in_scala_apr_13_2026/)
+- [dotty-cps-async and dotty-cps-async-connect 1.3.2](https://www.reddit.com/r/scala/comments/1sj9ef0/dottycpsasync_and_dottycpsasyncconnect_132/)
 - [Scala’s Growth Model — Building Inward, Starving Outward](https://www.reddit.com/r/scala/comments/1shi4l9/scalas_growth_model_building_inward_starving/)
 - [Can I move back SWE after a 3years of DE?](https://www.reddit.com/r/scala/comments/1shell9/can_i_move_back_swe_after_a_3years_of_de/)
 - [Just released Fuda &lpar;札&rpar; — a type-safe opaque UUID identifiers for Scala 3](https://www.reddit.com/r/scala/comments/1sfpkqg/just_released_fuda_札_a_typesafe_opaque_uuid/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Boston Scala Meetup - April 29](https://www.reddit.com/r/scala/comments/1sezk6h/boston_scala_meetup_april_29/)
 - [How do you properly validate a Spark performance optimization? &lpar;Bottleneck just moved?&rpar;](https://www.reddit.com/r/scala/comments/1seq0sg/how_do_you_properly_validate_a_spark_performance/)
 - [sbt 2.0.0-RC11 and 1.12.9 released](https://www.reddit.com/r/scala/comments/1send8h/sbt_200rc11_and_1129_released/)
-- [Scala Hangout - April 9 - Join us for Scala Conversation!](https://www.reddit.com/r/scala/comments/1sdzsgx/scala_hangout_april_9_join_us_for_scala/)
-- [ai-skills: a Scala Native CLI for managing skills across multiple AI coding agents](https://www.reddit.com/r/scala/comments/1sdwtbg/aiskills_a_scala_native_cli_for_managing_skills/)
-- [Event Sourcing with PureLogic](https://www.reddit.com/r/scala/comments/1sdq0ro/event_sourcing_with_purelogic/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

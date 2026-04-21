@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Monitor Scala resource utilization - polyvariant/scala-monitor](https://www.reddit.com/r/scala/comments/1sjq1dx/monitor_scala_resource_utilization/)
-- [This week in #Scala &lpar;Apr 13, 2026&rpar;](https://www.reddit.com/r/scala/comments/1sjlow6/this_week_in_scala_apr_13_2026/)
-- [dotty-cps-async and dotty-cps-async-connect 1.3.2](https://www.reddit.com/r/scala/comments/1sj9ef0/dottycpsasync_and_dottycpsasyncconnect_132/)
-- [Scala’s Growth Model — Building Inward, Starving Outward](https://www.reddit.com/r/scala/comments/1shi4l9/scalas_growth_model_building_inward_starving/)
-- [Can I move back SWE after a 3years of DE?](https://www.reddit.com/r/scala/comments/1shell9/can_i_move_back_swe_after_a_3years_of_de/)
-- [Just released Fuda &lpar;札&rpar; — a type-safe opaque UUID identifiers for Scala 3](https://www.reddit.com/r/scala/comments/1sfpkqg/just_released_fuda_札_a_typesafe_opaque_uuid/)
-- [Metals v1.6.7 - Osmium Released](https://www.reddit.com/r/scala/comments/1sf58v3/metals_v167_osmium_released/)
-- [Boston Scala Meetup - April 29](https://www.reddit.com/r/scala/comments/1sezk6h/boston_scala_meetup_april_29/)
-- [How do you properly validate a Spark performance optimization? &lpar;Bottleneck just moved?&rpar;](https://www.reddit.com/r/scala/comments/1seq0sg/how_do_you_properly_validate_a_spark_performance/)
-- [sbt 2.0.0-RC11 and 1.12.9 released](https://www.reddit.com/r/scala/comments/1send8h/sbt_200rc11_and_1129_released/)
+- [Proteus-diff – detect breaking changes between .proto files](https://www.reddit.com/r/scala/comments/1sqke49/proteusdiff_detect_breaking_changes_between_proto/)
+- [Staged Parser Combinators in Scala: Have Your Cake and Eat It &lpar;Too&rpar;](https://www.reddit.com/r/scala/comments/1sqjm7e/staged_parser_combinators_in_scala_have_your_cake/)
+- [Netflix/wick: A zero cost type safe Apache Spark API](https://www.reddit.com/r/scala/comments/1sqgqtr/netflixwick_a_zero_cost_type_safe_apache_spark_api/)
+- [This week in #Scala &lpar;Apr 20, 2026&rpar;](https://www.reddit.com/r/scala/comments/1spv5xp/this_week_in_scala_apr_20_2026/)
+- [shutting down the goldmine](https://www.reddit.com/r/scala/comments/1spmicn/shutting_down_the_goldmine/)
+- [tree-sitter-scala 0.25.1 and 0.26.0 released](https://www.reddit.com/r/scala/comments/1spd6xt/treesitterscala_0251_and_0260_released/)
+- [This is why scala is more fun than java :&rpar;](https://www.reddit.com/r/scala/comments/1sp7ox4/this_is_why_scala_is_more_fun_than_java/)
+- [Support per-field update with Scala Slick](https://www.reddit.com/r/scala/comments/1sp6k5i/support_perfield_update_with_scala_slick/)
+- [Why does Spark performance start to vary between similar jobs?](https://www.reddit.com/r/scala/comments/1smzoyl/why_does_spark_performance_start_to_vary_between/)
+- [skunk 1.0.0 released](https://www.reddit.com/r/scala/comments/1slrqpb/skunk_100_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

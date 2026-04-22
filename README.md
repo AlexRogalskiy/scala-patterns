@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Incremental Highlighting for Scala](https://www.reddit.com/r/scala/comments/1srser1/incremental_highlighting_for_scala/)
 - [Proteus-diff – detect breaking changes between .proto files](https://www.reddit.com/r/scala/comments/1sqke49/proteusdiff_detect_breaking_changes_between_proto/)
 - [Staged Parser Combinators in Scala: Have Your Cake and Eat It &lpar;Too&rpar;](https://www.reddit.com/r/scala/comments/1sqjm7e/staged_parser_combinators_in_scala_have_your_cake/)
 - [Netflix/wick: A zero cost type safe Apache Spark API](https://www.reddit.com/r/scala/comments/1sqgqtr/netflixwick_a_zero_cost_type_safe_apache_spark_api/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This is why scala is more fun than java :&rpar;](https://www.reddit.com/r/scala/comments/1sp7ox4/this_is_why_scala_is_more_fun_than_java/)
 - [Support per-field update with Scala Slick](https://www.reddit.com/r/scala/comments/1sp6k5i/support_perfield_update_with_scala_slick/)
 - [Why does Spark performance start to vary between similar jobs?](https://www.reddit.com/r/scala/comments/1smzoyl/why_does_spark_performance_start_to_vary_between/)
-- [skunk 1.0.0 released](https://www.reddit.com/r/scala/comments/1slrqpb/skunk_100_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

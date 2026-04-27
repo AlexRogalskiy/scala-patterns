@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Incremental Highlighting for Scala](https://www.reddit.com/r/scala/comments/1srser1/incremental_highlighting_for_scala/)
-- [Proteus-diff – detect breaking changes between .proto files](https://www.reddit.com/r/scala/comments/1sqke49/proteusdiff_detect_breaking_changes_between_proto/)
-- [Staged Parser Combinators in Scala: Have Your Cake and Eat It &lpar;Too&rpar;](https://www.reddit.com/r/scala/comments/1sqjm7e/staged_parser_combinators_in_scala_have_your_cake/)
-- [Netflix/wick: A zero cost type safe Apache Spark API](https://www.reddit.com/r/scala/comments/1sqgqtr/netflixwick_a_zero_cost_type_safe_apache_spark_api/)
-- [This week in #Scala &lpar;Apr 20, 2026&rpar;](https://www.reddit.com/r/scala/comments/1spv5xp/this_week_in_scala_apr_20_2026/)
-- [shutting down the goldmine](https://www.reddit.com/r/scala/comments/1spmicn/shutting_down_the_goldmine/)
-- [tree-sitter-scala 0.25.1 and 0.26.0 released](https://www.reddit.com/r/scala/comments/1spd6xt/treesitterscala_0251_and_0260_released/)
-- [This is why scala is more fun than java :&rpar;](https://www.reddit.com/r/scala/comments/1sp7ox4/this_is_why_scala_is_more_fun_than_java/)
-- [Support per-field update with Scala Slick](https://www.reddit.com/r/scala/comments/1sp6k5i/support_perfield_update_with_scala_slick/)
-- [Why does Spark performance start to vary between similar jobs?](https://www.reddit.com/r/scala/comments/1smzoyl/why_does_spark_performance_start_to_vary_between/)
+- [How do you handle external API calls that must stay consistent with DB transactions?](https://www.reddit.com/r/scala/comments/1swpu14/how_do_you_handle_external_api_calls_that_must/)
+- [This week in #Scala &lpar;Apr 27, 2026&rpar;](https://www.reddit.com/r/scala/comments/1swmsfl/this_week_in_scala_apr_27_2026/)
+- [try it out: Scone media player build with Scala.js, Calico, and Electron](https://www.reddit.com/r/scala/comments/1sujyb8/try_it_out_scone_media_player_build_with_scalajs/)
+- [sbt-steps 0.3.0 released: streamline your CI using the power of sbt!](https://www.reddit.com/r/scala/comments/1sui0yr/sbtsteps_030_released_streamline_your_ci_using/)
+- [Spark observability tool that works for production debugging?](https://www.reddit.com/r/scala/comments/1subfn2/spark_observability_tool_that_works_for/)
+- [Rust for Scala and Haskell Developers: A Surprisingly Familiar Journey by Pawel Szulc](https://www.reddit.com/r/scala/comments/1stcd6a/rust_for_scala_and_haskell_developers_a/)
+- [2026-04-23 gRPC benchmark results](https://www.reddit.com/r/scala/comments/1st0kqa/20260423_grpc_benchmark_results/)
+- [Rust for Scala and Haskell developers](https://www.reddit.com/r/scala/comments/1sswuuk/rust_for_scala_and_haskell_developers/)
+- [Apache Fory 0.17.0 Released: Virtual Threads Supported, and new NodeJS, and Dart Support](https://www.reddit.com/r/scala/comments/1ssplpr/apache_fory_0170_released_virtual_threads/)
+- [Arman Bilge presenting at Boston Meetup](https://www.reddit.com/r/scala/comments/1ssh9nb/arman_bilge_presenting_at_boston_meetup/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

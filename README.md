@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 1.12.10 released](https://www.reddit.com/r/scala/comments/1sww3r6/sbt_11210_released/)
 - [How do you handle external API calls that must stay consistent with DB transactions?](https://www.reddit.com/r/scala/comments/1swpu14/how_do_you_handle_external_api_calls_that_must/)
 - [This week in #Scala &lpar;Apr 27, 2026&rpar;](https://www.reddit.com/r/scala/comments/1swmsfl/this_week_in_scala_apr_27_2026/)
 - [try it out: Scone media player build with Scala.js, Calico, and Electron](https://www.reddit.com/r/scala/comments/1sujyb8/try_it_out_scone_media_player_build_with_scalajs/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [2026-04-23 gRPC benchmark results](https://www.reddit.com/r/scala/comments/1st0kqa/20260423_grpc_benchmark_results/)
 - [Rust for Scala and Haskell developers](https://www.reddit.com/r/scala/comments/1sswuuk/rust_for_scala_and_haskell_developers/)
 - [Apache Fory 0.17.0 Released: Virtual Threads Supported, and new NodeJS, and Dart Support](https://www.reddit.com/r/scala/comments/1ssplpr/apache_fory_0170_released_virtual_threads/)
-- [Arman Bilge presenting at Boston Meetup](https://www.reddit.com/r/scala/comments/1ssh9nb/arman_bilge_presenting_at_boston_meetup/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

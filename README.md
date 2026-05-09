@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [sbt 1.12.10 released](https://www.reddit.com/r/scala/comments/1sww3r6/sbt_11210_released/)
-- [How do you handle external API calls that must stay consistent with DB transactions?](https://www.reddit.com/r/scala/comments/1swpu14/how_do_you_handle_external_api_calls_that_must/)
-- [This week in #Scala &lpar;Apr 27, 2026&rpar;](https://www.reddit.com/r/scala/comments/1swmsfl/this_week_in_scala_apr_27_2026/)
-- [try it out: Scone media player build with Scala.js, Calico, and Electron](https://www.reddit.com/r/scala/comments/1sujyb8/try_it_out_scone_media_player_build_with_scalajs/)
-- [sbt-steps 0.3.0 released: streamline your CI using the power of sbt!](https://www.reddit.com/r/scala/comments/1sui0yr/sbtsteps_030_released_streamline_your_ci_using/)
-- [Spark observability tool that works for production debugging?](https://www.reddit.com/r/scala/comments/1subfn2/spark_observability_tool_that_works_for/)
-- [Rust for Scala and Haskell Developers: A Surprisingly Familiar Journey by Pawel Szulc](https://www.reddit.com/r/scala/comments/1stcd6a/rust_for_scala_and_haskell_developers_a/)
-- [2026-04-23 gRPC benchmark results](https://www.reddit.com/r/scala/comments/1st0kqa/20260423_grpc_benchmark_results/)
-- [Rust for Scala and Haskell developers](https://www.reddit.com/r/scala/comments/1sswuuk/rust_for_scala_and_haskell_developers/)
-- [Apache Fory 0.17.0 Released: Virtual Threads Supported, and new NodeJS, and Dart Support](https://www.reddit.com/r/scala/comments/1ssplpr/apache_fory_0170_released_virtual_threads/)
+- [Skopx - AI analytics platform with 50+ data connectors](https://www.reddit.com/r/scala/comments/1t7g8ol/skopx_ai_analytics_platform_with_50_data/)
+- [How to Make Code Highlighting-Friendly](https://www.reddit.com/r/scala/comments/1t68e8x/how_to_make_code_highlightingfriendly/)
+- [New release of jsoniter-scala with up to 30% parsing speed up for doubles, ints, and longs!](https://www.reddit.com/r/scala/comments/1t5i29a/new_release_of_jsoniterscala_with_up_to_30/)
+- [Making Scala Scripting Actually Good with Mill](https://www.reddit.com/r/scala/comments/1t56kr1/making_scala_scripting_actually_good_with_mill/)
+- [SIP-80: Target-Typed Companion Shorthand](https://www.reddit.com/r/scala/comments/1t56k06/sip80_targettyped_companion_shorthand/)
+- [Workflows4s Goes Effect-Polymorphic &lpar;Whether I Like It Or Not&rpar;](https://www.reddit.com/r/scala/comments/1t4scl0/workflows4s_goes_effectpolymorphic_whether_i_like/)
+- [Using SBT testing frameworks, but not to test Scala code; bad idea?](https://www.reddit.com/r/scala/comments/1t49qzy/using_sbt_testing_frameworks_but_not_to_test/)
+- [We are bringing the EuroClojure Conference to Prague in May 2027](https://www.reddit.com/r/scala/comments/1t3ihqk/we_are_bringing_the_euroclojure_conference_to/)
+- [Never written unit tests before — looking for resources and best practices in Scala 2](https://www.reddit.com/r/scala/comments/1t2ws2h/never_written_unit_tests_before_looking_for/)
+- [This week in #Scala &lpar;May 4, 2026&rpar;](https://www.reddit.com/r/scala/comments/1t2l5gr/this_week_in_scala_may_4_2026/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

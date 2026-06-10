@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Skopx - AI analytics platform with 50+ data connectors](https://www.reddit.com/r/scala/comments/1t7g8ol/skopx_ai_analytics_platform_with_50_data/)
-- [How to Make Code Highlighting-Friendly](https://www.reddit.com/r/scala/comments/1t68e8x/how_to_make_code_highlightingfriendly/)
-- [New release of jsoniter-scala with up to 30% parsing speed up for doubles, ints, and longs!](https://www.reddit.com/r/scala/comments/1t5i29a/new_release_of_jsoniterscala_with_up_to_30/)
-- [Making Scala Scripting Actually Good with Mill](https://www.reddit.com/r/scala/comments/1t56kr1/making_scala_scripting_actually_good_with_mill/)
-- [SIP-80: Target-Typed Companion Shorthand](https://www.reddit.com/r/scala/comments/1t56k06/sip80_targettyped_companion_shorthand/)
-- [Workflows4s Goes Effect-Polymorphic &lpar;Whether I Like It Or Not&rpar;](https://www.reddit.com/r/scala/comments/1t4scl0/workflows4s_goes_effectpolymorphic_whether_i_like/)
-- [Using SBT testing frameworks, but not to test Scala code; bad idea?](https://www.reddit.com/r/scala/comments/1t49qzy/using_sbt_testing_frameworks_but_not_to_test/)
-- [We are bringing the EuroClojure Conference to Prague in May 2027](https://www.reddit.com/r/scala/comments/1t3ihqk/we_are_bringing_the_euroclojure_conference_to/)
-- [Never written unit tests before — looking for resources and best practices in Scala 2](https://www.reddit.com/r/scala/comments/1t2ws2h/never_written_unit_tests_before_looking_for/)
-- [This week in #Scala &lpar;May 4, 2026&rpar;](https://www.reddit.com/r/scala/comments/1t2l5gr/this_week_in_scala_may_4_2026/)
+- [Improving Scala’s documentation and website](https://www.reddit.com/r/scala/comments/1u1i5nz/improving_scalas_documentation_and_website/)
+- [typesafe-config-yaml: YAML support for Typesafe Config / Lightbend Config](https://www.reddit.com/r/scala/comments/1u0xhhp/typesafeconfigyaml_yaml_support_for_typesafe/)
+- [Streaming content rewriting for ZIO Streams](https://www.reddit.com/r/scala/comments/1u0xaks/streaming_content_rewriting_for_zio_streams/)
+- [I made a simple implementation of CE inside Rust](https://www.reddit.com/r/scala/comments/1u0m2u4/i_made_a_simple_implementation_of_ce_inside_rust/)
+- [This week in #Scala &lpar;Jun 8, 2026&rpar;](https://www.reddit.com/r/scala/comments/1u0eaq2/this_week_in_scala_jun_8_2026/)
+- [Scala Hangout - June 11 - Join us for Scala Conversation!](https://www.reddit.com/r/scala/comments/1u0cldh/scala_hangout_june_11_join_us_for_scala/)
+- [sbt 2.0.0-RC15 released](https://www.reddit.com/r/scala/comments/1tzz8ci/sbt_200rc15_released/)
+- [Streaming content rewriting for Pekko HTTP, with a fun origin story](https://www.reddit.com/r/scala/comments/1tzeh3b/streaming_content_rewriting_for_pekko_http_with_a/)
+- [&quot;Nobody&#39;s coming to clean up after you&quot; – second blog post from a Scala dev learning Rust, this one&#39;s about ownership &amp; the borrow checker](https://www.reddit.com/r/scala/comments/1tz6jtv/nobodys_coming_to_clean_up_after_you_second_blog/)
+- [Example Scala GTK4 script](https://www.reddit.com/r/scala/comments/1tyqj4c/example_scala_gtk4_script/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

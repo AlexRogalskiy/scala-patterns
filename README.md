@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Ways to compile Scala code into X?](https://www.reddit.com/r/scala/comments/1u3k8rv/ways_to_compile_scala_code_into_x/)
+- [Hearth 0.3.1, Kindlings 0.2.0 and Refined-compat 0.1.0 released](https://www.reddit.com/r/scala/comments/1u34jsa/hearth_031_kindlings_020_and_refinedcompat_010/)
+- [We should abandon the optional braces syntax](https://www.reddit.com/r/scala/comments/1u2u0zy/we_should_abandon_the_optional_braces_syntax/)
+- [We&#39;ve added island editor to our game!](https://www.reddit.com/r/scala/comments/1u2rnx6/weve_added_island_editor_to_our_game/)
 - [Improving Scala’s documentation and website](https://www.reddit.com/r/scala/comments/1u1i5nz/improving_scalas_documentation_and_website/)
 - [typesafe-config-yaml: YAML support for Typesafe Config / Lightbend Config](https://www.reddit.com/r/scala/comments/1u0xhhp/typesafeconfigyaml_yaml_support_for_typesafe/)
 - [Streaming content rewriting for ZIO Streams](https://www.reddit.com/r/scala/comments/1u0xaks/streaming_content_rewriting_for_zio_streams/)
 - [I made a simple implementation of CE inside Rust](https://www.reddit.com/r/scala/comments/1u0m2u4/i_made_a_simple_implementation_of_ce_inside_rust/)
 - [This week in #Scala &lpar;Jun 8, 2026&rpar;](https://www.reddit.com/r/scala/comments/1u0eaq2/this_week_in_scala_jun_8_2026/)
 - [Scala Hangout - June 11 - Join us for Scala Conversation!](https://www.reddit.com/r/scala/comments/1u0cldh/scala_hangout_june_11_join_us_for_scala/)
-- [sbt 2.0.0-RC15 released](https://www.reddit.com/r/scala/comments/1tzz8ci/sbt_200rc15_released/)
-- [Streaming content rewriting for Pekko HTTP, with a fun origin story](https://www.reddit.com/r/scala/comments/1tzeh3b/streaming_content_rewriting_for_pekko_http_with_a/)
-- [&quot;Nobody&#39;s coming to clean up after you&quot; – second blog post from a Scala dev learning Rust, this one&#39;s about ownership &amp; the borrow checker](https://www.reddit.com/r/scala/comments/1tz6jtv/nobodys_coming_to_clean_up_after_you_second_blog/)
-- [Example Scala GTK4 script](https://www.reddit.com/r/scala/comments/1tyqj4c/example_scala_gtk4_script/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

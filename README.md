@@ -271,7 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Ways to compile Scala code into X?](https://www.reddit.com/r/scala/comments/1u3k8rv/ways_to_compile_scala_code_into_x/)
+- [Question about Curly Braces](https://www.reddit.com/r/scala/comments/1u51m0o/question_about_curly_braces/)
 - [Hearth 0.3.1, Kindlings 0.2.0 and Refined-compat 0.1.0 released](https://www.reddit.com/r/scala/comments/1u34jsa/hearth_031_kindlings_020_and_refinedcompat_010/)
 - [We should abandon the optional braces syntax](https://www.reddit.com/r/scala/comments/1u2u0zy/we_should_abandon_the_optional_braces_syntax/)
 - [We&#39;ve added island editor to our game!](https://www.reddit.com/r/scala/comments/1u2rnx6/weve_added_island_editor_to_our_game/)

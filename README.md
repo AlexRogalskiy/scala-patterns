@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [🛠️ sbt 2.0.0 released](https://www.reddit.com/r/scala/comments/1u61as5/sbt_200_released/)
+- [This week in #Scala &lpar;Jun 15, 2026&rpar;](https://www.reddit.com/r/scala/comments/1u5kyz8/this_week_in_scala_jun_15_2026/)
+- [sbt 1.12.12 released](https://www.reddit.com/r/scala/comments/1u5efui/sbt_11212_released/)
 - [Question about Curly Braces](https://www.reddit.com/r/scala/comments/1u51m0o/question_about_curly_braces/)
 - [Hearth 0.3.1, Kindlings 0.2.0 and Refined-compat 0.1.0 released](https://www.reddit.com/r/scala/comments/1u34jsa/hearth_031_kindlings_020_and_refinedcompat_010/)
 - [We should abandon the optional braces syntax](https://www.reddit.com/r/scala/comments/1u2u0zy/we_should_abandon_the_optional_braces_syntax/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Improving Scala’s documentation and website](https://www.reddit.com/r/scala/comments/1u1i5nz/improving_scalas_documentation_and_website/)
 - [typesafe-config-yaml: YAML support for Typesafe Config / Lightbend Config](https://www.reddit.com/r/scala/comments/1u0xhhp/typesafeconfigyaml_yaml_support_for_typesafe/)
 - [Streaming content rewriting for ZIO Streams](https://www.reddit.com/r/scala/comments/1u0xaks/streaming_content_rewriting_for_zio_streams/)
-- [I made a simple implementation of CE inside Rust](https://www.reddit.com/r/scala/comments/1u0m2u4/i_made_a_simple_implementation_of_ce_inside_rust/)
-- [This week in #Scala &lpar;Jun 8, 2026&rpar;](https://www.reddit.com/r/scala/comments/1u0eaq2/this_week_in_scala_jun_8_2026/)
-- [Scala Hangout - June 11 - Join us for Scala Conversation!](https://www.reddit.com/r/scala/comments/1u0cldh/scala_hangout_june_11_join_us_for_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

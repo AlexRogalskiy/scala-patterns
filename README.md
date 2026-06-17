@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Apache Fory Serialization 1.2.0 released: Better compatibility and remove sun.misc.Unsafe for JDK25+](https://www.reddit.com/r/scala/comments/1u7i6ni/apache_fory_serialization_120_released_better/)
+- [dbos4s 0.1.0: Turn vanilla Scala functions into crash-proof, resumable programs on the DBOS runtime with Postgres 🧈✨ &lpar;Looking for feedback!&rpar;](https://www.reddit.com/r/scala/comments/1u7e48y/dbos4s_010_turn_vanilla_scala_functions_into/)
+- [IntelliJ IDEA x Scala : Make Your Tests Behave &lpar;Finally&rpar;](https://www.reddit.com/r/scala/comments/1u7as3d/intellij_idea_x_scala_make_your_tests_behave/)
 - [🛠️ sbt 2.0.0 released](https://www.reddit.com/r/scala/comments/1u61as5/sbt_200_released/)
 - [This week in #Scala &lpar;Jun 15, 2026&rpar;](https://www.reddit.com/r/scala/comments/1u5kyz8/this_week_in_scala_jun_15_2026/)
 - [sbt 1.12.12 released](https://www.reddit.com/r/scala/comments/1u5efui/sbt_11212_released/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Hearth 0.3.1, Kindlings 0.2.0 and Refined-compat 0.1.0 released](https://www.reddit.com/r/scala/comments/1u34jsa/hearth_031_kindlings_020_and_refinedcompat_010/)
 - [We should abandon the optional braces syntax](https://www.reddit.com/r/scala/comments/1u2u0zy/we_should_abandon_the_optional_braces_syntax/)
 - [We&#39;ve added island editor to our game!](https://www.reddit.com/r/scala/comments/1u2rnx6/weve_added_island_editor_to_our_game/)
-- [Improving Scala’s documentation and website](https://www.reddit.com/r/scala/comments/1u1i5nz/improving_scalas_documentation_and_website/)
-- [typesafe-config-yaml: YAML support for Typesafe Config / Lightbend Config](https://www.reddit.com/r/scala/comments/1u0xhhp/typesafeconfigyaml_yaml_support_for_typesafe/)
-- [Streaming content rewriting for ZIO Streams](https://www.reddit.com/r/scala/comments/1u0xaks/streaming_content_rewriting_for_zio_streams/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Sage: a Redis &amp; Valkey client for Scala 3](https://www.reddit.com/r/scala/comments/1u9trsc/sage_a_redis_valkey_client_for_scala_3/)
+- [Kyo v1.0.0-RC4 - UI, Browser access, Cross-platform native FFIs, and more!](https://www.reddit.com/r/scala/comments/1u9gk9u/kyo_v100rc4_ui_browser_access_crossplatform/)
+- [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.reddit.com/r/scala/comments/1u9f1ba/project_valhalla_explained_how_a_decade_of_work/)
 - [Proposal: a working group for operator-side Scala security](https://www.reddit.com/r/scala/comments/1u8sn9s/proposal_a_working_group_for_operatorside_scala/)
 - [S2D Development Series and Subreddit](https://www.reddit.com/r/scala/comments/1u8siho/s2d_development_series_and_subreddit/)
 - [Mill 1.2.0-RC1: Fine-grained concurrency &lpar;no more global lock!&rpar;, bazel-compatible remote caching, and many more goodies. Please try it out!](https://www.reddit.com/r/scala/comments/1u894yo/mill_120rc1_finegrained_concurrency_no_more/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [dbos4s 0.1.0: Turn vanilla Scala functions into crash-proof, resumable programs on the DBOS runtime with Postgres 🧈✨ &lpar;Looking for feedback!&rpar;](https://www.reddit.com/r/scala/comments/1u7e48y/dbos4s_010_turn_vanilla_scala_functions_into/)
 - [IntelliJ IDEA x Scala : Make Your Tests Behave &lpar;Finally&rpar;](https://www.reddit.com/r/scala/comments/1u7as3d/intellij_idea_x_scala_make_your_tests_behave/)
 - [🛠️ sbt 2.0.0 released](https://www.reddit.com/r/scala/comments/1u61as5/sbt_200_released/)
-- [This week in #Scala &lpar;Jun 15, 2026&rpar;](https://www.reddit.com/r/scala/comments/1u5kyz8/this_week_in_scala_jun_15_2026/)
-- [sbt 1.12.12 released](https://www.reddit.com/r/scala/comments/1u5efui/sbt_11212_released/)
-- [Question about Curly Braces](https://www.reddit.com/r/scala/comments/1u51m0o/question_about_curly_braces/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

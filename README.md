@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Types united against slop: vibe-types](https://www.reddit.com/r/scala/comments/1ubccon/types_united_against_slop_vibetypes/)
+- [Declinio and h4sbl](https://www.reddit.com/r/scala/comments/1uaton6/declinio_and_h4sbl/)
+- [🚀 Introducing Scalapptainer: drive Linux containers from Scala 3, on any OS. No daemon, no root.](https://www.reddit.com/r/scala/comments/1uas1ie/introducing_scalapptainer_drive_linux_containers/)
+- [reducing scaladoc file size with sbt-salad-days](https://www.reddit.com/r/scala/comments/1uarnah/reducing_scaladoc_file_size_with_sbtsaladdays/)
 - [Idea: versioned, distributable observability metadata for Scala libraries &lpar;OTEL schemas + Grafana dashboards&rpar;](https://www.reddit.com/r/scala/comments/1ua0jb2/idea_versioned_distributable_observability/)
 - [Apparently Maven Central 3 days ago announced that they will introduce limits on publishing](https://www.reddit.com/r/scala/comments/1u9y0vs/apparently_maven_central_3_days_ago_announced/)
 - [Sage: a Redis &amp; Valkey client for Scala 3](https://www.reddit.com/r/scala/comments/1u9trsc/sage_a_redis_valkey_client_for_scala_3/)
 - [Kyo v1.0.0-RC4 - UI, Browser access, Cross-platform native FFIs, and more!](https://www.reddit.com/r/scala/comments/1u9gk9u/kyo_v100rc4_ui_browser_access_crossplatform/)
 - [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.reddit.com/r/scala/comments/1u9f1ba/project_valhalla_explained_how_a_decade_of_work/)
 - [Proposal: a working group for operator-side Scala security](https://www.reddit.com/r/scala/comments/1u8sn9s/proposal_a_working_group_for_operatorside_scala/)
-- [S2D Development Series and Subreddit](https://www.reddit.com/r/scala/comments/1u8siho/s2d_development_series_and_subreddit/)
-- [Mill 1.2.0-RC1: Fine-grained concurrency &lpar;no more global lock!&rpar;, bazel-compatible remote caching, and many more goodies. Please try it out!](https://www.reddit.com/r/scala/comments/1u894yo/mill_120rc1_finegrained_concurrency_no_more/)
-- [Apache Fory Serialization 1.2.0 released: Better compatibility and remove sun.misc.Unsafe for JDK25+](https://www.reddit.com/r/scala/comments/1u7i6ni/apache_fory_serialization_120_released_better/)
-- [dbos4s 0.1.0: Turn vanilla Scala functions into crash-proof, resumable programs on the DBOS runtime with Postgres 🧈✨ &lpar;Looking for feedback!&rpar;](https://www.reddit.com/r/scala/comments/1u7e48y/dbos4s_010_turn_vanilla_scala_functions_into/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

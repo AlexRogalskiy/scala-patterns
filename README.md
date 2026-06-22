@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Jun 22, 2026&rpar;](https://www.reddit.com/r/scala/comments/1uc6a6f/this_week_in_scala_jun_22_2026/)
+- [sbt 1.12.13 released](https://www.reddit.com/r/scala/comments/1uc4g1w/sbt_11213_released/)
+- [Announcing Scala.js 1.22.0](https://www.reddit.com/r/scala/comments/1ubvv5g/announcing_scalajs_1220/)
 - [Types united against slop: vibe-types](https://www.reddit.com/r/scala/comments/1ubccon/types_united_against_slop_vibetypes/)
 - [Declinio and h4sbl](https://www.reddit.com/r/scala/comments/1uaton6/declinio_and_h4sbl/)
 - [🚀 Introducing Scalapptainer: drive Linux containers from Scala 3, on any OS. No daemon, no root.](https://www.reddit.com/r/scala/comments/1uas1ie/introducing_scalapptainer_drive_linux_containers/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Idea: versioned, distributable observability metadata for Scala libraries &lpar;OTEL schemas + Grafana dashboards&rpar;](https://www.reddit.com/r/scala/comments/1ua0jb2/idea_versioned_distributable_observability/)
 - [Apparently Maven Central 3 days ago announced that they will introduce limits on publishing](https://www.reddit.com/r/scala/comments/1u9y0vs/apparently_maven_central_3_days_ago_announced/)
 - [Sage: a Redis &amp; Valkey client for Scala 3](https://www.reddit.com/r/scala/comments/1u9trsc/sage_a_redis_valkey_client_for_scala_3/)
-- [Kyo v1.0.0-RC4 - UI, Browser access, Cross-platform native FFIs, and more!](https://www.reddit.com/r/scala/comments/1u9gk9u/kyo_v100rc4_ui_browser_access_crossplatform/)
-- [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.reddit.com/r/scala/comments/1u9f1ba/project_valhalla_explained_how_a_decade_of_work/)
-- [Proposal: a working group for operator-side Scala security](https://www.reddit.com/r/scala/comments/1u8sn9s/proposal_a_working_group_for_operatorside_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

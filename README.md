@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Scala Library Author&#39;s Dilemma](https://www.reddit.com/r/scala/comments/1udbazp/the_scala_library_authors_dilemma/)
 - [Just learned about scalafx](https://www.reddit.com/r/scala/comments/1ucqgps/just_learned_about_scalafx/)
 - [This week in #Scala &lpar;Jun 22, 2026&rpar;](https://www.reddit.com/r/scala/comments/1uc6a6f/this_week_in_scala_jun_22_2026/)
 - [sbt 1.12.13 released](https://www.reddit.com/r/scala/comments/1uc4g1w/sbt_11213_released/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [🚀 Introducing Scalapptainer: drive Linux containers from Scala 3, on any OS. No daemon, no root.](https://www.reddit.com/r/scala/comments/1uas1ie/introducing_scalapptainer_drive_linux_containers/)
 - [reducing scaladoc file size with sbt-salad-days](https://www.reddit.com/r/scala/comments/1uarnah/reducing_scaladoc_file_size_with_sbtsaladdays/)
 - [Idea: versioned, distributable observability metadata for Scala libraries &lpar;OTEL schemas + Grafana dashboards&rpar;](https://www.reddit.com/r/scala/comments/1ua0jb2/idea_versioned_distributable_observability/)
-- [Apparently Maven Central 3 days ago announced that they will introduce limits on publishing](https://www.reddit.com/r/scala/comments/1u9y0vs/apparently_maven_central_3_days_ago_announced/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

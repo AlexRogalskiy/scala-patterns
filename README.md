@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[redacted][0.10.0] released: now, with support for Scala JS &amp; Scala Native &lpar;and sbt plugin 2.0 ready&rpar; 🎉](https://www.reddit.com/r/scala/comments/1ufn61w/redacted0100_released_now_with_support_for_scala/)
+- [Scala Hamsters for Scala 3](https://www.reddit.com/r/scala/comments/1uf6o4x/scala_hamsters_for_scala_3/)
 - [Scala native language binding for Godot game engine](https://www.reddit.com/r/scala/comments/1uebabr/scala_native_language_binding_for_godot_game/)
 - [The Scala Library Author&#39;s Dilemma](https://www.reddit.com/r/scala/comments/1udbazp/the_scala_library_authors_dilemma/)
 - [Just learned about scalafx](https://www.reddit.com/r/scala/comments/1ucqgps/just_learned_about_scalafx/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Announcing Scala.js 1.22.0](https://www.reddit.com/r/scala/comments/1ubvv5g/announcing_scalajs_1220/)
 - [Types united against slop: vibe-types](https://www.reddit.com/r/scala/comments/1ubccon/types_united_against_slop_vibetypes/)
 - [Declinio and h4sbl](https://www.reddit.com/r/scala/comments/1uaton6/declinio_and_h4sbl/)
-- [🚀 Introducing Scalapptainer: drive Linux containers from Scala 3, on any OS. No daemon, no root.](https://www.reddit.com/r/scala/comments/1uas1ie/introducing_scalapptainer_drive_linux_containers/)
-- [reducing scaladoc file size with sbt-salad-days](https://www.reddit.com/r/scala/comments/1uarnah/reducing_scaladoc_file_size_with_sbtsaladdays/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

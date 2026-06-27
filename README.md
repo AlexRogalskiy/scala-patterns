@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I like to share with you MCP tool, which help LLMs to examine project code - ScalaSemantic](https://www.reddit.com/r/scala/comments/1ug5eol/i_like_to_share_with_you_mcp_tool_which_help_llms/)
+- [Scanning CVEs with sbt-osv v0.2.0](https://www.reddit.com/r/scala/comments/1ug1cdt/scanning_cves_with_sbtosv_v020/)
 - [[redacted][0.10.0] released: now, with support for Scala JS &amp; Scala Native &lpar;and sbt plugin 2.0 ready&rpar; 🎉](https://www.reddit.com/r/scala/comments/1ufn61w/redacted0100_released_now_with_support_for_scala/)
 - [Scala Hamsters for Scala 3](https://www.reddit.com/r/scala/comments/1uf6o4x/scala_hamsters_for_scala_3/)
 - [Scala native language binding for Godot game engine](https://www.reddit.com/r/scala/comments/1uebabr/scala_native_language_binding_for_godot_game/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Jun 22, 2026&rpar;](https://www.reddit.com/r/scala/comments/1uc6a6f/this_week_in_scala_jun_22_2026/)
 - [sbt 1.12.13 released](https://www.reddit.com/r/scala/comments/1uc4g1w/sbt_11213_released/)
 - [Announcing Scala.js 1.22.0](https://www.reddit.com/r/scala/comments/1ubvv5g/announcing_scalajs_1220/)
-- [Types united against slop: vibe-types](https://www.reddit.com/r/scala/comments/1ubccon/types_united_against_slop_vibetypes/)
-- [Declinio and h4sbl](https://www.reddit.com/r/scala/comments/1uaton6/declinio_and_h4sbl/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

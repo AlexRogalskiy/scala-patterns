@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 2.0.1 released](https://www.reddit.com/r/scala/comments/1uij0ju/sbt_201_released/)
+- [Hearth 0.4.0, Kindlings 0.3.0, scala-newtype-compat 0.1.1 and refined-compat 0.2.0 - new releases for cross-compilable macros](https://www.reddit.com/r/scala/comments/1ui4sk9/hearth_040_kindlings_030_scalanewtypecompat_011/)
+- [64-bit Integer Division for the JavaScript Platform](https://www.reddit.com/r/scala/comments/1ui0zdl/64bit_integer_division_for_the_javascript_platform/)
+- [This week in #Scala &lpar;Jun 29, 2026&rpar;](https://www.reddit.com/r/scala/comments/1uhwchn/this_week_in_scala_jun_29_2026/)
 - [I like to share with you MCP tool, which help LLMs to examine project code - ScalaSemantic](https://www.reddit.com/r/scala/comments/1ug5eol/i_like_to_share_with_you_mcp_tool_which_help_llms/)
 - [Scanning CVEs with sbt-osv v0.2.0](https://www.reddit.com/r/scala/comments/1ug1cdt/scanning_cves_with_sbtosv_v020/)
 - [[redacted][0.10.0] released: now, with support for Scala JS &amp; Scala Native &lpar;and sbt plugin 2.0 ready&rpar; 🎉](https://www.reddit.com/r/scala/comments/1ufn61w/redacted0100_released_now_with_support_for_scala/)
 - [Scala Hamsters for Scala 3](https://www.reddit.com/r/scala/comments/1uf6o4x/scala_hamsters_for_scala_3/)
 - [Scala native language binding for Godot game engine](https://www.reddit.com/r/scala/comments/1uebabr/scala_native_language_binding_for_godot_game/)
 - [The Scala Library Author&#39;s Dilemma](https://www.reddit.com/r/scala/comments/1udbazp/the_scala_library_authors_dilemma/)
-- [Just learned about scalafx](https://www.reddit.com/r/scala/comments/1ucqgps/just_learned_about_scalafx/)
-- [This week in #Scala &lpar;Jun 22, 2026&rpar;](https://www.reddit.com/r/scala/comments/1uc6a6f/this_week_in_scala_jun_22_2026/)
-- [sbt 1.12.13 released](https://www.reddit.com/r/scala/comments/1uc4g1w/sbt_11213_released/)
-- [Announcing Scala.js 1.22.0](https://www.reddit.com/r/scala/comments/1ubvv5g/announcing_scalajs_1220/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Good Scala for backend tutorials?](https://www.reddit.com/r/scala/comments/1uj11af/good_scala_for_backend_tutorials/)
 - [sbt 2.0.1 released](https://www.reddit.com/r/scala/comments/1uij0ju/sbt_201_released/)
 - [Hearth 0.4.0, Kindlings 0.3.0, scala-newtype-compat 0.1.1 and refined-compat 0.2.0 - new releases for cross-compilable macros](https://www.reddit.com/r/scala/comments/1ui4sk9/hearth_040_kindlings_030_scalanewtypecompat_011/)
 - [64-bit Integer Division for the JavaScript Platform](https://www.reddit.com/r/scala/comments/1ui0zdl/64bit_integer_division_for_the_javascript_platform/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [[redacted][0.10.0] released: now, with support for Scala JS &amp; Scala Native &lpar;and sbt plugin 2.0 ready&rpar; 🎉](https://www.reddit.com/r/scala/comments/1ufn61w/redacted0100_released_now_with_support_for_scala/)
 - [Scala Hamsters for Scala 3](https://www.reddit.com/r/scala/comments/1uf6o4x/scala_hamsters_for_scala_3/)
 - [Scala native language binding for Godot game engine](https://www.reddit.com/r/scala/comments/1uebabr/scala_native_language_binding_for_godot_game/)
-- [The Scala Library Author&#39;s Dilemma](https://www.reddit.com/r/scala/comments/1udbazp/the_scala_library_authors_dilemma/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

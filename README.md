@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Sbt 2 is available!](https://www.reddit.com/r/scala/comments/1ukaw8c/sbt_2_is_available/)
+- [Kyo RC5 - New AI modules!](https://www.reddit.com/r/scala/comments/1uk803q/kyo_rc5_new_ai_modules/)
 - [Good Scala for backend tutorials?](https://www.reddit.com/r/scala/comments/1uj11af/good_scala_for_backend_tutorials/)
 - [sbt 2.0.1 released](https://www.reddit.com/r/scala/comments/1uij0ju/sbt_201_released/)
 - [Hearth 0.4.0, Kindlings 0.3.0, scala-newtype-compat 0.1.1 and refined-compat 0.2.0 - new releases for cross-compilable macros](https://www.reddit.com/r/scala/comments/1ui4sk9/hearth_040_kindlings_030_scalanewtypecompat_011/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [I like to share with you MCP tool, which help LLMs to examine project code - ScalaSemantic](https://www.reddit.com/r/scala/comments/1ug5eol/i_like_to_share_with_you_mcp_tool_which_help_llms/)
 - [Scanning CVEs with sbt-osv v0.2.0](https://www.reddit.com/r/scala/comments/1ug1cdt/scanning_cves_with_sbtosv_v020/)
 - [[redacted][0.10.0] released: now, with support for Scala JS &amp; Scala Native &lpar;and sbt plugin 2.0 ready&rpar; 🎉](https://www.reddit.com/r/scala/comments/1ufn61w/redacted0100_released_now_with_support_for_scala/)
-- [Scala Hamsters for Scala 3](https://www.reddit.com/r/scala/comments/1uf6o4x/scala_hamsters_for_scala_3/)
-- [Scala native language binding for Godot game engine](https://www.reddit.com/r/scala/comments/1uebabr/scala_native_language_binding_for_godot_game/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Last time I took weeks from an intern to upgrade our scala webapp template, claude required 2 days](https://www.reddit.com/r/scala/comments/1ul0inq/last_time_i_took_weeks_from_an_intern_to_upgrade/)
+- [Introducing Deder Build Tool](https://www.reddit.com/r/scala/comments/1ukptvj/introducing_deder_build_tool/)
 - [Sbt 2 is available!](https://www.reddit.com/r/scala/comments/1ukaw8c/sbt_2_is_available/)
 - [Kyo RC5 - New AI modules!](https://www.reddit.com/r/scala/comments/1uk803q/kyo_rc5_new_ai_modules/)
 - [Good Scala for backend tutorials?](https://www.reddit.com/r/scala/comments/1uj11af/good_scala_for_backend_tutorials/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [64-bit Integer Division for the JavaScript Platform](https://www.reddit.com/r/scala/comments/1ui0zdl/64bit_integer_division_for_the_javascript_platform/)
 - [This week in #Scala &lpar;Jun 29, 2026&rpar;](https://www.reddit.com/r/scala/comments/1uhwchn/this_week_in_scala_jun_29_2026/)
 - [I like to share with you MCP tool, which help LLMs to examine project code - ScalaSemantic](https://www.reddit.com/r/scala/comments/1ug5eol/i_like_to_share_with_you_mcp_tool_which_help_llms/)
-- [Scanning CVEs with sbt-osv v0.2.0](https://www.reddit.com/r/scala/comments/1ug1cdt/scanning_cves_with_sbtosv_v020/)
-- [[redacted][0.10.0] released: now, with support for Scala JS &amp; Scala Native &lpar;and sbt plugin 2.0 ready&rpar; 🎉](https://www.reddit.com/r/scala/comments/1ufn61w/redacted0100_released_now_with_support_for_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

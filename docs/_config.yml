@@ -4,7 +4,9 @@ permalink: pretty
 
 baseurl: https://github.com/AlexRogalskiy/android-patterns
 title: Scala Design Patterns
-description: Explores different architectural concepts and design principles for Scala applications
+description:
+  Explores different architectural concepts and design principles for Scala
+  applications
 
 author: Alexander Rogalskiy
 

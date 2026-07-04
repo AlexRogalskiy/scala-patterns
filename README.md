@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Lund University Introprog release v2026.4 Teaching material now both in Swedish AND English](https://www.reddit.com/r/scala/comments/1umn4hj/lund_university_introprog_release_v20264_teaching/)
+- [muntabot v1.0.0 — an oral exam &lpar;viva&rpar; assistant for programming](https://www.reddit.com/r/scala/comments/1umfwg7/muntabot_v100_an_oral_exam_viva_assistant_for/)
 - [Last time I took weeks from an intern to upgrade our scala webapp template, claude required 2 days](https://www.reddit.com/r/scala/comments/1ul0inq/last_time_i_took_weeks_from_an_intern_to_upgrade/)
 - [Introducing Deder Build Tool](https://www.reddit.com/r/scala/comments/1ukptvj/introducing_deder_build_tool/)
 - [Sbt 2 is available!](https://www.reddit.com/r/scala/comments/1ukaw8c/sbt_2_is_available/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt 2.0.1 released](https://www.reddit.com/r/scala/comments/1uij0ju/sbt_201_released/)
 - [Hearth 0.4.0, Kindlings 0.3.0, scala-newtype-compat 0.1.1 and refined-compat 0.2.0 - new releases for cross-compilable macros](https://www.reddit.com/r/scala/comments/1ui4sk9/hearth_040_kindlings_030_scalanewtypecompat_011/)
 - [64-bit Integer Division for the JavaScript Platform](https://www.reddit.com/r/scala/comments/1ui0zdl/64bit_integer_division_for_the_javascript_platform/)
-- [This week in #Scala &lpar;Jun 29, 2026&rpar;](https://www.reddit.com/r/scala/comments/1uhwchn/this_week_in_scala_jun_29_2026/)
-- [I like to share with you MCP tool, which help LLMs to examine project code - ScalaSemantic](https://www.reddit.com/r/scala/comments/1ug5eol/i_like_to_share_with_you_mcp_tool_which_help_llms/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

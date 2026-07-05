@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [moo4s cow implementation in Scala](https://www.reddit.com/r/scala/comments/1unrpt2/moo4s_cow_implementation_in_scala/)
+- [Business4s H1 2026 Highlights](https://www.reddit.com/r/scala/comments/1unhsns/business4s_h1_2026_highlights/)
+- [🚀 jsoniter-scala v2.38.17 is here! Up to 1.5x speedup for Int serialization on Oracle GraalVM!](https://www.reddit.com/r/scala/comments/1un3z6v/jsoniterscala_v23817_is_here_up_to_15x_speedup/)
+- [Kyo — how is it being developed so fats?](https://www.reddit.com/r/scala/comments/1un1izo/kyo_how_is_it_being_developed_so_fats/)
 - [Lund University Introprog release v2026.4 Teaching material now both in Swedish AND English](https://www.reddit.com/r/scala/comments/1umn4hj/lund_university_introprog_release_v20264_teaching/)
 - [muntabot v1.0.0 — an oral exam &lpar;viva&rpar; assistant for programming](https://www.reddit.com/r/scala/comments/1umfwg7/muntabot_v100_an_oral_exam_viva_assistant_for/)
 - [Last time I took weeks from an intern to upgrade our scala webapp template, claude required 2 days](https://www.reddit.com/r/scala/comments/1ul0inq/last_time_i_took_weeks_from_an_intern_to_upgrade/)
 - [Introducing Deder Build Tool](https://www.reddit.com/r/scala/comments/1ukptvj/introducing_deder_build_tool/)
 - [Sbt 2 is available!](https://www.reddit.com/r/scala/comments/1ukaw8c/sbt_2_is_available/)
 - [Kyo RC5 - New AI modules!](https://www.reddit.com/r/scala/comments/1uk803q/kyo_rc5_new_ai_modules/)
-- [Good Scala for backend tutorials?](https://www.reddit.com/r/scala/comments/1uj11af/good_scala_for_backend_tutorials/)
-- [sbt 2.0.1 released](https://www.reddit.com/r/scala/comments/1uij0ju/sbt_201_released/)
-- [Hearth 0.4.0, Kindlings 0.3.0, scala-newtype-compat 0.1.1 and refined-compat 0.2.0 - new releases for cross-compilable macros](https://www.reddit.com/r/scala/comments/1ui4sk9/hearth_040_kindlings_030_scalanewtypecompat_011/)
-- [64-bit Integer Division for the JavaScript Platform](https://www.reddit.com/r/scala/comments/1ui0zdl/64bit_integer_division_for_the_javascript_platform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

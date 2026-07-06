@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala, Write Once, Run Everywhere?](https://www.reddit.com/r/scala/comments/1uoi675/scala_write_once_run_everywhere/)
+- [This week in #Scala &lpar;Jul 6, 2026&rpar;](https://www.reddit.com/r/scala/comments/1uo7b7p/this_week_in_scala_jul_6_2026/)
 - [moo4s cow implementation in Scala](https://www.reddit.com/r/scala/comments/1unrpt2/moo4s_cow_implementation_in_scala/)
 - [Business4s H1 2026 Highlights](https://www.reddit.com/r/scala/comments/1unhsns/business4s_h1_2026_highlights/)
 - [🚀 jsoniter-scala v2.38.17 is here! Up to 1.5x speedup for Int serialization on Oracle GraalVM!](https://www.reddit.com/r/scala/comments/1un3z6v/jsoniterscala_v23817_is_here_up_to_15x_speedup/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [muntabot v1.0.0 — an oral exam &lpar;viva&rpar; assistant for programming](https://www.reddit.com/r/scala/comments/1umfwg7/muntabot_v100_an_oral_exam_viva_assistant_for/)
 - [Last time I took weeks from an intern to upgrade our scala webapp template, claude required 2 days](https://www.reddit.com/r/scala/comments/1ul0inq/last_time_i_took_weeks_from_an_intern_to_upgrade/)
 - [Introducing Deder Build Tool](https://www.reddit.com/r/scala/comments/1ukptvj/introducing_deder_build_tool/)
-- [Sbt 2 is available!](https://www.reddit.com/r/scala/comments/1ukaw8c/sbt_2_is_available/)
-- [Kyo RC5 - New AI modules!](https://www.reddit.com/r/scala/comments/1uk803q/kyo_rc5_new_ai_modules/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

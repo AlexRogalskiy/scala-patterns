@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [FArray — an unboxed, immutable Scala 3 sequence that fuses at compile time](https://www.reddit.com/r/scala/comments/1upgnr8/farray_an_unboxed_immutable_scala_3_sequence_that/)
+- [Coaxing quality output from generative AI](https://www.reddit.com/r/scala/comments/1up541m/coaxing_quality_output_from_generative_ai/)
 - [Scala, Write Once, Run Everywhere?](https://www.reddit.com/r/scala/comments/1uoi675/scala_write_once_run_everywhere/)
 - [This week in #Scala &lpar;Jul 6, 2026&rpar;](https://www.reddit.com/r/scala/comments/1uo7b7p/this_week_in_scala_jul_6_2026/)
 - [moo4s cow implementation in Scala](https://www.reddit.com/r/scala/comments/1unrpt2/moo4s_cow_implementation_in_scala/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Kyo — how is it being developed so fats?](https://www.reddit.com/r/scala/comments/1un1izo/kyo_how_is_it_being_developed_so_fats/)
 - [Lund University Introprog release v2026.4 Teaching material now both in Swedish AND English](https://www.reddit.com/r/scala/comments/1umn4hj/lund_university_introprog_release_v20264_teaching/)
 - [muntabot v1.0.0 — an oral exam &lpar;viva&rpar; assistant for programming](https://www.reddit.com/r/scala/comments/1umfwg7/muntabot_v100_an_oral_exam_viva_assistant_for/)
-- [Last time I took weeks from an intern to upgrade our scala webapp template, claude required 2 days](https://www.reddit.com/r/scala/comments/1ul0inq/last_time_i_took_weeks_from_an_intern_to_upgrade/)
-- [Introducing Deder Build Tool](https://www.reddit.com/r/scala/comments/1ukptvj/introducing_deder_build_tool/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

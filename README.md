@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Capture Checking and Performance](https://www.reddit.com/r/scala/comments/1uqcyr2/capture_checking_and_performance/)
+- [Scala Hangout: Generating Scala with AI! July 9th at 6:30pm CST](https://www.reddit.com/r/scala/comments/1uq5rc5/scala_hangout_generating_scala_with_ai_july_9th/)
+- [The Bowling Game - From Imperative to Functional Programming - Part 1](https://www.reddit.com/r/scala/comments/1uq0atd/the_bowling_game_from_imperative_to_functional/)
 - [FArray — an unboxed, immutable Scala 3 sequence that fuses at compile time](https://www.reddit.com/r/scala/comments/1upgnr8/farray_an_unboxed_immutable_scala_3_sequence_that/)
 - [Coaxing quality output from generative AI](https://www.reddit.com/r/scala/comments/1up541m/coaxing_quality_output_from_generative_ai/)
 - [Scala, Write Once, Run Everywhere?](https://www.reddit.com/r/scala/comments/1uoi675/scala_write_once_run_everywhere/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [moo4s cow implementation in Scala](https://www.reddit.com/r/scala/comments/1unrpt2/moo4s_cow_implementation_in_scala/)
 - [Business4s H1 2026 Highlights](https://www.reddit.com/r/scala/comments/1unhsns/business4s_h1_2026_highlights/)
 - [🚀 jsoniter-scala v2.38.17 is here! Up to 1.5x speedup for Int serialization on Oracle GraalVM!](https://www.reddit.com/r/scala/comments/1un3z6v/jsoniterscala_v23817_is_here_up_to_15x_speedup/)
-- [Kyo — how is it being developed so fats?](https://www.reddit.com/r/scala/comments/1un1izo/kyo_how_is_it_being_developed_so_fats/)
-- [Lund University Introprog release v2026.4 Teaching material now both in Swedish AND English](https://www.reddit.com/r/scala/comments/1umn4hj/lund_university_introprog_release_v20264_teaching/)
-- [muntabot v1.0.0 — an oral exam &lpar;viva&rpar; assistant for programming](https://www.reddit.com/r/scala/comments/1umfwg7/muntabot_v100_an_oral_exam_viva_assistant_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

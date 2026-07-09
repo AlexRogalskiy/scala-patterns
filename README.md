@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [:&rpar;](https://www.reddit.com/r/scala/comments/1uqy1gg/_/)
 - [Capture Checking and Performance](https://www.reddit.com/r/scala/comments/1uqcyr2/capture_checking_and_performance/)
 - [Scala Hangout: Generating Scala with AI! July 9th at 6:30pm CST](https://www.reddit.com/r/scala/comments/1uq5rc5/scala_hangout_generating_scala_with_ai_july_9th/)
 - [The Bowling Game - From Imperative to Functional Programming - Part 1](https://www.reddit.com/r/scala/comments/1uq0atd/the_bowling_game_from_imperative_to_functional/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Jul 6, 2026&rpar;](https://www.reddit.com/r/scala/comments/1uo7b7p/this_week_in_scala_jul_6_2026/)
 - [moo4s cow implementation in Scala](https://www.reddit.com/r/scala/comments/1unrpt2/moo4s_cow_implementation_in_scala/)
 - [Business4s H1 2026 Highlights](https://www.reddit.com/r/scala/comments/1unhsns/business4s_h1_2026_highlights/)
-- [🚀 jsoniter-scala v2.38.17 is here! Up to 1.5x speedup for Int serialization on Oracle GraalVM!](https://www.reddit.com/r/scala/comments/1un3z6v/jsoniterscala_v23817_is_here_up_to_15x_speedup/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

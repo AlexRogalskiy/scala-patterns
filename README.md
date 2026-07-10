@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I Built an Open-Source Contextual Ad Network with Scala &amp; Apache Pekko Cluster&lpar;and Go&rpar;](https://www.reddit.com/r/scala/comments/1urlc7i/i_built_an_opensource_contextual_ad_network_with/)
+- [Why People Are Leaving Scala](https://www.reddit.com/r/scala/comments/1url3kk/why_people_are_leaving_scala/)
 - [:&rpar;](https://www.reddit.com/r/scala/comments/1uqy1gg/_/)
 - [Capture Checking and Performance](https://www.reddit.com/r/scala/comments/1uqcyr2/capture_checking_and_performance/)
 - [Scala Hangout: Generating Scala with AI! July 9th at 6:30pm CST](https://www.reddit.com/r/scala/comments/1uq5rc5/scala_hangout_generating_scala_with_ai_july_9th/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Coaxing quality output from generative AI](https://www.reddit.com/r/scala/comments/1up541m/coaxing_quality_output_from_generative_ai/)
 - [Scala, Write Once, Run Everywhere?](https://www.reddit.com/r/scala/comments/1uoi675/scala_write_once_run_everywhere/)
 - [This week in #Scala &lpar;Jul 6, 2026&rpar;](https://www.reddit.com/r/scala/comments/1uo7b7p/this_week_in_scala_jul_6_2026/)
-- [moo4s cow implementation in Scala](https://www.reddit.com/r/scala/comments/1unrpt2/moo4s_cow_implementation_in_scala/)
-- [Business4s H1 2026 Highlights](https://www.reddit.com/r/scala/comments/1unhsns/business4s_h1_2026_highlights/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

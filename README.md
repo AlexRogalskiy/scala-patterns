@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is it still worth learning this language at this point in time?](https://www.reddit.com/r/scala/comments/1ut17mw/is_it_still_worth_learning_this_language_at_this/)
+- [A Scala common-style pilot study](https://www.reddit.com/r/scala/comments/1usuv8p/a_scala_commonstyle_pilot_study/)
+- [Kyo-JFX Hello World template](https://www.reddit.com/r/scala/comments/1usp835/kyojfx_hello_world_template/)
 - [I Built an Open-Source Contextual Ad Network with Scala &amp; Apache Pekko Cluster&lpar;and Go&rpar;](https://www.reddit.com/r/scala/comments/1urlc7i/i_built_an_opensource_contextual_ad_network_with/)
 - [Why People Are Leaving Scala](https://www.reddit.com/r/scala/comments/1url3kk/why_people_are_leaving_scala/)
 - [:&rpar;](https://www.reddit.com/r/scala/comments/1uqy1gg/_/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala Hangout: Generating Scala with AI! July 9th at 6:30pm CST](https://www.reddit.com/r/scala/comments/1uq5rc5/scala_hangout_generating_scala_with_ai_july_9th/)
 - [The Bowling Game - From Imperative to Functional Programming - Part 1](https://www.reddit.com/r/scala/comments/1uq0atd/the_bowling_game_from_imperative_to_functional/)
 - [FArray — an unboxed, immutable Scala 3 sequence that fuses at compile time](https://www.reddit.com/r/scala/comments/1upgnr8/farray_an_unboxed_immutable_scala_3_sequence_that/)
-- [Coaxing quality output from generative AI](https://www.reddit.com/r/scala/comments/1up541m/coaxing_quality_output_from_generative_ai/)
-- [Scala, Write Once, Run Everywhere?](https://www.reddit.com/r/scala/comments/1uoi675/scala_write_once_run_everywhere/)
-- [This week in #Scala &lpar;Jul 6, 2026&rpar;](https://www.reddit.com/r/scala/comments/1uo7b7p/this_week_in_scala_jul_6_2026/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[HIRING] Senior Scala+ Apache Spark Engineer – Remote from Argentina 🇦🇷](https://www.reddit.com/r/scala/comments/1uwmke1/hiring_senior_scala_apache_spark_engineer_remote/)
+- [[Hiring] Backend Engineer &lpar;Scala&rpar; — Lisbon, Portugal &lpar;Hybrid&rpar;](https://www.reddit.com/r/scala/comments/1uw4029/hiring_backend_engineer_scala_lisbon_portugal/)
 - [Some love for Scala](https://www.reddit.com/r/scala/comments/1uvi88l/some_love_for_scala/)
 - [layoutz 0.8.0: Simple, zero-dep Elm-style TUIs for your Scala apps ✨🪶 - now w/ interactive one-shot prompts, Kitty protocol support, and collection spinners](https://www.reddit.com/r/scala/comments/1uvbcy9/layoutz_080_simple_zerodep_elmstyle_tuis_for_your/)
 - [Stable, platform-independent encryption library for Scala?](https://www.reddit.com/r/scala/comments/1uv754t/stable_platformindependent_encryption_library_for/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Jul 13, 2026&rpar;](https://www.reddit.com/r/scala/comments/1uukt9j/this_week_in_scala_jul_13_2026/)
 - [Is it still worth learning this language at this point in time?](https://www.reddit.com/r/scala/comments/1ut17mw/is_it_still_worth_learning_this_language_at_this/)
 - [A Scala common-style pilot study](https://www.reddit.com/r/scala/comments/1usuv8p/a_scala_commonstyle_pilot_study/)
-- [Kyo-JFX Hello World template](https://www.reddit.com/r/scala/comments/1usp835/kyojfx_hello_world_template/)
-- [I Built an Open-Source Contextual Ad Network with Scala &amp; Apache Pekko Cluster&lpar;and Go&rpar;](https://www.reddit.com/r/scala/comments/1urlc7i/i_built_an_opensource_contextual_ad_network_with/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

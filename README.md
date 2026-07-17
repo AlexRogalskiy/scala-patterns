@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 1.12.14 and 2.0.3 released](https://www.reddit.com/r/scala/comments/1uyngyt/sbt_11214_and_203_released/)
+- [Just discovered agent skills](https://www.reddit.com/r/scala/comments/1uydv6t/just_discovered_agent_skills/)
+- [IntelliJ Scala Plugin 2026.2 Is Out!](https://www.reddit.com/r/scala/comments/1uy95ca/intellij_scala_plugin_20262_is_out/)
 - [Stryker4s 1.0: Mutation testing across the Scala ecosystem](https://www.reddit.com/r/scala/comments/1ux9y0c/stryker4s_10_mutation_testing_across_the_scala/)
 - [[HIRING] Senior Scala+ Apache Spark Engineer – Remote from Argentina 🇦🇷](https://www.reddit.com/r/scala/comments/1uwmke1/hiring_senior_scala_apache_spark_engineer_remote/)
 - [Fast and Durable: how Redis and Postgres split the work in a game backend &lpar;Scala/Pekko, Cats Effect, Doobie, redis4cats&rpar;](https://www.reddit.com/r/scala/comments/1uwlz0k/fast_and_durable_how_redis_and_postgres_split_the/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Some love for Scala](https://www.reddit.com/r/scala/comments/1uvi88l/some_love_for_scala/)
 - [layoutz 0.8.0: Simple, zero-dep Elm-style TUIs for your Scala apps ✨🪶 - now w/ interactive one-shot prompts, Kitty protocol support, and collection spinners](https://www.reddit.com/r/scala/comments/1uvbcy9/layoutz_080_simple_zerodep_elmstyle_tuis_for_your/)
 - [Stable, platform-independent encryption library for Scala?](https://www.reddit.com/r/scala/comments/1uv754t/stable_platformindependent_encryption_library_for/)
-- [We&#39;ve added save and load!](https://www.reddit.com/r/scala/comments/1uv47cq/weve_added_save_and_load/)
-- [sbt 2.0.2 released](https://www.reddit.com/r/scala/comments/1uv2rhk/sbt_202_released/)
-- [This week in #Scala &lpar;Jul 13, 2026&rpar;](https://www.reddit.com/r/scala/comments/1uukt9j/this_week_in_scala_jul_13_2026/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

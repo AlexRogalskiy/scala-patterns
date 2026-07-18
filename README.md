@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Hiring: Backend Developer &lpar;Scala&rpar; | Remote|CET Hours](https://www.reddit.com/r/scala/comments/1uz3sgw/hiring_backend_developer_scala_remotecet_hours/)
+- [Validating configuration; pushing logic into Circe or handling elsewhere](https://www.reddit.com/r/scala/comments/1uz0fj0/validating_configuration_pushing_logic_into_circe/)
+- [Tyda is a type-safe Dataset library for Scala 3 that supports Spark](https://www.reddit.com/r/scala/comments/1uyxxgp/tyda_is_a_typesafe_dataset_library_for_scala_3/)
 - [sbt 1.12.14 and 2.0.3 released](https://www.reddit.com/r/scala/comments/1uyngyt/sbt_11214_and_203_released/)
 - [Just discovered agent skills](https://www.reddit.com/r/scala/comments/1uydv6t/just_discovered_agent_skills/)
 - [IntelliJ Scala Plugin 2026.2 Is Out!](https://www.reddit.com/r/scala/comments/1uy95ca/intellij_scala_plugin_20262_is_out/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [[HIRING] Senior Scala+ Apache Spark Engineer – Remote from Argentina 🇦🇷](https://www.reddit.com/r/scala/comments/1uwmke1/hiring_senior_scala_apache_spark_engineer_remote/)
 - [Fast and Durable: how Redis and Postgres split the work in a game backend &lpar;Scala/Pekko, Cats Effect, Doobie, redis4cats&rpar;](https://www.reddit.com/r/scala/comments/1uwlz0k/fast_and_durable_how_redis_and_postgres_split_the/)
 - [[Hiring] Backend Engineer &lpar;Scala&rpar; — Lisbon, Portugal &lpar;Hybrid&rpar;](https://www.reddit.com/r/scala/comments/1uw4029/hiring_backend_engineer_scala_lisbon_portugal/)
-- [Some love for Scala](https://www.reddit.com/r/scala/comments/1uvi88l/some_love_for_scala/)
-- [layoutz 0.8.0: Simple, zero-dep Elm-style TUIs for your Scala apps ✨🪶 - now w/ interactive one-shot prompts, Kitty protocol support, and collection spinners](https://www.reddit.com/r/scala/comments/1uvbcy9/layoutz_080_simple_zerodep_elmstyle_tuis_for_your/)
-- [Stable, platform-independent encryption library for Scala?](https://www.reddit.com/r/scala/comments/1uv754t/stable_platformindependent_encryption_library_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

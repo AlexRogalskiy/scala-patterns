@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Emacs Eglot for Scala &lpar;JVM&rpar; and some nifty workarounds for day-to-day usage](https://www.reddit.com/r/scala/comments/1v1mvfm/emacs_eglot_for_scala_jvm_and_some_nifty/)
 - [Abstracting over Execution with Higher Kinded Types, and how to remain Purely Functional &lpar;oldie but goodie - belatedly uploaded&rpar;](https://www.reddit.com/r/scala/comments/1v0sdcj/abstracting_over_execution_with_higher_kinded/)
 - [This week in #Scala &lpar;Jul 20, 2026&rpar;](https://www.reddit.com/r/scala/comments/1v0qhp0/this_week_in_scala_jul_20_2026/)
 - [Hiring: Backend Developer &lpar;Scala&rpar; | Remote|CET Hours](https://www.reddit.com/r/scala/comments/1uz3sgw/hiring_backend_developer_scala_remotecet_hours/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [IntelliJ Scala Plugin 2026.2 Is Out!](https://www.reddit.com/r/scala/comments/1uy95ca/intellij_scala_plugin_20262_is_out/)
 - [Stryker4s 1.0: Mutation testing across the Scala ecosystem](https://www.reddit.com/r/scala/comments/1ux9y0c/stryker4s_10_mutation_testing_across_the_scala/)
 - [[HIRING] Senior Scala+ Apache Spark Engineer – Remote from Argentina 🇦🇷](https://www.reddit.com/r/scala/comments/1uwmke1/hiring_senior_scala_apache_spark_engineer_remote/)
-- [Fast and Durable: how Redis and Postgres split the work in a game backend &lpar;Scala/Pekko, Cats Effect, Doobie, redis4cats&rpar;](https://www.reddit.com/r/scala/comments/1uwlz0k/fast_and_durable_how_redis_and_postgres_split_the/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Manufacturing Station Maintenance prediction using H2O Extended Isolation Forest And Scala 3](https://www.reddit.com/r/scala/comments/1v32u4e/manufacturing_station_maintenance_prediction/)
 - [Emacs Eglot for Scala &lpar;JVM&rpar; and some nifty workarounds for day-to-day usage](https://www.reddit.com/r/scala/comments/1v1mvfm/emacs_eglot_for_scala_jvm_and_some_nifty/)
 - [Abstracting over Execution with Higher Kinded Types, and how to remain Purely Functional &lpar;oldie but goodie - belatedly uploaded&rpar;](https://www.reddit.com/r/scala/comments/1v0sdcj/abstracting_over_execution_with_higher_kinded/)
 - [This week in #Scala &lpar;Jul 20, 2026&rpar;](https://www.reddit.com/r/scala/comments/1v0qhp0/this_week_in_scala_jul_20_2026/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Just discovered agent skills](https://www.reddit.com/r/scala/comments/1uydv6t/just_discovered_agent_skills/)
 - [IntelliJ Scala Plugin 2026.2 Is Out!](https://www.reddit.com/r/scala/comments/1uy95ca/intellij_scala_plugin_20262_is_out/)
 - [Stryker4s 1.0: Mutation testing across the Scala ecosystem](https://www.reddit.com/r/scala/comments/1ux9y0c/stryker4s_10_mutation_testing_across_the_scala/)
-- [[HIRING] Senior Scala+ Apache Spark Engineer – Remote from Argentina 🇦🇷](https://www.reddit.com/r/scala/comments/1uwmke1/hiring_senior_scala_apache_spark_engineer_remote/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

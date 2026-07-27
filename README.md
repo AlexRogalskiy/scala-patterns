@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 2.0.4 released](https://www.reddit.com/r/scala/comments/1v7ig8e/sbt_204_released/)
+- [This week in #Scala &lpar;Jul 27, 2026&rpar;](https://www.reddit.com/r/scala/comments/1v731xq/this_week_in_scala_jul_27_2026/)
 - [Jar Jar Abrams 1.17.0 and sbt-assembly 2.4.0 released](https://www.reddit.com/r/scala/comments/1v405wd/jar_jar_abrams_1170_and_sbtassembly_240_released/)
 - [Switching default implementation of Seq to Vector](https://www.reddit.com/r/scala/comments/1v3lhwz/switching_default_implementation_of_seq_to_vector/)
 - [🎉 scala-yaml v0.3.3 is out! &lpar;The Summer Speed Release 🌈 &rpar; - up to 10x faster &amp; 20x less memory allocation rate](https://www.reddit.com/r/scala/comments/1v3ihh2/scalayaml_v033_is_out_the_summer_speed_release_up/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Abstracting over Execution with Higher Kinded Types, and how to remain Purely Functional &lpar;oldie but goodie - belatedly uploaded&rpar;](https://www.reddit.com/r/scala/comments/1v0sdcj/abstracting_over_execution_with_higher_kinded/)
 - [This week in #Scala &lpar;Jul 20, 2026&rpar;](https://www.reddit.com/r/scala/comments/1v0qhp0/this_week_in_scala_jul_20_2026/)
 - [Hiring: Backend Developer &lpar;Scala&rpar; | Remote|CET Hours](https://www.reddit.com/r/scala/comments/1uz3sgw/hiring_backend_developer_scala_remotecet_hours/)
-- [Tyda is a type-safe Dataset library for Scala 3 that supports Spark](https://www.reddit.com/r/scala/comments/1uyxxgp/tyda_is_a_typesafe_dataset_library_for_scala_3/)
-- [sbt 1.12.14 and 2.0.3 released](https://www.reddit.com/r/scala/comments/1uyngyt/sbt_11214_and_203_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

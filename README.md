@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Aug 3, 2026&rpar;](https://www.reddit.com/r/scala/comments/1vdix3n/this_week_in_scala_aug_3_2026/)
 - [sbt 2.0.4 released](https://www.reddit.com/r/scala/comments/1v7ig8e/sbt_204_released/)
 - [This week in #Scala &lpar;Jul 27, 2026&rpar;](https://www.reddit.com/r/scala/comments/1v731xq/this_week_in_scala_jul_27_2026/)
 - [Jar Jar Abrams 1.17.0 and sbt-assembly 2.4.0 released](https://www.reddit.com/r/scala/comments/1v405wd/jar_jar_abrams_1170_and_sbtassembly_240_released/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Emacs Eglot for Scala &lpar;JVM&rpar; and some nifty workarounds for day-to-day usage](https://www.reddit.com/r/scala/comments/1v1mvfm/emacs_eglot_for_scala_jvm_and_some_nifty/)
 - [Abstracting over Execution with Higher Kinded Types, and how to remain Purely Functional &lpar;oldie but goodie - belatedly uploaded&rpar;](https://www.reddit.com/r/scala/comments/1v0sdcj/abstracting_over_execution_with_higher_kinded/)
 - [This week in #Scala &lpar;Jul 20, 2026&rpar;](https://www.reddit.com/r/scala/comments/1v0qhp0/this_week_in_scala_jul_20_2026/)
-- [Hiring: Backend Developer &lpar;Scala&rpar; | Remote|CET Hours](https://www.reddit.com/r/scala/comments/1uz3sgw/hiring_backend_developer_scala_remotecet_hours/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

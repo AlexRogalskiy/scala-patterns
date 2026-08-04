@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 2.0.5 released](https://www.reddit.com/r/scala/comments/1vetwzw/sbt_205_released/)
+- [bridges - Cats effect IO context and logging](https://www.reddit.com/r/scala/comments/1vep8in/bridges_cats_effect_io_context_and_logging/)
 - [This week in #Scala &lpar;Aug 3, 2026&rpar;](https://www.reddit.com/r/scala/comments/1vdix3n/this_week_in_scala_aug_3_2026/)
 - [sbt 2.0.4 released](https://www.reddit.com/r/scala/comments/1v7ig8e/sbt_204_released/)
 - [This week in #Scala &lpar;Jul 27, 2026&rpar;](https://www.reddit.com/r/scala/comments/1v731xq/this_week_in_scala_jul_27_2026/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [🎉 scala-yaml v0.3.3 is out! &lpar;The Summer Speed Release 🌈 &rpar; - up to 10x faster &amp; 20x less memory allocation rate](https://www.reddit.com/r/scala/comments/1v3ihh2/scalayaml_v033_is_out_the_summer_speed_release_up/)
 - [Manufacturing Station Maintenance prediction using H2O Extended Isolation Forest And Scala 3](https://www.reddit.com/r/scala/comments/1v32u4e/manufacturing_station_maintenance_prediction/)
 - [Emacs Eglot for Scala &lpar;JVM&rpar; and some nifty workarounds for day-to-day usage](https://www.reddit.com/r/scala/comments/1v1mvfm/emacs_eglot_for_scala_jvm_and_some_nifty/)
-- [Abstracting over Execution with Higher Kinded Types, and how to remain Purely Functional &lpar;oldie but goodie - belatedly uploaded&rpar;](https://www.reddit.com/r/scala/comments/1v0sdcj/abstracting_over_execution_with_higher_kinded/)
-- [This week in #Scala &lpar;Jul 20, 2026&rpar;](https://www.reddit.com/r/scala/comments/1v0qhp0/this_week_in_scala_jul_20_2026/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

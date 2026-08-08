@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Shocking news](https://www.reddit.com/r/scala/comments/1vifzeh/shocking_news/)
+- [sbt-assembly keys not available in project, even though assembly command works](https://www.reddit.com/r/scala/comments/1vi22vw/sbtassembly_keys_not_available_in_project_even/)
+- [sbt 1.12.15 and 2.0.6 are released with a CVE fix](https://www.reddit.com/r/scala/comments/1vhpuxz/sbt_11215_and_206_are_released_with_a_cve_fix/)
 - [kyo v1.0.0-RC6: kyo-sql &lpar;wire-protocol SQL, no JDBC&rpar; and kyo-net &lpar;one C transport and TLS&rpar; for JVM, JS, Native, Wasm, GraalVM](https://www.reddit.com/r/scala/comments/1vfsaps/kyo_v100rc6_kyosql_wireprotocol_sql_no_jdbc_and/)
 - [Daniel Spiewak on Cats Effect and Scala](https://www.reddit.com/r/scala/comments/1vflvkx/daniel_spiewak_on_cats_effect_and_scala/)
 - [sbt 2.0.5 released](https://www.reddit.com/r/scala/comments/1vetwzw/sbt_205_released/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Aug 3, 2026&rpar;](https://www.reddit.com/r/scala/comments/1vdix3n/this_week_in_scala_aug_3_2026/)
 - [sbt 2.0.4 released](https://www.reddit.com/r/scala/comments/1v7ig8e/sbt_204_released/)
 - [This week in #Scala &lpar;Jul 27, 2026&rpar;](https://www.reddit.com/r/scala/comments/1v731xq/this_week_in_scala_jul_27_2026/)
-- [Jar Jar Abrams 1.17.0 and sbt-assembly 2.4.0 released](https://www.reddit.com/r/scala/comments/1v405wd/jar_jar_abrams_1170_and_sbtassembly_240_released/)
-- [Switching default implementation of Seq to Vector](https://www.reddit.com/r/scala/comments/1v3lhwz/switching_default_implementation_of_seq_to_vector/)
-- [🎉 scala-yaml v0.3.3 is out! &lpar;The Summer Speed Release 🌈 &rpar; - up to 10x faster &amp; 20x less memory allocation rate](https://www.reddit.com/r/scala/comments/1v3ihh2/scalayaml_v033_is_out_the_summer_speed_release_up/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

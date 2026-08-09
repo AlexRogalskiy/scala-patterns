@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [tree-sitter-scala 0.26.2 released](https://www.reddit.com/r/scala/comments/1vj5w0f/treesitterscala_0262_released/)
+- [Yet another event streams library &lpar;signals3, v1.2.0&rpar;](https://www.reddit.com/r/scala/comments/1vitquo/yet_another_event_streams_library_signals3_v120/)
 - [Shocking news](https://www.reddit.com/r/scala/comments/1vifzeh/shocking_news/)
 - [sbt-assembly keys not available in project, even though assembly command works](https://www.reddit.com/r/scala/comments/1vi22vw/sbtassembly_keys_not_available_in_project_even/)
 - [sbt 1.12.15 and 2.0.6 are released with a CVE fix](https://www.reddit.com/r/scala/comments/1vhpuxz/sbt_11215_and_206_are_released_with_a_cve_fix/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt 2.0.5 released](https://www.reddit.com/r/scala/comments/1vetwzw/sbt_205_released/)
 - [bridges - Cats effect IO context and logging](https://www.reddit.com/r/scala/comments/1vep8in/bridges_cats_effect_io_context_and_logging/)
 - [This week in #Scala &lpar;Aug 3, 2026&rpar;](https://www.reddit.com/r/scala/comments/1vdix3n/this_week_in_scala_aug_3_2026/)
-- [sbt 2.0.4 released](https://www.reddit.com/r/scala/comments/1v7ig8e/sbt_204_released/)
-- [This week in #Scala &lpar;Jul 27, 2026&rpar;](https://www.reddit.com/r/scala/comments/1v731xq/this_week_in_scala_jul_27_2026/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

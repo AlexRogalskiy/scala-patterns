@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala vs Kotlin in the Age of AI-Generated Code](https://www.reddit.com/r/scala/comments/1vk2e1i/scala_vs_kotlin_in_the_age_of_aigenerated_code/)
+- [This week in #Scala &lpar;Aug 10, 2026&rpar;](https://www.reddit.com/r/scala/comments/1vjpobg/this_week_in_scala_aug_10_2026/)
 - [tree-sitter-scala 0.26.2 released](https://www.reddit.com/r/scala/comments/1vj5w0f/treesitterscala_0262_released/)
 - [Yet another event streams library &lpar;signals3, v1.2.0&rpar;](https://www.reddit.com/r/scala/comments/1vitquo/yet_another_event_streams_library_signals3_v120/)
 - [Shocking news](https://www.reddit.com/r/scala/comments/1vifzeh/shocking_news/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [kyo v1.0.0-RC6: kyo-sql &lpar;wire-protocol SQL, no JDBC&rpar; and kyo-net &lpar;one C transport and TLS&rpar; for JVM, JS, Native, Wasm, GraalVM](https://www.reddit.com/r/scala/comments/1vfsaps/kyo_v100rc6_kyosql_wireprotocol_sql_no_jdbc_and/)
 - [Daniel Spiewak on Cats Effect and Scala](https://www.reddit.com/r/scala/comments/1vflvkx/daniel_spiewak_on_cats_effect_and_scala/)
 - [sbt 2.0.5 released](https://www.reddit.com/r/scala/comments/1vetwzw/sbt_205_released/)
-- [bridges - Cats effect IO context and logging](https://www.reddit.com/r/scala/comments/1vep8in/bridges_cats_effect_io_context_and_logging/)
-- [This week in #Scala &lpar;Aug 3, 2026&rpar;](https://www.reddit.com/r/scala/comments/1vdix3n/this_week_in_scala_aug_3_2026/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [[HIRING] Senior Data Engineer – Scala / Apache Spark | Remote](https://www.reddit.com/r/scala/comments/1vknpsd/hiring_senior_data_engineer_scala_apache_spark/)
 - [Scala vs Kotlin in the Age of AI-Generated Code](https://www.reddit.com/r/scala/comments/1vk2e1i/scala_vs_kotlin_in_the_age_of_aigenerated_code/)
 - [This week in #Scala &lpar;Aug 10, 2026&rpar;](https://www.reddit.com/r/scala/comments/1vjpobg/this_week_in_scala_aug_10_2026/)
 - [tree-sitter-scala 0.26.2 released](https://www.reddit.com/r/scala/comments/1vj5w0f/treesitterscala_0262_released/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt 1.12.15 and 2.0.6 are released with a CVE fix](https://www.reddit.com/r/scala/comments/1vhpuxz/sbt_11215_and_206_are_released_with_a_cve_fix/)
 - [kyo v1.0.0-RC6: kyo-sql &lpar;wire-protocol SQL, no JDBC&rpar; and kyo-net &lpar;one C transport and TLS&rpar; for JVM, JS, Native, Wasm, GraalVM](https://www.reddit.com/r/scala/comments/1vfsaps/kyo_v100rc6_kyosql_wireprotocol_sql_no_jdbc_and/)
 - [Daniel Spiewak on Cats Effect and Scala](https://www.reddit.com/r/scala/comments/1vflvkx/daniel_spiewak_on_cats_effect_and_scala/)
-- [sbt 2.0.5 released](https://www.reddit.com/r/scala/comments/1vetwzw/sbt_205_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

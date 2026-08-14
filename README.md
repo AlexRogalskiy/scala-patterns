@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [My mistake](https://www.reddit.com/r/scala/comments/1vneqvv/my_mistake/)
 - [[ Removed by Reddit ]](https://www.reddit.com/r/scala/comments/1vme2rm/removed_by_reddit/)
 - [zio-temporal v1.0.0-RC2 — Jackson is gone, compile-time codec safety, automatic registration](https://www.reddit.com/r/scala/comments/1vm9pg8/ziotemporal_v100rc2_jackson_is_gone_compiletime/)
 - [Databricks open-sourcing Metals V2 for large &lpar;millions LOC&rpar; Scala codebases](https://www.reddit.com/r/scala/comments/1vm99gu/databricks_opensourcing_metals_v2_for_large/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Aug 10, 2026&rpar;](https://www.reddit.com/r/scala/comments/1vjpobg/this_week_in_scala_aug_10_2026/)
 - [tree-sitter-scala 0.26.2 released](https://www.reddit.com/r/scala/comments/1vj5w0f/treesitterscala_0262_released/)
 - [Yet another event streams library &lpar;signals3, v1.2.0&rpar;](https://www.reddit.com/r/scala/comments/1vitquo/yet_another_event_streams_library_signals3_v120/)
-- [Shocking news](https://www.reddit.com/r/scala/comments/1vifzeh/shocking_news/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

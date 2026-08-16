@@ -271,7 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Why do you prefer IO over Future?](https://www.reddit.com/r/scala/comments/1vobr50/why_do_you_prefer_io_over_future/)
+- [Why Kit Langton left Scala?](https://www.reddit.com/r/scala/comments/1vpg0ye/why_kit_langton_left_scala/)
+- [sbt plugin classpath isolation](https://www.reddit.com/r/scala/comments/1vpfywu/sbt_plugin_classpath_isolation/)
+- [Scala &amp; Enola - Looking for feedback](https://www.reddit.com/r/scala/comments/1voumr2/scala_enola_looking_for_feedback/)
 - [Vecxt - Numerical Library](https://www.reddit.com/r/scala/comments/1vo2t0m/vecxt_numerical_library/)
 - [My mistake](https://www.reddit.com/r/scala/comments/1vneqvv/my_mistake/)
 - [zio-temporal v1.0.0-RC2 — Jackson is gone, compile-time codec safety, automatic registration](https://www.reddit.com/r/scala/comments/1vm9pg8/ziotemporal_v100rc2_jackson_is_gone_compiletime/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Apache Fory™ JSON: 10x Faster JSON Serialization Framework for Java](https://www.reddit.com/r/scala/comments/1vly4er/apache_fory_json_10x_faster_json_serialization/)
 - [[HIRING] Senior Data Engineer – Scala / Apache Spark | Remote](https://www.reddit.com/r/scala/comments/1vknpsd/hiring_senior_data_engineer_scala_apache_spark/)
 - [Scala vs Kotlin in the Age of AI-Generated Code](https://www.reddit.com/r/scala/comments/1vk2e1i/scala_vs_kotlin_in_the_age_of_aigenerated_code/)
-- [This week in #Scala &lpar;Aug 10, 2026&rpar;](https://www.reddit.com/r/scala/comments/1vjpobg/this_week_in_scala_aug_10_2026/)
-- [tree-sitter-scala 0.26.2 released](https://www.reddit.com/r/scala/comments/1vj5w0f/treesitterscala_0262_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

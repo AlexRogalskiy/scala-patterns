@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Someone here is working on MCP servers / clients?](https://www.reddit.com/r/scala/comments/1vskz2z/someone_here_is_working_on_mcp_servers_clients/)
+- [What fixes Spark shuffle, data skew and disk spills at scale?](https://www.reddit.com/r/scala/comments/1vsdxlv/what_fixes_spark_shuffle_data_skew_and_disk/)
 - [This week in #Scala &lpar;Aug 17, 2026&rpar;](https://www.reddit.com/r/scala/comments/1vpzadh/this_week_in_scala_aug_17_2026/)
 - [sbt2-only port of sbt-explicit-dependencies](https://www.reddit.com/r/scala/comments/1vpvg81/sbt2only_port_of_sbtexplicitdependencies/)
 - [Why Kit Langton left Scala?](https://www.reddit.com/r/scala/comments/1vpg0ye/why_kit_langton_left_scala/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Vecxt - Numerical Library](https://www.reddit.com/r/scala/comments/1vo2t0m/vecxt_numerical_library/)
 - [My mistake](https://www.reddit.com/r/scala/comments/1vneqvv/my_mistake/)
 - [zio-temporal v1.0.0-RC2 — Jackson is gone, compile-time codec safety, automatic registration](https://www.reddit.com/r/scala/comments/1vm9pg8/ziotemporal_v100rc2_jackson_is_gone_compiletime/)
-- [Databricks open-sourcing Metals V2 for large &lpar;millions LOC&rpar; Scala codebases](https://www.reddit.com/r/scala/comments/1vm99gu/databricks_opensourcing_metals_v2_for_large/)
-- [Apache Fory™ JSON: 10x Faster JSON Serialization Framework for Java](https://www.reddit.com/r/scala/comments/1vly4er/apache_fory_json_10x_faster_json_serialization/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

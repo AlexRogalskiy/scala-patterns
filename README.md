@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 1.13.0 and 2.0.7 are released with a CVE fix](https://www.reddit.com/r/scala/comments/1vu6uwp/sbt_1130_and_207_are_released_with_a_cve_fix/)
 - [Someone here is working on MCP servers / clients?](https://www.reddit.com/r/scala/comments/1vskz2z/someone_here_is_working_on_mcp_servers_clients/)
 - [What fixes Spark shuffle, data skew and disk spills at scale?](https://www.reddit.com/r/scala/comments/1vsdxlv/what_fixes_spark_shuffle_data_skew_and_disk/)
 - [This week in #Scala &lpar;Aug 17, 2026&rpar;](https://www.reddit.com/r/scala/comments/1vpzadh/this_week_in_scala_aug_17_2026/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala &amp; Enola - Looking for feedback](https://www.reddit.com/r/scala/comments/1voumr2/scala_enola_looking_for_feedback/)
 - [Vecxt - Numerical Library](https://www.reddit.com/r/scala/comments/1vo2t0m/vecxt_numerical_library/)
 - [My mistake](https://www.reddit.com/r/scala/comments/1vneqvv/my_mistake/)
-- [zio-temporal v1.0.0-RC2 — Jackson is gone, compile-time codec safety, automatic registration](https://www.reddit.com/r/scala/comments/1vm9pg8/ziotemporal_v100rc2_jackson_is_gone_compiletime/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

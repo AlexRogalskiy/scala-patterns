@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Aug 24, 2026&rpar;](https://www.reddit.com/r/scala/comments/1vwgkv8/this_week_in_scala_aug_24_2026/)
+- [Share your tips &amp; tricks for LLM/AI efficiency with Scala, please](https://www.reddit.com/r/scala/comments/1vwe5g8/share_your_tips_tricks_for_llmai_efficiency_with/)
 - [sbt 1.13.0 and 2.0.7 are released with a CVE fix](https://www.reddit.com/r/scala/comments/1vu6uwp/sbt_1130_and_207_are_released_with_a_cve_fix/)
 - [Someone here is working on MCP servers / clients?](https://www.reddit.com/r/scala/comments/1vskz2z/someone_here_is_working_on_mcp_servers_clients/)
 - [What fixes Spark shuffle, data skew and disk spills at scale?](https://www.reddit.com/r/scala/comments/1vsdxlv/what_fixes_spark_shuffle_data_skew_and_disk/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Why Kit Langton left Scala?](https://www.reddit.com/r/scala/comments/1vpg0ye/why_kit_langton_left_scala/)
 - [sbt plugin classpath isolation](https://www.reddit.com/r/scala/comments/1vpfywu/sbt_plugin_classpath_isolation/)
 - [Scala &amp; Enola - Looking for feedback](https://www.reddit.com/r/scala/comments/1voumr2/scala_enola_looking_for_feedback/)
-- [Vecxt - Numerical Library](https://www.reddit.com/r/scala/comments/1vo2t0m/vecxt_numerical_library/)
-- [My mistake](https://www.reddit.com/r/scala/comments/1vneqvv/my_mistake/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,11 +271,11 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 2.0.8 released](https://www.reddit.com/r/scala/comments/1w0gkb3/sbt_208_released/)
 - [This week in #Scala &lpar;Aug 24, 2026&rpar;](https://www.reddit.com/r/scala/comments/1vwgkv8/this_week_in_scala_aug_24_2026/)
 - [Share your tips &amp; tricks for LLM/AI efficiency with Scala, please](https://www.reddit.com/r/scala/comments/1vwe5g8/share_your_tips_tricks_for_llmai_efficiency_with/)
 - [sbt 1.13.0 and 2.0.7 are released with a CVE fix](https://www.reddit.com/r/scala/comments/1vu6uwp/sbt_1130_and_207_are_released_with_a_cve_fix/)
 - [Someone here is working on MCP servers / clients?](https://www.reddit.com/r/scala/comments/1vskz2z/someone_here_is_working_on_mcp_servers_clients/)
-- [What fixes Spark shuffle, data skew and disk spills at scale?](https://www.reddit.com/r/scala/comments/1vsdxlv/what_fixes_spark_shuffle_data_skew_and_disk/)
 - [This week in #Scala &lpar;Aug 17, 2026&rpar;](https://www.reddit.com/r/scala/comments/1vpzadh/this_week_in_scala_aug_17_2026/)
 - [sbt2-only port of sbt-explicit-dependencies](https://www.reddit.com/r/scala/comments/1vpvg81/sbt2only_port_of_sbtexplicitdependencies/)
 - [Why Kit Langton left Scala?](https://www.reddit.com/r/scala/comments/1vpg0ye/why_kit_langton_left_scala/)

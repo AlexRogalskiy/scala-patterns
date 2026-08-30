@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [basamake: Minimalistic Scala LSP](https://www.reddit.com/r/scala/comments/1w1oa77/basamake_minimalistic_scala_lsp/)
 - [Shadcn Scalajs](https://www.reddit.com/r/scala/comments/1w1fav3/shadcn_scalajs/)
 - [sbt 2.0.8 released](https://www.reddit.com/r/scala/comments/1w0gkb3/sbt_208_released/)
 - [This week in #Scala &lpar;Aug 24, 2026&rpar;](https://www.reddit.com/r/scala/comments/1vwgkv8/this_week_in_scala_aug_24_2026/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Aug 17, 2026&rpar;](https://www.reddit.com/r/scala/comments/1vpzadh/this_week_in_scala_aug_17_2026/)
 - [sbt2-only port of sbt-explicit-dependencies](https://www.reddit.com/r/scala/comments/1vpvg81/sbt2only_port_of_sbtexplicitdependencies/)
 - [Why Kit Langton left Scala?](https://www.reddit.com/r/scala/comments/1vpg0ye/why_kit_langton_left_scala/)
-- [sbt plugin classpath isolation](https://www.reddit.com/r/scala/comments/1vpfywu/sbt_plugin_classpath_isolation/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

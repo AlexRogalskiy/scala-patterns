@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Cats-Actors 2.2.0 is released](https://www.reddit.com/r/scala/comments/1w4qbk1/catsactors_220_is_released/)
+- [ldbc v0.8.0 is out 🎉](https://www.reddit.com/r/scala/comments/1w4fhxw/ldbc_v080_is_out/)
+- [Released windymelt/inertia-scala: Inertia.js binding for Scala 3 server](https://www.reddit.com/r/scala/comments/1w46kfd/released_windymeltinertiascala_inertiajs_binding/)
+- [Code generation from OpenAPI specs](https://www.reddit.com/r/scala/comments/1w44i73/code_generation_from_openapi_specs/)
 - [This week in #Scala &lpar;Aug 31, 2026&rpar;](https://www.reddit.com/r/scala/comments/1w2oer5/this_week_in_scala_aug_31_2026/)
 - [Scheduling Quantum-Classical HPC Tasks in Scala](https://www.reddit.com/r/scala/comments/1w2l7my/scheduling_quantumclassical_hpc_tasks_in_scala/)
 - [basamake: Minimalistic Scala LSP](https://www.reddit.com/r/scala/comments/1w1oa77/basamake_minimalistic_scala_lsp/)
 - [Shadcn Scalajs](https://www.reddit.com/r/scala/comments/1w1fav3/shadcn_scalajs/)
 - [sbt 2.0.8 released](https://www.reddit.com/r/scala/comments/1w0gkb3/sbt_208_released/)
 - [This week in #Scala &lpar;Aug 24, 2026&rpar;](https://www.reddit.com/r/scala/comments/1vwgkv8/this_week_in_scala_aug_24_2026/)
-- [Share your tips &amp; tricks for LLM/AI efficiency with Scala, please](https://www.reddit.com/r/scala/comments/1vwe5g8/share_your_tips_tricks_for_llmai_efficiency_with/)
-- [sbt 1.13.0 and 2.0.7 are released with a CVE fix](https://www.reddit.com/r/scala/comments/1vu6uwp/sbt_1130_and_207_are_released_with_a_cve_fix/)
-- [Someone here is working on MCP servers / clients?](https://www.reddit.com/r/scala/comments/1vskz2z/someone_here_is_working_on_mcp_servers_clients/)
-- [This week in #Scala &lpar;Aug 17, 2026&rpar;](https://www.reddit.com/r/scala/comments/1vpzadh/this_week_in_scala_aug_17_2026/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

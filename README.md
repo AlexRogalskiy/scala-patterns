@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala 3.9 LTS released!](https://www.reddit.com/r/scala/comments/1w6e9uh/scala_39_lts_released/)
+- [Introduction to Scala 3&#39;s Capture Checking and Separation Checking | tanishiking blog](https://www.reddit.com/r/scala/comments/1w65nra/introduction_to_scala_3s_capture_checking_and/)
+- [BOB 2027 &lpar;Feb 26&rpar; Call for Contributions &lpar;Deadline Nov 2&rpar;](https://www.reddit.com/r/scala/comments/1w62v9k/bob_2027_feb_26_call_for_contributions_deadline/)
+- [Indigo, Tyrian, and Ultraviolet v0.30.0-M6 released](https://www.reddit.com/r/scala/comments/1w60knh/indigo_tyrian_and_ultraviolet_v0300m6_released/)
 - [Cats-Actors 2.2.0 is released](https://www.reddit.com/r/scala/comments/1w4qbk1/catsactors_220_is_released/)
 - [ldbc v0.8.0 is out 🎉](https://www.reddit.com/r/scala/comments/1w4fhxw/ldbc_v080_is_out/)
 - [Released windymelt/inertia-scala: Inertia.js binding for Scala 3 server](https://www.reddit.com/r/scala/comments/1w46kfd/released_windymeltinertiascala_inertiajs_binding/)
 - [Code generation from OpenAPI specs](https://www.reddit.com/r/scala/comments/1w44i73/code_generation_from_openapi_specs/)
 - [This week in #Scala &lpar;Aug 31, 2026&rpar;](https://www.reddit.com/r/scala/comments/1w2oer5/this_week_in_scala_aug_31_2026/)
 - [Scheduling Quantum-Classical HPC Tasks in Scala](https://www.reddit.com/r/scala/comments/1w2l7my/scheduling_quantumclassical_hpc_tasks_in_scala/)
-- [basamake: Minimalistic Scala LSP](https://www.reddit.com/r/scala/comments/1w1oa77/basamake_minimalistic_scala_lsp/)
-- [Shadcn Scalajs](https://www.reddit.com/r/scala/comments/1w1fav3/shadcn_scalajs/)
-- [sbt 2.0.8 released](https://www.reddit.com/r/scala/comments/1w0gkb3/sbt_208_released/)
-- [This week in #Scala &lpar;Aug 24, 2026&rpar;](https://www.reddit.com/r/scala/comments/1vwgkv8/this_week_in_scala_aug_24_2026/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

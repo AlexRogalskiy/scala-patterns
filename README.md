@@ -271,7 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [GraalVM got 8-12% faster across Java, Kotlin, and Scala in the last update in my benchmark suite](https://www.reddit.com/r/scala/comments/1w7lxxx/graalvm_got_812_faster_across_java_kotlin_and/)
+- [Open-source revenue recognition &amp; analytics for Stripe built with PlayFramework](https://www.reddit.com/r/scala/comments/1w879fj/opensource_revenue_recognition_analytics_for/)
 - [RFC-5: test scheduling](https://www.reddit.com/r/scala/comments/1w7kmib/rfc5_test_scheduling/)
 - [My AI setup for Scala projects: Mistral + ThinkRail](https://www.reddit.com/r/scala/comments/1w78uxx/my_ai_setup_for_scala_projects_mistral_thinkrail/)
 - [Scala 3.9 LTS released!](https://www.reddit.com/r/scala/comments/1w6e9uh/scala_39_lts_released/)

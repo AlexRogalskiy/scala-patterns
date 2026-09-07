@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Difference between trait, class, case class and object](https://www.reddit.com/r/scala/comments/1w92hoe/difference_between_trait_class_case_class_and/)
+- [This week in #Scala &lpar;Sep 7, 2026&rpar;](https://www.reddit.com/r/scala/comments/1w8v6gn/this_week_in_scala_sep_7_2026/)
 - [Open-source revenue recognition &amp; analytics for Stripe built with PlayFramework](https://www.reddit.com/r/scala/comments/1w879fj/opensource_revenue_recognition_analytics_for/)
 - [RFC-5: test scheduling](https://www.reddit.com/r/scala/comments/1w7kmib/rfc5_test_scheduling/)
 - [My AI setup for Scala projects: Mistral + ThinkRail](https://www.reddit.com/r/scala/comments/1w78uxx/my_ai_setup_for_scala_projects_mistral_thinkrail/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [BOB 2027 &lpar;Feb 26&rpar; Call for Contributions &lpar;Deadline Nov 2&rpar;](https://www.reddit.com/r/scala/comments/1w62v9k/bob_2027_feb_26_call_for_contributions_deadline/)
 - [Indigo, Tyrian, and Ultraviolet v0.30.0-M6 released](https://www.reddit.com/r/scala/comments/1w60knh/indigo_tyrian_and_ultraviolet_v0300m6_released/)
 - [Cats-Actors 2.2.0 is released](https://www.reddit.com/r/scala/comments/1w4qbk1/catsactors_220_is_released/)
-- [ldbc v0.8.0 is out 🎉](https://www.reddit.com/r/scala/comments/1w4fhxw/ldbc_v080_is_out/)
-- [Released windymelt/inertia-scala: Inertia.js binding for Scala 3 server](https://www.reddit.com/r/scala/comments/1w46kfd/released_windymeltinertiascala_inertiajs_binding/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

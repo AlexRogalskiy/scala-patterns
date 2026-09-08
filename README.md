@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Bowling Game - From Imperative to Functional Programming - Part 2](https://www.reddit.com/r/scala/comments/1w9wmiq/the_bowling_game_from_imperative_to_functional/)
+- [Allow Experimental 0.1.0 - use Scala 3 `@experimental` APIs without making your callers experimental](https://www.reddit.com/r/scala/comments/1w9pr6m/allow_experimental_010_use_scala_3_experimental/)
 - [Difference between trait, class, case class and object](https://www.reddit.com/r/scala/comments/1w92hoe/difference_between_trait_class_case_class_and/)
 - [This week in #Scala &lpar;Sep 7, 2026&rpar;](https://www.reddit.com/r/scala/comments/1w8v6gn/this_week_in_scala_sep_7_2026/)
 - [Open-source revenue recognition &amp; analytics for Stripe built with PlayFramework](https://www.reddit.com/r/scala/comments/1w879fj/opensource_revenue_recognition_analytics_for/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scala 3.9 LTS released!](https://www.reddit.com/r/scala/comments/1w6e9uh/scala_39_lts_released/)
 - [Introduction to Scala 3&#39;s Capture Checking and Separation Checking | tanishiking blog](https://www.reddit.com/r/scala/comments/1w65nra/introduction_to_scala_3s_capture_checking_and/)
 - [BOB 2027 &lpar;Feb 26&rpar; Call for Contributions &lpar;Deadline Nov 2&rpar;](https://www.reddit.com/r/scala/comments/1w62v9k/bob_2027_feb_26_call_for_contributions_deadline/)
-- [Indigo, Tyrian, and Ultraviolet v0.30.0-M6 released](https://www.reddit.com/r/scala/comments/1w60knh/indigo_tyrian_and_ultraviolet_v0300m6_released/)
-- [Cats-Actors 2.2.0 is released](https://www.reddit.com/r/scala/comments/1w4qbk1/catsactors_220_is_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

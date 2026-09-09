@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [baklava - turn your HTTP tests into OpenAPI, HTML docs, Postman collections, and typed TypeScript or Scala clients - for APIs you serve or consume](https://www.reddit.com/r/scala/comments/1wan6uh/baklava_turn_your_http_tests_into_openapi_html/)
 - [The Bowling Game - From Imperative to Functional Programming - Part 2](https://www.reddit.com/r/scala/comments/1w9wmiq/the_bowling_game_from_imperative_to_functional/)
 - [Allow Experimental 0.1.0 - use Scala 3 `@experimental` APIs without making your callers experimental](https://www.reddit.com/r/scala/comments/1w9pr6m/allow_experimental_010_use_scala_3_experimental/)
+- [When should you choose Akka HTTP over ZIO HTTP &lpar;and vice versa&rpar;?](https://www.reddit.com/r/scala/comments/1w9pb9y/when_should_you_choose_akka_http_over_zio_http/)
+- [When should you choose Akka HTTP over ZIO HTTP &lpar;and vice versa&rpar;?](https://www.reddit.com/r/scala/comments/1w9payv/when_should_you_choose_akka_http_over_zio_http/)
 - [Difference between trait, class, case class and object](https://www.reddit.com/r/scala/comments/1w92hoe/difference_between_trait_class_case_class_and/)
 - [This week in #Scala &lpar;Sep 7, 2026&rpar;](https://www.reddit.com/r/scala/comments/1w8v6gn/this_week_in_scala_sep_7_2026/)
 - [Open-source revenue recognition &amp; analytics for Stripe built with PlayFramework](https://www.reddit.com/r/scala/comments/1w879fj/opensource_revenue_recognition_analytics_for/)
 - [RFC-5: test scheduling](https://www.reddit.com/r/scala/comments/1w7kmib/rfc5_test_scheduling/)
 - [My AI setup for Scala projects: Mistral + ThinkRail](https://www.reddit.com/r/scala/comments/1w78uxx/my_ai_setup_for_scala_projects_mistral_thinkrail/)
-- [Scala 3.9 LTS released!](https://www.reddit.com/r/scala/comments/1w6e9uh/scala_39_lts_released/)
-- [Introduction to Scala 3&#39;s Capture Checking and Separation Checking | tanishiking blog](https://www.reddit.com/r/scala/comments/1w65nra/introduction_to_scala_3s_capture_checking_and/)
-- [BOB 2027 &lpar;Feb 26&rpar; Call for Contributions &lpar;Deadline Nov 2&rpar;](https://www.reddit.com/r/scala/comments/1w62v9k/bob_2027_feb_26_call_for_contributions_deadline/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

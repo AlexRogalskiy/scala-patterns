@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Connections between category theory and types](https://www.reddit.com/r/scala/comments/1wcnivm/connections_between_category_theory_and_types/)
+- [Join us for another Scala Hangout tonight &lpar;9/10&rpar; at 7pm CT!](https://www.reddit.com/r/scala/comments/1wckygu/join_us_for_another_scala_hangout_tonight_910_at/)
+- [Believe it or not, Scala as a language for beginners](https://www.reddit.com/r/scala/comments/1wcjvxi/believe_it_or_not_scala_as_a_language_for/)
+- [Hi, I made example page for inertia-scala](https://www.reddit.com/r/scala/comments/1wcd5vk/hi_i_made_example_page_for_inertiascala/)
 - [Share your AI &quot;code&quot;](https://www.reddit.com/r/scala/comments/1wc8p3o/share_your_ai_code/)
 - [Lambda World 2026 - Functional Programming in Málaga, 29–30 October](https://www.reddit.com/r/scala/comments/1wbkyi9/lambda_world_2026_functional_programming_in/)
 - [baklava - turn your HTTP tests into OpenAPI, HTML docs, Postman collections, and typed TypeScript or Scala clients - for APIs you serve or consume](https://www.reddit.com/r/scala/comments/1wan6uh/baklava_turn_your_http_tests_into_openapi_html/)
 - [The Bowling Game - From Imperative to Functional Programming - Part 2](https://www.reddit.com/r/scala/comments/1w9wmiq/the_bowling_game_from_imperative_to_functional/)
 - [Allow Experimental 0.1.0 - use Scala 3 `@experimental` APIs without making your callers experimental](https://www.reddit.com/r/scala/comments/1w9pr6m/allow_experimental_010_use_scala_3_experimental/)
 - [When should you choose Akka HTTP over ZIO HTTP &lpar;and vice versa&rpar;?](https://www.reddit.com/r/scala/comments/1w9pb9y/when_should_you_choose_akka_http_over_zio_http/)
-- [When should you choose Akka HTTP over ZIO HTTP &lpar;and vice versa&rpar;?](https://www.reddit.com/r/scala/comments/1w9payv/when_should_you_choose_akka_http_over_zio_http/)
-- [Difference between trait, class, case class and object](https://www.reddit.com/r/scala/comments/1w92hoe/difference_between_trait_class_case_class_and/)
-- [This week in #Scala &lpar;Sep 7, 2026&rpar;](https://www.reddit.com/r/scala/comments/1w8v6gn/this_week_in_scala_sep_7_2026/)
-- [Open-source revenue recognition &amp; analytics for Stripe built with PlayFramework](https://www.reddit.com/r/scala/comments/1w879fj/opensource_revenue_recognition_analytics_for/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

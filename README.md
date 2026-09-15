@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Micronaut will hopefully soon support Scala &lpar;WIP&rpar;](https://www.reddit.com/r/scala/comments/1wg733e/micronaut_will_hopefully_soon_support_scala_wip/)
+- [Codacy are hiring a midlevel Scala engineer](https://www.reddit.com/r/scala/comments/1wg6nrt/codacy_are_hiring_a_midlevel_scala_engineer/)
+- [sbt 2.0.9 released](https://www.reddit.com/r/scala/comments/1wfwoxc/sbt_209_released/)
 - [sbt 2.1.0 beta &lpar;2.1.0-M1&rpar; released](https://www.reddit.com/r/scala/comments/1wfrdqo/sbt_210_beta_210m1_released/)
 - [This week in #Scala &lpar;Sep 14, 2026&rpar;](https://www.reddit.com/r/scala/comments/1wfdz7c/this_week_in_scala_sep_14_2026/)
 - [Connections between category theory and types](https://www.reddit.com/r/scala/comments/1wcnivm/connections_between_category_theory_and_types/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Believe it or not, Scala as a language for beginners](https://www.reddit.com/r/scala/comments/1wcjvxi/believe_it_or_not_scala_as_a_language_for/)
 - [Hi, I made example page for inertia-scala](https://www.reddit.com/r/scala/comments/1wcd5vk/hi_i_made_example_page_for_inertiascala/)
 - [Share your AI &quot;code&quot;](https://www.reddit.com/r/scala/comments/1wc8p3o/share_your_ai_code/)
-- [Lambda World 2026 - Functional Programming in Málaga, 29–30 October](https://www.reddit.com/r/scala/comments/1wbkyi9/lambda_world_2026_functional_programming_in/)
-- [baklava - turn your HTTP tests into OpenAPI, HTML docs, Postman collections, and typed TypeScript or Scala clients - for APIs you serve or consume](https://www.reddit.com/r/scala/comments/1wan6uh/baklava_turn_your_http_tests_into_openapi_html/)
-- [The Bowling Game - From Imperative to Functional Programming - Part 2](https://www.reddit.com/r/scala/comments/1w9wmiq/the_bowling_game_from_imperative_to_functional/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

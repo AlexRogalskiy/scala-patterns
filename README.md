@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Java 27 is here](https://www.reddit.com/r/scala/comments/1wi7ibq/java_27_is_here/)
+- [VirtusLab Scala Stack](https://www.reddit.com/r/scala/comments/1whuqwg/virtuslab_scala_stack/)
 - [LLM4S takes the stage at Microsoft Global Hackathon 2026, sharing 20 months of building towards LLM4S 1.0](https://www.reddit.com/r/scala/comments/1whjlbs/llm4s_takes_the_stage_at_microsoft_global/)
 - [Micronaut will hopefully soon support Scala &lpar;WIP&rpar;](https://www.reddit.com/r/scala/comments/1wg733e/micronaut_will_hopefully_soon_support_scala_wip/)
 - [Codacy are hiring a midlevel Scala engineer](https://www.reddit.com/r/scala/comments/1wg6nrt/codacy_are_hiring_a_midlevel_scala_engineer/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Sep 14, 2026&rpar;](https://www.reddit.com/r/scala/comments/1wfdz7c/this_week_in_scala_sep_14_2026/)
 - [Connections between category theory and types](https://www.reddit.com/r/scala/comments/1wcnivm/connections_between_category_theory_and_types/)
 - [Join us for another Scala Hangout tonight &lpar;9/10&rpar; at 7pm CT!](https://www.reddit.com/r/scala/comments/1wckygu/join_us_for_another_scala_hangout_tonight_910_at/)
-- [Believe it or not, Scala as a language for beginners](https://www.reddit.com/r/scala/comments/1wcjvxi/believe_it_or_not_scala_as_a_language_for/)
-- [Hi, I made example page for inertia-scala](https://www.reddit.com/r/scala/comments/1wcd5vk/hi_i_made_example_page_for_inertiascala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

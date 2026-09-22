@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Reforesting the sbt plugin ecosystem and sbt 2.1.0 beta](https://www.reddit.com/r/scala/comments/1wmnabw/reforesting_the_sbt_plugin_ecosystem_and_sbt_210/)
+- [Migrating a Scala monorepo from sbt to Gradle at Box &lpar;Blog post&rpar;](https://www.reddit.com/r/scala/comments/1wmeuck/migrating_a_scala_monorepo_from_sbt_to_gradle_at/)
 - [[San Francisco] - Scala Summit 2026](https://www.reddit.com/r/scala/comments/1wm3ezy/san_francisco_scala_summit_2026/)
 - [This week in #Scala &lpar;Sep 21, 2026&rpar;](https://www.reddit.com/r/scala/comments/1wlj26b/this_week_in_scala_sep_21_2026/)
 - [AI in Scala](https://www.reddit.com/r/scala/comments/1wl94vh/ai_in_scala/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [VirtusLab Scala Stack](https://www.reddit.com/r/scala/comments/1whuqwg/virtuslab_scala_stack/)
 - [LLM4S takes the stage at Microsoft Global Hackathon 2026, sharing 20 months of building towards LLM4S 1.0](https://www.reddit.com/r/scala/comments/1whjlbs/llm4s_takes_the_stage_at_microsoft_global/)
 - [Micronaut will hopefully soon support Scala &lpar;WIP&rpar;](https://www.reddit.com/r/scala/comments/1wg733e/micronaut_will_hopefully_soon_support_scala_wip/)
-- [Codacy are hiring a midlevel Scala engineer](https://www.reddit.com/r/scala/comments/1wg6nrt/codacy_are_hiring_a_midlevel_scala_engineer/)
-- [sbt 2.0.9 released](https://www.reddit.com/r/scala/comments/1wfwoxc/sbt_209_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

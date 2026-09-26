@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Is this community really so corrupt and evil?](https://www.reddit.com/r/scala/comments/1wq5ffw/is_this_community_really_so_corrupt_and_evil/)
+- [Spec Strings in Scala](https://www.reddit.com/r/scala/comments/1wq493x/spec_strings_in_scala/)
 - [Reforesting the sbt plugin ecosystem and sbt 2.1.0 beta](https://www.reddit.com/r/scala/comments/1wmnabw/reforesting_the_sbt_plugin_ecosystem_and_sbt_210/)
 - [Migrating a Scala monorepo from sbt to Gradle at Box &lpar;Blog post&rpar;](https://www.reddit.com/r/scala/comments/1wmeuck/migrating_a_scala_monorepo_from_sbt_to_gradle_at/)
 - [[San Francisco] - Scala Summit 2026](https://www.reddit.com/r/scala/comments/1wm3ezy/san_francisco_scala_summit_2026/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [JDK 27 is here](https://www.reddit.com/r/scala/comments/1wiw6zr/jdk_27_is_here/)
 - [Java 27 is here](https://www.reddit.com/r/scala/comments/1wi7ibq/java_27_is_here/)
 - [VirtusLab Scala Stack](https://www.reddit.com/r/scala/comments/1whuqwg/virtuslab_scala_stack/)
-- [LLM4S takes the stage at Microsoft Global Hackathon 2026, sharing 20 months of building towards LLM4S 1.0](https://www.reddit.com/r/scala/comments/1whjlbs/llm4s_takes_the_stage_at_microsoft_global/)
-- [Micronaut will hopefully soon support Scala &lpar;WIP&rpar;](https://www.reddit.com/r/scala/comments/1wg733e/micronaut_will_hopefully_soon_support_scala_wip/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

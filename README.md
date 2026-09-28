@@ -271,7 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Is this community really so corrupt and evil?](https://www.reddit.com/r/scala/comments/1wq5ffw/is_this_community_really_so_corrupt_and_evil/)
+- [Category Theory Explained for Haskell Programmers – Part 1 | Jencel Panic | ZuriHac 2026](https://www.reddit.com/r/scala/comments/1wrus4j/category_theory_explained_for_haskell_programmers/)
+- [This week in #Scala &lpar;Sep 28, 2026&rpar;](https://www.reddit.com/r/scala/comments/1wrr3h0/this_week_in_scala_sep_28_2026/)
 - [Spec Strings in Scala](https://www.reddit.com/r/scala/comments/1wq493x/spec_strings_in_scala/)
 - [Reforesting the sbt plugin ecosystem and sbt 2.1.0 beta](https://www.reddit.com/r/scala/comments/1wmnabw/reforesting_the_sbt_plugin_ecosystem_and_sbt_210/)
 - [Migrating a Scala monorepo from sbt to Gradle at Box &lpar;Blog post&rpar;](https://www.reddit.com/r/scala/comments/1wmeuck/migrating_a_scala_monorepo_from_sbt_to_gradle_at/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [AI in Scala](https://www.reddit.com/r/scala/comments/1wl94vh/ai_in_scala/)
 - [JDK 27 is here](https://www.reddit.com/r/scala/comments/1wiw6zr/jdk_27_is_here/)
 - [Java 27 is here](https://www.reddit.com/r/scala/comments/1wi7ibq/java_27_is_here/)
-- [VirtusLab Scala Stack](https://www.reddit.com/r/scala/comments/1whuqwg/virtuslab_scala_stack/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Kyo v1.0.0-RC7](https://www.reddit.com/r/scala/comments/1wskzfj/kyo_v100rc7/)
+- [[Scala News] - August 2026 edition](https://www.reddit.com/r/scala/comments/1ws7qfj/scala_news_august_2026_edition/)
 - [Category Theory Explained for Haskell Programmers – Part 1 | Jencel Panic | ZuriHac 2026](https://www.reddit.com/r/scala/comments/1wrus4j/category_theory_explained_for_haskell_programmers/)
 - [This week in #Scala &lpar;Sep 28, 2026&rpar;](https://www.reddit.com/r/scala/comments/1wrr3h0/this_week_in_scala_sep_28_2026/)
 - [Spec Strings in Scala](https://www.reddit.com/r/scala/comments/1wq493x/spec_strings_in_scala/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [[San Francisco] - Scala Summit 2026](https://www.reddit.com/r/scala/comments/1wm3ezy/san_francisco_scala_summit_2026/)
 - [This week in #Scala &lpar;Sep 21, 2026&rpar;](https://www.reddit.com/r/scala/comments/1wlj26b/this_week_in_scala_sep_21_2026/)
 - [AI in Scala](https://www.reddit.com/r/scala/comments/1wl94vh/ai_in_scala/)
-- [JDK 27 is here](https://www.reddit.com/r/scala/comments/1wiw6zr/jdk_27_is_here/)
-- [Java 27 is here](https://www.reddit.com/r/scala/comments/1wi7ibq/java_27_is_here/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

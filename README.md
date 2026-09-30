@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Life as a Framework designer](https://www.reddit.com/r/scala/comments/1wtlzc5/life_as_a_framework_designer/)
+- [dotty-cps-async 1.4.0 for scala-3.9.0](https://www.reddit.com/r/scala/comments/1wt3m1y/dottycpsasync_140_for_scala390/)
 - [Kyo v1.0.0-RC7](https://www.reddit.com/r/scala/comments/1wskzfj/kyo_v100rc7/)
 - [[Scala News] - August 2026 edition](https://www.reddit.com/r/scala/comments/1ws7qfj/scala_news_august_2026_edition/)
 - [Category Theory Explained for Haskell Programmers – Part 1 | Jencel Panic | ZuriHac 2026](https://www.reddit.com/r/scala/comments/1wrus4j/category_theory_explained_for_haskell_programmers/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Reforesting the sbt plugin ecosystem and sbt 2.1.0 beta](https://www.reddit.com/r/scala/comments/1wmnabw/reforesting_the_sbt_plugin_ecosystem_and_sbt_210/)
 - [Migrating a Scala monorepo from sbt to Gradle at Box &lpar;Blog post&rpar;](https://www.reddit.com/r/scala/comments/1wmeuck/migrating_a_scala_monorepo_from_sbt_to_gradle_at/)
 - [[San Francisco] - Scala Summit 2026](https://www.reddit.com/r/scala/comments/1wm3ezy/san_francisco_scala_summit_2026/)
-- [This week in #Scala &lpar;Sep 21, 2026&rpar;](https://www.reddit.com/r/scala/comments/1wlj26b/this_week_in_scala_sep_21_2026/)
-- [AI in Scala](https://www.reddit.com/r/scala/comments/1wl94vh/ai_in_scala/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

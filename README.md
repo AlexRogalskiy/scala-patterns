@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 2.0.10 released](https://www.reddit.com/r/scala/comments/1ww1fsd/sbt_2010_released/)
+- [Hiring Scala engineers in Kraków – real-time ad auctions at 100k+ req/sec](https://www.reddit.com/r/scala/comments/1wvr00c/hiring_scala_engineers_in_kraków_realtime_ad/)
 - [My experience using JOOQ with Scala and Postgres](https://www.reddit.com/r/scala/comments/1wuqg8j/my_experience_using_jooq_with_scala_and_postgres/)
 - [marola: a Scala 3 + Kyo app that finds the best hour to swim tomorrow &lpar;open source, from Brazil&rpar;](https://www.reddit.com/r/scala/comments/1wuf3dw/marola_a_scala_3_kyo_app_that_finds_the_best_hour/)
 - [Play Framework 2.9.12 and 3.0.12 released](https://www.reddit.com/r/scala/comments/1wu58un/play_framework_2912_and_3012_released/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [dotty-cps-async 1.4.0 for scala-3.9.0](https://www.reddit.com/r/scala/comments/1wt3m1y/dottycpsasync_140_for_scala390/)
 - [Kyo v1.0.0-RC7](https://www.reddit.com/r/scala/comments/1wskzfj/kyo_v100rc7/)
 - [[Scala News] - August 2026 edition](https://www.reddit.com/r/scala/comments/1ws7qfj/scala_news_august_2026_edition/)
-- [Category Theory Explained for Haskell Programmers – Part 1 | Jencel Panic | ZuriHac 2026](https://www.reddit.com/r/scala/comments/1wrus4j/category_theory_explained_for_haskell_programmers/)
-- [This week in #Scala &lpar;Sep 28, 2026&rpar;](https://www.reddit.com/r/scala/comments/1wrr3h0/this_week_in_scala_sep_28_2026/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

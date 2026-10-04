@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Anjunar Stack – Abstraction Without Lock-In](https://www.reddit.com/r/scala/comments/1wx09gz/anjunar_stack_abstraction_without_lockin/)
 - [sbt 2.0.10 released](https://www.reddit.com/r/scala/comments/1ww1fsd/sbt_2010_released/)
 - [Hiring Scala engineers in Kraków – real-time ad auctions at 100k+ req/sec](https://www.reddit.com/r/scala/comments/1wvr00c/hiring_scala_engineers_in_kraków_realtime_ad/)
 - [My experience using JOOQ with Scala and Postgres](https://www.reddit.com/r/scala/comments/1wuqg8j/my_experience_using_jooq_with_scala_and_postgres/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Life as a Framework designer](https://www.reddit.com/r/scala/comments/1wtlzc5/life_as_a_framework_designer/)
 - [dotty-cps-async 1.4.0 for scala-3.9.0](https://www.reddit.com/r/scala/comments/1wt3m1y/dottycpsasync_140_for_scala390/)
 - [Kyo v1.0.0-RC7](https://www.reddit.com/r/scala/comments/1wskzfj/kyo_v100rc7/)
-- [[Scala News] - August 2026 edition](https://www.reddit.com/r/scala/comments/1ws7qfj/scala_news_august_2026_edition/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,7 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Anjunar Stack – Abstraction Without Lock-In](https://www.reddit.com/r/scala/comments/1wx09gz/anjunar_stack_abstraction_without_lockin/)
+- [Magnum Database Client v2.0.0-M4 Released: cats-effect module, composite ids, Scala 3.9 base, and more.](https://www.reddit.com/r/scala/comments/1wy16ez/magnum_database_client_v200m4_released_catseffect/)
+- [scopt 4.2.0 released](https://www.reddit.com/r/scala/comments/1wxyo2f/scopt_420_released/)
+- [This week in #Scala &lpar;Oct 5, 2026&rpar;](https://www.reddit.com/r/scala/comments/1wxs82c/this_week_in_scala_oct_5_2026/)
 - [sbt 2.0.10 released](https://www.reddit.com/r/scala/comments/1ww1fsd/sbt_2010_released/)
 - [Hiring Scala engineers in Kraków – real-time ad auctions at 100k+ req/sec](https://www.reddit.com/r/scala/comments/1wvr00c/hiring_scala_engineers_in_kraków_realtime_ad/)
 - [My experience using JOOQ with Scala and Postgres](https://www.reddit.com/r/scala/comments/1wuqg8j/my_experience_using_jooq_with_scala_and_postgres/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Play Framework 2.9.12 and 3.0.12 released](https://www.reddit.com/r/scala/comments/1wu58un/play_framework_2912_and_3012_released/)
 - [Eval 0.4.0 for Scala 3.9.0](https://www.reddit.com/r/scala/comments/1wu4lxd/eval_040_for_scala_390/)
 - [Life as a Framework designer](https://www.reddit.com/r/scala/comments/1wtlzc5/life_as_a_framework_designer/)
-- [dotty-cps-async 1.4.0 for scala-3.9.0](https://www.reddit.com/r/scala/comments/1wt3m1y/dottycpsasync_140_for_scala390/)
-- [Kyo v1.0.0-RC7](https://www.reddit.com/r/scala/comments/1wskzfj/kyo_v100rc7/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

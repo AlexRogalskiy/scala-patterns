@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Scala Hangout this Thursday &lpar;Oct 8&rpar; at 6pm CT](https://www.reddit.com/r/scala/comments/1wyjwus/scala_hangout_this_thursday_oct_8_at_6pm_ct/)
+- [Scala Times #629 - a special all-events issue &lpar;Berlin, Stockholm, SF, Chicago, NYC, Málaga&rpar;](https://www.reddit.com/r/scala/comments/1wyhtau/scala_times_629_a_special_allevents_issue_berlin/)
 - [Magnum Database Client v2.0.0-M4 Released: cats-effect module, composite ids, Scala 3.9 base, and more.](https://www.reddit.com/r/scala/comments/1wy16ez/magnum_database_client_v200m4_released_catseffect/)
 - [scopt 4.2.0 released](https://www.reddit.com/r/scala/comments/1wxyo2f/scopt_420_released/)
 - [This week in #Scala &lpar;Oct 5, 2026&rpar;](https://www.reddit.com/r/scala/comments/1wxs82c/this_week_in_scala_oct_5_2026/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [My experience using JOOQ with Scala and Postgres](https://www.reddit.com/r/scala/comments/1wuqg8j/my_experience_using_jooq_with_scala_and_postgres/)
 - [marola: a Scala 3 + Kyo app that finds the best hour to swim tomorrow &lpar;open source, from Brazil&rpar;](https://www.reddit.com/r/scala/comments/1wuf3dw/marola_a_scala_3_kyo_app_that_finds_the_best_hour/)
 - [Play Framework 2.9.12 and 3.0.12 released](https://www.reddit.com/r/scala/comments/1wu58un/play_framework_2912_and_3012_released/)
-- [Eval 0.4.0 for Scala 3.9.0](https://www.reddit.com/r/scala/comments/1wu4lxd/eval_040_for_scala_390/)
-- [Life as a Framework designer](https://www.reddit.com/r/scala/comments/1wtlzc5/life_as_a_framework_designer/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

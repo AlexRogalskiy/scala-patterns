@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Melbourne Compose - Functional Programming inperson Meetup. Thurs Oct 15. Ben Hutchison on &quot;VDOM or Not VDOM&quot;](https://www.reddit.com/r/scala/comments/1wzm83a/melbourne_compose_functional_programming_inperson/)
 - [Scala Hangout this Thursday &lpar;Oct 8&rpar; at 6pm CT](https://www.reddit.com/r/scala/comments/1wyjwus/scala_hangout_this_thursday_oct_8_at_6pm_ct/)
 - [Scala Times #629 - a special all-events issue &lpar;Berlin, Stockholm, SF, Chicago, NYC, Málaga&rpar;](https://www.reddit.com/r/scala/comments/1wyhtau/scala_times_629_a_special_allevents_issue_berlin/)
 - [Magnum Database Client v2.0.0-M4 Released: cats-effect module, composite ids, Scala 3.9 base, and more.](https://www.reddit.com/r/scala/comments/1wy16ez/magnum_database_client_v200m4_released_catseffect/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Hiring Scala engineers in Kraków – real-time ad auctions at 100k+ req/sec](https://www.reddit.com/r/scala/comments/1wvr00c/hiring_scala_engineers_in_kraków_realtime_ad/)
 - [My experience using JOOQ with Scala and Postgres](https://www.reddit.com/r/scala/comments/1wuqg8j/my_experience_using_jooq_with_scala_and_postgres/)
 - [marola: a Scala 3 + Kyo app that finds the best hour to swim tomorrow &lpar;open source, from Brazil&rpar;](https://www.reddit.com/r/scala/comments/1wuf3dw/marola_a_scala_3_kyo_app_that_finds_the_best_hour/)
-- [Play Framework 2.9.12 and 3.0.12 released](https://www.reddit.com/r/scala/comments/1wu58un/play_framework_2912_and_3012_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Survey for senior devs/CTOs about choosing programming languages](https://www.reddit.com/r/scala/comments/1wzxenh/survey_for_senior_devsctos_about_choosing/)
+- [How we slashed the size of our search cache by 74%](https://www.reddit.com/r/scala/comments/1wzwnzf/how_we_slashed_the_size_of_our_search_cache_by_74/)
+- [VirtusLab assumes responsibility for Scala 2 maintenance](https://www.reddit.com/r/scala/comments/1wzt7v9/virtuslab_assumes_responsibility_for_scala_2/)
 - [Melbourne Compose - Functional Programming inperson Meetup. Thurs Oct 15. Ben Hutchison on &quot;VDOM or Not VDOM&quot;](https://www.reddit.com/r/scala/comments/1wzm83a/melbourne_compose_functional_programming_inperson/)
 - [Scala Hangout this Thursday &lpar;Oct 8&rpar; at 6pm CT](https://www.reddit.com/r/scala/comments/1wyjwus/scala_hangout_this_thursday_oct_8_at_6pm_ct/)
 - [Scala Times #629 - a special all-events issue &lpar;Berlin, Stockholm, SF, Chicago, NYC, Málaga&rpar;](https://www.reddit.com/r/scala/comments/1wyhtau/scala_times_629_a_special_allevents_issue_berlin/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [scopt 4.2.0 released](https://www.reddit.com/r/scala/comments/1wxyo2f/scopt_420_released/)
 - [This week in #Scala &lpar;Oct 5, 2026&rpar;](https://www.reddit.com/r/scala/comments/1wxs82c/this_week_in_scala_oct_5_2026/)
 - [sbt 2.0.10 released](https://www.reddit.com/r/scala/comments/1ww1fsd/sbt_2010_released/)
-- [Hiring Scala engineers in Kraków – real-time ad auctions at 100k+ req/sec](https://www.reddit.com/r/scala/comments/1wvr00c/hiring_scala_engineers_in_kraków_realtime_ad/)
-- [My experience using JOOQ with Scala and Postgres](https://www.reddit.com/r/scala/comments/1wuqg8j/my_experience_using_jooq_with_scala_and_postgres/)
-- [marola: a Scala 3 + Kyo app that finds the best hour to swim tomorrow &lpar;open source, from Brazil&rpar;](https://www.reddit.com/r/scala/comments/1wuf3dw/marola_a_scala_3_kyo_app_that_finds_the_best_hour/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [My pasta sauce looks familiar](https://www.reddit.com/r/scala/comments/1x2chkc/my_pasta_sauce_looks_familiar/)
 - [Survey for senior devs/CTOs about choosing programming languages](https://www.reddit.com/r/scala/comments/1wzxenh/survey_for_senior_devsctos_about_choosing/)
 - [How we slashed the size of our search cache by 74%](https://www.reddit.com/r/scala/comments/1wzwnzf/how_we_slashed_the_size_of_our_search_cache_by_74/)
 - [VirtusLab assumes responsibility for Scala 2 maintenance](https://www.reddit.com/r/scala/comments/1wzt7v9/virtuslab_assumes_responsibility_for_scala_2/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Magnum Database Client v2.0.0-M4 Released: cats-effect module, composite ids, Scala 3.9 base, and more.](https://www.reddit.com/r/scala/comments/1wy16ez/magnum_database_client_v200m4_released_catseffect/)
 - [scopt 4.2.0 released](https://www.reddit.com/r/scala/comments/1wxyo2f/scopt_420_released/)
 - [This week in #Scala &lpar;Oct 5, 2026&rpar;](https://www.reddit.com/r/scala/comments/1wxs82c/this_week_in_scala_oct_5_2026/)
-- [sbt 2.0.10 released](https://www.reddit.com/r/scala/comments/1ww1fsd/sbt_2010_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

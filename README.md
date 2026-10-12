@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [My pasta sauce looks familiar](https://www.reddit.com/r/scala/comments/1x2chkc/my_pasta_sauce_looks_familiar/)
+- [dapr4s: POC for using Safe Scala to build cloud apps](https://www.reddit.com/r/scala/comments/1x3np6g/dapr4s_poc_for_using_safe_scala_to_build_cloud/)
+- [Introducing Scala Packages](https://www.reddit.com/r/scala/comments/1x3in9u/introducing_scala_packages/)
+- [sbt 2.1.0-RC1 released](https://www.reddit.com/r/scala/comments/1x3bydh/sbt_210rc1_released/)
+- [This week in #Scala &lpar;Oct 12, 2026&rpar;](https://www.reddit.com/r/scala/comments/1x34kjg/this_week_in_scala_oct_12_2026/)
 - [Survey for senior devs/CTOs about choosing programming languages](https://www.reddit.com/r/scala/comments/1wzxenh/survey_for_senior_devsctos_about_choosing/)
 - [How we slashed the size of our search cache by 74%](https://www.reddit.com/r/scala/comments/1wzwnzf/how_we_slashed_the_size_of_our_search_cache_by_74/)
 - [VirtusLab assumes responsibility for Scala 2 maintenance](https://www.reddit.com/r/scala/comments/1wzt7v9/virtuslab_assumes_responsibility_for_scala_2/)
 - [Melbourne Compose - Functional Programming inperson Meetup. Thurs Oct 15. Ben Hutchison on &quot;VDOM or Not VDOM&quot;](https://www.reddit.com/r/scala/comments/1wzm83a/melbourne_compose_functional_programming_inperson/)
 - [Scala Hangout this Thursday &lpar;Oct 8&rpar; at 6pm CT](https://www.reddit.com/r/scala/comments/1wyjwus/scala_hangout_this_thursday_oct_8_at_6pm_ct/)
 - [Scala Times #629 - a special all-events issue &lpar;Berlin, Stockholm, SF, Chicago, NYC, Málaga&rpar;](https://www.reddit.com/r/scala/comments/1wyhtau/scala_times_629_a_special_allevents_issue_berlin/)
-- [Magnum Database Client v2.0.0-M4 Released: cats-effect module, composite ids, Scala 3.9 base, and more.](https://www.reddit.com/r/scala/comments/1wy16ez/magnum_database_client_v200m4_released_catseffect/)
-- [scopt 4.2.0 released](https://www.reddit.com/r/scala/comments/1wxyo2f/scopt_420_released/)
-- [This week in #Scala &lpar;Oct 5, 2026&rpar;](https://www.reddit.com/r/scala/comments/1wxs82c/this_week_in_scala_oct_5_2026/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

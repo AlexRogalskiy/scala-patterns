@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Current adoption of Scala 3](https://www.reddit.com/r/scala/comments/1x4wwud/current_adoption_of_scala_3/)
 - [Scala 3.10 released!](https://www.reddit.com/r/scala/comments/1x4hk7t/scala_310_released/)
 - [The Bowling Game - From Imperative to Functional Programming - Part 3](https://www.reddit.com/r/scala/comments/1x45qfq/the_bowling_game_from_imperative_to_functional/)
 - [dapr4s: POC for using Safe Scala to build cloud apps](https://www.reddit.com/r/scala/comments/1x3np6g/dapr4s_poc_for_using_safe_scala_to_build_cloud/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Survey for senior devs/CTOs about choosing programming languages](https://www.reddit.com/r/scala/comments/1wzxenh/survey_for_senior_devsctos_about_choosing/)
 - [How we slashed the size of our search cache by 74%](https://www.reddit.com/r/scala/comments/1wzwnzf/how_we_slashed_the_size_of_our_search_cache_by_74/)
 - [VirtusLab assumes responsibility for Scala 2 maintenance](https://www.reddit.com/r/scala/comments/1wzt7v9/virtuslab_assumes_responsibility_for_scala_2/)
-- [Melbourne Compose - Functional Programming inperson Meetup. Thurs Oct 15. Ben Hutchison on &quot;VDOM or Not VDOM&quot;](https://www.reddit.com/r/scala/comments/1wzm83a/melbourne_compose_functional_programming_inperson/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

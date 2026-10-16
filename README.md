@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The videos from Scala Days 2026 are available](https://www.reddit.com/r/scala/comments/1x6tiln/the_videos_from_scala_days_2026_are_available/)
 - [Current adoption of Scala 3](https://www.reddit.com/r/scala/comments/1x4wwud/current_adoption_of_scala_3/)
 - [Scala 3.10 released!](https://www.reddit.com/r/scala/comments/1x4hk7t/scala_310_released/)
 - [The Bowling Game - From Imperative to Functional Programming - Part 3](https://www.reddit.com/r/scala/comments/1x45qfq/the_bowling_game_from_imperative_to_functional/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [This week in #Scala &lpar;Oct 12, 2026&rpar;](https://www.reddit.com/r/scala/comments/1x34kjg/this_week_in_scala_oct_12_2026/)
 - [Survey for senior devs/CTOs about choosing programming languages](https://www.reddit.com/r/scala/comments/1wzxenh/survey_for_senior_devsctos_about_choosing/)
 - [How we slashed the size of our search cache by 74%](https://www.reddit.com/r/scala/comments/1wzwnzf/how_we_slashed_the_size_of_our_search_cache_by_74/)
-- [VirtusLab assumes responsibility for Scala 2 maintenance](https://www.reddit.com/r/scala/comments/1wzt7v9/virtuslab_assumes_responsibility_for_scala_2/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

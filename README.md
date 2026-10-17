@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Open-sourced my Scala expense tracker app](https://www.reddit.com/r/scala/comments/1x7kmmq/opensourced_my_scala_expense_tracker_app/)
+- [Preparing for a Scala 3 internship test with AI — what&#39;s the most effective approach?](https://www.reddit.com/r/scala/comments/1x7c8fb/preparing_for_a_scala_3_internship_test_with_ai/)
+- [Martin Odersky – Keynote: The End of Programming? #ScalaDays](https://www.reddit.com/r/scala/comments/1x7c5gc/martin_odersky_keynote_the_end_of_programming/)
+- [Where can I find Scala 3 interview experiences and questions for T-Bank &lpar;Tinkoff&rpar; internships?](https://www.reddit.com/r/scala/comments/1x7br3v/where_can_i_find_scala_3_interview_experiences/)
 - [The videos from Scala Days 2026 are available](https://www.reddit.com/r/scala/comments/1x6tiln/the_videos_from_scala_days_2026_are_available/)
 - [Current adoption of Scala 3](https://www.reddit.com/r/scala/comments/1x4wwud/current_adoption_of_scala_3/)
 - [Scala 3.10 released!](https://www.reddit.com/r/scala/comments/1x4hk7t/scala_310_released/)
 - [The Bowling Game - From Imperative to Functional Programming - Part 3](https://www.reddit.com/r/scala/comments/1x45qfq/the_bowling_game_from_imperative_to_functional/)
 - [dapr4s: POC for using Safe Scala to build cloud apps](https://www.reddit.com/r/scala/comments/1x3np6g/dapr4s_poc_for_using_safe_scala_to_build_cloud/)
 - [Introducing Scala Packages](https://www.reddit.com/r/scala/comments/1x3in9u/introducing_scala_packages/)
-- [sbt 2.1.0-RC1 released](https://www.reddit.com/r/scala/comments/1x3bydh/sbt_210rc1_released/)
-- [This week in #Scala &lpar;Oct 12, 2026&rpar;](https://www.reddit.com/r/scala/comments/1x34kjg/this_week_in_scala_oct_12_2026/)
-- [Survey for senior devs/CTOs about choosing programming languages](https://www.reddit.com/r/scala/comments/1wzxenh/survey_for_senior_devsctos_about_choosing/)
-- [How we slashed the size of our search cache by 74%](https://www.reddit.com/r/scala/comments/1wzwnzf/how_we_slashed_the_size_of_our_search_cache_by_74/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

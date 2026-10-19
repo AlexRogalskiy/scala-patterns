@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Oct 19, 2026&rpar;](https://www.reddit.com/r/scala/comments/1x9hbpg/this_week_in_scala_oct_19_2026/)
+- [Checking Relevance With Verdict4s](https://www.reddit.com/r/scala/comments/1x9gv6b/checking_relevance_with_verdict4s/)
+- [Advice for a beginner](https://www.reddit.com/r/scala/comments/1x9g0be/advice_for_a_beginner/)
+- [sbt 2.0.11 released](https://www.reddit.com/r/scala/comments/1x96675/sbt_2011_released/)
 - [Open-sourced my Scala expense tracker app](https://www.reddit.com/r/scala/comments/1x7kmmq/opensourced_my_scala_expense_tracker_app/)
 - [Preparing for a Scala 3 internship test with AI — what&#39;s the most effective approach?](https://www.reddit.com/r/scala/comments/1x7c8fb/preparing_for_a_scala_3_internship_test_with_ai/)
 - [Martin Odersky – Keynote: The End of Programming? #ScalaDays](https://www.reddit.com/r/scala/comments/1x7c5gc/martin_odersky_keynote_the_end_of_programming/)
 - [Where can I find Scala 3 interview experiences and questions for T-Bank &lpar;Tinkoff&rpar; internships?](https://www.reddit.com/r/scala/comments/1x7br3v/where_can_i_find_scala_3_interview_experiences/)
 - [The videos from Scala Days 2026 are available](https://www.reddit.com/r/scala/comments/1x6tiln/the_videos_from_scala_days_2026_are_available/)
 - [Current adoption of Scala 3](https://www.reddit.com/r/scala/comments/1x4wwud/current_adoption_of_scala_3/)
-- [Scala 3.10 released!](https://www.reddit.com/r/scala/comments/1x4hk7t/scala_310_released/)
-- [The Bowling Game - From Imperative to Functional Programming - Part 3](https://www.reddit.com/r/scala/comments/1x45qfq/the_bowling_game_from_imperative_to_functional/)
-- [dapr4s: POC for using Safe Scala to build cloud apps](https://www.reddit.com/r/scala/comments/1x3np6g/dapr4s_poc_for_using_safe_scala_to_build_cloud/)
-- [Introducing Scala Packages](https://www.reddit.com/r/scala/comments/1x3in9u/introducing_scala_packages/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

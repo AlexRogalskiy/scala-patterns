@@ -271,7 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [Interviewing Failures](https://www.reddit.com/r/scala/comments/1xb5rdb/interviewing_failures/)
+- [Talking Scala, GenAI and open source at VIPS Delhi this Friday](https://www.reddit.com/r/scala/comments/1xc4hnx/talking_scala_genai_and_open_source_at_vips_delhi/)
 - [Scala language binding for Godot game engine](https://www.reddit.com/r/scala/comments/1xb1k2z/scala_language_binding_for_godot_game_engine/)
 - [Scivolo - a Scala Interpreter](https://www.reddit.com/r/scala/comments/1xazsgf/scivolo_a_scala_interpreter/)
 - [etl4s 2.x - Whiteboard style pipelines &lpar;now Effect Polymorphic as Free Arrows&rpar;](https://www.reddit.com/r/scala/comments/1xashht/etl4s_2x_whiteboard_style_pipelines_now_effect/)

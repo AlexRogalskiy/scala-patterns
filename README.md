@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [The Scala Summit 2026 recordings are out! 🎥](https://www.reddit.com/r/scala/comments/1xg0pt2/the_scala_summit_2026_recordings_are_out/)
 - [This week in #Scala &lpar;Oct 26, 2026&rpar;](https://www.reddit.com/r/scala/comments/1xfcomn/this_week_in_scala_oct_26_2026/)
 - [I cut my Scala project&#39;s CI from 27 to 4 minutes &lpar;Play, Scala.js, Testcontainers&rpar;](https://www.reddit.com/r/scala/comments/1xdn66k/i_cut_my_scala_projects_ci_from_27_to_4_minutes/)
 - [Security advisory: update your JDK &lpar;CVE-2026-91403&rpar;](https://www.reddit.com/r/scala/comments/1xcs97k/security_advisory_update_your_jdk_cve202691403/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [etl4s 2.x - Whiteboard style pipelines &lpar;now Effect Polymorphic as Free Arrows&rpar;](https://www.reddit.com/r/scala/comments/1xashht/etl4s_2x_whiteboard_style_pipelines_now_effect/)
 - [Scala Days Talk - Making a case to your Exec team](https://www.reddit.com/r/scala/comments/1xa81ff/scala_days_talk_making_a_case_to_your_exec_team/)
 - [This week in #Scala &lpar;Oct 19, 2026&rpar;](https://www.reddit.com/r/scala/comments/1x9hbpg/this_week_in_scala_oct_19_2026/)
-- [Checking Relevance With Verdict4s](https://www.reddit.com/r/scala/comments/1x9gv6b/checking_relevance_with_verdict4s/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

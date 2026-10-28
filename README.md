@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Introducing Uni: One Scala 3 Library for the Whole App](https://www.reddit.com/r/scala/comments/1xhbxkm/introducing_uni_one_scala_3_library_for_the_whole/)
 - [The Scala Summit 2026 recordings are out! 🎥](https://www.reddit.com/r/scala/comments/1xg0pt2/the_scala_summit_2026_recordings_are_out/)
 - [This week in #Scala &lpar;Oct 26, 2026&rpar;](https://www.reddit.com/r/scala/comments/1xfcomn/this_week_in_scala_oct_26_2026/)
 - [I cut my Scala project&#39;s CI from 27 to 4 minutes &lpar;Play, Scala.js, Testcontainers&rpar;](https://www.reddit.com/r/scala/comments/1xdn66k/i_cut_my_scala_projects_ci_from_27_to_4_minutes/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Scivolo - a Scala Interpreter](https://www.reddit.com/r/scala/comments/1xazsgf/scivolo_a_scala_interpreter/)
 - [etl4s 2.x - Whiteboard style pipelines &lpar;now Effect Polymorphic as Free Arrows&rpar;](https://www.reddit.com/r/scala/comments/1xashht/etl4s_2x_whiteboard_style_pipelines_now_effect/)
 - [Scala Days Talk - Making a case to your Exec team](https://www.reddit.com/r/scala/comments/1xa81ff/scala_days_talk_making_a_case_to_your_exec_team/)
-- [This week in #Scala &lpar;Oct 19, 2026&rpar;](https://www.reddit.com/r/scala/comments/1x9hbpg/this_week_in_scala_oct_19_2026/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

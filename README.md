@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [sbt 2.1.0-RC2 released](https://www.reddit.com/r/scala/comments/1xi1ddp/sbt_210rc2_released/)
+- [Monadic Fixture Composition? / looking for prior work or advice](https://www.reddit.com/r/scala/comments/1xhug75/monadic_fixture_composition_looking_for_prior/)
+- [sbt 1.13.1 and 2.0.12 released](https://www.reddit.com/r/scala/comments/1xhqn8a/sbt_1131_and_2012_released/)
 - [Introducing Uni: One Scala 3 Library for the Whole App](https://www.reddit.com/r/scala/comments/1xhbxkm/introducing_uni_one_scala_3_library_for_the_whole/)
 - [The Scala Summit 2026 recordings are out! 🎥](https://www.reddit.com/r/scala/comments/1xg0pt2/the_scala_summit_2026_recordings_are_out/)
 - [This week in #Scala &lpar;Oct 26, 2026&rpar;](https://www.reddit.com/r/scala/comments/1xfcomn/this_week_in_scala_oct_26_2026/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Security advisory: update your JDK &lpar;CVE-2026-91403&rpar;](https://www.reddit.com/r/scala/comments/1xcs97k/security_advisory_update_your_jdk_cve202691403/)
 - [Talking Scala, GenAI and open source at VIPS Delhi this Friday](https://www.reddit.com/r/scala/comments/1xc4hnx/talking_scala_genai_and_open_source_at_vips_delhi/)
 - [Scala language binding for Godot game engine](https://www.reddit.com/r/scala/comments/1xb1k2z/scala_language_binding_for_godot_game_engine/)
-- [Scivolo - a Scala Interpreter](https://www.reddit.com/r/scala/comments/1xazsgf/scivolo_a_scala_interpreter/)
-- [etl4s 2.x - Whiteboard style pipelines &lpar;now Effect Polymorphic as Free Arrows&rpar;](https://www.reddit.com/r/scala/comments/1xashht/etl4s_2x_whiteboard_style_pipelines_now_effect/)
-- [Scala Days Talk - Making a case to your Exec team](https://www.reddit.com/r/scala/comments/1xa81ff/scala_days_talk_making_a_case_to_your_exec_team/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

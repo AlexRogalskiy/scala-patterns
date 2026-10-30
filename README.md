@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [What are your thoughts on integrating AI capabilities into Scala applications?](https://www.reddit.com/r/scala/comments/1xj2kg6/what_are_your_thoughts_on_integrating_ai/)
 - [sbt 2.1.0-RC2 released](https://www.reddit.com/r/scala/comments/1xi1ddp/sbt_210rc2_released/)
 - [Monadic Fixture Composition? / looking for prior work or advice](https://www.reddit.com/r/scala/comments/1xhug75/monadic_fixture_composition_looking_for_prior/)
 - [sbt 1.13.1 and 2.0.12 released](https://www.reddit.com/r/scala/comments/1xhqn8a/sbt_1131_and_2012_released/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [I cut my Scala project&#39;s CI from 27 to 4 minutes &lpar;Play, Scala.js, Testcontainers&rpar;](https://www.reddit.com/r/scala/comments/1xdn66k/i_cut_my_scala_projects_ci_from_27_to_4_minutes/)
 - [Security advisory: update your JDK &lpar;CVE-2026-91403&rpar;](https://www.reddit.com/r/scala/comments/1xcs97k/security_advisory_update_your_jdk_cve202691403/)
 - [Talking Scala, GenAI and open source at VIPS Delhi this Friday](https://www.reddit.com/r/scala/comments/1xc4hnx/talking_scala_genai_and_open_source_at_vips_delhi/)
-- [Scala language binding for Godot game engine](https://www.reddit.com/r/scala/comments/1xb1k2z/scala_language_binding_for_godot_game_engine/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

@@ -271,7 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
-- [What are your thoughts on integrating AI capabilities into Scala applications?](https://www.reddit.com/r/scala/comments/1xj2kg6/what_are_your_thoughts_on_integrating_ai/)
+- [[Announcement] DataVerse Talk &amp; Free Online Session &lpar;Oct 31&rpar;: 21 Months of Building LLM4S – An Open-Source LLM Framework for Scala](https://www.reddit.com/r/scala/comments/1xjhwgl/announcement_dataverse_talk_free_online_session/)
 - [sbt 2.1.0-RC2 released](https://www.reddit.com/r/scala/comments/1xi1ddp/sbt_210rc2_released/)
 - [Monadic Fixture Composition? / looking for prior work or advice](https://www.reddit.com/r/scala/comments/1xhug75/monadic_fixture_composition_looking_for_prior/)
 - [sbt 1.13.1 and 2.0.12 released](https://www.reddit.com/r/scala/comments/1xhqn8a/sbt_1131_and_2012_released/)

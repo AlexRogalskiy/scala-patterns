@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [This week in #Scala &lpar;Nov 2, 2026&rpar;](https://www.reddit.com/r/scala/comments/1xll5kg/this_week_in_scala_nov_2_2026/)
+- [A scala-cli script with a Swing GUI to reclaim disk space from Steam&#39;s leftover Proton prefixes on Linux](https://www.reddit.com/r/scala/comments/1xljllx/a_scalacli_script_with_a_swing_gui_to_reclaim/)
+- [SketchProbe: Inspect Apache DataSketches from the CLI or browser](https://www.reddit.com/r/scala/comments/1xkxzc2/sketchprobe_inspect_apache_datasketches_from_the/)
 - [[Announcement] DataVerse Talk &amp; Free Online Session &lpar;Oct 31&rpar;: 21 Months of Building LLM4S – An Open-Source LLM Framework for Scala](https://www.reddit.com/r/scala/comments/1xjhwgl/announcement_dataverse_talk_free_online_session/)
 - [sbt 2.1.0-RC2 released](https://www.reddit.com/r/scala/comments/1xi1ddp/sbt_210rc2_released/)
 - [Monadic Fixture Composition? / looking for prior work or advice](https://www.reddit.com/r/scala/comments/1xhug75/monadic_fixture_composition_looking_for_prior/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Introducing Uni: One Scala 3 Library for the Whole App](https://www.reddit.com/r/scala/comments/1xhbxkm/introducing_uni_one_scala_3_library_for_the_whole/)
 - [The Scala Summit 2026 recordings are out! 🎥](https://www.reddit.com/r/scala/comments/1xg0pt2/the_scala_summit_2026_recordings_are_out/)
 - [This week in #Scala &lpar;Oct 26, 2026&rpar;](https://www.reddit.com/r/scala/comments/1xfcomn/this_week_in_scala_oct_26_2026/)
-- [I cut my Scala project&#39;s CI from 27 to 4 minutes &lpar;Play, Scala.js, Testcontainers&rpar;](https://www.reddit.com/r/scala/comments/1xdn66k/i_cut_my_scala_projects_ci_from_27_to_4_minutes/)
-- [Security advisory: update your JDK &lpar;CVE-2026-91403&rpar;](https://www.reddit.com/r/scala/comments/1xcs97k/security_advisory_update_your_jdk_cve202691403/)
-- [Talking Scala, GenAI and open source at VIPS Delhi this Friday](https://www.reddit.com/r/scala/comments/1xc4hnx/talking_scala_genai_and_open_source_at_vips_delhi/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

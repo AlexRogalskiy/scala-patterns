@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [scruff, a Scala code formatter written in Rust](https://www.reddit.com/r/scala/comments/1xn7bm2/scruff_a_scala_code_formatter_written_in_rust/)
+- [Easy Deployment with Sharaf, Caddy and VoidAuth](https://www.reddit.com/r/scala/comments/1xn1bj5/easy_deployment_with_sharaf_caddy_and_voidauth/)
+- [Reviewer-gates for a Scala codebase: trading speed for correctness with Orca and Claude](https://www.reddit.com/r/scala/comments/1xmpwlc/reviewergates_for_a_scala_codebase_trading_speed/)
 - [This week in #Scala &lpar;Nov 2, 2026&rpar;](https://www.reddit.com/r/scala/comments/1xll5kg/this_week_in_scala_nov_2_2026/)
 - [A scala-cli script with a Swing GUI to reclaim disk space from Steam&#39;s leftover Proton prefixes on Linux](https://www.reddit.com/r/scala/comments/1xljllx/a_scalacli_script_with_a_swing_gui_to_reclaim/)
 - [SketchProbe: Inspect Apache DataSketches from the CLI or browser](https://www.reddit.com/r/scala/comments/1xkxzc2/sketchprobe_inspect_apache_datasketches_from_the/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [sbt 2.1.0-RC2 released](https://www.reddit.com/r/scala/comments/1xi1ddp/sbt_210rc2_released/)
 - [Monadic Fixture Composition? / looking for prior work or advice](https://www.reddit.com/r/scala/comments/1xhug75/monadic_fixture_composition_looking_for_prior/)
 - [sbt 1.13.1 and 2.0.12 released](https://www.reddit.com/r/scala/comments/1xhqn8a/sbt_1131_and_2012_released/)
-- [Introducing Uni: One Scala 3 Library for the Whole App](https://www.reddit.com/r/scala/comments/1xhbxkm/introducing_uni_one_scala_3_library_for_the_whole/)
-- [The Scala Summit 2026 recordings are out! 🎥](https://www.reddit.com/r/scala/comments/1xg0pt2/the_scala_summit_2026_recordings_are_out/)
-- [This week in #Scala &lpar;Oct 26, 2026&rpar;](https://www.reddit.com/r/scala/comments/1xfcomn/this_week_in_scala_oct_26_2026/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

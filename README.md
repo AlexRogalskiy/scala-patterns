@@ -271,16 +271,16 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [AnselIQ - A financial reconciliation platform https://anseliq.com/](https://www.reddit.com/r/scala/comments/1xp4ull/anseliq_a_financial_reconciliation_platform/)
+- [GitHub - vic/srs: Experimental bootstrapped Scala3-inspired compiler into portable C with memory management via algebraic effects with handlers and protocols.](https://www.reddit.com/r/scala/comments/1xp1owo/github_vicsrs_experimental_bootstrapped/)
+- [ScalaCSS v1.1.0 released](https://www.reddit.com/r/scala/comments/1xp1n5p/scalacss_v110_released/)
+- [Nyaya v1.2.0 released](https://www.reddit.com/r/scala/comments/1xp0lr7/nyaya_v120_released/)
+- [Scala News - October 31, 2026 Edition](https://www.reddit.com/r/scala/comments/1xome9m/scala_news_october_31_2026_edition/)
+- [sbt 2.1.0-RC3 released](https://www.reddit.com/r/scala/comments/1xoduc5/sbt_210rc3_released/)
 - [Eezo - a new and modern Scala web framework](https://www.reddit.com/r/scala/comments/1xnqgp1/eezo_a_new_and_modern_scala_web_framework/)
 - [scruff, a Scala code formatter written in Rust](https://www.reddit.com/r/scala/comments/1xn7bm2/scruff_a_scala_code_formatter_written_in_rust/)
 - [Easy Deployment with Sharaf, Caddy and VoidAuth](https://www.reddit.com/r/scala/comments/1xn1bj5/easy_deployment_with_sharaf_caddy_and_voidauth/)
 - [Reviewer-gates for a Scala codebase: trading speed for correctness with Orca and Claude](https://www.reddit.com/r/scala/comments/1xmpwlc/reviewergates_for_a_scala_codebase_trading_speed/)
-- [This week in #Scala &lpar;Nov 2, 2026&rpar;](https://www.reddit.com/r/scala/comments/1xll5kg/this_week_in_scala_nov_2_2026/)
-- [A scala-cli script with a Swing GUI to reclaim disk space from Steam&#39;s leftover Proton prefixes on Linux](https://www.reddit.com/r/scala/comments/1xljllx/a_scalacli_script_with_a_swing_gui_to_reclaim/)
-- [SketchProbe: Inspect Apache DataSketches from the CLI or browser](https://www.reddit.com/r/scala/comments/1xkxzc2/sketchprobe_inspect_apache_datasketches_from_the/)
-- [[Announcement] DataVerse Talk &amp; Free Online Session &lpar;Oct 31&rpar;: 21 Months of Building LLM4S – An Open-Source LLM Framework for Scala](https://www.reddit.com/r/scala/comments/1xjhwgl/announcement_dataverse_talk_free_online_session/)
-- [sbt 2.1.0-RC2 released](https://www.reddit.com/r/scala/comments/1xi1ddp/sbt_210rc2_released/)
-- [Monadic Fixture Composition? / looking for prior work or advice](https://www.reddit.com/r/scala/comments/1xhug75/monadic_fixture_composition_looking_for_prior/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

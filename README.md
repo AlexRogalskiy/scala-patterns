@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [IntelliJ Scala Plugin 2026.3 is out](https://www.reddit.com/r/scala/comments/1xpf3q8/intellij_scala_plugin_20263_is_out/)
 - [AnselIQ - A financial reconciliation platform https://anseliq.com/](https://www.reddit.com/r/scala/comments/1xp4ull/anseliq_a_financial_reconciliation_platform/)
 - [GitHub - vic/srs: Experimental bootstrapped Scala3-inspired compiler into portable C with memory management via algebraic effects with handlers and protocols.](https://www.reddit.com/r/scala/comments/1xp1owo/github_vicsrs_experimental_bootstrapped/)
 - [ScalaCSS v1.1.0 released](https://www.reddit.com/r/scala/comments/1xp1n5p/scalacss_v110_released/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Eezo - a new and modern Scala web framework](https://www.reddit.com/r/scala/comments/1xnqgp1/eezo_a_new_and_modern_scala_web_framework/)
 - [scruff, a Scala code formatter written in Rust](https://www.reddit.com/r/scala/comments/1xn7bm2/scruff_a_scala_code_formatter_written_in_rust/)
 - [Easy Deployment with Sharaf, Caddy and VoidAuth](https://www.reddit.com/r/scala/comments/1xn1bj5/easy_deployment_with_sharaf_caddy_and_voidauth/)
-- [Reviewer-gates for a Scala codebase: trading speed for correctness with Orca and Claude](https://www.reddit.com/r/scala/comments/1xmpwlc/reviewergates_for_a_scala_codebase_trading_speed/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

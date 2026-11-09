@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [NamedArguments: a WartRemover wart that flags same-typed positional arguments](https://www.reddit.com/r/scala/comments/1xr2pd7/namedarguments_a_wartremover_wart_that_flags/)
+- [This week in #Scala &lpar;Nov 9, 2026&rpar;](https://www.reddit.com/r/scala/comments/1xqyutv/this_week_in_scala_nov_9_2026/)
 - [Magnum database client v2.0.0 Released](https://www.reddit.com/r/scala/comments/1xqm1kl/magnum_database_client_v200_released/)
 - [IntelliJ Scala Plugin 2026.3 is out](https://www.reddit.com/r/scala/comments/1xpf3q8/intellij_scala_plugin_20263_is_out/)
 - [AnselIQ - A financial reconciliation platform https://anseliq.com/](https://www.reddit.com/r/scala/comments/1xp4ull/anseliq_a_financial_reconciliation_platform/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Nyaya v1.2.0 released](https://www.reddit.com/r/scala/comments/1xp0lr7/nyaya_v120_released/)
 - [Scala News - October 31, 2026 Edition](https://www.reddit.com/r/scala/comments/1xome9m/scala_news_october_31_2026_edition/)
 - [sbt 2.1.0-RC3 released](https://www.reddit.com/r/scala/comments/1xoduc5/sbt_210rc3_released/)
-- [Eezo - a new and modern Scala web framework](https://www.reddit.com/r/scala/comments/1xnqgp1/eezo_a_new_and_modern_scala_web_framework/)
-- [scruff, a Scala code formatter written in Rust](https://www.reddit.com/r/scala/comments/1xn7bm2/scruff_a_scala_code_formatter_written_in_rust/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

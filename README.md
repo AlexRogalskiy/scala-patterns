@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Release v2.0.0 · apache/pekko](https://www.reddit.com/r/scala/comments/1xt79qr/release_v200_apachepekko/)
+- [Scala Hangout - Nov 12th](https://www.reddit.com/r/scala/comments/1xsphds/scala_hangout_nov_12th/)
+- [After 12 years of Scala projects, I open-sourced the backend starter I kept rebuilding](https://www.reddit.com/r/scala/comments/1xsoaef/after_12_years_of_scala_projects_i_opensourced/)
 - [NamedArguments: a WartRemover wart that flags same-typed positional arguments](https://www.reddit.com/r/scala/comments/1xr2pd7/namedarguments_a_wartremover_wart_that_flags/)
 - [This week in #Scala &lpar;Nov 9, 2026&rpar;](https://www.reddit.com/r/scala/comments/1xqyutv/this_week_in_scala_nov_9_2026/)
 - [Magnum database client v2.0.0 Released](https://www.reddit.com/r/scala/comments/1xqm1kl/magnum_database_client_v200_released/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [AnselIQ - A financial reconciliation platform https://anseliq.com/](https://www.reddit.com/r/scala/comments/1xp4ull/anseliq_a_financial_reconciliation_platform/)
 - [GitHub - vic/srs: Experimental bootstrapped Scala3-inspired compiler into portable C with memory management via algebraic effects with handlers and protocols.](https://www.reddit.com/r/scala/comments/1xp1owo/github_vicsrs_experimental_bootstrapped/)
 - [ScalaCSS v1.1.0 released](https://www.reddit.com/r/scala/comments/1xp1n5p/scalacss_v110_released/)
-- [Nyaya v1.2.0 released](https://www.reddit.com/r/scala/comments/1xp0lr7/nyaya_v120_released/)
-- [Scala News - October 31, 2026 Edition](https://www.reddit.com/r/scala/comments/1xome9m/scala_news_october_31_2026_edition/)
-- [sbt 2.1.0-RC3 released](https://www.reddit.com/r/scala/comments/1xoduc5/sbt_210rc3_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

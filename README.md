@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [We rewrote an 8-years-old Scala service in Go in 10 days](https://www.reddit.com/r/scala/comments/1xtf9el/we_rewrote_an_8yearsold_scala_service_in_go_in_10/)
+- [NixOs scripts in scala: comparison in effect systems](https://www.reddit.com/r/scala/comments/1xtbxul/nixos_scripts_in_scala_comparison_in_effect/)
 - [Release v2.0.0 · apache/pekko](https://www.reddit.com/r/scala/comments/1xt79qr/release_v200_apachepekko/)
 - [Scala Hangout - Nov 12th](https://www.reddit.com/r/scala/comments/1xsphds/scala_hangout_nov_12th/)
 - [After 12 years of Scala projects, I open-sourced the backend starter I kept rebuilding](https://www.reddit.com/r/scala/comments/1xsoaef/after_12_years_of_scala_projects_i_opensourced/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Magnum database client v2.0.0 Released](https://www.reddit.com/r/scala/comments/1xqm1kl/magnum_database_client_v200_released/)
 - [IntelliJ Scala Plugin 2026.3 is out](https://www.reddit.com/r/scala/comments/1xpf3q8/intellij_scala_plugin_20263_is_out/)
 - [AnselIQ - A financial reconciliation platform https://anseliq.com/](https://www.reddit.com/r/scala/comments/1xp4ull/anseliq_a_financial_reconciliation_platform/)
-- [GitHub - vic/srs: Experimental bootstrapped Scala3-inspired compiler into portable C with memory management via algebraic effects with handlers and protocols.](https://www.reddit.com/r/scala/comments/1xp1owo/github_vicsrs_experimental_bootstrapped/)
-- [ScalaCSS v1.1.0 released](https://www.reddit.com/r/scala/comments/1xp1n5p/scalacss_v110_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

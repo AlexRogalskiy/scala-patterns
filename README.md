@@ -271,6 +271,8 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [I made a Scala to Go compiler](https://www.reddit.com/r/scala/comments/1xug6lf/i_made_a_scala_to_go_compiler/)
+- [Micronaut Scala 1.0.0 milestone released](https://www.reddit.com/r/scala/comments/1xu8os2/micronaut_scala_100_milestone_released/)
 - [We rewrote an 8-years-old Scala service in Go in 10 days](https://www.reddit.com/r/scala/comments/1xtf9el/we_rewrote_an_8yearsold_scala_service_in_go_in_10/)
 - [NixOs scripts in scala: comparison in effect systems](https://www.reddit.com/r/scala/comments/1xtbxul/nixos_scripts_in_scala_comparison_in_effect/)
 - [Release v2.0.0 · apache/pekko](https://www.reddit.com/r/scala/comments/1xt79qr/release_v200_apachepekko/)
@@ -279,8 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [NamedArguments: a WartRemover wart that flags same-typed positional arguments](https://www.reddit.com/r/scala/comments/1xr2pd7/namedarguments_a_wartremover_wart_that_flags/)
 - [This week in #Scala &lpar;Nov 9, 2026&rpar;](https://www.reddit.com/r/scala/comments/1xqyutv/this_week_in_scala_nov_9_2026/)
 - [Magnum database client v2.0.0 Released](https://www.reddit.com/r/scala/comments/1xqm1kl/magnum_database_client_v200_released/)
-- [IntelliJ Scala Plugin 2026.3 is out](https://www.reddit.com/r/scala/comments/1xpf3q8/intellij_scala_plugin_20263_is_out/)
-- [AnselIQ - A financial reconciliation platform https://anseliq.com/](https://www.reddit.com/r/scala/comments/1xp4ull/anseliq_a_financial_reconciliation_platform/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

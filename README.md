@@ -271,6 +271,9 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Figlet4s 0.4.0](https://www.reddit.com/r/scala/comments/1xvnkoy/figlet4s_040/)
+- [SMILE 7.2.0 on Java 25: Replacing JNI with Project Panama FFM &lpar;OpenBLAS/LAPACK/ONNX&rpar;, Compact Object Headers, and in-process TreeSHAP](https://www.reddit.com/r/scala/comments/1xvhawy/smile_720_on_java_25_replacing_jni_with_project/)
+- [chanterelle 0.1.7 - `.hoist`-ing and other interop goodies](https://www.reddit.com/r/scala/comments/1xv7pc1/chanterelle_017_hoisting_and_other_interop_goodies/)
 - [I made a Scala to Go compiler](https://www.reddit.com/r/scala/comments/1xug6lf/i_made_a_scala_to_go_compiler/)
 - [Micronaut Scala 1.0.0 milestone released](https://www.reddit.com/r/scala/comments/1xu8os2/micronaut_scala_100_milestone_released/)
 - [We rewrote an 8-years-old Scala service in Go in 10 days](https://www.reddit.com/r/scala/comments/1xtf9el/we_rewrote_an_8yearsold_scala_service_in_go_in_10/)
@@ -278,9 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [Release v2.0.0 · apache/pekko](https://www.reddit.com/r/scala/comments/1xt79qr/release_v200_apachepekko/)
 - [Scala Hangout - Nov 12th](https://www.reddit.com/r/scala/comments/1xsphds/scala_hangout_nov_12th/)
 - [After 12 years of Scala projects, I open-sourced the backend starter I kept rebuilding](https://www.reddit.com/r/scala/comments/1xsoaef/after_12_years_of_scala_projects_i_opensourced/)
-- [NamedArguments: a WartRemover wart that flags same-typed positional arguments](https://www.reddit.com/r/scala/comments/1xr2pd7/namedarguments_a_wartremover_wart_that_flags/)
-- [This week in #Scala &lpar;Nov 9, 2026&rpar;](https://www.reddit.com/r/scala/comments/1xqyutv/this_week_in_scala_nov_9_2026/)
-- [Magnum database client v2.0.0 Released](https://www.reddit.com/r/scala/comments/1xqm1kl/magnum_database_client_v200_released/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*

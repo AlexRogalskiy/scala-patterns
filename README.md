@@ -271,6 +271,7 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 ### *Reddit posts*
 
 <!-- REDDIT-POST-LIST:START -->
+- [Thanks for all the work!](https://www.reddit.com/r/scala/comments/1xvzh67/thanks_for_all_the_work/)
 - [Figlet4s 0.4.0](https://www.reddit.com/r/scala/comments/1xvnkoy/figlet4s_040/)
 - [SMILE 7.2.0 on Java 25: Replacing JNI with Project Panama FFM &lpar;OpenBLAS/LAPACK/ONNX&rpar;, Compact Object Headers, and in-process TreeSHAP](https://www.reddit.com/r/scala/comments/1xvhawy/smile_720_on_java_25_replacing_jni_with_project/)
 - [chanterelle 0.1.7 - `.hoist`-ing and other interop goodies](https://www.reddit.com/r/scala/comments/1xv7pc1/chanterelle_017_hoisting_and_other_interop_goodies/)
@@ -280,7 +281,6 @@ and ***Scala Patterns*** ? Consider buying me a coffee :)
 - [NixOs scripts in scala: comparison in effect systems](https://www.reddit.com/r/scala/comments/1xtbxul/nixos_scripts_in_scala_comparison_in_effect/)
 - [Release v2.0.0 · apache/pekko](https://www.reddit.com/r/scala/comments/1xt79qr/release_v200_apachepekko/)
 - [Scala Hangout - Nov 12th](https://www.reddit.com/r/scala/comments/1xsphds/scala_hangout_nov_12th/)
-- [After 12 years of Scala projects, I open-sourced the backend starter I kept rebuilding](https://www.reddit.com/r/scala/comments/1xsoaef/after_12_years_of_scala_projects_i_opensourced/)
 <!-- REDDIT-POST-LIST:END -->
 
 ### *InfoWorld posts*
